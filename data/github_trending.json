@@ -1,56 +1,62 @@
 [
     {
-        "name": "ruvnet/wifi-densepose",
-        "description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "name": "ruvnet/RuView",
+        "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
         "language": "Rust",
-        "stars_today": "5,096 stars today"
-    },
-    {
-        "name": "moeru-ai/airi",
-        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "language": "TypeScript",
-        "stars_today": "1,412 stars today"
-    },
-    {
-        "name": "anthropics/prompt-eng-interactive-tutorial",
-        "description": "Anthropic's Interactive Prompt Engineering Tutorial",
-        "language": "Jupyter Notebook",
-        "stars_today": "526 stars today"
-    },
-    {
-        "name": "ruvnet/ruflo",
-        "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-        "language": "TypeScript",
-        "stars_today": "830 stars today"
-    },
-    {
-        "name": "alibaba/OpenSandbox",
-        "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-        "language": "Python",
-        "stars_today": "1,026 stars today"
-    },
-    {
-        "name": "microsoft/markitdown",
-        "description": "Python tool for converting files and office documents to Markdown.",
-        "language": "Python",
-        "stars_today": "648 stars today"
+        "stars_today": "4,557 stars today"
     },
     {
         "name": "K-Dense-AI/claude-scientific-skills",
         "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
         "language": "Python",
-        "stars_today": "820 stars today"
+        "stars_today": "790 stars today"
+    },
+    {
+        "name": "moeru-ai/airi",
+        "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "language": "TypeScript",
+        "stars_today": "842 stars today"
+    },
+    {
+        "name": "CodebuffAI/codebuff",
+        "description": "Generate code from the terminal!",
+        "language": "TypeScript",
+        "stars_today": "118 stars today"
+    },
+    {
+        "name": "agentscope-ai/agentscope",
+        "description": "Build and run agents you can see, understand and trust.",
+        "language": "Python",
+        "stars_today": "83 stars today"
+    },
+    {
+        "name": "agentscope-ai/ReMe",
+        "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+        "language": "Python",
+        "stars_today": "27 stars today"
+    },
+    {
+        "name": "LMCache/LMCache",
+        "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+        "language": "Python",
+        "stars_today": "140 stars today"
     },
     {
         "name": "superset-sh/superset",
         "description": "IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
         "language": "TypeScript",
-        "stars_today": "585 stars today"
+        "stars_today": "637 stars today"
     },
     {
-        "name": "servo/servo",
-        "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-        "language": "Rust",
-        "stars_today": "45 stars today"
+        "name": "aquasecurity/trivy",
+        "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "language": "Go",
+        "stars_today": "145 stars today"
+    },
+    {
+        "name": "alibaba/OpenSandbox",
+        "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+        "language": "Python",
+        "stars_today": "1,097 stars today"
     }
 ]
