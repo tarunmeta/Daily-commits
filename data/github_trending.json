@@ -1,80 +1,93 @@
-[
+{
+  "meta": {
+    "schema_version": 2,
+    "source_url": "https://github.com/trending",
+    "fetched_at_utc": "2026-03-11 06:45:39 UTC",
+    "fetched_at_ist": "2026-03-11 12:15:39 IST",
+    "item_count": 13,
+    "content_hash": "17122eb1664072e803d2f59ef7838eb936f20cd6326be4073b7d7b456b785fcf",
+    "previous_hash": "d6af0640a192d8252418a2a5f267e039ad6cafd01109147f73670209dcfb0043",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
+  },
+  "repos": [
     {
-        "name": "msitarzewski/agency-agents",
-        "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-        "language": "Shell",
-        "stars_today": "6,235 stars today"
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "6,223 stars today"
     },
     {
-        "name": "666ghj/MiroFish",
-        "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-        "language": "Python",
-        "stars_today": "4,469 stars today"
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars_today": "4,504 stars today"
     },
     {
-        "name": "NousResearch/hermes-agent",
-        "description": "The agent that grows with you",
-        "language": "Python",
-        "stars_today": "776 stars today"
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "781 stars today"
     },
     {
-        "name": "promptfoo/promptfoo",
-        "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-        "language": "TypeScript",
-        "stars_today": "632 stars today"
+      "name": "promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "language": "TypeScript",
+      "stars_today": "661 stars today"
     },
     {
-        "name": "GoogleCloudPlatform/generative-ai",
-        "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-        "language": "Jupyter Notebook",
-        "stars_today": "534 stars today"
+      "name": "GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+      "language": "Jupyter Notebook",
+      "stars_today": "530 stars today"
     },
     {
-        "name": "virattt/ai-hedge-fund",
-        "description": "An AI Hedge Fund Team",
-        "language": "Python",
-        "stars_today": "293 stars today"
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_today": "300 stars today"
     },
     {
-        "name": "karpathy/nanochat",
-        "description": "The best ChatGPT that $100 can buy.",
-        "language": "Python",
-        "stars_today": "709 stars today"
+      "name": "karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "language": "Python",
+      "stars_today": "705 stars today"
     },
     {
-        "name": "obra/superpowers",
-        "description": "An agentic skills framework & software development methodology that works.",
-        "language": "Shell",
-        "stars_today": "1,387 stars today"
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,387 stars today"
     },
     {
-        "name": "alibaba/page-agent",
-        "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-        "language": "TypeScript",
-        "stars_today": "895 stars today"
+      "name": "alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_today": "891 stars today"
     },
     {
-        "name": "sepinf-inc/IPED",
-        "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
-        "language": "Java",
-        "stars_today": "292 stars today"
+      "name": "sepinf-inc/IPED",
+      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
+      "language": "Java",
+      "stars_today": "273 stars today"
     },
     {
-        "name": "openclaw/openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "language": "TypeScript",
-        "stars_today": "9,074 stars today"
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars_today": "9,080 stars today"
     },
     {
-        "name": "pbakaus/impeccable",
-        "description": "The design language that makes your AI harness better at design.",
-        "language": "JavaScript",
-        "stars_today": "932 stars today"
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_today": "939 stars today"
     },
     {
-        "name": "bytedance/deer-flow",
-        "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
-        "language": "Python",
-        "stars_today": "1,443 stars today"
+      "name": "bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars_today": "1,413 stars today"
     }
-]
+  ]
+}

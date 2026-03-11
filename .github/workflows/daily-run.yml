@@ -23,7 +23,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -40,13 +40,12 @@ jobs:
         id: limit_check
         run: |
           TODAY_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d")
-          COUNT=0
-          if [ -f data/auto-commits.log ]; then
-            COUNT=$(grep -c "^$TODAY_IST |" data/auto-commits.log 2>/dev/null || true)
-          fi
+          START_UTC=$(TZ=Asia/Kolkata date -d "$TODAY_IST 00:00:00" -u +"%Y-%m-%dT%H:%M:%SZ")
+          END_UTC=$(TZ=Asia/Kolkata date -d "$TODAY_IST 23:59:59" -u +"%Y-%m-%dT%H:%M:%SZ")
+          COUNT=$(git log --since="$START_UTC" --until="$END_UTC" --no-merges --pretty=%H | wc -l | tr -d ' ')
           echo "count=$COUNT" >> "$GITHUB_OUTPUT"
           echo "today=$TODAY_IST" >> "$GITHUB_OUTPUT"
-          echo "Commits so far today: $COUNT"
+          echo "Commits so far today (git history): $COUNT"
 
       - name: Exit if daily target reached
         if: steps.limit_check.outputs.count >= 100
@@ -91,15 +90,30 @@ jobs:
         if: steps.task.outputs.task == 'news'
         run: python scripts/fetch_hacker_news.py
 
-      - name: Update run health & dashboard
-        run: |
-          python scripts/update_run_health.py
-          python scripts/generate_dashboard.py
-
       - name: Generate learning log entry
-        run: python scripts/update_learning_log.py
+        run: python update_learning_log.py
+
+      - name: Detect meaningful file changes
+        id: detect_changes
+        run: |
+          git add data/github_trending.json data/hacker_news.json data/crypto.json data/learning_log.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            echo "No content changes found in tracked source files."
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+            echo "Meaningful source changes detected."
+          fi
+
+      - name: Refresh run health & dashboard (only when changed)
+        if: steps.detect_changes.outputs.has_changes == 'true'
+        run: |
+          python scripts/update_run_health.py --pending-commit 1
+          python scripts/generate_dashboard.py
+          git add README.md data/run_health.json data/learning_log.md data/github_trending.json data/hacker_news.json data/crypto.json
 
       - name: Commit and push
+        if: steps.detect_changes.outputs.has_changes == 'true'
         run: |
           set -e
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
@@ -108,35 +122,30 @@ jobs:
           TODAY_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d")
           NOW_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d %H:%M:%S IST")
           
-          # Count existing commits today
+          CHANGED_FILES=$(git diff --cached --name-only)
+          TOPICS=()
+          if echo "$CHANGED_FILES" | grep -q "^data/github_trending.json$"; then TOPICS+=("github"); fi
+          if echo "$CHANGED_FILES" | grep -q "^data/hacker_news.json$"; then TOPICS+=("hacker-news"); fi
+          if echo "$CHANGED_FILES" | grep -q "^data/crypto.json$"; then TOPICS+=("crypto"); fi
+          if echo "$CHANGED_FILES" | grep -q "^README.md$"; then TOPICS+=("dashboard"); fi
+          if echo "$CHANGED_FILES" | grep -q "^data/learning_log.md$"; then TOPICS+=("learning-log"); fi
+          if [ ${#TOPICS[@]} -eq 0 ]; then
+            TOPIC_LABEL="engine"
+          else
+            TOPIC_LABEL=$(IFS=', '; echo "${TOPICS[*]}")
+          fi
+
+          # Count existing committed entries today
           COUNT=0
           if [ -f data/auto-commits.log ]; then
             COUNT=$(grep -c "^$TODAY_IST |" data/auto-commits.log 2>/dev/null || true)
           fi
           NEXT=$((COUNT + 1))
 
-          # Append to log
-          echo "$TODAY_IST | commit $NEXT | $NOW_IST" >> data/auto-commits.log
+          echo "$TODAY_IST | commit $NEXT | $NOW_IST | $TOPIC_LABEL" >> data/auto-commits.log
+          git add data/auto-commits.log
 
-          # Generate a meaningful commit message based on task type
-          TASK="${{ steps.task.outputs.task }}"
-          HOUR_IST=$(TZ=Asia/Kolkata date +"%H")
-          
-          case "$TASK" in
-            full_refresh)
-              MSG="📊 Daily feed refresh: GitHub trending + crypto + news [$TODAY_IST #$NEXT]"
-              ;;
-            crypto)
-              MSG="💰 Crypto prices updated [$TODAY_IST #$NEXT]"
-              ;;
-            news)
-              MSG="📰 Hacker News stories refreshed [$TODAY_IST #$NEXT]"
-              ;;
-            *)
-              MSG="🔄 Dashboard sync at ${HOUR_IST}:xx IST [$TODAY_IST #$NEXT]"
-              ;;
-          esac
+          MSG="chore: refresh ${TOPIC_LABEL} signals [$TODAY_IST #$NEXT]"
 
-          git add -A
-          git diff --cached --quiet || git commit -m "$MSG"
+          git commit -m "$MSG"
           git push

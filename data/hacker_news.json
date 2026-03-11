@@ -1,32 +1,50 @@
-[
+{
+  "meta": {
+    "schema_version": 2,
+    "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
+    "fetched_at_utc": "2026-03-11 06:48:08 UTC",
+    "fetched_at_ist": "2026-03-11 12:18:08 IST",
+    "item_count": 5,
+    "content_hash": "c69ebae73365bc052d02fae78f46576efb21c6e78fec2e610b1657c0fbb15e67",
+    "previous_hash": "466795727fc7ec51db860ef3cf521aedf4e3d801525532cad6d52f12a8d3dabf",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
+  },
+  "stories": [
     {
-        "title": "Tony Hoare has died",
-        "url": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
-        "score": 753,
-        "comments": 78
+      "id": 47332074,
+      "title": "Create value for others and don’t worry about the returns",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+      "score": 43,
+      "comments": 6
     },
     {
-        "title": "Show HN: RunAnwhere – Faster AI Inference on Apple Silicon",
-        "url": "https://github.com/RunanywhereAI/rcli",
-        "score": 61,
-        "comments": 12
+      "id": 47330836,
+      "title": "Zig – Type Resolution Redesign and Language Changes",
+      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
+      "score": 144,
+      "comments": 45
     },
     {
-        "title": "I built a programming language using Claude Code",
-        "url": "https://ankursethi.com/blog/programming-language-claude-code/",
-        "score": 31,
-        "comments": 34
+      "id": 47329605,
+      "title": "U+237C ⍼ Is Azimuth",
+      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
+      "score": 248,
+      "comments": 23
     },
     {
-        "title": "Debian decides not to decide on AI-generated contributions",
-        "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-        "score": 147,
-        "comments": 113
+      "id": 47295855,
+      "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+      "url": "https://github.com/gcv/julia-snail",
+      "score": 45,
+      "comments": 6
     },
     {
-        "title": "Intel Demos Chip to Compute with Encrypted Data",
-        "url": "https://spectrum.ieee.org/fhe-intel",
-        "score": 154,
-        "comments": 50
+      "id": 47329557,
+      "title": "Cloudflare crawl endpoint",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+      "score": 233,
+      "comments": 98
     }
-]
+  ]
+}

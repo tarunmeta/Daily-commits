@@ -9,7 +9,7 @@ what you learned each day.
 
 import json
 import os
-from datetime import datetime
+from datetime import UTC, datetime
 from zoneinfo import ZoneInfo
 
 DATA_DIR = "data"
@@ -17,6 +17,7 @@ LOG_PATH = os.path.join(DATA_DIR, "learning_log.md")
 GITHUB_DATA = os.path.join(DATA_DIR, "github_trending.json")
 HN_DATA = os.path.join(DATA_DIR, "hacker_news.json")
 CRYPTO_DATA = os.path.join(DATA_DIR, "crypto.json")
+IST = ZoneInfo("Asia/Kolkata")
 
 
 def load_json(path):
@@ -27,16 +28,127 @@ def load_json(path):
 
 
 def get_today_ist():
-    now = datetime.now(tz=ZoneInfo("Asia/Kolkata"))
+    now = datetime.now(tz=IST)
     return now.strftime("%Y-%m-%d"), now.strftime("%H:%M")
 
 
-def build_todays_entry(today: str, time_str: str) -> str:
-    github = load_json(GITHUB_DATA) or []
-    hn = load_json(HN_DATA) or []
-    crypto = load_json(CRYPTO_DATA) or {}
+def parse_payload(payload, kind):
+    if kind == "github":
+        if isinstance(payload, dict) and isinstance(payload.get("repos"), list):
+            return payload.get("repos", []), payload.get("meta", {}) or {}
+        if isinstance(payload, list):
+            return payload, {}
+        return [], {}
+
+    if kind == "hn":
+        if isinstance(payload, dict) and isinstance(payload.get("stories"), list):
+            return payload.get("stories", []), payload.get("meta", {}) or {}
+        if isinstance(payload, list):
+            return payload, {}
+        return [], {}
+
+    if kind == "crypto":
+        if isinstance(payload, dict) and isinstance(payload.get("assets"), dict):
+            return payload.get("assets", {}), payload.get("meta", {}) or {}
+        if isinstance(payload, dict):
+            return payload, {}
+        return {}, {}
+
+    return [], {}
+
+
+def parse_utc_label(value):
+    if not value:
+        return None
+    try:
+        return datetime.strptime(value, "%Y-%m-%d %H:%M:%S UTC").replace(tzinfo=UTC)
+    except ValueError:
+        return None
+
+
+def resolve_entry_time_ist(*metas):
+    timestamps = []
+    for meta in metas:
+        parsed = parse_utc_label(meta.get("fetched_at_utc", "") if isinstance(meta, dict) else "")
+        if parsed:
+            timestamps.append(parsed.astimezone(IST))
+    if timestamps:
+        latest = max(timestamps)
+        return latest.strftime("%H:%M")
+    return datetime.now(tz=IST).strftime("%H:%M")
+
+
+def short_hash(meta):
+    if not isinstance(meta, dict):
+        return "n/a"
+    content_hash = str(meta.get("content_hash", "") or "")
+    return content_hash[:12] if content_hash else "n/a"
+
+
+def source_item_count(content):
+    if isinstance(content, list):
+        return len(content)
+    if isinstance(content, dict):
+        return len(content)
+    return 0
+
+
+def source_change_summary(kind, meta):
+    if not isinstance(meta, dict):
+        return "legacy payload"
+
+    if kind == "github":
+        new_count = int(meta.get("new_repos_vs_previous", 0) or 0)
+        top_changed = bool(meta.get("top_repo_changed", False))
+        return f"+{new_count} new repos, top changed: {'yes' if top_changed else 'no'}"
+
+    if kind == "hn":
+        new_count = int(meta.get("new_story_ids_vs_previous", 0) or 0)
+        top_changed = bool(meta.get("top_story_changed", False))
+        return f"+{new_count} new stories, top changed: {'yes' if top_changed else 'no'}"
+
+    moved = int(meta.get("assets_changed_vs_previous", 0) or 0)
+    mover = str(meta.get("largest_move_asset", "") or "n/a")
+    return f"{moved} assets moved, biggest mover: {mover}"
+
+
+def build_todays_entry(today: str) -> str:
+    github_payload = load_json(GITHUB_DATA) or []
+    hn_payload = load_json(HN_DATA) or []
+    crypto_payload = load_json(CRYPTO_DATA) or {}
+
+    github, github_meta = parse_payload(github_payload, "github")
+    hn, hn_meta = parse_payload(hn_payload, "hn")
+    crypto, crypto_meta = parse_payload(crypto_payload, "crypto")
+    time_str = resolve_entry_time_ist(github_meta, hn_meta, crypto_meta)
 
     lines = [f"\n## 📅 {today} (last updated: {time_str} IST)\n"]
+
+    lines.append("### 🧪 Source Integrity Snapshot")
+    lines.append("| Source | Items | Last Fetch (IST) | Hash | Change Signal |")
+    lines.append("| :--- | ---: | :--- | :--- | :--- |")
+    lines.append(
+        f"| GitHub Trending | {source_item_count(github)} | "
+        f"{github_meta.get('fetched_at_ist', 'Unknown')} | {short_hash(github_meta)} | "
+        f"{source_change_summary('github', github_meta)} |"
+    )
+    lines.append(
+        f"| Hacker News | {source_item_count(hn)} | "
+        f"{hn_meta.get('fetched_at_ist', 'Unknown')} | {short_hash(hn_meta)} | "
+        f"{source_change_summary('hn', hn_meta)} |"
+    )
+    lines.append(
+        f"| Crypto | {source_item_count(crypto)} | "
+        f"{crypto_meta.get('fetched_at_ist', 'Unknown')} | {short_hash(crypto_meta)} | "
+        f"{source_change_summary('crypto', crypto_meta)} |"
+    )
+    lines.append("")
+
+    lines.append("### 🔎 What Changed Since Previous Snapshot")
+    lines.append(f"- GitHub: {source_change_summary('github', github_meta)}")
+    lines.append(f"- Hacker News: {source_change_summary('hn', hn_meta)}")
+    lines.append(f"- Crypto: {source_change_summary('crypto', crypto_meta)}")
+    lines.append("")
 
     # Top repos
     if github:
@@ -75,7 +187,7 @@ def build_todays_entry(today: str, time_str: str) -> str:
 
 
 def update_log():
-    today, time_str = get_today_ist()
+    today, _ = get_today_ist()
 
     # Read existing log
     existing = ""
@@ -85,7 +197,7 @@ def update_log():
 
     todays_section_header = f"## 📅 {today}"
 
-    new_entry = build_todays_entry(today, time_str)
+    new_entry = build_todays_entry(today)
 
     if todays_section_header in existing:
         # Replace today's existing entry with updated one
@@ -101,9 +213,8 @@ def update_log():
                 break
 
         if start_idx is not None:
-            before = "\n".join(lines[:start_idx])
-            after = "\n".join(lines[end_idx:])
-            updated = before + new_entry + "\n" + after
+            new_lines = lines[:start_idx] + new_entry.split("\n") + lines[end_idx:]
+            updated = "\n".join(new_lines)
         else:
             updated = existing + new_entry
     else:
@@ -118,7 +229,7 @@ def update_log():
 
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(LOG_PATH, "w", encoding="utf-8") as f:
-        f.write(updated)
+        f.write(updated.rstrip() + "\n")
 
     print(f"Learning log updated for {today}.")
 
