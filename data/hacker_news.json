@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-11 12:39:48 UTC",
-    "fetched_at_ist": "2026-03-11 18:09:48 IST",
+    "fetched_at_utc": "2026-03-11 14:40:53 UTC",
+    "fetched_at_ist": "2026-03-11 20:10:53 IST",
     "item_count": 5,
-    "content_hash": "5815b7a7fb5faee71b5c81c11f90121793b9206cf3c44bdd537018838186392c",
-    "previous_hash": "631f02e96913ee21bbc2b69515fa605af552fc24d1b79179267a8c1cb051f2df",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "384c1697d1e8844cc9ae173b93b083743d1a9b459cb6042e309ef5fcd07c56d6",
+    "previous_hash": "5815b7a7fb5faee71b5c81c11f90121793b9206cf3c44bdd537018838186392c",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47291574,
-      "title": "Building a TB-303 from Scratch",
-      "url": "https://loopmaster.xyz/tutorials/tb303-from-scratch",
-      "score": 102,
-      "comments": 30
+      "id": 47335237,
+      "title": "Lego's 0.002 mm Specification and Its Implications for Manufacturing (2025)",
+      "url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
+      "score": 83,
+      "comments": 51
     },
     {
-      "id": 47330836,
-      "title": "Zig – Type Resolution Redesign and Language Changes",
-      "url": "https://ziglang.org/devlog/2026/#2026-03-10",
-      "score": 287,
-      "comments": 117
+      "id": 47334694,
+      "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
+      "url": "https://github.com/microsoft/BitNet",
+      "score": 114,
+      "comments": 68
     },
     {
-      "id": 47332074,
-      "title": "Create value for others and don’t worry about the returns",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-      "score": 433,
-      "comments": 274
+      "id": 47335349,
+      "title": "The entities enabling scientific fraud at scale are large, resilient and growing",
+      "url": "https://doi.org/10.1073/pnas.2420092122",
+      "score": 36,
+      "comments": 8
     },
     {
-      "id": 47329605,
-      "title": "U+237C ⍼ Is Azimuth",
-      "url": "https://ionathan.ch/2026/02/16/angzarr.html",
-      "score": 337,
-      "comments": 53
+      "id": 47335572,
+      "title": "Whistleblower: DOGE member took Social Security data to new job",
+      "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
+      "score": 140,
+      "comments": 51
     },
     {
-      "id": 47329557,
-      "title": "Cloudflare crawl endpoint",
-      "url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-      "score": 344,
-      "comments": 134
+      "id": 47296255,
+      "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
+      "url": "https://peppy.bot/",
+      "score": 34,
+      "comments": 7
     }
   ]
 }
