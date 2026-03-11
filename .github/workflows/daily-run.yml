@@ -1,24 +1,29 @@
-name: Daily Automation Intelligence
+name: Daily Intelligence Engine
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '2/5 * * * *' # every 5 minutes, offset from top-of-hour congestion
+    # Every 15 minutes throughout the day = 96 runs/day
+    # This gives ~96 potential commits, well distributed
+    - cron: '0/15 * * * *'
   workflow_dispatch:
 
 concurrency:
-  group: daily-automation-intelligence
+  group: daily-intelligence
   cancel-in-progress: false
 
 jobs:
   run-automation:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,57 +34,109 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install -r requirements.txt
 
-      - name: Decide Feed Refresh Window
-        id: feed_window
+      - name: Check daily limit (IST)
+        id: limit_check
         run: |
-          MINUTE_UTC=$(date -u +"%M")
-          HOUR_UTC=$(date -u +"%H")
-          if [ "$MINUTE_UTC" -lt 5 ] && { [ "$HOUR_UTC" = "00" ] || [ "$HOUR_UTC" = "06" ] || [ "$HOUR_UTC" = "12" ] || [ "$HOUR_UTC" = "18" ]; }; then
-            echo "refresh=true" >> "$GITHUB_OUTPUT"
+          TODAY_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d")
+          COUNT=0
+          if [ -f data/auto-commits.log ]; then
+            COUNT=$(grep -c "^$TODAY_IST |" data/auto-commits.log 2>/dev/null || true)
+          fi
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+          echo "today=$TODAY_IST" >> "$GITHUB_OUTPUT"
+          echo "Commits so far today: $COUNT"
+
+      - name: Exit if daily target reached
+        if: steps.limit_check.outputs.count >= 100
+        run: |
+          echo "✅ Daily target of 100 commits reached. Exiting."
+          exit 0
+
+      - name: Decide what to run this cycle
+        id: task
+        run: |
+          # Based on current UTC minute, decide which task to run
+          # This creates natural variety in what each commit does
+          MINUTE=$(date -u +"%M" | sed 's/^0//')
+          HOUR=$(date -u +"%H" | sed 's/^0//')
+          
+          # Every 6 hours, refresh all feeds (4 times a day)
+          if [ "$MINUTE" -lt 15 ] && { [ "$HOUR" = "0" ] || [ "$HOUR" = "6" ] || [ "$HOUR" = "12" ] || [ "$HOUR" = "18" ]; }; then
+            echo "task=full_refresh" >> "$GITHUB_OUTPUT"
+          # Every hour at :15, refresh crypto only (prices change often)
+          elif [ "$MINUTE" -ge 15 ] && [ "$MINUTE" -lt 30 ]; then
+            echo "task=crypto" >> "$GITHUB_OUTPUT"
+          # Every hour at :30, refresh hacker news
+          elif [ "$MINUTE" -ge 30 ] && [ "$MINUTE" -lt 45 ]; then
+            echo "task=news" >> "$GITHUB_OUTPUT"
+          # Every hour at :45, just update health + dashboard
           else
-            echo "refresh=false" >> "$GITHUB_OUTPUT"
+            echo "task=heartbeat" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Run GitHub Trending Fetcher
-        if: steps.feed_window.outputs.refresh == 'true'
-        run: python scripts/fetch_github_trending.py
+      - name: Full Refresh (GitHub + Crypto + News)
+        if: steps.task.outputs.task == 'full_refresh'
+        run: |
+          python scripts/fetch_github_trending.py
+          python scripts/fetch_crypto_data.py
+          python scripts/fetch_hacker_news.py
 
-      - name: Run Crypto Data Fetcher
-        if: steps.feed_window.outputs.refresh == 'true'
+      - name: Crypto Only Refresh
+        if: steps.task.outputs.task == 'crypto'
         run: python scripts/fetch_crypto_data.py
 
-      - name: Run Hacker News Fetcher
-        if: steps.feed_window.outputs.refresh == 'true'
+      - name: News Only Refresh
+        if: steps.task.outputs.task == 'news'
         run: python scripts/fetch_hacker_news.py
 
-      - name: Create Auto Commit and Push
+      - name: Update run health & dashboard
+        run: |
+          python scripts/update_run_health.py
+          python scripts/generate_dashboard.py
+
+      - name: Generate learning log entry
+        run: python scripts/update_learning_log.py
+
+      - name: Commit and push
         run: |
           set -e
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
 
-          mkdir -p data
           TODAY_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d")
           NOW_IST=$(TZ=Asia/Kolkata date +"%Y-%m-%d %H:%M:%S IST")
-          CURRENT_COUNT=0
-
+          
+          # Count existing commits today
+          COUNT=0
           if [ -f data/auto-commits.log ]; then
-            CURRENT_COUNT=$(grep -c "^$TODAY_IST |" data/auto-commits.log || true)
+            COUNT=$(grep -c "^$TODAY_IST |" data/auto-commits.log 2>/dev/null || true)
           fi
+          NEXT=$((COUNT + 1))
 
-          if [ "$CURRENT_COUNT" -ge 100 ]; then
-            echo "Daily target already reached for $TODAY_IST (IST): $CURRENT_COUNT commits."
-            exit 0
-          fi
+          # Append to log
+          echo "$TODAY_IST | commit $NEXT | $NOW_IST" >> data/auto-commits.log
 
-          NEXT_COUNT=$((CURRENT_COUNT + 1))
-          echo "$TODAY_IST | commit $NEXT_COUNT | $NOW_IST" >> data/auto-commits.log
+          # Generate a meaningful commit message based on task type
+          TASK="${{ steps.task.outputs.task }}"
+          HOUR_IST=$(TZ=Asia/Kolkata date +"%H")
+          
+          case "$TASK" in
+            full_refresh)
+              MSG="📊 Daily feed refresh: GitHub trending + crypto + news [$TODAY_IST #$NEXT]"
+              ;;
+            crypto)
+              MSG="💰 Crypto prices updated [$TODAY_IST #$NEXT]"
+              ;;
+            news)
+              MSG="📰 Hacker News stories refreshed [$TODAY_IST #$NEXT]"
+              ;;
+            *)
+              MSG="🔄 Dashboard sync at ${HOUR_IST}:xx IST [$TODAY_IST #$NEXT]"
+              ;;
+          esac
 
-          python scripts/update_run_health.py
-          python scripts/generate_dashboard.py
-
-          git add data/*.json README.md data/auto-commits.log
-          git commit -m "Auto contribution $TODAY_IST #$NEXT_COUNT at $(TZ=Asia/Kolkata date +"%H:%M")"
+          git add -A
+          git diff --cached --quiet || git commit -m "$MSG"
           git push
