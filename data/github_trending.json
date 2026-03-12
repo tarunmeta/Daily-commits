@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-11 18:02:36 UTC",
-    "fetched_at_ist": "2026-03-11 23:32:36 IST",
+    "fetched_at_utc": "2026-03-12 06:05:24 UTC",
+    "fetched_at_ist": "2026-03-12 11:35:24 IST",
     "item_count": 9,
-    "content_hash": "2ae83494f551deb46df84e26416150c34db13fc0879180bbe3c4df540ba873f2",
-    "previous_hash": "17122eb1664072e803d2f59ef7838eb936f20cd6326be4073b7d7b456b785fcf",
-    "new_repos_vs_previous": 2,
+    "content_hash": "59319d3182aa743114e50182497ca2133953c659cac4fd531f853f4c476f26fe",
+    "previous_hash": "2ae83494f551deb46df84e26416150c34db13fc0879180bbe3c4df540ba873f2",
+    "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,55 +15,55 @@
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "6,205 stars today"
+      "stars_today": "6,167 stars today"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars_today": "2,909 stars today"
+      "stars_today": "2,907 stars today"
     },
     {
       "name": "promptfoo/promptfoo",
       "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
       "language": "TypeScript",
-      "stars_today": "728 stars today"
+      "stars_today": "718 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,477 stars today"
+      "stars_today": "1,483 stars today"
     },
     {
       "name": "fishaudio/fish-speech",
       "description": "SOTA Open Source TTS",
       "language": "Python",
-      "stars_today": "277 stars today"
+      "stars_today": "313 stars today"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars_today": "633 stars today"
+      "stars_today": "636 stars today"
     },
     {
       "name": "alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars_today": "1,206 stars today"
+      "stars_today": "1,215 stars today"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "1,204 stars today"
+      "stars_today": "1,234 stars today"
     },
     {
       "name": "AstrBotDevs/AstrBot",
       "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars_today": "391 stars today"
+      "stars_today": "342 stars today"
     }
   ]
 }

@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-12 03:39:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-12 06:05:25 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **msitarzewski/agency-agents**
-- BTC: **$70,420.0** ↑ (+0.82%)
+- BTC: **$69,398.0** ↓ (-0.31%)
 - HN top story: **Show HN: s@: decentralized social networking over static sites**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-11 18:02:36 UTC | `2ae83494f551` | +2 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-12 03:39:53 UTC | `903339db3637` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-11 23:18:10 UTC | `b86e4a3e6f1b` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 9 | 2026-03-12 06:05:24 UTC | `59319d3182aa` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-12 06:05:25 UTC | `27ba61aed194` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-03-12 06:05:25 UTC | `315fefb5290f` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +2 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-12` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `21` day(s) |
-| Last Commit (IST) | `2026-03-12 09:09:53 IST` |
+| Last Commit (IST) | `2026-03-12 10:36:44 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-09 | 30 | `██████░░░░░░░░░░░░░░` 30% |
 | 2026-03-10 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 | 2026-03-11 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-12 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-03-12 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $70,420.0 | +0.82% | 🟢 |
-| Ethereum | $2,060.59 | +1.27% | 🟢 |
-| Solana | $87.1 | +1.62% | 🟢 |
-| Bnb | $652.43 | +1.52% | 🟢 |
+| Bitcoin | $69,398.0 | -0.31% | 🔴 |
+| Ethereum | $2,026.38 | +0.45% | 🟢 |
+| Solana | $85.08 | -0.79% | 🔴 |
+| Bnb | $643.77 | +0.74% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 6,205 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 2,909 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | 728 stars today | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,477 stars today | An agentic skills framework & software development methodology that works. |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 277 stars today | SOTA Open Source TTS |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 633 stars today | An AI Hedge Fund Team |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 1,206 stars today | JavaScript in-page GUI agent. Control web interfaces with natural language. |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,204 stars today | The agent that grows with you |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 6,167 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 2,907 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
+| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | 718 stars today | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,483 stars today | An agentic skills framework & software development methodology that works. |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 313 stars today | SOTA Open Source TTS |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 636 stars today | An AI Hedge Fund Team |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | 1,215 stars today | JavaScript in-page GUI agent. Control web interfaces with natural language. |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,234 stars today | The agent that grows with you |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) | 82 | 22 |
-| [Temporal: The 9-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) | 561 | 184 |
-| [Many SWE-bench-Passing PRs would not be merged](https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/) | 170 | 57 |
-| [Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/) | 58 | 4 |
-| [Don't post generated/AI-edited comments. HN is for conversation between humans](https://news.ycombinator.com/newsguidelines.html#generated) | 2982 | 1110 |
+| [Show HN: s@: decentralized social networking over static sites](http://satproto.org/) | 172 | 63 |
+| [WireGuard Is Two Things](https://www.proxylity.com/articles/wireguard-is-two-things.html) | 26 | 3 |
+| [Temporal: The 9-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) | 600 | 198 |
+| [Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/) | 103 | 10 |
+| [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/) | 484 | 168 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
