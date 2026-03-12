@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-12 08:32:58 UTC",
-    "fetched_at_ist": "2026-03-12 14:02:58 IST",
+    "fetched_at_utc": "2026-03-12 11:33:12 UTC",
+    "fetched_at_ist": "2026-03-12 17:03:12 IST",
     "item_count": 5,
-    "content_hash": "009ce05938f80a2e136080efad25181ba4c512d50c70e9dc39e37b301c153a86",
-    "previous_hash": "27ba61aed194d628a3e35e68c705b9fedfc880a4fba68bc65bd57b9917f6e154",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "01a64d5a84aab15887029fd22d3a3125019bef4e28ad0277f4754fbf0f0a4ea7",
+    "previous_hash": "009ce05938f80a2e136080efad25181ba4c512d50c70e9dc39e37b301c153a86",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47347945,
+      "title": "3D-Knitting: The Ultimate Guide",
+      "url": "https://www.oliver-charles.com/pages/3d-knitting",
+      "score": 85,
+      "comments": 28
+    },
+    {
+      "id": 47348192,
+      "title": "Avoiding Trigonometry (2013)",
+      "url": "https://iquilezles.org/articles/noacos/",
+      "score": 39,
+      "comments": 6
+    },
+    {
+      "id": 47347064,
+      "title": "Returning to Rails in 2026",
+      "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+      "score": 160,
+      "comments": 87
+    },
     {
       "id": 47344548,
       "title": "Show HN: s@: decentralized social networking over static sites",
       "url": "http://satproto.org/",
-      "score": 243,
-      "comments": 93
+      "score": 306,
+      "comments": 128
     },
     {
       "id": 47347362,
       "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
       "url": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
-      "score": 15,
-      "comments": 1
-    },
-    {
-      "id": 47310617,
-      "title": "Datahäxan",
-      "url": "https://0dd.company/galleries/witches/7.html",
-      "score": 50,
-      "comments": 4
-    },
-    {
-      "id": 47336989,
-      "title": "Temporal: The 9-year journey to fix time in JavaScript",
-      "url": "https://bloomberg.github.io/js-blog/post/temporal/",
-      "score": 656,
-      "comments": 207
-    },
-    {
-      "id": 47331811,
-      "title": "Making WebAssembly a first-class language on the Web",
-      "url": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
-      "score": 534,
-      "comments": 183
+      "score": 60,
+      "comments": 32
     }
   ]
 }
