@@ -33,18 +33,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-13 (last updated: 18:49 IST)
+
+## 📅 2026-03-13 (last updated: 23:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-13 11:32:39 IST | 525c1690e7ef | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-13 18:08:03 IST | 1abc40ccf6dd | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-13 23:06:21 IST | 214c6ceecc38 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-13 18:49:58 IST | b950d81c5558 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -60,11 +61,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 217 stars today
 
 ### 📰 Hacker News Stories
-- [Bucketsquatting is (finally) dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead) — Score: 142
-- [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/) — Score: 254
-- [Prompt-caching – auto-injects Anthropic cache breakpoints (90% token savings)](https://prompt-caching.ai/) — Score: 21
-- [Willingness to look stupid](https://sharif.io/looking-stupid) — Score: 430
-- [TUI Studio – visual terminal UI design tool](https://tui.studio/) — Score: 32
+- [Meta Platforms: Lobbying, dark money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings) — Score: 952
+- [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv) — Score: 50
+- [Can I run AI locally?](https://www.canirun.ai/) — Score: 217
+- [TUI Studio – visual terminal UI design tool](https://tui.studio/) — Score: 386
+- [Launch HN: Captain (YC W26) – Automated RAG for Files](https://www.runcaptain.com/) — Score: 23
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,050.0 🟢 +3.73%
