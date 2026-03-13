@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-13 17:36:21 UTC",
-    "fetched_at_ist": "2026-03-13 23:06:21 IST",
+    "fetched_at_utc": "2026-03-13 20:37:29 UTC",
+    "fetched_at_ist": "2026-03-14 02:07:29 IST",
     "item_count": 5,
-    "content_hash": "214c6ceecc3864e33bb09f0a028cdff5be69a1f60d877f54f098cc6908e8d816",
-    "previous_hash": "1abc40ccf6dd5cd240faaea05595d78e32952879a7dd34cc421b5ebfa3f4d33f",
+    "content_hash": "31d77e8ebd3ba34c916a35dbbcda5e13c818c79e306f61ab6ad7107d86ddfe35",
+    "previous_hash": "214c6ceecc3864e33bb09f0a028cdff5be69a1f60d877f54f098cc6908e8d816",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47362528,
-      "title": "Meta Platforms: Lobbying, dark money, and the App Store Accountability Act",
-      "url": "https://github.com/upper-up/meta-lobbying-and-other-findings",
-      "score": 952,
-      "comments": 411
-    },
-    {
       "id": 47336100,
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
       "url": "https://channelsurfer.tv",
-      "score": 50,
-      "comments": 39
+      "score": 229,
+      "comments": 95
     },
     {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
-      "score": 217,
-      "comments": 46
+      "score": 556,
+      "comments": 139
     },
     {
-      "id": 47362613,
-      "title": "TUI Studio – visual terminal UI design tool",
-      "url": "https://tui.studio/",
-      "score": 386,
-      "comments": 222
+      "id": 47367932,
+      "title": "Hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "score": 78,
+      "comments": 29
     },
     {
-      "id": 47366011,
-      "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
-      "url": "https://www.runcaptain.com/",
-      "score": 23,
-      "comments": 6
+      "id": 47368430,
+      "title": "Stanford researchers report first recording of a blue whale's heart rate (2019)",
+      "url": "https://news.stanford.edu/stories/2019/11/first-ever-recording-blue-whales-heart-rate",
+      "score": 17,
+      "comments": 4
+    },
+    {
+      "id": 47363584,
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "score": 220,
+      "comments": 206
     }
   ]
 }
