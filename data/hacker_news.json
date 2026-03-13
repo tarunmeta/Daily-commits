@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-13 22:35:39 UTC",
-    "fetched_at_ist": "2026-03-14 04:05:39 IST",
+    "fetched_at_utc": "2026-03-13 23:43:51 UTC",
+    "fetched_at_ist": "2026-03-14 05:13:51 IST",
     "item_count": 5,
-    "content_hash": "f151f30ab1b225293bc6d79f784a55a26b874a9e8f5c86c3465e207dc0d3d687",
-    "previous_hash": "31d77e8ebd3ba34c916a35dbbcda5e13c818c79e306f61ab6ad7107d86ddfe35",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "9334f9cbf94de63697a9d528496b576630b114e7e14a112727bb589430ff5c42",
+    "previous_hash": "f151f30ab1b225293bc6d79f784a55a26b874a9e8f5c86c3465e207dc0d3d687",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47336100,
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "url": "https://channelsurfer.tv",
-      "score": 345,
-      "comments": 125
+      "id": 47371064,
+      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
+      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+      "score": 28,
+      "comments": 9
     },
     {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
-      "score": 722,
-      "comments": 210
+      "score": 825,
+      "comments": 225
+    },
+    {
+      "id": 47370822,
+      "title": "Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group",
+      "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
+      "score": 45,
+      "comments": 4
+    },
+    {
+      "id": 47336100,
+      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+      "url": "https://channelsurfer.tv",
+      "score": 376,
+      "comments": 131
     },
     {
       "id": 47368033,
       "title": "Mouser: An open source alternative to Logi-Plus mouse software",
       "url": "https://github.com/TomBadash/MouseControl",
-      "score": 101,
-      "comments": 42
-    },
-    {
-      "id": 47367932,
-      "title": "Hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "score": 149,
-      "comments": 59
-    },
-    {
-      "id": 47363584,
-      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-      "score": 308,
-      "comments": 299
+      "score": 140,
+      "comments": 50
     }
   ]
 }
