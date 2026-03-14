@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-14 14:31:23 UTC",
-    "fetched_at_ist": "2026-03-14 20:01:23 IST",
+    "fetched_at_utc": "2026-03-14 15:42:37 UTC",
+    "fetched_at_ist": "2026-03-14 21:12:37 IST",
     "item_count": 5,
-    "content_hash": "bd64e6321124a2c48351835ee466727d0c44200e52d4a9068c188b77a57aa297",
-    "previous_hash": "e3f335f07607a7aa130172bfd02662a101211a5b00a3e8a2156f4fd49b1c8344",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "fafa3c7ad3b3e4a96c144243e7f0a6d8ded1ed370e5f3fe4bf3e28d4aa9bd7b0",
+    "previous_hash": "bd64e6321124a2c48351835ee466727d0c44200e52d4a9068c188b77a57aa297",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47375764,
-      "title": "XML Is a Cheap DSL",
-      "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
-      "score": 109,
-      "comments": 72
-    },
-    {
       "id": 47367129,
       "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
       "url": "https://claude.com/blog/1m-context-ga",
-      "score": 881,
-      "comments": 339
+      "score": 951,
+      "comments": 369
+    },
+    {
+      "id": 47376767,
+      "title": "Montana Leads the Nation with Groundbreaking Right to Compute Act",
+      "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
+      "score": 34,
+      "comments": 17
     },
     {
       "id": 47339219,
       "title": "Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About",
       "url": "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about",
-      "score": 112,
-      "comments": 16
+      "score": 148,
+      "comments": 18
     },
     {
       "id": 47327703,
       "title": "Python: The Optimization Ladder",
       "url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
-      "score": 51,
-      "comments": 8
+      "score": 91,
+      "comments": 19
     },
     {
-      "id": 47374745,
-      "title": "Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware",
-      "url": "https://github.com/drojaazu/megadev",
-      "score": 50,
-      "comments": 0
+      "id": 47375764,
+      "title": "XML Is a Cheap DSL",
+      "url": "https://unplannedobsolescence.com/blog/xml-cheap-dsl/",
+      "score": 151,
+      "comments": 120
     }
   ]
 }

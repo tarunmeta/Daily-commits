@@ -28,18 +28,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-14 (last updated: 20:01 IST)
+
+## 📅 2026-03-14 (last updated: 21:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-03-14 05:32:58 IST | e266611faf58 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-14 20:01:23 IST | bd64e6321124 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-14 21:12:37 IST | fafa3c7ad3b3 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-14 16:55:47 IST | 20b4239e0c81 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -55,11 +56,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/) — Score: 109
-- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) — Score: 881
-- [Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about) — Score: 112
-- [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/) — Score: 51
-- [Megadev: A Development Kit for the Sega Mega Drive and Mega CD Hardware](https://github.com/drojaazu/megadev) — Score: 50
+- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) — Score: 951
+- [Montana Leads the Nation with Groundbreaking Right to Compute Act](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/) — Score: 34
+- [Baochip-1x: What It Is, Why I'm Doing It Now and How It Came About](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about) — Score: 148
+- [Python: The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/) — Score: 91
+- [XML Is a Cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/) — Score: 151
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,670.0 🔴 -2.35%
