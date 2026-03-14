@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-13 23:43:51 UTC",
-    "fetched_at_ist": "2026-03-14 05:13:51 IST",
+    "fetched_at_utc": "2026-03-14 00:03:00 UTC",
+    "fetched_at_ist": "2026-03-14 05:33:00 IST",
     "item_count": 5,
-    "content_hash": "9334f9cbf94de63697a9d528496b576630b114e7e14a112727bb589430ff5c42",
-    "previous_hash": "f151f30ab1b225293bc6d79f784a55a26b874a9e8f5c86c3465e207dc0d3d687",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "e7a3621fbfcd3e770cda62dc0eca8e4ed78033db09cbcc67ec50f38059b2ccce",
+    "previous_hash": "9334f9cbf94de63697a9d528496b576630b114e7e14a112727bb589430ff5c42",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47371064,
       "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
       "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "score": 28,
+      "score": 34,
+      "comments": 9
+    },
+    {
+      "id": 47370822,
+      "title": "Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group",
+      "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
+      "score": 69,
       "comments": 9
     },
     {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
-      "score": 825,
-      "comments": 225
-    },
-    {
-      "id": 47370822,
-      "title": "Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group",
-      "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
-      "score": 45,
-      "comments": 4
+      "score": 853,
+      "comments": 226
     },
     {
       "id": 47336100,
       "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
       "url": "https://channelsurfer.tv",
-      "score": 376,
-      "comments": 131
+      "score": 386,
+      "comments": 133
     },
     {
       "id": 47368033,
       "title": "Mouser: An open source alternative to Logi-Plus mouse software",
       "url": "https://github.com/TomBadash/MouseControl",
-      "score": 140,
-      "comments": 50
+      "score": 150,
+      "comments": 52
     }
   ]
 }

@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-13 06:02:39 UTC",
-    "fetched_at_ist": "2026-03-13 11:32:39 IST",
-    "item_count": 13,
-    "content_hash": "525c1690e7efff5036506dbc3ef96b2638d5970c72c3fc9378fca990a6c726aa",
-    "previous_hash": "0951bc8129638487b961684d973f97c3ae356a78bfc347e856cb2d6d470fde56",
-    "new_repos_vs_previous": 0,
+    "fetched_at_utc": "2026-03-14 00:02:58 UTC",
+    "fetched_at_ist": "2026-03-14 05:32:58 IST",
+    "item_count": 16,
+    "content_hash": "e266611faf58a84a98ad0c8a506dd22faf78d933c67f8f2fd43bcb9333ae69ef",
+    "previous_hash": "525c1690e7efff5036506dbc3ef96b2638d5970c72c3fc9378fca990a6c726aa",
+    "new_repos_vs_previous": 5,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,79 +15,97 @@
       "name": "microsoft/BitNet",
       "description": "Official inference framework for 1-bit LLMs",
       "language": "Python",
-      "stars_today": "2,149 stars today"
-    },
-    {
-      "name": "fishaudio/fish-speech",
-      "description": "SOTA Open Source TTS",
-      "language": "Python",
-      "stars_today": "637 stars today"
+      "stars_today": "2,227 stars today"
     },
     {
       "name": "langflow-ai/openrag",
       "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
       "language": "Python",
-      "stars_today": "322 stars today"
+      "stars_today": "905 stars today"
     },
     {
-      "name": "InsForge/InsForge",
-      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
-      "language": "TypeScript",
-      "stars_today": "263 stars today"
-    },
-    {
-      "name": "vectorize-io/hindsight",
-      "description": "Hindsight: Agent Memory That Learns",
-      "language": "Python",
-      "stars_today": "217 stars today"
-    },
-    {
-      "name": "alibaba/page-agent",
-      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "language": "TypeScript",
-      "stars_today": "1,205 stars today"
+      "name": "lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars_today": "2,093 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,706 stars today"
+      "stars_today": "2,106 stars today"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_today": "1,264 stars today"
+      "stars_today": "892 stars today"
     },
     {
-      "name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "stars_today": "1,857 stars today"
-    },
-    {
-      "name": "google-ai-edge/LiteRT",
-      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-      "language": "C++",
-      "stars_today": "13 stars today"
+      "name": "promptfoo/promptfoo",
+      "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+      "language": "TypeScript",
+      "stars_today": "1,668 stars today"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "4,168 stars today"
+      "stars_today": "5,745 stars today"
+    },
+    {
+      "name": "dolthub/dolt",
+      "description": "Dolt – Git for Data",
+      "language": "Go",
+      "stars_today": "60 stars today"
     },
     {
       "name": "google/A2UI",
       "description": "No description",
       "language": "TypeScript",
-      "stars_today": "225 stars today"
+      "stars_today": "635 stars today"
+    },
+    {
+      "name": "fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "stars_today": "559 stars today"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars_today": "1,468 stars today"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "150 stars today"
+      "stars_today": "654 stars today"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "language": "Python",
+      "stars_today": "1,128 stars today"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars_today": "595 stars today"
+    },
+    {
+      "name": "InsForge/InsForge",
+      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+      "language": "TypeScript",
+      "stars_today": "766 stars today"
+    },
+    {
+      "name": "google-ai-edge/LiteRT",
+      "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+      "language": "C++",
+      "stars_today": "211 stars today"
     }
   ]
 }
