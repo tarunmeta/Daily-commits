@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-14 (last updated: 13:06 IST)
+
+## 📅 2026-03-14 (last updated: 15:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-03-14 05:32:58 IST | e266611faf58 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-14 13:06:22 IST | 81874a7cb5d0 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-14 15:05:24 IST | e3f335f07607 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-14 05:32:59 IST | d404ef0322c9 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 892 stars today
 
 ### 📰 Hacker News Stories
-- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) — Score: 578
-- [Can I run AI locally?](https://www.canirun.ai/) — Score: 1163
-- [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/) — Score: 43
-- [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/) — Score: 91
-- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock) — Score: 525
+- [Age Verification Lobbying: Dark Money, Model Legislation, Institutional Capture](https://tboteproject.com) — Score: 31
+- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) — Score: 678
+- [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/) — Score: 79
+- [You gotta think outside the hypercube](https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube) — Score: 49
+- [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/) — Score: 126
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,889.0 🟢 +0.56%
