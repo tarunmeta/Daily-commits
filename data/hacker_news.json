@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-14 20:31:07 UTC",
-    "fetched_at_ist": "2026-03-15 02:01:07 IST",
+    "fetched_at_utc": "2026-03-14 21:41:53 UTC",
+    "fetched_at_ist": "2026-03-15 03:11:53 IST",
     "item_count": 5,
-    "content_hash": "0528f6f07d309306ceef6c9daa65e13733a47760e76592fb81fd8ae390b1fdb8",
-    "previous_hash": "a5ff5ca241e4654cec5b8b36ba80de80889a2d056f12e07ed0baf9fbc42e0b82",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "502fef8635cf33e7c85e208299c7a589bcc7b559d33991dd13d77e6cb53288c0",
+    "previous_hash": "0528f6f07d309306ceef6c9daa65e13733a47760e76592fb81fd8ae390b1fdb8",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47379712,
-      "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
-      "url": "https://hostilevolume.com/",
-      "score": 35,
-      "comments": 17
-    },
-    {
-      "id": 47380465,
-      "title": "Gimp 3.2 Released",
-      "url": "https://www.gimp.org/news/2026/03/14/gimp-3-2-released/",
-      "score": 53,
-      "comments": 2
+      "id": 47380647,
+      "title": "Claude March 2026 usage promotion",
+      "url": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
+      "score": 46,
+      "comments": 31
     },
     {
       "id": 47380405,
       "title": "2026 tech layoffs reach 45,000 in March",
       "url": "https://technode.global/2026/03/09/2026-tech-layoffs-reach-45000-in-march-more-than-9200-due-to-ai-and-automation-rationalfx/",
-      "score": 43,
-      "comments": 27
+      "score": 113,
+      "comments": 87
     },
     {
-      "id": 47376767,
-      "title": "Montana passes Right to Compute act (2025)",
-      "url": "https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/",
-      "score": 207,
-      "comments": 170
+      "id": 47379712,
+      "title": "Hostile Volume – A game about adjusting volume with intentionally bad UI",
+      "url": "https://hostilevolume.com/",
+      "score": 58,
+      "comments": 32
     },
     {
-      "id": 47379898,
-      "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
-      "url": "https://news.ycombinator.com/item?id=47379898",
-      "score": 19,
+      "id": 47380295,
+      "title": "Marketing for Founders",
+      "url": "https://github.com/EdoStra/Marketing-for-Founders",
+      "score": 46,
       "comments": 5
+    },
+    {
+      "id": 47381382,
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "url": "https://github.com/xodn348/han",
+      "score": 8,
+      "comments": 0
     }
   ]
 }
