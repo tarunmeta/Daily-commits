@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-14 00:03:00 UTC",
-    "fetched_at_ist": "2026-03-14 05:33:00 IST",
+    "fetched_at_utc": "2026-03-14 07:36:22 UTC",
+    "fetched_at_ist": "2026-03-14 13:06:22 IST",
     "item_count": 5,
-    "content_hash": "e7a3621fbfcd3e770cda62dc0eca8e4ed78033db09cbcc67ec50f38059b2ccce",
-    "previous_hash": "9334f9cbf94de63697a9d528496b576630b114e7e14a112727bb589430ff5c42",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "81874a7cb5d02ace04633cce766166d08ab490ada9570ae001388a5f0b2a821e",
+    "previous_hash": "e7a3621fbfcd3e770cda62dc0eca8e4ed78033db09cbcc67ec50f38059b2ccce",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47371064,
-      "title": "I Found 39 Algolia Admin Keys Exposed Across Open Source Documentation Sites",
-      "url": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
-      "score": 34,
-      "comments": 9
-    },
-    {
-      "id": 47370822,
-      "title": "Drone strikes in Haiti that killed 1250, 17 children, condemned by rights group",
-      "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
-      "score": 69,
-      "comments": 9
+      "id": 47367129,
+      "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+      "url": "https://claude.com/blog/1m-context-ga",
+      "score": 578,
+      "comments": 237
     },
     {
       "id": 47363754,
       "title": "Can I run AI locally?",
       "url": "https://www.canirun.ai/",
-      "score": 853,
-      "comments": 226
+      "score": 1163,
+      "comments": 286
     },
     {
-      "id": 47336100,
-      "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
-      "url": "https://channelsurfer.tv",
-      "score": 386,
-      "comments": 133
+      "id": 47318386,
+      "title": "A Survival Guide to a PhD (2016)",
+      "url": "http://karpathy.github.io/2016/09/07/phd/",
+      "score": 43,
+      "comments": 15
     },
     {
-      "id": 47368033,
-      "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-      "url": "https://github.com/TomBadash/MouseControl",
-      "score": 150,
-      "comments": 52
+      "id": 47319071,
+      "title": "Emacs and Vim in the Age of AI",
+      "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+      "score": 91,
+      "comments": 22
+    },
+    {
+      "id": 47363584,
+      "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+      "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+      "score": 525,
+      "comments": 462
     }
   ]
 }
