@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-14 23:43:20 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-15 00:01:51 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **microsoft/BitNet**
-- BTC: **$70,688.0** ↓ (-0.81%)
-- HN top story: **Changes to OpenTTD Distribution on Steam**
+- Top GitHub repo: **volcengine/OpenViking**
+- BTC: **$71,210.0** ↑ (+0.56%)
+- HN top story: **Show HN: Han – A Korean programming language written in Rust**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-03-14 00:02:58 UTC | `e266611faf58` | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-14 23:43:20 UTC | `c9a9c9483bfe` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-14 19:15:55 UTC | `6817999196aa` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 10 | 2026-03-15 00:01:50 UTC | `3a834367017e` | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-15 00:01:51 UTC | `7553da6e2a0a` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-15 00:01:50 UTC | `3283edbc3dde` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: no
+- GitHub: +3 new repos, top changed: yes
 - Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-15` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `24` day(s) |
-| Last Commit (IST) | `2026-03-15 04:30:59 IST` |
+| Last Commit (IST) | `2026-03-15 05:13:20 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-12 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-13 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 | 2026-03-14 | 30 | `██████░░░░░░░░░░░░░░` 30% |
-| 2026-03-15 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-03-15 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $70,688.0 | -0.81% | 🔴 |
-| Ethereum | $2,077.35 | -1.29% | 🔴 |
-| Solana | $86.98 | -1.82% | 🔴 |
-| Bnb | $653.36 | -0.66% | 🔴 |
+| Bitcoin | $71,210.0 | +0.56% | 🟢 |
+| Ethereum | $2,096.59 | +0.30% | 🟢 |
+| Solana | $88.06 | -0.05% | 🔴 |
+| Bnb | $657.93 | +0.40% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/BitNet](https://github.com/microsoft/BitNet) | Python | 2,227 stars today | Official inference framework for 1-bit LLMs |
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 905 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 2,093 stars today | Lightpanda: the headless browser designed for AI and automation |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,106 stars today | An agentic skills framework & software development methodology that works. |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 892 stars today | A collective list of free APIs |
-| [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) | TypeScript | 1,668 stars today | Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 5,745 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [dolthub/dolt](https://github.com/dolthub/dolt) | Go | 60 stars today | Dolt – Git for Data |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 1,610 stars today | OpenViking is an open-source context database designed specifically for AI Agent… |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 411 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | Python | 72 stars today | The Dimensional Framework |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 694 stars today | Fully automatic censorship removal for language models |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 564 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 2,069 stars today | Lightpanda: the headless browser designed for AI and automation |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 4,280 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 381 stars today | SOTA Open Source TTS |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes) | 80 | 42 |
-| [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han) | 64 | 23 |
-| [Ageless Linux. We are legally required to ask how old you are. We won't](https://agelesslinux.org/) | 85 | 46 |
-| [Anthropic invests $100M into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 43 | 13 |
-| [Claude March 2026 usage promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion) | 159 | 100 |
+| [Show HN: Han – A Korean programming language written in Rust](https://github.com/xodn348/han) | 70 | 26 |
+| [Changes to OpenTTD Distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes) | 88 | 51 |
+| [Anthropic invests $100M into the Claude Partner Network](https://www.anthropic.com/news/claude-partner-network) | 52 | 15 |
+| [The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals](https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals) | 20 | 5 |
+| [Claude March 2026 usage promotion](https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion) | 166 | 103 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

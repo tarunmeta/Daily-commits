@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-14 23:43:20 UTC",
-    "fetched_at_ist": "2026-03-15 05:13:20 IST",
+    "fetched_at_utc": "2026-03-15 00:01:51 UTC",
+    "fetched_at_ist": "2026-03-15 05:31:51 IST",
     "item_count": 5,
-    "content_hash": "c9a9c9483bfe18e02cd6ca5fd1b401b77d25032ad92c2d5c8cf39f5682cfa876",
-    "previous_hash": "819a16fda51d4fb65c6eb17705a0220fbb57e187964808fd3730e98dea3647a9",
+    "content_hash": "7553da6e2a0a0a20b6dfef5cc9e1b6777ec8f85dde70a0e2df87d386ddd51026",
+    "previous_hash": "c9a9c9483bfe18e02cd6ca5fd1b401b77d25032ad92c2d5c8cf39f5682cfa876",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47381746,
-      "title": "Changes to OpenTTD Distribution on Steam",
-      "url": "https://www.openttd.org/news/2026/03/14/steam-changes",
-      "score": 80,
-      "comments": 42
-    },
-    {
       "id": 47381382,
       "title": "Show HN: Han – A Korean programming language written in Rust",
       "url": "https://github.com/xodn348/han",
-      "score": 64,
-      "comments": 23
+      "score": 70,
+      "comments": 26
     },
     {
-      "id": 47381791,
-      "title": "Ageless Linux. We are legally required to ask how old you are. We won't",
-      "url": "https://agelesslinux.org/",
-      "score": 85,
-      "comments": 46
+      "id": 47381746,
+      "title": "Changes to OpenTTD Distribution on Steam",
+      "url": "https://www.openttd.org/news/2026/03/14/steam-changes",
+      "score": 88,
+      "comments": 51
     },
     {
       "id": 47381340,
       "title": "Anthropic invests $100M into the Claude Partner Network",
       "url": "https://www.anthropic.com/news/claude-partner-network",
-      "score": 43,
-      "comments": 13
+      "score": 52,
+      "comments": 15
+    },
+    {
+      "id": 47382196,
+      "title": "The Sound of Contamination: Headphones Contain Ing Hormone-Disrupting Chemicals",
+      "url": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
+      "score": 20,
+      "comments": 5
     },
     {
       "id": 47380647,
       "title": "Claude March 2026 usage promotion",
       "url": "https://support.claude.com/en/articles/14063676-claude-march-2026-usage-promotion",
-      "score": 159,
-      "comments": 100
+      "score": 166,
+      "comments": 103
     }
   ]
 }
