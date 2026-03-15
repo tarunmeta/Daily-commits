@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 09:38:33 UTC",
-    "fetched_at_ist": "2026-03-15 15:08:33 IST",
+    "fetched_at_utc": "2026-03-15 14:32:41 UTC",
+    "fetched_at_ist": "2026-03-15 20:02:41 IST",
     "item_count": 5,
-    "content_hash": "8315d49a4e1d0dac51157dad6cb1986c25b4f416eba5352c87ef8fbe01f2f641",
-    "previous_hash": "2545a3be0790f6b7979b250c92270b1da2a2fd5267d0d07c3a33ef118032c356",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "81737ec46a11ea85d9591c137f260f833e5199381f9b39f7d414c488795fe764",
+    "previous_hash": "8315d49a4e1d0dac51157dad6cb1986c25b4f416eba5352c87ef8fbe01f2f641",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47384352,
-      "title": "Rack-mount hydroponics",
-      "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 147,
-      "comments": 35
+      "id": 47386908,
+      "title": "A Theory of the World as run by large adult children",
+      "url": "https://tomclancy.info/harold-and-george.html",
+      "score": 132,
+      "comments": 65
     },
     {
-      "id": 47385272,
-      "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "score": 26,
-      "comments": 17
+      "id": 47386636,
+      "title": "100 hour gap between a vibecoded prototype and a working product",
+      "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
+      "score": 56,
+      "comments": 33
     },
     {
-      "id": 47335325,
-      "title": "Why Mathematica does not simplify sinh(arccosh(x))",
-      "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 50,
-      "comments": 9
+      "id": 47386116,
+      "title": "A Visual Introduction to Machine Learning (2015)",
+      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "score": 134,
+      "comments": 7
     },
     {
-      "id": 47383804,
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 80,
-      "comments": 93
+      "id": 47385935,
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "score": 210,
+      "comments": 136
     },
     {
-      "id": 47384032,
-      "title": "A most elegant TCP hole punching algorithm",
-      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
-      "score": 73,
-      "comments": 22
+      "id": 47386581,
+      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+      "url": "https://signet.watch",
+      "score": 32,
+      "comments": 2
     }
   ]
 }
