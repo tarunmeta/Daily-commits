@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 17:30:02 UTC",
-    "fetched_at_ist": "2026-03-15 23:00:02 IST",
+    "fetched_at_utc": "2026-03-15 20:32:15 UTC",
+    "fetched_at_ist": "2026-03-16 02:02:15 IST",
     "item_count": 5,
-    "content_hash": "7d267dbfe2041d589f67f367480a9abb3b5a56661fd302fd6beaa6366043c7e9",
-    "previous_hash": "011aa89af4033f6795950cec38dddb261d802e4c438f0b04e993b377b2e40542",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "f4b4bcf3204a07bd74ad33769bf176a04d98aee2fbf433187bef447e8e0fa3f2",
+    "previous_hash": "7d267dbfe2041d589f67f367480a9abb3b5a56661fd302fd6beaa6366043c7e9",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47388141,
-      "title": "What makes Intel Optane stand out (2023)",
-      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "score": 70,
-      "comments": 54
+      "id": 47390817,
+      "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 92,
+      "comments": 16
     },
     {
-      "id": 47386116,
-      "title": "A Visual Introduction to Machine Learning (2015)",
-      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 229,
-      "comments": 18
+      "id": 47390945,
+      "title": "The 49MB Web Page",
+      "url": "https://thatshubham.com/blog/news-audit",
+      "score": 31,
+      "comments": 5
     },
     {
-      "id": 47387047,
-      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
-      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
-      "score": 73,
-      "comments": 27
-    },
-    {
-      "id": 47388479,
-      "title": "Show HN: GDSL – 800 line kernel: Lisp subset in 500, C subset in 1300",
-      "url": "https://firthemouse.github.io/",
-      "score": 18,
+      "id": 47388676,
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "score": 57,
       "comments": 2
     },
     {
-      "id": 47386581,
-      "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-      "url": "https://signet.watch",
-      "score": 76,
-      "comments": 19
+      "id": 47388141,
+      "title": "What makes Intel Optane stand out (2023)",
+      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+      "score": 132,
+      "comments": 97
+    },
+    {
+      "id": 47388137,
+      "title": "Separating the Wayland compositor and window manager",
+      "url": "https://isaacfreund.com/blog/river-window-management/",
+      "score": 137,
+      "comments": 57
     }
   ]
 }
