@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 07:34:06 UTC",
-    "fetched_at_ist": "2026-03-15 13:04:06 IST",
+    "fetched_at_utc": "2026-03-15 09:38:33 UTC",
+    "fetched_at_ist": "2026-03-15 15:08:33 IST",
     "item_count": 5,
-    "content_hash": "2545a3be0790f6b7979b250c92270b1da2a2fd5267d0d07c3a33ef118032c356",
-    "previous_hash": "9f42bdbdcd04ffa49949be0e9365e0331ebb61c85abdec424dbab29b4ea92953",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "8315d49a4e1d0dac51157dad6cb1986c25b4f416eba5352c87ef8fbe01f2f641",
+    "previous_hash": "2545a3be0790f6b7979b250c92270b1da2a2fd5267d0d07c3a33ef118032c356",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47384352,
       "title": "Rack-mount hydroponics",
       "url": "https://sa.lj.am/rack-mount-hydroponics/",
-      "score": 96,
-      "comments": 22
+      "score": 147,
+      "comments": 35
+    },
+    {
+      "id": 47385272,
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "score": 26,
+      "comments": 17
     },
     {
       "id": 47335325,
       "title": "Why Mathematica does not simplify sinh(arccosh(x))",
       "url": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
-      "score": 20,
-      "comments": 1
-    },
-    {
-      "id": 47384032,
-      "title": "A most elegant TCP hole punching algorithm",
-      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
       "score": 50,
-      "comments": 8
+      "comments": 9
     },
     {
       "id": 47383804,
       "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
       "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 63,
-      "comments": 66
+      "score": 80,
+      "comments": 93
     },
     {
-      "id": 47382791,
-      "title": "How kernel anti-cheats work",
-      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 129,
-      "comments": 96
+      "id": 47384032,
+      "title": "A most elegant TCP hole punching algorithm",
+      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+      "score": 73,
+      "comments": 22
     }
   ]
 }
