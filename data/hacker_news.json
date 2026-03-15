@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 03:31:08 UTC",
-    "fetched_at_ist": "2026-03-15 09:01:08 IST",
+    "fetched_at_utc": "2026-03-15 06:33:36 UTC",
+    "fetched_at_ist": "2026-03-15 12:03:36 IST",
     "item_count": 5,
-    "content_hash": "4843c6caeb81e123b7a127963f772d0c2528dd927caff24e13c94cc34f1970a8",
-    "previous_hash": "7553da6e2a0a0a20b6dfef5cc9e1b6777ec8f85dde70a0e2df87d386ddd51026",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "9f42bdbdcd04ffa49949be0e9365e0331ebb61c85abdec424dbab29b4ea92953",
+    "previous_hash": "4843c6caeb81e123b7a127963f772d0c2528dd927caff24e13c94cc34f1970a8",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47384352,
+      "title": "Rack-Mount Hydroponics",
+      "url": "https://sa.lj.am/rack-mount-hydroponics/",
+      "score": 61,
+      "comments": 16
+    },
+    {
+      "id": 47374924,
+      "title": "Mathematics Distillation Challenge – Equational Theories",
+      "url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+      "score": 51,
+      "comments": 2
+    },
+    {
       "id": 47381791,
       "title": "Ageless Linux – Software for humans of indeterminate age",
       "url": "https://agelesslinux.org/",
-      "score": 397,
-      "comments": 251
+      "score": 510,
+      "comments": 324
     },
     {
-      "id": 47382791,
-      "title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
-      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-      "score": 54,
-      "comments": 26
+      "id": 47381382,
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "url": "https://github.com/xodn348/han",
+      "score": 147,
+      "comments": 85
     },
     {
-      "id": 47383804,
-      "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-      "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-      "score": 13,
-      "comments": 5
-    },
-    {
-      "id": 47382277,
-      "title": "Airbus is preparing two uncrewed combat aircraft",
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-      "score": 78,
-      "comments": 40
-    },
-    {
-      "id": 47383059,
-      "title": "Tree Search Distillation for Language Models Using PPO",
-      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-      "score": 18,
-      "comments": 0
+      "id": 47384032,
+      "title": "A most elegant TCP hole punching algorithm",
+      "url": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+      "score": 28,
+      "comments": 3
     }
   ]
 }
