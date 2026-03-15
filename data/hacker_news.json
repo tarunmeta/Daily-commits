@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 14:32:41 UTC",
-    "fetched_at_ist": "2026-03-15 20:02:41 IST",
+    "fetched_at_utc": "2026-03-15 15:44:42 UTC",
+    "fetched_at_ist": "2026-03-15 21:14:42 IST",
     "item_count": 5,
-    "content_hash": "81737ec46a11ea85d9591c137f260f833e5199381f9b39f7d414c488795fe764",
-    "previous_hash": "8315d49a4e1d0dac51157dad6cb1986c25b4f416eba5352c87ef8fbe01f2f641",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "011aa89af4033f6795950cec38dddb261d802e4c438f0b04e993b377b2e40542",
+    "previous_hash": "81737ec46a11ea85d9591c137f260f833e5199381f9b39f7d414c488795fe764",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47386908,
-      "title": "A Theory of the World as run by large adult children",
-      "url": "https://tomclancy.info/harold-and-george.html",
-      "score": 132,
-      "comments": 65
-    },
-    {
-      "id": 47386636,
-      "title": "100 hour gap between a vibecoded prototype and a working product",
-      "url": "https://kanfa.macbudkowski.com/vibecoding-cryptosaurus",
-      "score": 56,
-      "comments": 33
-    },
-    {
       "id": 47386116,
       "title": "A Visual Introduction to Machine Learning (2015)",
       "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-      "score": 134,
-      "comments": 7
+      "score": 172,
+      "comments": 10
     },
     {
-      "id": 47385935,
-      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-      "score": 210,
-      "comments": 136
+      "id": 47388141,
+      "title": "What makes Intel Optane stand out (2023)",
+      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
+      "score": 16,
+      "comments": 0
     },
     {
       "id": 47386581,
       "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
       "url": "https://signet.watch",
-      "score": 32,
-      "comments": 2
+      "score": 48,
+      "comments": 12
+    },
+    {
+      "id": 47387047,
+      "title": "Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories",
+      "url": "https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode",
+      "score": 23,
+      "comments": 3
+    },
+    {
+      "id": 47386983,
+      "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
+      "url": "https://octetta.github.io/k-synth/",
+      "score": 17,
+      "comments": 4
     }
   ]
 }

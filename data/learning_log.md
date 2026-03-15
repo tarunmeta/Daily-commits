@@ -29,18 +29,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-15 (last updated: 20:02 IST)
+
+## 📅 2026-03-15 (last updated: 21:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-03-15 05:31:50 IST | 3a834367017e | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-15 20:02:41 IST | 81737ec46a11 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-15 21:14:42 IST | 011aa89af403 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-15 16:58:23 IST | da43d68d8f74 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -56,11 +57,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 564 stars today
 
 ### 📰 Hacker News Stories
-- [A Theory of the World as run by large adult children](https://tomclancy.info/harold-and-george.html) — Score: 132
-- [100 hour gap between a vibecoded prototype and a working product](https://kanfa.macbudkowski.com/vibecoding-cryptosaurus) — Score: 56
-- [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/) — Score: 134
-- [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket) — Score: 210
-- [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch) — Score: 32
+- [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/) — Score: 172
+- [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/) — Score: 16
+- [Show HN: Signet – Autonomous wildfire tracking from satellite and weather data](https://signet.watch) — Score: 48
+- [Glassworm Is Back: A New Wave of Invisible Unicode Attacks Hits Repositories](https://www.aikido.dev/blog/glassworm-returns-unicode-attack-github-npm-vscode) — Score: 23
+- [Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?](https://octetta.github.io/k-synth/) — Score: 17
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,717.0 🟢 +1.43%
