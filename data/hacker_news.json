@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 20:32:15 UTC",
-    "fetched_at_ist": "2026-03-16 02:02:15 IST",
+    "fetched_at_utc": "2026-03-15 21:43:06 UTC",
+    "fetched_at_ist": "2026-03-16 03:13:06 IST",
     "item_count": 5,
-    "content_hash": "f4b4bcf3204a07bd74ad33769bf176a04d98aee2fbf433187bef447e8e0fa3f2",
-    "previous_hash": "7d267dbfe2041d589f67f367480a9abb3b5a56661fd302fd6beaa6366043c7e9",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "385d840dcb48cfe786f4ede040134af7bb4d101bd433547c19f42bd5ff163e1c",
+    "previous_hash": "f4b4bcf3204a07bd74ad33769bf176a04d98aee2fbf433187bef447e8e0fa3f2",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47390817,
       "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 92,
-      "comments": 16
+      "score": 172,
+      "comments": 53
     },
     {
       "id": 47390945,
       "title": "The 49MB Web Page",
       "url": "https://thatshubham.com/blog/news-audit",
-      "score": 31,
-      "comments": 5
+      "score": 122,
+      "comments": 76
     },
     {
       "id": 47388676,
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 57,
-      "comments": 2
+      "score": 105,
+      "comments": 5
     },
     {
-      "id": 47388141,
-      "title": "What makes Intel Optane stand out (2023)",
-      "url": "https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/",
-      "score": 132,
-      "comments": 97
+      "id": 47339463,
+      "title": "//go:fix inline and the source-level inliner",
+      "url": "https://go.dev/blog/inliner",
+      "score": 61,
+      "comments": 6
     },
     {
       "id": 47388137,
       "title": "Separating the Wayland compositor and window manager",
       "url": "https://isaacfreund.com/blog/river-window-management/",
-      "score": 137,
-      "comments": 57
+      "score": 159,
+      "comments": 71
     }
   ]
 }
