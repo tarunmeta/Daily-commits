@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 22:36:29 UTC",
-    "fetched_at_ist": "2026-03-17 04:06:29 IST",
+    "fetched_at_utc": "2026-03-16 23:44:13 UTC",
+    "fetched_at_ist": "2026-03-17 05:14:13 IST",
     "item_count": 5,
-    "content_hash": "cffe57215839cd4b90e0056df8e88380dec808ed674f974b0850edb3c33c01cd",
-    "previous_hash": "0a0bb044fb48fe19bbc32f3f6b82d4cad896f621ea5e40a39d909efeb13512ca",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "decfb5ba32f8cd19d27fa247a7deca47622de29ddd8ec696aa16a1a77f225a27",
+    "previous_hash": "cffe57215839cd4b90e0056df8e88380dec808ed674f974b0850edb3c33c01cd",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47404796,
-      "title": "Mistral Releases Leanstral",
+      "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
       "url": "https://mistral.ai/news/leanstral",
-      "score": 140,
-      "comments": 24
+      "score": 221,
+      "comments": 37
     },
     {
       "id": 47402640,
       "title": "Meta’s renewed commitment to jemalloc",
       "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 274,
-      "comments": 113
+      "score": 305,
+      "comments": 128
     },
     {
       "id": 47401879,
       "title": "The “small web” is bigger than you might think",
       "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 254,
-      "comments": 99
+      "score": 277,
+      "comments": 124
+    },
+    {
+      "id": 47401809,
+      "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
+      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
+      "score": 105,
+      "comments": 59
     },
     {
       "id": 47398534,
       "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
       "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 283,
-      "comments": 90
-    },
-    {
-      "id": 47364260,
-      "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
-      "url": "https://github.com/mr-fatalyst/oxyde",
-      "score": 14,
-      "comments": 6
+      "score": 297,
+      "comments": 92
     }
   ]
 }
