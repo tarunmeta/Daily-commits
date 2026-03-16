@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 11:33:56 UTC",
-    "fetched_at_ist": "2026-03-16 17:03:56 IST",
+    "fetched_at_utc": "2026-03-16 12:37:12 UTC",
+    "fetched_at_ist": "2026-03-16 18:07:12 IST",
     "item_count": 5,
-    "content_hash": "c0a32ff353ace80b3324ea3de3cc15716684d24580ed432b4fdce442c2a7451d",
-    "previous_hash": "3ca283bdd3c387233084ebd68500b8700373035cd0ca4ae0168f0bf86b3d2c6c",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "8b112848ea0fcc403e943627fa881473d3369f9301d1c465ddb524bbdeb074a6",
+    "previous_hash": "c0a32ff353ace80b3324ea3de3cc15716684d24580ed432b4fdce442c2a7451d",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47397593,
+      "title": "Corruption erodes social trust more in democracies than in autocracies",
+      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
+      "score": 24,
+      "comments": 6
+    },
+    {
+      "id": 47397822,
+      "title": "Polymarket gamblers threaten to kill me over Iran missile story",
+      "url": "https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/",
+      "score": 108,
+      "comments": 37
+    },
     {
       "id": 47392084,
       "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 755,
-      "comments": 225
-    },
-    {
-      "id": 47397190,
-      "title": "Ask HN: What is it like being in a CS major program these days?",
-      "url": "https://news.ycombinator.com/item?id=47397190",
-      "score": 63,
-      "comments": 29
+      "score": 797,
+      "comments": 231
     },
     {
       "id": 47394022,
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "score": 246,
-      "comments": 192
+      "score": 281,
+      "comments": 223
     },
     {
       "id": 47390945,
       "title": "The 49MB web page",
       "url": "https://thatshubham.com/blog/news-audit",
-      "score": 601,
-      "comments": 275
-    },
-    {
-      "id": 47390817,
-      "title": "Chrome DevTools MCP (2025)",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 493,
-      "comments": 201
+      "score": 625,
+      "comments": 287
     }
   ]
 }

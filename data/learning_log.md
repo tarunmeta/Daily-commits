@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-16 (last updated: 17:03 IST)
+
+## 📅 2026-03-16 (last updated: 18:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-16 05:30:29 IST | 065b7d7dd949 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-16 17:03:56 IST | c0a32ff353ac | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-16 18:07:12 IST | 8b112848ea0f | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-16 14:45:50 IST | d3edbb65392d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 851 stars today
 
 ### 📰 Hacker News Stories
-- [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) — Score: 755
-- [Ask HN: What is it like being in a CS major program these days?](https://news.ycombinator.com/item?id=47397190) — Score: 63
-- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) — Score: 246
-- [The 49MB web page](https://thatshubham.com/blog/news-audit) — Score: 601
-- [Chrome DevTools MCP (2025)](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) — Score: 493
+- [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full) — Score: 24
+- [Polymarket gamblers threaten to kill me over Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/) — Score: 108
+- [Canada's bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) — Score: 797
+- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) — Score: 281
+- [The 49MB web page](https://thatshubham.com/blog/news-audit) — Score: 625
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,175.0 🟢 +1.79%
