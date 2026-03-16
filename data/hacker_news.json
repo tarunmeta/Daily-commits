@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 05:33:20 UTC",
-    "fetched_at_ist": "2026-03-16 11:03:20 IST",
+    "fetched_at_utc": "2026-03-16 10:35:49 UTC",
+    "fetched_at_ist": "2026-03-16 16:05:49 IST",
     "item_count": 5,
-    "content_hash": "120352e7cbef8c39f3c139ad40bcdad64664b5f7f4339c758e3b43653ddb6b1a",
-    "previous_hash": "d1ca47d309f093fc8b98e20b6f5c0fd48f02628a1e29de9e900f371e64b00d95",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "3ca283bdd3c387233084ebd68500b8700373035cd0ca4ae0168f0bf86b3d2c6c",
+    "previous_hash": "120352e7cbef8c39f3c139ad40bcdad64664b5f7f4339c758e3b43653ddb6b1a",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
     {
       "id": 47392084,
-      "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+      "title": "Canada's bill C-22 mandates mass metadata surveillance",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 540,
-      "comments": 145
-    },
-    {
-      "id": 47390817,
-      "title": "Chrome DevTools MCP (2025)",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 416,
-      "comments": 181
-    },
-    {
-      "id": 47390945,
-      "title": "The 49MB web page",
-      "url": "https://thatshubham.com/blog/news-audit",
-      "score": 395,
-      "comments": 200
-    },
-    {
-      "id": 47350016,
-      "title": "Electric motor scaling laws and inertia in robot actuators",
-      "url": "https://robot-daycare.com/posts/actuation_series_1/",
-      "score": 24,
-      "comments": 2
+      "score": 724,
+      "comments": 209
     },
     {
       "id": 47394022,
       "title": "How I write software with LLMs",
       "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-      "score": 56,
-      "comments": 6
+      "score": 220,
+      "comments": 159
+    },
+    {
+      "id": 47390945,
+      "title": "The 49MB web page",
+      "url": "https://thatshubham.com/blog/news-audit",
+      "score": 578,
+      "comments": 255
+    },
+    {
+      "id": 47390817,
+      "title": "Chrome DevTools MCP (2025)",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 484,
+      "comments": 200
+    },
+    {
+      "id": 47348652,
+      "title": "Home Assistant waters my plants",
+      "url": "https://finnian.io/blog/home-assistant-waters-my-plants/",
+      "score": 35,
+      "comments": 4
     }
   ]
 }
