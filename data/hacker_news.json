@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 00:00:31 UTC",
-    "fetched_at_ist": "2026-03-16 05:30:31 IST",
+    "fetched_at_utc": "2026-03-16 03:34:34 UTC",
+    "fetched_at_ist": "2026-03-16 09:04:34 IST",
     "item_count": 5,
-    "content_hash": "4017bb3dd59632bbb8f98be23fb96ff73560dc8ce4165e09228d3fb84ff70f2a",
-    "previous_hash": "96df08749175dafcfd005cc257a5548713f48f343f1b0cbbb033b2dafe29c3b3",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "d1ca47d309f093fc8b98e20b6f5c0fd48f02628a1e29de9e900f371e64b00d95",
+    "previous_hash": "4017bb3dd59632bbb8f98be23fb96ff73560dc8ce4165e09228d3fb84ff70f2a",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47392084,
       "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 150,
-      "comments": 35
+      "score": 439,
+      "comments": 113
     },
     {
       "id": 47390817,
       "title": "Chrome DevTools MCP",
       "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 268,
-      "comments": 128
+      "score": 387,
+      "comments": 166
     },
     {
       "id": 47390945,
       "title": "The 49MB web page",
       "url": "https://thatshubham.com/blog/news-audit",
-      "score": 227,
-      "comments": 141
-    },
-    {
-      "id": 47388676,
-      "title": "LLM Architecture Gallery",
-      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 190,
-      "comments": 11
+      "score": 352,
+      "comments": 187
     },
     {
       "id": 47391803,
       "title": "LLMs can be exhausting",
       "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-      "score": 20,
-      "comments": 9
+      "score": 109,
+      "comments": 83
+    },
+    {
+      "id": 47388676,
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "score": 278,
+      "comments": 20
     }
   ]
 }
