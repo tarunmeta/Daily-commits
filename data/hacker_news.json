@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 16:37:09 UTC",
-    "fetched_at_ist": "2026-03-16 22:07:09 IST",
+    "fetched_at_utc": "2026-03-16 18:40:39 UTC",
+    "fetched_at_ist": "2026-03-17 00:10:39 IST",
     "item_count": 5,
-    "content_hash": "36c4571120a2a56948889fa20ef14ee07f67acaf9be16471f1e075c53ba3b54b",
-    "previous_hash": "8b112848ea0fcc403e943627fa881473d3369f9301d1c465ddb524bbdeb074a6",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "content_hash": "681d42053770a2e57648afac0ce898950fe760ef64213f38021a06decf22e737",
+    "previous_hash": "36c4571120a2a56948889fa20ef14ee07f67acaf9be16471f1e075c53ba3b54b",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47397593,
-      "title": "Corruption erodes social trust more in democracies than in autocracies",
-      "url": "https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full",
-      "score": 440,
-      "comments": 195
+      "id": 47401879,
+      "title": "The “small web” is bigger than you might think",
+      "url": "https://kevinboone.me/small_web_is_big.html",
+      "score": 92,
+      "comments": 20
     },
     {
-      "id": 47397797,
-      "title": "MoD sources warn Palantir role at heart of government is threat to UK security",
-      "url": "https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets",
-      "score": 335,
-      "comments": 110
+      "id": 47402640,
+      "title": "Jemalloc un-abandoned by Meta",
+      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+      "score": 45,
+      "comments": 4
     },
     {
       "id": 47398534,
       "title": "My Journey to a reliable and enjoyable locally hosted voice assistant",
       "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 117,
-      "comments": 36
+      "score": 191,
+      "comments": 62
     },
     {
-      "id": 47400060,
-      "title": "US Job Market Visualizer – Andrej Karpathy",
-      "url": "https://karpathy.ai/jobs/",
-      "score": 86,
-      "comments": 36
+      "id": 47400261,
+      "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+      "score": 73,
+      "comments": 77
     },
     {
       "id": 47401042,
       "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
       "url": "https://news.ycombinator.com/item?id=47401042",
-      "score": 7,
-      "comments": 1
+      "score": 33,
+      "comments": 15
     }
   ]
 }
