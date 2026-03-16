@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-15 23:31:50 UTC",
-    "fetched_at_ist": "2026-03-16 05:01:50 IST",
+    "fetched_at_utc": "2026-03-16 00:00:31 UTC",
+    "fetched_at_ist": "2026-03-16 05:30:31 IST",
     "item_count": 5,
-    "content_hash": "96df08749175dafcfd005cc257a5548713f48f343f1b0cbbb033b2dafe29c3b3",
-    "previous_hash": "385d840dcb48cfe786f4ede040134af7bb4d101bd433547c19f42bd5ff163e1c",
+    "content_hash": "4017bb3dd59632bbb8f98be23fb96ff73560dc8ce4165e09228d3fb84ff70f2a",
+    "previous_hash": "96df08749175dafcfd005cc257a5548713f48f343f1b0cbbb033b2dafe29c3b3",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 47390817,
-      "title": "Chrome DevTools MCP",
-      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-      "score": 253,
-      "comments": 116
-    },
     {
       "id": 47392084,
       "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
       "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-      "score": 100,
-      "comments": 25
+      "score": 150,
+      "comments": 35
+    },
+    {
+      "id": 47390817,
+      "title": "Chrome DevTools MCP",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "score": 268,
+      "comments": 128
     },
     {
       "id": 47390945,
       "title": "The 49MB web page",
       "url": "https://thatshubham.com/blog/news-audit",
-      "score": 213,
-      "comments": 130
+      "score": 227,
+      "comments": 141
     },
     {
       "id": 47388676,
       "title": "LLM Architecture Gallery",
       "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-      "score": 172,
-      "comments": 9
+      "score": 190,
+      "comments": 11
     },
     {
-      "id": 47339463,
-      "title": "//go:fix inline and the source-level inliner",
-      "url": "https://go.dev/blog/inliner",
-      "score": 91,
-      "comments": 28
+      "id": 47391803,
+      "title": "LLMs can be exhausting",
+      "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+      "score": 20,
+      "comments": 9
     }
   ]
 }

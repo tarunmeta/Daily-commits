@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-15 23:31:50 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-16 00:00:31 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **volcengine/OpenViking**
-- BTC: **$71,532.0** ↑ (+1.21%)
-- HN top story: **Chrome DevTools MCP**
+- Top GitHub repo: **lightpanda-io/browser**
+- BTC: **$72,793.0** ↑ (+2.21%)
+- HN top story: **Canada's bill C-22 mandates mass metadata surveillance of Canadians**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-03-15 00:01:50 UTC | `3a834367017e` | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-15 23:31:50 UTC | `96df08749175` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-15 19:29:29 UTC | `11d4038e47a1` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-03-16 00:00:29 UTC | `065b7d7dd949` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-16 00:00:31 UTC | `4017bb3dd596` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-16 00:00:29 UTC | `c60651ece756` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +3 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-16` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `25` day(s) |
-| Last Commit (IST) | `2026-03-16 04:18:25 IST` |
+| Last Commit (IST) | `2026-03-16 05:01:50 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-13 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 | 2026-03-14 | 30 | `██████░░░░░░░░░░░░░░` 30% |
 | 2026-03-15 | 31 | `██████░░░░░░░░░░░░░░` 31% |
-| 2026-03-16 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-03-16 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,532.0 | +1.21% | 🟢 |
-| Ethereum | $2,112.22 | +1.68% | 🟢 |
-| Solana | $88.17 | +1.35% | 🟢 |
-| Bnb | $660.3 | +1.05% | 🟢 |
+| Bitcoin | $72,793.0 | +2.21% | 🟢 |
+| Ethereum | $2,177.36 | +3.85% | 🟢 |
+| Solana | $92.21 | +4.75% | 🟢 |
+| Bnb | $673.81 | +2.42% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 1,610 stars today | OpenViking is an open-source context database designed specifically for AI Agent… |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 411 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [dimensionalOS/dimos](https://github.com/dimensionalOS/dimos) | Python | 72 stars today | The Dimensional Framework |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 694 stars today | Fully automatic censorship removal for language models |
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | Python | 564 stars today | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platfo… |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 2,069 stars today | Lightpanda: the headless browser designed for AI and automation |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 4,280 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Python | 381 stars today | SOTA Open Source TTS |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 1,335 stars today | Lightpanda: the headless browser designed for AI and automation |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 205 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 1,870 stars today | OpenViking is an open-source context database designed specifically for AI Agent… |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | 872 stars today | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 851 stars today | practice made claude perfect |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,867 stars today | An agentic skills framework & software development methodology that works. |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 1,062 stars today | Fully automatic censorship removal for language models |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 2,782 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) | 253 | 116 |
-| [Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) | 100 | 25 |
-| [The 49MB web page](https://thatshubham.com/blog/news-audit) | 213 | 130 |
-| [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) | 172 | 9 |
-| [//go:fix inline and the source-level inliner](https://go.dev/blog/inliner) | 91 | 28 |
+| [Canada's bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/) | 150 | 35 |
+| [Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session) | 268 | 128 |
+| [The 49MB web page](https://thatshubham.com/blog/news-audit) | 227 | 141 |
+| [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) | 190 | 11 |
+| [LLMs can be exhausting](https://tomjohnell.com/llms-can-be-absolutely-exhausting/) | 20 | 9 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
