@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-17 (last updated: 01:52 IST)
+
+## 📅 2026-03-17 (last updated: 04:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-16 05:30:29 IST | 065b7d7dd949 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-17 01:12:21 IST | 0a0bb044fb48 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-17 04:06:29 IST | cffe57215839 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-17 01:52:03 IST | ad13406a56b7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 851 stars today
 
 ### 📰 Hacker News Stories
-- [Jemalloc un-abandoned by Meta](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) — Score: 143
-- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) — Score: 123
-- [Where does engineering go? Retreat findings and insights [pdf]](https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf) — Score: 40
-- [My Journey to a reliable and enjoyable locally hosted voice assistant](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) — Score: 210
-- [Apideck CLI – An AI-agent interface with much lower context consumption than MCP](https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative) — Score: 85
+- [Mistral Releases Leanstral](https://mistral.ai/news/leanstral) — Score: 140
+- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) — Score: 274
+- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) — Score: 254
+- [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) — Score: 283
+- [Show HN: Oxyde – Pydantic-native async ORM with a Rust core](https://github.com/mr-fatalyst/oxyde) — Score: 14
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,909.0 🟢 +3.34%

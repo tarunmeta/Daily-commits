@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-16 19:42:21 UTC",
-    "fetched_at_ist": "2026-03-17 01:12:21 IST",
+    "fetched_at_utc": "2026-03-16 22:36:29 UTC",
+    "fetched_at_ist": "2026-03-17 04:06:29 IST",
     "item_count": 5,
-    "content_hash": "0a0bb044fb48fe19bbc32f3f6b82d4cad896f621ea5e40a39d909efeb13512ca",
-    "previous_hash": "681d42053770a2e57648afac0ce898950fe760ef64213f38021a06decf22e737",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "cffe57215839cd4b90e0056df8e88380dec808ed674f974b0850edb3c33c01cd",
+    "previous_hash": "0a0bb044fb48fe19bbc32f3f6b82d4cad896f621ea5e40a39d909efeb13512ca",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47404796,
+      "title": "Mistral Releases Leanstral",
+      "url": "https://mistral.ai/news/leanstral",
+      "score": 140,
+      "comments": 24
+    },
+    {
       "id": 47402640,
-      "title": "Jemalloc un-abandoned by Meta",
+      "title": "Meta’s renewed commitment to jemalloc",
       "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 143,
-      "comments": 41
+      "score": 274,
+      "comments": 113
     },
     {
       "id": 47401879,
       "title": "The “small web” is bigger than you might think",
       "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 123,
-      "comments": 46
-    },
-    {
-      "id": 47341321,
-      "title": "Where does engineering go? Retreat findings and insights [pdf]",
-      "url": "https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf",
-      "score": 40,
-      "comments": 8
+      "score": 254,
+      "comments": 99
     },
     {
       "id": 47398534,
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant",
+      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
       "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 210,
-      "comments": 74
+      "score": 283,
+      "comments": 90
     },
     {
-      "id": 47400261,
-      "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-      "score": 85,
-      "comments": 82
+      "id": 47364260,
+      "title": "Show HN: Oxyde – Pydantic-native async ORM with a Rust core",
+      "url": "https://github.com/mr-fatalyst/oxyde",
+      "score": 14,
+      "comments": 6
     }
   ]
 }
