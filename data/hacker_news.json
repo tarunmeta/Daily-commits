@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 12:33:59 UTC",
-    "fetched_at_ist": "2026-03-17 18:03:59 IST",
+    "fetched_at_utc": "2026-03-17 16:39:23 UTC",
+    "fetched_at_ist": "2026-03-17 22:09:23 IST",
     "item_count": 5,
-    "content_hash": "2120cec6484cfe30af384c910ccca079f7678b5a89d4c6c5cec7364e17ee06fd",
-    "previous_hash": "80493ecd870fd17f4e5ed8a8eeb8328d6cd62a8064669908aae76a0277a861e2",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "01934c6bbc3c484d647f653773cf89e3643d035fcb1e31a2b37de34185c7ffff",
+    "previous_hash": "2120cec6484cfe30af384c910ccca079f7678b5a89d4c6c5cec7364e17ee06fd",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47400089,
+      "title": "Give Django your time and money, not your tokens",
+      "url": "https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/",
+      "score": 187,
+      "comments": 59
+    },
     {
       "id": 47410542,
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 234,
-      "comments": 47
+      "score": 506,
+      "comments": 142
     },
     {
-      "id": 47408703,
-      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 783,
-      "comments": 192
+      "id": 47412726,
+      "title": "OpenSUSE Kalpa",
+      "url": "https://kalpadesktop.org/",
+      "score": 60,
+      "comments": 27
     },
     {
-      "id": 47410870,
-      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
-      "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
-      "score": 209,
-      "comments": 48
+      "id": 47413525,
+      "title": "FFmpeg 8.1",
+      "url": "https://ffmpeg.org/index.html#pr8.1",
+      "score": 125,
+      "comments": 16
     },
     {
-      "id": 47410532,
-      "title": "Building a Shell",
-      "url": "https://healeycodes.com/building-a-shell",
-      "score": 51,
-      "comments": 12
-    },
-    {
-      "id": 47404796,
-      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
-      "url": "https://mistral.ai/news/leanstral",
-      "score": 606,
-      "comments": 129
+      "id": 47364337,
+      "title": "Finding a CPU Design Bug in the Xbox 360",
+      "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
+      "score": 84,
+      "comments": 17
     }
   ]
 }

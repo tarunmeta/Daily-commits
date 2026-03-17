@@ -23,18 +23,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-17 (last updated: 20:47 IST)
+
+## 📅 2026-03-17 (last updated: 22:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-17 05:32:06 IST | 371a8070f7f2 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-17 18:03:59 IST | 2120cec6484c | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-17 22:09:23 IST | 01934c6bbc3c | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-17 20:47:28 IST | b146dcab25b5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,860 stars today
 
 ### 📰 Hacker News Stories
-- [Kagi Small Web](https://kagi.com/smallweb/) — Score: 234
-- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak) — Score: 783
-- [Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech](https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech) — Score: 209
-- [Building a Shell](https://healeycodes.com/building-a-shell) — Score: 51
-- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) — Score: 606
+- [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/) — Score: 187
+- [Kagi Small Web](https://kagi.com/smallweb/) — Score: 506
+- [OpenSUSE Kalpa](https://kalpadesktop.org/) — Score: 60
+- [FFmpeg 8.1](https://ffmpeg.org/index.html#pr8.1) — Score: 125
+- [Finding a CPU Design Bug in the Xbox 360](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/) — Score: 84
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,190.0 🟢 +0.62%
