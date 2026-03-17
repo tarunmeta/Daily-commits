@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-17 (last updated: 16:04 IST)
+
+## 📅 2026-03-17 (last updated: 17:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-17 05:32:06 IST | 371a8070f7f2 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-17 16:04:58 IST | 2f26f70a2ec2 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-17 17:00:41 IST | 80493ecd870f | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-17 11:44:04 IST | 62542822407e | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,860 stars today
 
 ### 📰 Hacker News Stories
-- [Kagi Small Web](https://kagi.com/smallweb/) — Score: 59
-- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak) — Score: 575
-- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) — Score: 567
-- [The unlikely story of Teardown Multiplayer](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html) — Score: 92
-- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) — Score: 442
+- [Kagi Small Web](https://kagi.com/smallweb/) — Score: 148
+- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak) — Score: 669
+- [Building a Shell](https://healeycodes.com/building-a-shell) — Score: 29
+- [Grace Hopper's Revenge](https://www.thefuriousopposites.com/p/grace-hoppers-revenge) — Score: 24
+- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) — Score: 586
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,046.0 🟢 +0.53%

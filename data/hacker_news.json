@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 10:34:58 UTC",
-    "fetched_at_ist": "2026-03-17 16:04:58 IST",
+    "fetched_at_utc": "2026-03-17 11:30:41 UTC",
+    "fetched_at_ist": "2026-03-17 17:00:41 IST",
     "item_count": 5,
-    "content_hash": "2f26f70a2ec2d57e321acbaf43a20010bc1d76eb35e1d0a5b40fa5c8bbc5b5eb",
-    "previous_hash": "654398f7ba3b7fc2668a4a9b75e14d25b7ebb888628f17f19cd2f4a36351335f",
+    "content_hash": "80493ecd870fd17f4e5ed8a8eeb8328d6cd62a8064669908aae76a0277a861e2",
+    "previous_hash": "2f26f70a2ec2d57e321acbaf43a20010bc1d76eb35e1d0a5b40fa5c8bbc5b5eb",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47410542,
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 59,
-      "comments": 5
+      "score": 148,
+      "comments": 26
     },
     {
       "id": 47408703,
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 575,
-      "comments": 149
+      "score": 669,
+      "comments": 169
+    },
+    {
+      "id": 47410532,
+      "title": "Building a Shell",
+      "url": "https://healeycodes.com/building-a-shell",
+      "score": 29,
+      "comments": 2
+    },
+    {
+      "id": 47410349,
+      "title": "Grace Hopper's Revenge",
+      "url": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge",
+      "score": 24,
+      "comments": 18
     },
     {
       "id": 47404796,
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "url": "https://mistral.ai/news/leanstral",
-      "score": 567,
-      "comments": 117
-    },
-    {
-      "id": 47366435,
-      "title": "The unlikely story of Teardown Multiplayer",
-      "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
-      "score": 92,
-      "comments": 13
-    },
-    {
-      "id": 47402640,
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 442,
-      "comments": 193
+      "score": 586,
+      "comments": 127
     }
   ]
 }
