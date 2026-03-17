@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 00:02:08 UTC",
-    "fetched_at_ist": "2026-03-17 05:32:08 IST",
+    "fetched_at_utc": "2026-03-17 06:14:05 UTC",
+    "fetched_at_ist": "2026-03-17 11:44:05 IST",
     "item_count": 5,
-    "content_hash": "a9afb75648e631b16cd58bf400fe186625b2751d8191b8415cac27415e3af4fa",
-    "previous_hash": "decfb5ba32f8cd19d27fa247a7deca47622de29ddd8ec696aa16a1a77f225a27",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "6ab7c71a5111d03ba67fc529e43697d0cdeded322977cba6811a698432836020",
+    "previous_hash": "a9afb75648e631b16cd58bf400fe186625b2751d8191b8415cac27415e3af4fa",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47408703,
+      "title": "Kagi Translate now supports LinkedIn Speak as an output language",
+      "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
+      "score": 161,
+      "comments": 28
+    },
+    {
+      "id": 47406779,
+      "title": "US SEC preparing to scrap quarterly reporting requirement",
+      "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+      "score": 492,
+      "comments": 265
+    },
+    {
+      "id": 47408441,
+      "title": "Monkey Island for Commodore 64 Ground Up",
+      "url": "https://pixeldust.se/monkey-island-project",
+      "score": 56,
+      "comments": 13
+    },
+    {
+      "id": 47408205,
+      "title": "Every layer of review makes you 10x slower",
+      "url": "https://apenwarr.ca/log/20260316",
+      "score": 96,
+      "comments": 38
+    },
+    {
       "id": 47404796,
-      "title": "Leanstral: Open-Source foundation for trustworthy vibe-coding",
+      "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "url": "https://mistral.ai/news/leanstral",
-      "score": 232,
-      "comments": 40
-    },
-    {
-      "id": 47402640,
-      "title": "Meta’s renewed commitment to jemalloc",
-      "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 312,
-      "comments": 128
-    },
-    {
-      "id": 47401879,
-      "title": "The “small web” is bigger than you might think",
-      "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 285,
-      "comments": 127
-    },
-    {
-      "id": 47401809,
-      "title": "US commercial insurers pay 254% of Medicare for the same hospital procedures",
-      "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "score": 130,
-      "comments": 75
-    },
-    {
-      "id": 47398534,
-      "title": "My Journey to a reliable and enjoyable locally hosted voice assistant (2025)",
-      "url": "https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860",
-      "score": 303,
-      "comments": 92
+      "score": 411,
+      "comments": 85
     }
   ]
 }

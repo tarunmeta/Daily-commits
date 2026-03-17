@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-17 (last updated: 05:32 IST)
+
+## 📅 2026-03-17 (last updated: 11:44 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-17 05:32:06 IST | 371a8070f7f2 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-17 05:32:08 IST | a9afb75648e6 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-03-17 05:32:07 IST | bc773f9b1a9a | 4 assets moved, biggest mover: ethereum |
+| Hacker News | 5 | 2026-03-17 11:44:05 IST | 6ab7c71a5111 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-17 11:44:04 IST | 62542822407e | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,17 +42,17 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,860 stars today
 
 ### 📰 Hacker News Stories
-- [Leanstral: Open-Source foundation for trustworthy vibe-coding](https://mistral.ai/news/leanstral) — Score: 232
-- [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) — Score: 312
-- [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) — Score: 285
-- [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum) — Score: 130
-- [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) — Score: 303
+- [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&to=LinkedIn+speak) — Score: 161
+- [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/) — Score: 492
+- [Monkey Island for Commodore 64 Ground Up](https://pixeldust.se/monkey-island-project) — Score: 56
+- [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316) — Score: 96
+- [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral) — Score: 411
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,859.0 🟢 +2.65%
-- Ethereum: $2,351.24 🟢 +7.76%
-- Solana: $96.18 🟢 +4.25%
-- Bnb: $679.55 🟢 +0.58%
+- Bitcoin: $74,046.0 🟢 +0.53%
+- Ethereum: $2,310.8 🟢 +2.12%
+- Solana: $93.77 🟢 +0.38%
+- Bnb: $674.58 🔴 -0.93%
 
 ---
 ## 📅 2026-03-16 (last updated: 22:07 IST)
