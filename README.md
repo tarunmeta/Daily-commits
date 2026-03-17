@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-16 23:44:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-17 00:02:08 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **lightpanda-io/browser**
-- BTC: **$73,909.0** ↑ (+3.34%)
+- Top GitHub repo: **666ghj/MiroFish**
+- BTC: **$74,859.0** ↑ (+2.65%)
 - HN top story: **Leanstral: Open-Source foundation for trustworthy vibe-coding**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-03-16 00:00:29 UTC | `065b7d7dd949` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-16 23:44:13 UTC | `decfb5ba32f8` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-16 20:22:03 UTC | `ad13406a56b7` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 12 | 2026-03-17 00:02:06 UTC | `371a8070f7f2` | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-17 00:02:08 UTC | `a9afb75648e6` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-03-17 00:02:07 UTC | `bc773f9b1a9a` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-17` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `26` day(s) |
-| Last Commit (IST) | `2026-03-17 04:33:29 IST` |
+| Last Commit (IST) | `2026-03-17 05:14:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-14 | 30 | `██████░░░░░░░░░░░░░░` 30% |
 | 2026-03-15 | 31 | `██████░░░░░░░░░░░░░░` 31% |
 | 2026-03-16 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-03-17 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-03-17 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,909.0 | +3.34% | 🟢 |
-| Ethereum | $2,326.31 | +10.13% | 🟢 |
-| Solana | $95.45 | +8.33% | 🟢 |
-| Bnb | $674.61 | +2.20% | 🟢 |
+| Bitcoin | $74,859.0 | +2.65% | 🟢 |
+| Ethereum | $2,351.24 | +7.76% | 🟢 |
+| Solana | $96.18 | +4.25% | 🟢 |
+| Bnb | $679.55 | +0.58% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 1,335 stars today | Lightpanda: the headless browser designed for AI and automation |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 205 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 1,870 stars today | OpenViking is an open-source context database designed specifically for AI Agent… |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | 872 stars today | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 851 stars today | practice made claude perfect |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,867 stars today | An agentic skills framework & software development methodology that works. |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 1,062 stars today | Fully automatic censorship removal for language models |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 2,782 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 3,260 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 1,045 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 775 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3,152 stars today | An agentic skills framework & software development methodology that works. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,860 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 2,086 stars today | Lightpanda: the headless browser designed for AI and automation |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 2,012 stars today | OpenViking is an open-source context database designed specifically for AI Agent… |
+| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | 1,535 stars today | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Leanstral: Open-Source foundation for trustworthy vibe-coding](https://mistral.ai/news/leanstral) | 221 | 37 |
-| [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) | 305 | 128 |
-| [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) | 277 | 124 |
-| [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum) | 105 | 59 |
-| [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) | 297 | 92 |
+| [Leanstral: Open-Source foundation for trustworthy vibe-coding](https://mistral.ai/news/leanstral) | 232 | 40 |
+| [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/) | 312 | 128 |
+| [The “small web” is bigger than you might think](https://kevinboone.me/small_web_is_big.html) | 285 | 127 |
+| [US commercial insurers pay 254% of Medicare for the same hospital procedures](https://github.com/rexrodeo/american-healthcare-conundrum) | 130 | 75 |
+| [My Journey to a reliable and enjoyable locally hosted voice assistant (2025)](https://community.home-assistant.io/t/my-journey-to-a-reliable-and-enjoyable-locally-hosted-voice-assistant/944860) | 303 | 92 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

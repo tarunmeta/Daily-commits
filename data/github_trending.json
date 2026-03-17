@@ -2,92 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-16 00:00:29 UTC",
-    "fetched_at_ist": "2026-03-16 05:30:29 IST",
-    "item_count": 13,
-    "content_hash": "065b7d7dd94911e6d4ca77c386005d86a58e27a35837647f3625c90a82dd3c29",
-    "previous_hash": "3a834367017e49363265d1fc6e18b67eb92824d65c0a57e2a4e7e0ca04fec2ef",
-    "new_repos_vs_previous": 7,
+    "fetched_at_utc": "2026-03-17 00:02:06 UTC",
+    "fetched_at_ist": "2026-03-17 05:32:06 IST",
+    "item_count": 12,
+    "content_hash": "371a8070f7f2f309526918153f66a170469e303a2358def316609fe9eff66bb3",
+    "previous_hash": "065b7d7dd94911e6d4ca77c386005d86a58e27a35837647f3625c90a82dd3c29",
+    "new_repos_vs_previous": 3,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "Zig",
-      "stars_today": "1,335 stars today"
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars_today": "3,260 stars today"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars_today": "1,045 stars today"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars_today": "205 stars today"
-    },
-    {
-      "name": "volcengine/OpenViking",
-      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "language": "Python",
-      "stars_today": "1,870 stars today"
-    },
-    {
-      "name": "shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
-      "language": "TypeScript",
-      "stars_today": "872 stars today"
-    },
-    {
-      "name": "shanraisshan/claude-code-best-practice",
-      "description": "practice made claude perfect",
-      "language": "HTML",
-      "stars_today": "851 stars today"
+      "stars_today": "775 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,867 stars today"
-    },
-    {
-      "name": "p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "stars_today": "1,062 stars today"
-    },
-    {
-      "name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "stars_today": "2,782 stars today"
+      "stars_today": "3,152 stars today"
     },
     {
       "name": "abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars_today": "451 stars today"
+      "stars_today": "1,860 stars today"
     },
     {
-      "name": "topoteretes/cognee",
-      "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+      "name": "lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars_today": "2,086 stars today"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
-      "stars_today": "270 stars today"
+      "stars_today": "2,012 stars today"
     },
     {
-      "name": "InsForge/InsForge",
-      "description": "Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+      "name": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
       "language": "TypeScript",
-      "stars_today": "515 stars today"
+      "stars_today": "1,535 stars today"
+    },
+    {
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars_today": "788 stars today"
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "language": "Python",
+      "stars_today": "1,026 stars today"
+    },
+    {
+      "name": "YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "language": "TypeScript",
+      "stars_today": "111 stars today"
     },
     {
       "name": "voidzero-dev/vite-plus",
       "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
       "language": "Rust",
-      "stars_today": "300 stars today"
-    },
-    {
-      "name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "stars_today": "604 stars today"
+      "stars_today": "621 stars today"
     }
   ]
 }
