@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 06:14:05 UTC",
-    "fetched_at_ist": "2026-03-17 11:44:05 IST",
+    "fetched_at_utc": "2026-03-17 07:32:35 UTC",
+    "fetched_at_ist": "2026-03-17 13:02:35 IST",
     "item_count": 5,
-    "content_hash": "6ab7c71a5111d03ba67fc529e43697d0cdeded322977cba6811a698432836020",
-    "previous_hash": "a9afb75648e631b16cd58bf400fe186625b2751d8191b8415cac27415e3af4fa",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "d96e233437fdf80f1834aca71054a291038e7a5b6c4488b08b231e81f530c50d",
+    "previous_hash": "6ab7c71a5111d03ba67fc529e43697d0cdeded322977cba6811a698432836020",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47408703,
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 161,
-      "comments": 28
+      "score": 352,
+      "comments": 88
     },
     {
       "id": 47406779,
       "title": "US SEC preparing to scrap quarterly reporting requirement",
       "url": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
-      "score": 492,
-      "comments": 265
-    },
-    {
-      "id": 47408441,
-      "title": "Monkey Island for Commodore 64 Ground Up",
-      "url": "https://pixeldust.se/monkey-island-project",
-      "score": 56,
-      "comments": 13
+      "score": 541,
+      "comments": 292
     },
     {
       "id": 47408205,
       "title": "Every layer of review makes you 10x slower",
       "url": "https://apenwarr.ca/log/20260316",
-      "score": 96,
-      "comments": 38
+      "score": 150,
+      "comments": 65
     },
     {
       "id": 47404796,
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "url": "https://mistral.ai/news/leanstral",
-      "score": 411,
-      "comments": 85
+      "score": 433,
+      "comments": 89
+    },
+    {
+      "id": 47365299,
+      "title": "Claude Tips for 3D Work",
+      "url": "https://www.davesnider.com/posts/claude-3d",
+      "score": 51,
+      "comments": 5
     }
   ]
 }
