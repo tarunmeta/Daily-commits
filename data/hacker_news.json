@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 11:30:41 UTC",
-    "fetched_at_ist": "2026-03-17 17:00:41 IST",
+    "fetched_at_utc": "2026-03-17 12:33:59 UTC",
+    "fetched_at_ist": "2026-03-17 18:03:59 IST",
     "item_count": 5,
-    "content_hash": "80493ecd870fd17f4e5ed8a8eeb8328d6cd62a8064669908aae76a0277a861e2",
-    "previous_hash": "2f26f70a2ec2d57e321acbaf43a20010bc1d76eb35e1d0a5b40fa5c8bbc5b5eb",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "2120cec6484cfe30af384c910ccca079f7678b5a89d4c6c5cec7364e17ee06fd",
+    "previous_hash": "80493ecd870fd17f4e5ed8a8eeb8328d6cd62a8064669908aae76a0277a861e2",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47410542,
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 148,
-      "comments": 26
+      "score": 234,
+      "comments": 47
     },
     {
       "id": 47408703,
       "title": "Kagi Translate now supports LinkedIn Speak as an output language",
       "url": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-      "score": 669,
-      "comments": 169
+      "score": 783,
+      "comments": 192
+    },
+    {
+      "id": 47410870,
+      "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+      "url": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+      "score": 209,
+      "comments": 48
     },
     {
       "id": 47410532,
       "title": "Building a Shell",
       "url": "https://healeycodes.com/building-a-shell",
-      "score": 29,
-      "comments": 2
-    },
-    {
-      "id": 47410349,
-      "title": "Grace Hopper's Revenge",
-      "url": "https://www.thefuriousopposites.com/p/grace-hoppers-revenge",
-      "score": 24,
-      "comments": 18
+      "score": 51,
+      "comments": 12
     },
     {
       "id": 47404796,
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "url": "https://mistral.ai/news/leanstral",
-      "score": 586,
-      "comments": 127
+      "score": 606,
+      "comments": 129
     }
   ]
 }
