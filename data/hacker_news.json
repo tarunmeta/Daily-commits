@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 08:32:28 UTC",
-    "fetched_at_ist": "2026-03-17 14:02:28 IST",
+    "fetched_at_utc": "2026-03-17 09:39:24 UTC",
+    "fetched_at_ist": "2026-03-17 15:09:24 IST",
     "item_count": 5,
-    "content_hash": "745519441f54464b521ef18a2d94234e070efcdc7310c4aaf2cbc2412bf36d33",
-    "previous_hash": "d96e233437fdf80f1834aca71054a291038e7a5b6c4488b08b231e81f530c50d",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "654398f7ba3b7fc2668a4a9b75e14d25b7ebb888628f17f19cd2f4a36351335f",
+    "previous_hash": "745519441f54464b521ef18a2d94234e070efcdc7310c4aaf2cbc2412bf36d33",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47404796,
       "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
       "url": "https://mistral.ai/news/leanstral",
-      "score": 485,
-      "comments": 97
+      "score": 537,
+      "comments": 108
     },
     {
       "id": 47366435,
       "title": "The unlikely story of Teardown Multiplayer",
       "url": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
-      "score": 40,
-      "comments": 5
+      "score": 71,
+      "comments": 10
     },
     {
       "id": 47402640,
       "title": "Meta’s renewed commitment to jemalloc",
       "url": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-      "score": 425,
-      "comments": 184
+      "score": 436,
+      "comments": 191
     },
     {
       "id": 47401879,
       "title": "The “small web” is bigger than you might think",
       "url": "https://kevinboone.me/small_web_is_big.html",
-      "score": 404,
-      "comments": 170
+      "score": 424,
+      "comments": 180
     },
     {
       "id": 47401809,
       "title": "The American Healthcare Conundrum",
       "url": "https://github.com/rexrodeo/american-healthcare-conundrum",
-      "score": 329,
-      "comments": 287
+      "score": 345,
+      "comments": 299
     }
   ]
 }
