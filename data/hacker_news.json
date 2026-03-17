@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 18:38:45 UTC",
-    "fetched_at_ist": "2026-03-18 00:08:45 IST",
+    "fetched_at_utc": "2026-03-17 19:43:11 UTC",
+    "fetched_at_ist": "2026-03-18 01:13:11 IST",
     "item_count": 5,
-    "content_hash": "a757220fb30329c4de1f184c1bcf320025a45b769a1d1a939a7b8cc022b99ccf",
-    "previous_hash": "96c00c77c2949b05a54198082353a763e2c51555cb823c444941cdb1441b8c03",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "65d6b61b228871148e1087d6d8cb5e3a331cb76cfcac4640c25de62d85953797",
+    "previous_hash": "a757220fb30329c4de1f184c1bcf320025a45b769a1d1a939a7b8cc022b99ccf",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47416131,
-      "title": "Illinois Introducing Operating System Account Age Bill",
-      "url": "https://www.ilga.gov/Legislation/BillStatus?DocTypeID=HB&DocNum=5511",
-      "score": 67,
-      "comments": 46
+      "id": 47415919,
+      "title": "If you thought the code writing speed was your problem; you have bigger problems",
+      "url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
+      "score": 180,
+      "comments": 99
+    },
+    {
+      "id": 47416940,
+      "title": "Meta Horizon Worlds on Meta Quest is being discontinued",
+      "url": "https://communityforums.atmeta.com/blog/AnnouncementsBlog/updates-to-your-meta-quest-experience-in-2026/1369435",
+      "score": 38,
+      "comments": 19
     },
     {
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 249,
-      "comments": 106
+      "score": 319,
+      "comments": 138
+    },
+    {
+      "id": 47416736,
+      "title": "Slug Text Rendering Algorithm Dedicated to Public Domain",
+      "url": "https://terathon.com/blog/decade-slug.html",
+      "score": 32,
+      "comments": 1
     },
     {
       "id": 47410542,
       "title": "Kagi Small Web",
       "url": "https://kagi.com/smallweb/",
-      "score": 583,
-      "comments": 162
-    },
-    {
-      "id": 47413195,
-      "title": "Node.js needs a virtual file system",
-      "url": "https://blog.platformatic.dev/why-nodejs-needs-a-virtual-file-system",
-      "score": 116,
-      "comments": 106
-    },
-    {
-      "id": 47414440,
-      "title": "'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)",
-      "url": "https://theasc.com/articles/the-secret-agent-cinematography",
-      "score": 32,
-      "comments": 3
+      "score": 609,
+      "comments": 170
     }
   ]
 }
