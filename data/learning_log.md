@@ -23,18 +23,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-18 (last updated: 21:48 IST)
+
+## 📅 2026-03-18 (last updated: 23:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 6 | 2026-03-18 17:30:20 IST | a1ed72685471 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-18 17:30:21 IST | 9f35f6e935c2 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-18 23:07:33 IST | 6b8ce801190c | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-18 21:48:20 IST | 4835baff8592 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 683 stars today
 
 ### 📰 Hacker News Stories
-- [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) — Score: 127
-- [JPEG Compression](https://www.sophielwang.com/blog/jpeg) — Score: 245
-- [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/) — Score: 92
-- [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/) — Score: 80
-- [Mistral AI Releases Forge](https://mistral.ai/news/forge) — Score: 526
+- [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/) — Score: 183
+- [Snowflake AI Escapes Sandbox and Executes Malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware) — Score: 100
+- [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander) — Score: 65
+- [Rob Pike's Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) — Score: 588
+- [Nvidia NemoClaw](https://github.com/NVIDIA/NemoClaw) — Score: 63
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,246.0 🔴 -3.97%

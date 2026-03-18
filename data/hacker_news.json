@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-18 12:00:21 UTC",
-    "fetched_at_ist": "2026-03-18 17:30:21 IST",
+    "fetched_at_utc": "2026-03-18 17:37:33 UTC",
+    "fetched_at_ist": "2026-03-18 23:07:33 IST",
     "item_count": 5,
-    "content_hash": "9f35f6e935c2b821b2cb2d249d4dd1dd2b0e59ab8400743909441958cf34b767",
-    "previous_hash": "4baf3f56f759c28ed2e14f967dbb0431481243c23fb85a32512a0689db16cf0d",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "6b8ce801190c328d9b5c4de4ceb512dce3b1b46c573bace2eaae7bf68ce21dae",
+    "previous_hash": "9f35f6e935c2b821b2cb2d249d4dd1dd2b0e59ab8400743909441958cf34b767",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47426932,
+      "title": "Death to Scroll Fade",
+      "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+      "score": 183,
+      "comments": 82
+    },
+    {
+      "id": 47427017,
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "score": 100,
+      "comments": 19
+    },
+    {
+      "id": 47427388,
+      "title": "A tiny, decentralised tool to explore the small web",
+      "url": "https://codeberg.org/susam/wander",
+      "score": 65,
+      "comments": 9
+    },
+    {
       "id": 47423647,
-      "title": "Rob Pike's 5 Rules of Programming",
+      "title": "Rob Pike's Rules of Programming (1989)",
       "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 127,
-      "comments": 59
+      "score": 588,
+      "comments": 325
     },
     {
-      "id": 47372367,
-      "title": "JPEG Compression",
-      "url": "https://www.sophielwang.com/blog/jpeg",
-      "score": 245,
-      "comments": 49
-    },
-    {
-      "id": 47389696,
-      "title": "Write up of my homebrew CPU build",
-      "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
-      "score": 92,
-      "comments": 13
-    },
-    {
-      "id": 47422942,
-      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
-      "url": "https://nightingale.cafe/",
-      "score": 80,
-      "comments": 11
-    },
-    {
-      "id": 47418295,
-      "title": "Mistral AI Releases Forge",
-      "url": "https://mistral.ai/news/forge",
-      "score": 526,
-      "comments": 120
+      "id": 47427027,
+      "title": "Nvidia NemoClaw",
+      "url": "https://github.com/NVIDIA/NemoClaw",
+      "score": 63,
+      "comments": 37
     }
   ]
 }
