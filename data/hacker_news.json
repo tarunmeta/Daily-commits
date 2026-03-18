@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-18 22:34:36 UTC",
-    "fetched_at_ist": "2026-03-19 04:04:36 IST",
+    "fetched_at_utc": "2026-03-18 23:43:27 UTC",
+    "fetched_at_ist": "2026-03-19 05:13:27 IST",
     "item_count": 5,
-    "content_hash": "cc59b1fb282366cc10516a9284bed7e86988361f8f7f201f0cea422bb8a4ab34",
-    "previous_hash": "c7c1a733580366f880d3dbdf69a0991101c0a9b71fee261ed32ed83f12710d8e",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "a8b622af1036a3ae7f79971eba3f1c096db4818b5d9a3da47c4b76c5a1e0142e",
+    "previous_hash": "cc59b1fb282366cc10516a9284bed7e86988361f8f7f201f0cea422bb8a4ab34",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47431237,
       "title": "Warranty Void If Regenerated",
       "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 66,
-      "comments": 38
+      "score": 128,
+      "comments": 57
+    },
+    {
+      "id": 47388658,
+      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+      "score": 80,
+      "comments": 19
     },
     {
       "id": 47386703,
       "title": "OpenRocket",
       "url": "https://openrocket.info/",
-      "score": 340,
-      "comments": 68
+      "score": 356,
+      "comments": 76
     },
     {
       "id": 47422759,
       "title": "Wander – A tiny, decentralised tool to explore the small web",
       "url": "https://susam.net/wander/",
-      "score": 153,
-      "comments": 49
+      "score": 175,
+      "comments": 50
     },
     {
       "id": 47423647,
       "title": "Rob Pike’s Rules of Programming (1989)",
       "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 787,
-      "comments": 391
-    },
-    {
-      "id": 47427027,
-      "title": "Nvidia NemoClaw",
-      "url": "https://github.com/NVIDIA/NemoClaw",
-      "score": 203,
-      "comments": 150
+      "score": 813,
+      "comments": 403
     }
   ]
 }
