@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-19 (last updated: 00:07 IST)
+
+## 📅 2026-03-19 (last updated: 01:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 6 | 2026-03-18 17:30:20 IST | a1ed72685471 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-19 00:07:19 IST | 2024737d49c1 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-19 01:07:26 IST | c7c1a7335803 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-18 21:48:20 IST | 4835baff8592 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 683 stars today
 
 ### 📰 Hacker News Stories
-- [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/) — Score: 242
-- [AI Coding Is Gambling](https://notes.visaint.space/ai-coding-is-gambling/) — Score: 104
-- [Snowflake AI Escapes Sandbox and Executes Malware](https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware) — Score: 155
-- [Show HN: Will my flight have Starlink?](https://news.ycombinator.com/item?id=47428650) — Score: 53
-- [A tiny, decentralised tool to explore the small web](https://codeberg.org/susam/wander) — Score: 95
+- [Rob Pike's Rules of Programming (1989)](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) — Score: 679
+- [OpenRocket](https://openrocket.info/) — Score: 141
+- [2025 Turing award given for quantum information science](https://awards.acm.org/about/2025-turing) — Score: 47
+- [Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m](https://huggingface.co/datasets/open-index/hacker-news) — Score: 127
+- [Wanter – A tiny, decentralised tool to explore the small web](https://susam.net/wander/) — Score: 34
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,246.0 🔴 -3.97%
@@ -44,26 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $646.19 🔴 -3.53%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-18 (last updated: 23:07 IST)
 
 ### 🧪 Source Integrity Snapshot

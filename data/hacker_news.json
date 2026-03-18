@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-18 18:37:19 UTC",
-    "fetched_at_ist": "2026-03-19 00:07:19 IST",
+    "fetched_at_utc": "2026-03-18 19:37:26 UTC",
+    "fetched_at_ist": "2026-03-19 01:07:26 IST",
     "item_count": 5,
-    "content_hash": "2024737d49c1b025600cb02f70845764798318f2106a81c4e3bd48fa0fb8a346",
-    "previous_hash": "6b8ce801190c328d9b5c4de4ceb512dce3b1b46c573bace2eaae7bf68ce21dae",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "c7c1a733580366f880d3dbdf69a0991101c0a9b71fee261ed32ed83f12710d8e",
+    "previous_hash": "2024737d49c1b025600cb02f70845764798318f2106a81c4e3bd48fa0fb8a346",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47426932,
-      "title": "Death to Scroll Fade",
-      "url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
-      "score": 242,
-      "comments": 125
+      "id": 47423647,
+      "title": "Rob Pike's Rules of Programming (1989)",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 679,
+      "comments": 358
     },
     {
-      "id": 47428541,
-      "title": "AI Coding Is Gambling",
-      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
-      "score": 104,
-      "comments": 93
+      "id": 47386703,
+      "title": "OpenRocket",
+      "url": "https://openrocket.info/",
+      "score": 141,
+      "comments": 34
     },
     {
-      "id": 47427017,
-      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
-      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
-      "score": 155,
-      "comments": 41
+      "id": 47423694,
+      "title": "2025 Turing award given for quantum information science",
+      "url": "https://awards.acm.org/about/2025-turing",
+      "score": 47,
+      "comments": 9
     },
     {
-      "id": 47428650,
-      "title": "Show HN: Will my flight have Starlink?",
-      "url": "https://news.ycombinator.com/item?id=47428650",
-      "score": 53,
-      "comments": 37
+      "id": 47378781,
+      "title": "Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",
+      "url": "https://huggingface.co/datasets/open-index/hacker-news",
+      "score": 127,
+      "comments": 49
     },
     {
-      "id": 47427388,
-      "title": "A tiny, decentralised tool to explore the small web",
-      "url": "https://codeberg.org/susam/wander",
-      "score": 95,
-      "comments": 14
+      "id": 47422759,
+      "title": "Wanter – A tiny, decentralised tool to explore the small web",
+      "url": "https://susam.net/wander/",
+      "score": 34,
+      "comments": 23
     }
   ]
 }
