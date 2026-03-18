@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-18 02:32:24 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-18 06:03:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **666ghj/MiroFish**
-- BTC: **$74,356.0** ↓ (-0.19%)
-- HN top story: **A Decade of Slug**
+- Top GitHub repo: **obra/superpowers**
+- BTC: **$73,993.0** ↑ (+0.09%)
+- HN top story: **SSH has no Host header**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-17 00:02:06 UTC | `371a8070f7f2` | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-18 02:32:24 UTC | `16916bd8b431` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-03-17 23:16:12 UTC | `5569541171dc` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 6 | 2026-03-18 06:03:44 UTC | `0d6ae5f7cd04` | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-18 06:03:45 UTC | `4baf3f56f759` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-18 06:03:44 UTC | `62a26fa50d19` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-18` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `27` day(s) |
-| Last Commit (IST) | `2026-03-18 08:02:24 IST` |
+| Last Commit (IST) | `2026-03-18 10:17:57 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,37 @@
 | 2026-03-15 | 31 | `██████░░░░░░░░░░░░░░` 31% |
 | 2026-03-16 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-17 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-03-18 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-03-18 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,356.0 | -0.19% | 🔴 |
-| Ethereum | $2,331.14 | -0.45% | 🔴 |
-| Solana | $95.34 | -0.31% | 🔴 |
-| Bnb | $671.75 | -0.85% | 🔴 |
+| Bitcoin | $73,993.0 | +0.09% | 🟢 |
+| Ethereum | $2,319.87 | +0.81% | 🟢 |
+| Solana | $93.97 | +0.17% | 🟢 |
+| Bnb | $671.73 | -0.33% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 3,260 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 1,045 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 775 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3,152 stars today | An agentic skills framework & software development methodology that works. |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,860 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | 2,086 stars today | Lightpanda: the headless browser designed for AI and automation |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 2,012 stars today | OpenViking is an open-source context database designed specifically for AI Agent… |
-| [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | 1,535 stars today | Bash is all you need - A nano Claude Code–like agent, built from 0 to 1 |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3,078 stars today | An agentic skills framework & software development methodology that works. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 1,998 stars today | Master programming by recreating your favorite technologies from scratch. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,116 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | 1,415 stars today | Agent harness built with LangChain and LangGraph. Equipped with a planning tool,… |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 466 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [cloudflare/workerd](https://github.com/cloudflare/workerd) | C++ | 31 stars today | The JavaScript / Wasm runtime that powers Cloudflare Workers |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A Decade of Slug](https://terathon.com/blog/decade-slug.html) | 435 | 38 |
-| [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html) | 277 | 106 |
-| [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) | 555 | 211 |
-| [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot) | 46 | 13 |
-| [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done) | 198 | 116 |
+| [SSH has no Host header](https://blog.exe.dev/ssh-host-header) | 29 | 19 |
+| [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) | 94 | 34 |
+| [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory) | 136 | 12 |
+| [A Decade of Slug](https://terathon.com/blog/decade-slug.html) | 527 | 47 |
+| [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) | 612 | 219 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
