@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-18 07:18:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-18 12:00:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **obra/superpowers**
-- BTC: **$73,955.0** ↓ (-0.53%)
-- HN top story: **SSH has no Host header**
+- Top GitHub repo: **jarrodwatts/claude-hud**
+- BTC: **$72,954.0** ↓ (-1.48%)
+- HN top story: **Rob Pike's 5 Rules of Programming**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 6 | 2026-03-18 06:03:44 UTC | `0d6ae5f7cd04` | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-18 06:03:45 UTC | `4baf3f56f759` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-18 07:18:06 UTC | `14271083a510` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 6 | 2026-03-18 12:00:20 UTC | `a1ed72685471` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-18 12:00:21 UTC | `9f35f6e935c2` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-18 12:00:20 UTC | `0776be1373e3` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +3 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-18` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
 | Streak | `27` day(s) |
-| Last Commit (IST) | `2026-03-18 15:42:45 IST` |
+| Last Commit (IST) | `2026-03-18 16:41:31 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,37 +48,37 @@
 | 2026-03-15 | 31 | `██████░░░░░░░░░░░░░░` 31% |
 | 2026-03-16 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-17 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-03-18 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-03-18 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,955.0 | -0.53% | 🔴 |
-| Ethereum | $2,320.85 | -0.43% | 🔴 |
-| Solana | $94.16 | -0.20% | 🔴 |
-| Bnb | $673.15 | -0.22% | 🔴 |
+| Bitcoin | $72,954.0 | -1.48% | 🔴 |
+| Ethereum | $2,269.41 | -2.47% | 🔴 |
+| Solana | $92.02 | -1.91% | 🔴 |
+| Bnb | $662.92 | -0.74% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3,078 stars today | An agentic skills framework & software development methodology that works. |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 1,998 stars today | Master programming by recreating your favorite technologies from scratch. |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,116 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | 1,415 stars today | Agent harness built with LangChain and LangGraph. Equipped with a planning tool,… |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 466 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
-| [cloudflare/workerd](https://github.com/cloudflare/workerd) | C++ | 31 stars today | The JavaScript / Wasm runtime that powers Cloudflare Workers |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,040 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 4,091 stars today | An agentic skills framework & software development methodology that works. |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 975 stars today | Unified web UI for training and running open models like Qwen, DeepSeek, and Gem… |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 20 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
+| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | 683 stars today | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 454 stars today | An Open-Source Asynchronous Coding Agent |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [SSH has no Host header](https://blog.exe.dev/ssh-host-header) | 29 | 19 |
-| [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) | 94 | 34 |
-| [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory) | 136 | 12 |
-| [A Decade of Slug](https://terathon.com/blog/decade-slug.html) | 527 | 47 |
-| [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) | 612 | 219 |
+| [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) | 127 | 59 |
+| [JPEG Compression](https://www.sophielwang.com/blog/jpeg) | 245 | 49 |
+| [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/) | 92 | 13 |
+| [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/) | 80 | 11 |
+| [Mistral AI Releases Forge](https://mistral.ai/news/forge) | 526 | 120 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

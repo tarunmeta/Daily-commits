@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-18 06:03:45 UTC",
-    "fetched_at_ist": "2026-03-18 11:33:45 IST",
+    "fetched_at_utc": "2026-03-18 12:00:21 UTC",
+    "fetched_at_ist": "2026-03-18 17:30:21 IST",
     "item_count": 5,
-    "content_hash": "4baf3f56f759c28ed2e14f967dbb0431481243c23fb85a32512a0689db16cf0d",
-    "previous_hash": "16916bd8b4319b4e97f8dc36232d1ea6d779825d86404937eb629809bc03432b",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "9f35f6e935c2b821b2cb2d249d4dd1dd2b0e59ab8400743909441958cf34b767",
+    "previous_hash": "4baf3f56f759c28ed2e14f967dbb0431481243c23fb85a32512a0689db16cf0d",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47421828,
-      "title": "SSH has no Host header",
-      "url": "https://blog.exe.dev/ssh-host-header",
-      "score": 29,
-      "comments": 19
+      "id": 47423647,
+      "title": "Rob Pike's 5 Rules of Programming",
+      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+      "score": 127,
+      "comments": 59
     },
     {
-      "id": 47421442,
-      "title": "Have a Fucking Website",
-      "url": "https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/",
-      "score": 94,
-      "comments": 34
+      "id": 47372367,
+      "title": "JPEG Compression",
+      "url": "https://www.sophielwang.com/blog/jpeg",
+      "score": 245,
+      "comments": 49
     },
     {
-      "id": 47369883,
-      "title": "More than 135 open hardware devices flashable with your own firmware",
-      "url": "https://openhardware.directory",
-      "score": 136,
-      "comments": 12
+      "id": 47389696,
+      "title": "Write up of my homebrew CPU build",
+      "url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+      "score": 92,
+      "comments": 13
     },
     {
-      "id": 47416736,
-      "title": "A Decade of Slug",
-      "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 527,
-      "comments": 47
+      "id": 47422942,
+      "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+      "url": "https://nightingale.cafe/",
+      "score": 80,
+      "comments": 11
     },
     {
-      "id": 47413876,
-      "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
-      "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 612,
-      "comments": 219
+      "id": 47418295,
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "score": 526,
+      "comments": 120
     }
   ]
 }

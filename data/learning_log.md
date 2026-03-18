@@ -19,44 +19,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-18 (last updated: 12:48 IST)
+
+## 📅 2026-03-18 (last updated: 17:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 6 | 2026-03-18 11:33:44 IST | 0d6ae5f7cd04 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-18 11:33:45 IST | 4baf3f56f759 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-18 12:48:06 IST | 14271083a510 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 6 | 2026-03-18 17:30:20 IST | a1ed72685471 | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-18 17:30:21 IST | 9f35f6e935c2 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-18 17:30:20 IST | 0776be1373e3 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +3 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 3,078 stars today
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
-  ⭐ 1,998 stars today
-- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** (TypeScript) — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k  
-  ⭐ 1,116 stars today
-- **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)** (Python) — Agent harness built with LangChain and LangGraph. Equipped with a planning tool,  
-  ⭐ 1,415 stars today
 - **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** (JavaScript) — A Claude Code plugin that shows what's happening - context usage, active tools,   
-  ⭐ 466 stars today
+  ⭐ 1,040 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 4,091 stars today
+- **[unslothai/unsloth](https://github.com/unslothai/unsloth)** (Python) — Unified web UI for training and running open models like Qwen, DeepSeek, and Gem  
+  ⭐ 975 stars today
+- **[newton-physics/newton](https://github.com/newton-physics/newton)** (Python) — An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp  
+  ⭐ 20 stars today
+- **[shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)** (C++) — PlayStation 4 emulator for Windows, Linux and macOS written in C++  
+  ⭐ 683 stars today
 
 ### 📰 Hacker News Stories
-- [SSH has no Host header](https://blog.exe.dev/ssh-host-header) — Score: 29
-- [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/) — Score: 94
-- [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory) — Score: 136
-- [A Decade of Slug](https://terathon.com/blog/decade-slug.html) — Score: 527
-- [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) — Score: 612
+- [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html) — Score: 127
+- [JPEG Compression](https://www.sophielwang.com/blog/jpeg) — Score: 245
+- [Write up of my homebrew CPU build](https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/) — Score: 92
+- [Nightingale – open-source karaoke app that works with any song on your computer](https://nightingale.cafe/) — Score: 80
+- [Mistral AI Releases Forge](https://mistral.ai/news/forge) — Score: 526
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,955.0 🔴 -0.53%
-- Ethereum: $2,320.85 🔴 -0.43%
-- Solana: $94.16 🔴 -0.20%
-- Bnb: $673.15 🔴 -0.22%
+- Bitcoin: $72,954.0 🔴 -1.48%
+- Ethereum: $2,269.41 🔴 -2.47%
+- Solana: $92.02 🔴 -1.91%
+- Bnb: $662.92 🔴 -0.74%
 
 ---
 ## 📅 2026-03-17 (last updated: 23:12 IST)
