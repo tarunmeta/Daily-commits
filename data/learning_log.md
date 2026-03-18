@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-18 (last updated: 04:46 IST)
+
+## 📅 2026-03-18 (last updated: 08:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-17 05:32:06 IST | 371a8070f7f2 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-18 04:05:35 IST | e1f6cc5de46d | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-18 08:02:24 IST | 16916bd8b431 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-18 04:46:12 IST | 5569541171dc | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,860 stars today
 
 ### 📰 Hacker News Stories
-- [A Decade of Slug](https://terathon.com/blog/decade-slug.html) — Score: 315
-- [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html) — Score: 178
-- [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done) — Score: 106
-- [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) — Score: 446
-- [It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]](https://www.youtube.com/watch?v=3Ploi723hg4) — Score: 113
+- [A Decade of Slug](https://terathon.com/blog/decade-slug.html) — Score: 435
+- [Python 3.15's JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html) — Score: 277
+- [Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level) — Score: 555
+- [Show HN: Sub-millisecond VM sandboxes using CoW memory forking](https://github.com/adammiribyan/zeroboot) — Score: 46
+- [Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System](https://github.com/gsd-build/get-shit-done) — Score: 198
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,356.0 🔴 -0.19%

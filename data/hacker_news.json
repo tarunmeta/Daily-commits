@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-17 22:35:35 UTC",
-    "fetched_at_ist": "2026-03-18 04:05:35 IST",
+    "fetched_at_utc": "2026-03-18 02:32:24 UTC",
+    "fetched_at_ist": "2026-03-18 08:02:24 IST",
     "item_count": 5,
-    "content_hash": "e1f6cc5de46d93e10deb4581c9ba4d8985acc8b7167ca97178aed7967920195a",
-    "previous_hash": "65d6b61b228871148e1087d6d8cb5e3a331cb76cfcac4640c25de62d85953797",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "16916bd8b4319b4e97f8dc36232d1ea6d779825d86404937eb629809bc03432b",
+    "previous_hash": "e1f6cc5de46d93e10deb4581c9ba4d8985acc8b7167ca97178aed7967920195a",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47416736,
       "title": "A Decade of Slug",
       "url": "https://terathon.com/blog/decade-slug.html",
-      "score": 315,
-      "comments": 24
+      "score": 435,
+      "comments": 38
     },
     {
       "id": 47416486,
       "title": "Python 3.15's JIT is now back on track",
       "url": "https://fidget-spinner.github.io/posts/jit-on-track.html",
-      "score": 178,
-      "comments": 59
-    },
-    {
-      "id": 47417804,
-      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 106,
-      "comments": 51
+      "score": 277,
+      "comments": 106
     },
     {
       "id": 47413876,
       "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
       "url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-      "score": 446,
-      "comments": 174
+      "score": 555,
+      "comments": 211
     },
     {
-      "id": 47368425,
-      "title": "It Took Me 30 Years to Solve This VFX Problem – Green Screen Problem [video]",
-      "url": "https://www.youtube.com/watch?v=3Ploi723hg4",
-      "score": 113,
-      "comments": 49
+      "id": 47412569,
+      "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+      "url": "https://github.com/adammiribyan/zeroboot",
+      "score": 46,
+      "comments": 13
+    },
+    {
+      "id": 47417804,
+      "title": "Get Shit Done: A Meta-Prompting, Context Engineering and Spec-Driven Dev System",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "score": 198,
+      "comments": 116
     }
   ]
 }
