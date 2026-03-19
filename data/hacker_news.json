@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-19 00:01:56 UTC",
-    "fetched_at_ist": "2026-03-19 05:31:56 IST",
+    "fetched_at_utc": "2026-03-19 06:11:40 UTC",
+    "fetched_at_ist": "2026-03-19 11:41:40 IST",
     "item_count": 5,
-    "content_hash": "eb588fc7c723c8d9b5a4f680d7b01f046d3f3921333accf413175c03fae658cb",
-    "previous_hash": "a8b622af1036a3ae7f79971eba3f1c096db4818b5d9a3da47c4b76c5a1e0142e",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "a0ecda54fb3fe2ff830293523d14e1f5ff7eac93a0427f0ccc1ad3385a81e405",
+    "previous_hash": "eb588fc7c723c8d9b5a4f680d7b01f046d3f3921333accf413175c03fae658cb",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47431237,
-      "title": "Warranty Void If Regenerated",
-      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
-      "score": 143,
-      "comments": 64
+      "id": 47434047,
+      "title": "A sufficiently detailed spec is code",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "score": 142,
+      "comments": 49
+    },
+    {
+      "id": 47434024,
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "url": "https://rjcorwin.github.io/cook/",
+      "score": 115,
+      "comments": 26
+    },
+    {
+      "id": 47435156,
+      "title": "What 81,000 people want from AI",
+      "url": "https://www.anthropic.com/features/81k-interviews",
+      "score": 29,
+      "comments": 21
     },
     {
       "id": 47388658,
       "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
       "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 92,
-      "comments": 21
+      "score": 238,
+      "comments": 46
     },
     {
-      "id": 47386703,
-      "title": "OpenRocket",
-      "url": "https://openrocket.info/",
-      "score": 363,
-      "comments": 80
-    },
-    {
-      "id": 47422759,
-      "title": "Wander – A tiny, decentralised tool to explore the small web",
-      "url": "https://susam.net/wander/",
-      "score": 180,
-      "comments": 51
-    },
-    {
-      "id": 47423647,
-      "title": "Rob Pike’s Rules of Programming (1989)",
-      "url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-      "score": 820,
-      "comments": 404
+      "id": 47433058,
+      "title": "Austin’s surge of new housing construction drove down rents",
+      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+      "score": 457,
+      "comments": 495
     }
   ]
 }
