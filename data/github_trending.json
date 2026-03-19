@@ -2,50 +2,80 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-19 00:01:55 UTC",
-    "fetched_at_ist": "2026-03-19 05:31:55 IST",
-    "item_count": 6,
-    "content_hash": "75d9c3642457c372c61fbe7272118c5802fd147a9560f82c59658131b9af39e6",
-    "previous_hash": "a1ed72685471dba339526bd1ffea4c519119ab9db5aea5e29d7c64febdbaabaf",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-03-19 18:08:53 UTC",
+    "fetched_at_ist": "2026-03-19 23:38:53 IST",
+    "item_count": 11,
+    "content_hash": "efc0d73f06414cf6374218d5e355e647b549cf3215ac6cdab27c839b2199d507",
+    "previous_hash": "75d9c3642457c372c61fbe7272118c5802fd147a9560f82c59658131b9af39e6",
+    "new_repos_vs_previous": 6,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "jarrodwatts/claude-hud",
-      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-      "language": "JavaScript",
-      "stars_today": "1,038 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "4,089 stars today"
-    },
-    {
-      "name": "unslothai/unsloth",
-      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-      "language": "Python",
-      "stars_today": "1,005 stars today"
-    },
-    {
-      "name": "newton-physics/newton",
-      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-      "language": "Python",
-      "stars_today": "26 stars today"
-    },
-    {
-      "name": "shadps4-emu/shadPS4",
-      "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
-      "language": "C++",
-      "stars_today": "237 stars today"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "1,394 stars today"
     },
     {
       "name": "langchain-ai/open-swe",
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
-      "stars_today": "481 stars today"
+      "stars_today": "955 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "3,476 stars today"
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "stars_today": "1,851 stars today"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "language": "Python",
+      "stars_today": "1,259 stars today"
+    },
+    {
+      "name": "mobile-dev-inc/Maestro",
+      "description": "Painless E2E Automation for Mobile and Web",
+      "language": "Kotlin",
+      "stars_today": "468 stars today"
+    },
+    {
+      "name": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "stars_today": "345 stars today"
+    },
+    {
+      "name": "louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "language": "Rust",
+      "stars_today": "918 stars today"
+    },
+    {
+      "name": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
+      "language": "Python",
+      "stars_today": "257 stars today"
+    },
+    {
+      "name": "gsd-build/get-shit-done",
+      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+      "language": "JavaScript",
+      "stars_today": "1,414 stars today"
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "language": "TypeScript",
+      "stars_today": "1,458 stars today"
     }
   ]
 }

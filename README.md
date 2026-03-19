@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-19 17:15:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-19 18:08:54 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **jarrodwatts/claude-hud**
-- BTC: **$69,180.0** ↓ (-2.99%)
-- HN top story: **A sufficiently detailed spec is code**
+- Top GitHub repo: **opendataloader-project/opendataloader-pdf**
+- BTC: **$69,774.0** ↓ (-2.97%)
+- HN top story: **Astral to Join OpenAI**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 6 | 2026-03-19 00:01:55 UTC | `75d9c3642457` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-19 06:11:40 UTC | `a0ecda54fb3f` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-19 17:15:30 UTC | `3876e1986d1d` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 11 | 2026-03-19 18:08:53 UTC | `efc0d73f0641` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-19 18:08:54 UTC | `e995a43e7a01` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-19 18:08:53 UTC | `4b03bbcc4ebb` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-19` |
-| Commits Today | `23` / `100` |
-| Remaining Today | `77` |
-| Progress | `████░░░░░░░░░░░░░░░░` 23% |
+| Commits Today | `24` / `100` |
+| Remaining Today | `76` |
+| Progress | `████░░░░░░░░░░░░░░░░` 24% |
 | Streak | `28` day(s) |
-| Last Commit (IST) | `2026-03-19 21:39:35 IST` |
+| Last Commit (IST) | `2026-03-19 22:45:30 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,37 +48,39 @@
 | 2026-03-16 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-17 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-18 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-03-19 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
+| 2026-03-19 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $69,180.0 | -2.99% | 🔴 |
-| Ethereum | $2,107.89 | -3.45% | 🔴 |
-| Solana | $87.39 | -1.77% | 🔴 |
-| Bnb | $633.79 | -2.12% | 🔴 |
+| Bitcoin | $69,774.0 | -2.97% | 🔴 |
+| Ethereum | $2,123.76 | -4.17% | 🔴 |
+| Solana | $88.11 | -2.71% | 🔴 |
+| Bnb | $637.56 | -2.30% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,038 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 4,089 stars today | An agentic skills framework & software development methodology that works. |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 1,005 stars today | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss… |
-| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 26 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
-| [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | 237 stars today | PlayStation 4 emulator for Windows, Linux and macOS written in C++ |
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 481 stars today | An Open-Source Asynchronous Coding Agent |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,394 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 955 stars today | An Open-Source Asynchronous Coding Agent |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3,476 stars today | An agentic skills framework & software development methodology that works. |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,851 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 1,259 stars today | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss… |
+| [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Kotlin | 468 stars today | Painless E2E Automation for Mobile and Web |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 345 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | Rust | 918 stars today | Generate any location from the real world in Minecraft with a high level of deta… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) | 142 | 49 |
-| [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/) | 115 | 26 |
-| [What 81,000 people want from AI](https://www.anthropic.com/features/81k-interviews) | 29 | 21 |
-| [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost) | 238 | 46 |
-| [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents) | 457 | 495 |
+| [Astral to Join OpenAI](https://astral.sh/blog/openai) | 820 | 507 |
+| [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update) | 47 | 15 |
+| [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS) | 108 | 24 |
+| [How to Not Pay Your Taxes](https://taylor.town/succession-000) | 22 | 3 |
+| [World Happiness Report 2026](https://www.worldhappiness.report/ed/2026/) | 44 | 28 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

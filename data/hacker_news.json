@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-19 06:11:40 UTC",
-    "fetched_at_ist": "2026-03-19 11:41:40 IST",
+    "fetched_at_utc": "2026-03-19 18:08:54 UTC",
+    "fetched_at_ist": "2026-03-19 23:38:54 IST",
     "item_count": 5,
-    "content_hash": "a0ecda54fb3fe2ff830293523d14e1f5ff7eac93a0427f0ccc1ad3385a81e405",
-    "previous_hash": "eb588fc7c723c8d9b5a4f680d7b01f046d3f3921333accf413175c03fae658cb",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "e995a43e7a01f215f732361ad849e50848ee51c30a1bdc8c1ebb545787eabaeb",
+    "previous_hash": "a0ecda54fb3fe2ff830293523d14e1f5ff7eac93a0427f0ccc1ad3385a81e405",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47434047,
-      "title": "A sufficiently detailed spec is code",
-      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-      "score": 142,
-      "comments": 49
+      "id": 47438723,
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "score": 820,
+      "comments": 507
     },
     {
-      "id": 47434024,
-      "title": "Cook: A simple CLI for orchestrating Claude Code",
-      "url": "https://rjcorwin.github.io/cook/",
-      "score": 115,
-      "comments": 26
+      "id": 47442834,
+      "title": "An update on Steam / GOG changes for OpenTTD",
+      "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
+      "score": 47,
+      "comments": 15
     },
     {
-      "id": 47435156,
-      "title": "What 81,000 people want from AI",
-      "url": "https://www.anthropic.com/features/81k-interviews",
-      "score": 29,
-      "comments": 21
+      "id": 47441546,
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "score": 108,
+      "comments": 24
     },
     {
-      "id": 47388658,
-      "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
-      "url": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
-      "score": 238,
-      "comments": 46
+      "id": 47442699,
+      "title": "How to Not Pay Your Taxes",
+      "url": "https://taylor.town/succession-000",
+      "score": 22,
+      "comments": 3
     },
     {
-      "id": 47433058,
-      "title": "Austin’s surge of new housing construction drove down rents",
-      "url": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
-      "score": 457,
-      "comments": 495
+      "id": 47441784,
+      "title": "World Happiness Report 2026",
+      "url": "https://www.worldhappiness.report/ed/2026/",
+      "score": 44,
+      "comments": 28
     }
   ]
 }
