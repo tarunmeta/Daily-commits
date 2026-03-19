@@ -2,50 +2,50 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-18 12:00:20 UTC",
-    "fetched_at_ist": "2026-03-18 17:30:20 IST",
+    "fetched_at_utc": "2026-03-19 00:01:55 UTC",
+    "fetched_at_ist": "2026-03-19 05:31:55 IST",
     "item_count": 6,
-    "content_hash": "a1ed72685471dba339526bd1ffea4c519119ab9db5aea5e29d7c64febdbaabaf",
-    "previous_hash": "0d6ae5f7cd0465f2796b05d97b045236dcf2c917dba0ecfac075ec8d9f2ccad1",
-    "new_repos_vs_previous": 4,
-    "top_repo_changed": true
+    "content_hash": "75d9c3642457c372c61fbe7272118c5802fd147a9560f82c59658131b9af39e6",
+    "previous_hash": "a1ed72685471dba339526bd1ffea4c519119ab9db5aea5e29d7c64febdbaabaf",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "jarrodwatts/claude-hud",
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
       "language": "JavaScript",
-      "stars_today": "1,040 stars today"
+      "stars_today": "1,038 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "4,091 stars today"
+      "stars_today": "4,089 stars today"
     },
     {
       "name": "unslothai/unsloth",
-      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
       "language": "Python",
-      "stars_today": "975 stars today"
+      "stars_today": "1,005 stars today"
     },
     {
       "name": "newton-physics/newton",
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
       "language": "Python",
-      "stars_today": "20 stars today"
+      "stars_today": "26 stars today"
     },
     {
       "name": "shadps4-emu/shadPS4",
       "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
       "language": "C++",
-      "stars_today": "683 stars today"
+      "stars_today": "237 stars today"
     },
     {
       "name": "langchain-ai/open-swe",
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
-      "stars_today": "454 stars today"
+      "stars_today": "481 stars today"
     }
   ]
 }
