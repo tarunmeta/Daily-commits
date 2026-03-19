@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-19 18:08:54 UTC",
-    "fetched_at_ist": "2026-03-19 23:38:54 IST",
+    "fetched_at_utc": "2026-03-19 21:42:15 UTC",
+    "fetched_at_ist": "2026-03-20 03:12:15 IST",
     "item_count": 5,
-    "content_hash": "e995a43e7a01f215f732361ad849e50848ee51c30a1bdc8c1ebb545787eabaeb",
-    "previous_hash": "a0ecda54fb3fe2ff830293523d14e1f5ff7eac93a0427f0ccc1ad3385a81e405",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "aaa8cf3c589242f22da48f4e6055f477c6f80fc79522d12be4594afa589298ba",
+    "previous_hash": "e995a43e7a01f215f732361ad849e50848ee51c30a1bdc8c1ebb545787eabaeb",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47445175,
+      "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
+      "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
+      "score": 88,
+      "comments": 25
+    },
+    {
       "id": 47438723,
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 820,
-      "comments": 507
+      "score": 1079,
+      "comments": 666
     },
     {
-      "id": 47442834,
-      "title": "An update on Steam / GOG changes for OpenTTD",
-      "url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
-      "score": 47,
-      "comments": 15
+      "id": 47442690,
+      "title": "Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "score": 266,
+      "comments": 300
     },
     {
-      "id": 47441546,
-      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
-      "url": "https://github.com/KittenML/KittenTTS",
-      "score": 108,
-      "comments": 24
+      "id": 47445599,
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "url": "https://github.com/cockpit-project/cockpit",
+      "score": 34,
+      "comments": 14
     },
     {
-      "id": 47442699,
-      "title": "How to Not Pay Your Taxes",
-      "url": "https://taylor.town/succession-000",
-      "score": 22,
-      "comments": 3
-    },
-    {
-      "id": 47441784,
-      "title": "World Happiness Report 2026",
-      "url": "https://www.worldhappiness.report/ed/2026/",
-      "score": 44,
-      "comments": 28
+      "id": 47406160,
+      "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+      "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+      "score": 137,
+      "comments": 22
     }
   ]
 }

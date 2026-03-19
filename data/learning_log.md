@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-20 (last updated: 00:45 IST)
+
+## 📅 2026-03-20 (last updated: 03:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-03-19 23:38:53 IST | efc0d73f0641 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-19 23:38:54 IST | e995a43e7a01 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-20 03:12:15 IST | aaa8cf3c5892 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-20 00:45:17 IST | c9738873d4d5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,259 stars today
 
 ### 📰 Hacker News Stories
-- [Astral to Join OpenAI](https://astral.sh/blog/openai) — Score: 820
-- [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update) — Score: 47
-- [Show HN: Three new Kitten TTS models – smallest less than 25MB](https://github.com/KittenML/KittenTTS) — Score: 108
-- [How to Not Pay Your Taxes](https://taylor.town/succession-000) — Score: 22
-- [World Happiness Report 2026](https://www.worldhappiness.report/ed/2026/) — Score: 44
+- [Tesla: Failure of the FSD's degradation detection system [pdf]](https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf) — Score: 88
+- [Astral to Join OpenAI](https://astral.sh/blog/openai) — Score: 1079
+- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) — Score: 266
+- [Cockpit is a web-based graphical interface for servers](https://github.com/cockpit-project/cockpit) — Score: 34
+- [Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742) — Score: 137
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,293.0 🔴 -1.48%
