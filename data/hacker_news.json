@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-19 21:42:15 UTC",
-    "fetched_at_ist": "2026-03-20 03:12:15 IST",
+    "fetched_at_utc": "2026-03-19 23:32:00 UTC",
+    "fetched_at_ist": "2026-03-20 05:02:00 IST",
     "item_count": 5,
-    "content_hash": "aaa8cf3c589242f22da48f4e6055f477c6f80fc79522d12be4594afa589298ba",
-    "previous_hash": "e995a43e7a01f215f732361ad849e50848ee51c30a1bdc8c1ebb545787eabaeb",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "719698940fe9664873230039d8b2a7cad135ee225e031f7a5ec8b6444d5f9e89",
+    "previous_hash": "aaa8cf3c589242f22da48f4e6055f477c6f80fc79522d12be4594afa589298ba",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47445175,
-      "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
-      "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
-      "score": 88,
-      "comments": 25
+      "id": 47445599,
+      "title": "Cockpit is a web-based graphical interface for servers",
+      "url": "https://github.com/cockpit-project/cockpit",
+      "score": 124,
+      "comments": 74
     },
     {
       "id": 47438723,
       "title": "Astral to Join OpenAI",
       "url": "https://astral.sh/blog/openai",
-      "score": 1079,
-      "comments": 666
+      "score": 1158,
+      "comments": 716
     },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 266,
-      "comments": 300
+      "score": 403,
+      "comments": 461
     },
     {
-      "id": 47445599,
-      "title": "Cockpit is a web-based graphical interface for servers",
-      "url": "https://github.com/cockpit-project/cockpit",
-      "score": 34,
-      "comments": 14
+      "id": 47416972,
+      "title": "How the Turner twins are mythbusting modern technical apparel",
+      "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+      "score": 75,
+      "comments": 36
     },
     {
       "id": 47406160,
       "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
       "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 137,
-      "comments": 22
+      "score": 209,
+      "comments": 29
     }
   ]
 }
