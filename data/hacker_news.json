@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 19:38:01 UTC",
-    "fetched_at_ist": "2026-03-21 01:08:01 IST",
+    "fetched_at_utc": "2026-03-20 21:32:25 UTC",
+    "fetched_at_ist": "2026-03-21 03:02:25 IST",
     "item_count": 5,
-    "content_hash": "0b0754869397aa51668fe2f811ac3b605df3be57b75b815946dd09b3b1e2f61b",
-    "previous_hash": "bda5ac843567adbdf631f972bab273c009fa96e206ad336e4e79e1cbde5b2933",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "6be2cbd59ef263fd6340492a71337618f341adbf2da5e0361210c347f4928fe9",
+    "previous_hash": "0b0754869397aa51668fe2f811ac3b605df3be57b75b815946dd09b3b1e2f61b",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47459296,
+      "title": "Our commitment to Windows quality",
+      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
+      "score": 149,
+      "comments": 204
+    },
+    {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 272,
-      "comments": 261
+      "score": 387,
+      "comments": 332
     },
     {
-      "id": 47410871,
-      "title": "VisiCalc Reconstructed",
-      "url": "https://zserge.com/posts/visicalc/",
-      "score": 112,
-      "comments": 47
-    },
-    {
-      "id": 47450478,
-      "title": "ArXiv declares independence from Cornell",
-      "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 652,
-      "comments": 221
-    },
-    {
-      "id": 47416543,
-      "title": "The Los Angeles Aqueduct Is Wild",
-      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
-      "score": 203,
-      "comments": 103
+      "id": 47460525,
+      "title": "OpenCode – The open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "score": 13,
+      "comments": 1
     },
     {
       "id": 47458595,
       "title": "Attention Residuals",
       "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 13,
-      "comments": 2
+      "score": 66,
+      "comments": 11
+    },
+    {
+      "id": 47458348,
+      "title": "Show HN: I made an email app inspired by Arc browser",
+      "url": "https://demo.define.app",
+      "score": 17,
+      "comments": 4
     }
   ]
 }
