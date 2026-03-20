@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 22:39:44 UTC",
-    "fetched_at_ist": "2026-03-21 04:09:44 IST",
+    "fetched_at_utc": "2026-03-20 23:43:50 UTC",
+    "fetched_at_ist": "2026-03-21 05:13:50 IST",
     "item_count": 5,
-    "content_hash": "82edd70af5f2a10ad8da09967bc4817df8201d19ca32b55df8c60c620626874b",
-    "previous_hash": "6be2cbd59ef263fd6340492a71337618f341adbf2da5e0361210c347f4928fe9",
+    "content_hash": "444e20efbe9593f18802649063a468a3a4654546a8fd0e81ddc2ee31794d3d3a",
+    "previous_hash": "82edd70af5f2a10ad8da09967bc4817df8201d19ca32b55df8c60c620626874b",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47460525,
       "title": "OpenCode – The open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 181,
-      "comments": 71
+      "score": 286,
+      "comments": 133
     },
     {
       "id": 47459296,
       "title": "Our commitment to Windows quality",
       "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 248,
-      "comments": 422
+      "score": 308,
+      "comments": 547
+    },
+    {
+      "id": 47461018,
+      "title": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
+      "url": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
+      "score": 44,
+      "comments": 32
     },
     {
       "id": 47461094,
       "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
       "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 17,
-      "comments": 7
+      "score": 50,
+      "comments": 22
     },
     {
-      "id": 47453942,
-      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 421,
-      "comments": 355
-    },
-    {
-      "id": 47461321,
-      "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
-      "url": "https://github.com/FormerLab/fortransky",
-      "score": 13,
-      "comments": 12
+      "id": 47414292,
+      "title": "I love my dumb watches",
+      "url": "https://gary.onl/a-post-about-watches/",
+      "score": 47,
+      "comments": 36
     }
   ]
 }
