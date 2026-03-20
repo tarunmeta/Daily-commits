@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 13:34:40 UTC",
-    "fetched_at_ist": "2026-03-20 19:04:40 IST",
+    "fetched_at_utc": "2026-03-20 19:38:01 UTC",
+    "fetched_at_ist": "2026-03-21 01:08:01 IST",
     "item_count": 5,
-    "content_hash": "bda5ac843567adbdf631f972bab273c009fa96e206ad336e4e79e1cbde5b2933",
-    "previous_hash": "1b0014bf54b593730184a3114e50ae2c842b49839a27c60bae1f85eb91e4544d",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "0b0754869397aa51668fe2f811ac3b605df3be57b75b815946dd09b3b1e2f61b",
+    "previous_hash": "bda5ac843567adbdf631f972bab273c009fa96e206ad336e4e79e1cbde5b2933",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47453942,
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "score": 272,
+      "comments": 261
+    },
+    {
+      "id": 47410871,
+      "title": "VisiCalc Reconstructed",
+      "url": "https://zserge.com/posts/visicalc/",
+      "score": 112,
+      "comments": 47
+    },
+    {
       "id": 47450478,
-      "title": "ArXiv Declares Independence from Cornell",
+      "title": "ArXiv declares independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 448,
-      "comments": 146
+      "score": 652,
+      "comments": 221
     },
     {
-      "id": 47452955,
-      "title": "Entso-E final report on Iberian 2025 blackout",
-      "url": "https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/",
-      "score": 60,
-      "comments": 11
+      "id": 47416543,
+      "title": "The Los Angeles Aqueduct Is Wild",
+      "url": "https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild",
+      "score": 203,
+      "comments": 103
     },
     {
-      "id": 47407293,
-      "title": "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
-      "url": "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg",
-      "score": 34,
+      "id": 47458595,
+      "title": "Attention Residuals",
+      "url": "https://github.com/MoonshotAI/Attention-Residuals",
+      "score": 13,
       "comments": 2
-    },
-    {
-      "id": 47409055,
-      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "url": "https://arxiv.org/abs/2603.09229",
-      "score": 75,
-      "comments": 4
-    },
-    {
-      "id": 47452399,
-      "title": "The Soul of a Pedicab Driver",
-      "url": "https://www.sheldonbrown.com/pedicab.html",
-      "score": 63,
-      "comments": 18
     }
   ]
 }

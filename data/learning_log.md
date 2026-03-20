@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-21 (last updated: 20:53 IST)
+
+## 📅 2026-03-21 (last updated: 01:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-20 17:30:57 IST | 1dada4811879 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-20 19:04:40 IST | bda5ac843567 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-21 01:08:01 IST | 0b0754869397 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-20 20:53:45 IST | a308883eb423 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,073 stars today
 
 ### 📰 Hacker News Stories
-- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) — Score: 448
-- [Entso-E final report on Iberian 2025 blackout](https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/) — Score: 60
-- [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg) — Score: 34
-- [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229) — Score: 75
-- [The Soul of a Pedicab Driver](https://www.sheldonbrown.com/pedicab.html) — Score: 63
+- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) — Score: 272
+- [VisiCalc Reconstructed](https://zserge.com/posts/visicalc/) — Score: 112
+- [ArXiv declares independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) — Score: 652
+- [The Los Angeles Aqueduct Is Wild](https://practical.engineering/blog/2026/3/17/the-los-angeles-aqueduct-is-wild) — Score: 203
+- [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,624.0 🟢 +0.42%
@@ -44,30 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $638.21 🟢 +0.29%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-20 (last updated: 20:53 IST)
 
 ### 🧪 Source Integrity Snapshot
