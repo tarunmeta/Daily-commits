@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-20 11:39:04 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-20 12:00:58 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **opendataloader-project/opendataloader-pdf**
-- BTC: **$70,596.0** ↑ (+0.56%)
+- Top GitHub repo: **jarrodwatts/claude-hud**
+- BTC: **$70,454.0** ↑ (+0.74%)
 - HN top story: **ArXiv Declares Independence from Cornell**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-03-19 18:08:53 UTC | `efc0d73f0641` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-20 11:39:04 UTC | `844b8461b678` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-03-20 09:25:47 UTC | `6e3ebd0c9ceb` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-03-20 12:00:57 UTC | `1dada4811879` | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-20 12:00:58 UTC | `1b0014bf54b5` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-03-20 12:00:57 UTC | `0f2f1090a2c3` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-20` |
-| Commits Today | `18` / `100` |
-| Remaining Today | `82` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
+| Commits Today | `19` / `100` |
+| Remaining Today | `81` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
 | Streak | `29` day(s) |
-| Last Commit (IST) | `2026-03-20 16:28:13 IST` |
+| Last Commit (IST) | `2026-03-20 17:09:04 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-17 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-18 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-03-19 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
-| 2026-03-20 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
+| 2026-03-20 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $70,596.0 | +0.56% | 🟢 |
-| Ethereum | $2,145.11 | -1.48% | 🔴 |
-| Solana | $89.07 | -0.48% | 🔴 |
-| Bnb | $642.62 | -0.45% | 🔴 |
+| Bitcoin | $70,454.0 | +0.74% | 🟢 |
+| Ethereum | $2,140.67 | -1.22% | 🔴 |
+| Solana | $89.04 | -0.61% | 🔴 |
+| Bnb | $641.3 | -0.41% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,394 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 955 stars today | An Open-Source Asynchronous Coding Agent |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 3,476 stars today | An agentic skills framework & software development methodology that works. |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,851 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 1,259 stars today | Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss… |
-| [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro) | Kotlin | 468 stars today | Painless E2E Automation for Mobile and Web |
-| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 345 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
-| [louis-e/arnis](https://github.com/louis-e/arnis) | Rust | 918 stars today | Generate any location from the real world in Minecraft with a high level of deta… |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,074 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 640 stars today | An Open-Source Asynchronous Coding Agent |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,886 stars today | An agentic skills framework & software development methodology that works. |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,848 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [louis-e/arnis](https://github.com/louis-e/arnis) | Rust | 1,073 stars today | Generate any location from the real world in Minecraft with a high level of deta… |
+| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 267 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
+| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | 136 stars today | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions… |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 371 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) | 351 | 104 |
-| [AI (2014)](https://blog.samaltman.com/ai) | 23 | 6 |
-| [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229) | 31 | 2 |
-| [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) | 890 | 959 |
-| [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/) | 77 | 14 |
+| [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) | 372 | 110 |
+| [AI (2014)](https://blog.samaltman.com/ai) | 42 | 24 |
+| [3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs](https://thecoolingreport.com/intel.html) | 15 | 4 |
+| [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229) | 42 | 3 |
+| [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) | 903 | 971 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

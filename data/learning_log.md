@@ -21,44 +21,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-20 (last updated: 17:09 IST)
+
+## 📅 2026-03-20 (last updated: 17:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-03-19 23:38:53 IST | efc0d73f0641 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-20 17:09:04 IST | 844b8461b678 | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-03-20 14:55:47 IST | 6e3ebd0c9ceb | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-03-20 17:30:57 IST | 1dada4811879 | +3 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-20 17:30:58 IST | 1b0014bf54b5 | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-03-20 17:30:57 IST | 0f2f1090a2c3 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +3 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** (Java) — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  
-  ⭐ 1,394 stars today
-- **[langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)** (Python) — An Open-Source Asynchronous Coding Agent  
-  ⭐ 955 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 3,476 stars today
 - **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** (JavaScript) — A Claude Code plugin that shows what's happening - context usage, active tools,   
-  ⭐ 1,851 stars today
-- **[unslothai/unsloth](https://github.com/unslothai/unsloth)** (Python) — Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss  
-  ⭐ 1,259 stars today
+  ⭐ 1,074 stars today
+- **[langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)** (Python) — An Open-Source Asynchronous Coding Agent  
+  ⭐ 640 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 2,886 stars today
+- **[opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)** (Java) — PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.  
+  ⭐ 1,848 stars today
+- **[louis-e/arnis](https://github.com/louis-e/arnis)** (Rust) — Generate any location from the real world in Minecraft with a high level of deta  
+  ⭐ 1,073 stars today
 
 ### 📰 Hacker News Stories
-- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) — Score: 351
-- [AI (2014)](https://blog.samaltman.com/ai) — Score: 23
-- [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229) — Score: 31
-- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) — Score: 890
-- [Drawvg Filter for FFmpeg](https://ayosec.github.io/ffmpeg-drawvg/) — Score: 77
+- [ArXiv Declares Independence from Cornell](https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell) — Score: 372
+- [AI (2014)](https://blog.samaltman.com/ai) — Score: 42
+- [3M's PFAS exit killed the supply chain for two-phase immersion cooling in DCs](https://thecoolingreport.com/intel.html) — Score: 15
+- [Flash-KMeans: Fast and Memory-Efficient Exact K-Means](https://arxiv.org/abs/2603.09229) — Score: 42
+- [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) — Score: 903
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $70,596.0 🟢 +0.56%
-- Ethereum: $2,145.11 🔴 -1.48%
-- Solana: $89.07 🔴 -0.48%
-- Bnb: $642.62 🔴 -0.45%
+- Bitcoin: $70,454.0 🟢 +0.74%
+- Ethereum: $2,140.67 🔴 -1.22%
+- Solana: $89.04 🔴 -0.61%
+- Bnb: $641.3 🔴 -0.41%
 
 ---
 ## 📅 2026-03-19 (last updated: 23:38 IST)
