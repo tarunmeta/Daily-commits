@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 08:43:13 UTC",
-    "fetched_at_ist": "2026-03-20 14:13:13 IST",
+    "fetched_at_utc": "2026-03-20 11:39:04 UTC",
+    "fetched_at_ist": "2026-03-20 17:09:04 IST",
     "item_count": 5,
-    "content_hash": "02590ea2b3fd52468555d8d36eb113618bdfee5351217c3f411caed57e697fa4",
-    "previous_hash": "719698940fe9664873230039d8b2a7cad135ee225e031f7a5ec8b6444d5f9e89",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "844b8461b678806cca9eb60b672618abbbf40715c953a409b7a0bef01d3c0f37",
+    "previous_hash": "02590ea2b3fd52468555d8d36eb113618bdfee5351217c3f411caed57e697fa4",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47450478,
       "title": "ArXiv Declares Independence from Cornell",
       "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
-      "score": 216,
-      "comments": 54
+      "score": 351,
+      "comments": 104
     },
     {
-      "id": 47403905,
-      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
-      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
-      "score": 74,
-      "comments": 39
+      "id": 47453010,
+      "title": "AI (2014)",
+      "url": "https://blog.samaltman.com/ai",
+      "score": 23,
+      "comments": 6
+    },
+    {
+      "id": 47409055,
+      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+      "url": "https://arxiv.org/abs/2603.09229",
+      "score": 31,
+      "comments": 2
     },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 764,
-      "comments": 856
+      "score": 890,
+      "comments": 959
     },
     {
-      "id": 47448524,
-      "title": "Push events into a running session with channels",
-      "url": "https://code.claude.com/docs/en/channels",
-      "score": 321,
-      "comments": 181
-    },
-    {
-      "id": 47448994,
-      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
-      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
-      "score": 129,
-      "comments": 26
+      "id": 47413879,
+      "title": "Drawvg Filter for FFmpeg",
+      "url": "https://ayosec.github.io/ffmpeg-drawvg/",
+      "score": 77,
+      "comments": 14
     }
   ]
 }
