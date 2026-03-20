@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-19 23:32:00 UTC",
-    "fetched_at_ist": "2026-03-20 05:02:00 IST",
+    "fetched_at_utc": "2026-03-20 08:43:13 UTC",
+    "fetched_at_ist": "2026-03-20 14:13:13 IST",
     "item_count": 5,
-    "content_hash": "719698940fe9664873230039d8b2a7cad135ee225e031f7a5ec8b6444d5f9e89",
-    "previous_hash": "aaa8cf3c589242f22da48f4e6055f477c6f80fc79522d12be4594afa589298ba",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "02590ea2b3fd52468555d8d36eb113618bdfee5351217c3f411caed57e697fa4",
+    "previous_hash": "719698940fe9664873230039d8b2a7cad135ee225e031f7a5ec8b6444d5f9e89",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47445599,
-      "title": "Cockpit is a web-based graphical interface for servers",
-      "url": "https://github.com/cockpit-project/cockpit",
-      "score": 124,
-      "comments": 74
+      "id": 47450478,
+      "title": "ArXiv Declares Independence from Cornell",
+      "url": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+      "score": 216,
+      "comments": 54
     },
     {
-      "id": 47438723,
-      "title": "Astral to Join OpenAI",
-      "url": "https://astral.sh/blog/openai",
-      "score": 1158,
-      "comments": 716
+      "id": 47403905,
+      "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+      "url": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+      "score": 74,
+      "comments": 39
     },
     {
       "id": 47442690,
       "title": "Google details new 24-hour process to sideload unverified Android apps",
       "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-      "score": 403,
-      "comments": 461
+      "score": 764,
+      "comments": 856
     },
     {
-      "id": 47416972,
-      "title": "How the Turner twins are mythbusting modern technical apparel",
-      "url": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
-      "score": 75,
-      "comments": 36
+      "id": 47448524,
+      "title": "Push events into a running session with channels",
+      "url": "https://code.claude.com/docs/en/channels",
+      "score": 321,
+      "comments": 181
     },
     {
-      "id": 47406160,
-      "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
-      "url": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
-      "score": 209,
-      "comments": 29
+      "id": 47448994,
+      "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+      "url": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+      "score": 129,
+      "comments": 26
     }
   ]
 }
