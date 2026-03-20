@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-21 (last updated: 03:02 IST)
+
+## 📅 2026-03-21 (last updated: 04:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-20 17:30:57 IST | 1dada4811879 | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-21 03:02:25 IST | 6be2cbd59ef2 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-21 04:09:44 IST | 82edd70af5f2 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-20 20:53:45 IST | a308883eb423 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,073 stars today
 
 ### 📰 Hacker News Stories
-- [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/) — Score: 149
-- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) — Score: 387
-- [OpenCode – The open source AI coding agent](https://opencode.ai/) — Score: 13
-- [Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals) — Score: 66
-- [Show HN: I made an email app inspired by Arc browser](https://demo.define.app) — Score: 17
+- [OpenCode – The open source AI coding agent](https://opencode.ai/) — Score: 181
+- [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/) — Score: 248
+- [We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster](https://www.openui.com/blog/rust-wasm-parser) — Score: 17
+- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) — Score: 421
+- [Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran](https://github.com/FormerLab/fortransky) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,624.0 🟢 +0.42%

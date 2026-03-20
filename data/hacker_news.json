@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 21:32:25 UTC",
-    "fetched_at_ist": "2026-03-21 03:02:25 IST",
+    "fetched_at_utc": "2026-03-20 22:39:44 UTC",
+    "fetched_at_ist": "2026-03-21 04:09:44 IST",
     "item_count": 5,
-    "content_hash": "6be2cbd59ef263fd6340492a71337618f341adbf2da5e0361210c347f4928fe9",
-    "previous_hash": "0b0754869397aa51668fe2f811ac3b605df3be57b75b815946dd09b3b1e2f61b",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "82edd70af5f2a10ad8da09967bc4817df8201d19ca32b55df8c60c620626874b",
+    "previous_hash": "6be2cbd59ef263fd6340492a71337618f341adbf2da5e0361210c347f4928fe9",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47460525,
+      "title": "OpenCode – The open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "score": 181,
+      "comments": 71
+    },
+    {
       "id": 47459296,
       "title": "Our commitment to Windows quality",
       "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 149,
-      "comments": 204
+      "score": 248,
+      "comments": 422
+    },
+    {
+      "id": 47461094,
+      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
+      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "score": 17,
+      "comments": 7
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 387,
-      "comments": 332
+      "score": 421,
+      "comments": 355
     },
     {
-      "id": 47460525,
-      "title": "OpenCode – The open source AI coding agent",
-      "url": "https://opencode.ai/",
+      "id": 47461321,
+      "title": "Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran",
+      "url": "https://github.com/FormerLab/fortransky",
       "score": 13,
-      "comments": 1
-    },
-    {
-      "id": 47458595,
-      "title": "Attention Residuals",
-      "url": "https://github.com/MoonshotAI/Attention-Residuals",
-      "score": 66,
-      "comments": 11
-    },
-    {
-      "id": 47458348,
-      "title": "Show HN: I made an email app inspired by Arc browser",
-      "url": "https://demo.define.app",
-      "score": 17,
-      "comments": 4
+      "comments": 12
     }
   ]
 }
