@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 13:43:49 UTC",
-    "fetched_at_ist": "2026-03-21 19:13:49 IST",
+    "fetched_at_utc": "2026-03-21 16:32:47 UTC",
+    "fetched_at_ist": "2026-03-21 22:02:47 IST",
     "item_count": 5,
-    "content_hash": "84637c5f51255b96ef8ebc13851052bc134d280759957d68c55c153ce31bc899",
-    "previous_hash": "a18d8938670a66c945a5b73f3bda2fda008518be575f6742fdb4c31a5cd6959b",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "842eb4b86cd9ffa20b23f176fcc5993ff0a0fc13b21cdbe7e50f0ff5019c5c13",
+    "previous_hash": "84637c5f51255b96ef8ebc13851052bc134d280759957d68c55c153ce31bc899",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47467746,
+      "title": "404 Deno CEO not found",
+      "url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
+      "score": 84,
+      "comments": 46
+    },
+    {
+      "id": 47467537,
+      "title": "Some Things Just Take Time",
+      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+      "score": 34,
+      "comments": 14
+    },
+    {
+      "id": 47467567,
+      "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
+      "url": "https://grafeo.dev/",
+      "score": 32,
+      "comments": 4
+    },
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 939,
-      "comments": 446
+      "score": 1067,
+      "comments": 525
     },
     {
-      "id": 47419391,
-      "title": "Mamba-3",
-      "url": "https://www.together.ai/blog/mamba-3",
-      "score": 182,
-      "comments": 32
-    },
-    {
-      "id": 47414356,
-      "title": "We give every user SQL access to a shared ClickHouse cluster",
-      "url": "https://trigger.dev/blog/how-trql-works",
-      "score": 27,
-      "comments": 21
-    },
-    {
-      "id": 47463547,
-      "title": "FFmpeg 101 (2024)",
-      "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 129,
-      "comments": 3
-    },
-    {
-      "id": 47421749,
-      "title": "Meta's Omnilingual MT for 1,600 Languages",
-      "url": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
-      "score": 22,
-      "comments": 1
+      "id": 47468209,
+      "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch",
+      "url": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/",
+      "score": 28,
+      "comments": 18
     }
   ]
 }
