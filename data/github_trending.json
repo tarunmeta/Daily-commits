@@ -2,68 +2,68 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-20 12:00:57 UTC",
-    "fetched_at_ist": "2026-03-20 17:30:57 IST",
+    "fetched_at_utc": "2026-03-21 00:01:03 UTC",
+    "fetched_at_ist": "2026-03-21 05:31:03 IST",
     "item_count": 9,
-    "content_hash": "1dada4811879fe64f98d0d6c98c82d87016a4adb7b02188b34a0eab332c1087d",
-    "previous_hash": "efc0d73f06414cf6374218d5e355e647b549cf3215ac6cdab27c839b2199d507",
-    "new_repos_vs_previous": 3,
-    "top_repo_changed": true
+    "content_hash": "3723a6167f97947b267636004aecb30cb3797a3ed506b1864a985f1d5400cd6d",
+    "previous_hash": "1dada4811879fe64f98d0d6c98c82d87016a4adb7b02188b34a0eab332c1087d",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "jarrodwatts/claude-hud",
       "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
       "language": "JavaScript",
-      "stars_today": "1,074 stars today"
+      "stars_today": "1,068 stars today"
     },
     {
       "name": "langchain-ai/open-swe",
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
-      "stars_today": "640 stars today"
+      "stars_today": "635 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "2,886 stars today"
+      "stars_today": "2,819 stars today"
     },
     {
       "name": "opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
-      "stars_today": "1,848 stars today"
+      "stars_today": "1,812 stars today"
     },
     {
       "name": "louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
-      "stars_today": "1,073 stars today"
+      "stars_today": "1,045 stars today"
     },
     {
       "name": "newton-physics/newton",
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
       "language": "Python",
-      "stars_today": "267 stars today"
+      "stars_today": "266 stars today"
     },
     {
       "name": "vas3k/TaxHacker",
       "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
       "language": "TypeScript",
-      "stars_today": "136 stars today"
+      "stars_today": "137 stars today"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "371 stars today"
+      "stars_today": "433 stars today"
     },
     {
       "name": "openrocket/openrocket",
       "description": "Model-rocketry aerodynamics and trajectory simulation software",
       "language": "Java",
-      "stars_today": "132 stars today"
+      "stars_today": "144 stars today"
     }
   ]
 }

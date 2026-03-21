@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-20 23:43:50 UTC",
-    "fetched_at_ist": "2026-03-21 05:13:50 IST",
+    "fetched_at_utc": "2026-03-21 00:01:04 UTC",
+    "fetched_at_ist": "2026-03-21 05:31:04 IST",
     "item_count": 5,
-    "content_hash": "444e20efbe9593f18802649063a468a3a4654546a8fd0e81ddc2ee31794d3d3a",
-    "previous_hash": "82edd70af5f2a10ad8da09967bc4817df8201d19ca32b55df8c60c620626874b",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "eb058775c9b827853df8d1ce841f16d1a55131c40264fc43ffe47104946d83bf",
+    "previous_hash": "444e20efbe9593f18802649063a468a3a4654546a8fd0e81ddc2ee31794d3d3a",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47460525,
       "title": "OpenCode – The open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 286,
-      "comments": 133
+      "score": 300,
+      "comments": 141
     },
     {
       "id": 47459296,
       "title": "Our commitment to Windows quality",
       "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 308,
-      "comments": 547
+      "score": 318,
+      "comments": 582
     },
     {
       "id": 47461018,
       "title": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
       "url": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
-      "score": 44,
-      "comments": 32
+      "score": 45,
+      "comments": 40
     },
     {
       "id": 47461094,
       "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
       "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 50,
-      "comments": 22
+      "score": 61,
+      "comments": 30
     },
     {
-      "id": 47414292,
-      "title": "I love my dumb watches",
-      "url": "https://gary.onl/a-post-about-watches/",
-      "score": 47,
-      "comments": 36
+      "id": 47453942,
+      "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "score": 445,
+      "comments": 376
     }
   ]
 }
