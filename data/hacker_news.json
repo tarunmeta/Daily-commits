@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 00:01:04 UTC",
-    "fetched_at_ist": "2026-03-21 05:31:04 IST",
+    "fetched_at_utc": "2026-03-21 06:04:05 UTC",
+    "fetched_at_ist": "2026-03-21 11:34:05 IST",
     "item_count": 5,
-    "content_hash": "eb058775c9b827853df8d1ce841f16d1a55131c40264fc43ffe47104946d83bf",
-    "previous_hash": "444e20efbe9593f18802649063a468a3a4654546a8fd0e81ddc2ee31794d3d3a",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "06a522403760714fefc069e52c43de3f9ce4217561f0ab263a7d1f1d4fea0b5b",
+    "previous_hash": "eb058775c9b827853df8d1ce841f16d1a55131c40264fc43ffe47104946d83bf",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
     {
       "id": 47460525,
-      "title": "OpenCode – The open source AI coding agent",
+      "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 300,
-      "comments": 141
+      "score": 611,
+      "comments": 271
     },
     {
-      "id": 47459296,
-      "title": "Our commitment to Windows quality",
-      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
-      "score": 318,
-      "comments": 582
-    },
-    {
-      "id": 47461018,
-      "title": "Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists",
-      "url": "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029",
-      "score": 45,
-      "comments": 40
-    },
-    {
-      "id": 47461094,
-      "title": "We rewrote our Rust WASM Parser in TypeScript – and it got 3x Faster",
-      "url": "https://www.openui.com/blog/rust-wasm-parser",
-      "score": 61,
-      "comments": 30
+      "id": 47419391,
+      "title": "Mamba-3",
+      "url": "https://www.together.ai/blog/mamba-3",
+      "score": 25,
+      "comments": 0
     },
     {
       "id": 47453942,
       "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
       "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-      "score": 445,
-      "comments": 376
+      "score": 530,
+      "comments": 415
+    },
+    {
+      "id": 47455138,
+      "title": "Molly Guard",
+      "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+      "score": 49,
+      "comments": 22
+    },
+    {
+      "id": 47461094,
+      "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+      "url": "https://www.openui.com/blog/rust-wasm-parser",
+      "score": 155,
+      "comments": 89
     }
   ]
 }
