@@ -19,13 +19,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-21 (last updated: 11:34 IST)
+
+## 📅 2026-03-21 (last updated: 14:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 05:31:03 IST | 3723a6167f97 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-21 11:34:05 IST | 06a522403760 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-21 14:06:29 IST | a18d8938670a | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-21 11:34:04 IST | a4febd859d22 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 611
-- [Mamba-3](https://www.together.ai/blog/mamba-3) — Score: 25
-- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) — Score: 530
-- [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) — Score: 49
-- [We rewrote our Rust WASM parser in TypeScript and it got faster](https://www.openui.com/blog/rust-wasm-parser) — Score: 155
+- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 730
+- [Mamba-3](https://www.together.ai/blog/mamba-3) — Score: 93
+- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) — Score: 60
+- [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) — Score: 90
+- [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) — Score: 245
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,710.0 🟢 +0.15%
