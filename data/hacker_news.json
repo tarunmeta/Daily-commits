@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 16:32:47 UTC",
-    "fetched_at_ist": "2026-03-21 22:02:47 IST",
+    "fetched_at_utc": "2026-03-21 17:42:36 UTC",
+    "fetched_at_ist": "2026-03-21 23:12:36 IST",
     "item_count": 5,
-    "content_hash": "842eb4b86cd9ffa20b23f176fcc5993ff0a0fc13b21cdbe7e50f0ff5019c5c13",
-    "previous_hash": "84637c5f51255b96ef8ebc13851052bc134d280759957d68c55c153ce31bc899",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "d2d2d30bd4732664dc24bf5e09451810241ce4a0db4e720f64dea4fa1b603515",
+    "previous_hash": "842eb4b86cd9ffa20b23f176fcc5993ff0a0fc13b21cdbe7e50f0ff5019c5c13",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47467746,
-      "title": "404 Deno CEO not found",
-      "url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
-      "score": 84,
-      "comments": 46
-    },
-    {
       "id": 47467537,
       "title": "Some Things Just Take Time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 34,
-      "comments": 14
+      "score": 117,
+      "comments": 55
     },
     {
       "id": 47467567,
       "title": "Grafeo – A fast, lean, embeddable graph database built in Rust",
       "url": "https://grafeo.dev/",
-      "score": 32,
-      "comments": 4
+      "score": 71,
+      "comments": 13
     },
     {
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 1067,
-      "comments": 525
+      "score": 1105,
+      "comments": 546
     },
     {
-      "id": 47468209,
-      "title": "Apple Announces New Mac Sales Record Following MacBook Neo Launch",
-      "url": "https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/",
-      "score": 28,
-      "comments": 18
+      "id": 47467746,
+      "title": "404 Deno CEO not found",
+      "url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
+      "score": 156,
+      "comments": 103
+    },
+    {
+      "id": 47431625,
+      "title": "ZJIT removes redundant object loads and stores",
+      "url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
+      "score": 24,
+      "comments": 0
     }
   ]
 }

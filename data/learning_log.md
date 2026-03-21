@@ -34,18 +34,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-21 (last updated: 22:02 IST)
+
+## 📅 2026-03-21 (last updated: 23:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 05:31:03 IST | 3723a6167f97 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-21 22:02:47 IST | 842eb4b86cd9 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-21 23:12:36 IST | d2d2d30bd473 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-21 20:58:24 IST | 76db5a5df9a0 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -61,11 +62,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/) — Score: 84
-- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 34
-- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/) — Score: 32
-- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 1067
-- [Apple Announces New Mac Sales Record Following MacBook Neo Launch](https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/) — Score: 28
+- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 117
+- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/) — Score: 71
+- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 1105
+- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/) — Score: 156
+- [ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/) — Score: 24
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,600.0 🟢 +1.20%
