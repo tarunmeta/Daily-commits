@@ -27,13 +27,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-21 (last updated: 16:56 IST)
+
+## 📅 2026-03-21 (last updated: 19:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 05:31:03 IST | 3723a6167f97 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-21 14:06:29 IST | a18d8938670a | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-21 19:13:49 IST | 84637c5f5125 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-21 16:56:20 IST | 48c79d53c8ce | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -54,11 +55,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 730
-- [Mamba-3](https://www.together.ai/blog/mamba-3) — Score: 93
-- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) — Score: 60
-- [Molly Guard](https://bookofjoe2.blogspot.com/2026/02/molly-guard.html) — Score: 90
-- [A Japanese glossary of chopsticks faux pas](https://www.nippon.com/en/japan-data/h01362/) — Score: 245
+- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 939
+- [Mamba-3](https://www.together.ai/blog/mamba-3) — Score: 182
+- [We give every user SQL access to a shared ClickHouse cluster](https://trigger.dev/blog/how-trql-works) — Score: 27
+- [FFmpeg 101 (2024)](https://blogs.igalia.com/llepage/ffmpeg-101/) — Score: 129
+- [Meta's Omnilingual MT for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1) — Score: 22
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,582.0 🔴 -0.16%

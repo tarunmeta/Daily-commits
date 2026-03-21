@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-21 08:36:29 UTC",
-    "fetched_at_ist": "2026-03-21 14:06:29 IST",
+    "fetched_at_utc": "2026-03-21 13:43:49 UTC",
+    "fetched_at_ist": "2026-03-21 19:13:49 IST",
     "item_count": 5,
-    "content_hash": "a18d8938670a66c945a5b73f3bda2fda008518be575f6742fdb4c31a5cd6959b",
-    "previous_hash": "06a522403760714fefc069e52c43de3f9ce4217561f0ab263a7d1f1d4fea0b5b",
+    "content_hash": "84637c5f51255b96ef8ebc13851052bc134d280759957d68c55c153ce31bc899",
+    "previous_hash": "a18d8938670a66c945a5b73f3bda2fda008518be575f6742fdb4c31a5cd6959b",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 47460525,
       "title": "OpenCode – Open source AI coding agent",
       "url": "https://opencode.ai/",
-      "score": 730,
-      "comments": 321
+      "score": 939,
+      "comments": 446
     },
     {
       "id": 47419391,
       "title": "Mamba-3",
       "url": "https://www.together.ai/blog/mamba-3",
-      "score": 93,
-      "comments": 12
+      "score": 182,
+      "comments": 32
+    },
+    {
+      "id": 47414356,
+      "title": "We give every user SQL access to a shared ClickHouse cluster",
+      "url": "https://trigger.dev/blog/how-trql-works",
+      "score": 27,
+      "comments": 21
     },
     {
       "id": 47463547,
       "title": "FFmpeg 101 (2024)",
       "url": "https://blogs.igalia.com/llepage/ffmpeg-101/",
-      "score": 60,
-      "comments": 0
+      "score": 129,
+      "comments": 3
     },
     {
-      "id": 47455138,
-      "title": "Molly Guard",
-      "url": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
-      "score": 90,
-      "comments": 35
-    },
-    {
-      "id": 47460452,
-      "title": "A Japanese glossary of chopsticks faux pas",
-      "url": "https://www.nippon.com/en/japan-data/h01362/",
-      "score": 245,
-      "comments": 171
+      "id": 47421749,
+      "title": "Meta's Omnilingual MT for 1,600 Languages",
+      "url": "https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/?_fb_noscript=1",
+      "score": 22,
+      "comments": 1
     }
   ]
 }
