@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-23 (last updated: 23:30 IST)
+
+## 📅 2026-03-23 (last updated: 01:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-22 23:30:20 IST | 3d7935e11c12 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 23:30:21 IST | 55031ac300c7 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-23 01:00:42 IST | 8b08e613fa01 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-22 23:30:20 IST | 925d93f2069d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,735 stars today
 
 ### 📰 Hacker News Stories
-- [The Future of Version Control](https://bramcohen.com/p/manyana) — Score: 110
-- [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html) — Score: 33
-- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) — Score: 214
-- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 200
-- [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) — Score: 45
+- [The Future of Version Control](https://bramcohen.com/p/manyana) — Score: 203
+- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 257
+- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) — Score: 234
+- [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities) — Score: 26
+- [Five Years of Running a Systems Reading Group at Microsoft](https://armaansood.com/posts/systems-reading-group/) — Score: 30
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,705.0 🔴 -2.27%
@@ -44,38 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $631.12 🔴 -1.57%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-22 (last updated: 23:30 IST)
 
 ### 🧪 Source Integrity Snapshot
