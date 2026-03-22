@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 22:36:21 UTC",
-    "fetched_at_ist": "2026-03-23 04:06:21 IST",
+    "fetched_at_utc": "2026-03-22 23:44:14 UTC",
+    "fetched_at_ist": "2026-03-23 05:14:14 IST",
     "item_count": 5,
-    "content_hash": "40361819946d02d0bd1ca189bd2a599850ab1c3a6e16e1d47cd4662192e374e7",
-    "previous_hash": "9de234e666c4144ca60a522d10737372104a640db82f6eb948915077f1191f51",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "d36771206735be1babdd220713918ab402848ac52bdf7e23b14decde0bfe5a4e",
+    "previous_hash": "40361819946d02d0bd1ca189bd2a599850ab1c3a6e16e1d47cd4662192e374e7",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47482825,
+      "title": "Diverse perspectives on AI from Rust contributors and maintainers",
+      "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
+      "score": 76,
+      "comments": 33
+    },
     {
       "id": 47480507,
       "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 199,
-      "comments": 80
-    },
-    {
-      "id": 47482825,
-      "title": "Rust Project Perspectives on AI",
-      "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-      "score": 11,
-      "comments": 0
+      "score": 240,
+      "comments": 113
     },
     {
       "id": 47480886,
       "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
       "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 90,
-      "comments": 24
+      "score": 124,
+      "comments": 43
     },
     {
       "id": 47478401,
       "title": "The future of version control",
       "url": "https://bramcohen.com/p/manyana",
-      "score": 335,
-      "comments": 184
+      "score": 360,
+      "comments": 210
     },
     {
-      "id": 47482217,
-      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
-      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
-      "score": 20,
-      "comments": 2
+      "id": 47476315,
+      "title": "Reports of code's death are greatly exaggerated",
+      "url": "https://stevekrouse.com/precision",
+      "score": 203,
+      "comments": 190
     }
   ]
 }
