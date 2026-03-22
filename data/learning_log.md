@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 07:58 IST)
+
+## 📅 2026-03-22 (last updated: 10:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 05:31:03 IST | 3723a6167f97 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-21 23:12:36 IST | d2d2d30bd473 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-22 10:03:10 IST | 893b76e13f9b | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 07:58:28 IST | 4c9b504c295c | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 117
-- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://grafeo.dev/) — Score: 71
-- [OpenCode – Open source AI coding agent](https://opencode.ai/) — Score: 1105
-- [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/) — Score: 156
-- [ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/) — Score: 24
+- [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat) — Score: 73
+- [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox) — Score: 384
+- [Some things just take time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) — Score: 566
+- [Professional video editing, right in the browser with WebGPU and WASM](https://tooscut.app/) — Score: 173
+- [Chest Fridge (2009)](https://mtbest.net/chest-fridge/) — Score: 54
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,113.0 🔴 -2.18%
