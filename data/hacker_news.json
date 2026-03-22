@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 16:41:23 UTC",
-    "fetched_at_ist": "2026-03-22 22:11:23 IST",
+    "fetched_at_utc": "2026-03-22 17:42:47 UTC",
+    "fetched_at_ist": "2026-03-22 23:12:47 IST",
     "item_count": 5,
-    "content_hash": "3a9dcd5b3c77cceecfe7b30e4b8e8b7efb1aca4ee35f2e2a8d38c54ab396dfae",
-    "previous_hash": "7fa05b89bf99758765a5bc497457f7dfe95720315300b6e46ee87e21e2ac1fa9",
+    "content_hash": "25a811024ea23264853ece03d9a30b14b140dbabf6c4e3983dc09ce5832e391d",
+    "previous_hash": "3a9dcd5b3c77cceecfe7b30e4b8e8b7efb1aca4ee35f2e2a8d38c54ab396dfae",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47478298,
-      "title": "I Hate: Programming Wayland Applications",
-      "url": "https://www.p4m.dev/posts/29/index.html",
-      "score": 71,
-      "comments": 36
+      "id": 47478401,
+      "title": "The Future of Version Control",
+      "url": "https://bramcohen.com/p/manyana",
+      "score": 85,
+      "comments": 34
+    },
+    {
+      "id": 47479751,
+      "title": "Why I love NixOS",
+      "url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+      "score": 18,
+      "comments": 4
     },
     {
       "id": 47476422,
-      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
       "url": "https://github.com/danveloper/flash-moe",
-      "score": 186,
-      "comments": 63
+      "score": 210,
+      "comments": 81
     },
     {
-      "id": 47477284,
-      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
-      "url": "https://noquiche.fyi/voodoo",
-      "score": 72,
-      "comments": 13
+      "id": 47476315,
+      "title": "Reports of code's death are greatly exaggerated",
+      "url": "https://stevekrouse.com/precision",
+      "score": 34,
+      "comments": 9
     },
     {
       "id": 47476821,
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "url": "https://www.projectnomad.us",
-      "score": 137,
-      "comments": 22
-    },
-    {
-      "id": 47478401,
-      "title": "A Coherent Vision for the Future of Version Control",
-      "url": "https://bramcohen.com/p/manyana",
-      "score": 19,
-      "comments": 2
+      "score": 193,
+      "comments": 33
     }
   ]
 }

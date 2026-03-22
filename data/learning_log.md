@@ -34,13 +34,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 22:11 IST)
+
+## 📅 2026-03-22 (last updated: 23:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 05:31:03 IST | 3723a6167f97 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-22 22:11:23 IST | 3a9dcd5b3c77 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-22 23:12:47 IST | 25a811024ea2 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 16:55:51 IST | 2df617f552e4 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -61,11 +62,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html) — Score: 71
-- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 186
-- [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo) — Score: 72
-- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 137
-- [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana) — Score: 19
+- [The Future of Version Control](https://bramcohen.com/p/manyana) — Score: 85
+- [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html) — Score: 18
+- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) — Score: 210
+- [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) — Score: 34
+- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 193
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,639.0 🔴 -2.77%
