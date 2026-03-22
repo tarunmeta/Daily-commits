@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 06:33:40 UTC",
-    "fetched_at_ist": "2026-03-22 12:03:40 IST",
+    "fetched_at_utc": "2026-03-22 09:35:37 UTC",
+    "fetched_at_ist": "2026-03-22 15:05:37 IST",
     "item_count": 5,
-    "content_hash": "0ac1a1fa392b11589bd2c703af6563d51f7a7e4e0e6ea6e1c72bcdc42fae88ec",
-    "previous_hash": "77d1f3d64e0293d9635177be6b2f3744531fb824f4279601bf03b2b1ec2f0458",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "23f76097d29bcadcf93774bd4389cc150b8c3be1c4b7464da751be1c792ab250",
+    "previous_hash": "0ac1a1fa392b11589bd2c703af6563d51f7a7e4e0e6ea6e1c72bcdc42fae88ec",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
     {
       "id": 47473718,
-      "title": "The Three Pillars of JavaScript Bloat",
+      "title": "The three pillars of JavaScript bloat",
       "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 131,
-      "comments": 58
+      "score": 254,
+      "comments": 126
+    },
+    {
+      "id": 47444909,
+      "title": "My first patch to the Linux kernel",
+      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
+      "score": 73,
+      "comments": 8
+    },
+    {
+      "id": 47475155,
+      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+      "url": "https://zenodo.org/records/18976656",
+      "score": 18,
+      "comments": 10
     },
     {
       "id": 47470773,
-      "title": "Tinybox – Offline AI device 120B parameters",
+      "title": "Tinybox – A powerful computer for deep learning",
       "url": "https://tinygrad.org/#tinybox",
-      "score": 422,
-      "comments": 255
+      "score": 479,
+      "comments": 283
     },
     {
       "id": 47467537,
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 609,
-      "comments": 192
-    },
-    {
-      "id": 47471601,
-      "title": "Professional video editing, right in the browser with WebGPU and WASM",
-      "url": "https://tooscut.app/",
-      "score": 206,
-      "comments": 59
-    },
-    {
-      "id": 47473279,
-      "title": "Chest Fridge (2009)",
-      "url": "https://mtbest.net/chest-fridge/",
-      "score": 65,
-      "comments": 48
+      "score": 682,
+      "comments": 207
     }
   ]
 }
