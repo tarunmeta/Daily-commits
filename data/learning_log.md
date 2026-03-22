@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 04:57 IST)
+
+## 📅 2026-03-22 (last updated: 07:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 05:31:03 IST | 3723a6167f97 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-21 23:12:36 IST | d2d2d30bd473 | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-22 04:57:23 IST | 412955d86440 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-03-22 07:58:28 IST | 4c9b504c295c | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud)** (JavaScript) — A Claude Code plugin that shows what's happening - context usage, active tools,   
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [ZJIT removes redundant object loads and stores](https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/) — Score: 24
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $70,144.0 🔴 -0.47%
-- Ethereum: $2,145.04 🔴 -0.07%
-- Solana: $89.73 🔴 -0.24%
-- Bnb: $641.43 🔴 -0.12%
+- Bitcoin: $69,113.0 🔴 -2.18%
+- Ethereum: $2,094.15 🔴 -2.70%
+- Solana: $87.67 🔴 -2.66%
+- Bnb: $632.61 🔴 -1.38%
 
 ---
 ## 📅 2026-03-21 (last updated: 23:12 IST)
