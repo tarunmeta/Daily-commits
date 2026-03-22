@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 14:30:04 UTC",
-    "fetched_at_ist": "2026-03-22 20:00:04 IST",
+    "fetched_at_utc": "2026-03-22 15:32:18 UTC",
+    "fetched_at_ist": "2026-03-22 21:02:18 IST",
     "item_count": 5,
-    "content_hash": "5007ffe0caedf1e38878668abda87aa0e03f8994a972f88a6a4eb0d42cf201fb",
-    "previous_hash": "23f76097d29bcadcf93774bd4389cc150b8c3be1c4b7464da751be1c792ab250",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "7fa05b89bf99758765a5bc497457f7dfe95720315300b6e46ee87e21e2ac1fa9",
+    "previous_hash": "5007ffe0caedf1e38878668abda87aa0e03f8994a972f88a6a4eb0d42cf201fb",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47477158,
       "title": "Bored of eating your own dogfood? Try smelling your own farts",
       "url": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
-      "score": 91,
-      "comments": 19
+      "score": 159,
+      "comments": 70
     },
     {
       "id": 47476422,
       "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
       "url": "https://github.com/danveloper/flash-moe",
-      "score": 132,
-      "comments": 46
+      "score": 157,
+      "comments": 54
     },
     {
-      "id": 47477090,
-      "title": "A Case Against Currying",
-      "url": "https://emi-h.com/articles/a-case-against-currying.html",
-      "score": 24,
-      "comments": 19
-    },
-    {
-      "id": 47477653,
-      "title": "Nintendo's not-AI, not-a-game toy",
-      "url": "https://tapestry.news/culture/nintendo-talking-flower/",
-      "score": 8,
-      "comments": 0
+      "id": 47477284,
+      "title": "Building an FPGA 3dfx Voodoo with Modern RTL Tools",
+      "url": "https://noquiche.fyi/voodoo",
+      "score": 53,
+      "comments": 4
     },
     {
       "id": 47476821,
       "title": "Project Nomad – Knowledge That Never Goes Offline",
       "url": "https://www.projectnomad.us",
-      "score": 36,
-      "comments": 6
+      "score": 83,
+      "comments": 11
+    },
+    {
+      "id": 47477024,
+      "title": "Apple's intentional crippling of Mobile Safari continues",
+      "url": "https://pwa.gripe/",
+      "score": 49,
+      "comments": 38
     }
   ]
 }
