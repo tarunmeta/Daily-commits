@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 05:42:34 UTC",
-    "fetched_at_ist": "2026-03-22 11:12:34 IST",
+    "fetched_at_utc": "2026-03-22 06:33:40 UTC",
+    "fetched_at_ist": "2026-03-22 12:03:40 IST",
     "item_count": 5,
-    "content_hash": "77d1f3d64e0293d9635177be6b2f3744531fb824f4279601bf03b2b1ec2f0458",
-    "previous_hash": "893b76e13f9b5bac5e31150cf2c69c20d1073c403d838f1a0376da3875257df7",
+    "content_hash": "0ac1a1fa392b11589bd2c703af6563d51f7a7e4e0e6ea6e1c72bcdc42fae88ec",
+    "previous_hash": "77d1f3d64e0293d9635177be6b2f3744531fb824f4279601bf03b2b1ec2f0458",
     "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 47473718,
       "title": "The Three Pillars of JavaScript Bloat",
       "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 114,
-      "comments": 46
+      "score": 131,
+      "comments": 58
     },
     {
       "id": 47470773,
       "title": "Tinybox – Offline AI device 120B parameters",
       "url": "https://tinygrad.org/#tinybox",
-      "score": 409,
-      "comments": 250
+      "score": 422,
+      "comments": 255
     },
     {
       "id": 47467537,
       "title": "Some things just take time",
       "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 592,
-      "comments": 191
+      "score": 609,
+      "comments": 192
     },
     {
       "id": 47471601,
       "title": "Professional video editing, right in the browser with WebGPU and WASM",
       "url": "https://tooscut.app/",
-      "score": 192,
-      "comments": 58
+      "score": 206,
+      "comments": 59
     },
     {
       "id": 47473279,
       "title": "Chest Fridge (2009)",
       "url": "https://mtbest.net/chest-fridge/",
-      "score": 61,
-      "comments": 47
+      "score": 65,
+      "comments": 48
     }
   ]
 }
