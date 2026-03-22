@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 09:35:37 UTC",
-    "fetched_at_ist": "2026-03-22 15:05:37 IST",
+    "fetched_at_utc": "2026-03-22 14:30:04 UTC",
+    "fetched_at_ist": "2026-03-22 20:00:04 IST",
     "item_count": 5,
-    "content_hash": "23f76097d29bcadcf93774bd4389cc150b8c3be1c4b7464da751be1c792ab250",
-    "previous_hash": "0ac1a1fa392b11589bd2c703af6563d51f7a7e4e0e6ea6e1c72bcdc42fae88ec",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "5007ffe0caedf1e38878668abda87aa0e03f8994a972f88a6a4eb0d42cf201fb",
+    "previous_hash": "23f76097d29bcadcf93774bd4389cc150b8c3be1c4b7464da751be1c792ab250",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47473718,
-      "title": "The three pillars of JavaScript bloat",
-      "url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
-      "score": 254,
-      "comments": 126
+      "id": 47477158,
+      "title": "Bored of eating your own dogfood? Try smelling your own farts",
+      "url": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
+      "score": 91,
+      "comments": 19
     },
     {
-      "id": 47444909,
-      "title": "My first patch to the Linux kernel",
-      "url": "https://pooladkhay.com/posts/first-kernel-patch/",
-      "score": 73,
-      "comments": 8
+      "id": 47476422,
+      "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
+      "url": "https://github.com/danveloper/flash-moe",
+      "score": 132,
+      "comments": 46
     },
     {
-      "id": 47475155,
-      "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
-      "url": "https://zenodo.org/records/18976656",
-      "score": 18,
-      "comments": 10
+      "id": 47477090,
+      "title": "A Case Against Currying",
+      "url": "https://emi-h.com/articles/a-case-against-currying.html",
+      "score": 24,
+      "comments": 19
     },
     {
-      "id": 47470773,
-      "title": "Tinybox – A powerful computer for deep learning",
-      "url": "https://tinygrad.org/#tinybox",
-      "score": 479,
-      "comments": 283
+      "id": 47477653,
+      "title": "Nintendo's not-AI, not-a-game toy",
+      "url": "https://tapestry.news/culture/nintendo-talking-flower/",
+      "score": 8,
+      "comments": 0
     },
     {
-      "id": 47467537,
-      "title": "Some things just take time",
-      "url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-      "score": 682,
-      "comments": 207
+      "id": 47476821,
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "url": "https://www.projectnomad.us",
+      "score": 36,
+      "comments": 6
     }
   ]
 }
