@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-22 17:42:47 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-22 18:00:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **jarrodwatts/claude-hud**
-- BTC: **$68,639.0** ↓ (-2.77%)
+- Top GitHub repo: **FujiwaraChoki/MoneyPrinterV2**
+- BTC: **$68,705.0** ↓ (-2.27%)
 - HN top story: **The Future of Version Control**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-21 00:01:03 UTC | `3723a6167f97` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-22 17:42:47 UTC | `25a811024ea2` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-22 11:25:51 UTC | `2df617f552e4` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-03-22 18:00:20 UTC | `3d7935e11c12` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-22 18:00:21 UTC | `55031ac300c7` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-03-22 18:00:20 UTC | `925d93f2069d` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-22` |
-| Commits Today | `32` / `100` |
-| Remaining Today | `68` |
-| Progress | `██████░░░░░░░░░░░░░░` 32% |
+| Commits Today | `33` / `100` |
+| Remaining Today | `67` |
+| Progress | `██████░░░░░░░░░░░░░░` 33% |
 | Streak | `31` day(s) |
-| Last Commit (IST) | `2026-03-22 22:32:16 IST` |
+| Last Commit (IST) | `2026-03-22 23:12:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-19 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-20 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
 | 2026-03-21 | 33 | `██████░░░░░░░░░░░░░░` 33% |
-| 2026-03-22 | 32 | `██████░░░░░░░░░░░░░░` 32% |
+| 2026-03-22 | 33 | `██████░░░░░░░░░░░░░░` 33% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $68,639.0 | -2.77% | 🔴 |
-| Ethereum | $2,081.34 | -3.42% | 🔴 |
-| Solana | $87.34 | -2.88% | 🔴 |
-| Bnb | $629.38 | -2.16% | 🔴 |
+| Bitcoin | $68,705.0 | -2.27% | 🔴 |
+| Ethereum | $2,080.48 | -3.16% | 🔴 |
+| Solana | $87.31 | -2.55% | 🔴 |
+| Bnb | $631.12 | -1.57% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 1,068 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
-| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | 635 stars today | An Open-Source Asynchronous Coding Agent |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,819 stars today | An agentic skills framework & software development methodology that works. |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 1,812 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
-| [louis-e/arnis](https://github.com/louis-e/arnis) | Rust | 1,045 stars today | Generate any location from the real world in Minecraft with a high level of deta… |
-| [newton-physics/newton](https://github.com/newton-physics/newton) | Python | 266 stars today | An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp… |
-| [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | 137 stars today | Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions… |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 433 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 1,772 stars today | Automate the process of making money online. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 1,108 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1,015 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
+| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | 235 stars today | No description |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 3,735 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 832 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 2,294 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [systemd/systemd](https://github.com/systemd/systemd) | C | 313 stars today | The systemd System and Service Manager |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The Future of Version Control](https://bramcohen.com/p/manyana) | 85 | 34 |
-| [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html) | 18 | 4 |
-| [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) | 210 | 81 |
-| [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) | 34 | 9 |
-| [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) | 193 | 33 |
+| [The Future of Version Control](https://bramcohen.com/p/manyana) | 110 | 47 |
+| [Why I love NixOS](https://www.birkey.co/2026-03-22-why-i-love-nixos.html) | 33 | 22 |
+| [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) | 214 | 82 |
+| [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) | 200 | 36 |
+| [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) | 45 | 14 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
