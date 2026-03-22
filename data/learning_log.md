@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-23 (last updated: 01:00 IST)
+
+## 📅 2026-03-23 (last updated: 02:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-22 23:30:20 IST | 3d7935e11c12 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-23 01:00:42 IST | 8b08e613fa01 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-23 02:04:47 IST | 049678628d78 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 23:30:20 IST | 925d93f2069d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,735 stars today
 
 ### 📰 Hacker News Stories
-- [The Future of Version Control](https://bramcohen.com/p/manyana) — Score: 203
-- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 257
-- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) — Score: 234
-- [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities) — Score: 26
-- [Five Years of Running a Systems Reading Group at Microsoft](https://armaansood.com/posts/systems-reading-group/) — Score: 30
+- [PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — Score: 78
+- [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities) — Score: 127
+- [The Future of Version Control](https://bramcohen.com/p/manyana) — Score: 260
+- [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) — Score: 112
+- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 289
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,705.0 🔴 -2.27%

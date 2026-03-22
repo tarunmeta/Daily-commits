@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-22 19:30:42 UTC",
-    "fetched_at_ist": "2026-03-23 01:00:42 IST",
+    "fetched_at_utc": "2026-03-22 20:34:47 UTC",
+    "fetched_at_ist": "2026-03-23 02:04:47 IST",
     "item_count": 5,
-    "content_hash": "8b08e613fa01d2e8b150908611dacf421138376495d887286651e40cfbee2073",
-    "previous_hash": "55031ac300c72a0dacab7ae5b9afadb902e517329fc0aa533cdcb987ece3b36b",
+    "content_hash": "049678628d785adcaa721ad16d824f70036d3cac4e6810339d4dc23e2699c680",
+    "previous_hash": "8b08e613fa01d2e8b150908611dacf421138376495d887286651e40cfbee2073",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47478401,
-      "title": "The Future of Version Control",
-      "url": "https://bramcohen.com/p/manyana",
-      "score": 203,
-      "comments": 114
-    },
-    {
-      "id": 47476821,
-      "title": "Project Nomad – Knowledge That Never Goes Offline",
-      "url": "https://www.projectnomad.us",
-      "score": 257,
-      "comments": 50
-    },
-    {
-      "id": 47476422,
-      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
-      "url": "https://github.com/danveloper/flash-moe",
-      "score": 234,
-      "comments": 88
+      "id": 47480507,
+      "title": "PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading",
+      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+      "score": 78,
+      "comments": 31
     },
     {
       "id": 47479962,
       "title": "OpenClaw Is a Security Nightmare Dressed Up as a Daydream",
       "url": "https://composio.dev/content/openclaw-security-and-vulnerabilities",
-      "score": 26,
-      "comments": 16
+      "score": 127,
+      "comments": 98
     },
     {
-      "id": 47479627,
-      "title": "Five Years of Running a Systems Reading Group at Microsoft",
-      "url": "https://armaansood.com/posts/systems-reading-group/",
-      "score": 30,
-      "comments": 2
+      "id": 47478401,
+      "title": "The Future of Version Control",
+      "url": "https://bramcohen.com/p/manyana",
+      "score": 260,
+      "comments": 145
+    },
+    {
+      "id": 47476315,
+      "title": "Reports of code's death are greatly exaggerated",
+      "url": "https://stevekrouse.com/precision",
+      "score": 112,
+      "comments": 122
+    },
+    {
+      "id": 47476821,
+      "title": "Project Nomad – Knowledge That Never Goes Offline",
+      "url": "https://www.projectnomad.us",
+      "score": 289,
+      "comments": 58
     }
   ]
 }
