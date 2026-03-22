@@ -32,18 +32,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-22 (last updated: 21:02 IST)
+
+## 📅 2026-03-22 (last updated: 22:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-21 05:31:03 IST | 3723a6167f97 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-22 21:02:18 IST | 7fa05b89bf99 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-22 22:11:23 IST | 3a9dcd5b3c77 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-22 16:55:51 IST | 2df617f552e4 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -59,11 +60,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,045 stars today
 
 ### 📰 Hacker News Stories
-- [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/) — Score: 159
-- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 157
-- [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo) — Score: 53
-- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 83
-- [Apple's intentional crippling of Mobile Safari continues](https://pwa.gripe/) — Score: 49
+- [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html) — Score: 71
+- [Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM](https://github.com/danveloper/flash-moe) — Score: 186
+- [Building an FPGA 3dfx Voodoo with Modern RTL Tools](https://noquiche.fyi/voodoo) — Score: 72
+- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 137
+- [A Coherent Vision for the Future of Version Control](https://bramcohen.com/p/manyana) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,639.0 🔴 -2.77%
