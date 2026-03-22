@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-23 (last updated: 02:04 IST)
+
+## 📅 2026-03-23 (last updated: 03:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-22 23:30:20 IST | 3d7935e11c12 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-23 02:04:47 IST | 049678628d78 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-23 03:11:33 IST | 9de234e666c4 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-22 23:30:20 IST | 925d93f2069d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,735 stars today
 
 ### 📰 Hacker News Stories
-- [PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — Score: 78
-- [OpenClaw Is a Security Nightmare Dressed Up as a Daydream](https://composio.dev/content/openclaw-security-and-vulnerabilities) — Score: 127
-- [The Future of Version Control](https://bramcohen.com/p/manyana) — Score: 260
-- [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) — Score: 112
-- [Project Nomad – Knowledge That Never Goes Offline](https://www.projectnomad.us) — Score: 289
+- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — Score: 134
+- [The future of version control](https://bramcohen.com/p/manyana) — Score: 294
+- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) — Score: 47
+- [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) — Score: 144
+- [Five Years of Running a Systems Reading Group at Microsoft](https://armaansood.com/posts/systems-reading-group/) — Score: 78
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,705.0 🔴 -2.27%
