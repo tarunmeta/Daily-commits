@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-23 18:04:32 UTC",
-    "fetched_at_ist": "2026-03-23 23:34:32 IST",
+    "fetched_at_utc": "2026-03-23 21:38:56 UTC",
+    "fetched_at_ist": "2026-03-24 03:08:56 IST",
     "item_count": 5,
-    "content_hash": "45edcc9f6cac9327018bd04f25a4c1d38a232bbc78a9f005678046888814b844",
-    "previous_hash": "eb9c06d77c06add175b12dfe587ad416ed4ee59604f4394f432e2e337fc38b9b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "f87e73ae6f58437b31a06e495864f9d121686e34c8e48224cafae5a41655f612",
+    "previous_hash": "45edcc9f6cac9327018bd04f25a4c1d38a232bbc78a9f005678046888814b844",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47493460,
+      "title": "Autoresearch on an old research idea",
+      "url": "https://ykumar.me/blog/eclip-autoresearch/",
+      "score": 172,
+      "comments": 54
+    },
+    {
+      "id": 47495168,
+      "title": "The Minimalist Entrepreneur – Claude Code Skills",
+      "url": "https://github.com/slavingia/skills",
+      "score": 22,
+      "comments": 1
+    },
+    {
+      "id": 47494890,
+      "title": "How I'm Productive with Claude Code",
+      "url": "https://neilkakkar.com/productive-with-claude-code.html",
+      "score": 32,
+      "comments": 13
+    },
+    {
       "id": 47490070,
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 230,
-      "comments": 136
+      "score": 384,
+      "comments": 210
     },
     {
-      "id": 47475888,
-      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-      "score": 37,
-      "comments": 14
-    },
-    {
-      "id": 47459363,
-      "title": "BIO: The Bao I/O Coprocessor",
-      "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
-      "score": 27,
-      "comments": 5
-    },
-    {
-      "id": 47490816,
-      "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
-      "url": "https://www.cyber.mil/stigs/downloads",
-      "score": 94,
-      "comments": 88
-    },
-    {
-      "id": 47492285,
-      "title": "Unix philosophy is dead Long live something else?",
-      "url": "https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/",
-      "score": 14,
-      "comments": 3
+      "id": 47443903,
+      "title": "Finding all regex matches has always been O(n²)",
+      "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
+      "score": 100,
+      "comments": 24
     }
   ]
 }
