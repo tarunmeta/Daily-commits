@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-23 21:38:56 UTC",
-    "fetched_at_ist": "2026-03-24 03:08:56 IST",
+    "fetched_at_utc": "2026-03-23 23:34:38 UTC",
+    "fetched_at_ist": "2026-03-24 05:04:38 IST",
     "item_count": 5,
-    "content_hash": "f87e73ae6f58437b31a06e495864f9d121686e34c8e48224cafae5a41655f612",
-    "previous_hash": "45edcc9f6cac9327018bd04f25a4c1d38a232bbc78a9f005678046888814b844",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "96917da795556f39a2d7c404f769506d7a6ba94c46a33d149780fd0555364d31",
+    "previous_hash": "f87e73ae6f58437b31a06e495864f9d121686e34c8e48224cafae5a41655f612",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47493460,
       "title": "Autoresearch on an old research idea",
       "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 172,
-      "comments": 54
+      "score": 236,
+      "comments": 63
     },
     {
-      "id": 47495168,
-      "title": "The Minimalist Entrepreneur – Claude Code Skills",
-      "url": "https://github.com/slavingia/skills",
-      "score": 22,
-      "comments": 1
+      "id": 47495344,
+      "title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+      "url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+      "score": 80,
+      "comments": 32
     },
     {
-      "id": 47494890,
-      "title": "How I'm Productive with Claude Code",
-      "url": "https://neilkakkar.com/productive-with-claude-code.html",
-      "score": 32,
-      "comments": 13
+      "id": 47495719,
+      "title": "Hacker Mints $80M USD Worth of USR Stablecoins",
+      "url": "https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/",
+      "score": 39,
+      "comments": 24
     },
     {
       "id": 47490070,
       "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
       "url": "https://twitter.com/anemll/status/2035901335984611412",
-      "score": 384,
-      "comments": 210
+      "score": 444,
+      "comments": 230
     },
     {
-      "id": 47443903,
-      "title": "Finding all regex matches has always been O(n²)",
-      "url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-      "score": 100,
-      "comments": 24
+      "id": 47496221,
+      "title": "Windows 3.1 tiled background .bmp archive",
+      "url": "https://github.com/andreasjansson/win-3.1-backgrounds",
+      "score": 12,
+      "comments": 0
     }
   ]
 }
