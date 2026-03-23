@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-22 23:44:14 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-23 00:02:41 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **FujiwaraChoki/MoneyPrinterV2**
-- BTC: **$68,705.0** ↓ (-2.27%)
+- BTC: **$67,901.0** ↓ (-0.75%)
 - HN top story: **Diverse perspectives on AI from Rust contributors and maintainers**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-03-22 18:00:20 UTC | `3d7935e11c12` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-22 23:44:14 UTC | `d36771206735` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-22 18:00:20 UTC | `925d93f2069d` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-03-23 00:02:40 UTC | `f112911d332b` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-23 00:02:41 UTC | `f821cbf7a8f5` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-03-23 00:02:41 UTC | `6fefcb059e87` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +0 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-23` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `32` day(s) |
-| Last Commit (IST) | `2026-03-23 04:30:43 IST` |
+| Last Commit (IST) | `2026-03-23 05:14:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-20 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
 | 2026-03-21 | 33 | `██████░░░░░░░░░░░░░░` 33% |
 | 2026-03-22 | 33 | `██████░░░░░░░░░░░░░░` 33% |
-| 2026-03-23 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-03-23 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $68,705.0 | -2.27% | 🔴 |
-| Ethereum | $2,080.48 | -3.16% | 🔴 |
-| Solana | $87.31 | -2.55% | 🔴 |
-| Bnb | $631.12 | -1.57% | 🔴 |
+| Bitcoin | $67,901.0 | -0.75% | 🔴 |
+| Ethereum | $2,054.96 | -0.32% | 🔴 |
+| Solana | $86.15 | -1.08% | 🔴 |
+| Bnb | $626.52 | +0.16% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 1,772 stars today | Automate the process of making money online. |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 1,108 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1,015 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
-| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | 235 stars today | No description |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 3,735 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 832 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 2,294 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 1,787 stars today | Automate the process of making money online. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 1,051 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1,069 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
+| [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | 237 stars today | No description |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 3,724 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | 834 stars today | A Claude Code plugin that shows what's happening - context usage, active tools, … |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 2,300 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
 | [systemd/systemd](https://github.com/systemd/systemd) | C | 313 stars today | The systemd System and Service Manager |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Diverse perspectives on AI from Rust contributors and maintainers](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html) | 76 | 33 |
-| [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) | 240 | 113 |
-| [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) | 124 | 43 |
-| [The future of version control](https://bramcohen.com/p/manyana) | 360 | 210 |
-| [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) | 203 | 190 |
+| [Diverse perspectives on AI from Rust contributors and maintainers](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html) | 89 | 39 |
+| [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) | 251 | 119 |
+| [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) | 137 | 49 |
+| [The future of version control](https://bramcohen.com/p/manyana) | 370 | 216 |
+| [Reports of code's death are greatly exaggerated](https://stevekrouse.com/precision) | 209 | 193 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
