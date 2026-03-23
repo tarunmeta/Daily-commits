@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-23 00:02:41 UTC",
-    "fetched_at_ist": "2026-03-23 05:32:41 IST",
+    "fetched_at_utc": "2026-03-23 12:03:17 UTC",
+    "fetched_at_ist": "2026-03-23 17:33:17 IST",
     "item_count": 5,
-    "content_hash": "f821cbf7a8f557536d1d2c00c0bc0f3f007a38d912609297c349807ea44001f8",
-    "previous_hash": "d36771206735be1babdd220713918ab402848ac52bdf7e23b14decde0bfe5a4e",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "eb9c06d77c06add175b12dfe587ad416ed4ee59604f4394f432e2e337fc38b9b",
+    "previous_hash": "f821cbf7a8f557536d1d2c00c0bc0f3f007a38d912609297c349807ea44001f8",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47482825,
-      "title": "Diverse perspectives on AI from Rust contributors and maintainers",
-      "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
-      "score": 89,
-      "comments": 39
+      "id": 47487436,
+      "title": "Migrating to the EU",
+      "url": "https://rz01.org/eu-migration/",
+      "score": 171,
+      "comments": 98
+    },
+    {
+      "id": 47486726,
+      "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
+      "url": "https://indieweb.org/POSSE",
+      "score": 172,
+      "comments": 42
     },
     {
       "id": 47480507,
       "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
       "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 251,
-      "comments": 119
+      "score": 653,
+      "comments": 308
     },
     {
-      "id": 47480886,
-      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-      "url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
-      "score": 137,
-      "comments": 49
+      "id": 47487584,
+      "title": "GitHub appears to be struggling with measly three nines availability",
+      "url": "https://www.theregister.com/2026/02/10/github_outages/",
+      "score": 56,
+      "comments": 16
     },
     {
-      "id": 47478401,
-      "title": "The future of version control",
-      "url": "https://bramcohen.com/p/manyana",
-      "score": 370,
-      "comments": 216
-    },
-    {
-      "id": 47476315,
-      "title": "Reports of code's death are greatly exaggerated",
-      "url": "https://stevekrouse.com/precision",
-      "score": 209,
-      "comments": 193
+      "id": 47458248,
+      "title": "General Motors Is Assisting with the Restoration of a Rare EV1",
+      "url": "https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/",
+      "score": 10,
+      "comments": 0
     }
   ]
 }
