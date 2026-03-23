@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-23 12:03:17 UTC",
-    "fetched_at_ist": "2026-03-23 17:33:17 IST",
+    "fetched_at_utc": "2026-03-23 18:04:32 UTC",
+    "fetched_at_ist": "2026-03-23 23:34:32 IST",
     "item_count": 5,
-    "content_hash": "eb9c06d77c06add175b12dfe587ad416ed4ee59604f4394f432e2e337fc38b9b",
-    "previous_hash": "f821cbf7a8f557536d1d2c00c0bc0f3f007a38d912609297c349807ea44001f8",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "45edcc9f6cac9327018bd04f25a4c1d38a232bbc78a9f005678046888814b844",
+    "previous_hash": "eb9c06d77c06add175b12dfe587ad416ed4ee59604f4394f432e2e337fc38b9b",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47487436,
-      "title": "Migrating to the EU",
-      "url": "https://rz01.org/eu-migration/",
-      "score": 171,
-      "comments": 98
+      "id": 47490070,
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "url": "https://twitter.com/anemll/status/2035901335984611412",
+      "score": 230,
+      "comments": 136
     },
     {
-      "id": 47486726,
-      "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
-      "url": "https://indieweb.org/POSSE",
-      "score": 172,
-      "comments": 42
+      "id": 47475888,
+      "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+      "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+      "score": 37,
+      "comments": 14
     },
     {
-      "id": 47480507,
-      "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
-      "url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-      "score": 653,
-      "comments": 308
+      "id": 47459363,
+      "title": "BIO: The Bao I/O Coprocessor",
+      "url": "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/",
+      "score": 27,
+      "comments": 5
     },
     {
-      "id": 47487584,
-      "title": "GitHub appears to be struggling with measly three nines availability",
-      "url": "https://www.theregister.com/2026/02/10/github_outages/",
-      "score": 56,
-      "comments": 16
+      "id": 47490816,
+      "title": "Cyber.mil serving file downloads using TLS certificate which expired 3 days ago",
+      "url": "https://www.cyber.mil/stigs/downloads",
+      "score": 94,
+      "comments": 88
     },
     {
-      "id": 47458248,
-      "title": "General Motors Is Assisting with the Restoration of a Rare EV1",
-      "url": "https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/",
-      "score": 10,
-      "comments": 0
+      "id": 47492285,
+      "title": "Unix philosophy is dead Long live something else?",
+      "url": "https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/",
+      "score": 14,
+      "comments": 3
     }
   ]
 }

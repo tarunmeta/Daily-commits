@@ -26,19 +26,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-23 (last updated: 17:33 IST)
+
+## 📅 2026-03-23 (last updated: 23:34 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-03-23 17:33:16 IST | ceb1415800f7 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-23 17:33:17 IST | eb9c06d77c06 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-23 17:33:17 IST | 4431b2ad5006 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-03-23 23:34:30 IST | cf4ee87d6fda | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-23 23:34:32 IST | 45edcc9f6cac | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-23 23:34:30 IST | 15ea12039c31 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)** (Python) — Automate the process of making money online.  
@@ -53,17 +54,17 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,160 stars today
 
 ### 📰 Hacker News Stories
-- [Migrating to the EU](https://rz01.org/eu-migration/) — Score: 171
-- [POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE) — Score: 172
-- [PC Gamer recommends RSS readers in a 37mb article that just keeps downloading](https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/) — Score: 653
-- [GitHub appears to be struggling with measly three nines availability](https://www.theregister.com/2026/02/10/github_outages/) — Score: 56
-- [General Motors Is Assisting with the Restoration of a Rare EV1](https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/) — Score: 10
+- [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) — Score: 230
+- [Trivy under attack again: Widespread GitHub Actions tag compromise secrets](https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise) — Score: 37
+- [BIO: The Bao I/O Coprocessor](https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/) — Score: 27
+- [Cyber.mil serving file downloads using TLS certificate which expired 3 days ago](https://www.cyber.mil/stigs/downloads) — Score: 94
+- [Unix philosophy is dead Long live something else?](https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/) — Score: 14
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $69,872.0 🟢 +2.44%
-- Ethereum: $2,123.39 🟢 +2.60%
-- Solana: $88.88 🟢 +2.27%
-- Bnb: $637.53 🟢 +1.54%
+- Bitcoin: $71,098.0 🟢 +3.60%
+- Ethereum: $2,153.69 🟢 +3.70%
+- Solana: $91.28 🟢 +4.56%
+- Bnb: $637.84 🟢 +1.26%
 
 ---
 ## 📅 2026-03-22 (last updated: 23:30 IST)

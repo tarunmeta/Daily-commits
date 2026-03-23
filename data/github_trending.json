@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-23 12:03:16 UTC",
-    "fetched_at_ist": "2026-03-23 17:33:16 IST",
+    "fetched_at_utc": "2026-03-23 18:04:30 UTC",
+    "fetched_at_ist": "2026-03-23 23:34:30 IST",
     "item_count": 15,
-    "content_hash": "ceb1415800f7dd371d3245b6b20ce07a32d4e227fa90ee22d8141f67ee6d4751",
-    "previous_hash": "f112911d332babc7920bd775da41bb76f3169f395dd99194d2090595b31b9981",
-    "new_repos_vs_previous": 7,
+    "content_hash": "cf4ee87d6fda4404522b9b453ae6007e309eca8f7c0e19c1bc226f18e5427e45",
+    "previous_hash": "ceb1415800f7dd371d3245b6b20ce07a32d4e227fa90ee22d8141f67ee6d4751",
+    "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
   "repos": [
@@ -19,7 +19,7 @@
     },
     {
       "name": "bytedance/deer-flow",
-      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "stars_today": "3,569 stars today"
     },
@@ -81,7 +81,7 @@
       "name": "kepano/obsidian-skills",
       "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
       "language": "Unknown",
-      "stars_today": "367 stars today"
+      "stars_today": "453 stars today"
     },
     {
       "name": "czlonkowski/n8n-mcp",
@@ -93,7 +93,7 @@
       "name": "iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars_today": "165 stars today"
+      "stars_today": "125 stars today"
     },
     {
       "name": "hesreallyhim/awesome-claude-code",
