@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 17:39:21 UTC",
-    "fetched_at_ist": "2026-03-24 23:09:21 IST",
+    "fetched_at_utc": "2026-03-24 18:39:49 UTC",
+    "fetched_at_ist": "2026-03-25 00:09:49 IST",
     "item_count": 5,
-    "content_hash": "55d21e646d93c0e300e86856b946a170c43917e463e83f008d16fe8959e96794",
-    "previous_hash": "fb6812ce7823b918b574b14a9022b0d12bf164a7187c2c7f76a76808ce162e87",
+    "content_hash": "28fd9fc8aefc6420a9363b1ec2c33396b73cc4a6fb911b202411c3303b540407",
+    "previous_hash": "55d21e646d93c0e300e86856b946a170c43917e463e83f008d16fe8959e96794",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47501729,
-      "title": "LiteLLM Python package compromised by supply-chain attack",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 610,
-      "comments": 252
-    },
-    {
-      "id": 47504615,
-      "title": "No Terms. No Conditions",
-      "url": "https://notermsnoconditions.com",
-      "score": 104,
-      "comments": 29
+      "id": 47506641,
+      "title": "ARM AGI CPU: Specs and SKUs",
+      "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
+      "score": 41,
+      "comments": 7
     },
     {
       "id": 47504695,
-      "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
       "url": "https://github.com/t8/hypura",
-      "score": 68,
-      "comments": 40
+      "score": 124,
+      "comments": 57
+    },
+    {
+      "id": 47506251,
+      "title": "Arm AGI CPU",
+      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "score": 42,
+      "comments": 19
     },
     {
       "id": 47504094,
       "title": "Hypothesis, Antithesis, Synthesis",
       "url": "https://antithesis.com/blog/2026/hegel/",
-      "score": 78,
-      "comments": 40
+      "score": 105,
+      "comments": 51
     },
     {
-      "id": 47503617,
-      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
-      "url": "https://github.com/ssrajadh/sentrysearch",
-      "score": 55,
-      "comments": 24
+      "id": 47504615,
+      "title": "No Terms. No Conditions",
+      "url": "https://notermsnoconditions.com",
+      "score": 141,
+      "comments": 52
     }
   ]
 }
