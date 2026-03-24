@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 16:36:11 UTC",
-    "fetched_at_ist": "2026-03-24 22:06:11 IST",
+    "fetched_at_utc": "2026-03-24 17:39:21 UTC",
+    "fetched_at_ist": "2026-03-24 23:09:21 IST",
     "item_count": 5,
-    "content_hash": "fb6812ce7823b918b574b14a9022b0d12bf164a7187c2c7f76a76808ce162e87",
-    "previous_hash": "b58d11dde8f8eaaea2832cc85611248539e517e07b7e15b72a17e59553508c20",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "55d21e646d93c0e300e86856b946a170c43917e463e83f008d16fe8959e96794",
+    "previous_hash": "fb6812ce7823b918b574b14a9022b0d12bf164a7187c2c7f76a76808ce162e87",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47501729,
       "title": "LiteLLM Python package compromised by supply-chain attack",
       "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 507,
-      "comments": 208
-    },
-    {
-      "id": 47504112,
-      "title": "Apple Business",
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 61,
-      "comments": 36
+      "score": 610,
+      "comments": 252
     },
     {
       "id": 47504615,
       "title": "No Terms. No Conditions",
       "url": "https://notermsnoconditions.com",
-      "score": 39,
-      "comments": 7
+      "score": 104,
+      "comments": 29
+    },
+    {
+      "id": 47504695,
+      "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+      "url": "https://github.com/t8/hypura",
+      "score": 68,
+      "comments": 40
     },
     {
       "id": 47504094,
       "title": "Hypothesis, Antithesis, Synthesis",
       "url": "https://antithesis.com/blog/2026/hegel/",
-      "score": 43,
-      "comments": 21
+      "score": 78,
+      "comments": 40
     },
     {
-      "id": 47503965,
-      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
-      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-      "score": 102,
-      "comments": 48
+      "id": 47503617,
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "url": "https://github.com/ssrajadh/sentrysearch",
+      "score": 55,
+      "comments": 24
     }
   ]
 }

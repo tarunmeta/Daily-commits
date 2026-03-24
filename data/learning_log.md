@@ -23,18 +23,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-24 (last updated: 22:06 IST)
+
+## 📅 2026-03-24 (last updated: 23:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-24 05:31:04 IST | 6c33d7566a7a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-24 22:06:11 IST | fb6812ce7823 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-24 23:09:21 IST | 55d21e646d93 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-24 20:51:03 IST | 604b80585228 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,157 stars today
 
 ### 📰 Hacker News Stories
-- [LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512) — Score: 507
-- [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) — Score: 61
-- [No Terms. No Conditions](https://notermsnoconditions.com) — Score: 39
-- [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/) — Score: 43
-- [LaGuardia pilots raised safety alarms months before deadly runway crash](https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash) — Score: 102
+- [LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512) — Score: 610
+- [No Terms. No Conditions](https://notermsnoconditions.com) — Score: 104
+- [Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe](https://github.com/t8/hypura) — Score: 68
+- [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/) — Score: 78
+- [Show HN: Gemini can now natively embed video, so I built sub-second video search](https://github.com/ssrajadh/sentrysearch) — Score: 55
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,933.0 🔴 -1.58%
