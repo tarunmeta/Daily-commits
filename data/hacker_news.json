@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 12:35:10 UTC",
-    "fetched_at_ist": "2026-03-24 18:05:10 IST",
+    "fetched_at_utc": "2026-03-24 16:36:11 UTC",
+    "fetched_at_ist": "2026-03-24 22:06:11 IST",
     "item_count": 5,
-    "content_hash": "b58d11dde8f8eaaea2832cc85611248539e517e07b7e15b72a17e59553508c20",
-    "previous_hash": "70eeb889ac09ddaea6bb25446fa89636e464e53a011008cf1b22b826a14af523",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "fb6812ce7823b918b574b14a9022b0d12bf164a7187c2c7f76a76808ce162e87",
+    "previous_hash": "b58d11dde8f8eaaea2832cc85611248539e517e07b7e15b72a17e59553508c20",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47500335,
-      "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
-      "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 318,
-      "comments": 215
+      "id": 47501729,
+      "title": "LiteLLM Python package compromised by supply-chain attack",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 507,
+      "comments": 208
     },
     {
-      "id": 47499721,
-      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
-      "url": "https://www.web-rewind.com",
-      "score": 97,
-      "comments": 50
+      "id": 47504112,
+      "title": "Apple Business",
+      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "score": 61,
+      "comments": 36
     },
     {
-      "id": 47499245,
-      "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
-      "url": "https://burntsushi.net/ripgrep/",
-      "score": 115,
+      "id": 47504615,
+      "title": "No Terms. No Conditions",
+      "url": "https://notermsnoconditions.com",
+      "score": 39,
+      "comments": 7
+    },
+    {
+      "id": 47504094,
+      "title": "Hypothesis, Antithesis, Synthesis",
+      "url": "https://antithesis.com/blog/2026/hegel/",
+      "score": 43,
+      "comments": 21
+    },
+    {
+      "id": 47503965,
+      "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+      "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+      "score": 102,
       "comments": 48
-    },
-    {
-      "id": 47488686,
-      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 186,
-      "comments": 59
-    },
-    {
-      "id": 47500746,
-      "title": "Debunking Zswap and Zram Myths",
-      "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
-      "score": 28,
-      "comments": 3
     }
   ]
 }
