@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 08:31:03 UTC",
-    "fetched_at_ist": "2026-03-24 14:01:03 IST",
+    "fetched_at_utc": "2026-03-24 09:39:38 UTC",
+    "fetched_at_ist": "2026-03-24 15:09:38 IST",
     "item_count": 5,
-    "content_hash": "95d720ff4a21c96fb1c1f114aebd3426ecd468166a382cdb0d899e7f5893d0d9",
-    "previous_hash": "9746cad5dd27f010142d3a9d7b54a4afa0a36538c0ffa6c1816f997c6267773d",
+    "content_hash": "39c3687beb67888dcddfdffcdd3a6cc1d01f17e47b730e150a014ba3844b33fa",
+    "previous_hash": "95d720ff4a21c96fb1c1f114aebd3426ecd468166a382cdb0d899e7f5893d0d9",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 47488686,
       "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
       "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 96,
-      "comments": 23
+      "score": 124,
+      "comments": 35
     },
     {
       "id": 47498924,
       "title": "Log File Viewer for the Terminal",
       "url": "https://lnav.org/",
-      "score": 76,
-      "comments": 10
+      "score": 113,
+      "comments": 15
     },
     {
-      "id": 47469744,
-      "title": "BIO – The Bao I/O Co-Processor",
-      "url": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
-      "score": 32,
-      "comments": 5
+      "id": 47499721,
+      "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
+      "url": "https://www.web-rewind.com",
+      "score": 17,
+      "comments": 11
     },
     {
       "id": 47499672,
       "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
       "url": "https://proofshot.argil.io/",
-      "score": 4,
-      "comments": 0
+      "score": 22,
+      "comments": 22
     },
     {
-      "id": 47493460,
-      "title": "Autoresearch on an old research idea",
-      "url": "https://ykumar.me/blog/eclip-autoresearch/",
-      "score": 350,
-      "comments": 72
+      "id": 47469744,
+      "title": "BIO – The Bao I/O Co-Processor",
+      "url": "https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor",
+      "score": 37,
+      "comments": 8
     }
   ]
 }
