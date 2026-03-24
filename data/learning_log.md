@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-25 (last updated: 00:09 IST)
+
+## 📅 2026-03-25 (last updated: 01:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-24 05:31:04 IST | 6c33d7566a7a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-25 00:09:49 IST | 28fd9fc8aefc | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-25 01:11:41 IST | c8ef9194cbd9 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-24 20:51:03 IST | 604b80585228 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,157 stars today
 
 ### 📰 Hacker News Stories
-- [ARM AGI CPU: Specs and SKUs](https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/) — Score: 41
-- [Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon](https://github.com/t8/hypura) — Score: 124
-- [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu) — Score: 42
-- [Hypothesis, Antithesis, Synthesis](https://antithesis.com/blog/2026/hegel/) — Score: 105
-- [No Terms. No Conditions](https://notermsnoconditions.com) — Score: 141
+- [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu) — Score: 131
+- [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) — Score: 234
+- [Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon](https://github.com/t8/hypura) — Score: 147
+- [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) — Score: 180
+- [No Terms. No Conditions](https://notermsnoconditions.com) — Score: 172
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,933.0 🔴 -1.58%
@@ -44,26 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $630.92 🔴 -1.93%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-24 (last updated: 23:09 IST)
 
 ### 🧪 Source Integrity Snapshot

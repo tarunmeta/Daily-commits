@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 18:39:49 UTC",
-    "fetched_at_ist": "2026-03-25 00:09:49 IST",
+    "fetched_at_utc": "2026-03-24 19:41:41 UTC",
+    "fetched_at_ist": "2026-03-25 01:11:41 IST",
     "item_count": 5,
-    "content_hash": "28fd9fc8aefc6420a9363b1ec2c33396b73cc4a6fb911b202411c3303b540407",
-    "previous_hash": "55d21e646d93c0e300e86856b946a170c43917e463e83f008d16fe8959e96794",
+    "content_hash": "c8ef9194cbd957a8e6ee87dad186b03f7bbee3b94aa39ec6536b9b5f6c8396a3",
+    "previous_hash": "28fd9fc8aefc6420a9363b1ec2c33396b73cc4a6fb911b202411c3303b540407",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47506641,
-      "title": "ARM AGI CPU: Specs and SKUs",
-      "url": "https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/",
-      "score": 41,
-      "comments": 7
+      "id": 47506251,
+      "title": "Arm AGI CPU",
+      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+      "score": 131,
+      "comments": 65
+    },
+    {
+      "id": 47504112,
+      "title": "Apple Business",
+      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+      "score": 234,
+      "comments": 181
     },
     {
       "id": 47504695,
       "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
       "url": "https://github.com/t8/hypura",
-      "score": 124,
-      "comments": 57
+      "score": 147,
+      "comments": 63
     },
     {
-      "id": 47506251,
-      "title": "Arm AGI CPU",
-      "url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
-      "score": 42,
-      "comments": 19
-    },
-    {
-      "id": 47504094,
-      "title": "Hypothesis, Antithesis, Synthesis",
-      "url": "https://antithesis.com/blog/2026/hegel/",
-      "score": 105,
-      "comments": 51
+      "id": 47501426,
+      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "score": 180,
+      "comments": 310
     },
     {
       "id": 47504615,
       "title": "No Terms. No Conditions",
       "url": "https://notermsnoconditions.com",
-      "score": 141,
-      "comments": 52
+      "score": 172,
+      "comments": 69
     }
   ]
 }
