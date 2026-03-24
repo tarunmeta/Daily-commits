@@ -8,13 +8,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-25 (last updated: 01:55 IST)
+
+## 📅 2026-03-25 (last updated: 04:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-24 05:31:04 IST | 6c33d7566a7a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-25 01:11:41 IST | c8ef9194cbd9 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-25 04:04:46 IST | a9bc378232eb | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-25 01:55:30 IST | f9fe120b73c2 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,157 stars today
 
 ### 📰 Hacker News Stories
-- [Arm AGI CPU](https://newsroom.arm.com/blog/introducing-arm-agi-cpu) — Score: 131
-- [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) — Score: 234
-- [Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon](https://github.com/t8/hypura) — Score: 147
-- [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) — Score: 180
-- [No Terms. No Conditions](https://notermsnoconditions.com) — Score: 172
+- [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) — Score: 430
+- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead) — Score: 44
+- [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) — Score: 377
+- [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/) — Score: 470
+- [Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon](https://github.com/t8/hypura) — Score: 174
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,854.0 🔴 -1.30%
