@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 11:32:56 UTC",
-    "fetched_at_ist": "2026-03-24 17:02:56 IST",
+    "fetched_at_utc": "2026-03-24 12:35:10 UTC",
+    "fetched_at_ist": "2026-03-24 18:05:10 IST",
     "item_count": 5,
-    "content_hash": "70eeb889ac09ddaea6bb25446fa89636e464e53a011008cf1b22b826a14af523",
-    "previous_hash": "e0032e7e6846e9e9e0f0b4e0b24a52128308ae1d10a5db61e9ca7c934ce924a7",
+    "content_hash": "b58d11dde8f8eaaea2832cc85611248539e517e07b7e15b72a17e59553508c20",
+    "previous_hash": "70eeb889ac09ddaea6bb25446fa89636e464e53a011008cf1b22b826a14af523",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 47500335,
       "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
       "url": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
-      "score": 166,
-      "comments": 121
+      "score": 318,
+      "comments": 215
     },
     {
       "id": 47499721,
       "title": "Opera: Rewind The Web to 1996 (Opera at 30)",
       "url": "https://www.web-rewind.com",
-      "score": 68,
-      "comments": 36
-    },
-    {
-      "id": 47488686,
-      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
-      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
-      "score": 161,
-      "comments": 49
-    },
-    {
-      "id": 47498924,
-      "title": "Log File Viewer for the Terminal",
-      "url": "https://lnav.org/",
-      "score": 168,
-      "comments": 21
+      "score": 97,
+      "comments": 50
     },
     {
       "id": 47499245,
       "title": "Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",
       "url": "https://burntsushi.net/ripgrep/",
-      "score": 70,
-      "comments": 33
+      "score": 115,
+      "comments": 48
+    },
+    {
+      "id": 47488686,
+      "title": "Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home",
+      "url": "https://www.jackhogan.me/blog/box-of-secrets/",
+      "score": 186,
+      "comments": 59
+    },
+    {
+      "id": 47500746,
+      "title": "Debunking Zswap and Zram Myths",
+      "url": "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html",
+      "score": 28,
+      "comments": 3
     }
   ]
 }
