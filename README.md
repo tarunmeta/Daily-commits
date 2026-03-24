@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-23 23:34:38 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-24 00:01:05 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **FujiwaraChoki/MoneyPrinterV2**
-- BTC: **$71,098.0** ↑ (+3.60%)
-- HN top story: **Autoresearch on an old research idea**
+- BTC: **$70,907.0** ↑ (+4.39%)
+- HN top story: **Windows 3.1 tiled background .bmp archive**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-03-23 18:04:30 UTC | `cf4ee87d6fda` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-23 23:34:38 UTC | `96917da79555` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-03-23 18:04:30 UTC | `15ea12039c31` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-03-24 00:01:04 UTC | `6c33d7566a7a` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-24 00:01:05 UTC | `120ec0d61d49` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-24 00:01:04 UTC | `d236c7c7066c` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-24` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `32` day(s) |
-| Last Commit (IST) | `2026-03-24 04:22:06 IST` |
+| Last Commit (IST) | `2026-03-24 05:04:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-21 | 33 | `██████░░░░░░░░░░░░░░` 33% |
 | 2026-03-22 | 33 | `██████░░░░░░░░░░░░░░` 33% |
 | 2026-03-23 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
-| 2026-03-24 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-03-24 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,098.0 | +3.60% | 🟢 |
-| Ethereum | $2,153.69 | +3.70% | 🟢 |
-| Solana | $91.28 | +4.56% | 🟢 |
-| Bnb | $637.84 | +1.26% | 🟢 |
+| Bitcoin | $70,907.0 | +4.39% | 🟢 |
+| Ethereum | $2,152.19 | +4.82% | 🟢 |
+| Solana | $91.38 | +6.08% | 🟢 |
+| Bnb | $639.05 | +2.02% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 2,902 stars today | Automate the process of making money online. |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,569 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 4,148 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1,307 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 1,160 stars today | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,521 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | 58 stars today | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 4,453 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 2,880 stars today | Automate the process of making money online. |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,546 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 4,138 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1,309 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 1,157 stars today | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,530 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | 56 stars today | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 4,458 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/) | 236 | 63 |
-| [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers) | 80 | 32 |
-| [Hacker Mints $80M USD Worth of USR Stablecoins](https://bfmtimes.com/hacker-mints-80-million-worth-of-fake-stablecoins-and-swaps-them-for-eth/) | 39 | 24 |
-| [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) | 444 | 230 |
-| [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds) | 12 | 0 |
+| [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds) | 51 | 10 |
+| [FCC Updates Covered List to Include Foreign-Made Consumer Routers](https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers) | 101 | 52 |
+| [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/) | 244 | 65 |
+| [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412) | 449 | 232 |
+| [Ju Ci (锔瓷): The Ancient Art of Repairing Porcelain](https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/) | 27 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
