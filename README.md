@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-25 14:42:58 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-25 18:09:42 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **FujiwaraChoki/MoneyPrinterV2**
-- BTC: **$71,601.0** ↑ (+1.43%)
-- HN top story: **Apple Just Lost Me**
+- Top GitHub repo: **mvanhorn/last30days-skill**
+- BTC: **$70,881.0** ↑ (+2.35%)
+- HN top story: **My Astrophotography in the Movie Project Hail Mary**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-03-24 00:01:04 UTC | `6c33d7566a7a` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-25 14:42:58 UTC | `e3009d322d0b` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-25 13:27:17 UTC | `0ef2978a9199` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 12 | 2026-03-25 18:09:41 UTC | `56a600b3e742` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-25 18:09:42 UTC | `8714ca390037` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-25 18:09:41 UTC | `455fdc40b12f` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-25` |
-| Commits Today | `21` / `100` |
-| Remaining Today | `79` |
-| Progress | `████░░░░░░░░░░░░░░░░` 21% |
+| Commits Today | `22` / `100` |
+| Remaining Today | `78` |
+| Progress | `████░░░░░░░░░░░░░░░░` 22% |
 | Streak | `33` day(s) |
-| Last Commit (IST) | `2026-03-25 21:21:25 IST` |
+| Last Commit (IST) | `2026-03-25 22:34:46 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-22 | 33 | `██████░░░░░░░░░░░░░░` 33% |
 | 2026-03-23 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-24 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-03-25 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
+| 2026-03-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,601.0 | +1.43% | 🟢 |
-| Ethereum | $2,182.11 | +1.51% | 🟢 |
-| Solana | $92.99 | +2.06% | 🟢 |
-| Bnb | $649.09 | +2.10% | 🟢 |
+| Bitcoin | $70,881.0 | +2.35% | 🟢 |
+| Ethereum | $2,167.24 | +2.78% | 🟢 |
+| Solana | $91.76 | +3.04% | 🟢 |
+| Bnb | $645.49 | +2.59% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | 2,880 stars today | Automate the process of making money online. |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,546 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 4,138 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 1,309 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Python | 1,157 stars today | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,530 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) | Python | 56 stars today | You like pytorch? You like micrograd? You love tinygrad! ❤️ |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | 4,458 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,342 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,787 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | 289 stars today | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native… |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 2,353 stars today | Create and share 3D architectural projects. |
+| [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | 71 stars today | Give Claude Code a subconscious |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,173 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 1,717 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,083 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Apple Just Lost Me](https://andregarzia.com/2026/03/apple-just-lost-me.html) | 42 | 6 |
-| [Local LLM App by Ente](https://ente.com/blog/ensu/) | 110 | 42 |
-| [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o) | 320 | 174 |
-| [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) | 129 | 48 |
-| [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) | 305 | 89 |
+| [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) | 397 | 124 |
+| [Local LLM App by Ente](https://ente.com/blog/ensu/) | 264 | 118 |
+| [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) | 209 | 137 |
+| [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict) | 151 | 19 |
+| [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html) | 59 | 8 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 14:42:58 UTC",
-    "fetched_at_ist": "2026-03-25 20:12:58 IST",
+    "fetched_at_utc": "2026-03-25 18:09:42 UTC",
+    "fetched_at_ist": "2026-03-25 23:39:42 IST",
     "item_count": 5,
-    "content_hash": "e3009d322d0ba5e732bc06fb2968908d572a63148f65a7c77111c0d7305f4ce4",
-    "previous_hash": "4da6d6b07b5bcdf4ac11336647dd2987b55c6f3e54e9e672d6fb0b2858d07156",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "8714ca39003788cadb277929f811554e44bc70b14f88a234d881ba9163339073",
+    "previous_hash": "e3009d322d0ba5e732bc06fb2968908d572a63148f65a7c77111c0d7305f4ce4",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47517701,
-      "title": "Apple Just Lost Me",
-      "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
-      "score": 42,
-      "comments": 6
+      "id": 47477873,
+      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "score": 397,
+      "comments": 124
     },
     {
       "id": 47516650,
       "title": "Local LLM App by Ente",
       "url": "https://ente.com/blog/ensu/",
-      "score": 110,
-      "comments": 42
+      "score": 264,
+      "comments": 118
     },
     {
-      "id": 47514916,
-      "title": "Meta told to pay $375M for misleading users over child safety",
-      "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
-      "score": 320,
-      "comments": 174
+      "id": 47517539,
+      "title": "Thoughts on Slowing the Fuck Down",
+      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
+      "score": 209,
+      "comments": 137
     },
     {
-      "id": 47477873,
-      "title": "My Astrophotography in the Movie Project Hail Mary",
-      "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 129,
-      "comments": 48
+      "id": 47519625,
+      "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
+      "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
+      "score": 151,
+      "comments": 19
     },
     {
-      "id": 47513475,
-      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-      "score": 305,
-      "comments": 89
+      "id": 47520505,
+      "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
+      "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+      "score": 59,
+      "comments": 8
     }
   ]
 }
