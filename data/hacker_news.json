@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 04:32:52 UTC",
-    "fetched_at_ist": "2026-03-25 10:02:52 IST",
+    "fetched_at_utc": "2026-03-25 14:42:58 UTC",
+    "fetched_at_ist": "2026-03-25 20:12:58 IST",
     "item_count": 5,
-    "content_hash": "4da6d6b07b5bcdf4ac11336647dd2987b55c6f3e54e9e672d6fb0b2858d07156",
-    "previous_hash": "a9bc378232eb195e9de76747e20f72700085d3b6a93e87fe60ef915e4fdad83e",
+    "content_hash": "e3009d322d0ba5e732bc06fb2968908d572a63148f65a7c77111c0d7305f4ce4",
+    "previous_hash": "4da6d6b07b5bcdf4ac11336647dd2987b55c6f3e54e9e672d6fb0b2858d07156",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47513008,
-      "title": "US Army raises enlistment age to 42 and removes marijuana waiver requirement",
-      "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf",
-      "score": 49,
-      "comments": 24
+      "id": 47517701,
+      "title": "Apple Just Lost Me",
+      "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
+      "score": 42,
+      "comments": 6
     },
     {
-      "id": 47511589,
-      "title": "Flighty Airports",
-      "url": "https://flighty.com/airports",
-      "score": 171,
-      "comments": 57
+      "id": 47516650,
+      "title": "Local LLM App by Ente",
+      "url": "https://ente.com/blog/ensu/",
+      "score": 110,
+      "comments": 42
     },
     {
-      "id": 47512891,
-      "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
-      "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
-      "score": 13,
-      "comments": 1
+      "id": 47514916,
+      "title": "Meta told to pay $375M for misleading users over child safety",
+      "url": "https://www.bbc.com/news/articles/cql75dn07n2o",
+      "score": 320,
+      "comments": 174
     },
     {
-      "id": 47508246,
-      "title": "Goodbye to Sora",
-      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-      "score": 498,
-      "comments": 384
+      "id": 47477873,
+      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "score": 129,
+      "comments": 48
     },
     {
-      "id": 47512816,
-      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
-      "url": "https://v-os.dev",
-      "score": 12,
-      "comments": 2
+      "id": 47513475,
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "score": 305,
+      "comments": 89
     }
   ]
 }

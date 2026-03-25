@@ -21,13 +21,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-25 (last updated: 18:57 IST)
+
+## 📅 2026-03-25 (last updated: 20:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-24 05:31:04 IST | 6c33d7566a7a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-25 10:02:52 IST | 4da6d6b07b5b | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-25 20:12:58 IST | e3009d322d0b | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-25 18:57:17 IST | 0ef2978a9199 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,157 stars today
 
 ### 📰 Hacker News Stories
-- [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf) — Score: 49
-- [Flighty Airports](https://flighty.com/airports) — Score: 171
-- [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn) — Score: 13
-- [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896) — Score: 498
-- [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev) — Score: 12
+- [Apple Just Lost Me](https://andregarzia.com/2026/03/apple-just-lost-me.html) — Score: 42
+- [Local LLM App by Ente](https://ente.com/blog/ensu/) — Score: 110
+- [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o) — Score: 320
+- [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 129
+- [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) — Score: 305
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,601.0 🟢 +1.43%
