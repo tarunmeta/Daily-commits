@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 18:09:42 UTC",
-    "fetched_at_ist": "2026-03-25 23:39:42 IST",
+    "fetched_at_utc": "2026-03-25 20:43:44 UTC",
+    "fetched_at_ist": "2026-03-26 02:13:44 IST",
     "item_count": 5,
-    "content_hash": "8714ca39003788cadb277929f811554e44bc70b14f88a234d881ba9163339073",
-    "previous_hash": "e3009d322d0ba5e732bc06fb2968908d572a63148f65a7c77111c0d7305f4ce4",
+    "content_hash": "a857de8b14a2a6d20bbf1eda3f6b211e0ac86e5f657bbf8272d2cbb2b1540a6f",
+    "previous_hash": "8714ca39003788cadb277929f811554e44bc70b14f88a234d881ba9163339073",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47522709,
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "score": 75,
+      "comments": 22
+    },
+    {
+      "id": 47521150,
+      "title": "ARC-AGI-3",
+      "url": "https://arcprize.org/arc-agi/3",
+      "score": 92,
+      "comments": 58
+    },
+    {
       "id": 47477873,
-      "title": "My Astrophotography in the Movie Project Hail Mary",
+      "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 397,
-      "comments": 124
+      "score": 573,
+      "comments": 163
     },
     {
       "id": 47516650,
-      "title": "Local LLM App by Ente",
+      "title": "Ensu – Ente’s Local LLM app",
       "url": "https://ente.com/blog/ensu/",
-      "score": 264,
-      "comments": 118
+      "score": 300,
+      "comments": 133
     },
     {
-      "id": 47517539,
-      "title": "Thoughts on Slowing the Fuck Down",
-      "url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
-      "score": 209,
-      "comments": 137
-    },
-    {
-      "id": 47519625,
-      "title": "Jury says Meta knowingly harmed children for profit, awarding landmark verdict",
-      "url": "https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict",
-      "score": 151,
-      "comments": 19
-    },
-    {
-      "id": 47520505,
-      "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Case",
-      "url": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
-      "score": 59,
-      "comments": 8
+      "id": 47519295,
+      "title": "Quantization from the Ground Up",
+      "url": "https://ngrok.com/blog/quantization",
+      "score": 113,
+      "comments": 23
     }
   ]
 }

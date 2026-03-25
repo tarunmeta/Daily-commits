@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-03-26 (last updated: 23:39 IST)
+
+## 📅 2026-03-26 (last updated: 02:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-25 23:39:41 IST | 56a600b3e742 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-25 23:39:42 IST | 8714ca390037 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-26 02:13:44 IST | a857de8b14a2 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-25 23:39:41 IST | 455fdc40b12f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 71 stars today
 
 ### 📰 Hacker News Stories
-- [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 397
-- [Local LLM App by Ente](https://ente.com/blog/ensu/) — Score: 264
-- [Thoughts on Slowing the Fuck Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) — Score: 209
-- [Jury says Meta knowingly harmed children for profit, awarding landmark verdict](https://www.latimes.com/business/story/2026-03-25/jury-says-meta-knowingly-harmed-children-for-profit-awarding-landmark-verdict) — Score: 151
-- [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html) — Score: 59
+- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) — Score: 75
+- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 92
+- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 573
+- [Ensu – Ente’s Local LLM app](https://ente.com/blog/ensu/) — Score: 300
+- [Quantization from the Ground Up](https://ngrok.com/blog/quantization) — Score: 113
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,881.0 🟢 +2.35%
