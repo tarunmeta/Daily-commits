@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-25 (last updated: 07:56 IST)
+
+## 📅 2026-03-25 (last updated: 10:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-03-24 05:31:04 IST | 6c33d7566a7a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-25 04:04:46 IST | a9bc378232eb | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-25 10:02:52 IST | 4da6d6b07b5b | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-25 07:56:06 IST | 9d146981b9a4 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,157 stars today
 
 ### 📰 Hacker News Stories
-- [Apple Business](https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/) — Score: 430
-- [I wanted to build vertical SaaS for pest control, so I took a technician job](https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead) — Score: 44
-- [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) — Score: 377
-- [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/) — Score: 470
-- [Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon](https://github.com/t8/hypura) — Score: 174
+- [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf) — Score: 49
+- [Flighty Airports](https://flighty.com/airports) — Score: 171
+- [Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1](https://github.com/cigrainger/duckdb-hnsw-acorn) — Score: 13
+- [Goodbye to Sora](https://twitter.com/soraofficialapp/status/2036532795984715896) — Score: 498
+- [VitruvianOS – Desktop Linux Inspired by the BeOS](https://v-os.dev) — Score: 12
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,559.0 🟢 +0.09%

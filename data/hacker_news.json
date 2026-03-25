@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-24 22:34:46 UTC",
-    "fetched_at_ist": "2026-03-25 04:04:46 IST",
+    "fetched_at_utc": "2026-03-25 04:32:52 UTC",
+    "fetched_at_ist": "2026-03-25 10:02:52 IST",
     "item_count": 5,
-    "content_hash": "a9bc378232eb195e9de76747e20f72700085d3b6a93e87fe60ef915e4fdad83e",
-    "previous_hash": "c8ef9194cbd957a8e6ee87dad186b03f7bbee3b94aa39ec6536b9b5f6c8396a3",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "4da6d6b07b5bcdf4ac11336647dd2987b55c6f3e54e9e672d6fb0b2858d07156",
+    "previous_hash": "a9bc378232eb195e9de76747e20f72700085d3b6a93e87fe60ef915e4fdad83e",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47504112,
-      "title": "Apple Business",
-      "url": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
-      "score": 430,
-      "comments": 278
+      "id": 47513008,
+      "title": "US Army raises enlistment age to 42 and removes marijuana waiver requirement",
+      "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf",
+      "score": 49,
+      "comments": 24
     },
     {
-      "id": 47509571,
-      "title": "I wanted to build vertical SaaS for pest control, so I took a technician job",
-      "url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
-      "score": 44,
-      "comments": 18
+      "id": 47511589,
+      "title": "Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "score": 171,
+      "comments": 57
     },
     {
-      "id": 47501426,
-      "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-      "url": "https://github.com/BerriAI/litellm/issues/24512",
-      "score": 377,
-      "comments": 347
+      "id": 47512891,
+      "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+      "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+      "score": 13,
+      "comments": 1
     },
     {
-      "id": 47507150,
-      "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-      "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-      "score": 470,
-      "comments": 165
+      "id": 47508246,
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 498,
+      "comments": 384
     },
     {
-      "id": 47504695,
-      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
-      "url": "https://github.com/t8/hypura",
-      "score": 174,
-      "comments": 73
+      "id": 47512816,
+      "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+      "url": "https://v-os.dev",
+      "score": 12,
+      "comments": 2
     }
   ]
 }
