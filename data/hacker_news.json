@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 20:43:44 UTC",
-    "fetched_at_ist": "2026-03-26 02:13:44 IST",
+    "fetched_at_utc": "2026-03-25 23:41:40 UTC",
+    "fetched_at_ist": "2026-03-26 05:11:40 IST",
     "item_count": 5,
-    "content_hash": "a857de8b14a2a6d20bbf1eda3f6b211e0ac86e5f657bbf8272d2cbb2b1540a6f",
-    "previous_hash": "8714ca39003788cadb277929f811554e44bc70b14f88a234d881ba9163339073",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "191487edd4ec1dba17fbf00cdc2a228a91a661f318b33b87701fdaccbd6395f7",
+    "previous_hash": "a857de8b14a2a6d20bbf1eda3f6b211e0ac86e5f657bbf8272d2cbb2b1540a6f",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47522709,
-      "title": "The EU still wants to scan  your private messages and photos",
-      "url": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 75,
-      "comments": 22
+      "id": 47523330,
+      "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "score": 209,
+      "comments": 52
     },
     {
       "id": 47521150,
       "title": "ARC-AGI-3",
       "url": "https://arcprize.org/arc-agi/3",
-      "score": 92,
-      "comments": 58
+      "score": 207,
+      "comments": 147
+    },
+    {
+      "id": 47522709,
+      "title": "The EU still wants to scan  your private messages and photos",
+      "url": "https://fightchatcontrol.eu/?foo=bar",
+      "score": 552,
+      "comments": 161
+    },
+    {
+      "id": 47517606,
+      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
+      "score": 72,
+      "comments": 25
     },
     {
       "id": 47477873,
       "title": "My astrophotography in the movie Project Hail Mary",
       "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 573,
-      "comments": 163
-    },
-    {
-      "id": 47516650,
-      "title": "Ensu – Ente’s Local LLM app",
-      "url": "https://ente.com/blog/ensu/",
-      "score": 300,
-      "comments": 133
-    },
-    {
-      "id": 47519295,
-      "title": "Quantization from the Ground Up",
-      "url": "https://ngrok.com/blog/quantization",
-      "score": 113,
-      "comments": 23
+      "score": 655,
+      "comments": 175
     }
   ]
 }

@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 02:52 IST)
+
+## 📅 2026-03-26 (last updated: 05:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-25 23:39:41 IST | 56a600b3e742 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-26 02:13:44 IST | a857de8b14a2 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-26 05:11:40 IST | 191487edd4ec | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-26 02:52:42 IST | cea9b2a928e1 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 71 stars today
 
 ### 📰 Hacker News Stories
-- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) — Score: 75
-- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 92
-- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 573
-- [Ensu – Ente’s Local LLM app](https://ente.com/blog/ensu/) — Score: 300
-- [Quantization from the Ground Up](https://ngrok.com/blog/quantization) — Score: 113
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 209
+- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 207
+- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) — Score: 552
+- [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) — Score: 72
+- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 655
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,029.0 🟢 +1.56%
