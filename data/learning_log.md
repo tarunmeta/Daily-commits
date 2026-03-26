@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 01:50 IST)
+
+## 📅 2026-03-27 (last updated: 04:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-26 17:32:19 IST | 7eb9d3e733b8 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 01:13:41 IST | ede8ba86d202 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-27 04:02:47 IST | e6282cb67dfa | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-03-27 01:50:58 IST | 8a64f5fe0a19 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,388 stars today
 
 ### 📰 Hacker News Stories
-- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 252
-- [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) — Score: 183
-- [Doom entirely from DNS records](https://github.com/resumex/doom-over-dns) — Score: 83
-- [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/) — Score: 60
-- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) — Score: 410
+- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 439
+- [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup) — Score: 55
+- [DOOM Over DNS](https://github.com/resumex/doom-over-dns) — Score: 162
+- [Cloudflare's Gen 13 servers: trading cache for cores for 2x performance](https://blog.cloudflare.com/gen13-launch/) — Score: 44
+- [CERN to host a new phase of Open Research Europe](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform) — Score: 150
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,174.0 🔴 -2.23%

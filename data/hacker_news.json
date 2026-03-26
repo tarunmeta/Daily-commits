@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-26 19:43:41 UTC",
-    "fetched_at_ist": "2026-03-27 01:13:41 IST",
+    "fetched_at_utc": "2026-03-26 22:32:47 UTC",
+    "fetched_at_ist": "2026-03-27 04:02:47 IST",
     "item_count": 5,
-    "content_hash": "ede8ba86d20286d326b597cfe37bae9244688a9683c8f253a5523dc90d630cda",
-    "previous_hash": "fd54849549c92a5d7cdb9637c9833cf354fed81f44130ab6fe60bcacab3e71fe",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "e6282cb67dfa46f323cd8eb6c0889e981390787f41cc03f9f061ab32fde28766",
+    "previous_hash": "ede8ba86d20286d326b597cfe37bae9244688a9683c8f253a5523dc90d630cda",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47518960,
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 252,
-      "comments": 43
+      "score": 439,
+      "comments": 75
     },
     {
-      "id": 47531967,
-      "title": "My minute-by-minute response to the LiteLLM malware attack",
-      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "score": 183,
-      "comments": 87
+      "id": 47535586,
+      "title": "Deploytarot.com – tarot card reading for deployments",
+      "url": "https://deploytarot.com/setup",
+      "score": 55,
+      "comments": 16
     },
     {
       "id": 47490705,
-      "title": "Doom entirely from DNS records",
+      "title": "DOOM Over DNS",
       "url": "https://github.com/resumex/doom-over-dns",
-      "score": 83,
-      "comments": 22
+      "score": 162,
+      "comments": 47
     },
     {
-      "id": 47533283,
-      "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
-      "url": "https://colibri.social/",
-      "score": 60,
-      "comments": 24
+      "id": 47495795,
+      "title": "Cloudflare's Gen 13 servers: trading cache for cores for 2x performance",
+      "url": "https://blog.cloudflare.com/gen13-launch/",
+      "score": 44,
+      "comments": 5
     },
     {
-      "id": 47530330,
-      "title": "Moving from GitHub to Codeberg, for lazy people",
-      "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 410,
-      "comments": 206
+      "id": 47534629,
+      "title": "CERN to host a new phase of Open Research Europe",
+      "url": "https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform",
+      "score": 150,
+      "comments": 14
     }
   ]
 }
