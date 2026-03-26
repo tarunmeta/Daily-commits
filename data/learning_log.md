@@ -18,44 +18,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 05:11 IST)
+
+## 📅 2026-03-26 (last updated: 17:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-25 23:39:41 IST | 56a600b3e742 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-26 05:11:40 IST | 191487edd4ec | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-26 02:52:42 IST | cea9b2a928e1 | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 9 | 2026-03-26 17:32:19 IST | 7eb9d3e733b8 | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-26 17:32:20 IST | d05802f2b6e9 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-26 17:32:19 IST | 9e31a09117d8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +6 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 1,342 stars today
-- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** (Python) — An open-source SuperAgent harness that researches, codes, and creates. With the   
-  ⭐ 3,787 stars today
-- **[BerriAI/litellm](https://github.com/BerriAI/litellm)** (Python) — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native  
-  ⭐ 289 stars today
-- **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — Create and share 3D architectural projects.  
-  ⭐ 2,353 stars today
-- **[letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious)** (TypeScript) — Give Claude Code a subconscious  
-  ⭐ 71 stars today
+  ⭐ 2,684 stars today
+- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
+  ⭐ 576 stars today
+- **[virattt/dexter](https://github.com/virattt/dexter)** (TypeScript) — An autonomous agent for deep financial research  
+  ⭐ 274 stars today
+- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   
+  ⭐ 1,001 stars today
+- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** (Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creat  
+  ⭐ 2,388 stars today
 
 ### 📰 Hacker News Stories
-- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 209
-- [ARC-AGI-3](https://arcprize.org/arc-agi/3) — Score: 207
-- [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) — Score: 552
-- [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) — Score: 72
-- [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) — Score: 655
+- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 296
+- [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/) — Score: 109
+- [From zero to a RAG system: successes and failures](https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/) — Score: 38
+- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 667
+- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) — Score: 54
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $71,029.0 🟢 +1.56%
-- Ethereum: $2,166.92 🟢 +1.21%
-- Solana: $91.5 🟢 +1.92%
-- Bnb: $647.45 🟢 +1.94%
+- Bitcoin: $69,239.0 🔴 -3.49%
+- Ethereum: $2,067.22 🔴 -5.53%
+- Solana: $87.58 🔴 -5.71%
+- Bnb: $628.79 🔴 -3.08%
 
 ---
 ## 📅 2026-03-25 (last updated: 23:39 IST)

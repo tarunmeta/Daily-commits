@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-25 23:41:40 UTC",
-    "fetched_at_ist": "2026-03-26 05:11:40 IST",
+    "fetched_at_utc": "2026-03-26 12:02:20 UTC",
+    "fetched_at_ist": "2026-03-26 17:32:20 IST",
     "item_count": 5,
-    "content_hash": "191487edd4ec1dba17fbf00cdc2a228a91a661f318b33b87701fdaccbd6395f7",
-    "previous_hash": "a857de8b14a2a6d20bbf1eda3f6b211e0ac86e5f657bbf8272d2cbb2b1540a6f",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "d05802f2b6e9b4c7441b0476f34560e7945098ffc7fce6f60ec4c515924aeed3",
+    "previous_hash": "191487edd4ec1dba17fbf00cdc2a228a91a661f318b33b87701fdaccbd6395f7",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47522173,
+      "title": "Personal Encyclopedias",
+      "url": "https://whoami.wiki/blog/personal-encyclopedias",
+      "score": 296,
+      "comments": 64
+    },
+    {
+      "id": 47527590,
+      "title": "Swift 6.3",
+      "url": "https://www.swift.org/blog/swift-6.3-released/",
+      "score": 109,
+      "comments": 47
+    },
+    {
+      "id": 47499356,
+      "title": "From zero to a RAG system: successes and failures",
+      "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+      "score": 38,
+      "comments": 10
+    },
+    {
       "id": 47523330,
       "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
       "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-      "score": 209,
-      "comments": 52
+      "score": 667,
+      "comments": 217
     },
     {
-      "id": 47521150,
-      "title": "ARC-AGI-3",
-      "url": "https://arcprize.org/arc-agi/3",
-      "score": 207,
-      "comments": 147
-    },
-    {
-      "id": 47522709,
-      "title": "The EU still wants to scan  your private messages and photos",
-      "url": "https://fightchatcontrol.eu/?foo=bar",
-      "score": 552,
-      "comments": 161
-    },
-    {
-      "id": 47517606,
-      "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
-      "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/",
-      "score": 72,
-      "comments": 25
-    },
-    {
-      "id": 47477873,
-      "title": "My astrophotography in the movie Project Hail Mary",
-      "url": "https://rpastro.square.site/s/stories/phm",
-      "score": 655,
-      "comments": 175
+      "id": 47526478,
+      "title": "Obsolete Sounds",
+      "url": "https://citiesandmemory.com/obsolete-sounds/",
+      "score": 54,
+      "comments": 8
     }
   ]
 }

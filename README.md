@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-25 23:41:40 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-26 12:02:20 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$71,029.0** ↑ (+1.56%)
-- HN top story: **Running Tesla Model 3's computer on my desk using parts from crashed cars**
+- BTC: **$69,239.0** ↓ (-3.49%)
+- HN top story: **Personal Encyclopedias**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-25 18:09:41 UTC | `56a600b3e742` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-25 23:41:40 UTC | `191487edd4ec` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-25 21:22:42 UTC | `cea9b2a928e1` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 9 | 2026-03-26 12:02:19 UTC | `7eb9d3e733b8` | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-26 12:02:20 UTC | `d05802f2b6e9` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-26 12:02:19 UTC | `9e31a09117d8` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +6 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-26` |
-| Commits Today | `15` / `100` |
-| Remaining Today | `85` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
+| Commits Today | `16` / `100` |
+| Remaining Today | `84` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
 | Streak | `34` day(s) |
-| Last Commit (IST) | `2026-03-26 15:43:56 IST` |
+| Last Commit (IST) | `2026-03-26 16:43:57 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-23 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-03-24 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-03-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-03-26 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
+| 2026-03-26 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,029.0 | +1.56% | 🟢 |
-| Ethereum | $2,166.92 | +1.21% | 🟢 |
-| Solana | $91.5 | +1.92% | 🟢 |
-| Bnb | $647.45 | +1.94% | 🟢 |
+| Bitcoin | $69,239.0 | -3.49% | 🔴 |
+| Ethereum | $2,067.22 | -5.53% | 🔴 |
+| Solana | $87.58 | -5.71% | 🔴 |
+| Bnb | $628.79 | -3.08% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,342 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 3,787 stars today | An open-source SuperAgent harness that researches, codes, and creates. With the … |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | 289 stars today | Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native… |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 2,353 stars today | Create and share 3D architectural projects. |
-| [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | 71 stars today | Give Claude Code a subconscious |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,173 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 1,717 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,083 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 2,684 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 576 stars today | Teams-first Multi-agent orchestration for Claude Code |
+| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 274 stars today | An autonomous agent for deep financial research |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,001 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | 2,388 stars today | An open-source long-horizon SuperAgent harness that researches, codes, and creat… |
+| [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | 1,381 stars today | No description |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | 439 stars today | Build and run agents you can see, understand and trust. |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 264 stars today | Building a modern alternative to Salesforce, powered by the community. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) | 209 | 52 |
-| [ARC-AGI-3](https://arcprize.org/arc-agi/3) | 207 | 147 |
-| [The EU still wants to scan  your private messages and photos](https://fightchatcontrol.eu/?foo=bar) | 552 | 161 |
-| [Earthquake scientists reveal how overplowing weakens soil at experimental farm](https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/) | 72 | 25 |
-| [My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) | 655 | 175 |
+| [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) | 296 | 64 |
+| [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/) | 109 | 47 |
+| [From zero to a RAG system: successes and failures](https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/) | 38 | 10 |
+| [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) | 667 | 217 |
+| [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) | 54 | 8 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
