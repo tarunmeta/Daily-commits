@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-26 18:41:47 UTC",
-    "fetched_at_ist": "2026-03-27 00:11:47 IST",
+    "fetched_at_utc": "2026-03-26 19:43:41 UTC",
+    "fetched_at_ist": "2026-03-27 01:13:41 IST",
     "item_count": 5,
-    "content_hash": "fd54849549c92a5d7cdb9637c9833cf354fed81f44130ab6fe60bcacab3e71fe",
-    "previous_hash": "2628cc63a90d43f4af7d21bc69f722c1ad1771c96cf6e5cf89510c9da89b8850",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "ede8ba86d20286d326b597cfe37bae9244688a9683c8f253a5523dc90d630cda",
+    "previous_hash": "fd54849549c92a5d7cdb9637c9833cf354fed81f44130ab6fe60bcacab3e71fe",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47518960,
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 119,
-      "comments": 13
+      "score": 252,
+      "comments": 43
     },
     {
       "id": 47531967,
       "title": "My minute-by-minute response to the LiteLLM malware attack",
       "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-      "score": 149,
-      "comments": 70
-    },
-    {
-      "id": 47533283,
-      "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
-      "url": "https://colibri.social/",
-      "score": 38,
-      "comments": 8
-    },
-    {
-      "id": 47530330,
-      "title": "Moving from GitHub to Codeberg, for lazy people",
-      "url": "https://unterwaditzer.net/2025/codeberg.html",
-      "score": 387,
-      "comments": 189
+      "score": 183,
+      "comments": 87
     },
     {
       "id": 47490705,
       "title": "Doom entirely from DNS records",
       "url": "https://github.com/resumex/doom-over-dns",
-      "score": 40,
-      "comments": 12
+      "score": 83,
+      "comments": 22
+    },
+    {
+      "id": 47533283,
+      "title": "Colibri – chat platform built on the AT Protocol for communities big and small",
+      "url": "https://colibri.social/",
+      "score": 60,
+      "comments": 24
+    },
+    {
+      "id": 47530330,
+      "title": "Moving from GitHub to Codeberg, for lazy people",
+      "url": "https://unterwaditzer.net/2025/codeberg.html",
+      "score": 410,
+      "comments": 206
     }
   ]
 }

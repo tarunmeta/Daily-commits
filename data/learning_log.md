@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-03-27 (last updated: 00:11 IST)
+
+## 📅 2026-03-27 (last updated: 01:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-26 17:32:19 IST | 7eb9d3e733b8 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 00:11:47 IST | fd54849549c9 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-27 01:13:41 IST | ede8ba86d202 | +0 new stories, top changed: no |
 | Crypto | 4 | 2026-03-26 20:49:07 IST | cdce54f5dc71 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,388 stars today
 
 ### 📰 Hacker News Stories
-- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 119
-- [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) — Score: 149
-- [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/) — Score: 38
-- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) — Score: 387
-- [Doom entirely from DNS records](https://github.com/resumex/doom-over-dns) — Score: 40
+- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 252
+- [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) — Score: 183
+- [Doom entirely from DNS records](https://github.com/resumex/doom-over-dns) — Score: 83
+- [Colibri – chat platform built on the AT Protocol for communities big and small](https://colibri.social/) — Score: 60
+- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) — Score: 410
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,879.0 🔴 -2.44%
@@ -44,25 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $626.64 🔴 -2.45%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-03-26 (last updated: 23:13 IST)
 
 ### 🧪 Source Integrity Snapshot
