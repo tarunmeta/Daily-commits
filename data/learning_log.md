@@ -21,13 +21,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-26 (last updated: 20:49 IST)
+
+## 📅 2026-03-26 (last updated: 22:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-26 17:32:19 IST | 7eb9d3e733b8 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-26 17:32:20 IST | d05802f2b6e9 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-26 22:09:58 IST | 59287e2076eb | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-26 20:49:07 IST | cdce54f5dc71 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,388 stars today
 
 ### 📰 Hacker News Stories
-- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 296
-- [Swift 6.3](https://www.swift.org/blog/swift-6.3-released/) — Score: 109
-- [From zero to a RAG system: successes and failures](https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/) — Score: 38
-- [Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) — Score: 667
-- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) — Score: 54
+- [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html) — Score: 250
+- [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) — Score: 37
+- [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias) — Score: 621
+- [European Parliament decided that Chat Control 1.0 must stop](https://bsky.app/profile/tuta.com/post/3mhxkfowv322c) — Score: 490
+- [Cory Doctorow: Interoperability Can Save the Open Web](https://spectrum.ieee.org/doctorow-interoperability) — Score: 94
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,879.0 🔴 -2.44%
