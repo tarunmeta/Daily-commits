@@ -24,18 +24,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 22:06 IST)
+
+## 📅 2026-03-27 (last updated: 23:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:36:29 IST | d29d66104022 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 22:06:50 IST | 2de436a340b4 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-27 23:06:10 IST | df34c4c7a62e | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-27 17:36:29 IST | cbedc6510e5e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -51,11 +52,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 117
-- [Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)) — Score: 65
-- [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/) — Score: 57
-- [The 'paperwork flood': How I drowned a bureaucrat before dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/) — Score: 378
-- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 289
+- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 169
+- [Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)) — Score: 95
+- [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/) — Score: 122
+- [Sand from Different Beaches in the World](https://magnifiedsand.com/) — Score: 33
+- [AI got the blame for the Iran school bombing. The truth is more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) — Score: 44
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,615.0 🔴 -3.92%
