@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 07:41:50 UTC",
-    "fetched_at_ist": "2026-03-27 13:11:50 IST",
+    "fetched_at_utc": "2026-03-27 08:32:45 UTC",
+    "fetched_at_ist": "2026-03-27 14:02:45 IST",
     "item_count": 5,
-    "content_hash": "53da3fc277afedc3f3aee64c19667ebf2affeec36a8851ca5c25a7a5c9dcba28",
-    "previous_hash": "b4bed7f2e6021071bfc55f4dd0accee5bb826bd64e38b0fcf297b1ea452a3316",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "c94d6ed3270062c5cb8aa0e142328593849016cf6e376ad507a61f8514685311",
+    "previous_hash": "53da3fc277afedc3f3aee64c19667ebf2affeec36a8851ca5c25a7a5c9dcba28",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47539825,
+      "title": "A Faster Alternative to Jq",
+      "url": "https://micahkepe.com/blog/jsongrep/",
+      "score": 34,
+      "comments": 18
+    },
+    {
       "id": 47539188,
       "title": "Schedule tasks on the web",
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 93,
-      "comments": 62
+      "score": 117,
+      "comments": 76
     },
     {
       "id": 47539767,
       "title": "The European AllSky7 fireball network",
       "url": "https://www.allsky7.net/#archive",
-      "score": 13,
-      "comments": 1
+      "score": 26,
+      "comments": 2
     },
     {
       "id": 47535708,
       "title": "Apple discontinues the Mac Pro",
       "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 295,
-      "comments": 227
+      "score": 326,
+      "comments": 250
     },
     {
       "id": 47518960,
       "title": "Why so many control rooms were seafoam green (2025)",
       "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 769,
-      "comments": 147
-    },
-    {
-      "id": 47536761,
-      "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
-      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-      "score": 202,
-      "comments": 65
+      "score": 780,
+      "comments": 148
     }
   ]
 }
