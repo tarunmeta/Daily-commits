@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-03-28 (last updated: 00:06 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 12 | 2026-03-27 17:36:29 IST | d29d66104022 | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-28 00:06:32 IST | a3dd03d98711 | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-03-27 17:36:29 IST | cbedc6510e5e | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +6 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
+  ⭐ 2,824 stars today
+- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
+  ⭐ 1,546 stars today
+- **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** (Python) — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T  
+  ⭐ 125 stars today
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
+  ⭐ 320 stars today
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — Building a modern alternative to Salesforce, powered by the community.  
+  ⭐ 661 stars today
+
+### 📰 Hacker News Stories
+- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 217
+- [Don't Wait for Claude](https://jeapostrophe.github.io/tech/jc-workflow/) — Score: 16
+- [Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot](https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)) — Score: 126
+- [Desk for people who work at home with a cat](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/) — Score: 177
+- [Sand from Different Beaches in the World](https://magnifiedsand.com/) — Score: 71
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $66,615.0 🔴 -3.92%
+- Ethereum: $1,989.58 🔴 -3.86%
+- Solana: $83.32 🔴 -4.78%
+- Bnb: $610.5 🔴 -2.91%
+
+---
 
 
 

@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 17:36:10 UTC",
-    "fetched_at_ist": "2026-03-27 23:06:10 IST",
+    "fetched_at_utc": "2026-03-27 18:36:32 UTC",
+    "fetched_at_ist": "2026-03-28 00:06:32 IST",
     "item_count": 5,
-    "content_hash": "df34c4c7a62e29dfd4c629a7e413026d77642007adf809423884b475b80411f1",
-    "previous_hash": "2de436a340b4e747f745b6abff6c1f94ccd13b0f36f51123fd4636480be1add1",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "a3dd03d98711d4f6c8421202bb210fc60fe7d03085686f8aded7d8a78bd1fb0e",
+    "previous_hash": "df34c4c7a62e29dfd4c629a7e413026d77642007adf809423884b475b80411f1",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47543139,
       "title": "Anatomy of the .claude/ folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 169,
-      "comments": 95
+      "score": 217,
+      "comments": 111
+    },
+    {
+      "id": 47546262,
+      "title": "Don't Wait for Claude",
+      "url": "https://jeapostrophe.github.io/tech/jc-workflow/",
+      "score": 16,
+      "comments": 18
     },
     {
       "id": 47542644,
       "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
       "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "score": 95,
-      "comments": 29
+      "score": 126,
+      "comments": 36
     },
     {
       "id": 47543943,
       "title": "Desk for people who work at home with a cat",
       "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
-      "score": 122,
-      "comments": 50
+      "score": 177,
+      "comments": 70
     },
     {
       "id": 47493677,
       "title": "Sand from Different Beaches in the World",
       "url": "https://magnifiedsand.com/",
-      "score": 33,
-      "comments": 5
-    },
-    {
-      "id": 47544980,
-      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
-      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
-      "score": 44,
-      "comments": 9
+      "score": 71,
+      "comments": 12
     }
   ]
 }
