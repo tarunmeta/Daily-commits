@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 04:02 IST)
+
+## 📅 2026-03-27 (last updated: 08:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-26 17:32:19 IST | 7eb9d3e733b8 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 04:02:47 IST | e6282cb67dfa | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-27 08:04:23 IST | b4bed7f2e602 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-27 01:50:58 IST | 8a64f5fe0a19 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,388 stars today
 
 ### 📰 Hacker News Stories
-- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 439
-- [Deploytarot.com – tarot card reading for deployments](https://deploytarot.com/setup) — Score: 55
-- [DOOM Over DNS](https://github.com/resumex/doom-over-dns) — Score: 162
-- [Cloudflare's Gen 13 servers: trading cache for cores for 2x performance](https://blog.cloudflare.com/gen13-launch/) — Score: 44
-- [CERN to host a new phase of Open Research Europe](https://home.cern/news/news/cern/cern-host-europes-flagship-open-access-publishing-platform) — Score: 150
+- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) — Score: 110
+- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 617
+- [Apple discontinues the Mac Pro with no plans for future hardware](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 110
+- [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) — Score: 195
+- [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/) — Score: 57
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,174.0 🔴 -2.23%
