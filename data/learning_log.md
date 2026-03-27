@@ -20,13 +20,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 17:36 IST)
+
+## 📅 2026-03-27 (last updated: 19:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:36:29 IST | d29d66104022 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 17:36:30 IST | 41c3ed0cc230 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-27 19:14:07 IST | 7e9fad78abb0 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-27 17:36:29 IST | cbedc6510e5e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) — Score: 141
-- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 165
-- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 171
-- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 70
-- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 423
+- [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/) — Score: 57
+- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) — Score: 292
+- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 215
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 199
+- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 486
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,615.0 🔴 -3.92%

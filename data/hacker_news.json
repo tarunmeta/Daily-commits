@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 12:06:30 UTC",
-    "fetched_at_ist": "2026-03-27 17:36:30 IST",
+    "fetched_at_utc": "2026-03-27 13:44:07 UTC",
+    "fetched_at_ist": "2026-03-27 19:14:07 IST",
     "item_count": 5,
-    "content_hash": "41c3ed0cc230c8704a11218b051de1def41bc34c25ab11f1679859cc93d5e899",
-    "previous_hash": "bb388df5adf12569daa79567f78c4fba8a963eca01878490614cebb559b930e3",
+    "content_hash": "7e9fad78abb068f9977270f9e6fcfaf4d631f73d046eacc47f3a7532bb1283ad",
+    "previous_hash": "41c3ed0cc230c8704a11218b051de1def41bc34c25ab11f1679859cc93d5e899",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47542057,
+      "title": "The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner",
+      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "score": 57,
+      "comments": 24
+    },
+    {
       "id": 47540833,
       "title": "Hold on to Your Hardware",
       "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
-      "score": 141,
-      "comments": 92
+      "score": 292,
+      "comments": 219
     },
     {
       "id": 47539825,
       "title": "A Faster Alternative to Jq",
       "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 165,
-      "comments": 82
+      "score": 215,
+      "comments": 123
     },
     {
       "id": 47539188,
       "title": "Schedule tasks on the web",
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 171,
-      "comments": 123
-    },
-    {
-      "id": 47539767,
-      "title": "The European AllSky7 fireball network",
-      "url": "https://www.allsky7.net/#archive",
-      "score": 70,
-      "comments": 7
+      "score": 199,
+      "comments": 157
     },
     {
       "id": 47535708,
       "title": "Apple discontinues the Mac Pro",
       "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 423,
-      "comments": 333
+      "score": 486,
+      "comments": 385
     }
   ]
 }
