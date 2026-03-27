@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 15:34:59 UTC",
-    "fetched_at_ist": "2026-03-27 21:04:59 IST",
+    "fetched_at_utc": "2026-03-27 16:36:50 UTC",
+    "fetched_at_ist": "2026-03-27 22:06:50 IST",
     "item_count": 5,
-    "content_hash": "c0b0bc6c59b56dc0f384902835ad63819cd74dda0192165b5e0ec8429cd1f4f3",
-    "previous_hash": "33a1e5ff50aceca724f24f64dc5ee85b30dc0346fe484e31208a691d45a33f53",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "2de436a340b4e747f745b6abff6c1f94ccd13b0f36f51123fd4636480be1add1",
+    "previous_hash": "c0b0bc6c59b56dc0f384902835ad63819cd74dda0192165b5e0ec8429cd1f4f3",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 47542057,
-      "title": "The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner",
-      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
-      "score": 300,
-      "comments": 199
-    },
     {
       "id": 47543139,
       "title": "Anatomy of the .claude/ Folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 38,
-      "comments": 18
+      "score": 117,
+      "comments": 64
     },
     {
       "id": 47542644,
       "title": "Installing a Let's Encrypt TLS Certificate on a Brother Printer with Certbot",
       "url": "https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare)",
-      "score": 36,
-      "comments": 0
+      "score": 65,
+      "comments": 18
     },
     {
-      "id": 47543167,
-      "title": "Iran-linked hackers claim breach of FBI director's personal email",
-      "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-      "score": 76,
-      "comments": 34
+      "id": 47543943,
+      "title": "Desk for people who work at home with a cat",
+      "url": "https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/",
+      "score": 57,
+      "comments": 20
+    },
+    {
+      "id": 47542057,
+      "title": "The 'paperwork flood': How I drowned a bureaucrat before dinner",
+      "url": "https://sightlessscribbles.com/posts/the-paperwork-flood/",
+      "score": 378,
+      "comments": 288
     },
     {
       "id": 47539825,
       "title": "A Faster Alternative to Jq",
       "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 267,
-      "comments": 161
+      "score": 289,
+      "comments": 178
     }
   ]
 }
