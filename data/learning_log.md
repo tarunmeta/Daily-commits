@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 11:46 IST)
+
+## 📅 2026-03-27 (last updated: 13:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-26 17:32:19 IST | 7eb9d3e733b8 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 08:04:23 IST | b4bed7f2e602 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-27 13:11:50 IST | 53da3fc277af | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-27 11:46:03 IST | 074a35dea863 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,388 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) — Score: 110
-- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 617
-- [Apple discontinues the Mac Pro with no plans for future hardware](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 110
-- [Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) — Score: 195
-- [Chicago artist creates tourism posters for city's neighborhoods](https://www.chicagotribune.com/2026/03/25/chicago-neighborhood-posters/) — Score: 57
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 93
+- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 13
+- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 295
+- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 769
+- [Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) — Score: 202
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,693.0 🔴 -1.94%
