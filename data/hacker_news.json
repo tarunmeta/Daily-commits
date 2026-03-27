@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 21:40:28 UTC",
-    "fetched_at_ist": "2026-03-28 03:10:28 IST",
+    "fetched_at_utc": "2026-03-27 23:35:18 UTC",
+    "fetched_at_ist": "2026-03-28 05:05:18 IST",
     "item_count": 5,
-    "content_hash": "d51125f5ef6b519a4636d6f032c06b9c02fcaf04410eaeeb1ea3cf4573b8da60",
-    "previous_hash": "a3dd03d98711d4f6c8421202bb210fc60fe7d03085686f8aded7d8a78bd1fb0e",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "373dcd89347423037f8217bc86dc32e7c8ae84ca4d6de64c19e0543a4234a9cf",
+    "previous_hash": "d51125f5ef6b519a4636d6f032c06b9c02fcaf04410eaeeb1ea3cf4573b8da60",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47547009,
       "title": "Make macOS consistently bad (unironically)",
       "url": "https://lr0.org/blog/p/macos/",
-      "score": 165,
-      "comments": 114
-    },
-    {
-      "id": 47548243,
-      "title": "If you don't opt out by Apr 24 GitHub will train on your private repos",
-      "url": "https://news.ycombinator.com/item?id=47548243",
-      "score": 184,
-      "comments": 71
-    },
-    {
-      "id": 47548087,
-      "title": "Slovenia becomes first EU country to introduce fuel rationing",
-      "url": "https://www.bbc.com/news/articles/c77m4zx6zvmo",
-      "score": 28,
-      "comments": 5
-    },
-    {
-      "id": 47543139,
-      "title": "Anatomy of the .claude/ folder",
-      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 311,
+      "score": 233,
       "comments": 157
+    },
+    {
+      "id": 47549649,
+      "title": "Why are executives enamored with AI, but ICs aren't?",
+      "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
+      "score": 13,
+      "comments": 6
     },
     {
       "id": 47548013,
       "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
       "url": "https://github.com/davidmonterocrespo24/velxio",
-      "score": 23,
-      "comments": 4
+      "score": 52,
+      "comments": 14
+    },
+    {
+      "id": 47543139,
+      "title": "Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "score": 339,
+      "comments": 177
+    },
+    {
+      "id": 47547508,
+      "title": "ISBN Visualization – Annas Archive",
+      "url": "https://annas-archive.gd/isbn-visualization?",
+      "score": 65,
+      "comments": 10
     }
   ]
 }

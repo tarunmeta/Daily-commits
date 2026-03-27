@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 03:10 IST)
+
+## 📅 2026-03-28 (last updated: 05:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:36:29 IST | d29d66104022 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 03:10:28 IST | d51125f5ef6b | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-28 05:05:18 IST | 373dcd893474 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-28 00:59:54 IST | 5793d9d21a71 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) — Score: 165
-- [If you don't opt out by Apr 24 GitHub will train on your private repos](https://news.ycombinator.com/item?id=47548243) — Score: 184
-- [Slovenia becomes first EU country to introduce fuel rationing](https://www.bbc.com/news/articles/c77m4zx6zvmo) — Score: 28
-- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 311
-- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) — Score: 23
+- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) — Score: 233
+- [Why are executives enamored with AI, but ICs aren't?](https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/) — Score: 13
+- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) — Score: 52
+- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 339
+- [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?) — Score: 65
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,844.0 🔴 -3.71%
