@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 19:14 IST)
+
+## 📅 2026-03-27 (last updated: 20:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-27 17:36:29 IST | d29d66104022 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 19:14:07 IST | 7e9fad78abb0 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-27 20:09:16 IST | 33a1e5ff50ac | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-27 17:36:29 IST | cbedc6510e5e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/) — Score: 57
-- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) — Score: 292
-- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 215
-- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 199
-- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 486
+- [The 'Paperwork Flood': How I Drowned a Bureaucrat Before Dinner](https://sightlessscribbles.com/posts/the-paperwork-flood/) — Score: 196
+- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 242
+- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) — Score: 327
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 214
+- [Hong Kong Police Can Now Demand Phone Passwords Under New Security Rules](https://www.gadgetreview.com/hong-kong-police-can-now-demand-phone-passwords-under-new-security-rules) — Score: 30
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,615.0 🔴 -3.92%
