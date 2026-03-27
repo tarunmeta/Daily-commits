@@ -19,44 +19,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 16:59 IST)
+
+## 📅 2026-03-27 (last updated: 17:36 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-26 17:32:19 IST | 7eb9d3e733b8 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 16:02:52 IST | bb388df5adf1 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-03-27 16:59:13 IST | fa5c214decc6 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-03-27 17:36:29 IST | d29d66104022 | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-27 17:36:30 IST | 41c3ed0cc230 | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-27 17:36:29 IST | cbedc6510e5e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 2,684 stars today
-- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
-  ⭐ 576 stars today
-- **[virattt/dexter](https://github.com/virattt/dexter)** (TypeScript) — An autonomous agent for deep financial research  
-  ⭐ 274 stars today
-- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   
-  ⭐ 1,001 stars today
-- **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)** (Python) — An open-source long-horizon SuperAgent harness that researches, codes, and creat  
-  ⭐ 2,388 stars today
+  ⭐ 2,824 stars today
+- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
+  ⭐ 1,546 stars today
+- **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** (Python) — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T  
+  ⭐ 125 stars today
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
+  ⭐ 320 stars today
+- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — Building a modern alternative to Salesforce, powered by the community.  
+  ⭐ 661 stars today
 
 ### 📰 Hacker News Stories
-- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 124
-- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 144
-- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 52
-- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 381
-- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 817
+- [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/) — Score: 141
+- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 165
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 171
+- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 70
+- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 423
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,674.0 🔴 -3.76%
-- Ethereum: $1,995.23 🔴 -3.49%
-- Solana: $83.26 🔴 -4.98%
-- Bnb: $610.92 🔴 -2.82%
+- Bitcoin: $66,615.0 🔴 -3.92%
+- Ethereum: $1,989.58 🔴 -3.86%
+- Solana: $83.32 🔴 -4.78%
+- Bnb: $610.5 🔴 -2.91%
 
 ---
 ## 📅 2026-03-26 (last updated: 23:13 IST)

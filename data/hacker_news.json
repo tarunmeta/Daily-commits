@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 10:32:52 UTC",
-    "fetched_at_ist": "2026-03-27 16:02:52 IST",
+    "fetched_at_utc": "2026-03-27 12:06:30 UTC",
+    "fetched_at_ist": "2026-03-27 17:36:30 IST",
     "item_count": 5,
-    "content_hash": "bb388df5adf12569daa79567f78c4fba8a963eca01878490614cebb559b930e3",
-    "previous_hash": "01805af5c38c3b80ad94b0abe0da2d9654cebed61ea66d6b1e45eb83568e67a0",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "41c3ed0cc230c8704a11218b051de1def41bc34c25ab11f1679859cc93d5e899",
+    "previous_hash": "bb388df5adf12569daa79567f78c4fba8a963eca01878490614cebb559b930e3",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47540833,
+      "title": "Hold on to Your Hardware",
+      "url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
+      "score": 141,
+      "comments": 92
+    },
     {
       "id": 47539825,
       "title": "A Faster Alternative to Jq",
       "url": "https://micahkepe.com/blog/jsongrep/",
-      "score": 124,
-      "comments": 65
+      "score": 165,
+      "comments": 82
     },
     {
       "id": 47539188,
       "title": "Schedule tasks on the web",
       "url": "https://code.claude.com/docs/en/web-scheduled-tasks",
-      "score": 144,
-      "comments": 105
+      "score": 171,
+      "comments": 123
     },
     {
       "id": 47539767,
       "title": "The European AllSky7 fireball network",
       "url": "https://www.allsky7.net/#archive",
-      "score": 52,
-      "comments": 5
+      "score": 70,
+      "comments": 7
     },
     {
       "id": 47535708,
       "title": "Apple discontinues the Mac Pro",
       "url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-      "score": 381,
-      "comments": 303
-    },
-    {
-      "id": 47518960,
-      "title": "Why so many control rooms were seafoam green (2025)",
-      "url": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-      "score": 817,
-      "comments": 158
+      "score": 423,
+      "comments": 333
     }
   ]
 }
