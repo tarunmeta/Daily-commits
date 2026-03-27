@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-27 (last updated: 14:02 IST)
+
+## 📅 2026-03-27 (last updated: 15:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-26 17:32:19 IST | 7eb9d3e733b8 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 14:02:45 IST | c94d6ed32700 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-27 15:08:19 IST | 01805af5c38c | +0 new stories, top changed: no |
 | Crypto | 4 | 2026-03-27 11:46:03 IST | 074a35dea863 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,388 stars today
 
 ### 📰 Hacker News Stories
-- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 34
-- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 117
-- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 26
-- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 326
-- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 780
+- [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/) — Score: 92
+- [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks) — Score: 134
+- [The European AllSky7 fireball network](https://www.allsky7.net/#archive) — Score: 40
+- [Apple discontinues the Mac Pro](https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/) — Score: 347
+- [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam) — Score: 798
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,693.0 🔴 -1.94%
