@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 20:43:49 UTC",
-    "fetched_at_ist": "2026-03-29 02:13:49 IST",
+    "fetched_at_utc": "2026-03-28 22:31:24 UTC",
+    "fetched_at_ist": "2026-03-29 04:01:24 IST",
     "item_count": 5,
-    "content_hash": "516d343ee247c073a5a033972266ab2a217a5cbf03080ad5e5550d9d844245c3",
-    "previous_hash": "9997eba38c4feaa79016328d9dc958dfa37b98104c7d7b9eb7df2b22c3679953",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "5684b62290f15924f39a8bc35c5f474f3ef6f8c36dd2a86dfb78c3290125680f",
+    "previous_hash": "516d343ee247c073a5a033972266ab2a217a5cbf03080ad5e5550d9d844245c3",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 357,
-      "comments": 73
+      "score": 514,
+      "comments": 124
+    },
+    {
+      "id": 47557960,
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "score": 77,
+      "comments": 27
     },
     {
       "id": 47557166,
       "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "score": 81,
-      "comments": 18
+      "score": 112,
+      "comments": 69
     },
     {
       "id": 47556359,
       "title": "Linux is an interpreter",
       "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
-      "score": 107,
-      "comments": 17
+      "score": 139,
+      "comments": 22
     },
     {
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 424,
-      "comments": 341
-    },
-    {
-      "id": 47555556,
-      "title": "I decompiled the White House's new app",
-      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 254,
-      "comments": 88
+      "score": 469,
+      "comments": 365
     }
   ]
 }
