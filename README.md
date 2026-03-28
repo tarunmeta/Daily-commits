@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-28 11:41:57 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-28 13:15:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$66,385.0** ↓ (-3.56%)
+- BTC: **$66,466.0** ↓ (-0.08%)
 - HN top story: **Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-28 00:00:23 UTC | `0f760c3e367f` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-28 11:41:57 UTC | `888f51ef0a77` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-28 07:15:25 UTC | `acc7f4201783` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-03-28 13:15:26 UTC | `2c32047b78cb` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-28` |
-| Commits Today | `20` / `100` |
-| Remaining Today | `80` |
-| Progress | `████░░░░░░░░░░░░░░░░` 20% |
+| Commits Today | `21` / `100` |
+| Remaining Today | `79` |
+| Progress | `████░░░░░░░░░░░░░░░░` 21% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-03-28 17:11:58 IST` |
+| Last Commit (IST) | `2026-03-28 17:29:37 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-03-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-26 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-03-27 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-03-28 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
+| 2026-03-28 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,385.0 | -3.56% | 🔴 |
-| Ethereum | $2,002.19 | -3.18% | 🔴 |
-| Solana | $83.26 | -3.20% | 🔴 |
-| Bnb | $613.37 | -2.41% | 🔴 |
+| Bitcoin | $66,466.0 | -0.08% | 🔴 |
+| Ethereum | $2,001.12 | +0.51% | 🟢 |
+| Solana | $82.75 | -0.36% | 🔴 |
+| Bnb | $612.45 | +0.22% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
