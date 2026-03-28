@@ -15,19 +15,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 11:41 IST)
+
+## 📅 2026-03-28 (last updated: 12:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-28 05:30:23 IST | 0f760c3e367f | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-03-28 11:41:26 IST | 023f89b6acf5 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-28 11:41:25 IST | 80a753281ae6 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-03-28 12:45:25 IST | acc7f4201783 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -49,10 +50,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [.apks are just .zips; semi-legally hacking software for orphaned hardware [video]](https://www.youtube.com/watch?v=P1kfuCkWo24) — Score: 13
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,305.0 🔴 -3.44%
-- Ethereum: $1,994.34 🔴 -3.24%
-- Solana: $82.72 🔴 -3.85%
-- Bnb: $612.13 🔴 -2.49%
+- Bitcoin: $66,385.0 🔴 -3.56%
+- Ethereum: $2,002.19 🔴 -3.18%
+- Solana: $83.26 🔴 -3.20%
+- Bnb: $613.37 🔴 -2.41%
 
 ---
 ## 📅 2026-03-27 (last updated: 23:06 IST)
