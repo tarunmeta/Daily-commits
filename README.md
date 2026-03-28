@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-28 17:31:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-28 18:00:40 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$66,466.0** ↓ (-0.08%)
-- HN top story: **AI overly affirms users asking for personal advice**
+- Top GitHub repo: **hacksider/Deep-Live-Cam**
+- BTC: **$66,803.0** ↑ (+1.72%)
+- HN top story: **Founder of GitLab battles cancer by founding companies**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-28 00:00:23 UTC | `0f760c3e367f` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 17:31:13 UTC | `f0a24d8f8e79` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-28 13:15:26 UTC | `2c32047b78cb` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-03-28 18:00:39 UTC | `09214f2fd328` | +2 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-28 18:00:40 UTC | `86ff424297c7` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-28 18:00:39 UTC | `f38df0a435e6` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +2 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-28` |
-| Commits Today | `27` / `100` |
-| Remaining Today | `73` |
-| Progress | `█████░░░░░░░░░░░░░░░` 27% |
+| Commits Today | `28` / `100` |
+| Remaining Today | `72` |
+| Progress | `█████░░░░░░░░░░░░░░░` 28% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-03-28 22:21:19 IST` |
+| Last Commit (IST) | `2026-03-28 23:01:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-26 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-03-27 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-03-28 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
+| 2026-03-28 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,466.0 | -0.08% | 🔴 |
-| Ethereum | $2,001.12 | +0.51% | 🟢 |
-| Solana | $82.75 | -0.36% | 🔴 |
-| Bnb | $612.45 | +0.22% | 🟢 |
+| Bitcoin | $66,803.0 | +1.72% | 🟢 |
+| Ethereum | $2,019.5 | +2.10% | 🟢 |
+| Solana | $83.24 | +1.23% | 🟢 |
+| Bnb | $615.82 | +1.41% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 2,821 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,616 stars today | real time face swap and one-click video deepfake with only a single image |
-| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | 143 stars today | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T… |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 337 stars today | Open-Source Frontier Voice AI |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 668 stars today | Building a modern alternative to Salesforce, powered by the community. |
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 912 stars today | OCR model that handles complex tables, forms, handwriting with full layout. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,752 stars today | An agentic skills framework & software development methodology that works. |
-| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 672 stars today | An autonomous agent for deep financial research |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,789 stars today | real time face swap and one-click video deepfake with only a single image |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,293 stars today | An agentic skills framework & software development methodology that works. |
+| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | 507 stars today | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T… |
+| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 583 stars today | An autonomous agent for deep financial research |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 562 stars today | Building a modern alternative to Salesforce, powered by the community. |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 870 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 679 stars today | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | 379 stars today | Build and run agents you can see, understand and trust. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) | 301 | 241 |
-| [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es) | 562 | 177 |
-| [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) | 198 | 25 |
-| [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2) | 42 | 16 |
-| [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way) | 213 | 70 |
+| [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) | 34 | 1 |
+| [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) | 331 | 259 |
+| [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/) | 31 | 0 |
+| [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) | 220 | 29 |
+| [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es) | 578 | 184 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

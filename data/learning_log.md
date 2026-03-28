@@ -30,44 +30,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 23:01 IST)
+
+## 📅 2026-03-28 (last updated: 23:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-28 05:30:23 IST | 0f760c3e367f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 23:01:13 IST | f0a24d8f8e79 | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-28 18:45:26 IST | 2c32047b78cb | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-03-28 23:30:39 IST | 09214f2fd328 | +2 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-28 23:30:40 IST | 86ff424297c7 | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-28 23:30:39 IST | f38df0a435e6 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +2 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 2,821 stars today
 - **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
-  ⭐ 1,616 stars today
+  ⭐ 1,789 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 2,293 stars today
 - **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** (Python) — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T  
-  ⭐ 143 stars today
-- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 337 stars today
+  ⭐ 507 stars today
+- **[virattt/dexter](https://github.com/virattt/dexter)** (TypeScript) — An autonomous agent for deep financial research  
+  ⭐ 583 stars today
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — Building a modern alternative to Salesforce, powered by the community.  
-  ⭐ 668 stars today
+  ⭐ 562 stars today
 
 ### 📰 Hacker News Stories
-- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 301
-- [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es) — Score: 562
-- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) — Score: 198
-- [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2) — Score: 42
-- [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way) — Score: 213
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 34
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 331
+- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/) — Score: 31
+- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) — Score: 220
+- [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es) — Score: 578
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,466.0 🔴 -0.08%
-- Ethereum: $2,001.12 🟢 +0.51%
-- Solana: $82.75 🔴 -0.36%
-- Bnb: $612.45 🟢 +0.22%
+- Bitcoin: $66,803.0 🟢 +1.72%
+- Ethereum: $2,019.5 🟢 +2.10%
+- Solana: $83.24 🟢 +1.23%
+- Bnb: $615.82 🟢 +1.41%
 
 ---
 ## 📅 2026-03-27 (last updated: 23:06 IST)
