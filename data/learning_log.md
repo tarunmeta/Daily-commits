@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 12:45 IST)
+
+## 📅 2026-03-28 (last updated: 16:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-28 05:30:23 IST | 0f760c3e367f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 11:41:26 IST | 023f89b6acf5 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-28 16:04:48 IST | 19813748e631 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-28 12:45:25 IST | acc7f4201783 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 668 stars today
 
 ### 📰 Hacker News Stories
-- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 202
-- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 97
-- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 358
-- [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html) — Score: 186
-- [.apks are just .zips; semi-legally hacking software for orphaned hardware [video]](https://www.youtube.com/watch?v=P1kfuCkWo24) — Score: 13
+- [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering) — Score: 65
+- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 356
+- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 170
+- [Matadisco – Decentralized Data Discovery](https://matadisco.org/) — Score: 10
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 418
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,385.0 🔴 -3.56%
