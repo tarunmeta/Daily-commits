@@ -26,18 +26,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 18:45 IST)
+
+## 📅 2026-03-28 (last updated: 21:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-28 05:30:23 IST | 0f760c3e367f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 17:11:57 IST | 888f51ef0a77 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-28 21:03:43 IST | 0bbb5f555f34 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-28 18:45:26 IST | 2c32047b78cb | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -53,11 +54,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 668 stars today
 
 ### 📰 Hacker News Stories
-- [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way) — Score: 59
-- [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering) — Score: 110
-- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 383
-- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 185
-- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 428
+- [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es) — Score: 396
+- [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/) — Score: 250
+- [AI chatbots are "Yes-Men" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 91
+- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) — Score: 140
+- [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way) — Score: 172
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,466.0 🔴 -0.08%
