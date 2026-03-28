@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 15:33:43 UTC",
-    "fetched_at_ist": "2026-03-28 21:03:43 IST",
+    "fetched_at_utc": "2026-03-28 17:31:13 UTC",
+    "fetched_at_ist": "2026-03-28 23:01:13 IST",
     "item_count": 5,
-    "content_hash": "0bbb5f555f342dbb9c5321c43ae49dc6e2e2d7255ae199568a8563a7a4361a65",
-    "previous_hash": "888f51ef0a77e28fc0c85e1d26687619f8c374a244844734761466a53b1e5bf6",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "f0a24d8f8e79c2dc7475c22f81a952210be6da9d9250d8fda5cae892bf3fd742",
+    "previous_hash": "0bbb5f555f342dbb9c5321c43ae49dc6e2e2d7255ae199568a8563a7a4361a65",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47553798,
-      "title": "I put all 8,642 Spanish laws in Git – every reform is a commit",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 396,
-      "comments": 132
-    },
-    {
-      "id": 47553484,
-      "title": "Britain today generating 90%+ of electricity from renewables",
-      "url": "https://grid.iamkate.com/",
-      "score": 250,
-      "comments": 170
-    },
-    {
       "id": 47554773,
-      "title": "AI chatbots are \"Yes-Men\" that reinforce bad relationship decisions, study finds",
+      "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 91,
-      "comments": 77
+      "score": 301,
+      "comments": 241
+    },
+    {
+      "id": 47553798,
+      "title": "Spanish legislation as a Git repo",
+      "url": "https://github.com/EnriqueLop/legalize-es",
+      "score": 562,
+      "comments": 177
     },
     {
       "id": 47553717,
       "title": "I Built an Open-World Engine for the N64 [video]",
       "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 140,
-      "comments": 14
+      "score": 198,
+      "comments": 25
+    },
+    {
+      "id": 47555636,
+      "title": "Show HN: Free, in-browser PDF editor",
+      "url": "https://breezepdf.com/?v=2",
+      "score": 42,
+      "comments": 16
     },
     {
       "id": 47553185,
       "title": "Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly",
       "url": "https://github.com/J-x-Z/cocoa-way",
-      "score": 172,
-      "comments": 60
+      "score": 213,
+      "comments": 70
     }
   ]
 }

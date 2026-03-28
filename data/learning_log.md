@@ -29,18 +29,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 21:03 IST)
+
+## 📅 2026-03-28 (last updated: 23:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-28 05:30:23 IST | 0f760c3e367f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 21:03:43 IST | 0bbb5f555f34 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-28 23:01:13 IST | f0a24d8f8e79 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-28 18:45:26 IST | 2c32047b78cb | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -56,11 +57,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 668 stars today
 
 ### 📰 Hacker News Stories
-- [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es) — Score: 396
-- [Britain today generating 90%+ of electricity from renewables](https://grid.iamkate.com/) — Score: 250
-- [AI chatbots are "Yes-Men" that reinforce bad relationship decisions, study finds](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 91
-- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) — Score: 140
-- [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way) — Score: 172
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 301
+- [Spanish legislation as a Git repo](https://github.com/EnriqueLop/legalize-es) — Score: 562
+- [I Built an Open-World Engine for the N64 [video]](https://www.youtube.com/watch?v=lXxmIw9axWw) — Score: 198
+- [Show HN: Free, in-browser PDF editor](https://breezepdf.com/?v=2) — Score: 42
+- [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way) — Score: 213
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,466.0 🔴 -0.08%
