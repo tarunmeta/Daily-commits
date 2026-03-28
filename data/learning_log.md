@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 08:46 IST)
+
+## 📅 2026-03-28 (last updated: 11:41 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-28 05:30:23 IST | 0f760c3e367f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 05:30:24 IST | 3376d3d4e87c | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-28 08:46:45 IST | 44adcd22d701 | 4 assets moved, biggest mover: solana |
+| Hacker News | 5 | 2026-03-28 11:41:26 IST | 023f89b6acf5 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-28 11:41:25 IST | 80a753281ae6 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,17 +42,17 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 668 stars today
 
 ### 📰 Hacker News Stories
-- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) — Score: 248
-- [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer) — Score: 23
-- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) — Score: 63
-- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 347
-- [Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared](https://runmat.com/blog/free-matlab-alternatives) — Score: 12
+- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 202
+- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 97
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 358
+- [LG's new 1Hz display is the secret behind a new laptop's battery life](https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html) — Score: 186
+- [.apks are just .zips; semi-legally hacking software for orphaned hardware [video]](https://www.youtube.com/watch?v=P1kfuCkWo24) — Score: 13
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,089.0 🔴 -3.87%
-- Ethereum: $1,986.76 🔴 -3.62%
-- Solana: $82.53 🔴 -4.66%
-- Bnb: $610.53 🔴 -2.88%
+- Bitcoin: $66,305.0 🔴 -3.44%
+- Ethereum: $1,994.34 🔴 -3.24%
+- Solana: $82.72 🔴 -3.85%
+- Bnb: $612.13 🔴 -2.49%
 
 ---
 ## 📅 2026-03-27 (last updated: 23:06 IST)

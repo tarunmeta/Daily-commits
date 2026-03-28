@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 00:00:24 UTC",
-    "fetched_at_ist": "2026-03-28 05:30:24 IST",
+    "fetched_at_utc": "2026-03-28 06:11:26 UTC",
+    "fetched_at_ist": "2026-03-28 11:41:26 IST",
     "item_count": 5,
-    "content_hash": "3376d3d4e87cfa9edae289e0c05de82a4f7ada92d81dfeb1f702fa726ebbb360",
-    "previous_hash": "373dcd89347423037f8217bc86dc32e7c8ae84ca4d6de64c19e0543a4234a9cf",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "023f89b6acf5995b65948014a81e58ec30480ef3e081c8aeb1123672ab94dfa8",
+    "previous_hash": "3376d3d4e87cfa9edae289e0c05de82a4f7ada92d81dfeb1f702fa726ebbb360",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47550282,
+      "title": "Go hard on agents, not on your filesystem",
+      "url": "https://jai.scs.stanford.edu/",
+      "score": 202,
+      "comments": 112
+    },
+    {
+      "id": 47550878,
+      "title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
+      "url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
+      "score": 97,
+      "comments": 45
+    },
+    {
       "id": 47547009,
-      "title": "Make macOS consistently bad (unironically)",
+      "title": "Make macOS consistently bad unironically",
       "url": "https://lr0.org/blog/p/macos/",
-      "score": 248,
-      "comments": 165
+      "score": 358,
+      "comments": 243
     },
     {
-      "id": 47532770,
-      "title": "Improving Composer through real-time RL",
-      "url": "https://cursor.com/blog/real-time-rl-for-composer",
-      "score": 23,
+      "id": 47495245,
+      "title": "LG's new 1Hz display is the secret behind a new laptop's battery life",
+      "url": "https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html",
+      "score": 186,
+      "comments": 92
+    },
+    {
+      "id": 47515783,
+      "title": ".apks are just .zips; semi-legally hacking software for orphaned hardware [video]",
+      "url": "https://www.youtube.com/watch?v=P1kfuCkWo24",
+      "score": 13,
       "comments": 0
-    },
-    {
-      "id": 47548013,
-      "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
-      "url": "https://github.com/davidmonterocrespo24/velxio",
-      "score": 63,
-      "comments": 16
-    },
-    {
-      "id": 47543139,
-      "title": "Anatomy of the .claude/ folder",
-      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 347,
-      "comments": 178
-    },
-    {
-      "id": 47511838,
-      "title": "Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared",
-      "url": "https://runmat.com/blog/free-matlab-alternatives",
-      "score": 12,
-      "comments": 5
     }
   ]
 }
