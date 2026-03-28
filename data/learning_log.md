@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 16:04 IST)
+
+## 📅 2026-03-28 (last updated: 17:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-28 05:30:23 IST | 0f760c3e367f | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 16:04:48 IST | 19813748e631 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-28 17:11:57 IST | 888f51ef0a77 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-28 12:45:25 IST | acc7f4201783 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 668 stars today
 
 ### 📰 Hacker News Stories
-- [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering) — Score: 65
-- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 356
-- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 170
-- [Matadisco – Decentralized Data Discovery](https://matadisco.org/) — Score: 10
-- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 418
+- [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way) — Score: 59
+- [CERN uses tiny AI models burned into silicon for real-time LHC data filtering](https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering) — Score: 110
+- [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/) — Score: 383
+- [AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip](https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/) — Score: 185
+- [Make macOS consistently bad unironically](https://lr0.org/blog/p/macos/) — Score: 428
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,385.0 🔴 -3.56%
