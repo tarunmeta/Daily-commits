@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 18:00:40 UTC",
-    "fetched_at_ist": "2026-03-28 23:30:40 IST",
+    "fetched_at_utc": "2026-03-28 19:38:28 UTC",
+    "fetched_at_ist": "2026-03-29 01:08:28 IST",
     "item_count": 5,
-    "content_hash": "86ff424297c70d34a4a46953058f9aa1c36b8384c3af83889affa5e74655e5e9",
-    "previous_hash": "f0a24d8f8e79c2dc7475c22f81a952210be6da9d9250d8fda5cae892bf3fd742",
+    "content_hash": "9997eba38c4feaa79016328d9dc958dfa37b98104c7d7b9eb7df2b22c3679953",
+    "previous_hash": "86ff424297c70d34a4a46953058f9aa1c36b8384c3af83889affa5e74655e5e9",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 34,
-      "comments": 1
+      "score": 231,
+      "comments": 59
     },
     {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 331,
-      "comments": 259
+      "id": 47557166,
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "score": 39,
+      "comments": 8
     },
     {
       "id": 47556359,
       "title": "Linux is an interpreter",
       "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
-      "score": 31,
-      "comments": 0
+      "score": 82,
+      "comments": 9
     },
     {
-      "id": 47553717,
-      "title": "I Built an Open-World Engine for the N64 [video]",
-      "url": "https://www.youtube.com/watch?v=lXxmIw9axWw",
-      "score": 220,
-      "comments": 29
+      "id": 47554773,
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 397,
+      "comments": 325
     },
     {
-      "id": 47553798,
-      "title": "Spanish legislation as a Git repo",
-      "url": "https://github.com/EnriqueLop/legalize-es",
-      "score": 578,
-      "comments": 184
+      "id": 47555556,
+      "title": "I decompiled the White House's new app",
+      "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
+      "score": 206,
+      "comments": 66
     }
   ]
 }
