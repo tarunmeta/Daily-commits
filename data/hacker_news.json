@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-27 23:35:18 UTC",
-    "fetched_at_ist": "2026-03-28 05:05:18 IST",
+    "fetched_at_utc": "2026-03-28 00:00:24 UTC",
+    "fetched_at_ist": "2026-03-28 05:30:24 IST",
     "item_count": 5,
-    "content_hash": "373dcd89347423037f8217bc86dc32e7c8ae84ca4d6de64c19e0543a4234a9cf",
-    "previous_hash": "d51125f5ef6b519a4636d6f032c06b9c02fcaf04410eaeeb1ea3cf4573b8da60",
+    "content_hash": "3376d3d4e87cfa9edae289e0c05de82a4f7ada92d81dfeb1f702fa726ebbb360",
+    "previous_hash": "373dcd89347423037f8217bc86dc32e7c8ae84ca4d6de64c19e0543a4234a9cf",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 47547009,
       "title": "Make macOS consistently bad (unironically)",
       "url": "https://lr0.org/blog/p/macos/",
-      "score": 233,
-      "comments": 157
+      "score": 248,
+      "comments": 165
     },
     {
-      "id": 47549649,
-      "title": "Why are executives enamored with AI, but ICs aren't?",
-      "url": "https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/",
-      "score": 13,
-      "comments": 6
+      "id": 47532770,
+      "title": "Improving Composer through real-time RL",
+      "url": "https://cursor.com/blog/real-time-rl-for-composer",
+      "score": 23,
+      "comments": 0
     },
     {
       "id": 47548013,
       "title": "Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",
       "url": "https://github.com/davidmonterocrespo24/velxio",
-      "score": 52,
-      "comments": 14
+      "score": 63,
+      "comments": 16
     },
     {
       "id": 47543139,
       "title": "Anatomy of the .claude/ folder",
       "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-      "score": 339,
-      "comments": 177
+      "score": 347,
+      "comments": 178
     },
     {
-      "id": 47547508,
-      "title": "ISBN Visualization – Annas Archive",
-      "url": "https://annas-archive.gd/isbn-visualization?",
-      "score": 65,
-      "comments": 10
+      "id": 47511838,
+      "title": "Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared",
+      "url": "https://runmat.com/blog/free-matlab-alternatives",
+      "score": 12,
+      "comments": 5
     }
   ]
 }

@@ -11,44 +11,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-28 (last updated: 05:05 IST)
+
+## 📅 2026-03-28 (last updated: 05:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-27 17:36:29 IST | d29d66104022 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-28 05:05:18 IST | 373dcd893474 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-28 00:59:54 IST | 5793d9d21a71 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-03-28 05:30:23 IST | 0f760c3e367f | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-28 05:30:24 IST | 3376d3d4e87c | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-03-28 05:30:23 IST | fb92a84a45d0 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +6 new repos, top changed: no
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 2,824 stars today
+  ⭐ 2,821 stars today
 - **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
-  ⭐ 1,546 stars today
+  ⭐ 1,616 stars today
 - **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** (Python) — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T  
-  ⭐ 125 stars today
+  ⭐ 143 stars today
 - **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 320 stars today
+  ⭐ 337 stars today
 - **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — Building a modern alternative to Salesforce, powered by the community.  
-  ⭐ 661 stars today
+  ⭐ 668 stars today
 
 ### 📰 Hacker News Stories
-- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) — Score: 233
-- [Why are executives enamored with AI, but ICs aren't?](https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/) — Score: 13
-- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) — Score: 52
-- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 339
-- [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?) — Score: 65
+- [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) — Score: 248
+- [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer) — Score: 23
+- [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) — Score: 63
+- [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) — Score: 347
+- [Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared](https://runmat.com/blog/free-matlab-alternatives) — Score: 12
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,844.0 🔴 -3.71%
-- Ethereum: $1,987.11 🔴 -2.61%
-- Solana: $82.26 🔴 -4.28%
-- Bnb: $609.15 🔴 -2.53%
+- Bitcoin: $66,327.0 🔴 -3.58%
+- Ethereum: $1,990.83 🔴 -3.33%
+- Solana: $82.99 🔴 -3.98%
+- Bnb: $613.37 🔴 -2.47%
 
 ---
 ## 📅 2026-03-27 (last updated: 23:06 IST)

@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-27 12:06:29 UTC",
-    "fetched_at_ist": "2026-03-27 17:36:29 IST",
+    "fetched_at_utc": "2026-03-28 00:00:23 UTC",
+    "fetched_at_ist": "2026-03-28 05:30:23 IST",
     "item_count": 12,
-    "content_hash": "d29d66104022f76744b426ac8544145fcca45f1aeb8ca8f5f09ed3454db4c1b4",
-    "previous_hash": "7eb9d3e733b8cf6d3a73511589d42a9eee36bd826b6c56da715d085175cc27ba",
-    "new_repos_vs_previous": 6,
+    "content_hash": "0f760c3e367f18f9747cbbfda64d7a303e549fae684f4d814acc3f9ad70e98c0",
+    "previous_hash": "d29d66104022f76744b426ac8544145fcca45f1aeb8ca8f5f09ed3454db4c1b4",
+    "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,73 +15,73 @@
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "2,824 stars today"
+      "stars_today": "2,821 stars today"
     },
     {
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars_today": "1,546 stars today"
+      "stars_today": "1,616 stars today"
     },
     {
       "name": "SakanaAI/AI-Scientist-v2",
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
-      "stars_today": "125 stars today"
+      "stars_today": "143 stars today"
     },
     {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars_today": "320 stars today"
+      "stars_today": "337 stars today"
     },
     {
       "name": "twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
-      "stars_today": "661 stars today"
+      "stars_today": "668 stars today"
     },
     {
       "name": "datalab-to/chandra",
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "language": "Python",
-      "stars_today": "913 stars today"
+      "stars_today": "912 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "2,993 stars today"
+      "stars_today": "2,752 stars today"
     },
     {
       "name": "virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars_today": "673 stars today"
+      "stars_today": "672 stars today"
     },
     {
       "name": "Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
-      "stars_today": "1,402 stars today"
+      "stars_today": "1,411 stars today"
     },
     {
       "name": "FreeCAD/FreeCAD",
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
-      "stars_today": "99 stars today"
+      "stars_today": "79 stars today"
     },
     {
       "name": "Vaibhavs10/insanely-fast-whisper",
       "description": "No description",
       "language": "Jupyter Notebook",
-      "stars_today": "1,075 stars today"
+      "stars_today": "1,066 stars today"
     },
     {
       "name": "onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars_today": "512 stars today"
+      "stars_today": "547 stars today"
     }
   ]
 }

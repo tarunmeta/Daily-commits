@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-27 23:35:18 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-28 00:00:24 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$65,844.0** ↓ (-3.71%)
+- BTC: **$66,327.0** ↓ (-3.58%)
 - HN top story: **Make macOS consistently bad (unironically)**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-27 12:06:29 UTC | `d29d66104022` | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-03-27 23:35:18 UTC | `373dcd893474` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-27 19:29:54 UTC | `5793d9d21a71` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-03-28 00:00:23 UTC | `0f760c3e367f` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-03-28 00:00:24 UTC | `3376d3d4e87c` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-03-28 00:00:23 UTC | `fb92a84a45d0` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: no
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-28` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-03-28 04:23:01 IST` |
+| Last Commit (IST) | `2026-03-28 05:05:18 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-26 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-03-27 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-03-28 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-03-28 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,844.0 | -3.71% | 🔴 |
-| Ethereum | $1,987.11 | -2.61% | 🔴 |
-| Solana | $82.26 | -4.28% | 🔴 |
-| Bnb | $609.15 | -2.53% | 🔴 |
+| Bitcoin | $66,327.0 | -3.58% | 🔴 |
+| Ethereum | $1,990.83 | -3.33% | 🔴 |
+| Solana | $82.99 | -3.98% | 🔴 |
+| Bnb | $613.37 | -2.47% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 2,824 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,546 stars today | real time face swap and one-click video deepfake with only a single image |
-| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | 125 stars today | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T… |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 320 stars today | Open-Source Frontier Voice AI |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 661 stars today | Building a modern alternative to Salesforce, powered by the community. |
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 913 stars today | OCR model that handles complex tables, forms, handwriting with full layout. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,993 stars today | An agentic skills framework & software development methodology that works. |
-| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 673 stars today | An autonomous agent for deep financial research |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 2,821 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,616 stars today | real time face swap and one-click video deepfake with only a single image |
+| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | 143 stars today | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T… |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 337 stars today | Open-Source Frontier Voice AI |
+| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 668 stars today | Building a modern alternative to Salesforce, powered by the community. |
+| [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 912 stars today | OCR model that handles complex tables, forms, handwriting with full layout. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,752 stars today | An agentic skills framework & software development methodology that works. |
+| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 672 stars today | An autonomous agent for deep financial research |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) | 233 | 157 |
-| [Why are executives enamored with AI, but ICs aren't?](https://johnjwang.com/post/2026/03/27/why-are-executives-enabled-with-ai-but-ics-arent/) | 13 | 6 |
-| [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) | 52 | 14 |
-| [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) | 339 | 177 |
-| [ISBN Visualization – Annas Archive](https://annas-archive.gd/isbn-visualization?) | 65 | 10 |
+| [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/) | 248 | 165 |
+| [Improving Composer through real-time RL](https://cursor.com/blog/real-time-rl-for-composer) | 23 | 0 |
+| [Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser](https://github.com/davidmonterocrespo24/velxio) | 63 | 16 |
+| [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) | 347 | 178 |
+| [Matlab Alternatives 2026: Benchmarks, GPU, Browser and Compatibility Compared](https://runmat.com/blog/free-matlab-alternatives) | 12 | 5 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
