@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-28 19:38:28 UTC",
-    "fetched_at_ist": "2026-03-29 01:08:28 IST",
+    "fetched_at_utc": "2026-03-28 20:43:49 UTC",
+    "fetched_at_ist": "2026-03-29 02:13:49 IST",
     "item_count": 5,
-    "content_hash": "9997eba38c4feaa79016328d9dc958dfa37b98104c7d7b9eb7df2b22c3679953",
-    "previous_hash": "86ff424297c70d34a4a46953058f9aa1c36b8384c3af83889affa5e74655e5e9",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "516d343ee247c073a5a033972266ab2a217a5cbf03080ad5e5550d9d844245c3",
+    "previous_hash": "9997eba38c4feaa79016328d9dc958dfa37b98104c7d7b9eb7df2b22c3679953",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 231,
-      "comments": 59
+      "score": 357,
+      "comments": 73
     },
     {
       "id": 47557166,
       "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
       "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-      "score": 39,
-      "comments": 8
+      "score": 81,
+      "comments": 18
     },
     {
       "id": 47556359,
       "title": "Linux is an interpreter",
       "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
-      "score": 82,
-      "comments": 9
+      "score": 107,
+      "comments": 17
     },
     {
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 397,
-      "comments": 325
+      "score": 424,
+      "comments": 341
     },
     {
       "id": 47555556,
       "title": "I decompiled the White House's new app",
       "url": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-      "score": 206,
-      "comments": 66
+      "score": 254,
+      "comments": 88
     }
   ]
 }
