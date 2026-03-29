@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 18:02:50 UTC",
-    "fetched_at_ist": "2026-03-29 23:32:50 IST",
+    "fetched_at_utc": "2026-03-29 20:35:42 UTC",
+    "fetched_at_ist": "2026-03-30 02:05:42 IST",
     "item_count": 5,
-    "content_hash": "f58131caed403bc5c53379f7ee8ecf9dc824a7bb3205be35ad1724d94e1f6143",
-    "previous_hash": "d347d117c6e188e468731368fe3d098f38983ae077aad34589ad2fc513b0ca28",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "ef9965a7b2f74d1084caf34c45a683db0ea37822797c1528e600f9c4bf0d6688",
+    "previous_hash": "f58131caed403bc5c53379f7ee8ecf9dc824a7bb3205be35ad1724d94e1f6143",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 83,
-      "comments": 34
+      "score": 258,
+      "comments": 109
     },
     {
-      "id": 47531576,
-      "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
-      "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
-      "score": 34,
-      "comments": 6
+      "id": 47565365,
+      "title": "C++26 is done ISO C++ standards meeting, Trip Report",
+      "url": "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/",
+      "score": 102,
+      "comments": 56
     },
     {
-      "id": 47563978,
-      "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
-      "url": "https://github.com/DavidHavoc/ayaFlow",
-      "score": 28,
-      "comments": 1
+      "id": 47566491,
+      "title": "The \"Vibe Coding\" Wall of Shame",
+      "url": "https://crackr.dev/vibe-coding-failures",
+      "score": 59,
+      "comments": 26
     },
     {
-      "id": 47556290,
-      "title": "Pretext: TypeScript library for multiline text measurement and layout",
-      "url": "https://github.com/chenglou/pretext",
-      "score": 24,
-      "comments": 1
+      "id": 47566143,
+      "title": "My MacBook Keyboard Is Broken and It's Insanely Expensive to Fix",
+      "url": "https://tobiasberg.net/posts/my-macbook-keyboard-is-broken-and-its-insanely-expensive-to-fix/",
+      "score": 48,
+      "comments": 40
     },
     {
-      "id": 47564579,
-      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
-      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
-      "score": 18,
-      "comments": 7
+      "id": 47566442,
+      "title": "The Cognitive Dark Forest",
+      "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+      "score": 37,
+      "comments": 12
     }
   ]
 }
