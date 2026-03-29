@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-29 12:01:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-29 13:20:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Yeachan-Heo/oh-my-claudecode**
-- BTC: **$66,773.0** ↑ (+0.75%)
+- BTC: **$66,578.0** ↑ (+0.25%)
 - HN top story: **Overestimation of microplastics potentially caused by scientists' gloves**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-29 12:01:53 UTC | `9754dd309168` | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-03-29 12:01:54 UTC | `1a84a26f315d` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-29 12:01:54 UTC | `2b32f74f6e5b` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-03-29 13:20:17 UTC | `5cb50371079e` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-29` |
-| Commits Today | `20` / `100` |
-| Remaining Today | `80` |
-| Progress | `████░░░░░░░░░░░░░░░░` 20% |
+| Commits Today | `21` / `100` |
+| Remaining Today | `79` |
+| Progress | `████░░░░░░░░░░░░░░░░` 21% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-03-29 17:14:13 IST` |
+| Last Commit (IST) | `2026-03-29 17:31:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-03-26 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-03-27 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-28 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-29 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
+| 2026-03-29 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,773.0 | +0.75% | 🟢 |
-| Ethereum | $2,002.57 | +0.31% | 🟢 |
-| Solana | $82.54 | -0.41% | 🔴 |
-| Bnb | $613.29 | +0.13% | 🟢 |
+| Bitcoin | $66,578.0 | +0.25% | 🟢 |
+| Ethereum | $1,989.33 | -0.55% | 🔴 |
+| Solana | $81.88 | -1.11% | 🔴 |
+| Bnb | $610.09 | -0.40% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
