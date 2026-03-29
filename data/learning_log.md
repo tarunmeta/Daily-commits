@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 13:52 IST)
+
+## 📅 2026-03-29 (last updated: 16:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-28 23:30:39 IST | 09214f2fd328 | +2 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-29 13:04:02 IST | 415240126446 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-29 16:06:22 IST | f98773999bf5 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-29 13:52:21 IST | edd58f507c1b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +2 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 562 stars today
 
 ### 📰 Hacker News Stories
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 921
-- [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop) — Score: 68
-- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 287
-- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 609
-- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) — Score: 100
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1073
+- [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/) — Score: 39
+- [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) — Score: 68
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 654
+- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 346
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,594.0 🟢 +0.15%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 07:34:02 UTC",
-    "fetched_at_ist": "2026-03-29 13:04:02 IST",
+    "fetched_at_utc": "2026-03-29 10:36:22 UTC",
+    "fetched_at_ist": "2026-03-29 16:06:22 IST",
     "item_count": 5,
-    "content_hash": "415240126446ec74f60a5d7fc5eba0919dce05152dfa971e6d6920c69db7b7cb",
-    "previous_hash": "dfb5f34c87d38c198f48b72b2385c31b09a175007011e238c8dd98cd248c493d",
+    "content_hash": "f98773999bf50c2c7f1a8f25e9eb9eda4a5b12974265e69047dd69336d98f3ee",
+    "previous_hash": "415240126446ec74f60a5d7fc5eba0919dce05152dfa971e6d6920c69db7b7cb",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 921,
-      "comments": 194
+      "score": 1073,
+      "comments": 213
     },
     {
-      "id": 47560380,
-      "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
-      "url": "https://github.com/openyak/desktop",
+      "id": 47560981,
+      "title": "The road to electric – in charts and data [UK]",
+      "url": "https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/",
+      "score": 39,
+      "comments": 36
+    },
+    {
+      "id": 47524778,
+      "title": "Technology: The (nearly) perfect USB cable tester does exist",
+      "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
       "score": 68,
-      "comments": 24
-    },
-    {
-      "id": 47557960,
-      "title": "CSS is DOOMed",
-      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 287,
-      "comments": 66
+      "comments": 23
     },
     {
       "id": 47554773,
       "title": "AI overly affirms users asking for personal advice",
       "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 609,
-      "comments": 455
+      "score": 654,
+      "comments": 501
     },
     {
-      "id": 47559481,
-      "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
-      "url": "https://www.bmj.com/content/387/bmj-2024-082194",
-      "score": 100,
-      "comments": 56
+      "id": 47557960,
+      "title": "CSS is DOOMed",
+      "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+      "score": 346,
+      "comments": 79
     }
   ]
 }
