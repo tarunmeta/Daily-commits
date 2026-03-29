@@ -29,18 +29,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 21:04 IST)
+
+## 📅 2026-03-29 (last updated: 23:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-03-29 17:31:53 IST | 9754dd309168 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-29 21:04:40 IST | 0694205b820f | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-29 23:03:15 IST | d347d117c6e1 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-29 18:50:17 IST | 5cb50371079e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -56,11 +57,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,229 stars today
 
 ### 📰 Hacker News Stories
-- [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) — Score: 312
-- [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) — Score: 147
-- [Building a Mostly IPv6 Only Home Network](https://varunpriolkar.com/2026/03/building-a-mostly-ipv6-only-home-network/) — Score: 28
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1234
-- [LinkedIn uses 2.4 GB RAM across two tabs](https://news.ycombinator.com/item?id=47561489) — Score: 202
+- [The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why) — Score: 96
+- [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/) — Score: 48
+- [Nitrile and latex gloves may cause overestimation of microplastics](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) — Score: 393
+- [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/) — Score: 16
+- [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) — Score: 193
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,578.0 🟢 +0.25%
