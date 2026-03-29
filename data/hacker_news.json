@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 02:37:38 UTC",
-    "fetched_at_ist": "2026-03-29 08:07:38 IST",
+    "fetched_at_utc": "2026-03-29 07:34:02 UTC",
+    "fetched_at_ist": "2026-03-29 13:04:02 IST",
     "item_count": 5,
-    "content_hash": "dfb5f34c87d38c198f48b72b2385c31b09a175007011e238c8dd98cd248c493d",
-    "previous_hash": "5684b62290f15924f39a8bc35c5f474f3ef6f8c36dd2a86dfb78c3290125680f",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "415240126446ec74f60a5d7fc5eba0919dce05152dfa971e6d6920c69db7b7cb",
+    "previous_hash": "dfb5f34c87d38c198f48b72b2385c31b09a175007011e238c8dd98cd248c493d",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47558997,
-      "title": "South Korea Mandates Solar Panels for Public Parking Lots",
-      "url": "https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ",
-      "score": 196,
-      "comments": 105
-    },
-    {
       "id": 47556729,
       "title": "Founder of GitLab battles cancer by founding companies",
       "url": "https://sytse.com/cancer/",
-      "score": 726,
-      "comments": 172
+      "score": 921,
+      "comments": 194
+    },
+    {
+      "id": 47560380,
+      "title": "OpenYak – An open-source Cowork that runs any model and owns your filesystem",
+      "url": "https://github.com/openyak/desktop",
+      "score": 68,
+      "comments": 24
     },
     {
       "id": 47557960,
       "title": "CSS is DOOMed",
       "url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
-      "score": 205,
-      "comments": 50
+      "score": 287,
+      "comments": 66
     },
     {
-      "id": 47543186,
-      "title": "OpenBSD on Motorola 88000 Processors",
-      "url": "http://miod.online.fr/software/openbsd/stories/m88k1.html",
-      "score": 48,
-      "comments": 4
+      "id": 47554773,
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "score": 609,
+      "comments": 455
     },
     {
       "id": 47559481,
       "title": "Alzheimer's disease mortality among taxi and ambulance drivers (2024)",
       "url": "https://www.bmj.com/content/387/bmj-2024-082194",
-      "score": 31,
-      "comments": 14
+      "score": 100,
+      "comments": 56
     }
   ]
 }
