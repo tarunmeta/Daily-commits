@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-29 02:37:38 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-29 06:17:54 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **hacksider/Deep-Live-Cam**
-- BTC: **$66,803.0** ↑ (+1.72%)
+- BTC: **$66,789.0** ↑ (+0.55%)
 - HN top story: **South Korea Mandates Solar Panels for Public Parking Lots**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-28 18:00:39 UTC | `09214f2fd328` | +2 new repos, top changed: yes |
 | Hacker News | 5 | 2026-03-29 02:37:38 UTC | `dfb5f34c87d3` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-28 18:00:39 UTC | `f38df0a435e6` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-03-29 06:17:54 UTC | `b280e33c4e81` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +2 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-29` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-03-29 08:07:38 IST` |
+| Last Commit (IST) | `2026-03-29 10:31:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-03-26 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-03-27 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-28 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-29 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-03-29 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,803.0 | +1.72% | 🟢 |
-| Ethereum | $2,019.5 | +2.10% | 🟢 |
-| Solana | $83.24 | +1.23% | 🟢 |
-| Bnb | $615.82 | +1.41% | 🟢 |
+| Bitcoin | $66,789.0 | +0.55% | 🟢 |
+| Ethereum | $2,004.36 | +0.09% | 🟢 |
+| Solana | $82.67 | -0.32% | 🔴 |
+| Bnb | $614.17 | +0.20% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
