@@ -21,13 +21,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 16:06 IST)
+
+## 📅 2026-03-29 (last updated: 17:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-28 23:30:39 IST | 09214f2fd328 | +2 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-29 16:06:22 IST | f98773999bf5 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-29 17:14:13 IST | c3be2ee018d0 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-03-29 13:52:21 IST | edd58f507c1b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 562 stars today
 
 ### 📰 Hacker News Stories
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1073
-- [The road to electric – in charts and data [UK]](https://www.rac.co.uk/drive/electric-cars/choosing/road-to-electric/) — Score: 39
-- [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) — Score: 68
-- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 654
-- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 346
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1116
+- [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io) — Score: 3
+- [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) — Score: 91
+- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 662
+- [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) — Score: 8
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,594.0 🟢 +0.15%
