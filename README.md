@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-29 17:33:15 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-29 18:02:50 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Yeachan-Heo/oh-my-claudecode**
-- BTC: **$66,578.0** ↑ (+0.25%)
-- HN top story: **The bot situation on the internet is worse than you could imagine**
+- Top GitHub repo: **luongnv89/claude-howto**
+- BTC: **$66,323.0** ↓ (-0.72%)
+- HN top story: **Voyager 1 runs on 69 KB of memory and an 8-track tape recorder**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-29 12:01:53 UTC | `9754dd309168` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-29 17:33:15 UTC | `d347d117c6e1` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-29 13:20:17 UTC | `5cb50371079e` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-03-29 18:02:49 UTC | `904106116be1` | +1 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-29 18:02:50 UTC | `f58131caed40` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-29 18:02:49 UTC | `a8da4bd986e5` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
+- GitHub: +1 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-29` |
-| Commits Today | `27` / `100` |
-| Remaining Today | `73` |
-| Progress | `█████░░░░░░░░░░░░░░░` 27% |
+| Commits Today | `28` / `100` |
+| Remaining Today | `72` |
+| Progress | `█████░░░░░░░░░░░░░░░` 28% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-03-29 22:22:33 IST` |
+| Last Commit (IST) | `2026-03-29 23:03:16 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-26 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-03-27 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-28 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-29 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
+| 2026-03-29 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,578.0 | +0.25% | 🟢 |
-| Ethereum | $1,989.33 | -0.55% | 🔴 |
-| Solana | $81.88 | -1.11% | 🔴 |
-| Bnb | $610.09 | -0.40% | 🔴 |
+| Bitcoin | $66,323.0 | -0.72% | 🔴 |
+| Ethereum | $1,993.12 | -1.31% | 🔴 |
+| Solana | $81.5 | -2.09% | 🔴 |
+| Bnb | $608.58 | -1.18% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 858 stars today | Teams-first Multi-agent orchestration for Claude Code |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 538 stars today | Open-Source Frontier Voice AI |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 713 stars today | The agent that grows with you |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 1,121 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 1,140 stars today | Teams-first Multi-agent orchestration for Claude Code |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,190 stars today | Open-Source Frontier Voice AI |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 997 stars today | The agent that grows with you |
 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | 113 stars today | Financial data platform for analysts, quants and AI agents. |
 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,229 stars today | An agentic skills framework & software development methodology that works. |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 389 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 464 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,131 stars today | real time face swap and one-click video deepfake with only a single image |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,680 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why) | 96 | 54 |
-| [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/) | 48 | 23 |
-| [Nitrile and latex gloves may cause overestimation of microplastics](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) | 393 | 167 |
-| [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/) | 16 | 1 |
-| [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) | 193 | 144 |
+| [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/) | 83 | 34 |
+| [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/) | 34 | 6 |
+| [AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust](https://github.com/DavidHavoc/ayaFlow) | 28 | 1 |
+| [Pretext: TypeScript library for multiline text measurement and layout](https://github.com/chenglou/pretext) | 24 | 1 |
+| [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html) | 18 | 7 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

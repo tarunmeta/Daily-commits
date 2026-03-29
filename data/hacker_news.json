@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 17:33:15 UTC",
-    "fetched_at_ist": "2026-03-29 23:03:15 IST",
+    "fetched_at_utc": "2026-03-29 18:02:50 UTC",
+    "fetched_at_ist": "2026-03-29 23:32:50 IST",
     "item_count": 5,
-    "content_hash": "d347d117c6e188e468731368fe3d098f38983ae077aad34589ad2fc513b0ca28",
-    "previous_hash": "0694205b820f526c8ae8cffcf9933720a0f8065fbf72e41d9ecad10a60153346",
+    "content_hash": "f58131caed403bc5c53379f7ee8ecf9dc824a7bb3205be35ad1724d94e1f6143",
+    "previous_hash": "d347d117c6e188e468731368fe3d098f38983ae077aad34589ad2fc513b0ca28",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47564469,
-      "title": "The bot situation on the internet is worse than you could imagine",
-      "url": "https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why",
-      "score": 96,
-      "comments": 54
-    },
-    {
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 48,
-      "comments": 23
-    },
-    {
-      "id": 47561711,
-      "title": "Nitrile and latex gloves may cause overestimation of microplastics",
-      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 393,
-      "comments": 167
+      "score": 83,
+      "comments": 34
     },
     {
       "id": 47531576,
       "title": "The RISE RISC-V Runners: free, native RISC-V CI on GitHub",
       "url": "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/",
-      "score": 16,
+      "score": 34,
+      "comments": 6
+    },
+    {
+      "id": 47563978,
+      "title": "AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust",
+      "url": "https://github.com/DavidHavoc/ayaFlow",
+      "score": 28,
       "comments": 1
     },
     {
-      "id": 47561819,
-      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-      "url": "https://github.com/austin-weeks/miasma",
-      "score": 193,
-      "comments": 144
+      "id": 47556290,
+      "title": "Pretext: TypeScript library for multiline text measurement and layout",
+      "url": "https://github.com/chenglou/pretext",
+      "score": 24,
+      "comments": 1
+    },
+    {
+      "id": 47564579,
+      "title": "The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history",
+      "url": "https://www.righto.com/2026/03/ibm-4-pi-computer-history.html",
+      "score": 18,
+      "comments": 7
     }
   ]
 }

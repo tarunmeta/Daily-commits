@@ -30,44 +30,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 23:03 IST)
+
+## 📅 2026-03-29 (last updated: 23:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-03-29 17:31:53 IST | 9754dd309168 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-29 23:03:15 IST | d347d117c6e1 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-29 18:50:17 IST | 5cb50371079e | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-03-29 23:32:49 IST | 904106116be1 | +1 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-29 23:32:50 IST | f58131caed40 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-29 23:32:49 IST | a8da4bd986e5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +9 new repos, top changed: yes
+- GitHub: +1 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
+- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
+  ⭐ 1,121 stars today
 - **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
-  ⭐ 858 stars today
+  ⭐ 1,140 stars today
 - **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 538 stars today
+  ⭐ 1,190 stars today
 - **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 713 stars today
+  ⭐ 997 stars today
 - **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** (Python) — Financial data platform for analysts, quants and AI agents.  
   ⭐ 113 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 2,229 stars today
 
 ### 📰 Hacker News Stories
-- [The bot situation on the internet is worse than you could imagine](https://gladeart.com/blog/the-bot-situation-on-the-internet-is-actually-worse-than-you-could-imagine-heres-why) — Score: 96
-- [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/) — Score: 48
-- [Nitrile and latex gloves may cause overestimation of microplastics](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) — Score: 393
-- [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/) — Score: 16
-- [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) — Score: 193
+- [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/) — Score: 83
+- [The RISE RISC-V Runners: free, native RISC-V CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/) — Score: 34
+- [AyaFlow: A high-performance, eBPF-based network traffic analyzer written in Rust](https://github.com/DavidHavoc/ayaFlow) — Score: 28
+- [Pretext: TypeScript library for multiline text measurement and layout](https://github.com/chenglou/pretext) — Score: 24
+- [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](https://www.righto.com/2026/03/ibm-4-pi-computer-history.html) — Score: 18
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,578.0 🟢 +0.25%
-- Ethereum: $1,989.33 🔴 -0.55%
-- Solana: $81.88 🔴 -1.11%
-- Bnb: $610.09 🔴 -0.40%
+- Bitcoin: $66,323.0 🔴 -0.72%
+- Ethereum: $1,993.12 🔴 -1.31%
+- Solana: $81.5 🔴 -2.09%
+- Bnb: $608.58 🔴 -1.18%
 
 ---
 ## 📅 2026-03-28 (last updated: 23:30 IST)
