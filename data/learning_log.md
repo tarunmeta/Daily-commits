@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 04:01 IST)
+
+## 📅 2026-03-29 (last updated: 08:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-03-28 23:30:39 IST | 09214f2fd328 | +2 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-29 04:01:24 IST | 5684b62290f1 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-29 08:07:38 IST | dfb5f34c87d3 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-28 23:30:39 IST | f38df0a435e6 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +2 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 562 stars today
 
 ### 📰 Hacker News Stories
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 514
-- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 77
-- [Further human + AI + proof assistant work on Knuth's "Claude Cycles" problem](https://twitter.com/BoWang87/status/2037648937453232504) — Score: 112
-- [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/) — Score: 139
-- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 469
+- [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ) — Score: 196
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 726
+- [CSS is DOOMed](https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/) — Score: 205
+- [OpenBSD on Motorola 88000 Processors](http://miod.online.fr/software/openbsd/stories/m88k1.html) — Score: 48
+- [Alzheimer's disease mortality among taxi and ambulance drivers (2024)](https://www.bmj.com/content/387/bmj-2024-082194) — Score: 31
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,803.0 🟢 +1.72%
