@@ -22,44 +22,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-29 (last updated: 17:14 IST)
+
+## 📅 2026-03-29 (last updated: 17:31 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-28 23:30:39 IST | 09214f2fd328 | +2 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-29 17:14:13 IST | c3be2ee018d0 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-29 13:52:21 IST | edd58f507c1b | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-03-29 17:31:53 IST | 9754dd309168 | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-29 17:31:54 IST | 1a84a26f315d | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-29 17:31:54 IST | 2b32f74f6e5b | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +2 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
-  ⭐ 1,789 stars today
+- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
+  ⭐ 858 stars today
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
+  ⭐ 538 stars today
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
+  ⭐ 713 stars today
+- **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** (Python) — Financial data platform for analysts, quants and AI agents.  
+  ⭐ 113 stars today
 - **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 2,293 stars today
-- **[SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)** (Python) — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T  
-  ⭐ 507 stars today
-- **[virattt/dexter](https://github.com/virattt/dexter)** (TypeScript) — An autonomous agent for deep financial research  
-  ⭐ 583 stars today
-- **[twentyhq/twenty](https://github.com/twentyhq/twenty)** (TypeScript) — Building a modern alternative to Salesforce, powered by the community.  
-  ⭐ 562 stars today
+  ⭐ 2,229 stars today
 
 ### 📰 Hacker News Stories
-- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1116
-- [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io) — Score: 3
-- [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) — Score: 91
-- [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) — Score: 662
-- [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) — Score: 8
+- [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) — Score: 33
+- [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io) — Score: 11
+- [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) — Score: 1123
+- [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) — Score: 17
+- [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) — Score: 93
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,594.0 🟢 +0.15%
-- Ethereum: $2,002.55 🔴 -0.11%
-- Solana: $82.36 🔴 -1.38%
-- Bnb: $613.45 🟢 +0.01%
+- Bitcoin: $66,773.0 🟢 +0.75%
+- Ethereum: $2,002.57 🟢 +0.31%
+- Solana: $82.54 🔴 -0.41%
+- Bnb: $613.29 🟢 +0.13%
 
 ---
 ## 📅 2026-03-28 (last updated: 23:30 IST)

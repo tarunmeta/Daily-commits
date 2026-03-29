@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-29 11:44:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-29 12:01:54 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **hacksider/Deep-Live-Cam**
-- BTC: **$66,594.0** ↑ (+0.15%)
-- HN top story: **Founder of GitLab battles cancer by founding companies**
+- Top GitHub repo: **Yeachan-Heo/oh-my-claudecode**
+- BTC: **$66,773.0** ↑ (+0.75%)
+- HN top story: **Overestimation of microplastics potentially caused by scientists' gloves**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-03-28 18:00:39 UTC | `09214f2fd328` | +2 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-29 11:44:13 UTC | `c3be2ee018d0` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-03-29 08:22:21 UTC | `edd58f507c1b` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-03-29 12:01:53 UTC | `9754dd309168` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-29 12:01:54 UTC | `1a84a26f315d` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-29 12:01:54 UTC | `2b32f74f6e5b` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +2 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-29` |
-| Commits Today | `19` / `100` |
-| Remaining Today | `81` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
+| Commits Today | `20` / `100` |
+| Remaining Today | `80` |
+| Progress | `████░░░░░░░░░░░░░░░░` 20% |
 | Streak | `36` day(s) |
-| Last Commit (IST) | `2026-03-29 16:35:35 IST` |
+| Last Commit (IST) | `2026-03-29 17:14:13 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-26 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-03-27 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-28 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-03-29 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
+| 2026-03-29 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,594.0 | +0.15% | 🟢 |
-| Ethereum | $2,002.55 | -0.11% | 🔴 |
-| Solana | $82.36 | -1.38% | 🔴 |
-| Bnb | $613.45 | +0.01% | 🟢 |
+| Bitcoin | $66,773.0 | +0.75% | 🟢 |
+| Ethereum | $2,002.57 | +0.31% | 🟢 |
+| Solana | $82.54 | -0.41% | 🔴 |
+| Bnb | $613.29 | +0.13% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,789 stars today | real time face swap and one-click video deepfake with only a single image |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,293 stars today | An agentic skills framework & software development methodology that works. |
-| [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | 507 stars today | The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T… |
-| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 583 stars today | An autonomous agent for deep financial research |
-| [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | 562 stars today | Building a modern alternative to Salesforce, powered by the community. |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 870 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
-| [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | 679 stars today | OCR model that handles complex tables, forms, handwriting with full layout. |
-| [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | 379 stars today | Build and run agents you can see, understand and trust. |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 858 stars today | Teams-first Multi-agent orchestration for Claude Code |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 538 stars today | Open-Source Frontier Voice AI |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 713 stars today | The agent that grows with you |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | 113 stars today | Financial data platform for analysts, quants and AI agents. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,229 stars today | An agentic skills framework & software development methodology that works. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 389 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,131 stars today | real time face swap and one-click video deepfake with only a single image |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,680 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) | 1116 | 214 |
-| [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io) | 3 | 0 |
-| [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) | 91 | 29 |
-| [AI overly affirms users asking for personal advice](https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research) | 662 | 517 |
-| [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) | 8 | 0 |
+| [Overestimation of microplastics potentially caused by scientists' gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/) | 33 | 11 |
+| [Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders](https://sheetninja.io) | 11 | 8 |
+| [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/) | 1123 | 216 |
+| [Miasma: A tool to trap AI web scrapers in an endless poison pit](https://github.com/austin-weeks/miasma) | 17 | 2 |
+| [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/) | 93 | 33 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,68 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-28 18:00:39 UTC",
-    "fetched_at_ist": "2026-03-28 23:30:39 IST",
-    "item_count": 9,
-    "content_hash": "09214f2fd328ec605a992b8886dee1e2ddb065c256815c30b0afb0100116fcf5",
-    "previous_hash": "0f760c3e367f18f9747cbbfda64d7a303e549fae684f4d814acc3f9ad70e98c0",
-    "new_repos_vs_previous": 2,
+    "fetched_at_utc": "2026-03-29 12:01:53 UTC",
+    "fetched_at_ist": "2026-03-29 17:31:53 IST",
+    "item_count": 12,
+    "content_hash": "9754dd30916815c08f2dba3c0ae60ae35f2ad92dce107c125a5662609df59c0e",
+    "previous_hash": "09214f2fd328ec605a992b8886dee1e2ddb065c256815c30b0afb0100116fcf5",
+    "new_repos_vs_previous": 9,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "stars_today": "858 stars today"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars_today": "1,789 stars today"
+      "stars_today": "538 stars today"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "713 stars today"
+    },
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "language": "Python",
+      "stars_today": "113 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "2,293 stars today"
+      "stars_today": "2,229 stars today"
     },
     {
-      "name": "SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "language": "Python",
-      "stars_today": "507 stars today"
-    },
-    {
-      "name": "virattt/dexter",
-      "description": "An autonomous agent for deep financial research",
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars_today": "583 stars today"
+      "stars_today": "389 stars today"
+    },
+    {
+      "name": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars_today": "1,131 stars today"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "1,680 stars today"
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "language": "TypeScript",
+      "stars_today": "912 stars today"
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "stars_today": "28 stars today"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": "213 stars today"
     },
     {
       "name": "twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
-      "stars_today": "562 stars today"
-    },
-    {
-      "name": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "language": "Python",
-      "stars_today": "870 stars today"
-    },
-    {
-      "name": "datalab-to/chandra",
-      "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
-      "language": "Python",
-      "stars_today": "679 stars today"
-    },
-    {
-      "name": "agentscope-ai/agentscope",
-      "description": "Build and run agents you can see, understand and trust.",
-      "language": "Python",
-      "stars_today": "379 stars today"
-    },
-    {
-      "name": "apache/superset",
-      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "language": "TypeScript",
-      "stars_today": "67 stars today"
+      "stars_today": "451 stars today"
     }
   ]
 }

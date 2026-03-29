@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 11:44:13 UTC",
-    "fetched_at_ist": "2026-03-29 17:14:13 IST",
+    "fetched_at_utc": "2026-03-29 12:01:54 UTC",
+    "fetched_at_ist": "2026-03-29 17:31:54 IST",
     "item_count": 5,
-    "content_hash": "c3be2ee018d0ce53913ef687efcf44def3cb9187283a524084dc99c28bf54cb4",
-    "previous_hash": "f98773999bf50c2c7f1a8f25e9eb9eda4a5b12974265e69047dd69336d98f3ee",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "1a84a26f315d8fb16a4942234bb89ae8e220818c54392dea5eebe8f1e03c0006",
+    "previous_hash": "c3be2ee018d0ce53913ef687efcf44def3cb9187283a524084dc99c28bf54cb4",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47556729,
-      "title": "Founder of GitLab battles cancer by founding companies",
-      "url": "https://sytse.com/cancer/",
-      "score": 1116,
-      "comments": 214
+      "id": 47561711,
+      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
+      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
+      "score": 33,
+      "comments": 11
     },
     {
       "id": 47562288,
       "title": "Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders",
       "url": "https://sheetninja.io",
-      "score": 3,
-      "comments": 0
+      "score": 11,
+      "comments": 8
+    },
+    {
+      "id": 47556729,
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "url": "https://sytse.com/cancer/",
+      "score": 1123,
+      "comments": 216
+    },
+    {
+      "id": 47561819,
+      "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+      "url": "https://github.com/austin-weeks/miasma",
+      "score": 17,
+      "comments": 2
     },
     {
       "id": 47524778,
       "title": "Technology: The (nearly) perfect USB cable tester does exist",
       "url": "https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/",
-      "score": 91,
-      "comments": 29
-    },
-    {
-      "id": 47554773,
-      "title": "AI overly affirms users asking for personal advice",
-      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-      "score": 662,
-      "comments": 517
-    },
-    {
-      "id": 47561711,
-      "title": "Overestimation of microplastics potentially caused by scientists' gloves",
-      "url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-      "score": 8,
-      "comments": 0
+      "score": 93,
+      "comments": 33
     }
   ]
 }
