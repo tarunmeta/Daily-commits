@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-29 22:33:31 UTC",
-    "fetched_at_ist": "2026-03-30 04:03:31 IST",
+    "fetched_at_utc": "2026-03-30 02:40:31 UTC",
+    "fetched_at_ist": "2026-03-30 08:10:31 IST",
     "item_count": 5,
-    "content_hash": "2aa9f121f89b3d97e11f2416bab0370d99553ae0e9a2ad15a0fd77753342367e",
-    "previous_hash": "ef9965a7b2f74d1084caf34c45a683db0ea37822797c1528e600f9c4bf0d6688",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "711e15012e10841687a05e982afd449c324adc69441a1c14d5de4458677f5235",
+    "previous_hash": "2aa9f121f89b3d97e11f2416bab0370d99553ae0e9a2ad15a0fd77753342367e",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47566865,
-      "title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 193,
-      "comments": 132
-    },
-    {
       "id": 47566442,
       "title": "The Cognitive Dark Forest",
       "url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
-      "score": 137,
-      "comments": 73
+      "score": 280,
+      "comments": 125
+    },
+    {
+      "id": 47569471,
+      "title": "Philly courts will ban all smart eyeglasses starting next week",
+      "url": "https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html",
+      "score": 58,
+      "comments": 21
     },
     {
       "id": 47564421,
       "title": "Voyager 1 runs on 69 KB of memory and an 8-track tape recorder",
       "url": "https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/",
-      "score": 332,
-      "comments": 139
+      "score": 407,
+      "comments": 171
     },
     {
-      "id": 47568028,
-      "title": "Coding Agents Could Make Free Software Matter Again",
-      "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-      "score": 9,
+      "id": 47566865,
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 351,
+      "comments": 265
+    },
+    {
+      "id": 47545607,
+      "title": "15 Years of Forking",
+      "url": "https://www.waterfox.com/blog/15-years-of-forking/",
+      "score": 54,
       "comments": 2
-    },
-    {
-      "id": 47566653,
-      "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
-      "url": "https://isp.netscape.com/news/story/0001/20260329/e4d8ea591b3b036142c2bf2dee7dff5a",
-      "score": 48,
-      "comments": 34
     }
   ]
 }
