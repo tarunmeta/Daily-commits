@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-30 11:34:11 UTC",
-    "fetched_at_ist": "2026-03-30 17:04:11 IST",
+    "fetched_at_utc": "2026-03-30 12:41:16 UTC",
+    "fetched_at_ist": "2026-03-30 18:11:16 IST",
     "item_count": 5,
-    "content_hash": "eef28d8bae8e3de665778a289b899c69a616ed5b3788a21f476472fc434ad77a",
-    "previous_hash": "711e15012e10841687a05e982afd449c324adc69441a1c14d5de4458677f5235",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "bcfb7dc2c3a020f661be7b9e6772d82cbf6cc975fba71d210c049a63aff77040",
+    "previous_hash": "eef28d8bae8e3de665778a289b899c69a616ed5b3788a21f476472fc434ad77a",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47572910,
+      "title": "Ghostmoon.app – The Swiss Army Knife for your macOS menu bar",
+      "url": "https://www.mgrunwald.com/ghostmoon/",
+      "score": 49,
+      "comments": 43
+    },
+    {
+      "id": 47572771,
+      "title": "Mathematical methods and human thought in the age of AI",
+      "url": "https://arxiv.org/abs/2603.26524",
+      "score": 21,
+      "comments": 1
+    },
+    {
       "id": 47570666,
       "title": "The curious case of retro demo scene graphics",
       "url": "https://www.datagubbe.se/aipixels/",
-      "score": 215,
-      "comments": 45
-    },
-    {
-      "id": 47566865,
-      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-      "score": 706,
-      "comments": 440
+      "score": 232,
+      "comments": 49
     },
     {
       "id": 47571376,
       "title": "I use excalidraw to manage my diagrams for my blog",
       "url": "https://blog.lysk.tech/excalidraw-frame-export/",
-      "score": 82,
-      "comments": 38
+      "score": 118,
+      "comments": 52
     },
     {
-      "id": 47571495,
-      "title": "Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models",
-      "url": "https://dani2442.github.io/posts/continuous-rl/",
-      "score": 51,
-      "comments": 13
-    },
-    {
-      "id": 47570435,
-      "title": "VHDL's Crown Jewel",
-      "url": "https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/",
-      "score": 73,
-      "comments": 30
+      "id": 47566865,
+      "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+      "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+      "score": 744,
+      "comments": 473
     }
   ]
 }

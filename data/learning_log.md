@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-30 (last updated: 17:04 IST)
+
+## 📅 2026-03-30 (last updated: 18:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-29 23:32:49 IST | 904106116be1 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-30 17:04:11 IST | eef28d8bae8e | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-30 18:11:16 IST | bcfb7dc2c3a0 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-30 15:48:48 IST | b9ff373ecaf5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 113 stars today
 
 ### 📰 Hacker News Stories
-- [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/) — Score: 215
-- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) — Score: 706
-- [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/) — Score: 82
-- [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/) — Score: 51
-- [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/) — Score: 73
+- [Ghostmoon.app – The Swiss Army Knife for your macOS menu bar](https://www.mgrunwald.com/ghostmoon/) — Score: 49
+- [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524) — Score: 21
+- [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/) — Score: 232
+- [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/) — Score: 118
+- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) — Score: 744
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,388.0 🟢 +1.37%
