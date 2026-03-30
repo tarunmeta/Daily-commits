@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-30 16:41:15 UTC",
-    "fetched_at_ist": "2026-03-30 22:11:15 IST",
+    "fetched_at_utc": "2026-03-30 17:38:12 UTC",
+    "fetched_at_ist": "2026-03-30 23:08:12 IST",
     "item_count": 5,
-    "content_hash": "6d6b72d05c6bbc625c14f322ea9caee3ee1b6849b31b6a7bd3118f93024d33bc",
-    "previous_hash": "cb45ef294cf775ffd49190fdcfbd847d68a20c4930259555c2add55b4167d76a",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "ac9c04d48a4f6213bc12712bd88d5dd518362af737b5156be15e11f10a22773d",
+    "previous_hash": "6d6b72d05c6bbc625c14f322ea9caee3ee1b6849b31b6a7bd3118f93024d33bc",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47574034,
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
-      "score": 238,
-      "comments": 105
+      "score": 315,
+      "comments": 122
     },
     {
       "id": 47573887,
       "title": "Parrots pack twice as many neurons as primate brains of the same mass",
       "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "score": 170,
-      "comments": 95
+      "score": 214,
+      "comments": 128
     },
     {
-      "id": 47575403,
-      "title": "CodingFont: A game to help you pick a coding font",
-      "url": "https://www.codingfont.com/",
-      "score": 45,
-      "comments": 26
+      "id": 47577142,
+      "title": "Spain Shuts Airspace for US Planes Involved in Iran War",
+      "url": "https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war",
+      "score": 16,
+      "comments": 0
     },
     {
       "id": 47575950,
       "title": "Bitwarden Integrates with OneCLI Agent Vault",
       "url": "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli",
-      "score": 18,
-      "comments": 11
+      "score": 40,
+      "comments": 26
     },
     {
       "id": 47575212,
       "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
       "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
-      "score": 173,
-      "comments": 88
+      "score": 308,
+      "comments": 157
     }
   ]
 }

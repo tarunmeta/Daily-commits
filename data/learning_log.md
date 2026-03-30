@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-30 (last updated: 22:11 IST)
+
+## 📅 2026-03-30 (last updated: 23:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-29 23:32:49 IST | 904106116be1 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-30 22:11:15 IST | 6d6b72d05c6b | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-03-30 23:08:12 IST | ac9c04d48a4f | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-30 15:48:48 IST | b9ff373ecaf5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 113 stars today
 
 ### 📰 Hacker News Stories
-- [How to turn anything into a router](https://nbailey.ca/post/router/) — Score: 238
-- [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains) — Score: 170
-- [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/) — Score: 45
-- [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli) — Score: 18
-- ["Over 1.5 million GitHub PRs have had ads injected into them by Copilot"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/) — Score: 173
+- [How to turn anything into a router](https://nbailey.ca/post/router/) — Score: 315
+- [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains) — Score: 214
+- [Spain Shuts Airspace for US Planes Involved in Iran War](https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war) — Score: 16
+- [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli) — Score: 40
+- ["Over 1.5 million GitHub PRs have had ads injected into them by Copilot"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/) — Score: 308
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,388.0 🟢 +1.37%
