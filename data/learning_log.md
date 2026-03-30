@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 01:58 IST)
+
+## 📅 2026-03-31 (last updated: 05:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-29 23:32:49 IST | 904106116be1 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-31 01:12:19 IST | fb443fb4321a | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-31 05:07:13 IST | 5781cd042345 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-31 01:58:12 IST | b0108d20642c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 113 stars today
 
 ### 📰 Hacker News Stories
-- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 62
-- [How to turn anything into a router](https://nbailey.ca/post/router/) — Score: 447
-- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 86
-- [Bird brains (2023)](https://www.dhanishsemar.com/writing/bird-brains) — Score: 250
-- [Cherri – programming language that compiles to an Apple Shortuct](https://github.com/electrikmilk/cherri) — Score: 123
+- [Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?](https://30u30.fyi) — Score: 174
+- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 344
+- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 296
+- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) — Score: 96
+- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) — Score: 60
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,604.0 🔴 -0.06%
