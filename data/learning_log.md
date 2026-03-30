@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-30 (last updated: 15:48 IST)
+
+## 📅 2026-03-30 (last updated: 17:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-29 23:32:49 IST | 904106116be1 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-30 08:10:31 IST | 711e15012e10 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-30 17:04:11 IST | eef28d8bae8e | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-30 15:48:48 IST | b9ff373ecaf5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 113 stars today
 
 ### 📰 Hacker News Stories
-- [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/) — Score: 280
-- [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html) — Score: 58
-- [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/) — Score: 407
-- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) — Score: 351
-- [15 Years of Forking](https://www.waterfox.com/blog/15-years-of-forking/) — Score: 54
+- [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/) — Score: 215
+- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/) — Score: 706
+- [I use excalidraw to manage my diagrams for my blog](https://blog.lysk.tech/excalidraw-frame-export/) — Score: 82
+- [Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models](https://dani2442.github.io/posts/continuous-rl/) — Score: 51
+- [VHDL's Crown Jewel](https://www.sigasi.com/opinion/jan/vhdls-crown-jewel/) — Score: 73
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,388.0 🟢 +1.37%
