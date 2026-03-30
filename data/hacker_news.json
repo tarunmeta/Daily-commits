@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-30 15:43:14 UTC",
-    "fetched_at_ist": "2026-03-30 21:13:14 IST",
+    "fetched_at_utc": "2026-03-30 16:41:15 UTC",
+    "fetched_at_ist": "2026-03-30 22:11:15 IST",
     "item_count": 5,
-    "content_hash": "cb45ef294cf775ffd49190fdcfbd847d68a20c4930259555c2add55b4167d76a",
-    "previous_hash": "bcfb7dc2c3a020f661be7b9e6772d82cbf6cc975fba71d210c049a63aff77040",
+    "content_hash": "6d6b72d05c6bbc625c14f322ea9caee3ee1b6849b31b6a7bd3118f93024d33bc",
+    "previous_hash": "cb45ef294cf775ffd49190fdcfbd847d68a20c4930259555c2add55b4167d76a",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47574034,
-      "title": "How to Turn Anything into a Router",
+      "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
-      "score": 183,
-      "comments": 72
+      "score": 238,
+      "comments": 105
     },
     {
       "id": 47573887,
       "title": "Parrots pack twice as many neurons as primate brains of the same mass",
       "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "score": 123,
-      "comments": 62
+      "score": 170,
+      "comments": 95
     },
     {
-      "id": 47575089,
-      "title": "72% of the dollar's purchasing power was destroyed in just four episodes",
-      "url": "https://eco3min.fr/en/us-inflation-is-not-linear/",
+      "id": 47575403,
+      "title": "CodingFont: A game to help you pick a coding font",
+      "url": "https://www.codingfont.com/",
+      "score": 45,
+      "comments": 26
+    },
+    {
+      "id": 47575950,
+      "title": "Bitwarden Integrates with OneCLI Agent Vault",
+      "url": "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli",
       "score": 18,
-      "comments": 2
+      "comments": 11
     },
     {
-      "id": 47572771,
-      "title": "Mathematical methods and human thought in the age of AI",
-      "url": "https://arxiv.org/abs/2603.26524",
-      "score": 115,
-      "comments": 38
-    },
-    {
-      "id": 47570666,
-      "title": "The curious case of retro demo scene graphics",
-      "url": "https://www.datagubbe.se/aipixels/",
-      "score": 292,
-      "comments": 71
+      "id": 47575212,
+      "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
+      "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
+      "score": 173,
+      "comments": 88
     }
   ]
 }

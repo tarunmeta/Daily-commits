@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-30 (last updated: 21:13 IST)
+
+## 📅 2026-03-30 (last updated: 22:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-03-29 23:32:49 IST | 904106116be1 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-30 21:13:14 IST | cb45ef294cf7 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-30 22:11:15 IST | 6d6b72d05c6b | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-03-30 15:48:48 IST | b9ff373ecaf5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 113 stars today
 
 ### 📰 Hacker News Stories
-- [How to Turn Anything into a Router](https://nbailey.ca/post/router/) — Score: 183
-- [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains) — Score: 123
-- [72% of the dollar's purchasing power was destroyed in just four episodes](https://eco3min.fr/en/us-inflation-is-not-linear/) — Score: 18
-- [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524) — Score: 115
-- [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/) — Score: 292
+- [How to turn anything into a router](https://nbailey.ca/post/router/) — Score: 238
+- [Parrots pack twice as many neurons as primate brains of the same mass](https://www.dhanishsemar.com/writing/bird-brains) — Score: 170
+- [CodingFont: A game to help you pick a coding font](https://www.codingfont.com/) — Score: 45
+- [Bitwarden Integrates with OneCLI Agent Vault](https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli) — Score: 18
+- ["Over 1.5 million GitHub PRs have had ads injected into them by Copilot"](https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/) — Score: 173
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,388.0 🟢 +1.37%
