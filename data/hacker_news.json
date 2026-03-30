@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-30 17:38:12 UTC",
-    "fetched_at_ist": "2026-03-30 23:08:12 IST",
+    "fetched_at_utc": "2026-03-30 18:39:45 UTC",
+    "fetched_at_ist": "2026-03-31 00:09:45 IST",
     "item_count": 5,
-    "content_hash": "ac9c04d48a4f6213bc12712bd88d5dd518362af737b5156be15e11f10a22773d",
-    "previous_hash": "6d6b72d05c6bbc625c14f322ea9caee3ee1b6849b31b6a7bd3118f93024d33bc",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "2ffabe01b6df4945d651d85a54e43a39a569a64f5e9e24a98d33c6e4daef3e87",
+    "previous_hash": "ac9c04d48a4f6213bc12712bd88d5dd518362af737b5156be15e11f10a22773d",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47574034,
       "title": "How to turn anything into a router",
       "url": "https://nbailey.ca/post/router/",
-      "score": 315,
-      "comments": 122
+      "score": 396,
+      "comments": 153
+    },
+    {
+      "id": 47577735,
+      "title": "\"CEO Said a Thing \" Journalism",
+      "url": "https://karlbode.com/ceo-said-a-thing-journalism/",
+      "score": 37,
+      "comments": 2
+    },
+    {
+      "id": 47576317,
+      "title": "Take better notes, by hand",
+      "url": "https://brianschrader.com/archive/take-better-notes-by-hand/",
+      "score": 79,
+      "comments": 35
     },
     {
       "id": 47573887,
-      "title": "Parrots pack twice as many neurons as primate brains of the same mass",
+      "title": "Bird brains (2023)",
       "url": "https://www.dhanishsemar.com/writing/bird-brains",
-      "score": 214,
-      "comments": 128
+      "score": 232,
+      "comments": 145
     },
     {
-      "id": 47577142,
-      "title": "Spain Shuts Airspace for US Planes Involved in Iran War",
-      "url": "https://english.aawsat.com/world/5256772-spain-shuts-airspace-us-planes-involved-iran-war",
-      "score": 16,
-      "comments": 0
-    },
-    {
-      "id": 47575950,
-      "title": "Bitwarden Integrates with OneCLI Agent Vault",
-      "url": "https://www.onecli.sh/blog/bitwarden-agent-access-sdk-onecli",
-      "score": 40,
-      "comments": 26
-    },
-    {
-      "id": 47575212,
-      "title": "\"Over 1.5 million GitHub PRs have had ads injected into them by Copilot\"",
-      "url": "https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/",
-      "score": 308,
-      "comments": 157
+      "id": 47549824,
+      "title": "Cherri – programming language that compiles to an Apple Shortuct",
+      "url": "https://github.com/electrikmilk/cherri",
+      "score": 77,
+      "comments": 6
     }
   ]
 }
