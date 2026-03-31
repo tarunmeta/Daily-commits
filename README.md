@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-31 18:02:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-31 19:19:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **luongnv89/claude-howto**
-- BTC: **$67,477.0** ↑ (+1.00%)
+- BTC: **$67,881.0** ↑ (+2.29%)
 - HN top story: **Claude Code's source code has been leaked via a map file in their NPM registry**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-03-31 18:02:29 UTC | `c0c494ac2c1f` | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-03-31 18:02:30 UTC | `3c9009ee412a` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-31 18:02:29 UTC | `69a3127f7fcb` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-03-31 19:19:52 UTC | `20278de229e6` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -29,12 +29,12 @@
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-03-31` |
-| Commits Today | `20` / `100` |
-| Remaining Today | `80` |
-| Progress | `████░░░░░░░░░░░░░░░░` 20% |
-| Streak | `37` day(s) |
-| Last Commit (IST) | `2026-03-31 22:29:55 IST` |
+| Date (IST) | `2026-04-01` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-03-31 23:32:30 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-03-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-26 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-03-27 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-03-28 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-29 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-30 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-03-31 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
+| 2026-04-01 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,477.0 | +1.00% | 🟢 |
-| Ethereum | $2,093.23 | +2.61% | 🟢 |
-| Solana | $82.32 | -1.10% | 🔴 |
-| Bnb | $613.58 | +0.13% | 🟢 |
+| Bitcoin | $67,881.0 | +2.29% | 🟢 |
+| Ethereum | $2,099.05 | +3.97% | 🟢 |
+| Solana | $82.71 | +0.33% | 🟢 |
+| Bnb | $615.48 | +0.99% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
