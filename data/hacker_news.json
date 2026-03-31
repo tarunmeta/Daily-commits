@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 00:05:37 UTC",
-    "fetched_at_ist": "2026-03-31 05:35:37 IST",
+    "fetched_at_utc": "2026-03-31 03:30:06 UTC",
+    "fetched_at_ist": "2026-03-31 09:00:06 IST",
     "item_count": 5,
-    "content_hash": "68c80c4193466c04ed5de651d81966a856022209d844a250f57ba89ad28a0102",
-    "previous_hash": "5781cd042345b74d305d80031037781230e2f695caae617c541a4b40551e856e",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "6f81cf3694d2c8899220f285ff8f2b912546bad11888889a85ceffe4bc00e18a",
+    "previous_hash": "68c80c4193466c04ed5de651d81966a856022209d844a250f57ba89ad28a0102",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47581701,
+      "title": "Universal Claude.md – cut Claude output tokens by 63%",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "score": 131,
+      "comments": 55
+    },
+    {
       "id": 47577761,
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 350,
-      "comments": 107
+      "score": 466,
+      "comments": 148
     },
     {
-      "id": 47580297,
-      "title": "Android Developer Verification",
-      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "score": 77,
-      "comments": 52
+      "id": 47582220,
+      "title": "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
+      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+      "score": 17,
+      "comments": 2
     },
     {
       "id": 47573519,
       "title": "Do your own writing",
       "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 314,
-      "comments": 96
+      "score": 405,
+      "comments": 146
     },
     {
-      "id": 47579229,
-      "title": "Learn Claude Code by doing, not reading",
-      "url": "https://claude.nagdy.me/",
-      "score": 109,
-      "comments": 60
-    },
-    {
-      "id": 47578572,
-      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
-      "url": "https://anishathalye.com/macbook-touchscreen/",
-      "score": 152,
-      "comments": 73
+      "id": 47580297,
+      "title": "Android Developer Verification",
+      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+      "score": 169,
+      "comments": 153
     }
   ]
 }
