@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-01 (last updated: 00:49 IST)
+
+## 📅 2026-04-01 (last updated: 04:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-03-31 23:32:29 IST | c0c494ac2c1f | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-31 23:32:30 IST | 3c9009ee412a | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-01 04:06:23 IST | 245227c820ec | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-01 00:49:52 IST | 20278de229e6 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,909 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 1300
-- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) — Score: 66
-- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1631
-- [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) — Score: 180
-- [Accidentally created my first fork bomb with Claude Code](https://www.droppedasbaby.com/posts/2602-01/) — Score: 13
+- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) — Score: 527
+- [Ministack (Replacement for LocalStack)](https://ministack.org/) — Score: 53
+- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) — Score: 218
+- [A dot a day keeps the clutter away](https://scottlawsonbc.com/post/dot-system) — Score: 21
+- [4D Doom](https://github.com/danieldugas/HYPERHELL) — Score: 67
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,881.0 🟢 +2.29%

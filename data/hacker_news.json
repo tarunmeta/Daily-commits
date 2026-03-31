@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 18:02:30 UTC",
-    "fetched_at_ist": "2026-03-31 23:32:30 IST",
+    "fetched_at_utc": "2026-03-31 22:36:23 UTC",
+    "fetched_at_ist": "2026-04-01 04:06:23 IST",
     "item_count": 5,
-    "content_hash": "3c9009ee412a33ba45ef78fea8a1480133271268dd7d6b50af81287c9ae221ca",
-    "previous_hash": "57ff9d08d6ee3e3ddbf51b3427caa6d9ce9fc2d325d54bbe949cf62819d5e846",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "245227c820ec4dc79d9e9f2c213ae281c67952ccb21438c6ae922aae1896bede",
+    "previous_hash": "3c9009ee412a33ba45ef78fea8a1480133271268dd7d6b50af81287c9ae221ca",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47584540,
-      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-      "score": 1300,
-      "comments": 684
+      "id": 47586778,
+      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "score": 527,
+      "comments": 199
     },
     {
-      "id": 47589818,
-      "title": "Cohere Transcribe: Speech Recognition",
-      "url": "https://cohere.com/blog/transcribe",
-      "score": 66,
-      "comments": 17
+      "id": 47593285,
+      "title": "Ministack (Replacement for LocalStack)",
+      "url": "https://ministack.org/",
+      "score": 53,
+      "comments": 9
     },
     {
-      "id": 47582220,
-      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-      "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 1631,
-      "comments": 642
+      "id": 47592755,
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 218,
+      "comments": 192
     },
     {
-      "id": 47586614,
-      "title": "Open source CAD in the browser (Solvespace)",
-      "url": "https://solvespace.com/webver.pl",
-      "score": 180,
-      "comments": 54
-    },
-    {
-      "id": 47583959,
-      "title": "Accidentally created my first fork bomb with Claude Code",
-      "url": "https://www.droppedasbaby.com/posts/2602-01/",
-      "score": 13,
+      "id": 47593556,
+      "title": "A dot a day keeps the clutter away",
+      "url": "https://scottlawsonbc.com/post/dot-system",
+      "score": 21,
       "comments": 1
+    },
+    {
+      "id": 47549128,
+      "title": "4D Doom",
+      "url": "https://github.com/danieldugas/HYPERHELL",
+      "score": 67,
+      "comments": 6
     }
   ]
 }
