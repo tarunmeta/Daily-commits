@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 16:04 IST)
+
+## 📅 2026-03-31 (last updated: 17:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-03-31 05:35:36 IST | 375d9e81c2a1 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-31 16:04:16 IST | 529ce73c1865 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-31 17:05:45 IST | 9f95cb2ab86f | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-03-31 14:48:19 IST | 346a298b42cb | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 502 stars today
 
 ### 📰 Hacker News Stories
-- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 842
-- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) — Score: 283
-- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm) — Score: 359
-- [Why the US Navy Won't Blast the Iranians and 'Open' Strait of Hormuz](https://responsiblestatecraft.org/iran-strait-of-hormuz/) — Score: 14
-- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 164
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 939
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) — Score: 326
+- [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026) — Score: 23
+- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm) — Score: 397
+- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 301
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,594.0 🔴 -1.46%
