@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-31 14:17:48 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-31 18:02:30 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **microsoft/VibeVoice**
-- BTC: **$67,308.0** ↓ (-0.29%)
-- HN top story: **Axios compromised on NPM – Malicious versions drop remote access trojan**
+- Top GitHub repo: **luongnv89/claude-howto**
+- BTC: **$67,477.0** ↑ (+1.00%)
+- HN top story: **Claude Code's source code has been leaked via a map file in their NPM registry**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-03-31 00:05:36 UTC | `375d9e81c2a1` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-31 12:41:39 UTC | `57ff9d08d6ee` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-03-31 14:17:48 UTC | `ab21e83fffad` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-03-31 18:02:29 UTC | `c0c494ac2c1f` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-31 18:02:30 UTC | `3c9009ee412a` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-31 18:02:29 UTC | `69a3127f7fcb` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-31` |
-| Commits Today | `19` / `100` |
-| Remaining Today | `81` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
+| Commits Today | `20` / `100` |
+| Remaining Today | `80` |
+| Progress | `████░░░░░░░░░░░░░░░░` 20% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-03-31 21:16:47 IST` |
+| Last Commit (IST) | `2026-03-31 22:29:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-28 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-29 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-30 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-03-31 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
+| 2026-03-31 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,308.0 | -0.29% | 🔴 |
-| Ethereum | $2,078.0 | +0.81% | 🟢 |
-| Solana | $81.88 | -2.96% | 🔴 |
-| Bnb | $612.89 | -0.64% | 🔴 |
+| Bitcoin | $67,477.0 | +1.00% | 🟢 |
+| Ethereum | $2,093.23 | +2.61% | 🟢 |
+| Solana | $82.32 | -1.10% | 🔴 |
+| Bnb | $613.58 | +0.13% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 2,492 stars today | Open-Source Frontier Voice AI |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 4,232 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,108 stars today | practice made claude perfect |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,136 stars today | real time face swap and one-click video deepfake with only a single image |
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | 502 stars today | Financial data platform for analysts, quants and AI agents. |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 368 stars today | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,… |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 76 stars today | Hunt down social media accounts by username across social networks |
-| [apache/superset](https://github.com/apache/superset) | TypeScript | 49 stars today | Apache Superset is a Data Visualization and Data Exploration Platform |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 2,390 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 3,862 stars today | Open-Source Frontier Voice AI |
+| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 1,127 stars today | Teams-first Multi-agent orchestration for Claude Code |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 2,408 stars today | practice made claude perfect |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,909 stars today | The agent that grows with you |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,623 stars today | An agentic skills framework & software development methodology that works. |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | Python | 160 stars today | The absolute trainer to light up AI agents. |
+| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 440 stars today | Turn any PDF or image document into structured data for your AI. A powerful, lig… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) | 1061 | 386 |
-| [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) | 364 | 175 |
-| [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm) | 449 | 276 |
-| [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) | 464 | 242 |
-| [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026) | 31 | 6 |
+| [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) | 1300 | 684 |
+| [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) | 66 | 17 |
+| [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) | 1631 | 642 |
+| [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) | 180 | 54 |
+| [Accidentally created my first fork bomb with Claude Code](https://www.droppedasbaby.com/posts/2602-01/) | 13 | 1 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

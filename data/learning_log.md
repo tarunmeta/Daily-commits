@@ -22,44 +22,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 19:47 IST)
+
+## 📅 2026-03-31 (last updated: 23:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-03-31 05:35:36 IST | 375d9e81c2a1 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-31 18:11:39 IST | 57ff9d08d6ee | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-03-31 19:47:48 IST | ab21e83fffad | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-03-31 23:32:29 IST | c0c494ac2c1f | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-31 23:32:30 IST | 3c9009ee412a | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-31 23:32:29 IST | 69a3127f7fcb | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 2,492 stars today
 - **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
-  ⭐ 4,232 stars today
+  ⭐ 2,390 stars today
+- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
+  ⭐ 3,862 stars today
+- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
+  ⭐ 1,127 stars today
 - **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** (HTML) — practice made claude perfect  
-  ⭐ 1,108 stars today
-- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
-  ⭐ 1,136 stars today
-- **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** (Python) — Financial data platform for analysts, quants and AI agents.  
-  ⭐ 502 stars today
+  ⭐ 2,408 stars today
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
+  ⭐ 1,909 stars today
 
 ### 📰 Hacker News Stories
-- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1061
-- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) — Score: 364
-- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm) — Score: 449
-- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 464
-- [7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown](https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026) — Score: 31
+- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 1300
+- [Cohere Transcribe: Speech Recognition](https://cohere.com/blog/transcribe) — Score: 66
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 1631
+- [Open source CAD in the browser (Solvespace)](https://solvespace.com/webver.pl) — Score: 180
+- [Accidentally created my first fork bomb with Claude Code](https://www.droppedasbaby.com/posts/2602-01/) — Score: 13
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $67,308.0 🔴 -0.29%
-- Ethereum: $2,078.0 🟢 +0.81%
-- Solana: $81.88 🔴 -2.96%
-- Bnb: $612.89 🔴 -0.64%
+- Bitcoin: $67,477.0 🟢 +1.00%
+- Ethereum: $2,093.23 🟢 +2.61%
+- Solana: $82.32 🔴 -1.10%
+- Bnb: $613.58 🟢 +0.13%
 
 ---
 ## 📅 2026-03-30 (last updated: 23:08 IST)

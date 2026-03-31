@@ -2,74 +2,98 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-31 00:05:36 UTC",
-    "fetched_at_ist": "2026-03-31 05:35:36 IST",
-    "item_count": 10,
-    "content_hash": "375d9e81c2a1e9741ea34083b020c60437315551be8c73505e015df245f095ae",
-    "previous_hash": "904106116be1f04d26ef4efc5d9bf77f8e6624d421003e43a0886c0e7b9ad397",
-    "new_repos_vs_previous": 4,
+    "fetched_at_utc": "2026-03-31 18:02:29 UTC",
+    "fetched_at_ist": "2026-03-31 23:32:29 IST",
+    "item_count": 14,
+    "content_hash": "c0c494ac2c1f1082bc7cccebfb5050908b9d5eb70d4aa1b4959caa578ff61aed",
+    "previous_hash": "375d9e81c2a1e9741ea34083b020c60437315551be8c73505e015df245f095ae",
+    "new_repos_vs_previous": 9,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": "2,492 stars today"
-    },
-    {
       "name": "luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_today": "4,232 stars today"
+      "stars_today": "2,390 stars today"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": "3,862 stars today"
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
+      "language": "TypeScript",
+      "stars_today": "1,127 stars today"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars_today": "1,108 stars today"
-    },
-    {
-      "name": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars_today": "1,136 stars today"
-    },
-    {
-      "name": "OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "language": "Python",
-      "stars_today": "502 stars today"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars_today": "368 stars today"
-    },
-    {
-      "name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars_today": "76 stars today"
-    },
-    {
-      "name": "apache/superset",
-      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "language": "TypeScript",
-      "stars_today": "49 stars today"
-    },
-    {
-      "name": "fastfetch-cli/fastfetch",
-      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "language": "C",
-      "stars_today": "276 stars today"
+      "stars_today": "2,408 stars today"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "1,851 stars today"
+      "stars_today": "1,909 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "2,623 stars today"
+    },
+    {
+      "name": "microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars_today": "160 stars today"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars_today": "440 stars today"
+    },
+    {
+      "name": "Dimillian/Skills",
+      "description": "My Codex Skills",
+      "language": "Shell",
+      "stars_today": "173 stars today"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_today": "862 stars today"
+    },
+    {
+      "name": "neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "stars_today": "95 stars today"
+    },
+    {
+      "name": "vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "language": "TypeScript",
+      "stars_today": "325 stars today"
+    },
+    {
+      "name": "OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "stars_today": "117 stars today"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars_today": "874 stars today"
     }
   ]
 }
