@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-03-30 23:37:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-03-31 00:05:37 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **luongnv89/claude-howto**
-- BTC: **$66,604.0** ↓ (-0.06%)
-- HN top story: **Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?**
+- Top GitHub repo: **microsoft/VibeVoice**
+- BTC: **$66,683.0** ↑ (+1.22%)
+- HN top story: **Fedware: Government apps that spy harder than the apps they ban**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-03-29 18:02:49 UTC | `904106116be1` | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-30 23:37:13 UTC | `5781cd042345` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-30 20:28:12 UTC | `b0108d20642c` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 10 | 2026-03-31 00:05:36 UTC | `375d9e81c2a1` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-31 00:05:37 UTC | `68c80c419346` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-31 00:05:36 UTC | `12dc4ddbf06a` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +1 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-03-31` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-03-31 04:19:12 IST` |
+| Last Commit (IST) | `2026-03-31 05:07:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-03-28 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-29 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-30 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-03-31 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-03-31 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,604.0 | -0.06% | 🔴 |
-| Ethereum | $2,023.8 | +0.99% | 🟢 |
-| Solana | $82.76 | +1.06% | 🟢 |
-| Bnb | $609.51 | -0.24% | 🔴 |
+| Bitcoin | $66,683.0 | +1.22% | 🟢 |
+| Ethereum | $2,023.0 | +2.09% | 🟢 |
+| Solana | $82.45 | +1.34% | 🟢 |
+| Bnb | $609.09 | +0.59% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 1,121 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 1,140 stars today | Teams-first Multi-agent orchestration for Claude Code |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,190 stars today | Open-Source Frontier Voice AI |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 997 stars today | The agent that grows with you |
-| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | 113 stars today | Financial data platform for analysts, quants and AI agents. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,229 stars today | An agentic skills framework & software development methodology that works. |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 464 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,131 stars today | real time face swap and one-click video deepfake with only a single image |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 2,492 stars today | Open-Source Frontier Voice AI |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 4,232 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,108 stars today | practice made claude perfect |
+| [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | 1,136 stars today | real time face swap and one-click video deepfake with only a single image |
+| [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | 502 stars today | Financial data platform for analysts, quants and AI agents. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 368 stars today | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,… |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 76 stars today | Hunt down social media accounts by username across social networks |
+| [apache/superset](https://github.com/apache/superset) | TypeScript | 49 stars today | Apache Superset is a Data Visualization and Data Exploration Platform |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?](https://30u30.fyi) | 174 | 60 |
-| [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) | 344 | 103 |
-| [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) | 296 | 89 |
-| [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) | 96 | 49 |
-| [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) | 60 | 39 |
+| [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) | 350 | 107 |
+| [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) | 77 | 52 |
+| [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) | 314 | 96 |
+| [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) | 109 | 60 |
+| [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/) | 152 | 73 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

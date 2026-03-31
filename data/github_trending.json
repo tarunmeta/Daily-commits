@@ -2,92 +2,74 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-29 18:02:49 UTC",
-    "fetched_at_ist": "2026-03-29 23:32:49 IST",
-    "item_count": 13,
-    "content_hash": "904106116be1f04d26ef4efc5d9bf77f8e6624d421003e43a0886c0e7b9ad397",
-    "previous_hash": "9754dd30916815c08f2dba3c0ae60ae35f2ad92dce107c125a5662609df59c0e",
-    "new_repos_vs_previous": 1,
+    "fetched_at_utc": "2026-03-31 00:05:36 UTC",
+    "fetched_at_ist": "2026-03-31 05:35:36 IST",
+    "item_count": 10,
+    "content_hash": "375d9e81c2a1e9741ea34083b020c60437315551be8c73505e015df245f095ae",
+    "previous_hash": "904106116be1f04d26ef4efc5d9bf77f8e6624d421003e43a0886c0e7b9ad397",
+    "new_repos_vs_previous": 4,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars_today": "1,121 stars today"
-    },
-    {
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "language": "TypeScript",
-      "stars_today": "1,140 stars today"
-    },
-    {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars_today": "1,190 stars today"
+      "stars_today": "2,492 stars today"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars_today": "997 stars today"
+      "stars_today": "4,232 stars today"
     },
     {
-      "name": "OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "language": "Python",
-      "stars_today": "113 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "2,229 stars today"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "language": "TypeScript",
-      "stars_today": "464 stars today"
+      "name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars_today": "1,108 stars today"
     },
     {
       "name": "hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars_today": "1,131 stars today"
+      "stars_today": "1,136 stars today"
     },
     {
-      "name": "mvanhorn/last30days-skill",
-      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "name": "OpenBB-finance/OpenBB",
+      "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
-      "stars_today": "1,186 stars today"
+      "stars_today": "502 stars today"
     },
     {
-      "name": "shareAI-lab/learn-claude-code",
-      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_today": "908 stars today"
+      "stars_today": "368 stars today"
+    },
+    {
+      "name": "sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars_today": "76 stars today"
+    },
+    {
+      "name": "apache/superset",
+      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+      "language": "TypeScript",
+      "stars_today": "49 stars today"
     },
     {
       "name": "fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "language": "C",
-      "stars_today": "28 stars today"
+      "stars_today": "276 stars today"
     },
     {
-      "name": "moeru-ai/airi",
-      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "language": "TypeScript",
-      "stars_today": "213 stars today"
-    },
-    {
-      "name": "twentyhq/twenty",
-      "description": "Building a modern alternative to Salesforce, powered by the community.",
-      "language": "TypeScript",
-      "stars_today": "451 stars today"
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "1,851 stars today"
     }
   ]
 }

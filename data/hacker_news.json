@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-30 23:37:13 UTC",
-    "fetched_at_ist": "2026-03-31 05:07:13 IST",
+    "fetched_at_utc": "2026-03-31 00:05:37 UTC",
+    "fetched_at_ist": "2026-03-31 05:35:37 IST",
     "item_count": 5,
-    "content_hash": "5781cd042345b74d305d80031037781230e2f695caae617c541a4b40551e856e",
-    "previous_hash": "fb443fb4321a338395ac39390a0180d2d6c74e8b7858738666ce8ec750a3f982",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "68c80c4193466c04ed5de651d81966a856022209d844a250f57ba89ad28a0102",
+    "previous_hash": "5781cd042345b74d305d80031037781230e2f695caae617c541a4b40551e856e",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47580350,
-      "title": "Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?",
-      "url": "https://30u30.fyi",
-      "score": 174,
-      "comments": 60
-    },
-    {
       "id": 47577761,
       "title": "Fedware: Government apps that spy harder than the apps they ban",
       "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 344,
-      "comments": 103
-    },
-    {
-      "id": 47573519,
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 296,
-      "comments": 89
-    },
-    {
-      "id": 47579229,
-      "title": "Learn Claude Code by doing, not reading",
-      "url": "https://claude.nagdy.me/",
-      "score": 96,
-      "comments": 49
+      "score": 350,
+      "comments": 107
     },
     {
       "id": 47580297,
       "title": "Android Developer Verification",
       "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "score": 60,
-      "comments": 39
+      "score": 77,
+      "comments": 52
+    },
+    {
+      "id": 47573519,
+      "title": "Do your own writing",
+      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
+      "score": 314,
+      "comments": 96
+    },
+    {
+      "id": 47579229,
+      "title": "Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "score": 109,
+      "comments": 60
+    },
+    {
+      "id": 47578572,
+      "title": "Turning a MacBook into a touchscreen with $1 of hardware (2018)",
+      "url": "https://anishathalye.com/macbook-touchscreen/",
+      "score": 152,
+      "comments": 73
     }
   ]
 }

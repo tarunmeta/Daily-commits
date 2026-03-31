@@ -10,44 +10,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 05:07 IST)
+
+## 📅 2026-03-31 (last updated: 05:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-03-29 23:32:49 IST | 904106116be1 | +1 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-31 05:07:13 IST | 5781cd042345 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-03-31 01:58:12 IST | b0108d20642c | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 10 | 2026-03-31 05:35:36 IST | 375d9e81c2a1 | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-03-31 05:35:37 IST | 68c80c419346 | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-03-31 05:35:36 IST | 12dc4ddbf06a | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +1 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
-  ⭐ 1,121 stars today
-- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
-  ⭐ 1,140 stars today
 - **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 1,190 stars today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 997 stars today
+  ⭐ 2,492 stars today
+- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
+  ⭐ 4,232 stars today
+- **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** (HTML) — practice made claude perfect  
+  ⭐ 1,108 stars today
+- **[hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** (Python) — real time face swap and one-click video deepfake with only a single image  
+  ⭐ 1,136 stars today
 - **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)** (Python) — Financial data platform for analysts, quants and AI agents.  
-  ⭐ 113 stars today
+  ⭐ 502 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: 30u30.fyi – Is your startup founder on Forbes' most fraudulent list?](https://30u30.fyi) — Score: 174
-- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 344
-- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 296
-- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) — Score: 96
-- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) — Score: 60
+- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 350
+- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) — Score: 77
+- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 314
+- [Learn Claude Code by doing, not reading](https://claude.nagdy.me/) — Score: 109
+- [Turning a MacBook into a touchscreen with $1 of hardware (2018)](https://anishathalye.com/macbook-touchscreen/) — Score: 152
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,604.0 🔴 -0.06%
-- Ethereum: $2,023.8 🟢 +0.99%
-- Solana: $82.76 🟢 +1.06%
-- Bnb: $609.51 🔴 -0.24%
+- Bitcoin: $66,683.0 🟢 +1.22%
+- Ethereum: $2,023.0 🟢 +2.09%
+- Solana: $82.45 🟢 +1.34%
+- Bnb: $609.09 🟢 +0.59%
 
 ---
 ## 📅 2026-03-30 (last updated: 23:08 IST)
