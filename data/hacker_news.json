@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-03-31 03:30:06 UTC",
-    "fetched_at_ist": "2026-03-31 09:00:06 IST",
+    "fetched_at_utc": "2026-03-31 10:34:16 UTC",
+    "fetched_at_ist": "2026-03-31 16:04:16 IST",
     "item_count": 5,
-    "content_hash": "6f81cf3694d2c8899220f285ff8f2b912546bad11888889a85ceffe4bc00e18a",
-    "previous_hash": "68c80c4193466c04ed5de651d81966a856022209d844a250f57ba89ad28a0102",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "529ce73c1865a18875ed4a0ccb07c2519885f38c1b140265e20cc24de419e73b",
+    "previous_hash": "6f81cf3694d2c8899220f285ff8f2b912546bad11888889a85ceffe4bc00e18a",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47581701,
-      "title": "Universal Claude.md – cut Claude output tokens by 63%",
-      "url": "https://github.com/drona23/claude-token-efficient",
-      "score": 131,
-      "comments": 55
-    },
-    {
-      "id": 47577761,
-      "title": "Fedware: Government apps that spy harder than the apps they ban",
-      "url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-      "score": 466,
-      "comments": 148
-    },
-    {
       "id": 47582220,
-      "title": "Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan",
+      "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
       "url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-      "score": 17,
+      "score": 842,
+      "comments": 298
+    },
+    {
+      "id": 47582482,
+      "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "score": 283,
+      "comments": 136
+    },
+    {
+      "id": 47582043,
+      "title": "Artemis II is not safe to fly",
+      "url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+      "score": 359,
+      "comments": 229
+    },
+    {
+      "id": 47584795,
+      "title": "Why the US Navy Won't Blast the Iranians and 'Open' Strait of Hormuz",
+      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+      "score": 14,
       "comments": 2
     },
     {
-      "id": 47573519,
-      "title": "Do your own writing",
-      "url": "https://alexhwoods.com/dont-let-ai-write-for-you/",
-      "score": 405,
-      "comments": 146
-    },
-    {
-      "id": 47580297,
-      "title": "Android Developer Verification",
-      "url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-      "score": 169,
-      "comments": 153
+      "id": 47584540,
+      "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+      "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+      "score": 164,
+      "comments": 66
     }
   ]
 }

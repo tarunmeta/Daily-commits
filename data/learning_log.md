@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-03-31 (last updated: 14:48 IST)
+
+## 📅 2026-03-31 (last updated: 16:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-03-31 05:35:36 IST | 375d9e81c2a1 | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-03-31 09:00:06 IST | 6f81cf3694d2 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-03-31 16:04:16 IST | 529ce73c1865 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-03-31 14:48:19 IST | 346a298b42cb | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 502 stars today
 
 ### 📰 Hacker News Stories
-- [Universal Claude.md – cut Claude output tokens by 63%](https://github.com/drona23/claude-token-efficient) — Score: 131
-- [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/) — Score: 466
-- [Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 17
-- [Do your own writing](https://alexhwoods.com/dont-let-ai-write-for-you/) — Score: 405
-- [Android Developer Verification](https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html) — Score: 169
+- [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Score: 842
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) — Score: 283
+- [Artemis II is not safe to fly](https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm) — Score: 359
+- [Why the US Navy Won't Blast the Iranians and 'Open' Strait of Hormuz](https://responsiblestatecraft.org/iran-strait-of-hormuz/) — Score: 14
+- [Claude Code's source code has been leaked via a map file in their NPM registry](https://twitter.com/Fried_rice/status/2038894956459290963) — Score: 164
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,594.0 🔴 -1.46%
