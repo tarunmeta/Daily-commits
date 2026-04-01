@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 19:32:08 UTC",
-    "fetched_at_ist": "2026-04-02 01:02:08 IST",
+    "fetched_at_utc": "2026-04-01 23:38:01 UTC",
+    "fetched_at_ist": "2026-04-02 05:08:01 IST",
     "item_count": 5,
-    "content_hash": "ed7fbe25aabbb3ea5ec187c5c03736c61e96da6e126298db4df0c281a4a6a413",
-    "previous_hash": "fb05fef8e4c6cc6df9494ef544638305ffc8653850259b8ab2eafbab59f61543",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "cdadc449dda145038f262dec27706d17e8d092148227c4ff1813d3e287662710",
+    "previous_hash": "ed7fbe25aabbb3ea5ec187c5c03736c61e96da6e126298db4df0c281a4a6a413",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47602832,
-      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
-      "url": "https://blog.cloudflare.com/emdash-wordpress/",
-      "score": 284,
-      "comments": 180
+      "id": 47606840,
+      "title": "DRAM pricing is killing the hobbyist SBC market",
+      "url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+      "score": 196,
+      "comments": 140
     },
     {
-      "id": 47604354,
-      "title": "TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS",
-      "url": "https://github.com/SharpAI/SwiftLM",
-      "score": 34,
-      "comments": 10
+      "id": 47607067,
+      "title": "Swappa.com for GrapheneOS compatible devices – Stay Away",
+      "url": "https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away",
+      "score": 70,
+      "comments": 35
     },
     {
-      "id": 47601859,
-      "title": "Ask HN: Who is hiring? (April 2026)",
-      "url": "https://news.ycombinator.com/item?id=47601859",
-      "score": 127,
+      "id": 47607447,
+      "title": "Artemis II lifts off: four astronauts begin 10-day lunar mission",
+      "url": "https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates",
+      "score": 206,
       "comments": 101
     },
     {
-      "id": 47602879,
-      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
-      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-      "score": 88,
-      "comments": 33
+      "id": 47605677,
+      "title": "Signing data structures the wrong way",
+      "url": "https://blog.foks.pub/posts/domain-separation-in-idl/",
+      "score": 65,
+      "comments": 36
     },
     {
-      "id": 47603737,
-      "title": "AI for American-produced cement and concrete",
-      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-      "score": 72,
-      "comments": 64
+      "id": 47557921,
+      "title": "Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs",
+      "url": "https://github.com/hauntsaninja/git_bayesect",
+      "score": 171,
+      "comments": 24
     }
   ]
 }

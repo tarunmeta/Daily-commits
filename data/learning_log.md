@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-02 (last updated: 01:56 IST)
+
+## 📅 2026-04-02 (last updated: 05:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-01 23:36:09 IST | 28ab15aae222 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-02 01:02:08 IST | ed7fbe25aabb | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-02 05:08:01 IST | cdadc449dda1 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-02 01:56:12 IST | d1b85a036fc2 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 88 stars today
 
 ### 📰 Hacker News Stories
-- [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) — Score: 284
-- [TurboQuant KV Compression and SSD Expert Streaming for M5 Pro and IOS](https://github.com/SharpAI/SwiftLM) — Score: 34
-- [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859) — Score: 127
-- [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn) — Score: 88
-- [AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) — Score: 72
+- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) — Score: 196
+- [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away) — Score: 70
+- [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates) — Score: 206
+- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) — Score: 65
+- [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect) — Score: 171
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,096.0 🟢 +0.26%
