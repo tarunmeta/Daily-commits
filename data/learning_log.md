@@ -21,44 +21,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-01 (last updated: 12:54 IST)
+
+## 📅 2026-04-01 (last updated: 23:36 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-03-31 23:32:29 IST | c0c494ac2c1f | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-01 09:05:26 IST | ce26be95b47d | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-01 12:54:08 IST | 2d423bcb2013 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 7 | 2026-04-01 23:36:09 IST | 28ab15aae222 | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-01 23:36:10 IST | fb05fef8e4c6 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-01 23:36:09 IST | 3c47a1aa63b1 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
-  ⭐ 2,390 stars today
+- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** (Shell) — Claude Code is an agentic coding tool that lives in your terminal, understands y  
+  ⭐ 10,087 stars today
 - **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 3,862 stars today
-- **[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** (TypeScript) — Teams-first Multi-agent orchestration for Claude Code  
-  ⭐ 1,127 stars today
-- **[shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)** (HTML) — practice made claude perfect  
-  ⭐ 2,408 stars today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 1,909 stars today
+  ⭐ 1,704 stars today
+- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
+  ⭐ 358 stars today
+- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
+  ⭐ 3,336 stars today
+- **[axios/axios](https://github.com/axios/axios)** (JavaScript) — Promise based HTTP client for the browser and node.js  
+  ⭐ 88 stars today
 
 ### 📰 Hacker News Stories
-- [We intercepted the White House app's traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/) — Score: 118
-- [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) — Score: 908
-- [TinyLoRA – Learning to Reason in 13 Parameters](https://arxiv.org/abs/2602.04118) — Score: 100
-- [TruffleRuby](https://chrisseaton.com/truffleruby/) — Score: 62
-- [U.S. exempts oil industry from protecting Gulf animals, for 'national security'](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security) — Score: 168
+- [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) — Score: 189
+- [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) — Score: 35
+- [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859) — Score: 82
+- [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn) — Score: 62
+- [Show HN: Real-time dashboard for Claude Code agent teams](https://github.com/simple10/agents-observe) — Score: 35
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $68,861.0 🟢 +2.53%
-- Ethereum: $2,138.48 🟢 +4.57%
-- Solana: $84.35 🟢 +1.80%
-- Bnb: $618.5 🟢 +1.48%
+- Bitcoin: $68,020.0 🟢 +0.56%
+- Ethereum: $2,128.31 🟢 +1.26%
+- Solana: $84.29 🟢 +2.34%
+- Bnb: $613.04 🔴 -0.24%
 
 ---
 ## 📅 2026-03-31 (last updated: 23:32 IST)

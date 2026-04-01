@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-01 03:35:26 UTC",
-    "fetched_at_ist": "2026-04-01 09:05:26 IST",
+    "fetched_at_utc": "2026-04-01 18:06:10 UTC",
+    "fetched_at_ist": "2026-04-01 23:36:10 IST",
     "item_count": 5,
-    "content_hash": "ce26be95b47da84fcb5cd4d103c7cc038c8ee18c00d93fda9cd894a80a6a48cc",
-    "previous_hash": "245227c820ec4dc79d9e9f2c213ae281c67952ccb21438c6ae922aae1896bede",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "fb05fef8e4c6cc6df9494ef544638305ffc8653850259b8ab2eafbab59f61543",
+    "previous_hash": "ce26be95b47da84fcb5cd4d103c7cc038c8ee18c00d93fda9cd894a80a6a48cc",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47595865,
-      "title": "We intercepted the White House app's traffic. 77% of requests go to 3rd parties",
-      "url": "https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/",
-      "score": 118,
-      "comments": 30
+      "id": 47602832,
+      "title": "EmDash – a spiritual successor to WordPress that solves plugin security",
+      "url": "https://blog.cloudflare.com/emdash-wordpress/",
+      "score": 189,
+      "comments": 103
     },
     {
-      "id": 47586778,
-      "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-      "score": 908,
-      "comments": 366
+      "id": 47603737,
+      "title": "AI for American-Produced Cement and Concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "score": 35,
+      "comments": 25
     },
     {
-      "id": 47541733,
-      "title": "TinyLoRA – Learning to Reason in 13 Parameters",
-      "url": "https://arxiv.org/abs/2602.04118",
-      "score": 100,
-      "comments": 8
+      "id": 47601859,
+      "title": "Ask HN: Who is hiring? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47601859",
+      "score": 82,
+      "comments": 73
     },
     {
-      "id": 47557171,
-      "title": "TruffleRuby",
-      "url": "https://chrisseaton.com/truffleruby/",
+      "id": 47602879,
+      "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
       "score": 62,
-      "comments": 3
+      "comments": 23
     },
     {
-      "id": 47595620,
-      "title": "U.S. exempts oil industry from protecting Gulf animals, for 'national security'",
-      "url": "https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security",
-      "score": 168,
-      "comments": 69
+      "id": 47602986,
+      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "url": "https://github.com/simple10/agents-observe",
+      "score": 35,
+      "comments": 11
     }
   ]
 }

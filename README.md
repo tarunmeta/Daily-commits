@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-01 07:24:08 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-01 18:06:10 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **luongnv89/claude-howto**
-- BTC: **$68,861.0** ↑ (+2.53%)
-- HN top story: **We intercepted the White House app's traffic. 77% of requests go to 3rd parties**
+- Top GitHub repo: **anthropics/claude-code**
+- BTC: **$68,020.0** ↑ (+0.56%)
+- HN top story: **EmDash – a spiritual successor to WordPress that solves plugin security**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-03-31 18:02:29 UTC | `c0c494ac2c1f` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-01 03:35:26 UTC | `ce26be95b47d` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-01 07:24:08 UTC | `2d423bcb2013` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 7 | 2026-04-01 18:06:09 UTC | `28ab15aae222` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-01 18:06:10 UTC | `fb05fef8e4c6` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-01 18:06:09 UTC | `3c47a1aa63b1` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-01` |
-| Commits Today | `18` / `100` |
-| Remaining Today | `82` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
+| Commits Today | `19` / `100` |
+| Remaining Today | `81` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-01 21:44:37 IST` |
+| Last Commit (IST) | `2026-04-01 22:44:09 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,38 @@
 | 2026-03-29 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-03-30 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-03-31 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-04-01 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
+| 2026-04-01 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $68,861.0 | +2.53% | 🟢 |
-| Ethereum | $2,138.48 | +4.57% | 🟢 |
-| Solana | $84.35 | +1.80% | 🟢 |
-| Bnb | $618.5 | +1.48% | 🟢 |
+| Bitcoin | $68,020.0 | +0.56% | 🟢 |
+| Ethereum | $2,128.31 | +1.26% | 🟢 |
+| Solana | $84.29 | +2.34% | 🟢 |
+| Bnb | $613.04 | -0.24% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 2,390 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 3,862 stars today | Open-Source Frontier Voice AI |
-| [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | 1,127 stars today | Teams-first Multi-agent orchestration for Claude Code |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 2,408 stars today | practice made claude perfect |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,909 stars today | The agent that grows with you |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,623 stars today | An agentic skills framework & software development methodology that works. |
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | Python | 160 stars today | The absolute trainer to light up AI agents. |
-| [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | 440 stars today | Turn any PDF or image document into structured data for your AI. A powerful, lig… |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 10,087 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,704 stars today | Open-Source Frontier Voice AI |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 358 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 3,336 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [axios/axios](https://github.com/axios/axios) | JavaScript | 88 stars today | Promise based HTTP client for the browser and node.js |
+| [openai/codex](https://github.com/openai/codex) | Rust | 2,345 stars today | Lightweight coding agent that runs in your terminal |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 442 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [We intercepted the White House app's traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/) | 118 | 30 |
-| [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) | 908 | 366 |
-| [TinyLoRA – Learning to Reason in 13 Parameters](https://arxiv.org/abs/2602.04118) | 100 | 8 |
-| [TruffleRuby](https://chrisseaton.com/truffleruby/) | 62 | 3 |
-| [U.S. exempts oil industry from protecting Gulf animals, for 'national security'](https://www.npr.org/2026/03/30/nx-s1-5745926/endangered-species-committee-hegseth-security) | 168 | 69 |
+| [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) | 189 | 103 |
+| [AI for American-Produced Cement and Concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) | 35 | 25 |
+| [Ask HN: Who is hiring? (April 2026)](https://news.ycombinator.com/item?id=47601859) | 82 | 73 |
+| [StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn) | 62 | 23 |
+| [Show HN: Real-time dashboard for Claude Code agent teams](https://github.com/simple10/agents-observe) | 35 | 11 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

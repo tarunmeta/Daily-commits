@@ -2,98 +2,56 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-03-31 18:02:29 UTC",
-    "fetched_at_ist": "2026-03-31 23:32:29 IST",
-    "item_count": 14,
-    "content_hash": "c0c494ac2c1f1082bc7cccebfb5050908b9d5eb70d4aa1b4959caa578ff61aed",
-    "previous_hash": "375d9e81c2a1e9741ea34083b020c60437315551be8c73505e015df245f095ae",
-    "new_repos_vs_previous": 9,
+    "fetched_at_utc": "2026-04-01 18:06:09 UTC",
+    "fetched_at_ist": "2026-04-01 23:36:09 IST",
+    "item_count": 7,
+    "content_hash": "28ab15aae2222370402ec0c67207536e286f9d446df26e39ed218da19962d71e",
+    "previous_hash": "c0c494ac2c1f1082bc7cccebfb5050908b9d5eb70d4aa1b4959caa578ff61aed",
+    "new_repos_vs_previous": 5,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars_today": "2,390 stars today"
+      "name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "Shell",
+      "stars_today": "10,087 stars today"
     },
     {
       "name": "microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars_today": "3,862 stars today"
+      "stars_today": "1,704 stars today"
     },
     {
-      "name": "Yeachan-Heo/oh-my-claudecode",
-      "description": "Teams-first Multi-agent orchestration for Claude Code",
-      "language": "TypeScript",
-      "stars_today": "1,127 stars today"
+      "name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars_today": "358 stars today"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "description": "practice made claude perfect",
+      "name": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars_today": "3,336 stars today"
+    },
+    {
+      "name": "axios/axios",
+      "description": "Promise based HTTP client for the browser and node.js",
+      "language": "JavaScript",
+      "stars_today": "88 stars today"
+    },
+    {
+      "name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars_today": "2,345 stars today"
+    },
+    {
+      "name": "f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "HTML",
-      "stars_today": "2,408 stars today"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "1,909 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "2,623 stars today"
-    },
-    {
-      "name": "microsoft/agent-lightning",
-      "description": "The absolute trainer to light up AI agents.",
-      "language": "Python",
-      "stars_today": "160 stars today"
-    },
-    {
-      "name": "PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "language": "Python",
-      "stars_today": "440 stars today"
-    },
-    {
-      "name": "Dimillian/Skills",
-      "description": "My Codex Skills",
-      "language": "Shell",
-      "stars_today": "173 stars today"
-    },
-    {
-      "name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars_today": "862 stars today"
-    },
-    {
-      "name": "neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "language": "Vim Script",
-      "stars_today": "95 stars today"
-    },
-    {
-      "name": "vas3k/TaxHacker",
-      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-      "language": "TypeScript",
-      "stars_today": "325 stars today"
-    },
-    {
-      "name": "OpenBMB/ChatDev",
-      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-      "language": "Python",
-      "stars_today": "117 stars today"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": "Unknown",
-      "stars_today": "874 stars today"
+      "stars_today": "442 stars today"
     }
   ]
 }
