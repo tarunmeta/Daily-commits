@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-01 23:38:01 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-02 00:02:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/claude-code**
-- BTC: **$68,096.0** ↑ (+0.26%)
+- BTC: **$68,085.0** ↓ (-0.21%)
 - HN top story: **DRAM pricing is killing the hobbyist SBC market**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-01 18:06:09 UTC | `28ab15aae222` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-01 23:38:01 UTC | `cdadc449dda1` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-01 20:26:12 UTC | `d1b85a036fc2` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 7 | 2026-04-02 00:02:35 UTC | `d94445e3c105` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-02 00:02:36 UTC | `5ae84936c9e5` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-04-02 00:02:35 UTC | `7438329c5f64` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-02` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-02 04:21:31 IST` |
+| Last Commit (IST) | `2026-04-02 05:08:01 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,38 +48,38 @@
 | 2026-03-30 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-03-31 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-04-01 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-04-02 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-04-02 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $68,096.0 | +0.26% | 🟢 |
-| Ethereum | $2,138.59 | +1.77% | 🟢 |
-| Solana | $82.93 | -0.13% | 🔴 |
-| Bnb | $611.69 | -0.74% | 🔴 |
+| Bitcoin | $68,085.0 | -0.21% | 🔴 |
+| Ethereum | $2,139.59 | +1.73% | 🟢 |
+| Solana | $81.19 | -2.28% | 🔴 |
+| Bnb | $610.63 | -1.04% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 10,087 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,704 stars today | Open-Source Frontier Voice AI |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 358 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 3,336 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
-| [axios/axios](https://github.com/axios/axios) | JavaScript | 88 stars today | Promise based HTTP client for the browser and node.js |
-| [openai/codex](https://github.com/openai/codex) | Rust | 2,345 stars today | Lightweight coding agent that runs in your terminal |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 442 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 10,749 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,685 stars today | Open-Source Frontier Voice AI |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 380 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 3,301 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
+| [axios/axios](https://github.com/axios/axios) | JavaScript | 93 stars today | Promise based HTTP client for the browser and node.js |
+| [openai/codex](https://github.com/openai/codex) | Rust | 2,390 stars today | Lightweight coding agent that runs in your terminal |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 398 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) | 196 | 140 |
-| [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away) | 70 | 35 |
-| [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates) | 206 | 101 |
-| [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) | 65 | 36 |
-| [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect) | 171 | 24 |
+| [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) | 221 | 154 |
+| [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) | 23 | 2 |
+| [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates) | 251 | 151 |
+| [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) | 435 | 312 |
+| [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) | 66 | 37 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

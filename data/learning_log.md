@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-02 (last updated: 05:08 IST)
+
+## 📅 2026-04-02 (last updated: 05:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-01 23:36:09 IST | 28ab15aae222 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-02 05:08:01 IST | cdadc449dda1 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-02 01:56:12 IST | d1b85a036fc2 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 7 | 2026-04-02 05:32:35 IST | d94445e3c105 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-02 05:32:36 IST | 5ae84936c9e5 | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-04-02 05:32:35 IST | 7438329c5f64 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[anthropics/claude-code](https://github.com/anthropics/claude-code)** (Shell) — Claude Code is an agentic coding tool that lives in your terminal, understands y  
-  ⭐ 10,087 stars today
+  ⭐ 10,749 stars today
 - **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 1,704 stars today
+  ⭐ 1,685 stars today
 - **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
-  ⭐ 358 stars today
+  ⭐ 380 stars today
 - **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
-  ⭐ 3,336 stars today
+  ⭐ 3,301 stars today
 - **[axios/axios](https://github.com/axios/axios)** (JavaScript) — Promise based HTTP client for the browser and node.js  
-  ⭐ 88 stars today
+  ⭐ 93 stars today
 
 ### 📰 Hacker News Stories
-- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) — Score: 196
-- [Swappa.com for GrapheneOS compatible devices – Stay Away](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away) — Score: 70
-- [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates) — Score: 206
-- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) — Score: 65
-- [Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs](https://github.com/hauntsaninja/git_bayesect) — Score: 171
+- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) — Score: 221
+- [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) — Score: 23
+- [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates) — Score: 251
+- [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) — Score: 435
+- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) — Score: 66
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $68,096.0 🟢 +0.26%
-- Ethereum: $2,138.59 🟢 +1.77%
-- Solana: $82.93 🔴 -0.13%
-- Bnb: $611.69 🔴 -0.74%
+- Bitcoin: $68,085.0 🔴 -0.21%
+- Ethereum: $2,139.59 🟢 +1.73%
+- Solana: $81.19 🔴 -2.28%
+- Bnb: $610.63 🔴 -1.04%
 
 ---
 ## 📅 2026-04-01 (last updated: 23:36 IST)
