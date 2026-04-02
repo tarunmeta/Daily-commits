@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-02 11:32:54 UTC",
-    "fetched_at_ist": "2026-04-02 17:02:54 IST",
+    "fetched_at_utc": "2026-04-02 12:38:08 UTC",
+    "fetched_at_ist": "2026-04-02 18:08:08 IST",
     "item_count": 5,
-    "content_hash": "95eeed1ce02fb49eee152a6afdc6a026a8caf100a7cca657ccbe21b58e78b588",
-    "previous_hash": "284294306b833780f0a8d2dbf75b613b345cae09189d101beb893aa801520ea6",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "dbf45130d456ff0e8cb3c984c7be2acb85c79478b124ffe3a2480c6887efcefe",
+    "previous_hash": "95eeed1ce02fb49eee152a6afdc6a026a8caf100a7cca657ccbe21b58e78b588",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47611721,
       "title": "IBM Announces Strategic Collaboration with Arm",
       "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "score": 89,
-      "comments": 46
+      "score": 128,
+      "comments": 72
+    },
+    {
+      "id": 47612724,
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "url": "https://lemonade-server.ai",
+      "score": 21,
+      "comments": 4
+    },
+    {
+      "id": 47612601,
+      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
+      "score": 151,
+      "comments": 73
+    },
+    {
+      "id": 47613078,
+      "title": "Inside Nepal's Fake Rescue Racket",
+      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
+      "score": 14,
+      "comments": 0
     },
     {
       "id": 47611481,
       "title": "Bringing Clojure programming to Enterprise (2021)",
       "url": "https://blogit.michelin.io/clojure-programming/",
-      "score": 63,
-      "comments": 9
-    },
-    {
-      "id": 47603657,
-      "title": "Artemis II Launch Day Updates",
-      "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 949,
-      "comments": 809
-    },
-    {
-      "id": 47582987,
-      "title": "Gone (Almost) Phishin'",
-      "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-      "score": 54,
-      "comments": 24
-    },
-    {
-      "id": 47611921,
-      "title": "Significant Raise of Reports",
-      "url": "https://lwn.net/Articles/1065620/",
-      "score": 21,
-      "comments": 9
+      "score": 91,
+      "comments": 22
     }
   ]
 }

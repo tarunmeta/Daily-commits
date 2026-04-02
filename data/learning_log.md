@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-02 (last updated: 17:02 IST)
+
+## 📅 2026-04-02 (last updated: 18:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-02 05:32:35 IST | d94445e3c105 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-02 17:02:54 IST | 95eeed1ce02f | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-02 18:08:08 IST | dbf45130d456 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-04-02 14:45:26 IST | 6b28318d3720 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 93 stars today
 
 ### 📰 Hacker News Stories
-- [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) — Score: 89
-- [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) — Score: 63
-- [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) — Score: 949
-- [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) — Score: 54
-- [Significant Raise of Reports](https://lwn.net/Articles/1065620/) — Score: 21
+- [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) — Score: 128
+- [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) — Score: 21
+- [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) — Score: 151
+- [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) — Score: 14
+- [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) — Score: 91
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,372.0 🔴 -3.03%
