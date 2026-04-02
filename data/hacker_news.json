@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-02 10:30:18 UTC",
-    "fetched_at_ist": "2026-04-02 16:00:18 IST",
+    "fetched_at_utc": "2026-04-02 11:32:54 UTC",
+    "fetched_at_ist": "2026-04-02 17:02:54 IST",
     "item_count": 5,
-    "content_hash": "284294306b833780f0a8d2dbf75b613b345cae09189d101beb893aa801520ea6",
-    "previous_hash": "5ae84936c9e5601d61a843178c4470e20aceade6b2db8f6f7453692b4c91f459",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "95eeed1ce02fb49eee152a6afdc6a026a8caf100a7cca657ccbe21b58e78b588",
+    "previous_hash": "284294306b833780f0a8d2dbf75b613b345cae09189d101beb893aa801520ea6",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47611721,
       "title": "IBM Announces Strategic Collaboration with Arm",
       "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "score": 52,
-      "comments": 12
+      "score": 89,
+      "comments": 46
     },
     {
       "id": 47611481,
       "title": "Bringing Clojure programming to Enterprise (2021)",
       "url": "https://blogit.michelin.io/clojure-programming/",
-      "score": 40,
-      "comments": 7
+      "score": 63,
+      "comments": 9
     },
     {
       "id": 47603657,
       "title": "Artemis II Launch Day Updates",
       "url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-      "score": 923,
-      "comments": 795
+      "score": 949,
+      "comments": 809
     },
     {
       "id": 47582987,
       "title": "Gone (Almost) Phishin'",
       "url": "https://ma.tt/2026/03/gone-almost-phishin/",
-      "score": 26,
-      "comments": 8
+      "score": 54,
+      "comments": 24
     },
     {
-      "id": 47609694,
-      "title": "Email obfuscation: What works in 2026?",
-      "url": "https://spencermortensen.com/articles/email-obfuscation/",
-      "score": 133,
-      "comments": 36
+      "id": 47611921,
+      "title": "Significant Raise of Reports",
+      "url": "https://lwn.net/Articles/1065620/",
+      "score": 21,
+      "comments": 9
     }
   ]
 }
