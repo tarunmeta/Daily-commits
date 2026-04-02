@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-02 16:30:50 UTC",
-    "fetched_at_ist": "2026-04-02 22:00:50 IST",
+    "fetched_at_utc": "2026-04-02 17:35:20 UTC",
+    "fetched_at_ist": "2026-04-02 23:05:20 IST",
     "item_count": 5,
-    "content_hash": "f668a7ca61379a903181afb197f8c6bcdaa9bdbb71fe56aeea44dcb36074c92f",
-    "previous_hash": "dbf45130d456ff0e8cb3c984c7be2acb85c79478b124ffe3a2480c6887efcefe",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "059bbe5f5cff43ad66efc6ff2887e4855c44f830c57f659a42a613a9fbb84a47",
+    "previous_hash": "f668a7ca61379a903181afb197f8c6bcdaa9bdbb71fe56aeea44dcb36074c92f",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47613981,
-      "title": "LinkedIn Is Illegally Searching Your Computer",
-      "url": "https://browsergate.eu/",
-      "score": 905,
-      "comments": 407
-    },
-    {
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 89,
-      "comments": 7
+      "score": 336,
+      "comments": 81
     },
     {
-      "id": 47615002,
-      "title": "Qwen3.6-Plus: Towards Real World Agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 161,
-      "comments": 65
+      "id": 47613981,
+      "title": "LinkedIn Is Illegally Searching Your Computer",
+      "url": "https://browsergate.eu/",
+      "score": 1085,
+      "comments": 495
+    },
+    {
+      "id": 47617027,
+      "title": "A $1.75T IPO Would Be Overpaying 30% for SpaceX",
+      "url": "https://futuresearch.ai/spacex-ipo-valuation/",
+      "score": 37,
+      "comments": 22
     },
     {
       "id": 47615434,
       "title": "Delve allegedly forked an open-source tool and sold it as its own",
       "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "score": 76,
-      "comments": 38
+      "score": 139,
+      "comments": 64
     },
     {
-      "id": 47612724,
-      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-      "url": "https://lemonade-server.ai",
-      "score": 245,
-      "comments": 60
+      "id": 47615002,
+      "title": "Qwen3.6-Plus: Towards Real World Agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "score": 215,
+      "comments": 79
     }
   ]
 }
