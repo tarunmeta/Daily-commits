@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-02 19:36:10 UTC",
-    "fetched_at_ist": "2026-04-03 01:06:10 IST",
+    "fetched_at_utc": "2026-04-02 22:33:33 UTC",
+    "fetched_at_ist": "2026-04-03 04:03:33 IST",
     "item_count": 5,
-    "content_hash": "41d85a1f1c4dacc13453bcf35083421903230cbaa25480e21f2fe858344a18cd",
-    "previous_hash": "816e8c2b8fe6cd2ee18b02bfb88241fac9fe7788aad95a817f29a1905d2574a7",
+    "content_hash": "4cf732cbf4411803f0fc53fed47e15aa229115dcfffcd96d503b6a01ba3aa3fc",
+    "previous_hash": "41d85a1f1c4dacc13453bcf35083421903230cbaa25480e21f2fe858344a18cd",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 47616361,
       "title": "Google releases Gemma 4 open models",
       "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "score": 682,
-      "comments": 187
+      "score": 946,
+      "comments": 291
     },
     {
       "id": 47618189,
-      "title": "Tailscale's New macOS Home",
+      "title": "Tailscale's new macOS home",
       "url": "https://tailscale.com/blog/macos-notch-escape",
-      "score": 87,
-      "comments": 32
+      "score": 233,
+      "comments": 112
+    },
+    {
+      "id": 47618084,
+      "title": "Cursor 3",
+      "url": "https://cursor.com/blog/cursor-3",
+      "score": 216,
+      "comments": 174
+    },
+    {
+      "id": 47609356,
+      "title": "Artemis II's toilet is a moon mission milestone",
+      "url": "https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/",
+      "score": 63,
+      "comments": 21
     },
     {
       "id": 47618176,
-      "title": "George Goble died recently – known for first dual-CPU-Unix and fast BBQ lighting",
+      "title": "George Goble has died",
       "url": "https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779",
-      "score": 38,
-      "comments": 8
-    },
-    {
-      "id": 47615002,
-      "title": "Qwen3.6-Plus: Towards real world agents",
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "score": 314,
-      "comments": 106
-    },
-    {
-      "id": 47613981,
-      "title": "LinkedIn is illegally searching your computer",
-      "url": "https://browsergate.eu/",
-      "score": 1314,
-      "comments": 595
+      "score": 81,
+      "comments": 17
     }
   ]
 }
