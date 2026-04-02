@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-02 (last updated: 14:45 IST)
+
+## 📅 2026-04-02 (last updated: 16:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-02 05:32:35 IST | d94445e3c105 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-02 05:32:36 IST | 5ae84936c9e5 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-02 16:00:18 IST | 284294306b83 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-02 14:45:26 IST | 6b28318d3720 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 93 stars today
 
 ### 📰 Hacker News Stories
-- [DRAM pricing is killing the hobbyist SBC market](https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/) — Score: 221
-- [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701) — Score: 23
-- [Artemis II lifts off: four astronauts begin 10-day lunar mission](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates) — Score: 251
-- [EmDash – A spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/) — Score: 435
-- [Signing data structures the wrong way](https://blog.foks.pub/posts/domain-separation-in-idl/) — Score: 66
+- [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) — Score: 52
+- [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) — Score: 40
+- [Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/) — Score: 923
+- [Gone (Almost) Phishin'](https://ma.tt/2026/03/gone-almost-phishin/) — Score: 26
+- [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/) — Score: 133
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,372.0 🔴 -3.03%
