@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-02 (last updated: 20:46 IST)
+
+## 📅 2026-04-02 (last updated: 22:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-02 05:32:35 IST | d94445e3c105 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-02 18:08:08 IST | dbf45130d456 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-02 22:00:50 IST | f668a7ca6137 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-02 20:46:45 IST | 954db198eed9 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 93 stars today
 
 ### 📰 Hacker News Stories
-- [IBM Announces Strategic Collaboration with Arm](https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing) — Score: 128
-- [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) — Score: 21
-- [Sweden goes back to basics, swapping screens for books in the classroom](https://undark.org/2026/04/01/sweden-schools-books/) — Score: 151
-- [Inside Nepal's Fake Rescue Racket](https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket) — Score: 14
-- [Bringing Clojure programming to Enterprise (2021)](https://blogit.michelin.io/clojure-programming/) — Score: 91
+- [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/) — Score: 905
+- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) — Score: 89
+- [Qwen3.6-Plus: Towards Real World Agents](https://qwen.ai/blog?id=qwen3.6) — Score: 161
+- [Delve allegedly forked an open-source tool and sold it as its own](https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/) — Score: 76
+- [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai) — Score: 245
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,884.0 🔴 -2.42%

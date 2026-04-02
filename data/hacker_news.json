@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-02 12:38:08 UTC",
-    "fetched_at_ist": "2026-04-02 18:08:08 IST",
+    "fetched_at_utc": "2026-04-02 16:30:50 UTC",
+    "fetched_at_ist": "2026-04-02 22:00:50 IST",
     "item_count": 5,
-    "content_hash": "dbf45130d456ff0e8cb3c984c7be2acb85c79478b124ffe3a2480c6887efcefe",
-    "previous_hash": "95eeed1ce02fb49eee152a6afdc6a026a8caf100a7cca657ccbe21b58e78b588",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "f668a7ca61379a903181afb197f8c6bcdaa9bdbb71fe56aeea44dcb36074c92f",
+    "previous_hash": "dbf45130d456ff0e8cb3c984c7be2acb85c79478b124ffe3a2480c6887efcefe",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47611721,
-      "title": "IBM Announces Strategic Collaboration with Arm",
-      "url": "https://newsroom.ibm.com/2026-04-02-ibm-announces-strategic-collaboration-with-arm-to-shape-the-future-of-enterprise-computing",
-      "score": 128,
-      "comments": 72
+      "id": 47613981,
+      "title": "LinkedIn Is Illegally Searching Your Computer",
+      "url": "https://browsergate.eu/",
+      "score": 905,
+      "comments": 407
+    },
+    {
+      "id": 47616361,
+      "title": "Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "score": 89,
+      "comments": 7
+    },
+    {
+      "id": 47615002,
+      "title": "Qwen3.6-Plus: Towards Real World Agents",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "score": 161,
+      "comments": 65
+    },
+    {
+      "id": 47615434,
+      "title": "Delve allegedly forked an open-source tool and sold it as its own",
+      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "score": 76,
+      "comments": 38
     },
     {
       "id": 47612724,
       "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
       "url": "https://lemonade-server.ai",
-      "score": 21,
-      "comments": 4
-    },
-    {
-      "id": 47612601,
-      "title": "Sweden goes back to basics, swapping screens for books in the classroom",
-      "url": "https://undark.org/2026/04/01/sweden-schools-books/",
-      "score": 151,
-      "comments": 73
-    },
-    {
-      "id": 47613078,
-      "title": "Inside Nepal's Fake Rescue Racket",
-      "url": "https://kathmandupost.com/money/2026/03/27/inside-nepal-s-fake-rescue-racket",
-      "score": 14,
-      "comments": 0
-    },
-    {
-      "id": 47611481,
-      "title": "Bringing Clojure programming to Enterprise (2021)",
-      "url": "https://blogit.michelin.io/clojure-programming/",
-      "score": 91,
-      "comments": 22
+      "score": 245,
+      "comments": 60
     }
   ]
 }
