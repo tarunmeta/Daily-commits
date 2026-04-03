@@ -23,18 +23,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-03 (last updated: 10:50 IST)
+
+## 📅 2026-04-03 (last updated: 22:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-02 05:32:35 IST | d94445e3c105 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-03 04:03:33 IST | 4cf732cbf441 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-03 22:12:26 IST | b74e02662ef5 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-03 10:50:46 IST | 82f2084b3c3b | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 93 stars today
 
 ### 📰 Hacker News Stories
-- [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) — Score: 946
-- [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) — Score: 233
-- [Cursor 3](https://cursor.com/blog/cursor-3) — Score: 216
-- [Artemis II's toilet is a moon mission milestone](https://www.scientificamerican.com/article/artemis-iis-toilet-is-a-moon-mission-milestone/) — Score: 63
-- [George Goble has died](https://www.legacy.com/us/obituaries/wlfi/name/george-goble-obituary?id=61144779) — Score: 81
+- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) — Score: 322
+- [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/) — Score: 256
+- [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html) — Score: 42
+- [Samsung Magician disk utility takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html) — Score: 181
+- [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5) — Score: 191
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,516.0 🟢 +0.10%
