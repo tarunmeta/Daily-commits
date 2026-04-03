@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 20:38:39 UTC",
-    "fetched_at_ist": "2026-04-04 02:08:39 IST",
+    "fetched_at_utc": "2026-04-03 22:43:02 UTC",
+    "fetched_at_ist": "2026-04-04 04:13:02 IST",
     "item_count": 5,
-    "content_hash": "f7f601772946366eb2a78c8731f61485167a36dc57d59f2c77b4ade582c90e40",
-    "previous_hash": "9e9fed23651e11c1cfc7fd9b4e533a3afd467dc0dfdecdafef61109a57c46922",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "3b460c23d9bf40d5660d2ec41f7c2b478b9b01bea309b89480c93ce81bb83529",
+    "previous_hash": "f7f601772946366eb2a78c8731f61485167a36dc57d59f2c77b4ade582c90e40",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47631118,
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 312,
+      "comments": 133
+    },
     {
       "id": 47629433,
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 224,
-      "comments": 61
+      "score": 284,
+      "comments": 85
+    },
+    {
+      "id": 47632750,
+      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
+      "url": "https://github.com/cmc-labo/tinyos-rtos",
+      "score": 19,
+      "comments": 5
+    },
+    {
+      "id": 47586885,
+      "title": "What changes when you turn a Linux box into a router",
+      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+      "score": 56,
+      "comments": 12
     },
     {
       "id": 47625952,
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "score": 549,
-      "comments": 155
-    },
-    {
-      "id": 47618223,
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "score": 141,
-      "comments": 66
-    },
-    {
-      "id": 47631118,
-      "title": "Artemis II crew take 'spectacular' image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 23,
-      "comments": 19
-    },
-    {
-      "id": 47630576,
-      "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
-      "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
-      "score": 27,
-      "comments": 10
+      "score": 601,
+      "comments": 166
     }
   ]
 }
