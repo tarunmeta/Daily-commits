@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 18:01:22 UTC",
-    "fetched_at_ist": "2026-04-03 23:31:22 IST",
+    "fetched_at_utc": "2026-04-03 20:38:39 UTC",
+    "fetched_at_ist": "2026-04-04 02:08:39 IST",
     "item_count": 5,
-    "content_hash": "9e9fed23651e11c1cfc7fd9b4e533a3afd467dc0dfdecdafef61109a57c46922",
-    "previous_hash": "b74e02662ef592e7aed122e67354d736e160d042f6932f7ec63dd9535a13d405",
+    "content_hash": "f7f601772946366eb2a78c8731f61485167a36dc57d59f2c77b4ade582c90e40",
+    "previous_hash": "9e9fed23651e11c1cfc7fd9b4e533a3afd467dc0dfdecdafef61109a57c46922",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47629433,
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 40,
-      "comments": 8
+      "score": 224,
+      "comments": 61
     },
     {
       "id": 47625952,
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "score": 433,
-      "comments": 132
+      "score": 549,
+      "comments": 155
     },
     {
-      "id": 47629505,
-      "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
-      "url": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
-      "score": 11,
-      "comments": 0
+      "id": 47618223,
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "score": 141,
+      "comments": 66
     },
     {
-      "id": 47567222,
-      "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
-      "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
-      "score": 245,
-      "comments": 132
+      "id": 47631118,
+      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "score": 23,
+      "comments": 19
     },
     {
-      "id": 47562325,
-      "title": "Understanding young news audiences at a time of rapid change",
-      "url": "https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change",
-      "score": 16,
-      "comments": 1
+      "id": 47630576,
+      "title": "How to Make a Sliding, Self-Locking, and Predator-Proof Chicken Coop Door (2020)",
+      "url": "https://www.backyardchickens.com/articles/how-to-make-a-sliding-self-locking-and-predator-proof-chicken-coop-door.75906/",
+      "score": 27,
+      "comments": 10
     }
   ]
 }
