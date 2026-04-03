@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 16:42:26 UTC",
-    "fetched_at_ist": "2026-04-03 22:12:26 IST",
+    "fetched_at_utc": "2026-04-03 18:01:22 UTC",
+    "fetched_at_ist": "2026-04-03 23:31:22 IST",
     "item_count": 5,
-    "content_hash": "b74e02662ef592e7aed122e67354d736e160d042f6932f7ec63dd9535a13d405",
-    "previous_hash": "4cf732cbf4411803f0fc53fed47e15aa229115dcfffcd96d503b6a01ba3aa3fc",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "9e9fed23651e11c1cfc7fd9b4e533a3afd467dc0dfdecdafef61109a57c46922",
+    "previous_hash": "b74e02662ef592e7aed122e67354d736e160d042f6932f7ec63dd9535a13d405",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47629433,
+      "title": "iNaturalist",
+      "url": "https://www.inaturalist.org/",
+      "score": 40,
+      "comments": 8
+    },
+    {
       "id": 47625952,
       "title": "Show HN: I built a frontpage for personal blogs",
       "url": "https://text.blogosphere.app/",
-      "score": 322,
-      "comments": 112
+      "score": 433,
+      "comments": 132
     },
     {
-      "id": 47627056,
-      "title": "Marc Andreessen is wrong about introspection",
-      "url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
-      "score": 256,
-      "comments": 223
-    },
-    {
-      "id": 47626462,
-      "title": "Big-Endian Testing with QEMU",
-      "url": "https://www.hanshq.net/big-endian-qemu.html",
-      "score": 42,
-      "comments": 25
+      "id": 47629505,
+      "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+      "url": "https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/",
+      "score": 11,
+      "comments": 0
     },
     {
       "id": 47567222,
       "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
       "url": "https://chalmovsky.com/2026/03/29/samsung-magician.html",
-      "score": 181,
-      "comments": 98
+      "score": 245,
+      "comments": 132
     },
     {
-      "id": 47624731,
-      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-      "score": 191,
-      "comments": 81
+      "id": 47562325,
+      "title": "Understanding young news audiences at a time of rapid change",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change",
+      "score": 16,
+      "comments": 1
     }
   ]
 }

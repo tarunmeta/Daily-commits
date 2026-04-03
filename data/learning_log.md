@@ -25,44 +25,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-03 (last updated: 22:50 IST)
+
+## 📅 2026-04-03 (last updated: 23:31 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-02 05:32:35 IST | d94445e3c105 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-03 22:12:26 IST | b74e02662ef5 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-03 22:50:37 IST | 381d3734b88e | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 7 | 2026-04-03 23:31:21 IST | 347192ee4d82 | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-03 23:31:22 IST | 9e9fed23651e | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-03 23:31:22 IST | eb666bf888a4 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[anthropics/claude-code](https://github.com/anthropics/claude-code)** (Shell) — Claude Code is an agentic coding tool that lives in your terminal, understands y  
-  ⭐ 10,749 stars today
-- **[microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)** (Python) — Open-Source Frontier Voice AI  
-  ⭐ 1,685 stars today
+- **[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** (TypeScript) — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so  
+  ⭐ 2,984 stars today
+- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (Python) — Open Source AI Platform - AI Chat with advanced features that works with every L  
+  ⭐ 1,872 stars today
 - **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
-  ⭐ 380 stars today
-- **[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)** (Python) — A visual, example-driven guide to Claude Code — from basic concepts to advanced   
-  ⭐ 3,301 stars today
-- **[axios/axios](https://github.com/axios/axios)** (JavaScript) — Promise based HTTP client for the browser and node.js  
-  ⭐ 93 stars today
+  ⭐ 912 stars today
+- **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** (TypeScript) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  
+  ⭐ 2,855 stars today
+- **[dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** (Rust) — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus  
+  ⭐ 767 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) — Score: 322
-- [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/) — Score: 256
-- [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html) — Score: 42
-- [Samsung Magician disk utility takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html) — Score: 181
-- [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5) — Score: 191
+- [iNaturalist](https://www.inaturalist.org/) — Score: 40
+- [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) — Score: 433
+- [Solana Drift Protocol drained of $285M via fake token and governance hijack](https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/) — Score: 11
+- [Samsung Magician disk utility takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html) — Score: 245
+- [Understanding young news audiences at a time of rapid change](https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change) — Score: 16
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,800.0 🔴 -0.86%
-- Ethereum: $2,046.73 🔴 -1.09%
-- Solana: $80.27 🟢 +1.06%
-- Bnb: $587.64 🟢 +0.96%
+- Bitcoin: $66,846.0 🟢 +0.25%
+- Ethereum: $2,050.28 🟢 +0.21%
+- Solana: $80.2 🟢 +1.92%
+- Bnb: $588.32 🟢 +1.61%
 
 ---
 ## 📅 2026-04-02 (last updated: 23:05 IST)

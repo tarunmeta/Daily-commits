@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-03 17:20:37 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-03 18:01:22 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **anthropics/claude-code**
-- BTC: **$66,800.0** ↓ (-0.86%)
-- HN top story: **Show HN: I built a frontpage for personal blogs**
+- Top GitHub repo: **Yeachan-Heo/oh-my-codex**
+- BTC: **$66,846.0** ↑ (+0.25%)
+- HN top story: **iNaturalist**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-02 00:02:35 UTC | `d94445e3c105` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-03 16:42:26 UTC | `b74e02662ef5` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-03 17:20:37 UTC | `381d3734b88e` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 7 | 2026-04-03 18:01:21 UTC | `347192ee4d82` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-03 18:01:22 UTC | `9e9fed23651e` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-03 18:01:22 UTC | `eb666bf888a4` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-03` |
-| Commits Today | `22` / `100` |
-| Remaining Today | `78` |
-| Progress | `████░░░░░░░░░░░░░░░░` 22% |
+| Commits Today | `23` / `100` |
+| Remaining Today | `77` |
+| Progress | `████░░░░░░░░░░░░░░░░` 23% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-03 22:12:26 IST` |
+| Last Commit (IST) | `2026-04-03 22:50:38 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,38 +48,38 @@
 | 2026-03-31 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-04-01 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-02 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-04-03 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
+| 2026-04-03 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,800.0 | -0.86% | 🔴 |
-| Ethereum | $2,046.73 | -1.09% | 🔴 |
-| Solana | $80.27 | +1.06% | 🟢 |
-| Bnb | $587.64 | +0.96% | 🟢 |
+| Bitcoin | $66,846.0 | +0.25% | 🟢 |
+| Ethereum | $2,050.28 | +0.21% | 🟢 |
+| Solana | $80.2 | +1.92% | 🟢 |
+| Bnb | $588.32 | +1.61% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | 10,749 stars today | Claude Code is an agentic coding tool that lives in your terminal, understands y… |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 1,685 stars today | Open-Source Frontier Voice AI |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 380 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | 3,301 stars today | A visual, example-driven guide to Claude Code — from basic concepts to advanced … |
-| [axios/axios](https://github.com/axios/axios) | JavaScript | 93 stars today | Promise based HTTP client for the browser and node.js |
-| [openai/codex](https://github.com/openai/codex) | Rust | 2,390 stars today | Lightweight coding agent that runs in your terminal |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 398 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 2,984 stars today | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so… |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 1,872 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 912 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,855 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 767 stars today | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus… |
+| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 369 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 1,230 stars today | Hunt down social media accounts by username across social networks |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) | 322 | 112 |
-| [Marc Andreessen is wrong about introspection](https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/) | 256 | 223 |
-| [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html) | 42 | 25 |
-| [Samsung Magician disk utility takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html) | 181 | 98 |
-| [April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini](https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5) | 191 | 81 |
+| [iNaturalist](https://www.inaturalist.org/) | 40 | 8 |
+| [Show HN: I built a frontpage for personal blogs](https://text.blogosphere.app/) | 433 | 132 |
+| [Solana Drift Protocol drained of $285M via fake token and governance hijack](https://anonhaven.com/en/news/drift-protocol-hack-285-million-solana/) | 11 | 0 |
+| [Samsung Magician disk utility takes 18 steps and two reboots to uninstall](https://chalmovsky.com/2026/03/29/samsung-magician.html) | 245 | 132 |
+| [Understanding young news audiences at a time of rapid change](https://reutersinstitute.politics.ox.ac.uk/understanding-young-news-audiences-time-rapid-change) | 16 | 1 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
