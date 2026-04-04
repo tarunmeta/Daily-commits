@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-04 15:34:55 UTC",
-    "fetched_at_ist": "2026-04-04 21:04:55 IST",
+    "fetched_at_utc": "2026-04-04 17:32:36 UTC",
+    "fetched_at_ist": "2026-04-04 23:02:36 IST",
     "item_count": 5,
-    "content_hash": "1ce4c74d4c295a9ea84f56e96933530b19600a8d16d568a26aaf4ee1136a1c05",
-    "previous_hash": "31c0dea30318c5e5a0e7e4664ea0c18c423583e822e627a5f48ddedd566fc3c1",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "38d8c6c6c8b865861202d051e94fc0a6251e8e2938d199751e819cbb0814aeb2",
+    "previous_hash": "1ce4c74d4c295a9ea84f56e96933530b19600a8d16d568a26aaf4ee1136a1c05",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47640728,
+      "title": "Show HN: A game where you build a GPU",
+      "url": "https://jaso1024.com/mvidia/",
+      "score": 48,
+      "comments": 4
+    },
+    {
       "id": 47637757,
       "title": "Simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "score": 273,
-      "comments": 77
+      "score": 362,
+      "comments": 110
     },
     {
-      "id": 47639524,
-      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
-      "score": 70,
-      "comments": 12
+      "id": 47640722,
+      "title": "12,000 AI-generated blog posts added in a single commit",
+      "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+      "score": 24,
+      "comments": 4
     },
     {
-      "id": 47637287,
-      "title": "Some Unusual Trees",
-      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "score": 127,
-      "comments": 35
+      "id": 47639567,
+      "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
+      "url": "https://github.com/teamchong/turboquant-wasm",
+      "score": 48,
+      "comments": 2
     },
     {
-      "id": 47633396,
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "url": "https://news.ycombinator.com/item?id=47633396",
-      "score": 878,
-      "comments": 685
-    },
-    {
-      "id": 47631118,
-      "title": "Artemis II crew take “spectacular” image of Earth",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 895,
-      "comments": 308
+      "id": 47639779,
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "score": 30,
+      "comments": 17
     }
   ]
 }
