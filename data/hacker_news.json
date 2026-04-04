@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-03 22:43:02 UTC",
-    "fetched_at_ist": "2026-04-04 04:13:02 IST",
+    "fetched_at_utc": "2026-04-04 09:40:28 UTC",
+    "fetched_at_ist": "2026-04-04 15:10:28 IST",
     "item_count": 5,
-    "content_hash": "3b460c23d9bf40d5660d2ec41f7c2b478b9b01bea309b89480c93ce81bb83529",
-    "previous_hash": "f7f601772946366eb2a78c8731f61485167a36dc57d59f2c77b4ade582c90e40",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "8a03ffa649838d8f2b33d25a79b47fd5f080933727401fbd32eb7072893e1222",
+    "previous_hash": "3b460c23d9bf40d5660d2ec41f7c2b478b9b01bea309b89480c93ce81bb83529",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47633396,
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "score": 668,
+      "comments": 550
+    },
+    {
       "id": 47631118,
-      "title": "Artemis II crew take 'spectacular' image of Earth",
+      "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 312,
-      "comments": 133
+      "score": 751,
+      "comments": 264
+    },
+    {
+      "id": 47636435,
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "score": 50,
+      "comments": 37
+    },
+    {
+      "id": 47637287,
+      "title": "Some Unusual Trees",
+      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "score": 4,
+      "comments": 0
     },
     {
       "id": 47629433,
       "title": "iNaturalist",
       "url": "https://www.inaturalist.org/",
-      "score": 284,
-      "comments": 85
-    },
-    {
-      "id": 47632750,
-      "title": "Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C",
-      "url": "https://github.com/cmc-labo/tinyos-rtos",
-      "score": 19,
-      "comments": 5
-    },
-    {
-      "id": 47586885,
-      "title": "What changes when you turn a Linux box into a router",
-      "url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
-      "score": 56,
-      "comments": 12
-    },
-    {
-      "id": 47625952,
-      "title": "Show HN: I built a frontpage for personal blogs",
-      "url": "https://text.blogosphere.app/",
-      "score": 601,
-      "comments": 166
+      "score": 420,
+      "comments": 107
     }
   ]
 }
