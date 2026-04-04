@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-04 20:34:51 UTC",
-    "fetched_at_ist": "2026-04-05 02:04:51 IST",
+    "fetched_at_utc": "2026-04-04 22:32:28 UTC",
+    "fetched_at_ist": "2026-04-05 04:02:28 IST",
     "item_count": 5,
-    "content_hash": "6bd8e94e7651f8370f7ce7fcd1e6240de47e5dfbc5bd12eb2fcb675c58d3b82a",
-    "previous_hash": "0cc080ce7c767acfc9df1b55021eb48dd78c54c9c2885770d0705e02e85b608e",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "873b54c9916b74a6ff8bb2ead83140753e045e2afc91826a5347fa9567e60b7b",
+    "previous_hash": "6bd8e94e7651f8370f7ce7fcd1e6240de47e5dfbc5bd12eb2fcb675c58d3b82a",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 297,
-      "comments": 103
+      "score": 384,
+      "comments": 117
     },
     {
       "id": 47642569,
-      "title": "How many products does Microsoft have named 'Copilot'? I mapped every one",
+      "title": "How many products does Microsoft have named 'Copilot'?",
       "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "score": 53,
-      "comments": 17
-    },
-    {
-      "id": 47641615,
-      "title": "Sopwith – 1984 Game (2000)",
-      "url": "http://www.sopwith.org/",
-      "score": 48,
-      "comments": 19
+      "score": 243,
+      "comments": 126
     },
     {
       "id": 47637757,
       "title": "Embarrassingly simple self-distillation improves code generation",
       "url": "https://arxiv.org/abs/2604.01193",
-      "score": 439,
-      "comments": 135
+      "score": 491,
+      "comments": 156
     },
     {
       "id": 47639567,
       "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
       "url": "https://github.com/teamchong/turboquant-wasm",
-      "score": 89,
+      "score": 120,
       "comments": 4
+    },
+    {
+      "id": 47639524,
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "score": 661,
+      "comments": 436
     }
   ]
 }
