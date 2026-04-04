@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-04 09:40:28 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-04 10:17:32 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Yeachan-Heo/oh-my-codex**
-- BTC: **$66,858.0** ↓ (-0.13%)
+- BTC: **$66,909.0** ↑ (+0.11%)
 - HN top story: **Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 7 | 2026-04-03 18:01:21 UTC | `347192ee4d82` | +5 new repos, top changed: yes |
 | Hacker News | 5 | 2026-04-04 09:40:28 UTC | `8a03ffa64983` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-03 23:18:56 UTC | `64eaca40cb16` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-04-04 10:17:32 UTC | `60dbde4790ab` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
 - GitHub: +5 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-04` |
-| Commits Today | `15` / `100` |
-| Remaining Today | `85` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
+| Commits Today | `16` / `100` |
+| Remaining Today | `84` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-04 14:20:22 IST` |
+| Last Commit (IST) | `2026-04-04 15:10:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-01 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-02 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-03 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
-| 2026-04-04 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
+| 2026-04-04 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,858.0 | -0.13% | 🔴 |
-| Ethereum | $2,050.49 | -0.34% | 🔴 |
-| Solana | $80.23 | +1.70% | 🟢 |
-| Bnb | $587.42 | +0.75% | 🟢 |
+| Bitcoin | $66,909.0 | +0.11% | 🟢 |
+| Ethereum | $2,047.9 | -0.53% | 🔴 |
+| Solana | $80.06 | +0.05% | 🟢 |
+| Bnb | $589.97 | +0.84% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
