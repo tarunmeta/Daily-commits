@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-04 17:32:36 UTC",
-    "fetched_at_ist": "2026-04-04 23:02:36 IST",
+    "fetched_at_utc": "2026-04-04 18:02:19 UTC",
+    "fetched_at_ist": "2026-04-04 23:32:19 IST",
     "item_count": 5,
-    "content_hash": "38d8c6c6c8b865861202d051e94fc0a6251e8e2938d199751e819cbb0814aeb2",
-    "previous_hash": "1ce4c74d4c295a9ea84f56e96933530b19600a8d16d568a26aaf4ee1136a1c05",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "0cc080ce7c767acfc9df1b55021eb48dd78c54c9c2885770d0705e02e85b608e",
+    "previous_hash": "38d8c6c6c8b865861202d051e94fc0a6251e8e2938d199751e819cbb0814aeb2",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 48,
-      "comments": 4
-    },
-    {
-      "id": 47637757,
-      "title": "Simple self-distillation improves code generation",
-      "url": "https://arxiv.org/abs/2604.01193",
-      "score": 362,
-      "comments": 110
+      "score": 110,
+      "comments": 24
     },
     {
       "id": 47640722,
       "title": "12,000 AI-generated blog posts added in a single commit",
       "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
-      "score": 24,
-      "comments": 4
+      "score": 82,
+      "comments": 49
+    },
+    {
+      "id": 47637757,
+      "title": "Simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "score": 370,
+      "comments": 112
     },
     {
       "id": 47639567,
       "title": "Show HN: TurboQuant-WASM – Google's vector quantization in the browser",
       "url": "https://github.com/teamchong/turboquant-wasm",
-      "score": 48,
+      "score": 55,
       "comments": 2
     },
     {
-      "id": 47639779,
-      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-      "url": "https://sllm.cloud",
-      "score": 30,
-      "comments": 17
+      "id": 47640380,
+      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
+      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
+      "score": 84,
+      "comments": 19
     }
   ]
 }

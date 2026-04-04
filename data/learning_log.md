@@ -29,44 +29,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-04 (last updated: 23:02 IST)
+
+## 📅 2026-04-04 (last updated: 23:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-03 23:31:21 IST | 347192ee4d82 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-04 23:02:36 IST | 38d8c6c6c8b8 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-04 18:46:11 IST | c6c774b61b20 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 8 | 2026-04-04 23:32:17 IST | 0cd62b65a63a | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-04 23:32:19 IST | 0cc080ce7c76 | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-04 23:32:17 IST | d9c8b9fd4512 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** (TypeScript) — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so  
-  ⭐ 2,984 stars today
+- **[Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** (Python) — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL  
+  ⭐ 316 stars today
 - **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (Python) — Open Source AI Platform - AI Chat with advanced features that works with every L  
-  ⭐ 1,872 stars today
-- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
-  ⭐ 912 stars today
+  ⭐ 1,212 stars today
+- **[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)** (TypeScript) — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so  
+  ⭐ 1,803 stars today
 - **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** (TypeScript) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  
-  ⭐ 2,855 stars today
-- **[dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)** (Rust) — The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus  
-  ⭐ 767 stars today
+  ⭐ 1,600 stars today
+- **[telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop)** (C++) — Telegram Desktop messaging app  
+  ⭐ 282 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 48
-- [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) — Score: 362
-- [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849) — Score: 24
-- [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) — Score: 48
-- [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud) — Score: 30
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 110
+- [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849) — Score: 82
+- [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) — Score: 370
+- [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) — Score: 55
+- [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs) — Score: 84
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $67,092.0 🟢 +0.66%
-- Ethereum: $2,049.89 🟢 +0.17%
-- Solana: $80.08 🟢 +1.01%
-- Bnb: $589.77 🟢 +0.86%
+- Bitcoin: $67,327.0 🟢 +0.73%
+- Ethereum: $2,056.67 🟢 +0.33%
+- Solana: $80.93 🟢 +0.91%
+- Bnb: $592.6 🟢 +0.74%
 
 ---
 ## 📅 2026-04-03 (last updated: 23:31 IST)

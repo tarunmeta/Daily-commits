@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-04 17:32:36 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-04 18:02:19 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Yeachan-Heo/oh-my-codex**
-- BTC: **$67,092.0** ↑ (+0.66%)
+- Top GitHub repo: **Blaizzy/mlx-vlm**
+- BTC: **$67,327.0** ↑ (+0.73%)
 - HN top story: **Show HN: A game where you build a GPU**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 7 | 2026-04-03 18:01:21 UTC | `347192ee4d82` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-04 17:32:36 UTC | `38d8c6c6c8b8` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-04 13:16:11 UTC | `c6c774b61b20` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 8 | 2026-04-04 18:02:17 UTC | `0cd62b65a63a` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-04 18:02:19 UTC | `0cc080ce7c76` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-04 18:02:17 UTC | `d9c8b9fd4512` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-04` |
-| Commits Today | `26` / `100` |
-| Remaining Today | `74` |
-| Progress | `█████░░░░░░░░░░░░░░░` 26% |
+| Commits Today | `27` / `100` |
+| Remaining Today | `73` |
+| Progress | `█████░░░░░░░░░░░░░░░` 27% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-04 22:23:08 IST` |
+| Last Commit (IST) | `2026-04-04 23:02:36 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,38 +48,39 @@
 | 2026-04-01 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-02 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-03 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
-| 2026-04-04 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
+| 2026-04-04 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,092.0 | +0.66% | 🟢 |
-| Ethereum | $2,049.89 | +0.17% | 🟢 |
-| Solana | $80.08 | +1.01% | 🟢 |
-| Bnb | $589.77 | +0.86% | 🟢 |
+| Bitcoin | $67,327.0 | +0.73% | 🟢 |
+| Ethereum | $2,056.67 | +0.33% | 🟢 |
+| Solana | $80.93 | +0.91% | 🟢 |
+| Bnb | $592.6 | +0.74% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 2,984 stars today | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so… |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 1,872 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 912 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,855 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
-| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 767 stars today | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus… |
-| [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | 369 stars today | f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the co… |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 1,230 stars today | Hunt down social media accounts by username across social networks |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | 316 stars today | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL… |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 1,212 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 1,803 stars today | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so… |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 1,600 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
+| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | 282 stars today | Telegram Desktop messaging app |
+| [block/goose](https://github.com/block/goose) | Rust | 947 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
+| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | Python | 66 stars today | A framework for building, orchestrating and deploying AI agents and multi-agent … |
+| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 993 stars today | Hunt down social media accounts by username across social networks |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) | 48 | 4 |
-| [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) | 362 | 110 |
-| [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849) | 24 | 4 |
-| [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) | 48 | 2 |
-| [Show HN: sllm – Split a GPU node with other developers, unlimited tokens](https://sllm.cloud) | 30 | 17 |
+| [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) | 110 | 24 |
+| [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849) | 82 | 49 |
+| [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) | 370 | 112 |
+| [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) | 55 | 2 |
+| [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs) | 84 | 19 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
