@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-04 11:37:47 UTC",
-    "fetched_at_ist": "2026-04-04 17:07:47 IST",
+    "fetched_at_utc": "2026-04-04 15:34:55 UTC",
+    "fetched_at_ist": "2026-04-04 21:04:55 IST",
     "item_count": 5,
-    "content_hash": "31c0dea30318c5e5a0e7e4664ea0c18c423583e822e627a5f48ddedd566fc3c1",
-    "previous_hash": "8a03ffa649838d8f2b33d25a79b47fd5f080933727401fbd32eb7072893e1222",
+    "content_hash": "1ce4c74d4c295a9ea84f56e96933530b19600a8d16d568a26aaf4ee1136a1c05",
+    "previous_hash": "31c0dea30318c5e5a0e7e4664ea0c18c423583e822e627a5f48ddedd566fc3c1",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47633396,
-      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "url": "https://news.ycombinator.com/item?id=47633396",
-      "score": 771,
-      "comments": 599
+      "id": 47637757,
+      "title": "Simple self-distillation improves code generation",
+      "url": "https://arxiv.org/abs/2604.01193",
+      "score": 273,
+      "comments": 77
+    },
+    {
+      "id": 47639524,
+      "title": "Author of \"Careless People\" banned from saying anything negative about Meta",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/sarah-wynn-williams-careless-people-meta-nrffdfpmf",
+      "score": 70,
+      "comments": 12
     },
     {
       "id": 47637287,
       "title": "Some Unusual Trees",
       "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
-      "score": 45,
-      "comments": 14
+      "score": 127,
+      "comments": 35
+    },
+    {
+      "id": 47633396,
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "score": 878,
+      "comments": 685
     },
     {
       "id": 47631118,
       "title": "Artemis II crew take “spectacular” image of Earth",
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-      "score": 799,
-      "comments": 280
-    },
-    {
-      "id": 47637757,
-      "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
-      "url": "https://arxiv.org/abs/2604.01193",
-      "score": 15,
-      "comments": 0
-    },
-    {
-      "id": 47629433,
-      "title": "iNaturalist",
-      "url": "https://www.inaturalist.org/",
-      "score": 446,
-      "comments": 108
+      "score": 895,
+      "comments": 308
     }
   ]
 }
