@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-04-05 (last updated: 23:32 IST)
+
+## 📅 2026-04-05 (last updated: 02:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-04-04 23:32:17 IST | 0cd62b65a63a | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-04 23:32:19 IST | 0cc080ce7c76 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-05 02:04:51 IST | 6bd8e94e7651 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-04-04 23:32:17 IST | d9c8b9fd4512 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 282 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 110
-- [12,000 AI-generated blog posts added in a single commit](https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849) — Score: 82
-- [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) — Score: 370
-- [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) — Score: 55
-- [Apple approves driver that lets Nvidia eGPUs work with Arm Macs](https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs) — Score: 84
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 297
+- [How many products does Microsoft have named 'Copilot'? I mapped every one](https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html) — Score: 53
+- [Sopwith – 1984 Game (2000)](http://www.sopwith.org/) — Score: 48
+- [Embarrassingly simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193) — Score: 439
+- [Show HN: TurboQuant-WASM – Google's vector quantization in the browser](https://github.com/teamchong/turboquant-wasm) — Score: 89
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,327.0 🟢 +0.73%
