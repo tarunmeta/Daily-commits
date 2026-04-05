@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-05 (last updated: 11:50 IST)
+
+## 📅 2026-04-05 (last updated: 13:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-04-04 23:32:17 IST | 0cd62b65a63a | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-05 08:10:16 IST | fc8cebbdca0b | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-05 13:08:14 IST | 0bf09210c21b | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-05 11:50:15 IST | 87f81e936eab | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 282 stars today
 
 ### 📰 Hacker News Stories
-- [Introduction to Computer Music [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) — Score: 18
-- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 525
-- [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen) — Score: 112
-- [LLM Wiki – example of an "idea file"](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — Score: 81
-- [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) — Score: 32
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 656
+- [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) — Score: 126
+- [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen) — Score: 228
+- [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/) — Score: 153
+- [Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs](https://zml.ai/posts/zml-smi/) — Score: 24
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,634.0 🔴 -0.46%

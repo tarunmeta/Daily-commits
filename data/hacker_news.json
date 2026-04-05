@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-05 02:40:16 UTC",
-    "fetched_at_ist": "2026-04-05 08:10:16 IST",
+    "fetched_at_utc": "2026-04-05 07:38:14 UTC",
+    "fetched_at_ist": "2026-04-05 13:08:14 IST",
     "item_count": 5,
-    "content_hash": "fc8cebbdca0b32b44570fca27be9116a0c05e6fa6b7a73d43ce2eb24fe71a4c0",
-    "previous_hash": "873b54c9916b74a6ff8bb2ead83140753e045e2afc91826a5347fa9567e60b7b",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "0bf09210c21b46c78a89cad55219368d3d6ca59e11a5cc4b9cd974e60d9bb076",
+    "previous_hash": "fc8cebbdca0b32b44570fca27be9116a0c05e6fa6b7a73d43ce2eb24fe71a4c0",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47645432,
-      "title": "Introduction to Computer Music [pdf]",
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 18,
-      "comments": 2
-    },
-    {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 525,
-      "comments": 138
+      "score": 656,
+      "comments": 148
+    },
+    {
+      "id": 47645432,
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "score": 126,
+      "comments": 34
     },
     {
       "id": 47595695,
       "title": "OpenScreen is an open-source alternative to Screen Studio",
       "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 112,
-      "comments": 16
+      "score": 228,
+      "comments": 43
     },
     {
-      "id": 47640875,
-      "title": "LLM Wiki – example of an \"idea file\"",
-      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "score": 81,
-      "comments": 20
+      "id": 47644406,
+      "title": "German implementation of eIDAS will require an Apple/Google account to function",
+      "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
+      "score": 153,
+      "comments": 103
     },
     {
-      "id": 47644566,
-      "title": "Advice to Young People, the Lies I Tell Myself (2024)",
-      "url": "https://jxnl.co/writing/2024/06/01/advice-to-young-people/",
-      "score": 32,
-      "comments": 8
+      "id": 47587089,
+      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
+      "url": "https://zml.ai/posts/zml-smi/",
+      "score": 24,
+      "comments": 3
     }
   ]
 }
