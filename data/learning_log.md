@@ -18,13 +18,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-05 (last updated: 13:54 IST)
+
+## 📅 2026-04-05 (last updated: 16:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-04-04 23:32:17 IST | 0cd62b65a63a | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-05 13:08:14 IST | 0bf09210c21b | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-05 16:11:51 IST | cf0b81e66d36 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-05 13:54:11 IST | 9ea42a5cca54 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 282 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 656
-- [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) — Score: 126
-- [OpenScreen is an open-source alternative to Screen Studio](https://github.com/siddharthvaddem/openscreen) — Score: 228
-- [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/) — Score: 153
-- [Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs](https://zml.ai/posts/zml-smi/) — Score: 24
+- [Talk like caveman](https://github.com/JuliusBrussee/caveman) — Score: 46
+- [Lisette a little language inspired by Rust that compiles to Go](https://lisette.run/) — Score: 76
+- [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/) — Score: 770
+- [German implementation of eIDAS will require an Apple/Google account to function](https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/) — Score: 292
+- [Introduction to Computer Music (2009) [pdf]](https://composerprogrammer.com/introductiontocomputermusic.pdf) — Score: 161
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,878.0 🔴 -0.19%

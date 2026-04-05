@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-05 07:38:14 UTC",
-    "fetched_at_ist": "2026-04-05 13:08:14 IST",
+    "fetched_at_utc": "2026-04-05 10:41:51 UTC",
+    "fetched_at_ist": "2026-04-05 16:11:51 IST",
     "item_count": 5,
-    "content_hash": "0bf09210c21b46c78a89cad55219368d3d6ca59e11a5cc4b9cd974e60d9bb076",
-    "previous_hash": "fc8cebbdca0b32b44570fca27be9116a0c05e6fa6b7a73d43ce2eb24fe71a4c0",
+    "content_hash": "cf0b81e66d36c2cfea2d3f35ca6afddc6f61c1d5adbb81fdd0ea02da9e5580ea",
+    "previous_hash": "0bf09210c21b46c78a89cad55219368d3d6ca59e11a5cc4b9cd974e60d9bb076",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47647455,
+      "title": "Talk like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 46,
+      "comments": 25
+    },
+    {
+      "id": 47646843,
+      "title": "Lisette a little language inspired by Rust that compiles to Go",
+      "url": "https://lisette.run/",
+      "score": 76,
+      "comments": 35
+    },
+    {
       "id": 47640728,
       "title": "Show HN: A game where you build a GPU",
       "url": "https://jaso1024.com/mvidia/",
-      "score": 656,
-      "comments": 148
-    },
-    {
-      "id": 47645432,
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "score": 126,
-      "comments": 34
-    },
-    {
-      "id": 47595695,
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "score": 228,
-      "comments": 43
+      "score": 770,
+      "comments": 160
     },
     {
       "id": 47644406,
       "title": "German implementation of eIDAS will require an Apple/Google account to function",
       "url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-      "score": 153,
-      "comments": 103
+      "score": 292,
+      "comments": 246
     },
     {
-      "id": 47587089,
-      "title": "Zml-smi: universal monitoring tool for GPUs, TPUs and NPUs",
-      "url": "https://zml.ai/posts/zml-smi/",
-      "score": 24,
-      "comments": 3
+      "id": 47645432,
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "score": 161,
+      "comments": 53
     }
   ]
 }
