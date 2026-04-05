@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-05 20:36:35 UTC",
-    "fetched_at_ist": "2026-04-06 02:06:35 IST",
+    "fetched_at_utc": "2026-04-05 22:33:49 UTC",
+    "fetched_at_ist": "2026-04-06 04:03:49 IST",
     "item_count": 5,
-    "content_hash": "9b8fb8573e7e4d497aaefbec7416b01be73e62377e17225ee78df2f35c68b247",
-    "previous_hash": "e04aee7f5848398ef577da73b4d7b508494aa751329b765059eb657c78099fd3",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "f7657130645c9a97a79b9b7b271064306eefac54a38f989afabcf92ac05df42e",
+    "previous_hash": "9b8fb8573e7e4d497aaefbec7416b01be73e62377e17225ee78df2f35c68b247",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47652561,
       "title": "Gemma 4 on iPhone",
       "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 101,
-      "comments": 21
+      "score": 258,
+      "comments": 73
     },
     {
       "id": 47637377,
       "title": "LÖVE: 2D Game Framework for Lua",
       "url": "https://github.com/love2d/love",
-      "score": 50,
-      "comments": 16
+      "score": 126,
+      "comments": 42
     },
     {
       "id": 47649721,
       "title": "Artemis II crew see first glimpse of far side of Moon [video]",
       "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "score": 306,
-      "comments": 219
+      "score": 359,
+      "comments": 280
     },
     {
       "id": 47648828,
       "title": "Eight years of wanting, three months of building with AI",
       "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-      "score": 426,
-      "comments": 130
+      "score": 519,
+      "comments": 163
     },
     {
-      "id": 47647455,
-      "title": "Caveman: Why use many token when few token do trick",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 563,
-      "comments": 276
+      "id": 47651540,
+      "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+      "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+      "score": 118,
+      "comments": 30
     }
   ]
 }

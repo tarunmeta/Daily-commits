@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-06 (last updated: 02:06 IST)
+
+## 📅 2026-04-06 (last updated: 04:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-05 23:32:52 IST | b65055f134f2 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-06 02:06:35 IST | 9b8fb8573e7e | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-06 04:03:49 IST | f7657130645c | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-04-05 23:32:53 IST | c92188a47c05 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 960 stars today
 
 ### 📰 Hacker News Stories
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 101
-- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 50
-- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) — Score: 306
-- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) — Score: 426
-- [Caveman: Why use many token when few token do trick](https://github.com/JuliusBrussee/caveman) — Score: 563
+- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 258
+- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 126
+- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) — Score: 359
+- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) — Score: 519
+- [Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with) — Score: 118
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,290.0 🔴 -0.02%
