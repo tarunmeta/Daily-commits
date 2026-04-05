@@ -13,19 +13,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-05 (last updated: 08:10 IST)
+
+## 📅 2026-04-05 (last updated: 11:50 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 8 | 2026-04-04 23:32:17 IST | 0cd62b65a63a | +4 new repos, top changed: yes |
 | Hacker News | 5 | 2026-04-05 08:10:16 IST | fc8cebbdca0b | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-04 23:32:17 IST | d9c8b9fd4512 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-04-05 11:50:15 IST | 87f81e936eab | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** (Python) — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL  
@@ -47,10 +48,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Advice to Young People, the Lies I Tell Myself (2024)](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) — Score: 32
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $67,327.0 🟢 +0.73%
-- Ethereum: $2,056.67 🟢 +0.33%
-- Solana: $80.93 🟢 +0.91%
-- Bnb: $592.6 🟢 +0.74%
+- Bitcoin: $66,634.0 🔴 -0.46%
+- Ethereum: $2,028.86 🔴 -1.26%
+- Solana: $79.58 🔴 -0.84%
+- Bnb: $588.14 🔴 -0.58%
 
 ---
 ## 📅 2026-04-04 (last updated: 23:32 IST)
