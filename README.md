@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-05 17:33:39 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-05 18:02:53 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Blaizzy/mlx-vlm**
-- BTC: **$67,055.0** ↓ (-0.09%)
-- HN top story: **Codex is switching to API pricing based usage for all users**
+- Top GitHub repo: **google-ai-edge/gallery**
+- BTC: **$67,290.0** ↓ (-0.02%)
+- HN top story: **Artemis II crew see first glimpse of far side of Moon [video]**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 8 | 2026-04-04 18:02:17 UTC | `0cd62b65a63a` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-05 17:33:39 UTC | `ac2b7527af5f` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-05 11:15:56 UTC | `6e7261463455` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 10 | 2026-04-05 18:02:52 UTC | `b65055f134f2` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-05 18:02:53 UTC | `e04aee7f5848` | +0 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-05 18:02:53 UTC | `c92188a47c05` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +0 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-05` |
-| Commits Today | `25` / `100` |
-| Remaining Today | `75` |
-| Progress | `█████░░░░░░░░░░░░░░░` 25% |
+| Commits Today | `26` / `100` |
+| Remaining Today | `74` |
+| Progress | `█████░░░░░░░░░░░░░░░` 26% |
 | Streak | `37` day(s) |
-| Last Commit (IST) | `2026-04-05 22:24:12 IST` |
+| Last Commit (IST) | `2026-04-05 23:03:40 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-02 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-03 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-04-04 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
-| 2026-04-05 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
+| 2026-04-05 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,055.0 | -0.09% | 🔴 |
-| Ethereum | $2,044.8 | -0.35% | 🔴 |
-| Solana | $79.86 | -0.40% | 🔴 |
-| Bnb | $593.72 | +0.65% | 🟢 |
+| Bitcoin | $67,290.0 | -0.02% | 🔴 |
+| Ethereum | $2,060.48 | +0.21% | 🟢 |
+| Solana | $79.86 | -1.37% | 🔴 |
+| Bnb | $592.53 | -0.03% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | 316 stars today | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL… |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 1,212 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | 1,803 stars today | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so… |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 1,600 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
-| [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | 282 stars today | Telegram Desktop messaging app |
-| [block/goose](https://github.com/block/goose) | Rust | 947 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
-| [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | Python | 66 stars today | A framework for building, orchestrating and deploying AI agents and multi-agent … |
-| [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | 993 stars today | Hunt down social media accounts by username across social networks |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 495 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
+| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | 408 stars today | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL… |
+| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,692 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
+| [block/goose](https://github.com/block/goose) | Rust | 866 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
+| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 960 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
+| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | 340 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
+| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 111 stars today | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus… |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 193 stars today | No description |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card) | 102 | 54 |
-| [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) | 174 | 127 |
-| [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) | 240 | 50 |
-| [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/) | 43 | 1 |
-| [A Claude Code skill that makes Claude talk like a caveman, cutting token use](https://github.com/JuliusBrussee/caveman) | 424 | 246 |
+| [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) | 210 | 152 |
+| [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) | 278 | 79 |
+| [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/) | 57 | 2 |
+| [Caveman: Why use many token when few token do trick](https://github.com/JuliusBrussee/caveman) | 454 | 251 |
+| [Codex is switching to API pricing based usage for all users](https://help.openai.com/en/articles/20001106-codex-rate-card) | 130 | 86 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,62 +2,74 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-04 18:02:17 UTC",
-    "fetched_at_ist": "2026-04-04 23:32:17 IST",
-    "item_count": 8,
-    "content_hash": "0cd62b65a63a3da5846c7fa3cb5f5069811b9fa1a4fba297ec99ea3d942f5153",
-    "previous_hash": "347192ee4d82bec3e0d1e70ccfdbf7234795cae9292ce55cfad610a498dad0f9",
-    "new_repos_vs_previous": 4,
+    "fetched_at_utc": "2026-04-05 18:02:52 UTC",
+    "fetched_at_ist": "2026-04-05 23:32:52 IST",
+    "item_count": 10,
+    "content_hash": "b65055f134f21827c60b33cb0ed40664b5c2a440362177af8f3a1e93e78f8b87",
+    "previous_hash": "0cd62b65a63a3da5846c7fa3cb5f5069811b9fa1a4fba297ec99ea3d942f5153",
+    "new_repos_vs_previous": 5,
     "top_repo_changed": true
   },
   "repos": [
     {
+      "name": "google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "stars_today": "495 stars today"
+    },
+    {
       "name": "Blaizzy/mlx-vlm",
       "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
       "language": "Python",
-      "stars_today": "316 stars today"
-    },
-    {
-      "name": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "language": "Python",
-      "stars_today": "1,212 stars today"
-    },
-    {
-      "name": "Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "language": "TypeScript",
-      "stars_today": "1,803 stars today"
+      "stars_today": "408 stars today"
     },
     {
       "name": "siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars_today": "1,600 stars today"
-    },
-    {
-      "name": "telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
-      "language": "C++",
-      "stars_today": "282 stars today"
+      "stars_today": "2,692 stars today"
     },
     {
       "name": "block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars_today": "947 stars today"
+      "stars_today": "866 stars today"
     },
     {
-      "name": "microsoft/agent-framework",
-      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "name": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars_today": "66 stars today"
+      "stars_today": "960 stars today"
     },
     {
-      "name": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars_today": "993 stars today"
+      "name": "badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "stars_today": "340 stars today"
+    },
+    {
+      "name": "dmtrKovalenko/fff.nvim",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "stars_today": "111 stars today"
+    },
+    {
+      "name": "google-ai-edge/LiteRT-LM",
+      "description": "No description",
+      "language": "C++",
+      "stars_today": "193 stars today"
+    },
+    {
+      "name": "telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "stars_today": "265 stars today"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars_today": "292 stars today"
     }
   ]
 }
