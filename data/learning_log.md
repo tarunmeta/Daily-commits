@@ -17,44 +17,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-06 (last updated: 08:11 IST)
+
+## 📅 2026-04-06 (last updated: 17:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-05 23:32:52 IST | b65055f134f2 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-06 08:11:26 IST | d03a1127540a | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-05 23:32:53 IST | c92188a47c05 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-04-06 17:30:21 IST | bf9c0a0e76d0 | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-06 17:30:22 IST | 6fbc294b9014 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-06 17:30:21 IST | b94028e7a9ce | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
+- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** (TypeScript) — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k  
+  ⭐ 837 stars today
 - **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** (Kotlin) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  
-  ⭐ 495 stars today
-- **[Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm)** (Python) — MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL  
-  ⭐ 408 stars today
-- **[siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)** (TypeScript) — Create stunning demos for free. Open-source, no subscriptions, no watermarks, an  
-  ⭐ 2,692 stars today
+  ⭐ 389 stars today
 - **[block/goose](https://github.com/block/goose)** (Rust) — an open source, extensible AI agent that goes beyond code suggestions - install,  
-  ⭐ 866 stars today
-- **[onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)** (Python) — Open Source AI Platform - AI Chat with advanced features that works with every L  
-  ⭐ 960 stars today
+  ⭐ 882 stars today
+- **[google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** (C++) — No description  
+  ⭐ 124 stars today
+- **[immich-app/immich](https://github.com/immich-app/immich)** (TypeScript) — High performance self-hosted photo and video management solution.  
+  ⭐ 155 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/) — Score: 75
-- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) — Score: 63
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 443
-- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 216
-- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) — Score: 423
+- [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/) — Score: 148
+- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) — Score: 557
+- [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/) — Score: 197
+- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 677
+- [Microsoft hasn't had a coherent GUI strategy since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/) — Score: 524
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $67,290.0 🔴 -0.02%
-- Ethereum: $2,060.48 🟢 +0.21%
-- Solana: $79.86 🔴 -1.37%
-- Bnb: $592.53 🔴 -0.03%
+- Bitcoin: $69,588.0 🟢 +3.89%
+- Ethereum: $2,150.99 🟢 +5.35%
+- Solana: $82.4 🟢 +3.16%
+- Bnb: $605.23 🟢 +1.93%
 
 ---
 ## 📅 2026-04-05 (last updated: 23:32 IST)

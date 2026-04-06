@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-06 02:41:26 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-06 12:00:22 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **google-ai-edge/gallery**
-- BTC: **$67,290.0** ↓ (-0.02%)
-- HN top story: **Show HN: YouTube search barely works, I made a search form with advanced filters**
+- Top GitHub repo: **abhigyanpatwari/GitNexus**
+- BTC: **$69,588.0** ↑ (+3.89%)
+- HN top story: **Age Verification as Mass Surveillance Infrastructure**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-05 18:02:52 UTC | `b65055f134f2` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-06 02:41:26 UTC | `d03a1127540a` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-05 18:02:53 UTC | `c92188a47c05` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-04-06 12:00:21 UTC | `bf9c0a0e76d0` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-06 12:00:22 UTC | `6fbc294b9014` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-06 12:00:21 UTC | `b94028e7a9ce` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-06` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `38` day(s) |
-| Last Commit (IST) | `2026-04-06 15:40:57 IST` |
+| Last Commit (IST) | `2026-04-06 16:43:22 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-03 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-04-04 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 | 2026-04-05 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
-| 2026-04-06 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-04-06 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,290.0 | -0.02% | 🔴 |
-| Ethereum | $2,060.48 | +0.21% | 🟢 |
-| Solana | $79.86 | -1.37% | 🔴 |
-| Bnb | $592.53 | -0.03% | 🔴 |
+| Bitcoin | $69,588.0 | +3.89% | 🟢 |
+| Ethereum | $2,150.99 | +5.35% | 🟢 |
+| Solana | $82.4 | +3.16% | 🟢 |
+| Bnb | $605.23 | +1.93% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 495 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
-| [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | 408 stars today | MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VL… |
-| [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | 2,692 stars today | Create stunning demos for free. Open-source, no subscriptions, no watermarks, an… |
-| [block/goose](https://github.com/block/goose) | Rust | 866 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
-| [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | 960 stars today | Open Source AI Platform - AI Chat with advanced features that works with every L… |
-| [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | 340 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
-| [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | 111 stars today | The fastest and the most accurate file search toolkit for AI agents, Neovim, Rus… |
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 193 stars today | No description |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 837 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 389 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
+| [block/goose](https://github.com/block/goose) | Rust | 882 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 124 stars today | No description |
+| [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 155 stars today | High performance self-hosted photo and video management solution. |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | 703 stars today | Shannon Lite is an autonomous, white-box AI pentester for web applications and A… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,251 stars today | The agent that grows with you |
+| [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | 298 stars today | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/) | 75 | 45 |
-| [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) | 63 | 5 |
-| [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) | 443 | 121 |
-| [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) | 216 | 91 |
-| [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) | 423 | 323 |
+| [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/) | 148 | 40 |
+| [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) | 557 | 69 |
+| [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/) | 197 | 123 |
+| [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) | 677 | 192 |
+| [Microsoft hasn't had a coherent GUI strategy since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/) | 524 | 343 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
