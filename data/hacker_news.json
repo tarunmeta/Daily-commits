@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-06 12:00:22 UTC",
-    "fetched_at_ist": "2026-04-06 17:30:22 IST",
+    "fetched_at_utc": "2026-04-06 21:39:27 UTC",
+    "fetched_at_ist": "2026-04-07 03:09:27 IST",
     "item_count": 5,
-    "content_hash": "6fbc294b90146bae4e7fb95035ec34f448c3035c08d9c43622b418738ed0e5ed",
-    "previous_hash": "d03a1127540a79b7ebe3b4b8757518cf1bbc46e7b9bca33c7dc89c7560137397",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "8afc64f841619999aadf1512d9f639538745b5c91c3a93c8699328655f7ae27b",
+    "previous_hash": "6fbc294b90146bae4e7fb95035ec34f448c3035c08d9c43622b418738ed0e5ed",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47659109,
-      "title": "Age Verification as Mass Surveillance Infrastructure",
-      "url": "https://tboteproject.com/surveillancefindings/",
+      "id": 47666024,
+      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+      "url": "https://github.com/matthartman/ghost-pepper",
+      "score": 80,
+      "comments": 37
+    },
+    {
+      "id": 47663147,
+      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+      "url": "https://www.freestyle.sh/",
       "score": 148,
-      "comments": 40
+      "comments": 80
     },
     {
-      "id": 47655408,
-      "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "url": "https://github.com/arman-bd/guppylm",
-      "score": 557,
-      "comments": 69
+      "id": 47662234,
+      "title": "A cryptography engineer's perspective on quantum computing timelines",
+      "url": "https://words.filippo.io/crqc-timeline/",
+      "score": 223,
+      "comments": 99
     },
     {
-      "id": 47658146,
-      "title": "France pulls last gold held in US for $15B gain",
-      "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-      "score": 197,
-      "comments": 123
+      "id": 47664647,
+      "title": "Got kicked out of uni and had the cops called for a social media website I made",
+      "url": "https://monyatwu.com/blog/iitsocial/",
+      "score": 33,
+      "comments": 89
     },
     {
-      "id": 47652561,
-      "title": "Gemma 4 on iPhone",
-      "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-      "score": 677,
-      "comments": 192
-    },
-    {
-      "id": 47651703,
-      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
-      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
-      "score": 524,
-      "comments": 343
+      "id": 47662945,
+      "title": "Show HN: GovAuctions lets you browse government auctions at once",
+      "url": "https://www.govauctions.app/",
+      "score": 128,
+      "comments": 50
     }
   ]
 }

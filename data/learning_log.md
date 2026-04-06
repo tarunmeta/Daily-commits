@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-07 (last updated: 17:30 IST)
+
+## 📅 2026-04-07 (last updated: 03:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-06 17:30:21 IST | bf9c0a0e76d0 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-06 17:30:22 IST | 6fbc294b9014 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-07 03:09:27 IST | 8afc64f84161 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-06 17:30:21 IST | b94028e7a9ce | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 155 stars today
 
 ### 📰 Hacker News Stories
-- [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/) — Score: 148
-- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) — Score: 557
-- [France pulls last gold held in US for $15B gain](https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/) — Score: 197
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 677
-- [Microsoft hasn't had a coherent GUI strategy since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/) — Score: 524
+- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper) — Score: 80
+- [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/) — Score: 148
+- [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) — Score: 223
+- [Got kicked out of uni and had the cops called for a social media website I made](https://monyatwu.com/blog/iitsocial/) — Score: 33
+- [Show HN: GovAuctions lets you browse government auctions at once](https://www.govauctions.app/) — Score: 128
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,588.0 🟢 +3.89%
