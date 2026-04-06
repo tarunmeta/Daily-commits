@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-06 (last updated: 04:03 IST)
+
+## 📅 2026-04-06 (last updated: 08:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-05 23:32:52 IST | b65055f134f2 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-06 04:03:49 IST | f7657130645c | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-06 08:11:26 IST | d03a1127540a | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-05 23:32:53 IST | c92188a47c05 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 960 stars today
 
 ### 📰 Hacker News Stories
-- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 258
-- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 126
-- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) — Score: 359
-- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) — Score: 519
-- [Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code](https://ai.georgeliu.com/p/running-google-gemma-4-locally-with) — Score: 118
+- [Show HN: YouTube search barely works, I made a search form with advanced filters](https://playlists.at/youtube/search/) — Score: 75
+- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) — Score: 63
+- [Gemma 4 on iPhone](https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337) — Score: 443
+- [LÖVE: 2D Game Framework for Lua](https://github.com/love2d/love) — Score: 216
+- [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo) — Score: 423
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $67,290.0 🔴 -0.02%
