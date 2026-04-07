@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-07 16:43:49 UTC",
-    "fetched_at_ist": "2026-04-07 22:13:49 IST",
+    "fetched_at_utc": "2026-04-07 17:43:42 UTC",
+    "fetched_at_ist": "2026-04-07 23:13:42 IST",
     "item_count": 5,
-    "content_hash": "4c23a4b06f575719be406f5a040010b320e608901a3f804904e929193167280c",
-    "previous_hash": "cd82ff425e0a1b6f48418cf8a9c9f3f56b6e7715fe95ca272317a09badcf6ac6",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "d6a366db99466ad8a15978927f217b522a3aad42e10366804ddceca4a837e6aa",
+    "previous_hash": "4c23a4b06f575719be406f5a040010b320e608901a3f804904e929193167280c",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47677853,
+      "title": "GLM-5.1: Towards Long-Horizon Tasks",
+      "url": "https://z.ai/blog/glm-5.1",
+      "score": 93,
+      "comments": 21
+    },
     {
       "id": 47673360,
       "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
       "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 447,
-      "comments": 155
+      "score": 532,
+      "comments": 175
     },
     {
       "id": 47675625,
       "title": "Cloudflare targets 2029 for full post-quantum security",
       "url": "https://blog.cloudflare.com/post-quantum-roadmap/",
-      "score": 80,
-      "comments": 30
+      "score": 136,
+      "comments": 42
+    },
+    {
+      "id": 47675213,
+      "title": "Google open-sources experimental agent orchestration testbed Scion",
+      "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+      "score": 55,
+      "comments": 16
     },
     {
       "id": 47676557,
       "title": "Moving fast in hardware: lessons from lab to $100M ARR",
       "url": "https://blog.zacka.io/p/simplify-then-add-lightness-bc4",
-      "score": 38,
-      "comments": 6
-    },
-    {
-      "id": 47673005,
-      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
-      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-      "score": 287,
-      "comments": 151
-    },
-    {
-      "id": 47675013,
-      "title": "Dropping Cloudflare for Bunny.net",
-      "url": "https://jola.dev/posts/dropping-cloudflare",
-      "score": 250,
-      "comments": 114
+      "score": 61,
+      "comments": 13
     }
   ]
 }
