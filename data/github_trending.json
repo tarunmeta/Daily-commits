@@ -2,98 +2,68 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-06 12:00:21 UTC",
-    "fetched_at_ist": "2026-04-06 17:30:21 IST",
-    "item_count": 14,
-    "content_hash": "bf9c0a0e76d003e07c1b604c30514ce1898b60f69ac7fb044efa1c012e1ba71d",
-    "previous_hash": "b65055f134f21827c60b33cb0ed40664b5c2a440362177af8f3a1e93e78f8b87",
-    "new_repos_vs_previous": 10,
+    "fetched_at_utc": "2026-04-07 12:10:19 UTC",
+    "fetched_at_ist": "2026-04-07 17:40:19 IST",
+    "item_count": 9,
+    "content_hash": "3024de4bf72d2bdac7c8bf0c98ef765ff44b62e63430fefbb84640d7cd585dc6",
+    "previous_hash": "bf9c0a0e76d003e07c1b604c30514ce1898b60f69ac7fb044efa1c012e1ba71d",
+    "new_repos_vs_previous": 4,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "stars_today": "837 stars today"
-    },
-    {
       "name": "google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
-      "stars_today": "389 stars today"
-    },
-    {
-      "name": "block/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "language": "Rust",
-      "stars_today": "882 stars today"
+      "stars_today": "899 stars today"
     },
     {
       "name": "google-ai-edge/LiteRT-LM",
       "description": "No description",
       "language": "C++",
-      "stars_today": "124 stars today"
-    },
-    {
-      "name": "immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "language": "TypeScript",
-      "stars_today": "155 stars today"
-    },
-    {
-      "name": "KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "language": "TypeScript",
-      "stars_today": "703 stars today"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "1,251 stars today"
-    },
-    {
-      "name": "tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "language": "TypeScript",
-      "stars_today": "298 stars today"
-    },
-    {
-      "name": "TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
-      "language": "Swift",
-      "stars_today": "14 stars today"
-    },
-    {
-      "name": "kepano/obsidian-skills",
-      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "language": "Unknown",
-      "stars_today": "281 stars today"
-    },
-    {
-      "name": "ollama/ollama",
-      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "stars_today": "164 stars today"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "stars_today": "244 stars today"
-    },
-    {
-      "name": "siddharthvaddem/openscreen",
-      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "language": "TypeScript",
-      "stars_today": "2,749 stars today"
+      "stars_today": "522 stars today"
     },
     {
       "name": "NVIDIA/personaplex",
       "description": "PersonaPlex code.",
       "language": "Python",
-      "stars_today": "295 stars today"
+      "stars_today": "663 stars today"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars_today": "1,174 stars today"
+    },
+    {
+      "name": "tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "language": "TypeScript",
+      "stars_today": "859 stars today"
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "description": "No description",
+      "language": "Unknown",
+      "stars_today": "42 stars today"
+    },
+    {
+      "name": "elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "language": "Python",
+      "stars_today": "656 stars today"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars_today": "164 stars today"
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "language": "Python",
+      "stars_today": "213 stars today"
     }
   ]
 }

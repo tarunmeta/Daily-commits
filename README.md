@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-07 11:29:31 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-07 12:10:19 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **abhigyanpatwari/GitNexus**
-- BTC: **$68,382.0** ↓ (-1.79%)
-- HN top story: **Netflix Void Model: Video Object and Interaction Deletion**
+- Top GitHub repo: **google-ai-edge/gallery**
+- BTC: **$68,116.0** ↓ (-2.04%)
+- HN top story: **Are We Idiocracy Yet?**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-06 12:00:21 UTC | `bf9c0a0e76d0` | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-07 02:35:47 UTC | `1da784a9ef10` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-07 11:29:31 UTC | `9f4de22d8e4b` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 9 | 2026-04-07 12:10:19 UTC | `3024de4bf72d` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-07 12:10:19 UTC | `f7e5daea1793` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-07 12:10:19 UTC | `b6600e37f991` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-07` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `38` day(s) |
-| Last Commit (IST) | `2026-04-07 15:46:39 IST` |
+| Last Commit (IST) | `2026-04-07 16:59:31 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-04 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 | 2026-04-05 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 | 2026-04-06 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-04-07 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-04-07 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $68,382.0 | -1.79% | 🔴 |
-| Ethereum | $2,091.82 | -2.74% | 🔴 |
-| Solana | $79.17 | -4.02% | 🔴 |
-| Bnb | $597.27 | -1.40% | 🔴 |
+| Bitcoin | $68,116.0 | -2.04% | 🔴 |
+| Ethereum | $2,078.67 | -3.35% | 🔴 |
+| Solana | $78.9 | -4.27% | 🔴 |
+| Bnb | $594.15 | -1.82% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 837 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 389 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
-| [block/goose](https://github.com/block/goose) | Rust | 882 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 124 stars today | No description |
-| [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | 155 stars today | High performance self-hosted photo and video management solution. |
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | 703 stars today | Shannon Lite is an autonomous, white-box AI pentester for web applications and A… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,251 stars today | The agent that grows with you |
-| [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | 298 stars today | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. … |
+| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 899 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
+| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 522 stars today | No description |
+| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | 663 stars today | PersonaPlex code. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,174 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
+| [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | 859 stars today | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. … |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 42 stars today | No description |
+| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | 656 stars today | Create Reddit Videos with just✨ one command ✨ |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 164 stars today | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Netflix Void Model: Video Object and Interaction Deletion](https://github.com/Netflix/void-model) | 68 | 7 |
-| [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod) | 30 | 5 |
-| [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper) | 246 | 103 |
-| [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/) | 211 | 115 |
-| [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) | 348 | 144 |
+| [Are We Idiocracy Yet?](https://idiocracy.wtf/) | 330 | 170 |
+| [LLM may be standardizing human expression – and subtly influencing how we think](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/) | 32 | 11 |
+| [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/) | 70 | 30 |
+| [Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead](https://locker.dev) | 14 | 4 |
+| [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/) | 22 | 3 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

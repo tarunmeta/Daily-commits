@@ -17,44 +17,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-07 (last updated: 16:59 IST)
+
+## 📅 2026-04-07 (last updated: 17:40 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-06 17:30:21 IST | bf9c0a0e76d0 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-07 08:05:47 IST | 1da784a9ef10 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-07 16:59:31 IST | 9f4de22d8e4b | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 9 | 2026-04-07 17:40:19 IST | 3024de4bf72d | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-07 17:40:19 IST | f7e5daea1793 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-07 17:40:19 IST | b6600e37f991 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** (TypeScript) — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k  
-  ⭐ 837 stars today
 - **[google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)** (Kotlin) — A gallery that showcases on-device ML/GenAI use cases and allows people to try a  
-  ⭐ 389 stars today
-- **[block/goose](https://github.com/block/goose)** (Rust) — an open source, extensible AI agent that goes beyond code suggestions - install,  
-  ⭐ 882 stars today
+  ⭐ 899 stars today
 - **[google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)** (C++) — No description  
-  ⭐ 124 stars today
-- **[immich-app/immich](https://github.com/immich-app/immich)** (TypeScript) — High performance self-hosted photo and video management solution.  
-  ⭐ 155 stars today
+  ⭐ 522 stars today
+- **[NVIDIA/personaplex](https://github.com/NVIDIA/personaplex)** (Python) — PersonaPlex code.  
+  ⭐ 663 stars today
+- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** (TypeScript) — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k  
+  ⭐ 1,174 stars today
+- **[tobi/qmd](https://github.com/tobi/qmd)** (TypeScript) — mini cli search engine for your docs, knowledge bases, meeting notes, whatever.   
+  ⭐ 859 stars today
 
 ### 📰 Hacker News Stories
-- [Netflix Void Model: Video Object and Interaction Deletion](https://github.com/Netflix/void-model) — Score: 68
-- [Solod – A Subset of Go That Translates to C](https://github.com/solod-dev/solod) — Score: 30
-- [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper) — Score: 246
-- [Launch HN: Freestyle – Sandboxes for Coding Agents](https://www.freestyle.sh/) — Score: 211
-- [A cryptography engineer's perspective on quantum computing timelines](https://words.filippo.io/crqc-timeline/) — Score: 348
+- [Are We Idiocracy Yet?](https://idiocracy.wtf/) — Score: 330
+- [LLM may be standardizing human expression – and subtly influencing how we think](https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/) — Score: 32
+- [We found an undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/) — Score: 70
+- [Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead](https://locker.dev) — Score: 14
+- [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/) — Score: 22
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $68,382.0 🔴 -1.79%
-- Ethereum: $2,091.82 🔴 -2.74%
-- Solana: $79.17 🔴 -4.02%
-- Bnb: $597.27 🔴 -1.40%
+- Bitcoin: $68,116.0 🔴 -2.04%
+- Ethereum: $2,078.67 🔴 -3.35%
+- Solana: $78.9 🔴 -4.27%
+- Bnb: $594.15 🔴 -1.82%
 
 ---
 ## 📅 2026-04-06 (last updated: 17:30 IST)

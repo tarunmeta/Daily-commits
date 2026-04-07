@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-07 02:35:47 UTC",
-    "fetched_at_ist": "2026-04-07 08:05:47 IST",
+    "fetched_at_utc": "2026-04-07 12:10:19 UTC",
+    "fetched_at_ist": "2026-04-07 17:40:19 IST",
     "item_count": 5,
-    "content_hash": "1da784a9ef1022b4353ba89d1c0f8bef2751f3a02e13fcaceb1beb6d84693ecf",
-    "previous_hash": "8afc64f841619999aadf1512d9f639538745b5c91c3a93c8699328655f7ae27b",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "f7e5daea179341910a4f583961c480b37aaf516477960645831aae5296e1ccaa",
+    "previous_hash": "1da784a9ef1022b4353ba89d1c0f8bef2751f3a02e13fcaceb1beb6d84693ecf",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47627998,
-      "title": "Netflix Void Model: Video Object and Interaction Deletion",
-      "url": "https://github.com/Netflix/void-model",
-      "score": 68,
-      "comments": 7
+      "id": 47672818,
+      "title": "Are We Idiocracy Yet?",
+      "url": "https://idiocracy.wtf/",
+      "score": 330,
+      "comments": 170
     },
     {
-      "id": 47669337,
-      "title": "Solod – A Subset of Go That Translates to C",
-      "url": "https://github.com/solod-dev/solod",
-      "score": 30,
-      "comments": 5
+      "id": 47673541,
+      "title": "LLM may be standardizing human expression – and subtly influencing how we think",
+      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+      "score": 32,
+      "comments": 11
     },
     {
-      "id": 47666024,
-      "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "score": 246,
-      "comments": 103
+      "id": 47673005,
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "score": 70,
+      "comments": 30
     },
     {
-      "id": 47663147,
-      "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-      "url": "https://www.freestyle.sh/",
-      "score": 211,
-      "comments": 115
+      "id": 47673394,
+      "title": "Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",
+      "url": "https://locker.dev",
+      "score": 14,
+      "comments": 4
     },
     {
-      "id": 47662234,
-      "title": "A cryptography engineer's perspective on quantum computing timelines",
-      "url": "https://words.filippo.io/crqc-timeline/",
-      "score": 348,
-      "comments": 144
+      "id": 47673360,
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+      "score": 22,
+      "comments": 3
     }
   ]
 }
