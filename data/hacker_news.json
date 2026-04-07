@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-07 18:40:50 UTC",
-    "fetched_at_ist": "2026-04-08 00:10:50 IST",
+    "fetched_at_utc": "2026-04-07 19:44:27 UTC",
+    "fetched_at_ist": "2026-04-08 01:14:27 IST",
     "item_count": 5,
-    "content_hash": "f58468d74db92be8d6ea928aece419610bb65601a05f115b38c8b570be17a707",
-    "previous_hash": "d6a366db99466ad8a15978927f217b522a3aad42e10366804ddceca4a837e6aa",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "0163f11092effc9057954f1656fdece6e0f89ad0af9531e592921e94d421115e",
+    "previous_hash": "f58468d74db92be8d6ea928aece419610bb65601a05f115b38c8b570be17a707",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 91,
-      "comments": 21
-    },
-    {
-      "id": 47679258,
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 56,
-      "comments": 15
+      "score": 288,
+      "comments": 115
     },
     {
       "id": 47677853,
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
       "url": "https://z.ai/blog/glm-5.1",
-      "score": 206,
-      "comments": 59
+      "score": 255,
+      "comments": 77
+    },
+    {
+      "id": 47679155,
+      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+      "url": "https://red.anthropic.com/2026/mythos-preview/",
+      "score": 101,
+      "comments": 10
     },
     {
       "id": 47678573,
       "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
       "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "score": 84,
-      "comments": 11
+      "score": 135,
+      "comments": 28
     },
     {
-      "id": 47673360,
-      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
-      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
-      "score": 578,
-      "comments": 185
+      "id": 47679979,
+      "title": "US Labor Force Participation Continues to Slide",
+      "url": "https://restaurant.org/research-and-media/research/restaurant-economic-insights/analysis-commentary/potential-workers-on-the-sidelines-labor-force-participation-continues-to-slide/",
+      "score": 14,
+      "comments": 0
     }
   ]
 }
