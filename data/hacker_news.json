@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-08 02:36:38 UTC",
-    "fetched_at_ist": "2026-04-08 08:06:38 IST",
+    "fetched_at_utc": "2026-04-08 09:35:33 UTC",
+    "fetched_at_ist": "2026-04-08 15:05:33 IST",
     "item_count": 5,
-    "content_hash": "aa0f07d50acc858041e79662ddd8391adeab6326eba95e44b786ff1f7ac39ab5",
-    "previous_hash": "0163f11092effc9057954f1656fdece6e0f89ad0af9531e592921e94d421115e",
+    "content_hash": "c59dd295d4ce66db082a9313ab6d5ec304bf190a47691e3e1ecbbd7914565e49",
+    "previous_hash": "aa0f07d50acc858041e79662ddd8391adeab6326eba95e44b786ff1f7ac39ab5",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47687248,
+      "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
+      "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+      "score": 41,
+      "comments": 17
+    },
+    {
+      "id": 47686549,
+      "title": "Veracrypt Project Update",
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "score": 158,
+      "comments": 29
+    },
+    {
+      "id": 47685739,
+      "title": "Revision Demoparty 2026: Razor1911 [video]",
+      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+      "score": 145,
+      "comments": 51
+    },
     {
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 942,
-      "comments": 420
-    },
-    {
-      "id": 47682276,
-      "title": "US and Iran agree to provisional ceasefire",
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "score": 211,
-      "comments": 547
+      "score": 1272,
+      "comments": 626
     },
     {
       "id": 47676509,
       "title": "Lunar Flyby",
       "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 416,
-      "comments": 105
-    },
-    {
-      "id": 47679258,
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "score": 552,
-      "comments": 401
-    },
-    {
-      "id": 47677853,
-      "title": "GLM-5.1: Towards Long-Horizon Tasks",
-      "url": "https://z.ai/blog/glm-5.1",
-      "score": 430,
-      "comments": 154
+      "score": 709,
+      "comments": 174
     }
   ]
 }
