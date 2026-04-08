@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-08 09:35:33 UTC",
-    "fetched_at_ist": "2026-04-08 15:05:33 IST",
+    "fetched_at_utc": "2026-04-08 10:43:24 UTC",
+    "fetched_at_ist": "2026-04-08 16:13:24 IST",
     "item_count": 5,
-    "content_hash": "c59dd295d4ce66db082a9313ab6d5ec304bf190a47691e3e1ecbbd7914565e49",
-    "previous_hash": "aa0f07d50acc858041e79662ddd8391adeab6326eba95e44b786ff1f7ac39ab5",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "61f070558d0834b3ac7b11733b9e3a88a9fe5be98ea9426ab666c0dce8514382",
+    "previous_hash": "c59dd295d4ce66db082a9313ab6d5ec304bf190a47691e3e1ecbbd7914565e49",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47687248,
-      "title": "Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones",
-      "url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
-      "score": 41,
-      "comments": 17
-    },
-    {
       "id": 47686549,
       "title": "Veracrypt Project Update",
       "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 158,
-      "comments": 29
+      "score": 290,
+      "comments": 71
+    },
+    {
+      "id": 47687273,
+      "title": "The Git Commands I Run Before Reading Any Code",
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "score": 86,
+      "comments": 9
     },
     {
       "id": 47685739,
       "title": "Revision Demoparty 2026: Razor1911 [video]",
       "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "score": 145,
-      "comments": 51
+      "score": 177,
+      "comments": 71
     },
     {
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 1272,
-      "comments": 626
+      "score": 1308,
+      "comments": 649
     },
     {
-      "id": 47676509,
-      "title": "Lunar Flyby",
-      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "score": 709,
-      "comments": 174
+      "id": 47657204,
+      "title": "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
+      "url": "https://indraneelpatil.github.io/blog/2026/robot-vacuum/",
+      "score": 34,
+      "comments": 2
     }
   ]
 }
