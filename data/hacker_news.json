@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-08 11:40:56 UTC",
-    "fetched_at_ist": "2026-04-08 17:10:56 IST",
+    "fetched_at_utc": "2026-04-08 12:44:15 UTC",
+    "fetched_at_ist": "2026-04-08 18:14:15 IST",
     "item_count": 5,
-    "content_hash": "b930be089b50fced8a631421a54b527df4963a7e75f743f911424f12886fc9b9",
-    "previous_hash": "61f070558d0834b3ac7b11733b9e3a88a9fe5be98ea9426ab666c0dce8514382",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "53877c7893ec0de2f67a1240b17521b6175ba38460e450ebfbc1546dc62be8d7",
+    "previous_hash": "b930be089b50fced8a631421a54b527df4963a7e75f743f911424f12886fc9b9",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47687273,
-      "title": "The Git Commands I Run Before Reading Any Code",
+      "title": "Git commands I run before reading any code",
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 233,
-      "comments": 47
+      "score": 419,
+      "comments": 96
     },
     {
       "id": 47686549,
-      "title": "Veracrypt Project Update",
+      "title": "Veracrypt project update",
       "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 401,
-      "comments": 108
+      "score": 482,
+      "comments": 144
     },
     {
       "id": 47687533,
-      "title": "I've Sold Out",
+      "title": "I've sold out",
       "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
-      "score": 79,
-      "comments": 39
+      "score": 145,
+      "comments": 85
     },
     {
       "id": 47685739,
       "title": "Revision Demoparty 2026: Razor1911 [video]",
       "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "score": 210,
-      "comments": 77
+      "score": 226,
+      "comments": 80
     },
     {
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 1324,
-      "comments": 664
+      "score": 1346,
+      "comments": 677
     }
   ]
 }
