@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-08 10:43:24 UTC",
-    "fetched_at_ist": "2026-04-08 16:13:24 IST",
+    "fetched_at_utc": "2026-04-08 11:40:56 UTC",
+    "fetched_at_ist": "2026-04-08 17:10:56 IST",
     "item_count": 5,
-    "content_hash": "61f070558d0834b3ac7b11733b9e3a88a9fe5be98ea9426ab666c0dce8514382",
-    "previous_hash": "c59dd295d4ce66db082a9313ab6d5ec304bf190a47691e3e1ecbbd7914565e49",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "b930be089b50fced8a631421a54b527df4963a7e75f743f911424f12886fc9b9",
+    "previous_hash": "61f070558d0834b3ac7b11733b9e3a88a9fe5be98ea9426ab666c0dce8514382",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47686549,
-      "title": "Veracrypt Project Update",
-      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 290,
-      "comments": 71
-    },
-    {
       "id": 47687273,
       "title": "The Git Commands I Run Before Reading Any Code",
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 86,
-      "comments": 9
+      "score": 233,
+      "comments": 47
+    },
+    {
+      "id": 47686549,
+      "title": "Veracrypt Project Update",
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "score": 401,
+      "comments": 108
+    },
+    {
+      "id": 47687533,
+      "title": "I've Sold Out",
+      "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
+      "score": 79,
+      "comments": 39
     },
     {
       "id": 47685739,
       "title": "Revision Demoparty 2026: Razor1911 [video]",
       "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "score": 177,
-      "comments": 71
+      "score": 210,
+      "comments": 77
     },
     {
       "id": 47679121,
       "title": "Project Glasswing: Securing critical software for the AI era",
       "url": "https://www.anthropic.com/glasswing",
-      "score": 1308,
-      "comments": 649
-    },
-    {
-      "id": 47657204,
-      "title": "Show HN: We built a camera only robot vacuum for less than 300$ (Well almost)",
-      "url": "https://indraneelpatil.github.io/blog/2026/robot-vacuum/",
-      "score": 34,
-      "comments": 2
+      "score": 1324,
+      "comments": 664
     }
   ]
 }
