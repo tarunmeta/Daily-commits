@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-08 12:44:15 UTC",
-    "fetched_at_ist": "2026-04-08 18:14:15 IST",
+    "fetched_at_utc": "2026-04-08 21:42:31 UTC",
+    "fetched_at_ist": "2026-04-09 03:12:31 IST",
     "item_count": 5,
-    "content_hash": "53877c7893ec0de2f67a1240b17521b6175ba38460e450ebfbc1546dc62be8d7",
-    "previous_hash": "b930be089b50fced8a631421a54b527df4963a7e75f743f911424f12886fc9b9",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "ba00b3701fc274f9d3a1077bb83029d009c1a08d85eb1297a9078cc58eb03ec6",
+    "previous_hash": "53877c7893ec0de2f67a1240b17521b6175ba38460e450ebfbc1546dc62be8d7",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47691730,
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "score": 953,
+      "comments": 187
+    },
+    {
+      "id": 47695012,
+      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+      "score": 86,
+      "comments": 15
+    },
     {
       "id": 47687273,
       "title": "Git commands I run before reading any code",
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 419,
-      "comments": 96
+      "score": 1607,
+      "comments": 348
     },
     {
-      "id": 47686549,
-      "title": "Veracrypt project update",
-      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "score": 482,
-      "comments": 144
+      "id": 47693153,
+      "title": "Understanding the Kalman filter with a simple radar example",
+      "url": "https://kalmanfilter.net",
+      "score": 137,
+      "comments": 21
     },
     {
-      "id": 47687533,
-      "title": "I've sold out",
-      "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
-      "score": 145,
-      "comments": 85
-    },
-    {
-      "id": 47685739,
-      "title": "Revision Demoparty 2026: Razor1911 [video]",
-      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "score": 226,
-      "comments": 80
-    },
-    {
-      "id": 47679121,
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "url": "https://www.anthropic.com/glasswing",
-      "score": 1346,
-      "comments": 677
+      "id": 47692043,
+      "title": "Muse Spark: Scaling towards personal superintelligence",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "score": 201,
+      "comments": 249
     }
   ]
 }
