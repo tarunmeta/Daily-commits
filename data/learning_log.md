@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-09 (last updated: 11:56 IST)
+
+## 📅 2026-04-09 (last updated: 15:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-04-07 17:40:19 IST | 3024de4bf72d | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-09 08:01:35 IST | e32f9d643967 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-09 15:10:46 IST | c053c7b76895 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-04-09 11:56:07 IST | 5c67f768907b | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 859 stars today
 
 ### 📰 Hacker News Stories
-- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) — Score: 174
-- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) — Score: 1281
-- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/) — Score: 191
-- [Understanding the Kalman filter with a simple radar example](https://kalmanfilter.net) — Score: 239
-- [What does it mean to “write like you talk”?](https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you) — Score: 30
+- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) — Score: 709
+- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) — Score: 177
+- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) — Score: 1576
+- [Haunted Paper Toys](http://ravensblight.com/papertoys.html) — Score: 83
+- [Creating the Futurescape for the Fifth Element](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element) — Score: 9
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,903.0 🔴 -1.30%

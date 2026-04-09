@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-09 02:31:35 UTC",
-    "fetched_at_ist": "2026-04-09 08:01:35 IST",
+    "fetched_at_utc": "2026-04-09 09:40:46 UTC",
+    "fetched_at_ist": "2026-04-09 15:10:46 IST",
     "item_count": 5,
-    "content_hash": "e32f9d643967a8f29a3cecee6fc9d7eaae41a71e21cb5fb233f34cd15b130b09",
-    "previous_hash": "ba00b3701fc274f9d3a1077bb83029d009c1a08d85eb1297a9078cc58eb03ec6",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "c053c7b768957145b14cf63318bb38e7ef1cb3bf2720f6cafd8e9fad49b8272b",
+    "previous_hash": "e32f9d643967a8f29a3cecee6fc9d7eaae41a71e21cb5fb233f34cd15b130b09",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47697870,
       "title": "LittleSnitch for Linux",
       "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "score": 174,
-      "comments": 64
+      "score": 709,
+      "comments": 214
+    },
+    {
+      "id": 47699181,
+      "title": "Open Source Security at Astral",
+      "url": "https://astral.sh/blog/open-source-security-at-astral",
+      "score": 177,
+      "comments": 35
     },
     {
       "id": 47691730,
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 1281,
-      "comments": 216
+      "score": 1576,
+      "comments": 274
     },
     {
-      "id": 47695012,
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 191,
-      "comments": 29
+      "id": 47658950,
+      "title": "Haunted Paper Toys",
+      "url": "http://ravensblight.com/papertoys.html",
+      "score": 83,
+      "comments": 2
     },
     {
-      "id": 47693153,
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "url": "https://kalmanfilter.net",
-      "score": 239,
-      "comments": 34
-    },
-    {
-      "id": 47661297,
-      "title": "What does it mean to “write like you talk”?",
-      "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
-      "score": 30,
-      "comments": 29
+      "id": 47701100,
+      "title": "Creating the Futurescape for the Fifth Element",
+      "url": "https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element",
+      "score": 9,
+      "comments": 3
     }
   ]
 }
