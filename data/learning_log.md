@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-10 (last updated: 00:52 IST)
+
+## 📅 2026-04-10 (last updated: 05:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-04-07 17:40:19 IST | 3024de4bf72d | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-09 15:10:46 IST | c053c7b76895 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-10 05:08:36 IST | d46981be182c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-10 00:52:10 IST | 8a5efbde2eb9 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 859 stars today
 
 ### 📰 Hacker News Stories
-- [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html) — Score: 709
-- [Open Source Security at Astral](https://astral.sh/blog/open-source-security-at-astral) — Score: 177
-- [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html) — Score: 1576
-- [Haunted Paper Toys](http://ravensblight.com/papertoys.html) — Score: 83
-- [Creating the Futurescape for the Fifth Element](https://theasc.com/articles/fantastic-voyage-creating-the-futurescape-for-the-fifth-element) — Score: 9
+- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor) — Score: 55
+- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) — Score: 237
+- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/) — Score: 84
+- [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID) — Score: 87
+- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/) — Score: 106
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,945.0 🟢 +1.08%
