@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-08 21:42:31 UTC",
-    "fetched_at_ist": "2026-04-09 03:12:31 IST",
+    "fetched_at_utc": "2026-04-09 02:31:35 UTC",
+    "fetched_at_ist": "2026-04-09 08:01:35 IST",
     "item_count": 5,
-    "content_hash": "ba00b3701fc274f9d3a1077bb83029d009c1a08d85eb1297a9078cc58eb03ec6",
-    "previous_hash": "53877c7893ec0de2f67a1240b17521b6175ba38460e450ebfbc1546dc62be8d7",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "e32f9d643967a8f29a3cecee6fc9d7eaae41a71e21cb5fb233f34cd15b130b09",
+    "previous_hash": "ba00b3701fc274f9d3a1077bb83029d009c1a08d85eb1297a9078cc58eb03ec6",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47697870,
+      "title": "LittleSnitch for Linux",
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "score": 174,
+      "comments": 64
+    },
+    {
       "id": 47691730,
       "title": "I ported Mac OS X to the Nintendo Wii",
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "score": 953,
-      "comments": 187
+      "score": 1281,
+      "comments": 216
     },
     {
       "id": 47695012,
       "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
       "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "score": 86,
-      "comments": 15
-    },
-    {
-      "id": 47687273,
-      "title": "Git commands I run before reading any code",
-      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "score": 1607,
-      "comments": 348
+      "score": 191,
+      "comments": 29
     },
     {
       "id": 47693153,
       "title": "Understanding the Kalman filter with a simple radar example",
       "url": "https://kalmanfilter.net",
-      "score": 137,
-      "comments": 21
+      "score": 239,
+      "comments": 34
     },
     {
-      "id": 47692043,
-      "title": "Muse Spark: Scaling towards personal superintelligence",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "score": 201,
-      "comments": 249
+      "id": 47661297,
+      "title": "What does it mean to “write like you talk”?",
+      "url": "https://arjunpanickssery.substack.com/p/what-does-it-mean-to-write-like-you",
+      "score": 30,
+      "comments": 29
     }
   ]
 }
