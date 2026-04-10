@@ -2,68 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-07 12:10:19 UTC",
-    "fetched_at_ist": "2026-04-07 17:40:19 IST",
-    "item_count": 9,
-    "content_hash": "3024de4bf72d2bdac7c8bf0c98ef765ff44b62e63430fefbb84640d7cd585dc6",
-    "previous_hash": "bf9c0a0e76d003e07c1b604c30514ce1898b60f69ac7fb044efa1c012e1ba71d",
-    "new_repos_vs_previous": 4,
+    "fetched_at_utc": "2026-04-10 18:01:38 UTC",
+    "fetched_at_ist": "2026-04-10 23:31:38 IST",
+    "item_count": 12,
+    "content_hash": "6d711942a935ed7ffcd66d748ce7ed568a7a80ac124f42052ba301e7fcc4564d",
+    "previous_hash": "3024de4bf72d2bdac7c8bf0c98ef765ff44b62e63430fefbb84640d7cd585dc6",
+    "new_repos_vs_previous": 10,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "google-ai-edge/gallery",
-      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "language": "Kotlin",
-      "stars_today": "899 stars today"
-    },
-    {
-      "name": "google-ai-edge/LiteRT-LM",
-      "description": "No description",
-      "language": "C++",
-      "stars_today": "522 stars today"
-    },
-    {
-      "name": "NVIDIA/personaplex",
-      "description": "PersonaPlex code.",
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "663 stars today"
+      "stars_today": "2,353 stars today"
     },
     {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "name": "coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars_today": "1,174 stars today"
+      "stars_today": "756 stars today"
     },
     {
-      "name": "tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "7,674 stars today"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
-      "stars_today": "859 stars today"
+      "stars_today": "498 stars today"
+    },
+    {
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars_today": "1,544 stars today"
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
-      "description": "No description",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": "42 stars today"
+      "stars_today": "1,454 stars today"
     },
     {
-      "name": "elebumm/RedditVideoMakerBot",
-      "description": "Create Reddit Videos with just✨ one command ✨",
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "656 stars today"
+      "stars_today": "602 stars today"
     },
     {
       "name": "HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
-      "stars_today": "164 stars today"
+      "stars_today": "1,426 stars today"
     },
     {
-      "name": "TheCraigHewitt/seomachine",
-      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "language": "Python",
-      "stars_today": "213 stars today"
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "1,309 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "2,150 stars today"
+    },
+    {
+      "name": "jqlang/jq",
+      "description": "Command-line JSON processor",
+      "language": "C",
+      "stars_today": "48 stars today"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "language": "HTML",
+      "stars_today": "1,248 stars today"
     }
   ]
 }

@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-10 12:36:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-10 18:01:39 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **google-ai-edge/gallery**
-- BTC: **$72,101.0** ↑ (+1.57%)
-- HN top story: **France Launches Government Linux Desktop Plan as Windows Exit Begins**
+- Top GitHub repo: **microsoft/markitdown**
+- BTC: **$73,114.0** ↑ (+1.57%)
+- HN top story: **You can't trust macOS Privacy and Security settings**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-04-07 12:10:19 UTC | `3024de4bf72d` | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-10 12:36:00 UTC | `66ad6913db91` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-10 06:15:52 UTC | `eec6298f5f60` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 12 | 2026-04-10 18:01:38 UTC | `6d711942a935` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-10 18:01:39 UTC | `e8cfc7cf38f5` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-10 18:01:38 UTC | `6b5bcc5648b5` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-10` |
-| Commits Today | `18` / `100` |
-| Remaining Today | `82` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
+| Commits Today | `19` / `100` |
+| Remaining Today | `81` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
 | Streak | `40` day(s) |
-| Last Commit (IST) | `2026-04-10 21:38:18 IST` |
+| Last Commit (IST) | `2026-04-10 22:37:18 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-07 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-08 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-09 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-04-10 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
+| 2026-04-10 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $72,101.0 | +1.57% | 🟢 |
-| Ethereum | $2,196.49 | +0.70% | 🟢 |
-| Solana | $83.38 | +1.44% | 🟢 |
-| Bnb | $601.9 | +0.39% | 🟢 |
+| Bitcoin | $73,114.0 | +1.57% | 🟢 |
+| Ethereum | $2,248.43 | +1.78% | 🟢 |
+| Solana | $84.86 | +0.34% | 🟢 |
+| Bnb | $607.47 | +0.15% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | 899 stars today | A gallery that showcases on-device ML/GenAI use cases and allows people to try a… |
-| [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | 522 stars today | No description |
-| [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | 663 stars today | PersonaPlex code. |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,174 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
-| [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | 859 stars today | mini cli search engine for your docs, knowledge bases, meeting notes, whatever. … |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 42 stars today | No description |
-| [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | 656 stars today | Create Reddit Videos with just✨ one command ✨ |
-| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 164 stars today | "DeepTutor: Agent-Native Personalized Learning Assistant" |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,353 stars today | Python tool for converting files and office documents to Markdown. |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 756 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 7,674 stars today | The agent that grows with you |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | TypeScript | 498 stars today | Open-source AI coworker, with memory |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,544 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,454 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 602 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | 1,426 stars today | "DeepTutor: Agent-Native Personalized Learning Assistant" |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/) | 539 | 207 |
-| [Intel 486 CPU announced April 10, 1989](https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/) | 26 | 3 |
-| [Microsoft suspends dev accounts for high-profile open source projects](https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/) | 152 | 35 |
-| [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) | 446 | 174 |
-| [ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html) | 142 | 31 |
+| [You can't trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/) | 220 | 91 |
+| [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) | 159 | 63 |
+| [1D Chess](https://rowan441.github.io/1dchess/chess.html) | 197 | 39 |
+| [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) | 99 | 19 |
+| [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace) | 105 | 56 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
