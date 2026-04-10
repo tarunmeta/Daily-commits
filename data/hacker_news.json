@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-09 23:38:36 UTC",
-    "fetched_at_ist": "2026-04-10 05:08:36 IST",
+    "fetched_at_utc": "2026-04-10 09:38:49 UTC",
+    "fetched_at_ist": "2026-04-10 15:08:49 IST",
     "item_count": 5,
-    "content_hash": "d46981be182c72909cdee796b39f653a37f5fc1e72865d250afb9561b00c3e18",
-    "previous_hash": "c053c7b768957145b14cf63318bb38e7ef1cb3bf2720f6cafd8e9fad49b8272b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "a73983bcfc0fc4c4c5392071571b43d0a3a55601265ba0992ba01c026f459c3f",
+    "previous_hash": "d46981be182c72909cdee796b39f653a37f5fc1e72865d250afb9561b00c3e18",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47710907,
-      "title": "Many African families spend fortunes burying their dead",
-      "url": "https://davidoks.blog/p/how-funerals-keep-africa-poor",
-      "score": 55,
-      "comments": 25
+      "id": 47704804,
+      "title": "How NASA built Artemis II’s fault-tolerant computer",
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "score": 372,
+      "comments": 128
+    },
+    {
+      "id": 47712718,
+      "title": "I still prefer MCP over skills",
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "score": 168,
+      "comments": 144
     },
     {
       "id": 47708818,
       "title": "Native Instant Space Switching on macOS",
       "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "score": 237,
-      "comments": 120
+      "score": 502,
+      "comments": 233
     },
     {
-      "id": 47709158,
-      "title": "Charcuterie – Visual similarity Unicode explorer",
-      "url": "https://charcuterie.elastiq.ch/",
-      "score": 84,
-      "comments": 11
+      "id": 47712656,
+      "title": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
+      "score": 127,
+      "comments": 255
     },
     {
-      "id": 47709130,
-      "title": "Reverse engineering Gemini's SynthID detection",
-      "url": "https://github.com/aloshdenny/reverse-SynthID",
-      "score": 87,
-      "comments": 38
-    },
-    {
-      "id": 47708041,
-      "title": "PicoZ80 – Drop-In Z80 Replacement",
-      "url": "https://eaw.app/picoz80/",
-      "score": 106,
-      "comments": 20
+      "id": 47713495,
+      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "score": 47,
+      "comments": 8
     }
   ]
 }

@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-10 (last updated: 11:45 IST)
+
+## 📅 2026-04-10 (last updated: 15:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-04-07 17:40:19 IST | 3024de4bf72d | +4 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-10 05:08:36 IST | d46981be182c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-10 15:08:49 IST | a73983bcfc0f | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-10 11:45:52 IST | eec6298f5f60 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 859 stars today
 
 ### 📰 Hacker News Stories
-- [Many African families spend fortunes burying their dead](https://davidoks.blog/p/how-funerals-keep-africa-poor) — Score: 55
-- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) — Score: 237
-- [Charcuterie – Visual similarity Unicode explorer](https://charcuterie.elastiq.ch/) — Score: 84
-- [Reverse engineering Gemini's SynthID detection](https://github.com/aloshdenny/reverse-SynthID) — Score: 87
-- [PicoZ80 – Drop-In Z80 Replacement](https://eaw.app/picoz80/) — Score: 106
+- [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/) — Score: 372
+- [I still prefer MCP over skills](https://david.coffee/i-still-prefer-mcp-over-skills/) — Score: 168
+- [Native Instant Space Switching on macOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/) — Score: 502
+- [We've raised $17M to build what comes after Git](https://blog.gitbutler.com/series-a) — Score: 127
+- [ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity](https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html) — Score: 47
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $72,101.0 🟢 +1.57%
