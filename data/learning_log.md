@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-11 (last updated: 02:52 IST)
+
+## 📅 2026-04-11 (last updated: 05:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-04-10 23:31:38 IST | 6d711942a935 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-11 02:12:55 IST | 41999d18b6f5 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-11 05:11:58 IST | cefcb4fa776b | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-11 02:52:11 IST | 2b0bca32d83d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,544 stars today
 
 ### 📰 Hacker News Stories
-- [1D Chess](https://rowan441.github.io/1dchess/chess.html) — Score: 416
-- [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po) — Score: 60
-- [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) — Score: 288
-- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) — Score: 195
-- [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/) — Score: 35
+- [Filing the Corners Off MacBooks](https://kentwalters.com/posts/corners/) — Score: 153
+- [Chimpanzees in Uganda locked in eight-year 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po) — Score: 185
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html) — Score: 607
+- [Has Mythos just broken the deal that kept the internet safe?](https://martinalderson.com/posts/has-mythos-just-broken-the-deal-that-kept-the-internet-safe/) — Score: 12
+- [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) — Score: 373
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,094.0 🟢 +1.16%
