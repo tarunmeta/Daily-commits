@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-04-11 (last updated: 23:31 IST)
+
+## 📅 2026-04-11 (last updated: 02:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-04-10 23:31:38 IST | 6d711942a935 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-10 23:31:39 IST | e8cfc7cf38f5 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-11 02:12:55 IST | 41999d18b6f5 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-10 23:31:38 IST | 6b5bcc5648b5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,544 stars today
 
 ### 📰 Hacker News Stories
-- [You can't trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/) — Score: 220
-- [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) — Score: 159
-- [1D Chess](https://rowan441.github.io/1dchess/chess.html) — Score: 197
-- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) — Score: 99
-- [Helium Is Hard to Replace](https://www.construction-physics.com/p/helium-is-hard-to-replace) — Score: 105
+- [1D Chess](https://rowan441.github.io/1dchess/chess.html) — Score: 416
+- [Chimpanzees in Uganda locked in vicious 'civil war', say researchers](https://www.bbc.com/news/articles/cr71lkzv49po) — Score: 60
+- [WireGuard makes new Windows release following Microsoft signing resolution](https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html) — Score: 288
+- [Industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design) — Score: 195
+- [Watgo – A WebAssembly Toolkit for Go](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/) — Score: 35
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,114.0 🟢 +1.57%

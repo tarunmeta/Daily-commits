@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-10 18:01:39 UTC",
-    "fetched_at_ist": "2026-04-10 23:31:39 IST",
+    "fetched_at_utc": "2026-04-10 20:42:55 UTC",
+    "fetched_at_ist": "2026-04-11 02:12:55 IST",
     "item_count": 5,
-    "content_hash": "e8cfc7cf38f5d70a45e46342d689523ed13ed4e0f919db5df8cf6712da25489b",
-    "previous_hash": "66ad6913db918d2ab37cc0f01bbadc0e2ad2edd292e50d078ef427cf1432a526",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "41999d18b6f597a7ac9fd5916607a60b72d532664684838cff96aca5a7d4b1f0",
+    "previous_hash": "e8cfc7cf38f5d70a45e46342d689523ed13ed4e0f919db5df8cf6712da25489b",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47719602,
-      "title": "You can't trust macOS Privacy and Security settings",
-      "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-      "score": 220,
-      "comments": 91
+      "id": 47719740,
+      "title": "1D Chess",
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "score": 416,
+      "comments": 86
+    },
+    {
+      "id": 47722333,
+      "title": "Chimpanzees in Uganda locked in vicious 'civil war', say researchers",
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "score": 60,
+      "comments": 36
     },
     {
       "id": 47719942,
       "title": "WireGuard makes new Windows release following Microsoft signing resolution",
       "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-      "score": 159,
-      "comments": 63
-    },
-    {
-      "id": 47719740,
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 197,
-      "comments": 39
+      "score": 288,
+      "comments": 91
     },
     {
       "id": 47720419,
       "title": "Industrial design files for Keychron keyboards and mice",
       "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-      "score": 99,
-      "comments": 19
+      "score": 195,
+      "comments": 58
     },
     {
-      "id": 47719274,
-      "title": "Helium Is Hard to Replace",
-      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
-      "score": 105,
-      "comments": 56
+      "id": 47722262,
+      "title": "Watgo – A WebAssembly Toolkit for Go",
+      "url": "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/",
+      "score": 35,
+      "comments": 1
     }
   ]
 }
