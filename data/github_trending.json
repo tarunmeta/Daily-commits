@@ -2,86 +2,92 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-10 18:01:38 UTC",
-    "fetched_at_ist": "2026-04-10 23:31:38 IST",
-    "item_count": 12,
-    "content_hash": "6d711942a935ed7ffcd66d748ce7ed568a7a80ac124f42052ba301e7fcc4564d",
-    "previous_hash": "3024de4bf72d2bdac7c8bf0c98ef765ff44b62e63430fefbb84640d7cd585dc6",
-    "new_repos_vs_previous": 10,
+    "fetched_at_utc": "2026-04-11 18:03:20 UTC",
+    "fetched_at_ist": "2026-04-11 23:33:20 IST",
+    "item_count": 13,
+    "content_hash": "9db7302433df5710922e138cc5d6f89e1200a7ab14f677cebf3f1a032f19f97f",
+    "previous_hash": "6d711942a935ed7ffcd66d748ce7ed568a7a80ac124f42052ba301e7fcc4564d",
+    "new_repos_vs_previous": 3,
     "top_repo_changed": true
   },
   "repos": [
     {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "6,437 stars today"
+    },
+    {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "2,353 stars today"
+      "stars_today": "3,069 stars today"
     },
     {
       "name": "coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars_today": "756 stars today"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "7,674 stars today"
-    },
-    {
-      "name": "rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "language": "TypeScript",
-      "stars_today": "498 stars today"
-    },
-    {
-      "name": "multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "TypeScript",
-      "stars_today": "1,544 stars today"
+      "stars_today": "1,339 stars today"
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": "1,454 stars today"
+      "stars_today": "1,070 stars today"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_today": "602 stars today"
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "language": "Python",
-      "stars_today": "1,426 stars today"
-    },
-    {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "language": "Java",
-      "stars_today": "1,309 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "2,150 stars today"
-    },
-    {
-      "name": "jqlang/jq",
-      "description": "Command-line JSON processor",
-      "language": "C",
-      "stars_today": "48 stars today"
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars_today": "1,950 stars today"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars_today": "1,248 stars today"
+      "stars_today": "1,476 stars today"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "472 stars today"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars_today": "1,136 stars today"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": "607 stars today"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "stars_today": "777 stars today"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "language": "Python",
+      "stars_today": "836 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,589 stars today"
+    },
+    {
+      "name": "alexpate/awesome-design-systems",
+      "description": "💅🏻 ⚒ A collection of awesome design systems",
+      "language": "Unknown",
+      "stars_today": "1,978 stars today"
     }
   ]
 }

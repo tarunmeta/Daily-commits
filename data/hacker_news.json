@@ -2,48 +2,48 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-11 17:34:39 UTC",
-    "fetched_at_ist": "2026-04-11 23:04:39 IST",
+    "fetched_at_utc": "2026-04-11 18:03:21 UTC",
+    "fetched_at_ist": "2026-04-11 23:33:21 IST",
     "item_count": 5,
-    "content_hash": "e57587576a06ccc42b41edafbc1ed4a60c52e0f278c0906c4bdb48cf1a3f16e0",
-    "previous_hash": "3596a8a07985b68c10dd8323c991948d3b4c8ea826023ffe48d78ab49ae981aa",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "cc2c4aebcc7581f52e1418fb8080cca6f815a1dad8ce902c922e248037918720",
+    "previous_hash": "e57587576a06ccc42b41edafbc1ed4a60c52e0f278c0906c4bdb48cf1a3f16e0",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 92,
-      "comments": 21
-    },
-    {
-      "id": 47730194,
-      "title": "Cirrus Labs to join OpenAI",
-      "url": "https://cirruslabs.org/",
-      "score": 153,
-      "comments": 72
+      "score": 172,
+      "comments": 58
     },
     {
       "id": 47731506,
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 55,
-      "comments": 10
+      "score": 73,
+      "comments": 13
+    },
+    {
+      "id": 47730194,
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "score": 163,
+      "comments": 83
     },
     {
       "id": 47693559,
       "title": "Surelock: Deadlock-Free Mutexes for Rust",
       "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 75,
-      "comments": 20
+      "score": 85,
+      "comments": 24
     },
     {
-      "id": 47731998,
-      "title": "Phone Trips",
-      "url": "http://www.wideweb.com/phonetrips/",
-      "score": 8,
+      "id": 47731838,
+      "title": "Keeping a Postgres Queue Healthy",
+      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "score": 20,
       "comments": 0
     }
   ]
