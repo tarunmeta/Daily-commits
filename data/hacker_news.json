@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-11 10:42:34 UTC",
-    "fetched_at_ist": "2026-04-11 16:12:34 IST",
+    "fetched_at_utc": "2026-04-11 15:36:23 UTC",
+    "fetched_at_ist": "2026-04-11 21:06:23 IST",
     "item_count": 5,
-    "content_hash": "4f3e976bdbdd0140654cacbdda8b26021d13a93d40624241dfce28e9b80c8a94",
-    "previous_hash": "e3d3e249e72082ebd59167d92565ac5377d92f8c11c99508d0c5040594fdf33d",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "3596a8a07985b68c10dd8323c991948d3b4c8ea826023ffe48d78ab49ae981aa",
+    "previous_hash": "4f3e976bdbdd0140654cacbdda8b26021d13a93d40624241dfce28e9b80c8a94",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47730194,
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "score": 97,
+      "comments": 39
+    },
+    {
+      "id": 47730712,
+      "title": "The Problem That Built an Industry",
+      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
+      "score": 21,
+      "comments": 5
+    },
     {
       "id": 47724352,
       "title": "Filing the corners off my MacBooks",
       "url": "https://kentwalters.com/posts/corners/",
-      "score": 841,
-      "comments": 418
+      "score": 1099,
+      "comments": 505
+    },
+    {
+      "id": 47730981,
+      "title": "The Future of Everything Is Lies, I Guess: Annoyances",
+      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+      "score": 15,
+      "comments": 1
     },
     {
       "id": 47695213,
       "title": "Optimal Strategy for Connect 4",
       "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 43,
-      "comments": 8
-    },
-    {
-      "id": 47698455,
-      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-      "url": "https://playstarfling.com",
-      "score": 188,
-      "comments": 53
-    },
-    {
-      "id": 47719740,
-      "title": "1D Chess",
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "score": 826,
-      "comments": 143
-    },
-    {
-      "id": 47725583,
-      "title": "Artemis II safely splashes down",
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "score": 912,
-      "comments": 284
+      "score": 169,
+      "comments": 23
     }
   ]
 }
