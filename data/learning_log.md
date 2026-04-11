@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-12 (last updated: 02:45 IST)
+
+## 📅 2026-04-12 (last updated: 04:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-11 23:33:20 IST | 9db7302433df | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-12 02:06:26 IST | c5ef73c83518 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-12 04:07:42 IST | ed91da6be6f4 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-04-12 02:45:41 IST | 0dacbac97a7c | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,950 stars today
 
 ### 📰 Hacker News Stories
-- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) — Score: 495
-- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) — Score: 52
-- [How to build a `Git diff` driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/) — Score: 32
-- [Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS](https://www.v68k.org/advanced-mac-substitute/) — Score: 136
-- [Cirrus Labs to join OpenAI](https://cirruslabs.org/) — Score: 200
+- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) — Score: 659
+- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html) — Score: 81
+- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) — Score: 73
+- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) — Score: 127
+- [Dark Castle](https://darkcastle.co.uk/) — Score: 61
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,425.0 🟢 +0.47%

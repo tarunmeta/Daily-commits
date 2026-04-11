@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-11 20:36:26 UTC",
-    "fetched_at_ist": "2026-04-12 02:06:26 IST",
+    "fetched_at_utc": "2026-04-11 22:37:42 UTC",
+    "fetched_at_ist": "2026-04-12 04:07:42 IST",
     "item_count": 5,
-    "content_hash": "c5ef73c83518f238fe7d6e9d76c245901d2925b911116961639ad391ca749915",
-    "previous_hash": "cc2c4aebcc7581f52e1418fb8080cca6f815a1dad8ce902c922e248037918720",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "ed91da6be6f4ef1bf58c590d6a33e53d4c55c3f95f7883c33b0afde4e264ff8e",
+    "previous_hash": "c5ef73c83518f238fe7d6e9d76c245901d2925b911116961639ad391ca749915",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 495,
-      "comments": 147
+      "score": 659,
+      "comments": 181
+    },
+    {
+      "id": 47733971,
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "score": 81,
+      "comments": 20
+    },
+    {
+      "id": 47733561,
+      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "score": 73,
+      "comments": 33
     },
     {
       "id": 47733217,
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 52,
-      "comments": 16
+      "score": 127,
+      "comments": 39
     },
     {
-      "id": 47732697,
-      "title": "How to build a `Git diff` driver",
-      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
-      "score": 32,
-      "comments": 3
-    },
-    {
-      "id": 47731506,
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 136,
-      "comments": 33
-    },
-    {
-      "id": 47730194,
-      "title": "Cirrus Labs to join OpenAI",
-      "url": "https://cirruslabs.org/",
-      "score": 200,
-      "comments": 101
+      "id": 47733521,
+      "title": "Dark Castle",
+      "url": "https://darkcastle.co.uk/",
+      "score": 61,
+      "comments": 5
     }
   ]
 }
