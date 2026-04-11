@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-11 18:03:21 UTC",
-    "fetched_at_ist": "2026-04-11 23:33:21 IST",
+    "fetched_at_utc": "2026-04-11 20:36:26 UTC",
+    "fetched_at_ist": "2026-04-12 02:06:26 IST",
     "item_count": 5,
-    "content_hash": "cc2c4aebcc7581f52e1418fb8080cca6f815a1dad8ce902c922e248037918720",
-    "previous_hash": "e57587576a06ccc42b41edafbc1ed4a60c52e0f278c0906c4bdb48cf1a3f16e0",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "c5ef73c83518f238fe7d6e9d76c245901d2925b911116961639ad391ca749915",
+    "previous_hash": "cc2c4aebcc7581f52e1418fb8080cca6f815a1dad8ce902c922e248037918720",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 172,
-      "comments": 58
+      "score": 495,
+      "comments": 147
+    },
+    {
+      "id": 47733217,
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "score": 52,
+      "comments": 16
+    },
+    {
+      "id": 47732697,
+      "title": "How to build a `Git diff` driver",
+      "url": "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/",
+      "score": 32,
+      "comments": 3
     },
     {
       "id": 47731506,
       "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
       "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "score": 73,
-      "comments": 13
+      "score": 136,
+      "comments": 33
     },
     {
       "id": 47730194,
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
-      "score": 163,
-      "comments": 83
-    },
-    {
-      "id": 47693559,
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "score": 85,
-      "comments": 24
-    },
-    {
-      "id": 47731838,
-      "title": "Keeping a Postgres Queue Healthy",
-      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-      "score": 20,
-      "comments": 0
+      "score": 200,
+      "comments": 101
     }
   ]
 }
