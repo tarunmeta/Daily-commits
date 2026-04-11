@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-11 15:36:23 UTC",
-    "fetched_at_ist": "2026-04-11 21:06:23 IST",
+    "fetched_at_utc": "2026-04-11 17:34:39 UTC",
+    "fetched_at_ist": "2026-04-11 23:04:39 IST",
     "item_count": 5,
-    "content_hash": "3596a8a07985b68c10dd8323c991948d3b4c8ea826023ffe48d78ab49ae981aa",
-    "previous_hash": "4f3e976bdbdd0140654cacbdda8b26021d13a93d40624241dfce28e9b80c8a94",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "e57587576a06ccc42b41edafbc1ed4a60c52e0f278c0906c4bdb48cf1a3f16e0",
+    "previous_hash": "3596a8a07985b68c10dd8323c991948d3b4c8ea826023ffe48d78ab49ae981aa",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47732020,
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "score": 92,
+      "comments": 21
+    },
+    {
       "id": 47730194,
       "title": "Cirrus Labs to join OpenAI",
       "url": "https://cirruslabs.org/",
-      "score": 97,
-      "comments": 39
+      "score": 153,
+      "comments": 72
     },
     {
-      "id": 47730712,
-      "title": "The Problem That Built an Industry",
-      "url": "https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/",
-      "score": 21,
-      "comments": 5
+      "id": 47731506,
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "score": 55,
+      "comments": 10
     },
     {
-      "id": 47724352,
-      "title": "Filing the corners off my MacBooks",
-      "url": "https://kentwalters.com/posts/corners/",
-      "score": 1099,
-      "comments": 505
+      "id": 47693559,
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+      "score": 75,
+      "comments": 20
     },
     {
-      "id": 47730981,
-      "title": "The Future of Everything Is Lies, I Guess: Annoyances",
-      "url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-      "score": 15,
-      "comments": 1
-    },
-    {
-      "id": 47695213,
-      "title": "Optimal Strategy for Connect 4",
-      "url": "https://2swap.github.io/WeakC4/explanation/",
-      "score": 169,
-      "comments": 23
+      "id": 47731998,
+      "title": "Phone Trips",
+      "url": "http://www.wideweb.com/phonetrips/",
+      "score": 8,
+      "comments": 0
     }
   ]
 }
