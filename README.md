@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-12 17:20:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-12 18:01:30 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **NousResearch/hermes-agent**
-- BTC: **$70,961.0** ↓ (-2.86%)
+- BTC: **$71,150.0** ↓ (-2.66%)
 - HN top story: **Bring Back Idiomatic Design**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-11 18:03:20 UTC | `9db7302433df` | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-12 16:41:23 UTC | `918f9b74b8e6` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-12 17:20:55 UTC | `85a79c186120` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-04-12 18:01:28 UTC | `1ada4107dcc7` | +5 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-12 18:01:30 UTC | `915f66dae94b` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-04-12 18:01:29 UTC | `7ba87c1dab8b` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +3 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +5 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-12` |
-| Commits Today | `23` / `100` |
-| Remaining Today | `77` |
-| Progress | `████░░░░░░░░░░░░░░░░` 23% |
+| Commits Today | `24` / `100` |
+| Remaining Today | `76` |
+| Progress | `████░░░░░░░░░░░░░░░░` 24% |
 | Streak | `40` day(s) |
-| Last Commit (IST) | `2026-04-12 22:11:24 IST` |
+| Last Commit (IST) | `2026-04-12 22:50:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-09 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-10 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-11 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
-| 2026-04-12 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
+| 2026-04-12 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $70,961.0 | -2.86% | 🔴 |
-| Ethereum | $2,190.45 | -2.94% | 🔴 |
-| Solana | $81.82 | -3.46% | 🔴 |
-| Bnb | $591.84 | -2.51% | 🔴 |
+| Bitcoin | $71,150.0 | -2.66% | 🔴 |
+| Ethereum | $2,203.75 | -2.49% | 🔴 |
+| Solana | $82.16 | -3.12% | 🔴 |
+| Bnb | $592.73 | -2.49% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 6,437 stars today | The agent that grows with you |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 3,069 stars today | Python tool for converting files and office documents to Markdown. |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 1,339 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 1,070 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,950 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,476 stars today | practice made claude perfect |
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 472 stars today | 所有小初高、大学PDF教材。 |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 1,136 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 7,450 stars today | The agent that grows with you |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 1,998 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 2,351 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,513 stars today | Python tool for converting files and office documents to Markdown. |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,626 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 612 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,537 stars today | practice made claude perfect |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 1,276 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) | 148 | 70 |
-| [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases) | 70 | 6 |
-| [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html) | 206 | 73 |
-| [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html) | 117 | 54 |
-| [Tell HN: docker pull fails in spain due to football cloudflare block](https://news.ycombinator.com/item?id=47738883) | 247 | 106 |
+| [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) | 221 | 113 |
+| [I gave every train in New York an instrument](https://www.trainjazz.com/) | 64 | 8 |
+| [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) | 14 | 4 |
+| [Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)](https://github.com/rochus-keller/OberonSystem3Native/releases) | 97 | 12 |
+| [Seven countries now generate 100% of their electricity from renewable energy](https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html) | 295 | 121 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
