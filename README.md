@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-12 03:38:40 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-12 07:17:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **NousResearch/hermes-agent**
-- BTC: **$73,056.0** ↑ (+0.28%)
+- BTC: **$71,655.0** ↓ (-1.55%)
 - HN top story: **We spoke to the man making viral Lego-style AI videos for Iran**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-11 18:03:20 UTC | `9db7302433df` | +3 new repos, top changed: yes |
 | Hacker News | 5 | 2026-04-12 03:38:40 UTC | `61edb6cfdeaf` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-11 23:17:01 UTC | `916aca98a6dc` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-04-12 07:17:26 UTC | `13b3e985f952` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +3 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-12` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
-| Streak | `41` day(s) |
-| Last Commit (IST) | `2026-04-12 09:08:40 IST` |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Streak | `40` day(s) |
+| Last Commit (IST) | `2026-04-12 11:16:13 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-09 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-10 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-04-11 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
-| 2026-04-12 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-04-12 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,056.0 | +0.28% | 🟢 |
-| Ethereum | $2,285.16 | +1.93% | 🟢 |
-| Solana | $84.78 | -0.03% | 🔴 |
-| Bnb | $607.72 | +0.27% | 🟢 |
+| Bitcoin | $71,655.0 | -1.55% | 🔴 |
+| Ethereum | $2,214.75 | -0.89% | 🔴 |
+| Solana | $82.32 | -2.25% | 🔴 |
+| Bnb | $593.88 | -2.03% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
