@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-12 (last updated: 17:56 IST)
+
+## 📅 2026-04-12 (last updated: 19:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-11 23:33:20 IST | 9db7302433df | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-12 17:13:24 IST | fca83de5455d | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-12 19:10:52 IST | 154e9c0bf23b | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-12 17:56:12 IST | daf6bacdd20a | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,950 stars today
 
 ### 📰 Hacker News Stories
-- [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/) — Score: 70
-- [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html) — Score: 21
-- [What have been the greatest intellectual achievements?](https://www.thinkingcomplete.com/2017/09/what-have-been-greatest-intellectual.html) — Score: 11
-- [An Interview with Pat Gelsinger](https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026) — Score: 48
-- [The Miller Principle (2007)](https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/) — Score: 38
+- [Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage](https://github.com/anthropics/claude-code/issues/45756) — Score: 79
+- [JVM Options Explorer](https://chriswhocodes.com/vm-options-explorer.html) — Score: 67
+- [We have a 99% email reputation. Gmail disagrees](https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/) — Score: 9
+- [AI Will Be Met with Violence, and Nothing Good Will Come of It](https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and) — Score: 124
+- [Tell HN: OpenAI silently removed Study Mode from ChatGPT](https://news.ycombinator.com/item?id=47739305) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,433.0 🔴 -1.99%
