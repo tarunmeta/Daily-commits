@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 18:01:30 UTC",
-    "fetched_at_ist": "2026-04-12 23:31:30 IST",
+    "fetched_at_utc": "2026-04-12 20:39:17 UTC",
+    "fetched_at_ist": "2026-04-13 02:09:17 IST",
     "item_count": 5,
-    "content_hash": "915f66dae94b8ec080aec50cafe6dfadca79a68d02d58fcca330dd8834988cc8",
-    "previous_hash": "918f9b74b8e6a07d84fda14965337408bc93f812a2e02acd1bef412a409bf5cd",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "f84ea01a7bd342fc767f96ccb7124b1d27344b16a91028c1d28b428c771034ca",
+    "previous_hash": "915f66dae94b8ec080aec50cafe6dfadca79a68d02d58fcca330dd8834988cc8",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47743628,
+      "title": "The peril of laziness lost",
+      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
+      "score": 27,
+      "comments": 3
+    },
     {
       "id": 47738827,
       "title": "Bring Back Idiomatic Design",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 221,
-      "comments": 113
+      "score": 339,
+      "comments": 157
     },
     {
-      "id": 47719490,
-      "title": "I gave every train in New York an instrument",
-      "url": "https://www.trainjazz.com/",
-      "score": 64,
-      "comments": 8
+      "id": 47702887,
+      "title": "Most people can't juggle one ball",
+      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "score": 123,
+      "comments": 43
+    },
+    {
+      "id": 47741889,
+      "title": "Show HN: Claudraband – Claude Code for the Power User",
+      "url": "https://github.com/halfwhey/claudraband",
+      "score": 45,
+      "comments": 12
     },
     {
       "id": 47742200,
       "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
       "url": "https://boringbar.app/",
-      "score": 14,
-      "comments": 4
-    },
-    {
-      "id": 47739174,
-      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-      "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
-      "score": 97,
-      "comments": 12
-    },
-    {
-      "id": 47739313,
-      "title": "Seven countries now generate 100% of their electricity from renewable energy",
-      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-      "score": 295,
-      "comments": 121
+      "score": 164,
+      "comments": 104
     }
   ]
 }
