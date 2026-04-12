@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 13:40:52 UTC",
-    "fetched_at_ist": "2026-04-12 19:10:52 IST",
+    "fetched_at_utc": "2026-04-12 16:41:23 UTC",
+    "fetched_at_ist": "2026-04-12 22:11:23 IST",
     "item_count": 5,
-    "content_hash": "154e9c0bf23b17e53bca0a09625b73ce9379e330fe650222e1c942915583619d",
-    "previous_hash": "fca83de5455d8ca09958cd89dac834fe935a531cd79093828cfff26b96d3d5a1",
+    "content_hash": "918f9b74b8e6a07d84fda14965337408bc93f812a2e02acd1bef412a409bf5cd",
+    "previous_hash": "154e9c0bf23b17e53bca0a09625b73ce9379e330fe650222e1c942915583619d",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47739260,
-      "title": "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
-      "url": "https://github.com/anthropics/claude-code/issues/45756",
-      "score": 79,
-      "comments": 16
+      "id": 47738827,
+      "title": "Bring Back Idiomatic Design",
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "score": 148,
+      "comments": 70
+    },
+    {
+      "id": 47739174,
+      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "url": "https://github.com/rochus-keller/OberonSystem3Native/releases",
+      "score": 70,
+      "comments": 6
+    },
+    {
+      "id": 47739313,
+      "title": "Seven countries now generate 100% of their electricity from renewable energy",
+      "url": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
+      "score": 206,
+      "comments": 73
     },
     {
       "id": 47738094,
       "title": "JVM Options Explorer",
       "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "score": 67,
-      "comments": 35
+      "score": 117,
+      "comments": 54
     },
     {
-      "id": 47738978,
-      "title": "We have a 99% email reputation. Gmail disagrees",
-      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-      "score": 9,
-      "comments": 0
-    },
-    {
-      "id": 47737563,
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
-      "score": 124,
-      "comments": 185
-    },
-    {
-      "id": 47739305,
-      "title": "Tell HN: OpenAI silently removed Study Mode from ChatGPT",
-      "url": "https://news.ycombinator.com/item?id=47739305",
-      "score": 13,
-      "comments": 1
+      "id": 47738883,
+      "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "score": 247,
+      "comments": 106
     }
   ]
 }
