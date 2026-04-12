@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-12 (last updated: 04:47 IST)
+
+## 📅 2026-04-12 (last updated: 09:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-11 23:33:20 IST | 9db7302433df | +3 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-12 04:07:42 IST | ed91da6be6f4 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-12 09:08:40 IST | 61edb6cfdeaf | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-12 04:47:01 IST | 916aca98a6dc | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +3 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,950 stars today
 
 ### 📰 Hacker News Stories
-- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) — Score: 659
-- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html) — Score: 81
-- [447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane](https://zenodo.org/records/19513269) — Score: 73
-- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) — Score: 127
-- [Dark Castle](https://darkcastle.co.uk/) — Score: 61
+- [We spoke to the man making viral Lego-style AI videos for Iran](https://www.bbc.com/news/articles/cjd8jrd1vnyo) — Score: 49
+- [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier) — Score: 893
+- [The End of Eleventy](https://brennan.day/the-end-of-eleventy/) — Score: 45
+- [How We Broke Top AI Agent Benchmarks: And What Comes Next](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) — Score: 261
+- [Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)](https://khronokernel.com/macos/2023/08/08/AS-VM.html) — Score: 160
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,056.0 🟢 +0.28%

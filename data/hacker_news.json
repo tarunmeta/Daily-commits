@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-11 22:37:42 UTC",
-    "fetched_at_ist": "2026-04-12 04:07:42 IST",
+    "fetched_at_utc": "2026-04-12 03:38:40 UTC",
+    "fetched_at_ist": "2026-04-12 09:08:40 IST",
     "item_count": 5,
-    "content_hash": "ed91da6be6f4ef1bf58c590d6a33e53d4c55c3f95f7883c33b0afde4e264ff8e",
-    "previous_hash": "c5ef73c83518f238fe7d6e9d76c245901d2925b911116961639ad391ca749915",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "61edb6cfdeaf480bec2dd1b0b5638ed48620eb1cfc703661facba4e2e85a28bc",
+    "previous_hash": "ed91da6be6f4ef1bf58c590d6a33e53d4c55c3f95f7883c33b0afde4e264ff8e",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47735704,
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+      "score": 49,
+      "comments": 14
+    },
     {
       "id": 47732020,
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 659,
-      "comments": 181
+      "score": 893,
+      "comments": 251
     },
     {
-      "id": 47733971,
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "score": 81,
+      "id": 47735535,
+      "title": "The End of Eleventy",
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "score": 45,
       "comments": 20
-    },
-    {
-      "id": 47733561,
-      "title": "447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "score": 73,
-      "comments": 33
     },
     {
       "id": 47733217,
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 127,
-      "comments": 39
+      "score": 261,
+      "comments": 72
     },
     {
-      "id": 47733521,
-      "title": "Dark Castle",
-      "url": "https://darkcastle.co.uk/",
-      "score": 61,
-      "comments": 5
+      "id": 47733971,
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "score": 160,
+      "comments": 110
     }
   ]
 }
