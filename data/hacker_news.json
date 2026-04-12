@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 20:39:17 UTC",
-    "fetched_at_ist": "2026-04-13 02:09:17 IST",
+    "fetched_at_utc": "2026-04-12 23:37:27 UTC",
+    "fetched_at_ist": "2026-04-13 05:07:27 IST",
     "item_count": 5,
-    "content_hash": "f84ea01a7bd342fc767f96ccb7124b1d27344b16a91028c1d28b428c771034ca",
-    "previous_hash": "915f66dae94b8ec080aec50cafe6dfadca79a68d02d58fcca330dd8834988cc8",
+    "content_hash": "42f8c885dcac139815e6f7940e145f8aa50f1dc696f423e6595a7d5d95c754f9",
+    "previous_hash": "f84ea01a7bd342fc767f96ccb7124b1d27344b16a91028c1d28b428c771034ca",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47743628,
       "title": "The peril of laziness lost",
       "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-      "score": 27,
-      "comments": 3
+      "score": 250,
+      "comments": 76
+    },
+    {
+      "id": 47745284,
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
+      "score": 10,
+      "comments": 2
     },
     {
       "id": 47738827,
       "title": "Bring Back Idiomatic Design",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 339,
-      "comments": 157
+      "score": 427,
+      "comments": 212
     },
     {
-      "id": 47702887,
-      "title": "Most people can't juggle one ball",
-      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
-      "score": 123,
-      "comments": 43
+      "id": 47741701,
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "score": 188,
+      "comments": 38
     },
     {
-      "id": 47741889,
-      "title": "Show HN: Claudraband – Claude Code for the Power User",
-      "url": "https://github.com/halfwhey/claudraband",
-      "score": 45,
-      "comments": 12
-    },
-    {
-      "id": 47742200,
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "url": "https://boringbar.app/",
-      "score": 164,
-      "comments": 104
+      "id": 47741527,
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47741527",
+      "score": 97,
+      "comments": 247
     }
   ]
 }
