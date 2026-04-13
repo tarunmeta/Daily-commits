@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-13 06:32:25 UTC",
-    "fetched_at_ist": "2026-04-13 12:02:25 IST",
+    "fetched_at_utc": "2026-04-13 08:35:31 UTC",
+    "fetched_at_ist": "2026-04-13 14:05:31 IST",
     "item_count": 5,
-    "content_hash": "47a57c00f7036b5543b27cf17a1429d15c2e1d0e2f11a52379ab12415e35adc9",
-    "previous_hash": "42f8c885dcac139815e6f7940e145f8aa50f1dc696f423e6595a7d5d95c754f9",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "7f7a910322d58bcc0e58022240ba348aa124a39afe414eb18173992a26bc3f06",
+    "previous_hash": "47a57c00f7036b5543b27cf17a1429d15c2e1d0e2f11a52379ab12415e35adc9",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47746610,
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
-      "score": 218,
-      "comments": 68
+      "score": 320,
+      "comments": 92
+    },
+    {
+      "id": 47748064,
+      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "score": 100,
+      "comments": 48
     },
     {
       "id": 47745284,
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 131,
-      "comments": 95
+      "score": 155,
+      "comments": 112
     },
     {
-      "id": 47737542,
-      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
-      "url": "https://arxiv.org/abs/2604.07902",
-      "score": 53,
-      "comments": 7
-    },
-    {
-      "id": 47742200,
-      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-      "url": "https://boringbar.app/",
-      "score": 320,
-      "comments": 178
+      "id": 47741701,
+      "title": "DIY Soft Drinks",
+      "url": "https://blinry.org/diy-soft-drinks/",
+      "score": 410,
+      "comments": 109
     },
     {
       "id": 47738827,
       "title": "Bring Back Idiomatic Design (2023)",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 513,
-      "comments": 282
+      "score": 546,
+      "comments": 296
     }
   ]
 }

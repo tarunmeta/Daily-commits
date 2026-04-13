@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-13 (last updated: 12:02 IST)
+
+## 📅 2026-04-13 (last updated: 14:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-12 23:31:28 IST | 1ada4107dcc7 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-13 12:02:25 IST | 47a57c00f703 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-13 14:05:31 IST | 7f7a910322d5 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-04-13 09:59:33 IST | 1b0374c9de6c | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,626 stars today
 
 ### 📰 Hacker News Stories
-- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852) — Score: 218
-- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/) — Score: 131
-- [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902) — Score: 53
-- [Show HN: boringBar – a taskbar-style dock replacement for macOS](https://boringbar.app/) — Score: 320
-- [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) — Score: 513
+- [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852) — Score: 320
+- [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/) — Score: 100
+- [Taking on CUDA with ROCm: 'One Step After Another'](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/) — Score: 155
+- [DIY Soft Drinks](https://blinry.org/diy-soft-drinks/) — Score: 410
+- [Bring Back Idiomatic Design (2023)](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design) — Score: 546
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,024.0 🔴 -0.76%
