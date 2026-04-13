@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-12 23:37:27 UTC",
-    "fetched_at_ist": "2026-04-13 05:07:27 IST",
+    "fetched_at_utc": "2026-04-13 06:32:25 UTC",
+    "fetched_at_ist": "2026-04-13 12:02:25 IST",
     "item_count": 5,
-    "content_hash": "42f8c885dcac139815e6f7940e145f8aa50f1dc696f423e6595a7d5d95c754f9",
-    "previous_hash": "f84ea01a7bd342fc767f96ccb7124b1d27344b16a91028c1d28b428c771034ca",
+    "content_hash": "47a57c00f7036b5543b27cf17a1429d15c2e1d0e2f11a52379ab12415e35adc9",
+    "previous_hash": "42f8c885dcac139815e6f7940e145f8aa50f1dc696f423e6595a7d5d95c754f9",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47743628,
-      "title": "The peril of laziness lost",
-      "url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-      "score": 250,
-      "comments": 76
+      "id": 47746610,
+      "title": "All elementary functions from a single binary operator",
+      "url": "https://arxiv.org/abs/2603.21852",
+      "score": 218,
+      "comments": 68
     },
     {
       "id": 47745284,
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
       "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 10,
-      "comments": 2
+      "score": 131,
+      "comments": 95
+    },
+    {
+      "id": 47737542,
+      "title": "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "url": "https://arxiv.org/abs/2604.07902",
+      "score": 53,
+      "comments": 7
+    },
+    {
+      "id": 47742200,
+      "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+      "url": "https://boringbar.app/",
+      "score": 320,
+      "comments": 178
     },
     {
       "id": 47738827,
-      "title": "Bring Back Idiomatic Design",
+      "title": "Bring Back Idiomatic Design (2023)",
       "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 427,
-      "comments": 212
-    },
-    {
-      "id": 47741701,
-      "title": "DIY Soft Drinks",
-      "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 188,
-      "comments": 38
-    },
-    {
-      "id": 47741527,
-      "title": "Ask HN: What Are You Working On? (April 2026)",
-      "url": "https://news.ycombinator.com/item?id=47741527",
-      "score": 97,
-      "comments": 247
+      "score": 513,
+      "comments": 282
     }
   ]
 }
