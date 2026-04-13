@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-13 08:35:31 UTC",
-    "fetched_at_ist": "2026-04-13 14:05:31 IST",
+    "fetched_at_utc": "2026-04-13 13:42:39 UTC",
+    "fetched_at_ist": "2026-04-13 19:12:39 IST",
     "item_count": 5,
-    "content_hash": "7f7a910322d58bcc0e58022240ba348aa124a39afe414eb18173992a26bc3f06",
-    "previous_hash": "47a57c00f7036b5543b27cf17a1429d15c2e1d0e2f11a52379ab12415e35adc9",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "4036fa514d0cd5a8c873b63b75cd9184f41438d88a37c80eaecd5ddf9c028ec0",
+    "previous_hash": "7f7a910322d58bcc0e58022240ba348aa124a39afe414eb18173992a26bc3f06",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47751032,
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "score": 68,
+      "comments": 33
+    },
+    {
+      "id": 47750669,
+      "title": "Android now stops you sharing your location in photos",
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "score": 128,
+      "comments": 70
+    },
+    {
+      "id": 47751669,
+      "title": "They See Your Photos",
+      "url": "https://theyseeyourphotos.com/",
+      "score": 19,
+      "comments": 1
+    },
+    {
+      "id": 47751029,
+      "title": "I went to America's worst national parks so you don't have to",
+      "url": "https://substack.com/home/post/p-193626949",
+      "score": 101,
+      "comments": 37
+    },
     {
       "id": 47746610,
       "title": "All elementary functions from a single binary operator",
       "url": "https://arxiv.org/abs/2603.21852",
-      "score": 320,
-      "comments": 92
-    },
-    {
-      "id": 47748064,
-      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
-      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "score": 100,
-      "comments": 48
-    },
-    {
-      "id": 47745284,
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "score": 155,
-      "comments": 112
-    },
-    {
-      "id": 47741701,
-      "title": "DIY Soft Drinks",
-      "url": "https://blinry.org/diy-soft-drinks/",
-      "score": 410,
-      "comments": 109
-    },
-    {
-      "id": 47738827,
-      "title": "Bring Back Idiomatic Design (2023)",
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "score": 546,
-      "comments": 296
+      "score": 588,
+      "comments": 151
     }
   ]
 }
