@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-13 (last updated: 22:08 IST)
+
+## 📅 2026-04-13 (last updated: 23:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-12 23:31:28 IST | 1ada4107dcc7 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-13 22:08:42 IST | 06d5824b594d | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-13 23:12:34 IST | 78b53fbcf5bd | +0 new stories, top changed: no |
 | Crypto | 4 | 2026-04-13 15:52:13 IST | 7d2768dd1ba4 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,626 stars today
 
 ### 📰 Hacker News Stories
-- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) — Score: 86
-- [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/) — Score: 51
-- [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/) — Score: 240
-- [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety) — Score: 7
-- [Make Tmux Pretty and Usable](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) — Score: 118
+- [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens) — Score: 172
+- [The Future of Everything Is Lies, I Guess: Safety](https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety) — Score: 71
+- [Building a CLI for All of Cloudflare](https://blog.cloudflare.com/cf-cli-local-explorer/) — Score: 98
+- [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/) — Score: 284
+- [Make Tmux Pretty and Usable (2024)](https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/) — Score: 166
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $70,776.0 🔴 -1.24%

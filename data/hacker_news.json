@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-13 16:38:42 UTC",
-    "fetched_at_ist": "2026-04-13 22:08:42 IST",
+    "fetched_at_utc": "2026-04-13 17:42:34 UTC",
+    "fetched_at_ist": "2026-04-13 23:12:34 IST",
     "item_count": 5,
-    "content_hash": "06d5824b594d045f30273854faccd27d07988b5ab979792a47d9c852322eaa12",
-    "previous_hash": "4036fa514d0cd5a8c873b63b75cd9184f41438d88a37c80eaecd5ddf9c028ec0",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "78b53fbcf5bdff7f40de34c6c45db8e7d7ae73f45293c24f10461215ac280470",
+    "previous_hash": "06d5824b594d045f30273854faccd27d07988b5ab979792a47d9c852322eaa12",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47753472,
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
       "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 86,
-      "comments": 22
-    },
-    {
-      "id": 47753689,
-      "title": "Building a CLI for All of Cloudflare",
-      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "score": 51,
-      "comments": 14
-    },
-    {
-      "id": 47750872,
-      "title": "Servo is now available on crates.io",
-      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "score": 240,
-      "comments": 85
+      "score": 172,
+      "comments": 53
     },
     {
       "id": 47754379,
       "title": "The Future of Everything Is Lies, I Guess: Safety",
       "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
-      "score": 7,
-      "comments": 7
+      "score": 71,
+      "comments": 24
+    },
+    {
+      "id": 47753689,
+      "title": "Building a CLI for All of Cloudflare",
+      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "score": 98,
+      "comments": 27
+    },
+    {
+      "id": 47750872,
+      "title": "Servo is now available on crates.io",
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "score": 284,
+      "comments": 90
     },
     {
       "id": 47752819,
-      "title": "Make Tmux Pretty and Usable",
+      "title": "Make Tmux Pretty and Usable (2024)",
       "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "score": 118,
-      "comments": 95
+      "score": 166,
+      "comments": 124
     }
   ]
 }
