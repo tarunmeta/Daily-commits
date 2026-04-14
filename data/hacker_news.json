@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-14 19:41:23 UTC",
-    "fetched_at_ist": "2026-04-15 01:11:23 IST",
+    "fetched_at_utc": "2026-04-14 20:36:05 UTC",
+    "fetched_at_ist": "2026-04-15 02:06:05 IST",
     "item_count": 5,
-    "content_hash": "9c0b9f87036ffbf33128256e2e22d55982330e3837fd9c7b14d2737569270315",
-    "previous_hash": "e4fc52822a093f7acb0f5ea21e8b25d4f420eea1e86d7c752fbaead8b70e848f",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "7c75d4dd958bb3f08ba24135134a5a157e1cc9f51da5b6347cb743edd2cb726d",
+    "previous_hash": "9c0b9f87036ffbf33128256e2e22d55982330e3837fd9c7b14d2737569270315",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47768813,
       "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
       "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-      "score": 241,
-      "comments": 103
-    },
-    {
-      "id": 47765604,
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 365,
-      "comments": 103
+      "score": 344,
+      "comments": 141
     },
     {
       "id": 47705278,
       "title": "YouTube now world's largest media company, topping Disney",
       "url": "https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/",
-      "score": 44,
-      "comments": 19
+      "score": 143,
+      "comments": 115
+    },
+    {
+      "id": 47765604,
+      "title": "Rare concert recordings are landing on the Internet Archive",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "score": 391,
+      "comments": 116
     },
     {
       "id": 47768195,
       "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
       "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
-      "score": 287,
-      "comments": 250
+      "score": 351,
+      "comments": 305
     },
     {
       "id": 47768133,
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
-      "score": 168,
-      "comments": 102
+      "score": 201,
+      "comments": 128
     }
   ]
 }
