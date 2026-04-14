@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-13 17:42:34 UTC",
-    "fetched_at_ist": "2026-04-13 23:12:34 IST",
+    "fetched_at_utc": "2026-04-14 03:34:57 UTC",
+    "fetched_at_ist": "2026-04-14 09:04:57 IST",
     "item_count": 5,
-    "content_hash": "78b53fbcf5bdff7f40de34c6c45db8e7d7ae73f45293c24f10461215ac280470",
-    "previous_hash": "06d5824b594d045f30273854faccd27d07988b5ab979792a47d9c852322eaa12",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "d1a7e33a65e021b2246492f30fbdc65d29c21a25e3d0cd7955e87592e6ae3bfc",
+    "previous_hash": "78b53fbcf5bdff7f40de34c6c45db8e7d7ae73f45293c24f10461215ac280470",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47753472,
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "score": 172,
-      "comments": 53
+      "id": 47755629,
+      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "score": 749,
+      "comments": 214
     },
     {
-      "id": 47754379,
-      "title": "The Future of Everything Is Lies, I Guess: Safety",
-      "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
-      "score": 71,
-      "comments": 24
+      "id": 47757495,
+      "title": "GitHub Stacked PRs",
+      "url": "https://github.github.com/gh-stack/",
+      "score": 492,
+      "comments": 273
     },
     {
-      "id": 47753689,
-      "title": "Building a CLI for All of Cloudflare",
-      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
-      "score": 98,
-      "comments": 27
+      "id": 47759709,
+      "title": "Lean proved this program correct; then I found a bug",
+      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+      "score": 131,
+      "comments": 71
     },
     {
-      "id": 47750872,
-      "title": "Servo is now available on crates.io",
-      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-      "score": 284,
-      "comments": 90
+      "id": 47760529,
+      "title": "DaVinci Resolve releases Photo Editor",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "score": 37,
+      "comments": 5
     },
     {
-      "id": 47752819,
-      "title": "Make Tmux Pretty and Usable (2024)",
-      "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-      "score": 166,
-      "comments": 124
+      "id": 47759341,
+      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
+      "url": "https://github.com/fabienmillet/WiiFin",
+      "score": 78,
+      "comments": 30
     }
   ]
 }
