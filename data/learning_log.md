@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-14 (last updated: 14:50 IST)
+
+## 📅 2026-04-14 (last updated: 21:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-04-12 23:31:28 IST | 1ada4107dcc7 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-14 09:04:57 IST | d1a7e33a65e0 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-14 21:09:57 IST | 36396a3f19da | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-14 14:50:48 IST | 03c02599d461 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,626 stars today
 
 ### 📰 Hacker News Stories
-- [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/) — Score: 749
-- [GitHub Stacked PRs](https://github.github.com/gh-stack/) — Score: 492
-- [Lean proved this program correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html) — Score: 131
-- [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo) — Score: 37
-- [WiiFin – Jellyfin Client for Nintendo Wii](https://github.com/fabienmillet/WiiFin) — Score: 78
+- [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) — Score: 97
+- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html) — Score: 305
+- [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo) — Score: 850
+- [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) — Score: 616
+- [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html) — Score: 70
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,828.0 🟢 +5.84%

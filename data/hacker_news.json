@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-14 03:34:57 UTC",
-    "fetched_at_ist": "2026-04-14 09:04:57 IST",
+    "fetched_at_utc": "2026-04-14 15:39:57 UTC",
+    "fetched_at_ist": "2026-04-14 21:09:57 IST",
     "item_count": 5,
-    "content_hash": "d1a7e33a65e021b2246492f30fbdc65d29c21a25e3d0cd7955e87592e6ae3bfc",
-    "previous_hash": "78b53fbcf5bdff7f40de34c6c45db8e7d7ae73f45293c24f10461215ac280470",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "36396a3f19dac591bfbd1f8632a707b058d19fc439c1515db13537598fc9b8a0",
+    "previous_hash": "d1a7e33a65e021b2246492f30fbdc65d29c21a25e3d0cd7955e87592e6ae3bfc",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47755629,
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-      "score": 749,
-      "comments": 214
+      "id": 47765604,
+      "title": "Rare concert records going on Internet Archive",
+      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+      "score": 97,
+      "comments": 36
     },
     {
-      "id": 47757495,
-      "title": "GitHub Stacked PRs",
-      "url": "https://github.github.com/gh-stack/",
-      "score": 492,
-      "comments": 273
-    },
-    {
-      "id": 47759709,
-      "title": "Lean proved this program correct; then I found a bug",
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "score": 131,
-      "comments": 71
+      "id": 47763759,
+      "title": "What is jj and why should I care?",
+      "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+      "score": 305,
+      "comments": 240
     },
     {
       "id": 47760529,
-      "title": "DaVinci Resolve releases Photo Editor",
+      "title": "DaVinci Resolve – Photo",
       "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-      "score": 37,
-      "comments": 5
+      "score": 850,
+      "comments": 220
     },
     {
-      "id": 47759341,
-      "title": "WiiFin – Jellyfin Client for Nintendo Wii",
-      "url": "https://github.com/fabienmillet/WiiFin",
-      "score": 78,
-      "comments": 30
+      "id": 47760764,
+      "title": "A new spam policy for “back button hijacking”",
+      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "score": 616,
+      "comments": 359
+    },
+    {
+      "id": 47764098,
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+      "score": 70,
+      "comments": 13
     }
   ]
 }
