@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-14 18:05:31 UTC",
-    "fetched_at_ist": "2026-04-14 23:35:31 IST",
+    "fetched_at_utc": "2026-04-14 19:41:23 UTC",
+    "fetched_at_ist": "2026-04-15 01:11:23 IST",
     "item_count": 5,
-    "content_hash": "e4fc52822a093f7acb0f5ea21e8b25d4f420eea1e86d7c752fbaead8b70e848f",
-    "previous_hash": "36396a3f19dac591bfbd1f8632a707b058d19fc439c1515db13537598fc9b8a0",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "9c0b9f87036ffbf33128256e2e22d55982330e3837fd9c7b14d2737569270315",
+    "previous_hash": "e4fc52822a093f7acb0f5ea21e8b25d4f420eea1e86d7c752fbaead8b70e848f",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47768195,
-      "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
-      "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
-      "score": 119,
-      "comments": 73
+      "id": 47768813,
+      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
+      "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+      "score": 241,
+      "comments": 103
     },
     {
       "id": 47765604,
       "title": "Rare concert recordings are landing on the Internet Archive",
       "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 294,
-      "comments": 85
+      "score": 365,
+      "comments": 103
+    },
+    {
+      "id": 47705278,
+      "title": "YouTube now world's largest media company, topping Disney",
+      "url": "https://www.hollywoodreporter.com/business/digital/youtube-worlds-largest-media-company-2025-tops-disney-1236525130/",
+      "score": 44,
+      "comments": 19
+    },
+    {
+      "id": 47768195,
+      "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+      "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
+      "score": 287,
+      "comments": 250
     },
     {
       "id": 47768133,
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
-      "score": 79,
-      "comments": 41
-    },
-    {
-      "id": 47768813,
-      "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-      "url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-      "score": 22,
-      "comments": 3
-    },
-    {
-      "id": 47767676,
-      "title": "5NF and Database Design",
-      "url": "https://kb.databasedesignbook.com/posts/5nf/",
-      "score": 50,
-      "comments": 13
+      "score": 168,
+      "comments": 102
     }
   ]
 }
