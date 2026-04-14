@@ -18,44 +18,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-14 (last updated: 21:09 IST)
+
+## 📅 2026-04-14 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-12 23:31:28 IST | 1ada4107dcc7 | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-14 21:09:57 IST | 36396a3f19da | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-14 14:50:48 IST | 03c02599d461 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 12 | 2026-04-14 23:35:30 IST | 15e09a4e38ae | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-14 23:35:31 IST | e4fc52822a09 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-14 23:35:31 IST | 93770aaf14c9 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +5 new repos, top changed: no
+- GitHub: +5 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 7,450 stars today
-- **[shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)** (Python) — Kronos: A Foundation Model for the Language of Financial Markets  
-  ⭐ 1,998 stars today
 - **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 2,351 stars today
+  ⭐ 9,230 stars today
+- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** (TypeScript) — A Claude Code plugin that automatically captures everything Claude does during y  
+  ⭐ 2,979 stars today
+- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source voice synthesis studio  
+  ⭐ 1,165 stars today
+- **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — Create and share 3D architectural projects.  
+  ⭐ 769 stars today
 - **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
-  ⭐ 2,513 stars today
-- **[multica-ai/multica](https://github.com/multica-ai/multica)** (TypeScript) — The open-source managed agents platform. Turn coding agents into real teammates   
-  ⭐ 1,626 stars today
+  ⭐ 1,672 stars today
 
 ### 📰 Hacker News Stories
-- [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) — Score: 97
-- [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html) — Score: 305
-- [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo) — Score: 850
-- [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) — Score: 616
-- [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html) — Score: 70
+- [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731) — Score: 119
+- [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) — Score: 294
+- [Claude Code Routines](https://code.claude.com/docs/en/routines) — Score: 79
+- [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html) — Score: 22
+- [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/) — Score: 50
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,828.0 🟢 +5.84%
-- Ethereum: $2,393.44 🟢 +9.34%
-- Solana: $86.22 🟢 +5.19%
-- Bnb: $618.52 🟢 +3.55%
+- Bitcoin: $74,811.0 🟢 +3.70%
+- Ethereum: $2,341.97 🟢 +5.19%
+- Solana: $85.34 🟢 +2.74%
+- Bnb: $618.17 🟢 +2.14%
 
 ---
 ## 📅 2026-04-13 (last updated: 23:12 IST)

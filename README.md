@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-14 15:39:57 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-14 18:05:31 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **NousResearch/hermes-agent**
-- BTC: **$74,828.0** ↑ (+5.84%)
-- HN top story: **Rare concert records going on Internet Archive**
+- Top GitHub repo: **forrestchang/andrej-karpathy-skills**
+- BTC: **$74,811.0** ↑ (+3.70%)
+- HN top story: **Spain to expand internet blocks to tennis, golf, movies broadcasting times**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-12 18:01:28 UTC | `1ada4107dcc7` | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-14 15:39:57 UTC | `36396a3f19da` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-14 09:20:48 UTC | `03c02599d461` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 12 | 2026-04-14 18:05:30 UTC | `15e09a4e38ae` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-14 18:05:31 UTC | `e4fc52822a09` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-14 18:05:31 UTC | `93770aaf14c9` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: no
+- GitHub: +5 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-14` |
-| Commits Today | `15` / `100` |
-| Remaining Today | `85` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
+| Commits Today | `16` / `100` |
+| Remaining Today | `84` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
 | Streak | `41` day(s) |
-| Last Commit (IST) | `2026-04-14 21:09:57 IST` |
+| Last Commit (IST) | `2026-04-14 22:16:40 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-11 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 | 2026-04-12 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-04-13 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-04-14 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
+| 2026-04-14 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,828.0 | +5.84% | 🟢 |
-| Ethereum | $2,393.44 | +9.34% | 🟢 |
-| Solana | $86.22 | +5.19% | 🟢 |
-| Bnb | $618.52 | +3.55% | 🟢 |
+| Bitcoin | $74,811.0 | +3.70% | 🟢 |
+| Ethereum | $2,341.97 | +5.19% | 🟢 |
+| Solana | $85.34 | +2.74% | 🟢 |
+| Bnb | $618.17 | +2.14% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 7,450 stars today | The agent that grows with you |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 1,998 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 2,351 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 2,513 stars today | Python tool for converting files and office documents to Markdown. |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | 1,626 stars today | The open-source managed agents platform. Turn coding agents into real teammates … |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | 612 stars today | The first open-source harness builder for AI coding. Make AI coding deterministi… |
-| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | 1,537 stars today | practice made claude perfect |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 1,276 stars today | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D… |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,230 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,979 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,165 stars today | The open-source voice synthesis studio |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 769 stars today | Create and share 3D architectural projects. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,672 stars today | Python tool for converting files and office documents to Markdown. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,928 stars today | An agentic skills framework & software development methodology that works. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 390 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 1,007 stars today | An AI Hedge Fund Team |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Rare concert records going on Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) | 97 | 36 |
-| [What is jj and why should I care?](https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html) | 305 | 240 |
-| [DaVinci Resolve – Photo](https://www.blackmagicdesign.com/products/davinciresolve/photo) | 850 | 220 |
-| [A new spam policy for “back button hijacking”](https://developers.google.com/search/blog/2026/04/back-button-hijacking) | 616 | 359 |
-| [NimConf 2026: Dates Announced, Registrations Open](https://nim-lang.org/blog/2026/04/07/nimconf-2026.html) | 70 | 13 |
+| [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731) | 119 | 73 |
+| [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) | 294 | 85 |
+| [Claude Code Routines](https://code.claude.com/docs/en/routines) | 79 | 41 |
+| [I wrote to Flock's privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html) | 22 | 3 |
+| [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/) | 50 | 13 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
