@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-14 21:35:08 UTC",
-    "fetched_at_ist": "2026-04-15 03:05:08 IST",
+    "fetched_at_utc": "2026-04-14 22:30:30 UTC",
+    "fetched_at_ist": "2026-04-15 04:00:30 IST",
     "item_count": 5,
-    "content_hash": "48357010a598f59fe9ea2a12a387b2706151e1c54ba2328d07189ed449d73ac6",
-    "previous_hash": "7c75d4dd958bb3f08ba24135134a5a157e1cc9f51da5b6347cb743edd2cb726d",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "241fa6de00adb73b29e10b3c69ae28ff7f2226b88dcafcc0fb1534f3ab540921",
+    "previous_hash": "48357010a598f59fe9ea2a12a387b2706151e1c54ba2328d07189ed449d73ac6",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47768133,
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
-      "score": 256,
-      "comments": 156
+      "score": 292,
+      "comments": 185
     },
     {
       "id": 47765604,
       "title": "Rare concert recordings are landing on the Internet Archive",
       "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 427,
-      "comments": 126
-    },
-    {
-      "id": 47759420,
-      "title": "The Dangers of California's Legislation to Censor 3D Printing",
-      "url": "https://www.eff.org/deeplinks/2026/04/dangers-californias-legislation-censor-3d-printing",
-      "score": 34,
-      "comments": 125
-    },
-    {
-      "id": 47732535,
-      "title": "The Orange Pi 6 Plus",
-      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-      "score": 53,
-      "comments": 17
+      "score": 448,
+      "comments": 132
     },
     {
       "id": 47770770,
       "title": "Trusted access for the next era of cyber defense",
       "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
-      "score": 17,
-      "comments": 11
+      "score": 36,
+      "comments": 22
+    },
+    {
+      "id": 47732535,
+      "title": "The Orange Pi 6 Plus",
+      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
+      "score": 73,
+      "comments": 39
+    },
+    {
+      "id": 47767676,
+      "title": "5NF and Database Design",
+      "url": "https://kb.databasedesignbook.com/posts/5nf/",
+      "score": 106,
+      "comments": 44
     }
   ]
 }
