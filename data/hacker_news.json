@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-15 10:43:25 UTC",
-    "fetched_at_ist": "2026-04-15 16:13:25 IST",
+    "fetched_at_utc": "2026-04-15 11:42:37 UTC",
+    "fetched_at_ist": "2026-04-15 17:12:37 IST",
     "item_count": 5,
-    "content_hash": "7fd14f290f217e61478b25b52b4c350803f175642c12c4f061d668643554c662",
-    "previous_hash": "b43ba1226b125fd2bbaa1d481065006222fde5e1c8f0a7d43cda95d22f6ccc4e",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "9e8939a44eef31867b16cc0a1037ff7f2929637bb10cff2e36e9805df88d60dc",
+    "previous_hash": "7fd14f290f217e61478b25b52b4c350803f175642c12c4f061d668643554c662",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47776796,
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
       "url": "https://prog21.dadgum.com/30.html",
-      "score": 55,
-      "comments": 16
+      "score": 112,
+      "comments": 40
     },
     {
       "id": 47776557,
       "title": "Good Sleep, Good Learning (2012)",
       "url": "https://super-memory.com/articles/sleep.htm",
-      "score": 33,
-      "comments": 7
+      "score": 69,
+      "comments": 28
     },
     {
       "id": 47774789,
       "title": "Fixing a 20-year-old bug in Enlightenment E16",
       "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "score": 154,
-      "comments": 49
+      "score": 166,
+      "comments": 58
     },
     {
-      "id": 47775628,
-      "title": "Wacli – WhatsApp CLI: sync, search, send",
-      "url": "https://github.com/steipete/wacli",
-      "score": 110,
-      "comments": 81
+      "id": 47740840,
+      "title": "Costasiella kuroshimae – Solar Powered animals, that do indirect photosynthesis",
+      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+      "score": 29,
+      "comments": 11
     },
     {
-      "id": 47768133,
-      "title": "Claude Code Routines",
-      "url": "https://code.claude.com/docs/en/routines",
-      "score": 622,
-      "comments": 358
+      "id": 47774971,
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "score": 54,
+      "comments": 33
     }
   ]
 }
