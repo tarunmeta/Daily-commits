@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-16 (last updated: 00:10 IST)
+
+## 📅 2026-04-16 (last updated: 04:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-15 05:39:46 IST | 2edccd43f300 | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-16 00:10:54 IST | 59f361220b58 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-16 04:13:03 IST | cb8506e92ace | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-15 22:49:01 IST | 6a4d89942ccb | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,675 stars today
 
 ### 📰 Hacker News Stories
-- [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/) — Score: 21
-- [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/) — Score: 334
-- [Google Broke Its Promise to Me. Now ICE Has My Data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) — Score: 204
-- [CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous](https://seqpu.com/CPUsArentDead/) — Score: 52
-- [Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson](https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats) — Score: 206
+- [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) — Score: 107
+- [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/) — Score: 87
+- [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) — Score: 893
+- [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README) — Score: 50
+- [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why) — Score: 159
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,032.0 🔴 -1.10%
