@@ -2,56 +2,56 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-14 18:05:30 UTC",
-    "fetched_at_ist": "2026-04-14 23:35:30 IST",
-    "item_count": 12,
-    "content_hash": "15e09a4e38ae172c15a7992a8462084dd1edaa589d21689e9391e4cad005f642",
-    "previous_hash": "1ada4107dcc703f8b41b0a79cd58a091584cebb6d62f3a999d0276f513dfae74",
-    "new_repos_vs_previous": 5,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-04-15 00:09:46 UTC",
+    "fetched_at_ist": "2026-04-15 05:39:46 IST",
+    "item_count": 13,
+    "content_hash": "2edccd43f300c6eed315f18e6206bf52f7b413f7367a3f33c80400650c5e929f",
+    "previous_hash": "15e09a4e38ae172c15a7992a8462084dd1edaa589d21689e9391e4cad005f642",
+    "new_repos_vs_previous": 1,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": "9,230 stars today"
+      "stars_today": "9,263 stars today"
     },
     {
       "name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars_today": "2,979 stars today"
+      "stars_today": "2,997 stars today"
     },
     {
       "name": "jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
-      "stars_today": "1,165 stars today"
+      "stars_today": "1,162 stars today"
     },
     {
       "name": "pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars_today": "769 stars today"
+      "stars_today": "820 stars today"
     },
     {
       "name": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars_today": "1,672 stars today"
+      "stars_today": "1,675 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "1,928 stars today"
+      "stars_today": "1,919 stars today"
     },
     {
       "name": "chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars_today": "390 stars today"
+      "stars_today": "472 stars today"
     },
     {
       "name": "virattt/ai-hedge-fund",
@@ -63,25 +63,31 @@
       "name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "965 stars today"
+      "stars_today": "963 stars today"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "8,282 stars today"
+      "stars_today": "8,301 stars today"
     },
     {
       "name": "anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars_today": "922 stars today"
+      "stars_today": "931 stars today"
+    },
+    {
+      "name": "tw93/Mole",
+      "description": "🐹 Deep clean and optimize your Mac.",
+      "language": "Shell",
+      "stars_today": "269 stars today"
     },
     {
       "name": "shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
-      "stars_today": "2,569 stars today"
+      "stars_today": "2,583 stars today"
     }
   ]
 }

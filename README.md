@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-14 23:29:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-15 00:09:47 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$74,103.0** ↓ (-0.80%)
+- BTC: **$74,646.0** ↑ (+0.35%)
 - HN top story: **Claude Code Routines**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-04-14 18:05:30 UTC | `15e09a4e38ae` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-14 22:30:30 UTC | `241fa6de00ad` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-04-14 23:29:06 UTC | `f95c223a49a4` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-04-15 00:09:46 UTC | `2edccd43f300` | +1 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-15 00:09:47 UTC | `43a608f0c2a0` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-15 00:09:47 UTC | `6558f79d5338` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
+- GitHub: +1 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-15` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `42` day(s) |
-| Last Commit (IST) | `2026-04-15 04:00:30 IST` |
+| Last Commit (IST) | `2026-04-15 04:59:06 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-12 | 24 | `████░░░░░░░░░░░░░░░░` 24% |
 | 2026-04-13 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-14 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-15 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-04-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,103.0 | -0.80% | 🔴 |
-| Ethereum | $2,319.2 | -2.57% | 🔴 |
-| Solana | $83.7 | -3.20% | 🔴 |
-| Bnb | $614.04 | -0.49% | 🔴 |
+| Bitcoin | $74,646.0 | +0.35% | 🟢 |
+| Ethereum | $2,337.52 | -1.31% | 🔴 |
+| Solana | $83.97 | -2.83% | 🔴 |
+| Bnb | $615.82 | +0.19% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,230 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,979 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,165 stars today | The open-source voice synthesis studio |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 769 stars today | Create and share 3D architectural projects. |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,672 stars today | Python tool for converting files and office documents to Markdown. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,928 stars today | An agentic skills framework & software development methodology that works. |
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 390 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,263 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,997 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,162 stars today | The open-source voice synthesis studio |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 820 stars today | Create and share 3D architectural projects. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,675 stars today | Python tool for converting files and office documents to Markdown. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,919 stars today | An agentic skills framework & software development methodology that works. |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 472 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 1,007 stars today | An AI Hedge Fund Team |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Claude Code Routines](https://code.claude.com/docs/en/routines) | 292 | 185 |
-| [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) | 448 | 132 |
-| [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/) | 36 | 22 |
-| [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900) | 73 | 39 |
-| [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/) | 106 | 44 |
+| [Claude Code Routines](https://code.claude.com/docs/en/routines) | 364 | 236 |
+| [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) | 489 | 147 |
+| [Fuck the cloud (2009)](https://ascii.textfiles.com/archives/1717) | 45 | 23 |
+| [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900) | 98 | 66 |
+| [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense/) | 50 | 39 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
