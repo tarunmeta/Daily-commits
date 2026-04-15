@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-15 (last updated: 14:52 IST)
+
+## 📅 2026-04-15 (last updated: 16:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-15 05:39:46 IST | 2edccd43f300 | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-15 09:11:29 IST | b43ba1226b12 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-15 16:13:25 IST | 7fd14f290f21 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-15 14:52:06 IST | 230c4d30bb27 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,675 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Code Routines](https://code.claude.com/docs/en/routines) — Score: 481
-- [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/) — Score: 562
-- [Stop Flock](https://stopflock.com) — Score: 437
-- [A communist Apple II and fourteen years of not knowing what you're testing](https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/) — Score: 66
-- [The Orange Pi 6 Plus](https://taoofmac.com/space/reviews/2026/04/11/1900) — Score: 134
+- [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html) — Score: 55
+- [Good Sleep, Good Learning (2012)](https://super-memory.com/articles/sleep.htm) — Score: 33
+- [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/) — Score: 154
+- [Wacli – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli) — Score: 110
+- [Claude Code Routines](https://code.claude.com/docs/en/routines) — Score: 622
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,082.0 🔴 -0.91%
