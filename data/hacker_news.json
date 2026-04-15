@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-15 00:09:47 UTC",
-    "fetched_at_ist": "2026-04-15 05:39:47 IST",
+    "fetched_at_utc": "2026-04-15 03:41:29 UTC",
+    "fetched_at_ist": "2026-04-15 09:11:29 IST",
     "item_count": 5,
-    "content_hash": "43a608f0c2a02cacbdaff24f7e9997217811b88b47ce178bbcc68207da58173f",
-    "previous_hash": "241fa6de00adb73b29e10b3c69ae28ff7f2226b88dcafcc0fb1534f3ab540921",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "b43ba1226b125fd2bbaa1d481065006222fde5e1c8f0a7d43cda95d22f6ccc4e",
+    "previous_hash": "43a608f0c2a02cacbdaff24f7e9997217811b88b47ce178bbcc68207da58173f",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47768133,
       "title": "Claude Code Routines",
       "url": "https://code.claude.com/docs/en/routines",
-      "score": 364,
-      "comments": 236
+      "score": 481,
+      "comments": 284
     },
     {
       "id": 47765604,
       "title": "Rare concert recordings are landing on the Internet Archive",
       "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-      "score": 489,
-      "comments": 147
+      "score": 562,
+      "comments": 168
     },
     {
-      "id": 47772048,
-      "title": "Fuck the cloud (2009)",
-      "url": "https://ascii.textfiles.com/archives/1717",
-      "score": 45,
-      "comments": 23
+      "id": 47772012,
+      "title": "Stop Flock",
+      "url": "https://stopflock.com",
+      "score": 437,
+      "comments": 102
+    },
+    {
+      "id": 47724571,
+      "title": "A communist Apple II and fourteen years of not knowing what you're testing",
+      "url": "https://llama.gs/blog/index.php/2026/04/10/friday-archaeology-a-communist-apple-ii-and-fourteen-years-of-not-knowing-what-youre-testing/",
+      "score": 66,
+      "comments": 6
     },
     {
       "id": 47732535,
       "title": "The Orange Pi 6 Plus",
       "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-      "score": 98,
-      "comments": 66
-    },
-    {
-      "id": 47770770,
-      "title": "Trusted access for the next era of cyber defense",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
-      "score": 50,
-      "comments": 39
+      "score": 134,
+      "comments": 96
     }
   ]
 }
