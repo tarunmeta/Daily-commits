@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-15 22:43:03 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-15 23:29:34 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$74,032.0** ↓ (-1.10%)
+- BTC: **$74,732.0** ↑ (+0.83%)
 - HN top story: **Cybersecurity looks like proof of work now**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-15 00:09:46 UTC | `2edccd43f300` | +1 new repos, top changed: no |
 | Hacker News | 5 | 2026-04-15 22:43:03 UTC | `cb8506e92ace` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-15 17:19:01 UTC | `6a4d89942ccb` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-04-15 23:29:34 UTC | `8e00a61bafb6` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +1 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-16` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `42` day(s) |
-| Last Commit (IST) | `2026-04-16 03:24:33 IST` |
+| Last Commit (IST) | `2026-04-16 04:13:03 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-13 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-14 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-15 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-16 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-04-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,032.0 | -1.10% | 🔴 |
-| Ethereum | $2,344.67 | +0.21% | 🟢 |
-| Solana | $84.66 | -0.74% | 🔴 |
-| Bnb | $620.73 | +0.11% | 🟢 |
+| Bitcoin | $74,732.0 | +0.83% | 🟢 |
+| Ethereum | $2,354.53 | +1.51% | 🟢 |
+| Solana | $84.77 | +1.24% | 🟢 |
+| Bnb | $622.76 | +1.39% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
