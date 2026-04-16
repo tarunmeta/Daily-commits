@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-16 06:02:49 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-16 12:09:18 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$75,065.0** ↑ (+1.44%)
-- HN top story: **Darkbloom – Private inference on idle Macs**
+- BTC: **$74,672.0** ↑ (+0.63%)
+- HN top story: **IPv6 traffic crosses the 50% mark**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-16 00:10:15 UTC | `39a12f8f2a45` | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-16 06:02:49 UTC | `6888a16974ec` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-16 06:02:48 UTC | `435e0ac69f76` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-04-16 12:09:17 UTC | `bbf346806c02` | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-16 12:09:18 UTC | `9099372de40e` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-16 12:09:18 UTC | `452a7a2a1fc3` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-16` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `42` day(s) |
-| Last Commit (IST) | `2026-04-16 15:19:30 IST` |
+| Last Commit (IST) | `2026-04-16 16:35:25 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-13 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-14 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-15 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-16 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-04-16 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,065.0 | +1.44% | 🟢 |
-| Ethereum | $2,357.65 | +1.70% | 🟢 |
-| Solana | $85.43 | +2.77% | 🟢 |
-| Bnb | $625.29 | +1.93% | 🟢 |
+| Bitcoin | $74,672.0 | +0.63% | 🟢 |
+| Ethereum | $2,337.6 | +0.08% | 🟢 |
+| Solana | $85.24 | +1.97% | 🟢 |
+| Bnb | $621.05 | +0.17% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,646 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 1,391 stars today | Create and share 3D architectural projects. |
 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,305 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 941 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 1,058 stars today | An AI Hedge Fund Team |
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 606 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,055 stars today | An agentic skills framework & software development methodology that works. |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 446 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,062 stars today | The open-source voice synthesis studio |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 915 stars today | An open source template for building cloud agents. |
+| [google/magika](https://github.com/google/magika) | Python | 768 stars today | Fast and accurate AI powered file content types detection |
+| [steipete/wacli](https://github.com/steipete/wacli) | Go | 354 stars today | WhatsApp CLI |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 156 stars today | Knowledge Engine for AI Agent Memory in 6 lines of code |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Darkbloom – Private inference on idle Macs](https://darkbloom.dev) | 87 | 53 |
-| [Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/) | 21 | 10 |
-| [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html) | 71 | 46 |
-| [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575) | 54 | 19 |
-| [The paper computer](https://jsomers.net/blog/the-paper-computer) | 97 | 16 |
+| [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197) | 400 | 243 |
+| [Codex Hacked a Samsung TV](https://blog.calif.io/p/codex-hacked-a-samsung-tv) | 45 | 30 |
+| [Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]](https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf) | 20 | 4 |
+| [Darkbloom – Private inference on idle Macs](https://darkbloom.dev) | 287 | 152 |
+| [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575) | 208 | 112 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

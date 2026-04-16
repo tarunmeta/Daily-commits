@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-16 06:02:49 UTC",
-    "fetched_at_ist": "2026-04-16 11:32:49 IST",
+    "fetched_at_utc": "2026-04-16 12:09:18 UTC",
+    "fetched_at_ist": "2026-04-16 17:39:18 IST",
     "item_count": 5,
-    "content_hash": "6888a16974ec7f857804753fe09b9c23b721b6dc50ada1bc5306d53f8b813f2b",
-    "previous_hash": "34515414a7716c518787f821d7c0423aaa5cb82f8df72acb20e74f7319ee94ba",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "9099372de40e43dfabcb4c66b6b14e841a6ab2142ffdb1b76148d24478922d07",
+    "previous_hash": "6888a16974ec7f857804753fe09b9c23b721b6dc50ada1bc5306d53f8b813f2b",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47777894,
+      "title": "IPv6 traffic crosses the 50% mark",
+      "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
+      "score": 400,
+      "comments": 243
+    },
+    {
+      "id": 47791212,
+      "title": "Codex Hacked a Samsung TV",
+      "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
+      "score": 45,
+      "comments": 30
+    },
+    {
+      "id": 47791282,
+      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
+      "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
+      "score": 20,
+      "comments": 4
+    },
+    {
       "id": 47788542,
       "title": "Darkbloom – Private inference on idle Macs",
       "url": "https://darkbloom.dev",
-      "score": 87,
-      "comments": 53
-    },
-    {
-      "id": 47788845,
-      "title": "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan",
-      "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
-      "score": 21,
-      "comments": 10
-    },
-    {
-      "id": 47788857,
-      "title": "IPv8 Proposal",
-      "url": "https://www.ietf.org/archive/id/draft-thain-ipv8-00.html",
-      "score": 71,
-      "comments": 46
+      "score": 287,
+      "comments": 152
     },
     {
       "id": 47788424,
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
       "url": "https://daedal.io/@thomzane/116410863009847575",
-      "score": 54,
-      "comments": 19
-    },
-    {
-      "id": 47747770,
-      "title": "The paper computer",
-      "url": "https://jsomers.net/blog/the-paper-computer",
-      "score": 97,
-      "comments": 16
+      "score": 208,
+      "comments": 112
     }
   ]
 }
