@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-15 23:29:34 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-16 00:10:16 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$74,732.0** ↑ (+0.83%)
+- BTC: **$74,670.0** ↑ (+0.00%)
 - HN top story: **Cybersecurity looks like proof of work now**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-15 00:09:46 UTC | `2edccd43f300` | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-15 22:43:03 UTC | `cb8506e92ace` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-15 23:29:34 UTC | `8e00a61bafb6` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-04-16 00:10:15 UTC | `39a12f8f2a45` | +6 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-16 00:10:16 UTC | `34515414a771` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-16 00:10:15 UTC | `a8749dcbac41` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +1 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +6 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-16` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `42` day(s) |
-| Last Commit (IST) | `2026-04-16 04:13:03 IST` |
+| Last Commit (IST) | `2026-04-16 04:59:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-13 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-14 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-15 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-04-16 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,732.0 | +0.83% | 🟢 |
-| Ethereum | $2,354.53 | +1.51% | 🟢 |
-| Solana | $84.77 | +1.24% | 🟢 |
-| Bnb | $622.76 | +1.39% | 🟢 |
+| Bitcoin | $74,670.0 | +0.00% | 🟢 |
+| Ethereum | $2,354.61 | +0.60% | 🟢 |
+| Solana | $84.78 | +1.05% | 🟢 |
+| Bnb | $622.47 | +1.02% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,263 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,997 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,162 stars today | The open-source voice synthesis studio |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 820 stars today | Create and share 3D architectural projects. |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,675 stars today | Python tool for converting files and office documents to Markdown. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,919 stars today | An agentic skills framework & software development methodology that works. |
-| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 472 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 1,007 stars today | An AI Hedge Fund Team |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,646 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 1,391 stars today | Create and share 3D architectural projects. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,305 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 941 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | 1,058 stars today | An AI Hedge Fund Team |
+| [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | 606 stars today | Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 2,055 stars today | An agentic skills framework & software development methodology that works. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,062 stars today | The open-source voice synthesis studio |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) | 107 | 50 |
-| [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/) | 87 | 31 |
-| [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) | 893 | 382 |
-| [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README) | 50 | 3 |
-| [Cal.com is going closed source](https://cal.com/blog/cal-com-goes-closed-source-why) | 159 | 134 |
+| [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) | 170 | 75 |
+| [I made a terminal pager](https://theleo.zone/posts/pager/) | 32 | 4 |
+| [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) | 999 | 427 |
+| [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/) | 164 | 86 |
+| [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README) | 66 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

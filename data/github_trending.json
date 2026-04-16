@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-15 00:09:46 UTC",
-    "fetched_at_ist": "2026-04-15 05:39:46 IST",
+    "fetched_at_utc": "2026-04-16 00:10:15 UTC",
+    "fetched_at_ist": "2026-04-16 05:40:15 IST",
     "item_count": 13,
-    "content_hash": "2edccd43f300c6eed315f18e6206bf52f7b413f7367a3f33c80400650c5e929f",
-    "previous_hash": "15e09a4e38ae172c15a7992a8462084dd1edaa589d21689e9391e4cad005f642",
-    "new_repos_vs_previous": 1,
+    "content_hash": "39a12f8f2a458ec9a6df87127dbfc2a43860db078119f583eabe0ac6208b2ae2",
+    "previous_hash": "2edccd43f300c6eed315f18e6206bf52f7b413f7367a3f33c80400650c5e929f",
+    "new_repos_vs_previous": 6,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,79 +15,79 @@
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": "9,263 stars today"
-    },
-    {
-      "name": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
-      "language": "TypeScript",
-      "stars_today": "2,997 stars today"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "description": "The open-source voice synthesis studio",
-      "language": "TypeScript",
-      "stars_today": "1,162 stars today"
+      "stars_today": "9,646 stars today"
     },
     {
       "name": "pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars_today": "820 stars today"
+      "stars_today": "1,391 stars today"
     },
     {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars_today": "1,675 stars today"
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars_today": "2,305 stars today"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,919 stars today"
-    },
-    {
-      "name": "chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "stars_today": "472 stars today"
+      "name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Jupyter Notebook",
+      "stars_today": "941 stars today"
     },
     {
       "name": "virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars_today": "1,007 stars today"
+      "stars_today": "1,058 stars today"
     },
     {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_today": "963 stars today"
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars_today": "606 stars today"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "8,301 stars today"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "931 stars today"
-    },
-    {
-      "name": "tw93/Mole",
-      "description": "🐹 Deep clean and optimize your Mac.",
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "269 stars today"
+      "stars_today": "2,055 stars today"
     },
     {
-      "name": "shanraisshan/claude-code-best-practice",
-      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "language": "HTML",
-      "stars_today": "2,583 stars today"
+      "name": "jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars_today": "1,062 stars today"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars_today": "950 stars today"
+    },
+    {
+      "name": "vercel-labs/open-agents",
+      "description": "An open source template for building cloud agents.",
+      "language": "TypeScript",
+      "stars_today": "915 stars today"
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars_today": "446 stars today"
+    },
+    {
+      "name": "google/magika",
+      "description": "Fast and accurate AI powered file content types detection",
+      "language": "Python",
+      "stars_today": "768 stars today"
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars_today": "612 stars today"
     }
   ]
 }
