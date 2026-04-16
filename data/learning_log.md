@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-16 (last updated: 05:40 IST)
+
+## 📅 2026-04-16 (last updated: 11:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-16 05:40:15 IST | 39a12f8f2a45 | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-16 05:40:16 IST | 34515414a771 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-04-16 05:40:15 IST | a8749dcbac41 | 4 assets moved, biggest mover: solana |
+| Hacker News | 5 | 2026-04-16 11:32:49 IST | 6888a16974ec | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-16 11:32:48 IST | 435e0ac69f76 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,17 +39,17 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,058 stars today
 
 ### 📰 Hacker News Stories
-- [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html) — Score: 170
-- [I made a terminal pager](https://theleo.zone/posts/pager/) — Score: 32
-- [Google broke its promise to me – now ICE has my data](https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data) — Score: 999
-- [The buns in McDonald's Japan's burger photos are all slightly askew](https://www.mcdonalds.co.jp/en/menu/burger/) — Score: 164
-- [PiCore - Raspberry Pi Port of Tiny Core Linux](http://tinycorelinux.net/5.x/armv6/releases/README) — Score: 66
+- [Darkbloom – Private inference on idle Macs](https://darkbloom.dev) — Score: 87
+- [Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan](https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/) — Score: 21
+- [IPv8 Proposal](https://www.ietf.org/archive/id/draft-thain-ipv8-00.html) — Score: 71
+- [FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575) — Score: 54
+- [The paper computer](https://jsomers.net/blog/the-paper-computer) — Score: 97
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,670.0 🟢 +0.00%
-- Ethereum: $2,354.61 🟢 +0.60%
-- Solana: $84.78 🟢 +1.05%
-- Bnb: $622.47 🟢 +1.02%
+- Bitcoin: $75,065.0 🟢 +1.44%
+- Ethereum: $2,357.65 🟢 +1.70%
+- Solana: $85.43 🟢 +2.77%
+- Bnb: $625.29 🟢 +1.93%
 
 ---
 ## 📅 2026-04-15 (last updated: 22:49 IST)
