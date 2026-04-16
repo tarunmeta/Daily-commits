@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-16 12:09:18 UTC",
-    "fetched_at_ist": "2026-04-16 17:39:18 IST",
+    "fetched_at_utc": "2026-04-16 18:43:06 UTC",
+    "fetched_at_ist": "2026-04-17 00:13:06 IST",
     "item_count": 5,
-    "content_hash": "9099372de40e43dfabcb4c66b6b14e841a6ab2142ffdb1b76148d24478922d07",
-    "previous_hash": "6888a16974ec7f857804753fe09b9c23b721b6dc50ada1bc5306d53f8b813f2b",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "ae9ae55b3fe1271841218062f54f48398a9109a30382f76377baa5d7f73bf410",
+    "previous_hash": "9099372de40e43dfabcb4c66b6b14e841a6ab2142ffdb1b76148d24478922d07",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47777894,
-      "title": "IPv6 traffic crosses the 50% mark",
-      "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
-      "score": 400,
-      "comments": 243
+      "id": 47793411,
+      "title": "Claude Opus 4.7",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "score": 944,
+      "comments": 730
     },
     {
-      "id": 47791212,
-      "title": "Codex Hacked a Samsung TV",
-      "url": "https://blog.calif.io/p/codex-hacked-a-samsung-tv",
-      "score": 45,
+      "id": 47796469,
+      "title": "Codex for Almost Everything",
+      "url": "https://openai.com/index/codex-for-almost-everything/",
+      "score": 244,
+      "comments": 101
+    },
+    {
+      "id": 47792764,
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "score": 617,
+      "comments": 296
+    },
+    {
+      "id": 47792538,
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "score": 152,
+      "comments": 35
+    },
+    {
+      "id": 47794514,
+      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
+      "url": "https://www.zatanna.ai/kampala",
+      "score": 37,
       "comments": 30
-    },
-    {
-      "id": 47791282,
-      "title": "Ancient DNA reveals pervasive directional selection across West Eurasia [pdf]",
-      "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/2026_Akbari_Nature_selection_0.pdf",
-      "score": 20,
-      "comments": 4
-    },
-    {
-      "id": 47788542,
-      "title": "Darkbloom – Private inference on idle Macs",
-      "url": "https://darkbloom.dev",
-      "score": 287,
-      "comments": 152
-    },
-    {
-      "id": 47788424,
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "url": "https://daedal.io/@thomzane/116410863009847575",
-      "score": 208,
-      "comments": 112
     }
   ]
 }
