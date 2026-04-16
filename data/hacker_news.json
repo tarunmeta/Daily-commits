@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-16 18:43:06 UTC",
-    "fetched_at_ist": "2026-04-17 00:13:06 IST",
+    "fetched_at_utc": "2026-04-16 22:42:07 UTC",
+    "fetched_at_ist": "2026-04-17 04:12:07 IST",
     "item_count": 5,
-    "content_hash": "ae9ae55b3fe1271841218062f54f48398a9109a30382f76377baa5d7f73bf410",
-    "previous_hash": "9099372de40e43dfabcb4c66b6b14e841a6ab2142ffdb1b76148d24478922d07",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "5051db8ecb6f49ffc523a0c350a53942156e2ed7532bff8f3f10d915336fe2a0",
+    "previous_hash": "ae9ae55b3fe1271841218062f54f48398a9109a30382f76377baa5d7f73bf410",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 944,
-      "comments": 730
+      "score": 1303,
+      "comments": 957
     },
     {
       "id": 47796469,
-      "title": "Codex for Almost Everything",
+      "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 244,
-      "comments": 101
+      "score": 587,
+      "comments": 317
     },
     {
-      "id": 47792764,
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "score": 617,
-      "comments": 296
+      "id": 47799573,
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "score": 38,
+      "comments": 0
     },
     {
-      "id": 47792538,
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "url": "https://blog.cloudflare.com/ai-platform/",
-      "score": 152,
-      "comments": 35
+      "id": 47800033,
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "url": "https://github.com/gainsec/autoprober",
+      "score": 32,
+      "comments": 2
     },
     {
-      "id": 47794514,
-      "title": "Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs",
-      "url": "https://www.zatanna.ai/kampala",
-      "score": 37,
-      "comments": 30
+      "id": 47798345,
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "url": "https://clojure.org/about/documentary",
+      "score": 46,
+      "comments": 6
     }
   ]
 }
