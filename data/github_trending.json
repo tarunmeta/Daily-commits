@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-16 12:09:17 UTC",
-    "fetched_at_ist": "2026-04-16 17:39:17 IST",
-    "item_count": 13,
-    "content_hash": "bbf346806c02fa00f09a0e1b3682afe60d78224369e07f8b50d6a675b39ff440",
-    "previous_hash": "39a12f8f2a458ec9a6df87127dbfc2a43860db078119f583eabe0ac6208b2ae2",
-    "new_repos_vs_previous": 6,
+    "fetched_at_utc": "2026-04-17 00:06:35 UTC",
+    "fetched_at_ist": "2026-04-17 05:36:35 IST",
+    "item_count": 14,
+    "content_hash": "67105745a8eb37d402eca7c3ea63003a9fa4fa984bec1e5ac44d16649053be92",
+    "previous_hash": "bbf346806c02fa00f09a0e1b3682afe60d78224369e07f8b50d6a675b39ff440",
+    "new_repos_vs_previous": 1,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,79 +15,85 @@
       "name": "forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": "9,646 stars today"
+      "stars_today": "7,959 stars today"
     },
     {
       "name": "thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars_today": "2,305 stars today"
+      "stars_today": "1,897 stars today"
     },
     {
       "name": "lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
-      "stars_today": "446 stars today"
+      "stars_today": "872 stars today"
     },
     {
       "name": "jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
-      "stars_today": "1,062 stars today"
+      "stars_today": "880 stars today"
     },
     {
       "name": "vercel-labs/open-agents",
       "description": "An open source template for building cloud agents.",
       "language": "TypeScript",
-      "stars_today": "915 stars today"
+      "stars_today": "738 stars today"
     },
     {
       "name": "google/magika",
       "description": "Fast and accurate AI powered file content types detection",
       "language": "Python",
-      "stars_today": "768 stars today"
+      "stars_today": "854 stars today"
     },
     {
       "name": "steipete/wacli",
       "description": "WhatsApp CLI",
       "language": "Go",
-      "stars_today": "354 stars today"
+      "stars_today": "321 stars today"
     },
     {
       "name": "topoteretes/cognee",
       "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
       "language": "Python",
-      "stars_today": "156 stars today"
+      "stars_today": "170 stars today"
     },
     {
       "name": "z-lab/dflash",
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
-      "stars_today": "183 stars today"
+      "stars_today": "195 stars today"
     },
     {
       "name": "Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars_today": "941 stars today"
+      "stars_today": "1,385 stars today"
     },
     {
       "name": "openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
-      "stars_today": "110 stars today"
+      "stars_today": "172 stars today"
     },
     {
       "name": "EvoMap/evolver",
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
-      "stars_today": "866 stars today"
+      "stars_today": "812 stars today"
+    },
+    {
+      "name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "stars_today": "375 stars today"
     },
     {
       "name": "BasedHardware/omi",
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
-      "stars_today": "448 stars today"
+      "stars_today": "378 stars today"
     }
   ]
 }

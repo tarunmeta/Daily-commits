@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-16 22:42:07 UTC",
-    "fetched_at_ist": "2026-04-17 04:12:07 IST",
+    "fetched_at_utc": "2026-04-17 00:06:36 UTC",
+    "fetched_at_ist": "2026-04-17 05:36:36 IST",
     "item_count": 5,
-    "content_hash": "5051db8ecb6f49ffc523a0c350a53942156e2ed7532bff8f3f10d915336fe2a0",
-    "previous_hash": "ae9ae55b3fe1271841218062f54f48398a9109a30382f76377baa5d7f73bf410",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "ab4d503957f4d39a8a9b4f734b5513a513bb1efc8d131ee9b2c8f46b0f6f21ff",
+    "previous_hash": "5051db8ecb6f49ffc523a0c350a53942156e2ed7532bff8f3f10d915336fe2a0",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1303,
-      "comments": 957
+      "score": 1387,
+      "comments": 1006
     },
     {
       "id": 47796469,
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 587,
-      "comments": 317
+      "score": 631,
+      "comments": 349
     },
     {
       "id": 47799573,
       "title": "A Better R Programming Experience Thanks to Tree-sitter",
       "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-      "score": 38,
-      "comments": 0
+      "score": 60,
+      "comments": 2
     },
     {
       "id": 47800033,
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
       "url": "https://github.com/gainsec/autoprober",
-      "score": 32,
-      "comments": 2
+      "score": 62,
+      "comments": 10
     },
     {
       "id": 47798345,
       "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
       "url": "https://clojure.org/about/documentary",
-      "score": 46,
-      "comments": 6
+      "score": 78,
+      "comments": 16
     }
   ]
 }

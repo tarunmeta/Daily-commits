@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-16 23:26:28 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-17 00:06:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$75,045.0** ↑ (+0.40%)
+- BTC: **$75,079.0** ↑ (+0.55%)
 - HN top story: **Claude Opus 4.7**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-16 12:09:17 UTC | `bbf346806c02` | +6 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-16 22:42:07 UTC | `5051db8ecb6f` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-04-16 23:26:28 UTC | `80544872b627` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-04-17 00:06:35 UTC | `67105745a8eb` | +1 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-17 00:06:36 UTC | `ab4d503957f4` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-04-17 00:06:36 UTC | `3cfdfbe436a1` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +1 new repos, top changed: no
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-17` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `42` day(s) |
-| Last Commit (IST) | `2026-04-17 04:12:07 IST` |
+| Last Commit (IST) | `2026-04-17 04:56:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-14 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-15 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-16 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-17 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-04-17 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,045.0 | +0.40% | 🟢 |
-| Ethereum | $2,347.87 | -0.31% | 🔴 |
-| Solana | $88.91 | +4.81% | 🟢 |
-| Bnb | $634.89 | +1.91% | 🟢 |
+| Bitcoin | $75,079.0 | +0.55% | 🟢 |
+| Ethereum | $2,347.79 | -0.29% | 🔴 |
+| Solana | $89.04 | +5.03% | 🟢 |
+| Bnb | $636.23 | +2.21% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 9,646 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 2,305 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 446 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 1,062 stars today | The open-source voice synthesis studio |
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 915 stars today | An open source template for building cloud agents. |
-| [google/magika](https://github.com/google/magika) | Python | 768 stars today | Fast and accurate AI powered file content types detection |
-| [steipete/wacli](https://github.com/steipete/wacli) | Go | 354 stars today | WhatsApp CLI |
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 156 stars today | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 7,959 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 1,897 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 872 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 880 stars today | The open-source voice synthesis studio |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 738 stars today | An open source template for building cloud agents. |
+| [google/magika](https://github.com/google/magika) | Python | 854 stars today | Fast and accurate AI powered file content types detection |
+| [steipete/wacli](https://github.com/steipete/wacli) | Go | 321 stars today | WhatsApp CLI |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 170 stars today | Knowledge Engine for AI Agent Memory in 6 lines of code |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 1303 | 957 |
-| [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) | 587 | 317 |
-| [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/) | 38 | 0 |
-| [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober) | 32 | 2 |
-| [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary) | 46 | 6 |
+| [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 1387 | 1006 |
+| [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) | 631 | 349 |
+| [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/) | 60 | 2 |
+| [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober) | 62 | 10 |
+| [Official Clojure Documentary page with Video, Shownotes, and Links](https://clojure.org/about/documentary) | 78 | 16 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
