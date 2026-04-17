@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-17 00:06:36 UTC",
-    "fetched_at_ist": "2026-04-17 05:36:36 IST",
+    "fetched_at_utc": "2026-04-17 06:04:30 UTC",
+    "fetched_at_ist": "2026-04-17 11:34:30 IST",
     "item_count": 5,
-    "content_hash": "ab4d503957f4d39a8a9b4f734b5513a513bb1efc8d131ee9b2c8f46b0f6f21ff",
-    "previous_hash": "5051db8ecb6f49ffc523a0c350a53942156e2ed7532bff8f3f10d915336fe2a0",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "6ddb95125ff3ddf0c8b5aa016b2ee33b2cb00dd668642ea76350d24e55baf1a5",
+    "previous_hash": "ab4d503957f4d39a8a9b4f734b5513a513bb1efc8d131ee9b2c8f46b0f6f21ff",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47793411,
       "title": "Claude Opus 4.7",
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1387,
-      "comments": 1006
+      "score": 1627,
+      "comments": 1143
     },
     {
       "id": 47796469,
       "title": "Codex for almost everything",
       "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 631,
-      "comments": 349
+      "score": 787,
+      "comments": 395
     },
     {
-      "id": 47799573,
-      "title": "A Better R Programming Experience Thanks to Tree-sitter",
-      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
-      "score": 60,
-      "comments": 2
+      "id": 47772725,
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "url": "https://cadquery.github.io/",
+      "score": 92,
+      "comments": 13
     },
     {
       "id": 47800033,
       "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
       "url": "https://github.com/gainsec/autoprober",
-      "score": 62,
-      "comments": 10
+      "score": 144,
+      "comments": 28
     },
     {
-      "id": 47798345,
-      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "url": "https://clojure.org/about/documentary",
-      "score": 78,
-      "comments": 16
+      "id": 47801255,
+      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
+      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+      "score": 54,
+      "comments": 11
     }
   ]
 }
