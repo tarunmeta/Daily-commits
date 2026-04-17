@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-17 06:04:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-17 18:05:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **forrestchang/andrej-karpathy-skills**
-- BTC: **$74,656.0** ↓ (-0.54%)
-- HN top story: **Claude Opus 4.7**
+- Top GitHub repo: **EvoMap/evolver**
+- BTC: **$77,408.0** ↑ (+4.12%)
+- HN top story: **Claude Design**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-17 00:06:35 UTC | `67105745a8eb` | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-17 06:04:30 UTC | `6ddb95125ff3` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-17 06:04:29 UTC | `1c902a9640d6` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-04-17 18:05:42 UTC | `56f0651c63e6` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-17 18:05:43 UTC | `4b01d5961736` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-17 18:05:43 UTC | `8bbf29d2af48` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +1 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-17` |
-| Commits Today | `17` / `100` |
-| Remaining Today | `83` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
+| Commits Today | `18` / `100` |
+| Remaining Today | `82` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
 | Streak | `42` day(s) |
-| Last Commit (IST) | `2026-04-17 21:35:58 IST` |
+| Last Commit (IST) | `2026-04-17 22:37:03 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-14 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-15 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-16 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-17 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
+| 2026-04-17 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,656.0 | -0.54% | 🔴 |
-| Ethereum | $2,320.14 | -1.59% | 🔴 |
-| Solana | $87.48 | +2.41% | 🟢 |
-| Bnb | $628.45 | +0.48% | 🟢 |
+| Bitcoin | $77,408.0 | +4.12% | 🟢 |
+| Ethereum | $2,435.83 | +4.74% | 🟢 |
+| Solana | $89.56 | +3.19% | 🟢 |
+| Bnb | $641.29 | +2.19% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | Unknown | 7,959 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 1,897 stars today | A Claude Code plugin that automatically captures everything Claude does during y… |
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 872 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 880 stars today | The open-source voice synthesis studio |
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 738 stars today | An open source template for building cloud agents. |
-| [google/magika](https://github.com/google/magika) | Python | 854 stars today | Fast and accurate AI powered file content types detection |
-| [steipete/wacli](https://github.com/steipete/wacli) | Go | 321 stars today | WhatsApp CLI |
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | 170 stars today | Knowledge Engine for AI Agent Memory in 6 lines of code |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 750 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
+| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 848 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 558 stars today | Claude Code skill to support Android app's reverse engineering |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 821 stars today | AI that sees your screen, listens to your conversations and tells you what to do |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 949 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 405 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,… |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 802 stars today | The open-source voice synthesis studio |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 107 stars today | No description |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) | 1627 | 1143 |
-| [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) | 787 | 395 |
-| [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/) | 92 | 13 |
-| [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober) | 144 | 28 |
-| [Show HN: SPICE simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/) | 54 | 11 |
+| [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) | 448 | 276 |
+| [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) | 252 | 136 |
+| [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html) | 459 | 172 |
+| [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848) | 116 | 45 |
+| [NIST gives up enriching most CVEs](https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/) | 83 | 19 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

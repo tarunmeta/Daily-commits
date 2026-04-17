@@ -20,44 +20,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-17 (last updated: 11:34 IST)
+
+## 📅 2026-04-17 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-04-17 05:36:35 IST | 67105745a8eb | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-17 11:34:30 IST | 6ddb95125ff3 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-17 11:34:29 IST | 1c902a9640d6 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-04-17 23:35:42 IST | 56f0651c63e6 | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-17 23:35:43 IST | 4b01d5961736 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-17 23:35:43 IST | 8bbf29d2af48 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +1 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 7,959 stars today
-- **[thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)** (TypeScript) — A Claude Code plugin that automatically captures everything Claude does during y  
-  ⭐ 1,897 stars today
+- **[EvoMap/evolver](https://github.com/EvoMap/evolver)** (JavaScript) — The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol.   
+  ⭐ 750 stars today
 - **[lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)** (Python) — Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system  
-  ⭐ 872 stars today
-- **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)** (TypeScript) — The open-source voice synthesis studio  
-  ⭐ 880 stars today
-- **[vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)** (TypeScript) — An open source template for building cloud agents.  
-  ⭐ 738 stars today
+  ⭐ 848 stars today
+- **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** (Shell) — Claude Code skill to support Android app's reverse engineering  
+  ⭐ 558 stars today
+- **[BasedHardware/omi](https://github.com/BasedHardware/omi)** (Dart) — AI that sees your screen, listens to your conversations and tells you what to do  
+  ⭐ 821 stars today
+- **[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)** (Jupyter Notebook) — 《动手学大模型Dive into LLMs》系列编程实践教程  
+  ⭐ 949 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7) — Score: 1627
-- [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/) — Score: 787
-- [CadQuery is an open-source Python library for building 3D CAD models](https://cadquery.github.io/) — Score: 92
-- [Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine](https://github.com/gainsec/autoprober) — Score: 144
-- [Show HN: SPICE simulation → oscilloscope → verification with Claude Code](https://lucasgerads.com/blog/lecroy-mcp-spice-demo/) — Score: 54
+- [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) — Score: 448
+- [Claude Opus 4.7 costs 20–30% more per session](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) — Score: 252
+- [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html) — Score: 459
+- [Middle schooler finds coin from Troy in Berlin](https://www.thehistoryblog.com/archives/75848) — Score: 116
+- [NIST gives up enriching most CVEs](https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/) — Score: 83
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,656.0 🔴 -0.54%
-- Ethereum: $2,320.14 🔴 -1.59%
-- Solana: $87.48 🟢 +2.41%
-- Bnb: $628.45 🟢 +0.48%
+- Bitcoin: $77,408.0 🟢 +4.12%
+- Ethereum: $2,435.83 🟢 +4.74%
+- Solana: $89.56 🟢 +3.19%
+- Bnb: $641.29 🟢 +2.19%
 
 ---
 ## 📅 2026-04-16 (last updated: 22:54 IST)

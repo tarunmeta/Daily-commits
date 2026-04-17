@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-17 06:04:30 UTC",
-    "fetched_at_ist": "2026-04-17 11:34:30 IST",
+    "fetched_at_utc": "2026-04-17 18:05:43 UTC",
+    "fetched_at_ist": "2026-04-17 23:35:43 IST",
     "item_count": 5,
-    "content_hash": "6ddb95125ff3ddf0c8b5aa016b2ee33b2cb00dd668642ea76350d24e55baf1a5",
-    "previous_hash": "ab4d503957f4d39a8a9b4f734b5513a513bb1efc8d131ee9b2c8f46b0f6f21ff",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "4b01d59617369858ba60d606e82ce3f4bd25d6cb5f27f01011c552f173661200",
+    "previous_hash": "6ddb95125ff3ddf0c8b5aa016b2ee33b2cb00dd668642ea76350d24e55baf1a5",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47793411,
-      "title": "Claude Opus 4.7",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "score": 1627,
-      "comments": 1143
+      "id": 47806725,
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "score": 448,
+      "comments": 276
     },
     {
-      "id": 47796469,
-      "title": "Codex for almost everything",
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "score": 787,
-      "comments": 395
+      "id": 47807006,
+      "title": "Claude Opus 4.7 costs 20–30% more per session",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "score": 252,
+      "comments": 136
     },
     {
-      "id": 47772725,
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "url": "https://cadquery.github.io/",
-      "score": 92,
-      "comments": 13
+      "id": 47804965,
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "url": "https://hex.ooo/library/last_question.html",
+      "score": 459,
+      "comments": 172
     },
     {
-      "id": 47800033,
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "url": "https://github.com/gainsec/autoprober",
-      "score": 144,
-      "comments": 28
+      "id": 47806484,
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "score": 116,
+      "comments": 45
     },
     {
-      "id": 47801255,
-      "title": "Show HN: SPICE simulation → oscilloscope → verification with Claude Code",
-      "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-      "score": 54,
-      "comments": 11
+      "id": 47806777,
+      "title": "NIST gives up enriching most CVEs",
+      "url": "https://risky.biz/risky-bulletin-nist-gives-up-enriching-most-cves/",
+      "score": 83,
+      "comments": 19
     }
   ]
 }
