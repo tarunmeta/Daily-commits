@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-18 17:23:40 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-18 18:03:00 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **EvoMap/evolver**
-- BTC: **$75,885.0** ↓ (-1.95%)
-- HN top story: **Migrating from DigitalOcean to Hetzner**
+- Top GitHub repo: **thunderbird/thunderbolt**
+- BTC: **$75,817.0** ↓ (-2.07%)
+- HN top story: **Opus 4.7 to 4.6 Inflation is ~45%**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-04-17 18:05:42 UTC | `56f0651c63e6` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-18 16:43:12 UTC | `81e85420c2c8` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-18 17:23:40 UTC | `769f752df78c` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 10 | 2026-04-18 18:02:59 UTC | `e06ee84300fc` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-18 18:03:00 UTC | `edc0f3f1ff00` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-18 18:02:59 UTC | `230cd3c9b3a4` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-18` |
-| Commits Today | `21` / `100` |
-| Remaining Today | `79` |
-| Progress | `████░░░░░░░░░░░░░░░░` 21% |
+| Commits Today | `22` / `100` |
+| Remaining Today | `78` |
+| Progress | `████░░░░░░░░░░░░░░░░` 22% |
 | Streak | `43` day(s) |
-| Last Commit (IST) | `2026-04-18 22:13:12 IST` |
+| Last Commit (IST) | `2026-04-18 22:53:40 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-15 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-16 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-17 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
-| 2026-04-18 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
+| 2026-04-18 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,885.0 | -1.95% | 🔴 |
-| Ethereum | $2,361.2 | -3.05% | 🔴 |
-| Solana | $86.67 | -3.22% | 🔴 |
-| Bnb | $633.39 | -1.34% | 🔴 |
+| Bitcoin | $75,817.0 | -2.07% | 🔴 |
+| Ethereum | $2,360.49 | -3.15% | 🔴 |
+| Solana | $86.78 | -3.09% | 🔴 |
+| Bnb | $633.5 | -1.26% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 750 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
-| [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | 848 stars today | Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system… |
-| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | 558 stars today | Claude Code skill to support Android app's reverse engineering |
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 821 stars today | AI that sees your screen, listens to your conversations and tells you what to do |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 949 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | 405 stars today | Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,… |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 802 stars today | The open-source voice synthesis studio |
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 107 stars today | No description |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 458 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 617 stars today | AI that sees your screen, listens to your conversations and tells you what to do |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 473 stars today | A lightweight, powerful framework for multi-agent workflows |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 1,150 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 31 stars today | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
+| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 562 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Shell | 39 stars today | Claude Desktop for Debian-based Linux distributions |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | Rust | 351 stars today | An open-source remote desktop application designed for self-hosting, as an alter… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/) | 376 | 203 |
-| [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) | 190 | 71 |
-| [Fuzix OS](https://www.fuzix.org/) | 17 | 3 |
-| [Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups](https://www.sumida-aquarium.com/special/sokanzu/en/2026/) | 65 | 2 |
-| [Michael Rabin has died](https://en.wikipedia.org/wiki/Michael_O._Rabin) | 275 | 54 |
+| [Opus 4.7 to 4.6 Inflation is ~45%](https://tokens.billchambers.me/leaderboard) | 162 | 146 |
+| [The electromechanical angle computer inside the B-52 bomber's star tracker](https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html) | 46 | 11 |
+| [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/) | 451 | 255 |
+| [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) | 229 | 80 |
+| [Fuzix OS](https://www.fuzix.org/) | 30 | 9 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
