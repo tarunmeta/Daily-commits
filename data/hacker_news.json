@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-18 18:03:00 UTC",
-    "fetched_at_ist": "2026-04-18 23:33:00 IST",
+    "fetched_at_utc": "2026-04-18 20:39:25 UTC",
+    "fetched_at_ist": "2026-04-19 02:09:25 IST",
     "item_count": 5,
-    "content_hash": "edc0f3f1ff00968dce4580d6197c44120d92fc8100061e70b9e36906d9516e4e",
-    "previous_hash": "81e85420c2c8f781185bbf689ed68869008495f9d392f4535db518e64a19142c",
+    "content_hash": "6834520f243b02c20319e49035c02875ee7ae2780ff4d2fcbb74557c14540f89",
+    "previous_hash": "edc0f3f1ff00968dce4580d6197c44120d92fc8100061e70b9e36906d9516e4e",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47816960,
-      "title": "Opus 4.7 to 4.6 Inflation is ~45%",
-      "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 162,
-      "comments": 146
-    },
-    {
       "id": 47817132,
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 46,
-      "comments": 11
+      "score": 157,
+      "comments": 47
     },
     {
       "id": 47815774,
       "title": "Migrating from DigitalOcean to Hetzner",
       "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 451,
-      "comments": 255
+      "score": 577,
+      "comments": 308
+    },
+    {
+      "id": 47818700,
+      "title": "Thoughts and feelings around Claude Design",
+      "url": "https://samhenri.gold/blog/20260418-claude-design/",
+      "score": 28,
+      "comments": 7
     },
     {
       "id": 47815118,
       "title": "State of Kdenlive",
       "url": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 229,
-      "comments": 80
+      "score": 285,
+      "comments": 95
     },
     {
-      "id": 47816625,
-      "title": "Fuzix OS",
-      "url": "https://www.fuzix.org/",
-      "score": 30,
-      "comments": 9
+      "id": 47818485,
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "score": 12,
+      "comments": 2
     }
   ]
 }
