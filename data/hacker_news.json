@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-17 19:31:59 UTC",
-    "fetched_at_ist": "2026-04-18 01:01:59 IST",
+    "fetched_at_utc": "2026-04-18 07:41:57 UTC",
+    "fetched_at_ist": "2026-04-18 13:11:57 IST",
     "item_count": 5,
-    "content_hash": "669c261669149bfd79d340349106fd1580e1308a550c3aef939766312a3ca1aa",
-    "previous_hash": "4b01d59617369858ba60d606e82ce3f4bd25d6cb5f27f01011c552f173661200",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "ebbf1cc8c0792e7deda25e17a34eb51d9cdef199006023344a4bca51874684db",
+    "previous_hash": "669c261669149bfd79d340349106fd1580e1308a550c3aef939766312a3ca1aa",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47813631,
+      "title": "Why is IPv6 so complicated?",
+      "url": "https://github.com/becarpenter/misc/blob/main/why6why.md",
+      "score": 35,
+      "comments": 21
+    },
+    {
+      "id": 47812341,
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "url": "https://victorpoughon.github.io/interval-calculator/",
+      "score": 118,
+      "comments": 16
+    },
     {
       "id": 47806725,
       "title": "Claude Design",
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 559,
-      "comments": 372
+      "score": 1005,
+      "comments": 659
     },
     {
-      "id": 47807006,
-      "title": "Claude Opus 4.7 costs 20–30% more per session",
-      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-      "score": 346,
-      "comments": 201
+      "id": 47813668,
+      "title": "Category Theory Illustrated – Orders",
+      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
+      "score": 10,
+      "comments": 0
     },
     {
-      "id": 47808913,
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder",
-      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
-      "score": 57,
-      "comments": 24
-    },
-    {
-      "id": 47804965,
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "url": "https://hex.ooo/library/last_question.html",
-      "score": 501,
-      "comments": 191
-    },
-    {
-      "id": 47807209,
-      "title": "NASA Force",
-      "url": "https://nasaforce.gov/",
-      "score": 119,
-      "comments": 133
+      "id": 47778938,
+      "title": "Towards trust in Emacs",
+      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
+      "score": 89,
+      "comments": 10
     }
   ]
 }
