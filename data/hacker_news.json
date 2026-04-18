@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-18 20:39:25 UTC",
-    "fetched_at_ist": "2026-04-19 02:09:25 IST",
+    "fetched_at_utc": "2026-04-18 23:37:19 UTC",
+    "fetched_at_ist": "2026-04-19 05:07:19 IST",
     "item_count": 5,
-    "content_hash": "6834520f243b02c20319e49035c02875ee7ae2780ff4d2fcbb74557c14540f89",
-    "previous_hash": "edc0f3f1ff00968dce4580d6197c44120d92fc8100061e70b9e36906d9516e4e",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "1714f5bfb7a8940b60fa1574fef6fd0573824c3d7bcf6ee4b2209375fc786239",
+    "previous_hash": "6834520f243b02c20319e49035c02875ee7ae2780ff4d2fcbb74557c14540f89",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47819453,
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "score": 86,
+      "comments": 39
+    },
+    {
+      "id": 47816960,
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "url": "https://tokens.billchambers.me/leaderboard",
+      "score": 387,
+      "comments": 409
+    },
+    {
       "id": 47817132,
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 157,
-      "comments": 47
-    },
-    {
-      "id": 47815774,
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "score": 577,
-      "comments": 308
+      "score": 237,
+      "comments": 70
     },
     {
       "id": 47818700,
       "title": "Thoughts and feelings around Claude Design",
       "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "score": 28,
-      "comments": 7
+      "score": 182,
+      "comments": 124
     },
     {
-      "id": 47815118,
-      "title": "State of Kdenlive",
-      "url": "https://kdenlive.org/news/2026/state-2026/",
-      "score": 285,
-      "comments": 95
-    },
-    {
-      "id": 47818485,
-      "title": "College instructor turns to typewriters to curb AI-written work",
-      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 12,
-      "comments": 2
+      "id": 47819369,
+      "title": "Optimizing Ruby Path Methods",
+      "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
+      "score": 32,
+      "comments": 14
     }
   ]
 }
