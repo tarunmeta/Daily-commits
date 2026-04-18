@@ -22,18 +22,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-18 (last updated: 14:58 IST)
+
+## 📅 2026-04-18 (last updated: 22:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-04-17 23:35:42 IST | 56f0651c63e6 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-18 13:11:57 IST | ebbf1cc8c079 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-18 22:13:12 IST | 81e85420c2c8 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-18 14:58:03 IST | ffaa59b0afc3 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -49,11 +50,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 949 stars today
 
 ### 📰 Hacker News Stories
-- [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md) — Score: 35
-- [Show HN: I made a calculator that works over disjoint sets of intervals](https://victorpoughon.github.io/interval-calculator/) — Score: 118
-- [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) — Score: 1005
-- [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/) — Score: 10
-- [Towards trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html) — Score: 89
+- [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/) — Score: 376
+- [State of Kdenlive](https://kdenlive.org/news/2026/state-2026/) — Score: 190
+- [Fuzix OS](https://www.fuzix.org/) — Score: 17
+- [Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups](https://www.sumida-aquarium.com/special/sokanzu/en/2026/) — Score: 65
+- [Michael Rabin has died](https://en.wikipedia.org/wiki/Michael_O._Rabin) — Score: 275
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,581.0 🟢 +0.59%

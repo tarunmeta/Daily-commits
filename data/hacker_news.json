@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-18 07:41:57 UTC",
-    "fetched_at_ist": "2026-04-18 13:11:57 IST",
+    "fetched_at_utc": "2026-04-18 16:43:12 UTC",
+    "fetched_at_ist": "2026-04-18 22:13:12 IST",
     "item_count": 5,
-    "content_hash": "ebbf1cc8c0792e7deda25e17a34eb51d9cdef199006023344a4bca51874684db",
-    "previous_hash": "669c261669149bfd79d340349106fd1580e1308a550c3aef939766312a3ca1aa",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "81e85420c2c8f781185bbf689ed68869008495f9d392f4535db518e64a19142c",
+    "previous_hash": "ebbf1cc8c0792e7deda25e17a34eb51d9cdef199006023344a4bca51874684db",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47813631,
-      "title": "Why is IPv6 so complicated?",
-      "url": "https://github.com/becarpenter/misc/blob/main/why6why.md",
-      "score": 35,
-      "comments": 21
+      "id": 47815774,
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+      "score": 376,
+      "comments": 203
     },
     {
-      "id": 47812341,
-      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "url": "https://victorpoughon.github.io/interval-calculator/",
-      "score": 118,
-      "comments": 16
+      "id": 47815118,
+      "title": "State of Kdenlive",
+      "url": "https://kdenlive.org/news/2026/state-2026/",
+      "score": 190,
+      "comments": 71
     },
     {
-      "id": 47806725,
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1005,
-      "comments": 659
+      "id": 47816625,
+      "title": "Fuzix OS",
+      "url": "https://www.fuzix.org/",
+      "score": 17,
+      "comments": 3
     },
     {
-      "id": 47813668,
-      "title": "Category Theory Illustrated – Orders",
-      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "score": 10,
-      "comments": 0
+      "id": 47784395,
+      "title": "Sumida Aquarium Posts 2026 Penguin Relationship Chart, with Drama and Breakups",
+      "url": "https://www.sumida-aquarium.com/special/sokanzu/en/2026/",
+      "score": 65,
+      "comments": 2
     },
     {
-      "id": 47778938,
-      "title": "Towards trust in Emacs",
-      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-      "score": 89,
-      "comments": 10
+      "id": 47782925,
+      "title": "Michael Rabin has died",
+      "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
+      "score": 275,
+      "comments": 54
     }
   ]
 }
