@@ -2,38 +2,38 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-18 18:02:59 UTC",
-    "fetched_at_ist": "2026-04-18 23:32:59 IST",
+    "fetched_at_utc": "2026-04-19 06:14:21 UTC",
+    "fetched_at_ist": "2026-04-19 11:44:21 IST",
     "item_count": 10,
-    "content_hash": "e06ee84300fc3d9631fc89ede9b66e58c49a138ed49812168e032a9c413af3fd",
-    "previous_hash": "56f0651c63e69556ca9c64a19797c414715aaa5b6614f9d5dc26b5bf7b6fde74",
-    "new_repos_vs_previous": 5,
-    "top_repo_changed": true
+    "content_hash": "531ee8e6346c6429994550203a4a6a72abeaa1b2bafd9b1d6cc2d6c3a26fa1a5",
+    "previous_hash": "e06ee84300fc3d9631fc89ede9b66e58c49a138ed49812168e032a9c413af3fd",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
-      "stars_today": "458 stars today"
+      "stars_today": "447 stars today"
     },
     {
       "name": "BasedHardware/omi",
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
-      "stars_today": "617 stars today"
+      "stars_today": "609 stars today"
     },
     {
       "name": "openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
-      "stars_today": "473 stars today"
+      "stars_today": "470 stars today"
     },
     {
       "name": "EvoMap/evolver",
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
-      "stars_today": "1,150 stars today"
+      "stars_today": "1,131 stars today"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -45,31 +45,31 @@
       "name": "Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars_today": "562 stars today"
+      "stars_today": "547 stars today"
     },
     {
       "name": "aaddrick/claude-desktop-debian",
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
-      "stars_today": "39 stars today"
+      "stars_today": "44 stars today"
     },
     {
       "name": "rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
-      "stars_today": "351 stars today"
+      "stars_today": "393 stars today"
     },
     {
       "name": "SimoneAvogadro/android-reverse-engineering-skill",
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
-      "stars_today": "408 stars today"
+      "stars_today": "403 stars today"
     },
     {
       "name": "tractorjuice/arc-kit",
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
-      "stars_today": "143 stars today"
+      "stars_today": "135 stars today"
     }
   ]
 }

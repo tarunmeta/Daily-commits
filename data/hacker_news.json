@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-18 23:37:19 UTC",
-    "fetched_at_ist": "2026-04-19 05:07:19 IST",
+    "fetched_at_utc": "2026-04-19 06:14:22 UTC",
+    "fetched_at_ist": "2026-04-19 11:44:22 IST",
     "item_count": 5,
-    "content_hash": "1714f5bfb7a8940b60fa1574fef6fd0573824c3d7bcf6ee4b2209375fc786239",
-    "previous_hash": "6834520f243b02c20319e49035c02875ee7ae2780ff4d2fcbb74557c14540f89",
+    "content_hash": "f25f2963bf3099cf3de56812506239499596743fbc221d3970686b1a3ffe365f",
+    "previous_hash": "1714f5bfb7a8940b60fa1574fef6fd0573824c3d7bcf6ee4b2209375fc786239",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47819453,
       "title": "NIST scientists create 'any wavelength' lasers",
       "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "score": 86,
-      "comments": 39
+      "score": 250,
+      "comments": 107
     },
     {
       "id": 47816960,
       "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
       "url": "https://tokens.billchambers.me/leaderboard",
-      "score": 387,
-      "comments": 409
+      "score": 482,
+      "comments": 483
     },
     {
-      "id": 47817132,
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 237,
-      "comments": 70
+      "id": 47818485,
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "score": 225,
+      "comments": 202
     },
     {
-      "id": 47818700,
-      "title": "Thoughts and feelings around Claude Design",
-      "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "score": 182,
-      "comments": 124
+      "id": 47791771,
+      "title": "Updating Gun Rocket through 10 years of Unity Engine",
+      "url": "https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine",
+      "score": 57,
+      "comments": 18
     },
     {
-      "id": 47819369,
-      "title": "Optimizing Ruby Path Methods",
-      "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "score": 32,
-      "comments": 14
+      "id": 47806021,
+      "title": "What Are Skiplists Good For?",
+      "url": "https://antithesis.com/blog/2026/skiptrees/",
+      "score": 25,
+      "comments": 4
     }
   ]
 }
