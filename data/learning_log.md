@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-20 (last updated: 02:50 IST)
+
+## 📅 2026-04-20 (last updated: 05:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-19 23:32:44 IST | 53c2da6f0033 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-20 02:10:26 IST | 663e39fd9890 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-20 05:09:06 IST | 117ccb6ceaa6 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-20 02:50:07 IST | be4d5aac08a2 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 96 stars today
 
 ### 📰 Hacker News Stories
-- [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) — Score: 59
-- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) — Score: 313
-- [A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/) — Score: 16
-- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) — Score: 52
-- [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu) — Score: 19
+- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) — Score: 452
+- [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) — Score: 131
+- [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/) — Score: 14
+- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/) — Score: 23
+- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) — Score: 86
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,614.0 🔴 -1.46%
