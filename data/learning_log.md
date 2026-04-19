@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-04-20 (last updated: 23:32 IST)
+
+## 📅 2026-04-20 (last updated: 02:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-19 23:32:44 IST | 53c2da6f0033 | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-19 23:32:45 IST | 5dcabc6a26b4 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-20 02:10:26 IST | 663e39fd9890 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-19 23:32:44 IST | beabff0e368f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 96 stars today
 
 ### 📰 Hacker News Stories
-- [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) — Score: 214
-- [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) — Score: 417
-- [Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No](https://news.ycombinator.com/item?id=47825520) — Score: 33
-- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720) — Score: 134
-- [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/) — Score: 79
+- [The Bromine Chokepoint: How Strife Could Halt Production of World’s Memory Chips](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) — Score: 59
+- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) — Score: 313
+- [A. J. Ayer – ‘What I Saw When I Was Dead’ (1988)](https://www.philosopher.eu/others-writings/a-j-ayer-what-i-saw-when-i-was-dead/) — Score: 16
+- [Show HN: Faceoff – A terminal UI for following NHL games](https://www.vincentgregoire.com/faceoff/) — Score: 52
+- [I wrote a CHIP-8 emulator in my own programming language](https://github.com/navid-m/chip8emu) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,849.0 🔴 -1.20%
