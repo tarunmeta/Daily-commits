@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-19 (last updated: 11:44 IST)
+
+## 📅 2026-04-19 (last updated: 16:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-19 11:44:21 IST | 531ee8e6346c | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-19 11:44:22 IST | f25f2963bf30 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-19 16:11:12 IST | 05f4af5b8b99 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-19 11:44:21 IST | abb1c979ce20 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 31 stars today
 
 ### 📰 Hacker News Stories
-- [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) — Score: 250
-- [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard) — Score: 482
-- [College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/) — Score: 225
-- [Updating Gun Rocket through 10 years of Unity Engine](https://jackpritz.com/blog/updating-gun-rocket-through-10-years-of-unity-engine) — Score: 57
-- [What Are Skiplists Good For?](https://antithesis.com/blog/2026/skiptrees/) — Score: 25
+- [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf) — Score: 50
+- [Game Devs Explain the Tricks Involved with Letting You Pause a Game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339) — Score: 123
+- [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) — Score: 315
+- [What are skiplists good for?](https://antithesis.com/blog/2026/skiptrees/) — Score: 90
+- [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard) — Score: 521
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,478.0 🔴 -2.24%
