@@ -23,18 +23,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-19 (last updated: 18:50 IST)
+
+## 📅 2026-04-19 (last updated: 22:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-19 11:44:21 IST | 531ee8e6346c | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-19 16:11:12 IST | 05f4af5b8b99 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-19 22:12:39 IST | 0b59b69f23f4 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-19 18:50:41 IST | cb0dd19b8bc4 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 31 stars today
 
 ### 📰 Hacker News Stories
-- [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf) — Score: 50
-- [Game Devs Explain the Tricks Involved with Letting You Pause a Game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339) — Score: 123
-- [NIST scientists create 'any wavelength' lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits) — Score: 315
-- [What are skiplists good for?](https://antithesis.com/blog/2026/skiptrees/) — Score: 90
-- [Anonymous request-token comparisons from Opus 4.6 and Opus 4.7](https://tokens.billchambers.me/leaderboard) — Score: 521
+- [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) — Score: 103
+- [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) — Score: 352
+- [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/) — Score: 60
+- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720) — Score: 49
+- [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf) — Score: 119
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,998.0 🔴 -0.25%
