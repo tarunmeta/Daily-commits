@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-19 16:42:39 UTC",
-    "fetched_at_ist": "2026-04-19 22:12:39 IST",
+    "fetched_at_utc": "2026-04-19 18:02:45 UTC",
+    "fetched_at_ist": "2026-04-19 23:32:45 IST",
     "item_count": 5,
-    "content_hash": "0b59b69f23f4ad9729348892b88cf53990415e1a2d1084f8ab6d197a5ed80805",
-    "previous_hash": "05f4af5b8b9919e43b535cfc6a3f6d807423a7d9d6dd631b329393f071e8d68d",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "5dcabc6a26b4ac8bac6b693ee81a306a1df6b0d215fc1566e0b224c082f4ecea",
+    "previous_hash": "0b59b69f23f4ad9729348892b88cf53990415e1a2d1084f8ab6d197a5ed80805",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47824976,
       "title": "Vercel Says Internal Systems Hit in Breach",
       "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
-      "score": 103,
-      "comments": 2
+      "score": 214,
+      "comments": 30
     },
     {
       "id": 47806096,
       "title": "Archive of Byte magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 352,
-      "comments": 89
+      "score": 417,
+      "comments": 102
     },
     {
-      "id": 47777715,
-      "title": "Nanopass Framework: Clean Compiler Creation Language",
-      "url": "https://nanopass.org/",
-      "score": 60,
-      "comments": 6
+      "id": 47825520,
+      "title": "Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No",
+      "url": "https://news.ycombinator.com/item?id=47825520",
+      "score": 33,
+      "comments": 5
     },
     {
       "id": 47824945,
       "title": "Notion leaks email addresses of all editors of any public page",
       "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
-      "score": 49,
-      "comments": 5
+      "score": 134,
+      "comments": 29
     },
     {
-      "id": 47822805,
-      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "score": 119,
-      "comments": 55
+      "id": 47777715,
+      "title": "Nanopass Framework: Clean Compiler Creation Language",
+      "url": "https://nanopass.org/",
+      "score": 79,
+      "comments": 12
     }
   ]
 }

@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-19 17:22:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-19 18:02:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **thunderbird/thunderbolt**
-- BTC: **$75,290.0** ↓ (-0.74%)
+- Top GitHub repo: **Fincept-Corporation/FinceptTerminal**
+- BTC: **$74,849.0** ↓ (-1.20%)
 - HN top story: **Vercel Says Internal Systems Hit in Breach**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-19 06:14:21 UTC | `531ee8e6346c` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-19 16:42:39 UTC | `0b59b69f23f4` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-19 17:22:54 UTC | `11ba05eb8130` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 10 | 2026-04-19 18:02:44 UTC | `53c2da6f0033` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-19 18:02:45 UTC | `5dcabc6a26b4` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-19 18:02:44 UTC | `beabff0e368f` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-19` |
-| Commits Today | `22` / `100` |
-| Remaining Today | `78` |
-| Progress | `████░░░░░░░░░░░░░░░░` 22% |
+| Commits Today | `23` / `100` |
+| Remaining Today | `77` |
+| Progress | `████░░░░░░░░░░░░░░░░` 23% |
 | Streak | `43` day(s) |
-| Last Commit (IST) | `2026-04-19 22:12:39 IST` |
+| Last Commit (IST) | `2026-04-19 22:52:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-16 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-17 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-18 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-04-19 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
+| 2026-04-19 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,290.0 | -0.74% | 🔴 |
-| Ethereum | $2,314.12 | -1.92% | 🔴 |
-| Solana | $85.91 | -0.84% | 🔴 |
-| Bnb | $624.74 | -1.37% | 🔴 |
+| Bitcoin | $74,849.0 | -1.20% | 🔴 |
+| Ethereum | $2,299.27 | -2.55% | 🔴 |
+| Solana | $85.14 | -1.78% | 🔴 |
+| Bnb | $620.97 | -1.97% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 447 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
-| [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | 609 stars today | AI that sees your screen, listens to your conversations and tells you what to do |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 470 stars today | A lightweight, powerful framework for multi-agent workflows |
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 1,131 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 31 stars today | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
-| [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | 547 stars today | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Shell | 44 stars today | Claude Desktop for Debian-based Linux distributions |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | Rust | 393 stars today | An open-source remote desktop application designed for self-hosting, as an alter… |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 1,169 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 696 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | 263 stars today | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 751 stars today | A lightweight, powerful framework for multi-agent workflows |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 96 stars today | No description |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 382 stars today | A community-supported supercharged document management system: scan, index and a… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 118 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 525 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) | 103 | 2 |
-| [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) | 352 | 89 |
-| [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/) | 60 | 6 |
-| [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720) | 49 | 5 |
-| [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf) | 119 | 55 |
+| [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/) | 214 | 30 |
+| [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09) | 417 | 102 |
+| [Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No](https://news.ycombinator.com/item?id=47825520) | 33 | 5 |
+| [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720) | 134 | 29 |
+| [Nanopass Framework: Clean Compiler Creation Language](https://nanopass.org/) | 79 | 12 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
