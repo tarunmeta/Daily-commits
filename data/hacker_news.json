@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-20 18:09:12 UTC",
-    "fetched_at_ist": "2026-04-20 23:39:12 IST",
+    "fetched_at_utc": "2026-04-20 19:33:43 UTC",
+    "fetched_at_ist": "2026-04-21 01:03:43 IST",
     "item_count": 5,
-    "content_hash": "522e6b5ffe7b62c4714f174b37f790e206e19a206778dffcfe1b8cb8b16ff631",
-    "previous_hash": "ef4cd36b81c1e02731bee805af82194af73bd7d7bffe2f7b9d9ee57c2c6871c5",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "36bf73e48a06acb34b2728667ef8b1ff7c6287170d4ca0845bf17e5b36b2deec",
+    "previous_hash": "522e6b5ffe7b62c4714f174b37f790e206e19a206778dffcfe1b8cb8b16ff631",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47834565,
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 297,
-      "comments": 172
+      "score": 378,
+      "comments": 208
     },
     {
       "id": 47833558,
       "title": "ggsql: A Grammar of Graphics for SQL",
       "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "score": 225,
-      "comments": 54
+      "score": 273,
+      "comments": 63
     },
     {
       "id": 47831621,
       "title": "GitHub's Fake Star Economy",
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 539,
-      "comments": 290
+      "score": 589,
+      "comments": 319
     },
     {
-      "id": 47837611,
-      "title": "At long last, InfoWars is ours",
-      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
-      "score": 113,
-      "comments": 40
+      "id": 47835735,
+      "title": "Kimi K2.6: Advancing Open-Source Coding",
+      "url": "https://www.kimi.com/blog/kimi-k2-6",
+      "score": 385,
+      "comments": 186
     },
     {
-      "id": 47837105,
-      "title": "The Theory of Interstellar Trade [pdf]",
-      "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
-      "score": 29,
-      "comments": 5
+      "id": 47836730,
+      "title": "We accepted surveillance as default",
+      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
+      "score": 162,
+      "comments": 71
     }
   ]
 }
