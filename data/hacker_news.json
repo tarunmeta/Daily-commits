@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-20 04:30:10 UTC",
-    "fetched_at_ist": "2026-04-20 10:00:10 IST",
+    "fetched_at_utc": "2026-04-20 06:34:00 UTC",
+    "fetched_at_ist": "2026-04-20 12:04:00 IST",
     "item_count": 5,
-    "content_hash": "226a4bf6fd63b762f3d261a22f2f8440faea313737aea5602a03ad32d90d4781",
-    "previous_hash": "117ccb6ceaa6cab365b7885ec9089fa1fe77baebd6f9cdb1a116337e2254b3f2",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "200ddf9a4b40a8045182ed009868552b7b329efd93c8683b1c528a2d60daea87",
+    "previous_hash": "226a4bf6fd63b762f3d261a22f2f8440faea313737aea5602a03ad32d90d4781",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47828896,
-      "title": "Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed",
-      "url": "https://github.com/shivampkumar/trellis-mac",
-      "score": 103,
-      "comments": 20
+      "id": 47824463,
+      "title": "Vercel April 2026 security incident",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
+      "score": 672,
+      "comments": 382
     },
     {
       "id": 47822734,
       "title": "A Brief History of Fish Sauce",
       "url": "https://www.legalnomads.com/fish-sauce/",
-      "score": 120,
-      "comments": 54
-    },
-    {
-      "id": 47824463,
-      "title": "Vercel April 2026 security incident",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "score": 608,
-      "comments": 343
-    },
-    {
-      "id": 47826100,
-      "title": "The Bromine Chokepoint",
-      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
-      "score": 175,
-      "comments": 80
+      "score": 157,
+      "comments": 63
     },
     {
       "id": 47827259,
       "title": "Stop trying to engineer your way out of listening to people",
       "url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
-      "score": 75,
-      "comments": 14
+      "score": 135,
+      "comments": 45
+    },
+    {
+      "id": 47829178,
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "score": 56,
+      "comments": 19
+    },
+    {
+      "id": 47826100,
+      "title": "The Bromine Chokepoint",
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "score": 187,
+      "comments": 94
     }
   ]
 }
