@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-20 12:09:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-20 18:09:12 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Fincept-Corporation/FinceptTerminal**
-- BTC: **$75,277.0** ↓ (-0.48%)
-- HN top story: **GitHub's Fake Star Economy**
+- BTC: **$76,139.0** ↑ (+1.81%)
+- HN top story: **Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-20 12:09:54 UTC | `9d741dec3497` | +4 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-20 12:09:55 UTC | `ef4cd36b81c1` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-20 12:09:54 UTC | `7ee30e09cc19` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 10 | 2026-04-20 18:09:09 UTC | `82c1a6853f3a` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-20 18:09:12 UTC | `522e6b5ffe7b` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-20 18:09:09 UTC | `0b6986c4e1fa` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-20` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
 | Streak | `44` day(s) |
-| Last Commit (IST) | `2026-04-20 21:18:44 IST` |
+| Last Commit (IST) | `2026-04-20 22:35:42 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-17 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-18 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-04-19 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
-| 2026-04-20 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-04-20 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,277.0 | -0.48% | 🔴 |
-| Ethereum | $2,311.05 | -0.89% | 🔴 |
-| Solana | $85.21 | -0.56% | 🔴 |
-| Bnb | $626.05 | +0.48% | 🟢 |
+| Bitcoin | $76,139.0 | +1.81% | 🟢 |
+| Ethereum | $2,327.02 | +1.34% | 🟢 |
+| Solana | $86.07 | +1.12% | 🟢 |
+| Bnb | $630.81 | +1.67% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 1,254 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 149 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 695 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 393 stars today | A community-supported supercharged document management system: scan, index and a… |
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | 263 stars today | Enterprise Architecture Governance & Vendor Procurement Toolkit |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 343 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 752 stars today | A lightweight, powerful framework for multi-agent workflows |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 3,129 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 716 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 667 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 611 stars today | A community-supported supercharged document management system: scan, index and a… |
+| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | 334 stars today | Enterprise Architecture Governance & Vendor Procurement Toolkit |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 477 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 909 stars today | A lightweight, powerful framework for multi-agent workflows |
 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 155 stars today | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) | 227 | 127 |
-| [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/) | 45 | 19 |
-| [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/) | 24 | 14 |
-| [NSA is using Anthropic's Mythos despite blacklist](https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/) | 103 | 58 |
-| [Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977) | 78 | 11 |
+| [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview) | 297 | 172 |
+| [ggsql: A Grammar of Graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/) | 225 | 54 |
+| [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) | 539 | 290 |
+| [At long last, InfoWars is ours](https://theonion.com/at-long-last-infowars-is-ours/) | 113 | 40 |
+| [The Theory of Interstellar Trade [pdf]](https://www.princeton.edu/~pkrugman/interstellar.pdf) | 29 | 5 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

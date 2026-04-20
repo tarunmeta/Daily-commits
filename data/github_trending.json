@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-20 12:09:54 UTC",
-    "fetched_at_ist": "2026-04-20 17:39:54 IST",
+    "fetched_at_utc": "2026-04-20 18:09:09 UTC",
+    "fetched_at_ist": "2026-04-20 23:39:09 IST",
     "item_count": 10,
-    "content_hash": "9d741dec34970dd3a20de457c9e1a449602a3cd01d9d7f7db7790b6d463764f6",
-    "previous_hash": "53c2da6f0033488981e991a54d92c305ec759d8a22e3b3ec16013ec5ecfd139e",
-    "new_repos_vs_previous": 4,
+    "content_hash": "82c1a6853f3a8a1761cad63f63a7dcfaac27cc0e97c6df145c8b235547b44eb5",
+    "previous_hash": "9d741dec34970dd3a20de457c9e1a449602a3cd01d9d7f7db7790b6d463764f6",
+    "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,43 +15,43 @@
       "name": "Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars_today": "1,254 stars today"
+      "stars_today": "3,129 stars today"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "149 stars today"
+      "stars_today": "716 stars today"
     },
     {
       "name": "thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
-      "stars_today": "695 stars today"
+      "stars_today": "667 stars today"
     },
     {
       "name": "paperless-ngx/paperless-ngx",
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
-      "stars_today": "393 stars today"
+      "stars_today": "611 stars today"
     },
     {
       "name": "tractorjuice/arc-kit",
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
-      "stars_today": "263 stars today"
+      "stars_today": "334 stars today"
     },
     {
       "name": "koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "343 stars today"
+      "stars_today": "477 stars today"
     },
     {
       "name": "openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
-      "stars_today": "752 stars today"
+      "stars_today": "909 stars today"
     },
     {
       "name": "deepseek-ai/DeepGEMM",
@@ -69,7 +69,7 @@
       "name": "XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
-      "stars_today": "52 stars today"
+      "stars_today": "124 stars today"
     }
   ]
 }
