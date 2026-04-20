@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-20 06:34:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-20 12:09:55 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Fincept-Corporation/FinceptTerminal**
-- BTC: **$74,614.0** ↓ (-1.46%)
-- HN top story: **Vercel April 2026 security incident**
+- BTC: **$75,277.0** ↓ (-0.48%)
+- HN top story: **GitHub's Fake Star Economy**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-19 18:02:44 UTC | `53c2da6f0033` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-20 06:34:00 UTC | `200ddf9a4b40` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-19 21:20:07 UTC | `be4d5aac08a2` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 10 | 2026-04-20 12:09:54 UTC | `9d741dec3497` | +4 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-20 12:09:55 UTC | `ef4cd36b81c1` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-20 12:09:54 UTC | `7ee30e09cc19` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-20` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `44` day(s) |
-| Last Commit (IST) | `2026-04-20 14:31:38 IST` |
+| Last Commit (IST) | `2026-04-20 16:28:02 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-17 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-04-18 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-04-19 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
-| 2026-04-20 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-04-20 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,614.0 | -1.46% | 🔴 |
-| Ethereum | $2,281.53 | -2.97% | 🔴 |
-| Solana | $84.99 | -1.39% | 🔴 |
-| Bnb | $621.82 | -1.40% | 🔴 |
+| Bitcoin | $75,277.0 | -0.48% | 🔴 |
+| Ethereum | $2,311.05 | -0.89% | 🔴 |
+| Solana | $85.21 | -0.56% | 🔴 |
+| Bnb | $626.05 | +0.48% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 1,169 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 696 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 1,254 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 149 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 695 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
+| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 393 stars today | A community-supported supercharged document management system: scan, index and a… |
 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | 263 stars today | Enterprise Architecture Governance & Vendor Procurement Toolkit |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 751 stars today | A lightweight, powerful framework for multi-agent workflows |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 96 stars today | No description |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 382 stars today | A community-supported supercharged document management system: scan, index and a… |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 118 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
-| [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | 525 stars today | The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. … |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 343 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 752 stars today | A lightweight, powerful framework for multi-agent workflows |
+| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 155 stars today | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) | 672 | 382 |
-| [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/) | 157 | 63 |
-| [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/) | 135 | 45 |
-| [Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/) | 56 | 19 |
-| [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/) | 187 | 94 |
+| [GitHub's Fake Star Economy](https://awesomeagents.ai/news/github-fake-stars-investigation/) | 227 | 127 |
+| [M 7.4 earthquake – 100 km ENE of Miyako, Japan](https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/) | 45 | 19 |
+| [Figma's woes compound with Claude Design](https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/) | 24 | 14 |
+| [NSA is using Anthropic's Mythos despite blacklist](https://www.reuters.com/business/us-security-agency-is-using-anthropics-mythos-despite-blacklist-axios-reports-2026-04-19/) | 103 | 58 |
+| [Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery](https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977) | 78 | 11 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
