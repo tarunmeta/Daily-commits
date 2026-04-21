@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-20 19:33:43 UTC",
-    "fetched_at_ist": "2026-04-21 01:03:43 IST",
+    "fetched_at_utc": "2026-04-21 03:37:43 UTC",
+    "fetched_at_ist": "2026-04-21 09:07:43 IST",
     "item_count": 5,
-    "content_hash": "36bf73e48a06acb34b2728667ef8b1ff7c6287170d4ca0845bf17e5b36b2deec",
-    "previous_hash": "522e6b5ffe7b62c4714f174b37f790e206e19a206778dffcfe1b8cb8b16ff631",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "89c1c57496123a53e2bee9b5a417c2d89b08aba3e97bb1fef9fd5907ad3387b0",
+    "previous_hash": "36bf73e48a06acb34b2728667ef8b1ff7c6287170d4ca0845bf17e5b36b2deec",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47840219,
+      "title": "John Ternus to become Apple CEO",
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "score": 1339,
+      "comments": 676
+    },
+    {
+      "id": 47843194,
+      "title": "How to make a fast dynamic language interpreter",
+      "url": "https://zef-lang.dev/implementation",
+      "score": 66,
+      "comments": 4
+    },
+    {
+      "id": 47841129,
+      "title": "Jujutsu megamerges for fun and profit",
+      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "score": 164,
+      "comments": 51
+    },
     {
       "id": 47834565,
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-      "score": 378,
-      "comments": 208
+      "score": 559,
+      "comments": 295
     },
     {
-      "id": 47833558,
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "score": 273,
-      "comments": 63
-    },
-    {
-      "id": 47831621,
-      "title": "GitHub's Fake Star Economy",
-      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "score": 589,
-      "comments": 319
-    },
-    {
-      "id": 47835735,
-      "title": "Kimi K2.6: Advancing Open-Source Coding",
-      "url": "https://www.kimi.com/blog/kimi-k2-6",
-      "score": 385,
-      "comments": 186
-    },
-    {
-      "id": 47836730,
-      "title": "We accepted surveillance as default",
-      "url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
-      "score": 162,
-      "comments": 71
+      "id": 47838703,
+      "title": "Kimi vendor verifier – verify accuracy of inference providers",
+      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "score": 184,
+      "comments": 17
     }
   ]
 }
