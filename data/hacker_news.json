@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-21 16:42:40 UTC",
-    "fetched_at_ist": "2026-04-21 22:12:40 IST",
+    "fetched_at_utc": "2026-04-21 17:44:26 UTC",
+    "fetched_at_ist": "2026-04-21 23:14:26 IST",
     "item_count": 5,
-    "content_hash": "c0fde9090a10666c434f962b2ee7bbc88669d5be4660c9c8056b6ff0279d6887",
-    "previous_hash": "10b3b6e6b0e5fe443d86e4caa7873e3f6cb8ca2ea32422452837ca7ae611c435",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "4caed40ad632ce917d4e84ee16e50d19707e997e59dbe12fee1008df147690ca",
+    "previous_hash": "c0fde9090a10666c434f962b2ee7bbc88669d5be4660c9c8056b6ff0279d6887",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47849854,
-      "title": "Original GrapheneOS responses to WIRED fact checker",
-      "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
-      "score": 101,
-      "comments": 58
-    },
-    {
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
-      "score": 481,
-      "comments": 240
+      "score": 563,
+      "comments": 291
     },
     {
-      "id": 47849592,
-      "title": "As Oceans Warm, Great White Sharks Are Overheating",
-      "url": "https://e360.yale.edu/digest/great-white-sharks-climate",
-      "score": 96,
-      "comments": 68
+      "id": 47851634,
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "score": 15,
+      "comments": 2
     },
     {
-      "id": 47847324,
-      "title": "Tim Cook's Impeccable Timing",
-      "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
-      "score": 172,
-      "comments": 244
+      "id": 47849097,
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "score": 87,
+      "comments": 27
     },
     {
       "id": 47849315,
       "title": "Fusion Power Plant Simulator",
       "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "score": 53,
-      "comments": 17
+      "score": 75,
+      "comments": 26
+    },
+    {
+      "id": 47847558,
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "url": "https://vidstudio.app/video-editor",
+      "score": 189,
+      "comments": 68
     }
   ]
 }
