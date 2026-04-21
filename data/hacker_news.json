@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-21 15:43:05 UTC",
-    "fetched_at_ist": "2026-04-21 21:13:05 IST",
+    "fetched_at_utc": "2026-04-21 16:42:40 UTC",
+    "fetched_at_ist": "2026-04-21 22:12:40 IST",
     "item_count": 5,
-    "content_hash": "10b3b6e6b0e5fe443d86e4caa7873e3f6cb8ca2ea32422452837ca7ae611c435",
-    "previous_hash": "9c1d2b60a070e4c3ea3818e8aefcf26e66bf90b262fb96f7b85763eb29141c6d",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c0fde9090a10666c434f962b2ee7bbc88669d5be4660c9c8056b6ff0279d6887",
+    "previous_hash": "10b3b6e6b0e5fe443d86e4caa7873e3f6cb8ca2ea32422452837ca7ae611c435",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47849854,
+      "title": "Original GrapheneOS responses to WIRED fact checker",
+      "url": "https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker",
+      "score": 101,
+      "comments": 58
+    },
+    {
       "id": 47847179,
       "title": "Laws of Software Engineering",
       "url": "https://lawsofsoftwareengineering.com",
-      "score": 398,
-      "comments": 197
+      "score": 481,
+      "comments": 240
     },
     {
       "id": 47849592,
       "title": "As Oceans Warm, Great White Sharks Are Overheating",
       "url": "https://e360.yale.edu/digest/great-white-sharks-climate",
-      "score": 46,
-      "comments": 19
-    },
-    {
-      "id": 47849221,
-      "title": "Your favorite brands got worse on purpose",
-      "url": "https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose",
-      "score": 49,
-      "comments": 9
+      "score": 96,
+      "comments": 68
     },
     {
       "id": 47847324,
       "title": "Tim Cook's Impeccable Timing",
       "url": "https://stratechery.com/2026/tim-cooks-impeccable-timing/",
-      "score": 118,
-      "comments": 163
+      "score": 172,
+      "comments": 244
     },
     {
       "id": 47849315,
       "title": "Fusion Power Plant Simulator",
       "url": "https://www.fusionenergybase.com/fusion-power-plant-simulator",
-      "score": 30,
-      "comments": 10
+      "score": 53,
+      "comments": 17
     }
   ]
 }

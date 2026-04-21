@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-21 (last updated: 21:13 IST)
+
+## 📅 2026-04-21 (last updated: 22:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-20 23:39:09 IST | 82c1a6853f3a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-21 21:13:05 IST | 10b3b6e6b0e5 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-21 22:12:40 IST | c0fde9090a10 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-21 02:55:48 IST | 23e21ceaf274 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 334 stars today
 
 ### 📰 Hacker News Stories
-- [Laws of Software Engineering](https://lawsofsoftwareengineering.com) — Score: 398
-- [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate) — Score: 46
-- [Your favorite brands got worse on purpose](https://www.worseonpurpose.com/p/your-favorite-brands-got-worse-on-purpose) — Score: 49
-- [Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/) — Score: 118
-- [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator) — Score: 30
+- [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker) — Score: 101
+- [Laws of Software Engineering](https://lawsofsoftwareengineering.com) — Score: 481
+- [As Oceans Warm, Great White Sharks Are Overheating](https://e360.yale.edu/digest/great-white-sharks-climate) — Score: 96
+- [Tim Cook's Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/) — Score: 172
+- [Fusion Power Plant Simulator](https://www.fusionenergybase.com/fusion-power-plant-simulator) — Score: 53
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,999.0 🟢 +1.64%
