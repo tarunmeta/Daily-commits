@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-21 23:36:36 UTC",
-    "fetched_at_ist": "2026-04-22 05:06:36 IST",
+    "fetched_at_utc": "2026-04-22 11:31:45 UTC",
+    "fetched_at_ist": "2026-04-22 17:01:45 IST",
     "item_count": 5,
-    "content_hash": "e4894b461575413a085ebdef515f7a92a4684c6c1e55e8a52e29bbf9ba587cbe",
-    "previous_hash": "4caed40ad632ce917d4e84ee16e50d19707e997e59dbe12fee1008df147690ca",
+    "content_hash": "bb1b3e233e9f5d7b20071deea2de25b91a6c2a35e45def3360817ac6922b54a8",
+    "previous_hash": "e4894b461575413a085ebdef515f7a92a4684c6c1e55e8a52e29bbf9ba587cbe",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47861270,
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://social.hails.org/@hailey/116446826733136456",
+      "score": 171,
+      "comments": 43
+    },
+    {
+      "id": 47842569,
+      "title": "Making RAM at Home [video]",
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "score": 390,
+      "comments": 113
+    },
+    {
+      "id": 47861087,
+      "title": "How the Heck Does GPS Work?",
+      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+      "score": 34,
+      "comments": 10
+    },
+    {
       "id": 47852835,
       "title": "ChatGPT Images 2.0",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 267,
-      "comments": 255
+      "score": 859,
+      "comments": 702
     },
     {
-      "id": 47851634,
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "score": 239,
-      "comments": 89
-    },
-    {
-      "id": 47850212,
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "url": "https://www.brex.com/crabtrap",
-      "score": 46,
-      "comments": 6
-    },
-    {
-      "id": 47814874,
-      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-      "score": 104,
-      "comments": 52
-    },
-    {
-      "id": 47851885,
-      "title": "Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica",
-      "url": "https://britannica11.org/",
-      "score": 193,
-      "comments": 85
+      "id": 47832720,
+      "title": "All your agents are going async",
+      "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
+      "score": 49,
+      "comments": 31
     }
   ]
 }

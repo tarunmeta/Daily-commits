@@ -14,13 +14,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-22 (last updated: 13:45 IST)
+
+## 📅 2026-04-22 (last updated: 17:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-04-20 23:39:09 IST | 82c1a6853f3a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-22 05:06:36 IST | e4894b461575 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-22 17:01:45 IST | bb1b3e233e9f | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-22 13:45:35 IST | 99557cda1f33 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 334 stars today
 
 ### 📰 Hacker News Stories
-- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) — Score: 267
-- [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html) — Score: 239
-- [CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap) — Score: 46
-- [Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/) — Score: 104
-- [Britannica11.org – a structured edition of the 1911 Encyclopædia Britannica](https://britannica11.org/) — Score: 193
+- [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) — Score: 171
+- [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA) — Score: 390
+- [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work) — Score: 34
+- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) — Score: 859
+- [All your agents are going async](https://zknill.io/posts/all-your-agents-are-going-async/) — Score: 49
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,151.0 🟢 +2.65%
