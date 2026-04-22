@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-22 11:31:45 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-22 18:14:47 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Fincept-Corporation/FinceptTerminal**
-- BTC: **$78,151.0** ↑ (+2.65%)
-- HN top story: **Windows 9x Subsystem for Linux**
+- Top GitHub repo: **zilliztech/claude-context**
+- BTC: **$78,972.0** ↑ (+4.49%)
+- HN top story: **Alberta startup sells no-tech tractors for half price**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-20 18:09:09 UTC | `82c1a6853f3a` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-22 11:31:45 UTC | `bb1b3e233e9f` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-22 08:15:35 UTC | `99557cda1f33` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 12 | 2026-04-22 18:14:46 UTC | `9a2736fbd11f` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-22 18:14:47 UTC | `df274a587daa` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-22 18:14:46 UTC | `48db88b3d2ed` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +9 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-22` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
 | Streak | `45` day(s) |
-| Last Commit (IST) | `2026-04-22 21:39:27 IST` |
+| Last Commit (IST) | `2026-04-22 22:44:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-19 | 23 | `████░░░░░░░░░░░░░░░░` 23% |
 | 2026-04-20 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-21 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-22 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-04-22 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,151.0 | +2.65% | 🟢 |
-| Ethereum | $2,391.04 | +3.22% | 🟢 |
-| Solana | $87.98 | +2.66% | 🟢 |
-| Bnb | $642.74 | +1.58% | 🟢 |
+| Bitcoin | $78,972.0 | +4.49% | 🟢 |
+| Ethereum | $2,403.06 | +4.26% | 🟢 |
+| Solana | $88.06 | +3.21% | 🟢 |
+| Bnb | $645.89 | +2.55% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 3,129 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 716 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
-| [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | 667 stars today | AI You Control: Choose your models. Own your data. Eliminate vendor lock-in. |
-| [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | 611 stars today | A community-supported supercharged document management system: scan, index and a… |
-| [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | 334 stars today | Enterprise Architecture Governance & Vendor Procurement Toolkit |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 477 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | 909 stars today | A lightweight, powerful framework for multi-agent workflows |
-| [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | 155 stars today | DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 873 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 1,737 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 449 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | TypeScript | 160 stars today | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, promp… |
+| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | 346 stars today | Shannon Lite is an autonomous, white-box AI pentester for web applications and A… |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 609 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 551 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 770 stars today | "RAG-Anything: All-in-One RAG Framework" |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) | 171 | 43 |
-| [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA) | 390 | 113 |
-| [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work) | 34 | 10 |
-| [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) | 859 | 702 |
-| [All your agents are going async](https://zknill.io/posts/all-your-agents-are-going-async/) | 49 | 31 |
+| [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) | 389 | 140 |
+| [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) | 341 | 191 |
+| [Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/) | 23 | 0 |
+| [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) | 713 | 165 |
+| [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/) | 80 | 23 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

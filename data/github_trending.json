@@ -2,74 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-20 18:09:09 UTC",
-    "fetched_at_ist": "2026-04-20 23:39:09 IST",
-    "item_count": 10,
-    "content_hash": "82c1a6853f3a8a1761cad63f63a7dcfaac27cc0e97c6df145c8b235547b44eb5",
-    "previous_hash": "9d741dec34970dd3a20de457c9e1a449602a3cd01d9d7f7db7790b6d463764f6",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-04-22 18:14:46 UTC",
+    "fetched_at_ist": "2026-04-22 23:44:46 IST",
+    "item_count": 12,
+    "content_hash": "9a2736fbd11fc0c80cb0f62ab46582de6fa7dcba14de880e25fba0a83098e6ed",
+    "previous_hash": "82c1a6853f3a8a1761cad63f63a7dcfaac27cc0e97c6df145c8b235547b44eb5",
+    "new_repos_vs_previous": 9,
+    "top_repo_changed": true
   },
   "repos": [
+    {
+      "name": "zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars_today": "873 stars today"
+    },
     {
       "name": "Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars_today": "3,129 stars today"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "716 stars today"
-    },
-    {
-      "name": "thunderbird/thunderbolt",
-      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-      "language": "TypeScript",
-      "stars_today": "667 stars today"
-    },
-    {
-      "name": "paperless-ngx/paperless-ngx",
-      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
-      "language": "Python",
-      "stars_today": "611 stars today"
-    },
-    {
-      "name": "tractorjuice/arc-kit",
-      "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-      "language": "HTML",
-      "stars_today": "334 stars today"
+      "stars_today": "1,737 stars today"
     },
     {
       "name": "koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars_today": "477 stars today"
+      "stars_today": "449 stars today"
     },
     {
-      "name": "openai/openai-agents-python",
-      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "name": "langfuse/langfuse",
+      "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+      "language": "TypeScript",
+      "stars_today": "160 stars today"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "language": "TypeScript",
+      "stars_today": "346 stars today"
+    },
+    {
+      "name": "open-metadata/OpenMetadata",
+      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+      "language": "TypeScript",
+      "stars_today": "609 stars today"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "551 stars today"
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars_today": "909 stars today"
+      "stars_today": "770 stars today"
     },
     {
-      "name": "deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-      "language": "Cuda",
-      "stars_today": "155 stars today"
+      "name": "sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "language": "Python",
+      "stars_today": "932 stars today"
     },
     {
-      "name": "pi-hole/pi-hole",
-      "description": "A black hole for Internet advertisements",
-      "language": "Shell",
-      "stars_today": "154 stars today"
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars_today": "237 stars today"
     },
     {
-      "name": "XTLS/Xray-core",
-      "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-      "language": "Go",
-      "stars_today": "124 stars today"
+      "name": "Z4nzu/hackingtool",
+      "description": "ALL IN ONE Hacking Tool For Hackers",
+      "language": "Python",
+      "stars_today": "509 stars today"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars_today": "317 stars today"
     }
   ]
 }

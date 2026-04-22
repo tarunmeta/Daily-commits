@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-22 11:31:45 UTC",
-    "fetched_at_ist": "2026-04-22 17:01:45 IST",
+    "fetched_at_utc": "2026-04-22 18:14:47 UTC",
+    "fetched_at_ist": "2026-04-22 23:44:47 IST",
     "item_count": 5,
-    "content_hash": "bb1b3e233e9f5d7b20071deea2de25b91a6c2a35e45def3360817ac6922b54a8",
-    "previous_hash": "e4894b461575413a085ebdef515f7a92a4684c6c1e55e8a52e29bbf9ba587cbe",
+    "content_hash": "df274a587daa739ec5b924d0868a48affea5d59ce198e4de57848b3418d9849a",
+    "previous_hash": "bb1b3e233e9f5d7b20071deea2de25b91a6c2a35e45def3360817ac6922b54a8",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47865868,
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "score": 389,
+      "comments": 140
+    },
+    {
+      "id": 47863217,
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "score": 341,
+      "comments": 191
+    },
+    {
+      "id": 47866913,
+      "title": "Coding Models Are Doing Too Much",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "score": 23,
+      "comments": 0
+    },
+    {
       "id": 47861270,
       "title": "Windows 9x Subsystem for Linux",
       "url": "https://social.hails.org/@hailey/116446826733136456",
-      "score": 171,
-      "comments": 43
+      "score": 713,
+      "comments": 165
     },
     {
-      "id": 47842569,
-      "title": "Making RAM at Home [video]",
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "score": 390,
-      "comments": 113
-    },
-    {
-      "id": 47861087,
-      "title": "How the Heck Does GPS Work?",
-      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "score": 34,
-      "comments": 10
-    },
-    {
-      "id": 47852835,
-      "title": "ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "score": 859,
-      "comments": 702
-    },
-    {
-      "id": 47832720,
-      "title": "All your agents are going async",
-      "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
-      "score": 49,
-      "comments": 31
+      "id": 47824943,
+      "title": "5x5 Pixel font for tiny screens",
+      "url": "https://maurycyz.com/projects/mcufont/",
+      "score": 80,
+      "comments": 23
     }
   ]
 }

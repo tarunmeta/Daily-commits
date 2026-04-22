@@ -19,44 +19,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-22 (last updated: 17:01 IST)
+
+## 📅 2026-04-22 (last updated: 23:44 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-04-20 23:39:09 IST | 82c1a6853f3a | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-22 17:01:45 IST | bb1b3e233e9f | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-22 13:45:35 IST | 99557cda1f33 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 12 | 2026-04-22 23:44:46 IST | 9a2736fbd11f | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-22 23:44:47 IST | df274a587daa | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-22 23:44:46 IST | 48db88b3d2ed | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
+- GitHub: +9 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
+- **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** (TypeScript) — Code search MCP for Claude Code. Make entire codebase the context for any coding  
+  ⭐ 873 stars today
 - **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** (Python) — FinceptTerminal is a modern finance application offering advanced market analyti  
-  ⭐ 3,129 stars today
-- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   
-  ⭐ 716 stars today
-- **[thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt)** (TypeScript) — AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.  
-  ⭐ 667 stars today
-- **[paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** (Python) — A community-supported supercharged document management system: scan, index and a  
-  ⭐ 611 stars today
-- **[tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit)** (HTML) — Enterprise Architecture Governance & Vendor Procurement Toolkit  
-  ⭐ 334 stars today
+  ⭐ 1,737 stars today
+- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
+  ⭐ 449 stars today
+- **[langfuse/langfuse](https://github.com/langfuse/langfuse)** (TypeScript) — 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, promp  
+  ⭐ 160 stars today
+- **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** (TypeScript) — Shannon Lite is an autonomous, white-box AI pentester for web applications and A  
+  ⭐ 346 stars today
 
 ### 📰 Hacker News Stories
-- [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) — Score: 171
-- [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA) — Score: 390
-- [How the Heck Does GPS Work?](https://perthirtysix.com/how-the-heck-does-gps-work) — Score: 34
-- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) — Score: 859
-- [All your agents are going async](https://zknill.io/posts/all-your-agents-are-going-async/) — Score: 49
+- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) — Score: 389
+- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) — Score: 341
+- [Coding Models Are Doing Too Much](https://nrehiew.github.io/blog/minimal_editing/) — Score: 23
+- [Windows 9x Subsystem for Linux](https://social.hails.org/@hailey/116446826733136456) — Score: 713
+- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/) — Score: 80
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,151.0 🟢 +2.65%
-- Ethereum: $2,391.04 🟢 +3.22%
-- Solana: $87.98 🟢 +2.66%
-- Bnb: $642.74 🟢 +1.58%
+- Bitcoin: $78,972.0 🟢 +4.49%
+- Ethereum: $2,403.06 🟢 +4.26%
+- Solana: $88.06 🟢 +3.21%
+- Bnb: $645.89 🟢 +2.55%
 
 ---
 ## 📅 2026-04-21 (last updated: 23:14 IST)
