@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-04-23 (last updated: 02:07 IST)
+
+## 📅 2026-04-23 (last updated: 03:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-04-22 23:44:46 IST | 9a2736fbd11f | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-23 02:07:01 IST | 37d92e746c3f | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-23 03:07:19 IST | 9bba5e0ccfa0 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-04-22 23:44:46 IST | 48db88b3d2ed | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 346 stars today
 
 ### 📰 Hacker News Stories
-- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) — Score: 832
-- [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/) — Score: 185
-- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) — Score: 500
-- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/) — Score: 247
-- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/) — Score: 137
+- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) — Score: 959
+- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) — Score: 83
+- [Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/) — Score: 225
+- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/) — Score: 214
+- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/) — Score: 300
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,972.0 🟢 +4.49%
