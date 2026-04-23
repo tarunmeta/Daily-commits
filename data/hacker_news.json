@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-23 18:05:59 UTC",
-    "fetched_at_ist": "2026-04-23 23:35:59 IST",
+    "fetched_at_utc": "2026-04-23 19:41:17 UTC",
+    "fetched_at_ist": "2026-04-24 01:11:17 IST",
     "item_count": 5,
-    "content_hash": "580a5da563c6c974ff0ed56a3fbf85f104777f0249cdbdb0d9c33b0ca1d5a608",
-    "previous_hash": "d2a1cf719e2911cb5376063ad91e9b049b27f9b2054f31d3a20fb373f7d2571d",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c49cfd3eca08b061d0051ab9055328787d3967c95beaff86f3786814a3c66ba9",
+    "previous_hash": "580a5da563c6c974ff0ed56a3fbf85f104777f0249cdbdb0d9c33b0ca1d5a608",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47877366,
-      "title": "France confirms data breach at government agency that manages citizens' IDs",
-      "url": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
-      "score": 267,
-      "comments": 94
-    },
-    {
-      "id": 47876043,
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 364,
-      "comments": 173
+      "id": 47879092,
+      "title": "GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "score": 537,
+      "comments": 212
     },
     {
       "id": 47878905,
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 32,
-      "comments": 10
+      "score": 292,
+      "comments": 170
     },
     {
-      "id": 47878208,
-      "title": "'Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet",
-      "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
-      "score": 114,
-      "comments": 89
+      "id": 47876043,
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "score": 449,
+      "comments": 218
     },
     {
-      "id": 47878117,
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 27,
-      "comments": 8
+      "id": 47879986,
+      "title": "Meta to cut 10% of jobs, or 8k employees",
+      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+      "score": 107,
+      "comments": 43
+    },
+    {
+      "id": 47880189,
+      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+      "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+      "score": 18,
+      "comments": 7
     }
   ]
 }
