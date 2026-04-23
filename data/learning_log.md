@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-23 (last updated: 13:49 IST)
+
+## 📅 2026-04-23 (last updated: 17:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-04-22 23:44:46 IST | 9a2736fbd11f | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-23 05:03:04 IST | a226eee4e96e | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-23 17:03:03 IST | 072a619f8dbd | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-23 13:49:38 IST | 6ee4143d769c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 346 stars today
 
 ### 📰 Hacker News Stories
-- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) — Score: 1156
-- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) — Score: 240
-- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/) — Score: 325
-- [Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) — Score: 612
-- [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/) — Score: 357
+- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) — Score: 441
+- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) — Score: 1825
+- [Your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/) — Score: 138
+- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) — Score: 627
+- [Do you want the US to "win" AI?](https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html) — Score: 28
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,116.0 🔴 -0.02%
