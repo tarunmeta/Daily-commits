@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-23 20:39:07 UTC",
-    "fetched_at_ist": "2026-04-24 02:09:07 IST",
+    "fetched_at_utc": "2026-04-23 21:31:03 UTC",
+    "fetched_at_ist": "2026-04-24 03:01:03 IST",
     "item_count": 5,
-    "content_hash": "ccbb23c7bd39eca7f5193238630aecc12d0e2c8c50f2fd721a395ccdbe03d769",
-    "previous_hash": "c49cfd3eca08b061d0051ab9055328787d3967c95beaff86f3786814a3c66ba9",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "43019bb78fe98adc9523b38124fe90d1461e16cbc1eb12cc4a303179af1fb2ba",
+    "previous_hash": "ccbb23c7bd39eca7f5193238630aecc12d0e2c8c50f2fd721a395ccdbe03d769",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47879092,
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 714,
-      "comments": 335
-    },
-    {
-      "id": 47880189,
-      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
-      "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
-      "score": 76,
-      "comments": 35
+      "score": 815,
+      "comments": 424
     },
     {
       "id": 47876043,
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 482,
-      "comments": 226
+      "score": 521,
+      "comments": 248
     },
     {
       "id": 47878905,
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 374,
-      "comments": 257
+      "score": 425,
+      "comments": 299
     },
     {
-      "id": 47880697,
-      "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
-      "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
-      "score": 31,
-      "comments": 2
+      "id": 47881198,
+      "title": "Using the internet like it's 1999",
+      "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
+      "score": 37,
+      "comments": 16
+    },
+    {
+      "id": 47878117,
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "score": 95,
+      "comments": 58
     }
   ]
 }
