@@ -14,13 +14,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-23 (last updated: 17:03 IST)
+
+## 📅 2026-04-23 (last updated: 18:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-04-22 23:44:46 IST | 9a2736fbd11f | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-23 17:03:03 IST | 072a619f8dbd | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-23 18:14:46 IST | d2a1cf719e29 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-23 13:49:38 IST | 6ee4143d769c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 346 stars today
 
 ### 📰 Hacker News Stories
-- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) — Score: 441
-- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) — Score: 1825
-- [Your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/) — Score: 138
-- [Apple fixes bug that cops used to extract deleted chat messages from iPhones](https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/) — Score: 627
-- [Do you want the US to "win" AI?](https://geohot.github.io//blog/jekyll/update/2026/04/23/us-win-ai.html) — Score: 28
+- [Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/) — Score: 29
+- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) — Score: 524
+- [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker) — Score: 23
+- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) — Score: 1865
+- [Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/) — Score: 18
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,116.0 🔴 -0.02%
