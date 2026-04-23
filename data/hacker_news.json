@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-23 19:41:17 UTC",
-    "fetched_at_ist": "2026-04-24 01:11:17 IST",
+    "fetched_at_utc": "2026-04-23 20:39:07 UTC",
+    "fetched_at_ist": "2026-04-24 02:09:07 IST",
     "item_count": 5,
-    "content_hash": "c49cfd3eca08b061d0051ab9055328787d3967c95beaff86f3786814a3c66ba9",
-    "previous_hash": "580a5da563c6c974ff0ed56a3fbf85f104777f0249cdbdb0d9c33b0ca1d5a608",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "ccbb23c7bd39eca7f5193238630aecc12d0e2c8c50f2fd721a395ccdbe03d769",
+    "previous_hash": "c49cfd3eca08b061d0051ab9055328787d3967c95beaff86f3786814a3c66ba9",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47879092,
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 537,
-      "comments": 212
-    },
-    {
-      "id": 47878905,
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 292,
-      "comments": 170
-    },
-    {
-      "id": 47876043,
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 449,
-      "comments": 218
-    },
-    {
-      "id": 47879986,
-      "title": "Meta to cut 10% of jobs, or 8k employees",
-      "url": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
-      "score": 107,
-      "comments": 43
+      "score": 714,
+      "comments": 335
     },
     {
       "id": 47880189,
       "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
       "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
-      "score": 18,
-      "comments": 7
+      "score": 76,
+      "comments": 35
+    },
+    {
+      "id": 47876043,
+      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "score": 482,
+      "comments": 226
+    },
+    {
+      "id": 47878905,
+      "title": "An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "score": 374,
+      "comments": 257
+    },
+    {
+      "id": 47880697,
+      "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
+      "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+      "score": 31,
+      "comments": 2
     }
   ]
 }
