@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-23 12:44:46 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-23 18:05:59 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **zilliztech/claude-context**
-- BTC: **$78,116.0** ↓ (-0.02%)
-- HN top story: **Surveillance vendors caught abusing access to telcos to track people's locations**
+- Top GitHub repo: **huggingface/ml-intern**
+- BTC: **$77,843.0** ↓ (-1.34%)
+- HN top story: **France confirms data breach at government agency that manages citizens' IDs**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-04-22 18:14:46 UTC | `9a2736fbd11f` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-23 12:44:46 UTC | `d2a1cf719e29` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-23 08:19:38 UTC | `6ee4143d769c` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-04-23 18:05:58 UTC | `622511d163c1` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-23 18:05:59 UTC | `580a5da563c6` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-23 18:05:58 UTC | `46ebd88d10d3` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-23` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `45` day(s) |
-| Last Commit (IST) | `2026-04-23 20:30:01 IST` |
+| Last Commit (IST) | `2026-04-23 22:19:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-20 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-21 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-22 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-04-23 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-04-23 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,116.0 | -0.02% | 🔴 |
-| Ethereum | $2,343.71 | -1.99% | 🔴 |
-| Solana | $85.89 | -2.35% | 🔴 |
-| Bnb | $636.14 | -1.01% | 🔴 |
+| Bitcoin | $77,843.0 | -1.34% | 🔴 |
+| Ethereum | $2,310.81 | -3.72% | 🔴 |
+| Solana | $85.39 | -2.94% | 🔴 |
+| Bnb | $634.3 | -1.75% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 873 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 1,737 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 449 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | TypeScript | 160 stars today | 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, promp… |
-| [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | 346 stars today | Shannon Lite is an autonomous, white-box AI pentester for web applications and A… |
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 609 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 551 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 770 stars today | "RAG-Anything: All-in-One RAG Framework" |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 530 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 1,023 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 574 stars today | "RAG-Anything: All-in-One RAG Framework" |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,366 stars today | ALL IN ONE Hacking Tool For Hackers |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 427 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 384 stars today | Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI … |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 2,388 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 771 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/) | 29 | 4 |
-| [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) | 524 | 269 |
-| [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker) | 23 | 3 |
-| [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) | 1865 | 613 |
-| [Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/) | 18 | 1 |
+| [France confirms data breach at government agency that manages citizens' IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/) | 267 | 94 |
+| [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised) | 364 | 173 |
+| [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) | 32 | 10 |
+| ['Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet](https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/) | 114 | 89 |
+| [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) | 27 | 8 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

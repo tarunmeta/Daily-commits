@@ -17,44 +17,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-23 (last updated: 18:14 IST)
+
+## 📅 2026-04-23 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-04-22 23:44:46 IST | 9a2736fbd11f | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-23 18:14:46 IST | d2a1cf719e29 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-23 13:49:38 IST | 6ee4143d769c | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-04-23 23:35:58 IST | 622511d163c1 | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-23 23:35:59 IST | 580a5da563c6 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-23 23:35:58 IST | 46ebd88d10d3 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
+- **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** (Python) — 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh  
+  ⭐ 530 stars today
 - **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** (TypeScript) — Code search MCP for Claude Code. Make entire codebase the context for any coding  
-  ⭐ 873 stars today
-- **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** (Python) — FinceptTerminal is a modern finance application offering advanced market analyti  
-  ⭐ 1,737 stars today
-- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
-  ⭐ 449 stars today
-- **[langfuse/langfuse](https://github.com/langfuse/langfuse)** (TypeScript) — 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, promp  
-  ⭐ 160 stars today
-- **[KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon)** (TypeScript) — Shannon Lite is an autonomous, white-box AI pentester for web applications and A  
-  ⭐ 346 stars today
+  ⭐ 1,023 stars today
+- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** (Python) — "RAG-Anything: All-in-One RAG Framework"  
+  ⭐ 574 stars today
+- **[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** (Python) — ALL IN ONE Hacking Tool For Hackers  
+  ⭐ 1,366 stars today
+- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   
+  ⭐ 427 stars today
 
 ### 📰 Hacker News Stories
-- [Surveillance vendors caught abusing access to telcos to track people's locations](https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/) — Score: 29
-- [I am building a cloud](https://crawshaw.io/blog/building-a-cloud) — Score: 524
-- [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker) — Score: 23
-- [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/) — Score: 1865
-- [Sneaky spam in conversational replies to blog posts](https://shkspr.mobi/blog/2026/04/sneaky-spam-in-conversational-replies-to-blog-posts/) — Score: 18
+- [France confirms data breach at government agency that manages citizens' IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/) — Score: 267
+- [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://socket.dev/blog/bitwarden-cli-compromised) — Score: 364
+- [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) — Score: 32
+- ['Hairdryer used to trick weather sensor' to win $34,000 Polymarket bet](https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/) — Score: 114
+- [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) — Score: 27
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,116.0 🔴 -0.02%
-- Ethereum: $2,343.71 🔴 -1.99%
-- Solana: $85.89 🔴 -2.35%
-- Bnb: $636.14 🔴 -1.01%
+- Bitcoin: $77,843.0 🔴 -1.34%
+- Ethereum: $2,310.81 🔴 -3.72%
+- Solana: $85.39 🔴 -2.94%
+- Bnb: $634.3 🔴 -1.75%
 
 ---
 ## 📅 2026-04-22 (last updated: 23:44 IST)
