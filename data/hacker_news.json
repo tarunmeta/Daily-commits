@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-24 11:34:45 UTC",
-    "fetched_at_ist": "2026-04-24 17:04:45 IST",
+    "fetched_at_utc": "2026-04-24 12:44:20 UTC",
+    "fetched_at_ist": "2026-04-24 18:14:20 IST",
     "item_count": 5,
-    "content_hash": "a0d26b133e7c3be7f7fa728fbde080fdc1e3ed691488b441506463c8bc1e6829",
-    "previous_hash": "b8724f22f59e938e1076d5696bff152c2a186aff692ee4b9de6fa7da4ff89716",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "a23014496787ffa5ebf018b799c69ae3a71ee14d9aa475eb6b7d3e3f8a656b35",
+    "previous_hash": "a0d26b133e7c3be7f7fa728fbde080fdc1e3ed691488b441506463c8bc1e6829",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47887683,
-      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
-      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-      "score": 91,
-      "comments": 48
-    },
-    {
       "id": 47888557,
       "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
       "url": "https://www.bmj.com/content/393/bmj.s781",
-      "score": 14,
-      "comments": 1
+      "score": 82,
+      "comments": 27
     },
     {
-      "id": 47884971,
-      "title": "DeepSeek v4",
-      "url": "https://api-docs.deepseek.com/",
-      "score": 1086,
-      "comments": 735
+      "id": 47887683,
+      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+      "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+      "score": 127,
+      "comments": 78
     },
     {
       "id": 47888372,
       "title": "How to be anti-social – a guide to incoherent and isolating social experiences",
       "url": "https://nate.leaflet.pub/3mk4xkaxobc2p",
-      "score": 12,
-      "comments": 1
+      "score": 64,
+      "comments": 47
     },
     {
       "id": 47887334,
       "title": "Spinel: Ruby AOT Native Compiler",
       "url": "https://github.com/matz/spinel",
-      "score": 74,
-      "comments": 17
+      "score": 108,
+      "comments": 24
+    },
+    {
+      "id": 47884971,
+      "title": "DeepSeek v4",
+      "url": "https://api-docs.deepseek.com/",
+      "score": 1181,
+      "comments": 820
     }
   ]
 }
