@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-23 21:31:03 UTC",
-    "fetched_at_ist": "2026-04-24 03:01:03 IST",
+    "fetched_at_utc": "2026-04-24 00:08:41 UTC",
+    "fetched_at_ist": "2026-04-24 05:38:41 IST",
     "item_count": 5,
-    "content_hash": "43019bb78fe98adc9523b38124fe90d1461e16cbc1eb12cc4a303179af1fb2ba",
-    "previous_hash": "ccbb23c7bd39eca7f5193238630aecc12d0e2c8c50f2fd721a395ccdbe03d769",
+    "content_hash": "b0ac92ba05bd0a209b99fe71386f6e9da22a753c51eca481079d3f2f0e3ed40e",
+    "previous_hash": "43019bb78fe98adc9523b38124fe90d1461e16cbc1eb12cc4a303179af1fb2ba",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 47879092,
       "title": "GPT-5.5",
       "url": "https://openai.com/index/introducing-gpt-5-5/",
-      "score": 815,
-      "comments": 424
+      "score": 1005,
+      "comments": 654
     },
     {
       "id": 47876043,
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "score": 521,
-      "comments": 248
+      "score": 612,
+      "comments": 286
     },
     {
-      "id": 47878905,
-      "title": "An update on recent Claude Code quality reports",
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "score": 425,
-      "comments": 299
-    },
-    {
-      "id": 47881198,
-      "title": "Using the internet like it's 1999",
-      "url": "https://joshblais.com/blog/using-the-internet-like-its-1999/",
-      "score": 37,
-      "comments": 16
+      "id": 47882697,
+      "title": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "score": 51,
+      "comments": 21
     },
     {
       "id": 47878117,
       "title": "MeshCore development team splits over trademark dispute and AI-generated code",
       "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "score": 95,
-      "comments": 58
+      "score": 142,
+      "comments": 82
+    },
+    {
+      "id": 47883108,
+      "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
+      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+      "score": 91,
+      "comments": 33
     }
   ]
 }

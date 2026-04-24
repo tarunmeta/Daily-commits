@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-23 23:25:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-24 00:08:41 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **huggingface/ml-intern**
-- BTC: **$78,127.0** ↓ (-0.34%)
+- BTC: **$78,264.0** ↓ (-0.01%)
 - HN top story: **GPT-5.5**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-04-23 18:05:58 UTC | `622511d163c1` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-23 21:31:03 UTC | `43019bb78fe9` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-04-23 23:25:00 UTC | `54e2eeaeacc1` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-04-24 00:08:40 UTC | `eebd72dfacad` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-24 00:08:41 UTC | `b0ac92ba05bd` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-04-24 00:08:40 UTC | `59bc4a329b3d` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-24` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `46` day(s) |
-| Last Commit (IST) | `2026-04-24 03:56:35 IST` |
+| Last Commit (IST) | `2026-04-24 04:55:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-21 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-22 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-23 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-04-24 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-04-24 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,127.0 | -0.34% | 🔴 |
-| Ethereum | $2,328.73 | -2.53% | 🔴 |
-| Solana | $86.0 | -1.39% | 🔴 |
-| Bnb | $638.27 | -0.14% | 🔴 |
+| Bitcoin | $78,264.0 | -0.01% | 🔴 |
+| Ethereum | $2,330.08 | -1.77% | 🔴 |
+| Solana | $86.13 | -0.76% | 🔴 |
+| Bnb | $638.96 | +0.12% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 530 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 1,023 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 574 stars today | "RAG-Anything: All-in-One RAG Framework" |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,366 stars today | ALL IN ONE Hacking Tool For Hackers |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 427 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 384 stars today | Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI … |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 2,388 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 771 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 720 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 1,011 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 590 stars today | "RAG-Anything: All-in-One RAG Framework" |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,383 stars today | ALL IN ONE Hacking Tool For Hackers |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 429 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 316 stars today | Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI … |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1,962 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 776 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) | 815 | 424 |
-| [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) | 521 | 248 |
-| [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) | 425 | 299 |
-| [Using the internet like it's 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/) | 37 | 16 |
-| [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) | 95 | 58 |
+| [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) | 1005 | 654 |
+| [Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) | 612 | 286 |
+| [Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases](https://github.com/refactoringhq/tolaria) | 51 | 21 |
+| [MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) | 142 | 82 |
+| [U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market](https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0) | 91 | 33 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
