@@ -8,19 +8,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-25 (last updated: 04:10 IST)
+
+## 📅 2026-04-25 (last updated: 04:55 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-04-24 11:38:58 IST | ec8cd6c1737d | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-04-25 04:10:21 IST | 15a9022e1358 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-24 19:52:19 IST | 065b6e8ed43c | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-04-25 04:55:27 IST | 648822a7ef41 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** (Python) — 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh  
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) — Score: 335
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,975.0 🟢 +0.44%
-- Ethereum: $2,313.89 🔴 -0.47%
-- Solana: $86.03 🟢 +0.25%
-- Bnb: $638.1 🟢 +0.29%
+- Bitcoin: $77,374.0 🔴 -0.98%
+- Ethereum: $2,313.86 🔴 -0.66%
+- Solana: $86.21 🟢 +0.42%
+- Bnb: $636.37 🔴 -0.28%
 
 ---
 ## 📅 2026-04-24 (last updated: 19:52 IST)

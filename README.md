@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-24 22:40:21 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-24 23:25:27 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **huggingface/ml-intern**
-- BTC: **$77,975.0** ↑ (+0.44%)
+- BTC: **$77,374.0** ↓ (-0.98%)
 - HN top story: **Google Plans to Invest Up to $40B in Anthropic**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-04-24 06:08:58 UTC | `ec8cd6c1737d` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-04-24 22:40:21 UTC | `15a9022e1358` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-24 14:22:19 UTC | `065b6e8ed43c` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-04-24 23:25:27 UTC | `648822a7ef41` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-25` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `46` day(s) |
-| Last Commit (IST) | `2026-04-25 03:20:08 IST` |
+| Last Commit (IST) | `2026-04-25 04:10:21 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-22 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-23 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-04-24 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-25 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-04-25 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,975.0 | +0.44% | 🟢 |
-| Ethereum | $2,313.89 | -0.47% | 🔴 |
-| Solana | $86.03 | +0.25% | 🟢 |
-| Bnb | $638.1 | +0.29% | 🟢 |
+| Bitcoin | $77,374.0 | -0.98% | 🔴 |
+| Ethereum | $2,313.86 | -0.66% | 🔴 |
+| Solana | $86.21 | +0.42% | 🟢 |
+| Bnb | $636.37 | -0.28% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
