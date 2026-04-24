@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-24 00:08:40 UTC",
-    "fetched_at_ist": "2026-04-24 05:38:40 IST",
+    "fetched_at_utc": "2026-04-24 06:08:58 UTC",
+    "fetched_at_ist": "2026-04-24 11:38:58 IST",
     "item_count": 16,
-    "content_hash": "eebd72dfacadf5a3385b5016f6e2a3531bca3892bf0fc4d3c503b30c994f13cf",
-    "previous_hash": "622511d163c1186f3120b15ec07ac97aac86d1ac9c81911d4b95301a92a06796",
+    "content_hash": "ec8cd6c1737d56f9cab282ff229f393786fa1a3fe89b331e56f6a99a5140005b",
+    "previous_hash": "eebd72dfacadf5a3385b5016f6e2a3531bca3892bf0fc4d3c503b30c994f13cf",
     "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
@@ -43,7 +43,7 @@
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
       "stars_today": "316 stars today"
     },
