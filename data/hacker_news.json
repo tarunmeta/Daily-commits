@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-25 17:38:34 UTC",
-    "fetched_at_ist": "2026-04-25 23:08:34 IST",
+    "fetched_at_utc": "2026-04-25 22:38:58 UTC",
+    "fetched_at_ist": "2026-04-26 04:08:58 IST",
     "item_count": 5,
-    "content_hash": "238984ca2e77b12e5607661d3618c5db721fa47abbbab9518d29e92d5d7814c2",
-    "previous_hash": "1e0878ceca517a836a979e19c26a27b9193d3111fa6fe785372ce907c03fd7d4",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "225924093b84e60b5f72398bea627867a0d5887bbe669c0268b8bad0de9ec08e",
+    "previous_hash": "238984ca2e77b12e5607661d3618c5db721fa47abbbab9518d29e92d5d7814c2",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47902416,
-      "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
-      "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-      "score": 50,
-      "comments": 7
-    },
-    {
-      "id": 47863570,
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 314,
-      "comments": 61
-    },
-    {
-      "id": 47899053,
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "score": 424,
-      "comments": 252
-    },
-    {
-      "id": 47900398,
-      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-      "url": "https://github.com/MartinGalway/C64_music",
-      "score": 103,
-      "comments": 15
+      "id": 47904224,
+      "title": "Can you stop beans from making you gassy?",
+      "url": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
+      "score": 72,
+      "comments": 47
     },
     {
       "id": 47860198,
       "title": "The Free Universal Construction Kit",
       "url": "https://fffff.at/free-universal-construction-kit/",
-      "score": 22,
-      "comments": 4
+      "score": 209,
+      "comments": 40
+    },
+    {
+      "id": 47863570,
+      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "score": 490,
+      "comments": 83
+    },
+    {
+      "id": 47902525,
+      "title": "Using coding assistance tools to revive projects you never were going to finish",
+      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
+      "score": 110,
+      "comments": 79
+    },
+    {
+      "id": 47899053,
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "score": 517,
+      "comments": 304
     }
   ]
 }
