@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-24 23:25:27 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-25 00:05:19 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **huggingface/ml-intern**
-- BTC: **$77,374.0** ↓ (-0.98%)
-- HN top story: **Google Plans to Invest Up to $40B in Anthropic**
+- Top GitHub repo: **Alishahryar1/free-claude-code**
+- BTC: **$77,490.0** ↓ (-1.01%)
+- HN top story: **Google plans to invest up to $40B in Anthropic**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-04-24 06:08:58 UTC | `ec8cd6c1737d` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-24 22:40:21 UTC | `15a9022e1358` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-24 23:25:27 UTC | `648822a7ef41` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 12 | 2026-04-25 00:05:18 UTC | `e7567a044b7b` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-25 00:05:19 UTC | `3b35b234470f` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-25 00:05:19 UTC | `28ea8d00a25e` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-25` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `46` day(s) |
-| Last Commit (IST) | `2026-04-25 04:10:21 IST` |
+| Last Commit (IST) | `2026-04-25 04:55:27 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-22 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-04-23 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-04-24 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-04-25 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-04-25 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,374.0 | -0.98% | 🔴 |
-| Ethereum | $2,313.86 | -0.66% | 🔴 |
-| Solana | $86.21 | +0.42% | 🟢 |
-| Bnb | $636.37 | -0.28% | 🔴 |
+| Bitcoin | $77,490.0 | -1.01% | 🔴 |
+| Ethereum | $2,315.35 | -0.63% | 🔴 |
+| Solana | $86.21 | +0.09% | 🟢 |
+| Bnb | $636.38 | -0.38% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 720 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 1,011 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | 590 stars today | "RAG-Anything: All-in-One RAG Framework" |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,383 stars today | ALL IN ONE Hacking Tool For Hackers |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 429 stars today | π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose … |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 316 stars today | Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Opena… |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1,962 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 776 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 2,638 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
+| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 2,985 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
+| [google/osv-scanner](https://github.com/google/osv-scanner) | Go | 141 stars today | Vulnerability scanner written in Go which uses the data provided by https://osv.… |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,378 stars today | ALL IN ONE Hacking Tool For Hackers |
+| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 706 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
+| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 530 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 85 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
+| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Rust | 268 stars today | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Google Plans to Invest Up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) | 135 | 223 |
-| [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/) | 103 | 20 |
-| [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877) | 56 | 3 |
-| [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/) | 112 | 54 |
-| [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) | 335 | 82 |
+| [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) | 251 | 315 |
+| [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/) | 136 | 28 |
+| [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877) | 78 | 17 |
+| [Google Flow Music](https://www.flowmusic.app/) | 68 | 36 |
+| [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) | 345 | 84 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

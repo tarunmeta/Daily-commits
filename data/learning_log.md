@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-25 (last updated: 04:55 IST)
+
+## 📅 2026-04-25 (last updated: 05:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-04-24 11:38:58 IST | ec8cd6c1737d | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-25 04:10:21 IST | 15a9022e1358 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-25 04:55:27 IST | 648822a7ef41 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 12 | 2026-04-25 05:35:18 IST | e7567a044b7b | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-25 05:35:19 IST | 3b35b234470f | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-25 05:35:19 IST | 28ea8d00a25e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
+- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** (Python) — Use claude-code for free in the terminal, VSCode extension or via discord like o  
+  ⭐ 2,638 stars today
 - **[huggingface/ml-intern](https://github.com/huggingface/ml-intern)** (Python) — 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh  
-  ⭐ 720 stars today
-- **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** (TypeScript) — Code search MCP for Claude Code. Make entire codebase the context for any coding  
-  ⭐ 1,011 stars today
-- **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)** (Python) — "RAG-Anything: All-in-One RAG Framework"  
-  ⭐ 590 stars today
+  ⭐ 2,985 stars today
+- **[google/osv-scanner](https://github.com/google/osv-scanner)** (Go) — Vulnerability scanner written in Go which uses the data provided by https://osv.  
+  ⭐ 141 stars today
 - **[Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)** (Python) — ALL IN ONE Hacking Tool For Hackers  
-  ⭐ 1,383 stars today
-- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose   
-  ⭐ 429 stars today
+  ⭐ 1,378 stars today
+- **[zilliztech/claude-context](https://github.com/zilliztech/claude-context)** (TypeScript) — Code search MCP for Claude Code. Make entire codebase the context for any coding  
+  ⭐ 706 stars today
 
 ### 📰 Hacker News Stories
-- [Google Plans to Invest Up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) — Score: 135
-- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/) — Score: 103
-- [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877) — Score: 56
-- [The Classic American Diner](https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/) — Score: 112
-- [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) — Score: 335
+- [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) — Score: 251
+- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/) — Score: 136
+- [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877) — Score: 78
+- [Google Flow Music](https://www.flowmusic.app/) — Score: 68
+- [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/) — Score: 345
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,374.0 🔴 -0.98%
-- Ethereum: $2,313.86 🔴 -0.66%
-- Solana: $86.21 🟢 +0.42%
-- Bnb: $636.37 🔴 -0.28%
+- Bitcoin: $77,490.0 🔴 -1.01%
+- Ethereum: $2,315.35 🔴 -0.63%
+- Solana: $86.21 🟢 +0.09%
+- Bnb: $636.38 🔴 -0.38%
 
 ---
 ## 📅 2026-04-24 (last updated: 19:52 IST)
