@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-25 00:05:19 UTC",
-    "fetched_at_ist": "2026-04-25 05:35:19 IST",
+    "fetched_at_utc": "2026-04-25 03:32:20 UTC",
+    "fetched_at_ist": "2026-04-25 09:02:20 IST",
     "item_count": 5,
-    "content_hash": "3b35b234470f998856ab503056fe89a4499bfbf438941336116e6842bb21e75e",
-    "previous_hash": "15a9022e135899350ec23479a3aa34e80c43cc076d6d125ecfbbd7c2996fcf05",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "c8f42db5846ed2a9b20560ae0cf017c938381017f36905f2264fbd3318c10921",
+    "previous_hash": "3b35b234470f998856ab503056fe89a4499bfbf438941336116e6842bb21e75e",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47892074,
       "title": "Google plans to invest up to $40B in Anthropic",
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "score": 251,
-      "comments": 315
+      "score": 394,
+      "comments": 431
+    },
+    {
+      "id": 47858939,
+      "title": "Paraloid B-72",
+      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "score": 53,
+      "comments": 17
+    },
+    {
+      "id": 47858294,
+      "title": "Humpback whales are forming super-groups",
+      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+      "score": 35,
+      "comments": 10
     },
     {
       "id": 47894747,
       "title": "My audio interface has SSH enabled by default",
       "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "score": 136,
-      "comments": 28
+      "score": 180,
+      "comments": 49
     },
     {
       "id": 47864056,
       "title": "Iliad fragment found in Roman-era mummy",
       "url": "https://www.thehistoryblog.com/archives/75877",
-      "score": 78,
-      "comments": 17
-    },
-    {
-      "id": 47895765,
-      "title": "Google Flow Music",
-      "url": "https://www.flowmusic.app/",
-      "score": 68,
-      "comments": 36
-    },
-    {
-      "id": 47890799,
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "score": 345,
-      "comments": 84
+      "score": 131,
+      "comments": 37
     }
   ]
 }
