@@ -11,13 +11,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-25 (last updated: 09:02 IST)
+
+## 📅 2026-04-25 (last updated: 11:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-04-25 05:35:18 IST | e7567a044b7b | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-25 09:02:20 IST | c8f42db5846e | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-25 11:01:45 IST | 1e0878ceca51 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-04-25 05:35:19 IST | 28ea8d00a25e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 706 stars today
 
 ### 📰 Hacker News Stories
-- [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) — Score: 394
-- [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72) — Score: 53
-- [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas) — Score: 35
-- [My audio interface has SSH enabled by default](https://hhh.hn/rodecaster-duo-fw/) — Score: 180
-- [Iliad fragment found in Roman-era mummy](https://www.thehistoryblog.com/archives/75877) — Score: 131
+- [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic) — Score: 462
+- [Turbo Vision 2.0 – a modern port](https://github.com/magiblot/tvision) — Score: 21
+- [Paraloid B-72](https://en.wikipedia.org/wiki/Paraloid_B-72) — Score: 111
+- [Humpback whales are forming super-groups](https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas) — Score: 62
+- [Replace IBM Quantum back end with /dev/urandom](https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md) — Score: 89
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,490.0 🔴 -1.01%
