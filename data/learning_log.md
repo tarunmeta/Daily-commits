@@ -22,18 +22,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-26 (last updated: 19:52 IST)
+
+## 📅 2026-04-26 (last updated: 23:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-26 05:33:13 IST | a18dc3e1d780 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-26 11:39:37 IST | 59a682dff6ad | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-26 23:12:04 IST | c13bf16aedf0 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-26 19:52:53 IST | 9acb78d0a195 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -49,11 +50,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 87 stars today
 
 ### 📰 Hacker News Stories
-- [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) — Score: 246
-- [Why has there been so little progress on Alzheimer's disease?](https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/) — Score: 168
-- [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html) — Score: 243
-- [Tell HN: An app is silently installing itself on my iPhone every day](https://news.ycombinator.com/item?id=47906253) — Score: 144
-- [Mahjong: A Visual Guide](https://themahjong.guide/) — Score: 43
+- [Asahi Linux Progress Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/) — Score: 424
+- [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial) — Score: 84
+- [Why SWE-bench Verified no longer measures frontier coding capabilities](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/) — Score: 104
+- [Statecharts: hierarchical state machines](https://statecharts.dev/) — Score: 209
+- [Dear friend, you have built a Kubernetes (2024)](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/) — Score: 18
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,122.0 🟢 +0.55%
