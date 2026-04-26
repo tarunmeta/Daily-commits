@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-25 23:22:38 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-26 00:03:14 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Alishahryar1/free-claude-code**
-- BTC: **$77,596.0** ↑ (+0.28%)
-- HN top story: **Can you stop beans from making you gassy?**
+- BTC: **$77,609.0** ↑ (+0.15%)
+- HN top story: **USB Cheat Sheet**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-04-25 00:05:18 UTC | `e7567a044b7b` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-25 22:38:58 UTC | `225924093b84` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-25 23:22:38 UTC | `8257dd0b6503` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 13 | 2026-04-26 00:03:13 UTC | `a18dc3e1d780` | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-26 00:03:14 UTC | `fe9e8142a847` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-26 00:03:13 UTC | `eb95f648f76f` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
+- GitHub: +7 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-26` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| Streak | `47` day(s) |
-| Last Commit (IST) | `2026-04-26 04:08:58 IST` |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Streak | `46` day(s) |
+| Last Commit (IST) | `2026-04-26 04:52:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-23 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-04-24 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-04-26 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-04-26 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,596.0 | +0.28% | 🟢 |
-| Ethereum | $2,318.8 | +0.20% | 🟢 |
-| Solana | $86.1 | -0.14% | 🔴 |
-| Bnb | $629.45 | -1.09% | 🔴 |
+| Bitcoin | $77,609.0 | +0.15% | 🟢 |
+| Ethereum | $2,319.56 | +0.18% | 🟢 |
+| Solana | $86.18 | -0.04% | 🔴 |
+| Bnb | $628.79 | -1.19% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 2,638 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
-| [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | 2,985 stars today | 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh… |
-| [google/osv-scanner](https://github.com/google/osv-scanner) | Go | 141 stars today | Vulnerability scanner written in Go which uses the data provided by https://osv.… |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,378 stars today | ALL IN ONE Hacking Tool For Hackers |
-| [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | 706 stars today | Code search MCP for Claude Code. Make entire codebase the context for any coding… |
-| [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | 530 stars today | OpenMetadata is a unified metadata platform for data discovery, data observabili… |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 85 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
-| [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Rust | 268 stars today | Unofficial Bitwarden compatible server written in Rust, formerly known as bitwar… |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 4,007 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,139 stars today | My personal directory of skills, straight from my .claude directory. |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,200 stars today | ALL IN ONE Hacking Tool For Hackers |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 471 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 87 stars today | CLI tool for configuring and monitoring Claude Code |
+| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | Cuda | 189 stars today | DeepEP: an efficient expert-parallel communication library |
+| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | 48 stars today | PowerShell for every system! |
+| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | TypeScript | 57 stars today | Roo Code gives you a whole dev team of AI agents in your code editor. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Can you stop beans from making you gassy?](https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862) | 72 | 47 |
-| [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/) | 209 | 40 |
-| [1-Bit Hokusai's "The Great Wave" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/) | 490 | 83 |
-| [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) | 110 | 79 |
-| [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/) | 517 | 304 |
+| [USB Cheat Sheet](https://fabiensanglard.net/usbcheat/index.html) | 86 | 26 |
+| [The Free Universal Construction Kit](https://fffff.at/free-universal-construction-kit/) | 243 | 44 |
+| [1-Bit Hokusai's "The Great Wave" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/) | 507 | 86 |
+| [Trump fires all 24 members of the U.S. National Science Foundation](https://www.science.org/content/article/trump-fires-nsf-s-oversight-board) | 224 | 61 |
+| [Using coding assistance tools to revive projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/) | 147 | 92 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

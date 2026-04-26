@@ -2,86 +2,92 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-25 00:05:18 UTC",
-    "fetched_at_ist": "2026-04-25 05:35:18 IST",
-    "item_count": 12,
-    "content_hash": "e7567a044b7b9a261568b1d8180816428618c2448782fc2e22e6cebf6e922883",
-    "previous_hash": "ec8cd6c1737d56f9cab282ff229f393786fa1a3fe89b331e56f6a99a5140005b",
-    "new_repos_vs_previous": 6,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-04-26 00:03:13 UTC",
+    "fetched_at_ist": "2026-04-26 05:33:13 IST",
+    "item_count": 13,
+    "content_hash": "a18dc3e1d78037e027571d94541e020bbf843c04e81789e7946e3062271f7f82",
+    "previous_hash": "e7567a044b7b9a261568b1d8180816428618c2448782fc2e22e6cebf6e922883",
+    "new_repos_vs_previous": 7,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars_today": "2,638 stars today"
+      "stars_today": "4,007 stars today"
     },
     {
-      "name": "huggingface/ml-intern",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "language": "Python",
-      "stars_today": "2,985 stars today"
-    },
-    {
-      "name": "google/osv-scanner",
-      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
-      "language": "Go",
-      "stars_today": "141 stars today"
+      "name": "mattpocock/skills",
+      "description": "My personal directory of skills, straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "1,139 stars today"
     },
     {
       "name": "Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
-      "stars_today": "1,378 stars today"
-    },
-    {
-      "name": "zilliztech/claude-context",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "language": "TypeScript",
-      "stars_today": "706 stars today"
-    },
-    {
-      "name": "open-metadata/OpenMetadata",
-      "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-      "language": "TypeScript",
-      "stars_today": "530 stars today"
+      "stars_today": "1,200 stars today"
     },
     {
       "name": "PostHog/posthog",
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
-      "stars_today": "85 stars today"
+      "stars_today": "471 stars today"
     },
     {
-      "name": "dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "language": "Rust",
-      "stars_today": "268 stars today"
-    },
-    {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "language": "JavaScript",
-      "stars_today": "842 stars today"
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
-      "language": "Markdown",
-      "stars_today": "991 stars today"
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "stars_today": "87 stars today"
     },
     {
       "name": "deepseek-ai/DeepEP",
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
-      "stars_today": "52 stars today"
+      "stars_today": "189 stars today"
     },
     {
-      "name": "microsoft/typescript-go",
-      "description": "Staging repo for development of native port of TypeScript",
+      "name": "PowerShell/PowerShell",
+      "description": "PowerShell for every system!",
+      "language": "C#",
+      "stars_today": "48 stars today"
+    },
+    {
+      "name": "RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "language": "TypeScript",
+      "stars_today": "57 stars today"
+    },
+    {
+      "name": "huggingface/ml-intern",
+      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+      "language": "Python",
+      "stars_today": "1,240 stars today"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars_today": "1,432 stars today"
+    },
+    {
+      "name": "CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
-      "stars_today": "38 stars today"
+      "stars_today": "44 stars today"
+    },
+    {
+      "name": "Universal-Commerce-Protocol/ucp",
+      "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
+      "language": "Python",
+      "stars_today": "26 stars today"
+    },
+    {
+      "name": "ComposioHQ/awesome-codex-skills",
+      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+      "language": "Python",
+      "stars_today": "188 stars today"
     }
   ]
 }
