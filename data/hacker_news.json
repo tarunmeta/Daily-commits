@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-26 00:03:14 UTC",
-    "fetched_at_ist": "2026-04-26 05:33:14 IST",
+    "fetched_at_utc": "2026-04-26 06:09:37 UTC",
+    "fetched_at_ist": "2026-04-26 11:39:37 IST",
     "item_count": 5,
-    "content_hash": "fe9e8142a847e9dec5886b8a1cf4b78c76dc5270c392d33fa1d47df103875668",
-    "previous_hash": "225924093b84e60b5f72398bea627867a0d5887bbe669c0268b8bad0de9ec08e",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "59a682dff6ad82cfe0d35352f476ea8d7b8a183d895d14312df9f0c86a466bdd",
+    "previous_hash": "fe9e8142a847e9dec5886b8a1cf4b78c76dc5270c392d33fa1d47df103875668",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47903126,
+      "title": "Amateur armed with ChatGPT solves an Erdős problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "score": 246,
+      "comments": 161
+    },
+    {
+      "id": 47905984,
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "score": 168,
+      "comments": 78
+    },
+    {
       "id": 47904876,
-      "title": "USB Cheat Sheet",
+      "title": "USB Cheat Sheet (2022)",
       "url": "https://fabiensanglard.net/usbcheat/index.html",
-      "score": 86,
-      "comments": 26
-    },
-    {
-      "id": 47860198,
-      "title": "The Free Universal Construction Kit",
-      "url": "https://fffff.at/free-universal-construction-kit/",
       "score": 243,
-      "comments": 44
+      "comments": 51
     },
     {
-      "id": 47863570,
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "score": 507,
-      "comments": 86
+      "id": 47906253,
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "url": "https://news.ycombinator.com/item?id=47906253",
+      "score": 144,
+      "comments": 77
     },
     {
-      "id": 47905283,
-      "title": "Trump fires all 24 members of the U.S. National Science Foundation",
-      "url": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
-      "score": 224,
-      "comments": 61
-    },
-    {
-      "id": 47902525,
-      "title": "Using coding assistance tools to revive projects you never were going to finish",
-      "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-      "score": 147,
-      "comments": 92
+      "id": 47885239,
+      "title": "Mahjong: A Visual Guide",
+      "url": "https://themahjong.guide/",
+      "score": 43,
+      "comments": 9
     }
   ]
 }
