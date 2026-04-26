@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-26 19:30:43 UTC",
-    "fetched_at_ist": "2026-04-27 01:00:43 IST",
+    "fetched_at_utc": "2026-04-26 22:40:43 UTC",
+    "fetched_at_ist": "2026-04-27 04:10:43 IST",
     "item_count": 5,
-    "content_hash": "0c01e30dd7b208112a9de7e24ba2138b3de37d25124d7415941710a5ec5ae40a",
-    "previous_hash": "c13bf16aedf0da0713fae062bb828d53acdfa2040ea4a061bdaedeb9dd299c17",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "cb396188369fcd221a52a9e7fcf9b2d873b0b7ab8dbec6433d4ffa4f564d419f",
+    "previous_hash": "0c01e30dd7b208112a9de7e24ba2138b3de37d25124d7415941710a5ec5ae40a",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47911780,
-      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
-      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "score": 200,
-      "comments": 60
+      "id": 47914165,
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "score": 108,
+      "comments": 34
     },
     {
-      "id": 47911977,
-      "title": "Dillo Browser Release 3.3.0",
-      "url": "https://dillo-browser.org/release/3.3.0/",
-      "score": 59,
-      "comments": 6
+      "id": 47913855,
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "score": 85,
+      "comments": 27
     },
     {
-      "id": 47909226,
-      "title": "Asahi Linux Progress Linux 7.0",
-      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 511,
-      "comments": 222
+      "id": 47914350,
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+      "score": 130,
+      "comments": 84
     },
     {
-      "id": 47911350,
-      "title": "Clay PCB Tutorial",
-      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "score": 132,
-      "comments": 87
+      "id": 47914677,
+      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+      "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+      "score": 57,
+      "comments": 13
     },
     {
-      "id": 47911524,
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "score": 91,
-      "comments": 113
+      "id": 47883839,
+      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
+      "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
+      "score": 56,
+      "comments": 16
     }
   ]
 }
