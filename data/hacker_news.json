@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-26 17:42:04 UTC",
-    "fetched_at_ist": "2026-04-26 23:12:04 IST",
+    "fetched_at_utc": "2026-04-26 19:30:43 UTC",
+    "fetched_at_ist": "2026-04-27 01:00:43 IST",
     "item_count": 5,
-    "content_hash": "c13bf16aedf0da0713fae062bb828d53acdfa2040ea4a061bdaedeb9dd299c17",
-    "previous_hash": "59a682dff6ad82cfe0d35352f476ea8d7b8a183d895d14312df9f0c86a466bdd",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "0c01e30dd7b208112a9de7e24ba2138b3de37d25124d7415941710a5ec5ae40a",
+    "previous_hash": "c13bf16aedf0da0713fae062bb828d53acdfa2040ea4a061bdaedeb9dd299c17",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47911780,
+      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "score": 200,
+      "comments": 60
+    },
+    {
+      "id": 47911977,
+      "title": "Dillo Browser Release 3.3.0",
+      "url": "https://dillo-browser.org/release/3.3.0/",
+      "score": 59,
+      "comments": 6
+    },
+    {
       "id": 47909226,
       "title": "Asahi Linux Progress Linux 7.0",
       "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "score": 424,
-      "comments": 182
+      "score": 511,
+      "comments": 222
     },
     {
       "id": 47911350,
       "title": "Clay PCB Tutorial",
       "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "score": 84,
-      "comments": 56
+      "score": 132,
+      "comments": 87
     },
     {
-      "id": 47910388,
-      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "score": 104,
-      "comments": 72
-    },
-    {
-      "id": 47908833,
-      "title": "Statecharts: hierarchical state machines",
-      "url": "https://statecharts.dev/",
-      "score": 209,
-      "comments": 61
-    },
-    {
-      "id": 47885012,
-      "title": "Dear friend, you have built a Kubernetes (2024)",
-      "url": "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/",
-      "score": 18,
-      "comments": 4
+      "id": 47911524,
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "score": 91,
+      "comments": 113
     }
   ]
 }
