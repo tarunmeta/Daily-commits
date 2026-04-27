@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-27 (last updated: 05:35 IST)
+
+## 📅 2026-04-27 (last updated: 12:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-27 05:35:04 IST | 0f3e539d6abd | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-27 05:35:06 IST | 437b184d5705 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-27 12:08:09 IST | 67043c66a533 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-27 05:35:05 IST | 67716d4dab5b | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 337 stars today
 
 ### 📰 Hacker News Stories
-- [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) — Score: 255
-- [Fast16: High-precision software sabotage 5 years before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) — Score: 114
-- [Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo) — Score: 197
-- [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca) — Score: 46
-- [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/) — Score: 88
+- [Flipdiscs](https://flipdisc.io) — Score: 104
+- [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) — Score: 651
+- [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/) — Score: 89
+- [Self-updating screenshots](https://interblah.net/self-updating-screenshots) — Score: 214
+- [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/) — Score: 152
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,815.0 🟢 +1.52%
