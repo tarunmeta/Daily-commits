@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-26 23:24:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-27 00:05:06 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Alishahryar1/free-claude-code**
-- BTC: **$78,400.0** ↑ (+1.05%)
+- Top GitHub repo: **mattpocock/skills**
+- BTC: **$78,815.0** ↑ (+1.52%)
 - HN top story: **I bought Friendster for $30k – Here's what I'm doing with it**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-26 00:03:13 UTC | `a18dc3e1d780` | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-26 22:40:43 UTC | `cb396188369f` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-26 23:24:06 UTC | `343974f84271` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-04-27 00:05:04 UTC | `0f3e539d6abd` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-04-27 00:05:06 UTC | `437b184d5705` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-04-27 00:05:05 UTC | `67716d4dab5b` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-27` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `47` day(s) |
-| Last Commit (IST) | `2026-04-27 04:10:43 IST` |
+| Last Commit (IST) | `2026-04-27 04:54:06 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-24 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-04-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-04-26 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
-| 2026-04-27 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-04-27 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,400.0 | +1.05% | 🟢 |
-| Ethereum | $2,364.84 | +1.99% | 🟢 |
-| Solana | $86.78 | +0.82% | 🟢 |
-| Bnb | $635.06 | +0.90% | 🟢 |
+| Bitcoin | $78,815.0 | +1.52% | 🟢 |
+| Ethereum | $2,373.88 | +2.35% | 🟢 |
+| Solana | $87.05 | +0.98% | 🟢 |
+| Bnb | $636.76 | +1.26% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 4,007 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,139 stars today | My personal directory of skills, straight from my .claude directory. |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,200 stars today | ALL IN ONE Hacking Tool For Hackers |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 471 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 87 stars today | CLI tool for configuring and monitoring Claude Code |
-| [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) | Cuda | 189 stars today | DeepEP: an efficient expert-parallel communication library |
-| [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) | C# | 48 stars today | PowerShell for every system! |
-| [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) | TypeScript | 57 stars today | Roo Code gives you a whole dev team of AI agents in your code editor. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,519 stars today | Agent Skills for real engineers. Straight from my .claude directory. |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1,701 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
+| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,720 stars today | ALL IN ONE Hacking Tool For Hackers |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 700 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 337 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
+| [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Go | 23 stars today | Staging repo for development of native port of TypeScript |
+| [trycua/cua](https://github.com/trycua/cua) | HTML | 182 stars today | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma… |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | Go | 152 stars today | Beads - A memory upgrade for your coding agent |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) | 108 | 34 |
-| [Fast16: High-precision software sabotage 5 years before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) | 85 | 27 |
-| [Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo) | 130 | 84 |
-| [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/) | 57 | 13 |
-| [Magic: The Gathering took me from N2 to Japanese fluency](https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency) | 56 | 16 |
+| [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) | 255 | 129 |
+| [Fast16: High-precision software sabotage 5 years before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) | 114 | 34 |
+| [Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race](https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo) | 197 | 130 |
+| [Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3](https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca) | 46 | 34 |
+| [Butterflies are in decline across North America, a look at the Western Monarch](https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/) | 88 | 25 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

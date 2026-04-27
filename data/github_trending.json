@@ -2,92 +2,92 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-26 00:03:13 UTC",
-    "fetched_at_ist": "2026-04-26 05:33:13 IST",
+    "fetched_at_utc": "2026-04-27 00:05:04 UTC",
+    "fetched_at_ist": "2026-04-27 05:35:04 IST",
     "item_count": 13,
-    "content_hash": "a18dc3e1d78037e027571d94541e020bbf843c04e81789e7946e3062271f7f82",
-    "previous_hash": "e7567a044b7b9a261568b1d8180816428618c2448782fc2e22e6cebf6e922883",
+    "content_hash": "0f3e539d6abdb84516abf0b2937fffc3b2cc235a134a45fdc6632e272e013482",
+    "previous_hash": "a18dc3e1d78037e027571d94541e020bbf843c04e81789e7946e3062271f7f82",
     "new_repos_vs_previous": 7,
-    "top_repo_changed": false
+    "top_repo_changed": true
   },
   "repos": [
+    {
+      "name": "mattpocock/skills",
+      "description": "Agent Skills for real engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "2,519 stars today"
+    },
     {
       "name": "Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars_today": "4,007 stars today"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "My personal directory of skills, straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "1,139 stars today"
+      "stars_today": "1,701 stars today"
     },
     {
       "name": "Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
-      "stars_today": "1,200 stars today"
+      "stars_today": "1,720 stars today"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "language": "TypeScript",
+      "stars_today": "700 stars today"
     },
     {
       "name": "PostHog/posthog",
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
-      "stars_today": "471 stars today"
+      "stars_today": "337 stars today"
     },
     {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "name": "microsoft/typescript-go",
+      "description": "Staging repo for development of native port of TypeScript",
+      "language": "Go",
+      "stars_today": "23 stars today"
+    },
+    {
+      "name": "trycua/cua",
+      "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+      "language": "HTML",
+      "stars_today": "182 stars today"
+    },
+    {
+      "name": "gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "language": "Go",
+      "stars_today": "152 stars today"
+    },
+    {
+      "name": "curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "stars_today": "30 stars today"
+    },
+    {
+      "name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars_today": "87 stars today"
-    },
-    {
-      "name": "deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "stars_today": "189 stars today"
-    },
-    {
-      "name": "PowerShell/PowerShell",
-      "description": "PowerShell for every system!",
-      "language": "C#",
-      "stars_today": "48 stars today"
-    },
-    {
-      "name": "RooCodeInc/Roo-Code",
-      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
-      "language": "TypeScript",
-      "stars_today": "57 stars today"
-    },
-    {
-      "name": "huggingface/ml-intern",
-      "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-      "language": "Python",
-      "stars_today": "1,240 stars today"
+      "stars_today": "73 stars today"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_today": "1,432 stars today"
+      "stars_today": "1,075 stars today"
     },
     {
-      "name": "CJackHwang/ds2api",
-      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-      "language": "Go",
-      "stars_today": "44 stars today"
-    },
-    {
-      "name": "Universal-Commerce-Protocol/ucp",
-      "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
-      "language": "Python",
-      "stars_today": "26 stars today"
+      "name": "openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+      "language": "TypeScript",
+      "stars_today": "627 stars today"
     },
     {
       "name": "ComposioHQ/awesome-codex-skills",
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
-      "stars_today": "188 stars today"
+      "stars_today": "517 stars today"
     }
   ]
 }

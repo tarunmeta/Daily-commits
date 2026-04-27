@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-26 22:40:43 UTC",
-    "fetched_at_ist": "2026-04-27 04:10:43 IST",
+    "fetched_at_utc": "2026-04-27 00:05:06 UTC",
+    "fetched_at_ist": "2026-04-27 05:35:06 IST",
     "item_count": 5,
-    "content_hash": "cb396188369fcd221a52a9e7fcf9b2d873b0b7ab8dbec6433d4ffa4f564d419f",
-    "previous_hash": "0c01e30dd7b208112a9de7e24ba2138b3de37d25124d7415941710a5ec5ae40a",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "437b184d57055aa92089c9877e9c88ff5da632ec69a7777e4e88227b79e4f34f",
+    "previous_hash": "cb396188369fcd221a52a9e7fcf9b2d873b0b7ab8dbec6433d4ffa4f564d419f",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47914165,
       "title": "I bought Friendster for $30k – Here's what I'm doing with it",
       "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-      "score": 108,
-      "comments": 34
+      "score": 255,
+      "comments": 129
     },
     {
       "id": 47913855,
       "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
       "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "score": 85,
-      "comments": 27
+      "score": 114,
+      "comments": 34
     },
     {
       "id": 47914350,
       "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
       "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-      "score": 130,
-      "comments": 84
+      "score": 197,
+      "comments": 130
+    },
+    {
+      "id": 47914438,
+      "title": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
+      "url": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
+      "score": 46,
+      "comments": 34
     },
     {
       "id": 47914677,
       "title": "Butterflies are in decline across North America, a look at the Western Monarch",
       "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-      "score": 57,
-      "comments": 13
-    },
-    {
-      "id": 47883839,
-      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
-      "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
-      "score": 56,
-      "comments": 16
+      "score": 88,
+      "comments": 25
     }
   ]
 }
