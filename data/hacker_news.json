@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-28 06:44:32 UTC",
-    "fetched_at_ist": "2026-04-28 12:14:32 IST",
+    "fetched_at_utc": "2026-04-28 15:38:53 UTC",
+    "fetched_at_ist": "2026-04-28 21:08:53 IST",
     "item_count": 5,
-    "content_hash": "e1a15060a295e12b0a35f7675608f6c36e9990e56f6a95f3e164e1493fbaa6e7",
-    "previous_hash": "006048c9f3ddd381b9554f900b22b5537fac9cf0dd1e2f728320e81924af1596",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "03a2d0a98c99f12b59f7d27856eee8f1b719d54244bf30dc7585bcd308681eb2",
+    "previous_hash": "e1a15060a295e12b0a35f7675608f6c36e9990e56f6a95f3e164e1493fbaa6e7",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47927903,
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 280,
-      "comments": 87
+      "id": 47933208,
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "score": 359,
+      "comments": 144
     },
     {
-      "id": 47931035,
-      "title": "GTFOBins",
-      "url": "https://gtfobins.org/",
-      "score": 7,
-      "comments": 0
+      "id": 47933236,
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "score": 157,
+      "comments": 102
     },
     {
-      "id": 47921248,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 839,
-      "comments": 716
+      "id": 47934261,
+      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+      "url": "https://www.lumara-space.app/",
+      "score": 57,
+      "comments": 13
     },
     {
-      "id": 47899669,
-      "title": "Pgrx: Build Postgres Extensions with Rust",
-      "url": "https://github.com/pgcentralfoundation/pgrx",
-      "score": 46,
-      "comments": 2
+      "id": 47915023,
+      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
+      "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
+      "score": 37,
+      "comments": 12
     },
     {
-      "id": 47926861,
-      "title": "Is my blue your blue?",
-      "url": "https://ismy.blue/",
-      "score": 460,
-      "comments": 311
+      "id": 47934269,
+      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
+      "url": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
+      "score": 173,
+      "comments": 73
     }
   ]
 }
