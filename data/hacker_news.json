@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-28 21:43:29 UTC",
-    "fetched_at_ist": "2026-04-29 03:13:29 IST",
+    "fetched_at_utc": "2026-04-28 22:40:33 UTC",
+    "fetched_at_ist": "2026-04-29 04:10:33 IST",
     "item_count": 5,
-    "content_hash": "1245b10f4531e10fd16d17c6b97a6640fc86a16e5a71e9b8ec4d7df16c6f948e",
-    "previous_hash": "42342f0d8066256176217eddf361fc37ac5250ebe37c6c27b365ac28f162f1fe",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "c59e1456b55dab512190e898becdc80d5db00a3d8a503ffd25c2ec477ed6fa86",
+    "previous_hash": "1245b10f4531e10fd16d17c6b97a6640fc86a16e5a71e9b8ec4d7df16c6f948e",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 47939579,
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 974,
-      "comments": 278
-    },
-    {
-      "id": 47939320,
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-      "score": 106,
-      "comments": 39
-    },
-    {
-      "id": 47940389,
-      "title": "I won a championship that doesn't exist",
-      "url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
-      "score": 30,
-      "comments": 18
+      "score": 1221,
+      "comments": 349
     },
     {
       "id": 47940921,
       "title": "Before GitHub",
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "score": 24,
-      "comments": 6
+      "score": 112,
+      "comments": 22
+    },
+    {
+      "id": 47939320,
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "score": 130,
+      "comments": 45
     },
     {
       "id": 47937349,
       "title": "Warp is now Open-Source",
       "url": "https://github.com/warpdotdev/warp",
-      "score": 144,
-      "comments": 62
+      "score": 194,
+      "comments": 109
+    },
+    {
+      "id": 47885644,
+      "title": "Intel Arc Pro B70 Review",
+      "url": "https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/",
+      "score": 67,
+      "comments": 39
     }
   ]
 }
