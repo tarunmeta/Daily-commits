@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-27 18:20:02 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-28 00:06:37 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mattpocock/skills**
-- BTC: **$76,797.0** ↓ (-1.85%)
-- HN top story: **Flipdiscs**
+- BTC: **$77,280.0** ↓ (-1.89%)
+- HN top story: **New Integrated by Design FreeBSD Book**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-27 00:05:04 UTC | `0f3e539d6abd` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-04-27 06:38:09 UTC | `67043c66a533` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-27 18:20:02 UTC | `c8c4f898a4f5` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-04-28 00:06:36 UTC | `a31f84b5d420` | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-04-28 00:06:37 UTC | `006048c9f3dd` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-04-28 00:06:36 UTC | `cf37bb42abe1` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-28` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `47` day(s) |
-| Last Commit (IST) | `2026-04-28 03:37:27 IST` |
+| Last Commit (IST) | `2026-04-28 04:40:17 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-25 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-04-26 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 | 2026-04-27 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-04-28 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-04-28 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,797.0 | -1.85% | 🔴 |
-| Ethereum | $2,289.69 | -3.23% | 🔴 |
-| Solana | $84.6 | -2.62% | 🔴 |
-| Bnb | $622.84 | -1.79% | 🔴 |
+| Bitcoin | $77,280.0 | -1.89% | 🔴 |
+| Ethereum | $2,301.18 | -2.97% | 🔴 |
+| Solana | $84.71 | -2.72% | 🔴 |
+| Bnb | $626.73 | -1.48% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,519 stars today | Agent Skills for real engineers. Straight from my .claude directory. |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 1,701 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
-| [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | 1,720 stars today | ALL IN ONE Hacking Tool For Hackers |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 700 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 337 stars today | 🦔 PostHog is an all-in-one developer platform for building successful products. … |
-| [microsoft/typescript-go](https://github.com/microsoft/typescript-go) | Go | 23 stars today | Staging repo for development of native port of TypeScript |
-| [trycua/cua](https://github.com/trycua/cua) | HTML | 182 stars today | Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma… |
-| [gastownhall/beads](https://github.com/gastownhall/beads) | Go | 152 stars today | Beads - A memory upgrade for your coding agent |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 5,645 stars today | Skills for Real Engineers. Straight from my .claude directory. |
+| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,102 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
+| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | 638 stars today | A curated list of practical Codex skills for automating workflows across the Cod… |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 2,949 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | Go | 498 stars today | Beads - A memory upgrade for your coding agent |
+| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 166 stars today | Penpot: The open-source design tool for design and code collaboration |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 154 stars today | CLI tool for configuring and monitoring Claude Code |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 757 stars today | Open-Source Frontier Voice AI |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Flipdiscs](https://flipdisc.io) | 104 | 21 |
-| [I bought Friendster for $30k – Here's what I'm doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d) | 651 | 356 |
-| [TurboQuant: A first-principles walkthrough](https://arkaung.github.io/interactive-turboquant/) | 89 | 12 |
-| [Self-updating screenshots](https://interblah.net/self-updating-screenshots) | 214 | 30 |
-| [Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/) | 152 | 24 |
+| [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch) | 22 | 1 |
+| [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) | 719 | 637 |
+| [Is my blue your blue?](https://ismy.blue/) | 281 | 181 |
+| [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) | 24 | 1 |
+| [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/) | 70 | 33 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
