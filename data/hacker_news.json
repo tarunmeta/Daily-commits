@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-28 00:06:37 UTC",
-    "fetched_at_ist": "2026-04-28 05:36:37 IST",
+    "fetched_at_utc": "2026-04-28 06:44:32 UTC",
+    "fetched_at_ist": "2026-04-28 12:14:32 IST",
     "item_count": 5,
-    "content_hash": "006048c9f3ddd381b9554f900b22b5537fac9cf0dd1e2f728320e81924af1596",
-    "previous_hash": "67043c66a533987b362e8c1957ff2a3f2f564ee6a434b5a23f3e13d398d7a800",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "e1a15060a295e12b0a35f7675608f6c36e9990e56f6a95f3e164e1493fbaa6e7",
+    "previous_hash": "006048c9f3ddd381b9554f900b22b5537fac9cf0dd1e2f728320e81924af1596",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47928554,
-      "title": "New Integrated by Design FreeBSD Book",
-      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "score": 22,
-      "comments": 1
+      "id": 47927903,
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 280,
+      "comments": 87
+    },
+    {
+      "id": 47931035,
+      "title": "GTFOBins",
+      "url": "https://gtfobins.org/",
+      "score": 7,
+      "comments": 0
     },
     {
       "id": 47921248,
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "score": 719,
-      "comments": 637
+      "score": 839,
+      "comments": 716
+    },
+    {
+      "id": 47899669,
+      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "url": "https://github.com/pgcentralfoundation/pgrx",
+      "score": 46,
+      "comments": 2
     },
     {
       "id": 47926861,
       "title": "Is my blue your blue?",
       "url": "https://ismy.blue/",
-      "score": 281,
-      "comments": 181
-    },
-    {
-      "id": 47927903,
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "score": 24,
-      "comments": 1
-    },
-    {
-      "id": 47927070,
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
-      "score": 70,
-      "comments": 33
+      "score": 460,
+      "comments": 311
     }
   ]
 }

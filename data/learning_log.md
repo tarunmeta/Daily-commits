@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-28 (last updated: 05:36 IST)
+
+## 📅 2026-04-28 (last updated: 12:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-28 05:36:37 IST | 006048c9f3dd | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-28 12:14:32 IST | e1a15060a295 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-28 05:36:36 IST | cf37bb42abe1 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 498 stars today
 
 ### 📰 Hacker News Stories
-- [New Integrated by Design FreeBSD Book](https://vivianvoss.net/blog/integrated-by-design-launch) — Score: 22
-- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) — Score: 719
-- [Is my blue your blue?](https://ismy.blue/) — Score: 281
-- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) — Score: 24
-- [Three men are facing charges in Toronto SMS Blaster arrests](https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/) — Score: 70
+- [Talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) — Score: 280
+- [GTFOBins](https://gtfobins.org/) — Score: 7
+- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai) — Score: 839
+- [Pgrx: Build Postgres Extensions with Rust](https://github.com/pgcentralfoundation/pgrx) — Score: 46
+- [Is my blue your blue?](https://ismy.blue/) — Score: 460
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,280.0 🔴 -1.89%
