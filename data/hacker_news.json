@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-28 15:38:53 UTC",
-    "fetched_at_ist": "2026-04-28 21:08:53 IST",
+    "fetched_at_utc": "2026-04-28 20:41:17 UTC",
+    "fetched_at_ist": "2026-04-29 02:11:17 IST",
     "item_count": 5,
-    "content_hash": "03a2d0a98c99f12b59f7d27856eee8f1b719d54244bf30dc7585bcd308681eb2",
-    "previous_hash": "e1a15060a295e12b0a35f7675608f6c36e9990e56f6a95f3e164e1493fbaa6e7",
+    "content_hash": "42342f0d8066256176217eddf361fc37ac5250ebe37c6c27b365ac28f162f1fe",
+    "previous_hash": "03a2d0a98c99f12b59f7d27856eee8f1b719d54244bf30dc7585bcd308681eb2",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47933208,
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "url": "https://github.com/localsend/localsend",
-      "score": 359,
-      "comments": 144
+      "id": 47939579,
+      "title": "Ghostty is leaving GitHub",
+      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "score": 615,
+      "comments": 143
     },
     {
-      "id": 47933236,
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "score": 157,
-      "comments": 102
+      "id": 47939320,
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "score": 70,
+      "comments": 20
     },
     {
-      "id": 47934261,
-      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-      "url": "https://www.lumara-space.app/",
-      "score": 57,
-      "comments": 13
+      "id": 47939079,
+      "title": "A playable DOOM MCP app",
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "score": 55,
+      "comments": 20
     },
     {
-      "id": 47915023,
-      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
-      "url": "https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html",
-      "score": 37,
-      "comments": 12
+      "id": 47937349,
+      "title": "Warp is now Open-Source",
+      "url": "https://github.com/warpdotdev/warp",
+      "score": 92,
+      "comments": 31
     },
     {
-      "id": 47934269,
-      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
-      "url": "https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/",
-      "score": 173,
-      "comments": 73
+      "id": 47939105,
+      "title": "CJIT: C, Just in Time",
+      "url": "https://dyne.org/cjit/",
+      "score": 33,
+      "comments": 3
     }
   ]
 }

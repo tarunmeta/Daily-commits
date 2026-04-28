@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-04-29 (last updated: 22:52 IST)
+
+## 📅 2026-04-29 (last updated: 02:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-28 21:08:53 IST | 03a2d0a98c99 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-29 02:11:17 IST | 42342f0d8066 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-28 22:52:27 IST | 757eddec2931 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 498 stars today
 
 ### 📰 Hacker News Stories
-- [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend) — Score: 359
-- [Microsoft VibeVoice: Open-Source Frontier Voice AI](https://github.com/microsoft/VibeVoice) — Score: 157
-- [Show HN: Live Sun and Moon Dashboard with NASA Footage](https://www.lumara-space.app/) — Score: 57
-- [Deep under Antarctic ice, a long-predicted cosmic whisper breaks through](https://phys.org/news/2026-04-deep-antarctic-ice-cosmic-strange.html) — Score: 37
-- [OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership](https://www.vice.com/en/article/openai-ceo-identity-verification-company-fake-bruno-mars-partnership-mistaken-identity/) — Score: 173
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 615
+- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) — Score: 70
+- [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/) — Score: 55
+- [Warp is now Open-Source](https://github.com/warpdotdev/warp) — Score: 92
+- [CJIT: C, Just in Time](https://dyne.org/cjit/) — Score: 33
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,960.0 🔴 -1.01%
@@ -44,17 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $622.64 🔴 -0.05%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-04-28 (last updated: 22:52 IST)
 
 ### 🧪 Source Integrity Snapshot
