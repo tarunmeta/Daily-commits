@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-04-29 (last updated: 02:11 IST)
+
+## 📅 2026-04-29 (last updated: 03:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-29 02:11:17 IST | 42342f0d8066 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-29 03:13:29 IST | 1245b10f4531 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-04-28 22:52:27 IST | 757eddec2931 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 498 stars today
 
 ### 📰 Hacker News Stories
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 615
-- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) — Score: 70
-- [A playable DOOM MCP app](https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/) — Score: 55
-- [Warp is now Open-Source](https://github.com/warpdotdev/warp) — Score: 92
-- [CJIT: C, Just in Time](https://dyne.org/cjit/) — Score: 33
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 974
+- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) — Score: 106
+- [I won a championship that doesn't exist](https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/) — Score: 30
+- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) — Score: 24
+- [Warp is now Open-Source](https://github.com/warpdotdev/warp) — Score: 144
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,960.0 🔴 -1.01%
