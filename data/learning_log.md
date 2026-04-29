@@ -8,19 +8,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-29 (last updated: 05:08 IST)
+
+## 📅 2026-04-29 (last updated: 06:54 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-04-29 05:08:39 IST | dd7ed652dac1 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-04-28 22:52:27 IST | 757eddec2931 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-04-29 06:54:30 IST | bf57ff9b323e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
 - Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .claude directory.  
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/) — Score: 86
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,960.0 🔴 -1.01%
-- Ethereum: $2,279.46 🔴 -0.16%
-- Solana: $83.41 🔴 -1.11%
-- Bnb: $622.64 🔴 -0.05%
+- Bitcoin: $76,233.0 🔴 -1.29%
+- Ethereum: $2,281.61 🔴 -1.08%
+- Solana: $83.86 🔴 -0.98%
+- Bnb: $623.31 🔴 -0.56%
 
 ---
 ## 📅 2026-04-28 (last updated: 22:52 IST)
