@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-30 (last updated: 02:49 IST)
+
+## 📅 2026-04-30 (last updated: 04:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-29 15:03:51 IST | 10c03e44cf2f | +4 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-30 04:01:07 IST | 4e4865c8df30 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-30 02:49:17 IST | e0265193d1b8 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 498 stars today
 
 ### 📰 Hacker News Stories
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 2565
-- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/) — Score: 278
-- [Tell HN: An update from the new Tindie team](https://news.ycombinator.com/item?id=47945522) — Score: 26
-- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle) — Score: 61
-- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) — Score: 333
+- [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 1354
+- [Copy Fail – CVE-2026-31431](https://copy.fail/) — Score: 377
+- [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262) — Score: 873
+- [OpenTrafficMap](https://opentrafficmap.org/) — Score: 95
+- [Cursor Camp](https://neal.fun/cursor-camp/) — Score: 459
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,822.0 🔴 -0.70%

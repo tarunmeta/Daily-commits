@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-29 09:33:51 UTC",
-    "fetched_at_ist": "2026-04-29 15:03:51 IST",
+    "fetched_at_utc": "2026-04-29 22:31:07 UTC",
+    "fetched_at_ist": "2026-04-30 04:01:07 IST",
     "item_count": 5,
-    "content_hash": "10c03e44cf2f2b09c39dc27c34155f64490e80b3e62c1bf497cecabe4617d4a1",
-    "previous_hash": "dd7ed652dac1a4e786ea8ad1e979a4af9b346767d6fc246ef7d82ee396005fcf",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "content_hash": "4e4865c8df30df4541f05662635abd42b126d92ffcdc871bec7e1ab3d7110819",
+    "previous_hash": "10c03e44cf2f2b09c39dc27c34155f64490e80b3e62c1bf497cecabe4617d4a1",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47939579,
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "score": 2565,
-      "comments": 753
+      "id": 47949027,
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "score": 1354,
+      "comments": 427
     },
     {
-      "id": 47943499,
-      "title": "Bugs Rust won't catch",
-      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "score": 278,
-      "comments": 115
+      "id": 47952181,
+      "title": "Copy Fail – CVE-2026-31431",
+      "url": "https://copy.fail/",
+      "score": 377,
+      "comments": 182
     },
     {
-      "id": 47945522,
-      "title": "Tell HN: An update from the new Tindie team",
-      "url": "https://news.ycombinator.com/item?id=47945522",
-      "score": 26,
-      "comments": 8
+      "id": 47952722,
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "score": 873,
+      "comments": 340
     },
     {
-      "id": 47944864,
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "score": 61,
-      "comments": 7
+      "id": 47953541,
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "score": 95,
+      "comments": 20
     },
     {
-      "id": 47942437,
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "score": 333,
-      "comments": 225
+      "id": 47949939,
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "score": 459,
+      "comments": 83
     }
   ]
 }
