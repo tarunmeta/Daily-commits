@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-29 15:27:49 UTC`
+**Last Meaningful Data Update (UTC):** `2026-04-29 21:19:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mattpocock/skills**
-- BTC: **$76,246.0** ↑ (+0.36%)
+- BTC: **$75,822.0** ↓ (-0.70%)
 - HN top story: **Ghostty is leaving GitHub**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 00:06:36 UTC | `a31f84b5d420` | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-04-29 09:33:51 UTC | `10c03e44cf2f` | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-04-29 15:27:49 UTC | `0d3657111218` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-04-29 21:19:17 UTC | `e0265193d1b8` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-04-30` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `49` day(s) |
-| Last Commit (IST) | `2026-04-30 00:17:58 IST` |
+| Last Commit (IST) | `2026-04-30 01:40:16 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-04-27 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-04-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-04-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-04-30 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-04-30 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,246.0 | +0.36% | 🟢 |
-| Ethereum | $2,288.78 | +0.68% | 🟢 |
-| Solana | $83.39 | +0.03% | 🟢 |
-| Bnb | $618.53 | -0.63% | 🔴 |
+| Bitcoin | $75,822.0 | -0.70% | 🔴 |
+| Ethereum | $2,247.18 | -1.91% | 🔴 |
+| Solana | $82.79 | -1.17% | 🔴 |
+| Bnb | $616.04 | -1.24% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
