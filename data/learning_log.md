@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-29 (last updated: 12:54 IST)
+
+## 📅 2026-04-29 (last updated: 15:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-29 05:08:39 IST | dd7ed652dac1 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-29 15:03:51 IST | 10c03e44cf2f | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-04-29 12:54:15 IST | 23ef196dfa64 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 498 stars today
 
 ### 📰 Hacker News Stories
-- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 1382
-- [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/) — Score: 180
-- [OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs](https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/) — Score: 154
-- [Carrot Disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html) — Score: 34
-- [Intel Arc Pro B70 Review](https://www.pugetsystems.com/labs/articles/intel-arc-pro-b70-review/) — Score: 86
+- [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github) — Score: 2565
+- [Bugs Rust won't catch](https://corrode.dev/blog/bugs-rust-wont-catch/) — Score: 278
+- [Tell HN: An update from the new Tindie team](https://news.ycombinator.com/item?id=47945522) — Score: 26
+- [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle) — Score: 61
+- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/) — Score: 333
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,032.0 🟢 +0.53%
