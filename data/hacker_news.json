@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-29 22:31:07 UTC",
-    "fetched_at_ist": "2026-04-30 04:01:07 IST",
+    "fetched_at_utc": "2026-04-29 23:37:14 UTC",
+    "fetched_at_ist": "2026-04-30 05:07:14 IST",
     "item_count": 5,
-    "content_hash": "4e4865c8df30df4541f05662635abd42b126d92ffcdc871bec7e1ab3d7110819",
-    "previous_hash": "10c03e44cf2f2b09c39dc27c34155f64490e80b3e62c1bf497cecabe4617d4a1",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "f20ca7b093f18e95474cfb122720f0a7fb26257ee82ee22c46334a41aea73307",
+    "previous_hash": "4e4865c8df30df4541f05662635abd42b126d92ffcdc871bec7e1ab3d7110819",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 47949027,
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1354,
-      "comments": 427
+      "score": 1426,
+      "comments": 451
     },
     {
       "id": 47952181,
       "title": "Copy Fail – CVE-2026-31431",
       "url": "https://copy.fail/",
-      "score": 377,
-      "comments": 182
+      "score": 456,
+      "comments": 214
+    },
+    {
+      "id": 47955297,
+      "title": "Germany has become the largest ammunition producer in the world",
+      "url": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+      "score": 75,
+      "comments": 36
     },
     {
       "id": 47952722,
       "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
       "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 873,
-      "comments": 340
+      "score": 925,
+      "comments": 371
     },
     {
       "id": 47953541,
       "title": "OpenTrafficMap",
       "url": "https://opentrafficmap.org/",
-      "score": 95,
-      "comments": 20
-    },
-    {
-      "id": 47949939,
-      "title": "Cursor Camp",
-      "url": "https://neal.fun/cursor-camp/",
-      "score": 459,
-      "comments": 83
+      "score": 118,
+      "comments": 25
     }
   ]
 }
