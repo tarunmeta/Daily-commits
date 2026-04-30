@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-30 (last updated: 13:00 IST)
+
+## 📅 2026-04-30 (last updated: 17:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-30 13:00:32 IST | b0fe0999ed49 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-04-30 17:07:52 IST | aab913220e8c | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-30 06:53:07 IST | 9a430edd021d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 498 stars today
 
 ### 📰 Hacker News Stories
-- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) — Score: 441
-- [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models) — Score: 142
-- [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 1766
-- [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code) — Score: 109
-- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) — Score: 207
+- [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/) — Score: 78
+- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) — Score: 710
+- [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213) — Score: 145
+- [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models) — Score: 293
+- [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 1902
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,223.0 🔴 -0.02%
