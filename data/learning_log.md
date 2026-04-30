@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-30 (last updated: 17:07 IST)
+
+## 📅 2026-04-30 (last updated: 20:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-04-30 17:07:52 IST | aab913220e8c | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-30 06:53:07 IST | 9a430edd021d | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-04-30 20:52:37 IST | b908928b055d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .claude directory.  
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 1902
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,223.0 🔴 -0.02%
-- Ethereum: $2,269.86 🔴 -0.53%
-- Solana: $83.83 🔴 -0.04%
-- Bnb: $619.54 🔴 -0.59%
+- Bitcoin: $76,391.0 🟢 +0.23%
+- Ethereum: $2,263.74 🔴 -1.00%
+- Solana: $83.25 🔴 -0.17%
+- Bnb: $616.77 🔴 -0.25%
 
 ---
 ## 📅 2026-04-29 (last updated: 20:57 IST)
