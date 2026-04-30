@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-04-30 (last updated: 06:53 IST)
+
+## 📅 2026-04-30 (last updated: 13:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-30 05:07:14 IST | f20ca7b093f1 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-04-30 13:00:32 IST | b0fe0999ed49 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-04-30 06:53:07 IST | 9a430edd021d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 498 stars today
 
 ### 📰 Hacker News Stories
-- [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 1426
-- [Copy Fail – CVE-2026-31431](https://copy.fail/) — Score: 456
-- [Germany has become the largest ammunition producer in the world](https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/) — Score: 75
-- [HERMES.md in commit messages causes requests to route to extra usage billing](https://github.com/anthropics/claude-code/issues/53262) — Score: 925
-- [OpenTrafficMap](https://opentrafficmap.org/) — Score: 118
+- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) — Score: 441
+- [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models) — Score: 142
+- [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 1766
+- [Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs](https://github.com/cauchy221/Alignment-Whack-a-Mole-Code) — Score: 109
+- [Craig Venter has died](https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79) — Score: 207
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,223.0 🔴 -0.02%

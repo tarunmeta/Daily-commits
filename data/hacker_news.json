@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-04-29 23:37:14 UTC",
-    "fetched_at_ist": "2026-04-30 05:07:14 IST",
+    "fetched_at_utc": "2026-04-30 07:30:32 UTC",
+    "fetched_at_ist": "2026-04-30 13:00:32 IST",
     "item_count": 5,
-    "content_hash": "f20ca7b093f18e95474cfb122720f0a7fb26257ee82ee22c46334a41aea73307",
-    "previous_hash": "4e4865c8df30df4541f05662635abd42b126d92ffcdc871bec7e1ab3d7110819",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "b0fe0999ed49964626998c7efd8cc58a1f88bd076cd16e537fb653d9ffd55d13",
+    "previous_hash": "f20ca7b093f18e95474cfb122720f0a7fb26257ee82ee22c46334a41aea73307",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 47957688,
+      "title": "Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "score": 441,
+      "comments": 226
+    },
+    {
+      "id": 47927627,
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "score": 142,
+      "comments": 24
+    },
     {
       "id": 47949027,
       "title": "Zed 1.0",
       "url": "https://zed.dev/blog/zed-1-0",
-      "score": 1426,
-      "comments": 451
+      "score": 1766,
+      "comments": 570
     },
     {
-      "id": 47952181,
-      "title": "Copy Fail – CVE-2026-31431",
-      "url": "https://copy.fail/",
-      "score": 456,
-      "comments": 214
+      "id": 47957627,
+      "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+      "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+      "score": 109,
+      "comments": 69
     },
     {
-      "id": 47955297,
-      "title": "Germany has become the largest ammunition producer in the world",
-      "url": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
-      "score": 75,
-      "comments": 36
-    },
-    {
-      "id": 47952722,
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "score": 925,
-      "comments": 371
-    },
-    {
-      "id": 47953541,
-      "title": "OpenTrafficMap",
-      "url": "https://opentrafficmap.org/",
-      "score": 118,
-      "comments": 25
+      "id": 47957101,
+      "title": "Craig Venter has died",
+      "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+      "score": 207,
+      "comments": 35
     }
   ]
 }
