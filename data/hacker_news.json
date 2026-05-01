@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 10:44:33 UTC",
-    "fetched_at_ist": "2026-05-01 16:14:33 IST",
+    "fetched_at_utc": "2026-05-01 14:36:41 UTC",
+    "fetched_at_ist": "2026-05-01 20:06:41 IST",
     "item_count": 5,
-    "content_hash": "9decdb191b0398b41e0f6a8311546913408a888a8663ccecce66a717d128ea89",
-    "previous_hash": "c7235673190c3265aee0e3820c2e60559e936d76b632dafab55e9710005b0f60",
+    "content_hash": "f106e9b2d9f01b80ac49e306378f66f8597c4183c126b3b287b678a9e03b4e37",
+    "previous_hash": "9decdb191b0398b41e0f6a8311546913408a888a8663ccecce66a717d128ea89",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47972511,
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "url": "https://github.com/darrylmorley/whatcable",
-      "score": 68,
-      "comments": 15
+      "id": 47973376,
+      "title": "Your Website Is Not for You",
+      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "score": 140,
+      "comments": 90
     },
     {
-      "id": 47972888,
-      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
-      "url": "https://news.ycombinator.com/item?id=47972888",
-      "score": 22,
-      "comments": 2
+      "id": 47973755,
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "url": "https://www.pagetable.com/?p=1854",
+      "score": 50,
+      "comments": 12
     },
     {
-      "id": 47936184,
-      "title": "Auto Polo",
-      "url": "https://en.wikipedia.org/wiki/Auto_polo",
-      "score": 55,
-      "comments": 14
-    },
-    {
-      "id": 47971771,
-      "title": "If I could make my own GitHub",
-      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
-      "score": 58,
-      "comments": 38
+      "id": 47973378,
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+      "score": 199,
+      "comments": 127
     },
     {
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 607,
-      "comments": 200
+      "score": 651,
+      "comments": 217
+    },
+    {
+      "id": 47946899,
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "score": 125,
+      "comments": 80
     }
   ]
 }
