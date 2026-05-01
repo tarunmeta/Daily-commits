@@ -7,44 +7,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-01 (last updated: 23:45 IST)
+
+## 📅 2026-05-01 (last updated: 05:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-28 05:36:36 IST | a31f84b5d420 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-30 17:07:52 IST | aab913220e8c | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-30 23:45:03 IST | e5c78b32720c | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-05-01 05:35:54 IST | afe33b8e9b05 | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-01 05:35:55 IST | c7235673190c | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-01 05:35:54 IST | 18283568d75a | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
+- **[warpdotdev/warp](https://github.com/warpdotdev/warp)** (Rust) — Warp is an agentic development environment, born out of the terminal.  
+  ⭐ 8,399 stars today
+- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** (Python) — TradingAgents: Multi-Agents LLM Financial Trading Framework  
+  ⭐ 2,023 stars today
 - **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .claude directory.  
-  ⭐ 5,645 stars today
-- **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)** (TypeScript) — GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k  
-  ⭐ 1,102 stars today
-- **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** (Python) — A curated list of practical Codex skills for automating workflows across the Cod  
-  ⭐ 638 stars today
-- **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** (Python) — Use claude-code for free in the terminal, VSCode extension or via discord like o  
-  ⭐ 2,949 stars today
-- **[gastownhall/beads](https://github.com/gastownhall/beads)** (Go) — Beads - A memory upgrade for your coding agent  
-  ⭐ 498 stars today
+  ⭐ 6,187 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,632 stars today
+- **[lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** (TypeScript) — No description  
+  ⭐ 319 stars today
 
 ### 📰 Hacker News Stories
-- [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/) — Score: 78
-- [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) — Score: 710
-- [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213) — Score: 145
-- [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models) — Score: 293
-- [Zed 1.0](https://zed.dev/blog/zed-1-0) — Score: 1902
+- [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) — Score: 387
+- [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/) — Score: 359
+- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) — Score: 394
+- [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) — Score: 103
+- [CopyFail was not disclosed to distro developers?](https://www.openwall.com/lists/oss-security/2026/04/30/10) — Score: 332
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,221.0 🟢 +1.39%
-- Ethereum: $2,254.99 🟢 +0.72%
-- Solana: $83.04 🟢 +1.54%
-- Bnb: $617.22 🟢 +0.85%
+- Bitcoin: $76,412.0 🟢 +0.80%
+- Ethereum: $2,261.14 🟢 +0.31%
+- Solana: $83.19 🟢 +0.07%
+- Bnb: $615.27 🔴 -0.37%
 
 ---
 ## 📅 2026-04-30 (last updated: 23:45 IST)

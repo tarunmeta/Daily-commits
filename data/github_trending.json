@@ -2,92 +2,92 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-04-28 00:06:36 UTC",
-    "fetched_at_ist": "2026-04-28 05:36:36 IST",
+    "fetched_at_utc": "2026-05-01 00:05:54 UTC",
+    "fetched_at_ist": "2026-05-01 05:35:54 IST",
     "item_count": 13,
-    "content_hash": "a31f84b5d42071fa49c2f94d6f63c32ee39e30e257e35ca7f0b4ea6fe408c2bf",
-    "previous_hash": "0f3e539d6abdb84516abf0b2937fffc3b2cc235a134a45fdc6632e272e013482",
-    "new_repos_vs_previous": 7,
-    "top_repo_changed": false
+    "content_hash": "afe33b8e9b05079df70a43b384c3c692c8c16e5a25ac9eced649b6c3464e7f85",
+    "previous_hash": "a31f84b5d42071fa49c2f94d6f63c32ee39e30e257e35ca7f0b4ea6fe408c2bf",
+    "new_repos_vs_previous": 11,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "5,645 stars today"
-    },
-    {
-      "name": "abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "language": "TypeScript",
-      "stars_today": "1,102 stars today"
-    },
-    {
-      "name": "ComposioHQ/awesome-codex-skills",
-      "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
-      "language": "Python",
-      "stars_today": "638 stars today"
-    },
-    {
-      "name": "Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
-      "language": "Python",
-      "stars_today": "2,949 stars today"
-    },
-    {
-      "name": "gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
-      "language": "Go",
-      "stars_today": "498 stars today"
-    },
-    {
-      "name": "penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars_today": "166 stars today"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_today": "154 stars today"
-    },
-    {
-      "name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars_today": "757 stars today"
-    },
-    {
-      "name": "Z4nzu/hackingtool",
-      "description": "ALL IN ONE Hacking Tool For Hackers",
-      "language": "Python",
-      "stars_today": "1,830 stars today"
+      "name": "warpdotdev/warp",
+      "description": "Warp is an agentic development environment, born out of the terminal.",
+      "language": "Rust",
+      "stars_today": "8,399 stars today"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "248 stars today"
+      "stars_today": "2,023 stars today"
     },
     {
-      "name": "CJackHwang/ds2api",
-      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-      "language": "Go",
-      "stars_today": "138 stars today"
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "6,187 stars today"
     },
     {
-      "name": "deepseek-ai/DeepSeek-V3",
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,632 stars today"
+    },
+    {
+      "name": "lukilabs/craft-agents-oss",
       "description": "No description",
-      "language": "Python",
-      "stars_today": "81 stars today"
+      "language": "TypeScript",
+      "stars_today": "319 stars today"
     },
     {
-      "name": "donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_today": "372 stars today"
+      "stars_today": "322 stars today"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "675 stars today"
+    },
+    {
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "730 stars today"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars_today": "841 stars today"
+    },
+    {
+      "name": "iamgio/quarkdown",
+      "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+      "language": "Kotlin",
+      "stars_today": "177 stars today"
+    },
+    {
+      "name": "ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "stars_today": "341 stars today"
+    },
+    {
+      "name": "ForrestKnight/open-source-cs",
+      "description": "Video discussing this curriculum:",
+      "language": "Unknown",
+      "stars_today": "140 stars today"
+    },
+    {
+      "name": "browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars_today": "69 stars today"
     }
   ]
 }

@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-04-30 18:15:03 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-01 00:05:55 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **mattpocock/skills**
-- BTC: **$76,221.0** ↑ (+1.39%)
-- HN top story: **Granite 4.1: IBM's 8B Model Matching 32B MoE**
+- Top GitHub repo: **warpdotdev/warp**
+- BTC: **$76,412.0** ↑ (+0.80%)
+- HN top story: **Rivian allows you to disable all internet connectivity**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-04-28 00:06:36 UTC | `a31f84b5d420` | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-04-30 11:37:52 UTC | `aab913220e8c` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-04-30 18:15:03 UTC | `e5c78b32720c` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-05-01 00:05:54 UTC | `afe33b8e9b05` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-01 00:05:55 UTC | `c7235673190c` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-01 00:05:54 UTC | `18283568d75a` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-01` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `49` day(s) |
-| Last Commit (IST) | `2026-05-01 03:39:22 IST` |
+| Last Commit (IST) | `2026-05-01 04:40:16 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-04-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-05-01 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-05-01 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,221.0 | +1.39% | 🟢 |
-| Ethereum | $2,254.99 | +0.72% | 🟢 |
-| Solana | $83.04 | +1.54% | 🟢 |
-| Bnb | $617.22 | +0.85% | 🟢 |
+| Bitcoin | $76,412.0 | +0.80% | 🟢 |
+| Ethereum | $2,261.14 | +0.31% | 🟢 |
+| Solana | $83.19 | +0.07% | 🟢 |
+| Bnb | $615.27 | -0.37% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 5,645 stars today | Skills for Real Engineers. Straight from my .claude directory. |
-| [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | 1,102 stars today | GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k… |
-| [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | 638 stars today | A curated list of practical Codex skills for automating workflows across the Cod… |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 2,949 stars today | Use claude-code for free in the terminal, VSCode extension or via discord like o… |
-| [gastownhall/beads](https://github.com/gastownhall/beads) | Go | 498 stars today | Beads - A memory upgrade for your coding agent |
-| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 166 stars today | Penpot: The open-source design tool for design and code collaboration |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 154 stars today | CLI tool for configuring and monitoring Claude Code |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 757 stars today | Open-Source Frontier Voice AI |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 8,399 stars today | Warp is an agentic development environment, born out of the terminal. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,023 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 6,187 stars today | Skills for Real Engineers. Straight from my .claude directory. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,632 stars today | An agentic skills framework & software development methodology that works. |
+| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 319 stars today | No description |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 322 stars today | A collective list of free APIs |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 675 stars today | Coding Agent Harness |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 730 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/) | 78 | 16 |
-| [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/) | 710 | 396 |
-| [Mozilla's Opposition to Chrome's Prompt API](https://github.com/mozilla/standards-positions/issues/1213) | 145 | 57 |
-| [Noctua releases official 3D CAD models for its cooling fans](https://www.noctua.at/en/3d-cad-models) | 293 | 70 |
-| [Zed 1.0](https://zed.dev/blog/zed-1-0) | 1902 | 603 |
+| [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) | 387 | 150 |
+| [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/) | 359 | 154 |
+| [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) | 394 | 116 |
+| [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) | 103 | 46 |
+| [CopyFail was not disclosed to distro developers?](https://www.openwall.com/lists/oss-security/2026/04/30/10) | 332 | 270 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
