@@ -16,13 +16,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-01 (last updated: 21:10 IST)
+
+## 📅 2026-05-01 (last updated: 22:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-01 05:35:54 IST | afe33b8e9b05 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-01 21:10:10 IST | 75b1b236b6e4 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-01 22:08:14 IST | 9c63d94836da | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-01 18:52:24 IST | e1c67d9adf6e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 319 stars today
 
 ### 📰 Hacker News Stories
-- [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/) — Score: 57
-- [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/) — Score: 177
-- [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854) — Score: 65
-- [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) — Score: 8
-- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) — Score: 16
+- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) — Score: 77
+- [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/) — Score: 18
+- [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) — Score: 41
+- [Ask HN: Who wants to be hired? (May 2026)](https://news.ycombinator.com/item?id=47975570) — Score: 39
+- [Sally McKee, who coined the term "the memory wall", has died](https://www.online-tribute.com/SallyMcKee) — Score: 36
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,306.0 🟢 +2.68%
