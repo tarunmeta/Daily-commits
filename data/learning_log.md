@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-01 (last updated: 20:06 IST)
+
+## 📅 2026-05-01 (last updated: 21:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-01 05:35:54 IST | afe33b8e9b05 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-01 20:06:41 IST | f106e9b2d9f0 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-01 21:10:10 IST | 75b1b236b6e4 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-01 18:52:24 IST | e1c67d9adf6e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 319 stars today
 
 ### 📰 Hacker News Stories
-- [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/) — Score: 140
-- [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854) — Score: 50
-- [Apple accidentally left Claude.md files Apple Support app](https://xcancel.com/aaronp613/status/2049986504617820551) — Score: 199
-- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) — Score: 651
-- [New copy of earliest poem in English, written 1,3k years ago, discovered in Rome](https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/) — Score: 125
+- [GhostBox – disposable little machines from the Global Free Tier.](https://www.ghost.charity/) — Score: 57
+- [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/) — Score: 177
+- [Running Adobe's 1991 PostScript Interpreter in the Browser](https://www.pagetable.com/?p=1854) — Score: 65
+- [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) — Score: 8
+- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) — Score: 16
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,306.0 🟢 +2.68%
