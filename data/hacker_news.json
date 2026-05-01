@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 16:38:14 UTC",
-    "fetched_at_ist": "2026-05-01 22:08:14 IST",
+    "fetched_at_utc": "2026-05-01 17:42:03 UTC",
+    "fetched_at_ist": "2026-05-01 23:12:03 IST",
     "item_count": 5,
-    "content_hash": "9c63d94836dacb0f405d087ae4ca50deb7050cf006509599daec6d11b9c921e9",
-    "previous_hash": "75b1b236b6e4e6366b11d58509ea6e1870720353ee7ec98bb654dc2b1739d2bc",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "aefe562a9b07af5f3b1fdcdc1a3e06bf925c2f2fd12707f2c0f22e9ba9ae343a",
+    "previous_hash": "9c63d94836dacb0f405d087ae4ca50deb7050cf006509599daec6d11b9c921e9",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47975571,
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "score": 77,
-      "comments": 78
-    },
-    {
       "id": 47976415,
       "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
       "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "score": 18,
-      "comments": 6
+      "score": 177,
+      "comments": 191
+    },
+    {
+      "id": 47975571,
+      "title": "Ask HN: Who is hiring? (May 2026)",
+      "url": "https://news.ycombinator.com/item?id=47975571",
+      "score": 119,
+      "comments": 116
     },
     {
       "id": 47975592,
       "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
       "url": "https://github.com/whohas/whohas",
-      "score": 41,
-      "comments": 8
+      "score": 53,
+      "comments": 12
+    },
+    {
+      "id": 47976529,
+      "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
+      "url": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
+      "score": 158,
+      "comments": 57
     },
     {
       "id": 47975570,
       "title": "Ask HN: Who wants to be hired? (May 2026)",
       "url": "https://news.ycombinator.com/item?id=47975570",
-      "score": 39,
-      "comments": 76
-    },
-    {
-      "id": 47975392,
-      "title": "Sally McKee, who coined the term \"the memory wall\", has died",
-      "url": "https://www.online-tribute.com/SallyMcKee",
-      "score": 36,
-      "comments": 4
+      "score": 61,
+      "comments": 111
     }
   ]
 }
