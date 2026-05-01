@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 00:05:55 UTC",
-    "fetched_at_ist": "2026-05-01 05:35:55 IST",
+    "fetched_at_utc": "2026-05-01 10:44:33 UTC",
+    "fetched_at_ist": "2026-05-01 16:14:33 IST",
     "item_count": 5,
-    "content_hash": "c7235673190c3265aee0e3820c2e60559e936d76b632dafab55e9710005b0f60",
-    "previous_hash": "aab913220e8c1f87987fef04450313adabab85b7fe96495c38e5d88efadd3efb",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "9decdb191b0398b41e0f6a8311546913408a888a8663ccecce66a717d128ea89",
+    "previous_hash": "c7235673190c3265aee0e3820c2e60559e936d76b632dafab55e9710005b0f60",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47967786,
-      "title": "Rivian allows you to disable all internet connectivity",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "score": 387,
-      "comments": 150
+      "id": 47972511,
+      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+      "url": "https://github.com/darrylmorley/whatcable",
+      "score": 68,
+      "comments": 15
     },
     {
-      "id": 47967262,
-      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-      "score": 359,
-      "comments": 154
+      "id": 47972888,
+      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+      "url": "https://news.ycombinator.com/item?id=47972888",
+      "score": 22,
+      "comments": 2
+    },
+    {
+      "id": 47936184,
+      "title": "Auto Polo",
+      "url": "https://en.wikipedia.org/wiki/Auto_polo",
+      "score": 55,
+      "comments": 14
+    },
+    {
+      "id": 47971771,
+      "title": "If I could make my own GitHub",
+      "url": "https://matduggan.com/if-i-could-make-my-own-github/",
+      "score": 58,
+      "comments": 38
     },
     {
       "id": 47965060,
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "score": 394,
-      "comments": 116
-    },
-    {
-      "id": 47951295,
-      "title": "Opus 4.7 knows the real Kelsey",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "score": 103,
-      "comments": 46
-    },
-    {
-      "id": 47965108,
-      "title": "CopyFail was not disclosed to distro developers?",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "score": 332,
-      "comments": 270
+      "score": 607,
+      "comments": 200
     }
   ]
 }

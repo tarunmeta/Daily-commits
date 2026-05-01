@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-01 (last updated: 09:48 IST)
+
+## 📅 2026-05-01 (last updated: 16:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-01 05:35:54 IST | afe33b8e9b05 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-01 05:35:55 IST | c7235673190c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-01 16:14:33 IST | 9decdb191b03 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-01 09:48:03 IST | b35f1bd9c67d | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 319 stars today
 
 ### 📰 Hacker News Stories
-- [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle) — Score: 387
-- [LinkedIn scans for 6,278 extensions and encrypts the results into every request](https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/) — Score: 359
-- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) — Score: 394
-- [Opus 4.7 knows the real Kelsey](https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously) — Score: 103
-- [CopyFail was not disclosed to distro developers?](https://www.openwall.com/lists/oss-security/2026/04/30/10) — Score: 332
+- [Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables](https://github.com/darrylmorley/whatcable) — Score: 68
+- [Show HN: Perfect Bluetooth MIDI for Windows](https://news.ycombinator.com/item?id=47972888) — Score: 22
+- [Auto Polo](https://en.wikipedia.org/wiki/Auto_polo) — Score: 55
+- [If I could make my own GitHub](https://matduggan.com/if-i-could-make-my-own-github/) — Score: 58
+- [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/) — Score: 607
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,116.0 🟢 +1.89%
