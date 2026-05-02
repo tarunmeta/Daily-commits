@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-02 18:36:14 UTC",
-    "fetched_at_ist": "2026-05-03 00:06:14 IST",
+    "fetched_at_utc": "2026-05-02 19:42:56 UTC",
+    "fetched_at_ist": "2026-05-03 01:12:56 IST",
     "item_count": 5,
-    "content_hash": "68452d36c3504eb7ebe7ef0c6ef7834ee09a8838e5b22057150a98dc30c2bb6c",
-    "previous_hash": "c00e6efc4819adc86a4e67a28b889ce4990045ecb1a1d358ad39a6ab8839b4ba",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "4dad1bf666deb9359643b3c60bdc16aa2511d508103fb644966060a108a3345b",
+    "previous_hash": "68452d36c3504eb7ebe7ef0c6ef7834ee09a8838e5b22057150a98dc30c2bb6c",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47988776,
-      "title": "NetHack 5.0.0",
-      "url": "https://nethack.org/v500/release.html",
-      "score": 95,
-      "comments": 14
-    },
-    {
       "id": 47988504,
-      "title": "Videolan Dav2d",
+      "title": "Dav2d",
       "url": "https://code.videolan.org/videolan/dav2d",
-      "score": 32,
-      "comments": 6
-    },
-    {
-      "id": 47987333,
-      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
-      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-      "score": 69,
-      "comments": 77
+      "score": 112,
+      "comments": 41
     },
     {
       "id": 47960015,
       "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
       "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "score": 52,
+      "score": 91,
       "comments": 4
     },
     {
-      "id": 47988742,
-      "title": "California to begin ticketing driverless cars that violate traffic laws",
-      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
-      "score": 37,
-      "comments": 15
+      "id": 47988776,
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "score": 210,
+      "comments": 40
+    },
+    {
+      "id": 47988501,
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "url": "https://flueframework.com/",
+      "score": 34,
+      "comments": 8
+    },
+    {
+      "id": 47989154,
+      "title": "Unsigned Sizes: A Five Year Mistake",
+      "url": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+      "score": 18,
+      "comments": 12
     }
   ]
 }
