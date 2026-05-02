@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-01 17:42:03 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-02 00:06:23 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **warpdotdev/warp**
-- BTC: **$78,306.0** ↑ (+2.68%)
-- HN top story: **Uber Torches 2026 AI Budget on Claude Code in Four Months**
+- Top GitHub repo: **TauricResearch/TradingAgents**
+- BTC: **$78,253.0** ↑ (+2.39%)
+- HN top story: **Ti-84 Evo**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-01 00:05:54 UTC | `afe33b8e9b05` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-01 17:42:03 UTC | `aefe562a9b07` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-01 13:22:24 UTC | `e1c67d9adf6e` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 9 | 2026-05-02 00:06:22 UTC | `d25e9b51708b` | +2 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-02 00:06:23 UTC | `2c53c63ef2b5` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-02 00:06:22 UTC | `bdbed18a2450` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +2 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-02` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `50` day(s) |
-| Last Commit (IST) | `2026-05-02 03:36:05 IST` |
+| Last Commit (IST) | `2026-05-02 04:38:12 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-01 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-05-02 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-05-02 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,306.0 | +2.68% | 🟢 |
-| Ethereum | $2,309.97 | +2.09% | 🟢 |
-| Solana | $84.45 | +1.58% | 🟢 |
-| Bnb | $621.04 | +0.97% | 🟢 |
+| Bitcoin | $78,253.0 | +2.39% | 🟢 |
+| Ethereum | $2,295.21 | +1.50% | 🟢 |
+| Solana | $83.69 | +0.57% | 🟢 |
+| Bnb | $615.48 | +0.01% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 8,399 stars today | Warp is an agentic development environment, born out of the terminal. |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,023 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 6,187 stars today | Skills for Real Engineers. Straight from my .claude directory. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,632 stars today | An agentic skills framework & software development methodology that works. |
-| [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | 319 stars today | No description |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 322 stars today | A collective list of free APIs |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 675 stars today | Coding Agent Harness |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 730 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,112 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 535 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 3,401 stars today | Warp is an agentic development environment, born out of the terminal. |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 403 stars today | Coding Agent Harness |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 3,645 stars today | Skills for Real Engineers. Straight from my .claude directory. |
+| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 334 stars today | Claude Agent SDK with a web browsing tool |
+| [simstudioai/sim](https://github.com/simstudioai/sim) | TypeScript | 56 stars today | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer … |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,096 stars today | An agentic skills framework & software development methodology that works. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/) | 177 | 191 |
-| [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) | 119 | 116 |
-| [whohas – Command-line utility for cross-distro, cross-repository package search](https://github.com/whohas/whohas) | 53 | 12 |
-| [Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests](https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/) | 158 | 57 |
-| [Ask HN: Who wants to be hired? (May 2026)](https://news.ycombinator.com/item?id=47975570) | 61 | 111 |
+| [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) | 213 | 233 |
+| [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) | 202 | 111 |
+| [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered) | 61 | 23 |
+| [Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/) | 70 | 80 |
+| [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) | 214 | 239 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

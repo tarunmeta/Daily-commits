@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-01 17:42:03 UTC",
-    "fetched_at_ist": "2026-05-01 23:12:03 IST",
+    "fetched_at_utc": "2026-05-02 00:06:23 UTC",
+    "fetched_at_ist": "2026-05-02 05:36:23 IST",
     "item_count": 5,
-    "content_hash": "aefe562a9b07af5f3b1fdcdc1a3e06bf925c2f2fd12707f2c0f22e9ba9ae343a",
-    "previous_hash": "9c63d94836dacb0f405d087ae4ca50deb7050cf006509599daec6d11b9c921e9",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "2c53c63ef2b5c23b4f11297067151064fed296000769ddfe278179e803eead56",
+    "previous_hash": "aefe562a9b07af5f3b1fdcdc1a3e06bf925c2f2fd12707f2c0f22e9ba9ae343a",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47976415,
-      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
-      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "score": 177,
-      "comments": 191
+      "id": 47979583,
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "score": 213,
+      "comments": 233
+    },
+    {
+      "id": 47977748,
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "score": 202,
+      "comments": 111
+    },
+    {
+      "id": 47950070,
+      "title": "The smelly baby problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "score": 61,
+      "comments": 23
+    },
+    {
+      "id": 47955789,
+      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "score": 70,
+      "comments": 80
     },
     {
       "id": 47975571,
       "title": "Ask HN: Who is hiring? (May 2026)",
       "url": "https://news.ycombinator.com/item?id=47975571",
-      "score": 119,
-      "comments": 116
-    },
-    {
-      "id": 47975592,
-      "title": "whohas – Command-line utility for cross-distro, cross-repository package search",
-      "url": "https://github.com/whohas/whohas",
-      "score": 53,
-      "comments": 12
-    },
-    {
-      "id": 47976529,
-      "title": "Police Have Used License Plate Readers at Least 14x to Stalk Romantic Interests",
-      "url": "https://ij.org/police-have-reportedly-used-license-plate-readers-to-stalk-romantic-interests-at-least-14-times-in-recent-years/",
-      "score": 158,
-      "comments": 57
-    },
-    {
-      "id": 47975570,
-      "title": "Ask HN: Who wants to be hired? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975570",
-      "score": 61,
-      "comments": 111
+      "score": 214,
+      "comments": 239
     }
   ]
 }
