@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-02 17:44:50 UTC",
-    "fetched_at_ist": "2026-05-02 23:14:50 IST",
+    "fetched_at_utc": "2026-05-02 18:36:14 UTC",
+    "fetched_at_ist": "2026-05-03 00:06:14 IST",
     "item_count": 5,
-    "content_hash": "c00e6efc4819adc86a4e67a28b889ce4990045ecb1a1d358ad39a6ab8839b4ba",
-    "previous_hash": "89e65a1b9231a94fc9fec6e1c02757895aac8f007c94e82f6a38d150472e5fe9",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "68452d36c3504eb7ebe7ef0c6ef7834ee09a8838e5b22057150a98dc30c2bb6c",
+    "previous_hash": "c00e6efc4819adc86a4e67a28b889ce4990045ecb1a1d358ad39a6ab8839b4ba",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47987256,
-      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
-      "url": "https://arxiv.org/abs/2509.00462",
-      "score": 273,
-      "comments": 131
+      "id": 47988776,
+      "title": "NetHack 5.0.0",
+      "url": "https://nethack.org/v500/release.html",
+      "score": 95,
+      "comments": 14
+    },
+    {
+      "id": 47988504,
+      "title": "Videolan Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "score": 32,
+      "comments": 6
+    },
+    {
+      "id": 47987333,
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "score": 69,
+      "comments": 77
     },
     {
       "id": 47960015,
       "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
       "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-      "score": 18,
-      "comments": 2
+      "score": 52,
+      "comments": 4
     },
     {
-      "id": 47984852,
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "score": 173,
-      "comments": 63
-    },
-    {
-      "id": 47948526,
-      "title": "Barman – Backup and Recovery Manager for PostgreSQL",
-      "url": "https://github.com/EnterpriseDB/barman",
-      "score": 74,
-      "comments": 14
-    },
-    {
-      "id": 47983352,
-      "title": "Why does it take so long to release black fan versions?",
-      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "score": 567,
-      "comments": 245
+      "id": 47988742,
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "score": 37,
+      "comments": 15
     }
   ]
 }
