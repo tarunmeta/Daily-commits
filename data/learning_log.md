@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-02 (last updated: 17:37 IST)
+
+## 📅 2026-05-02 (last updated: 23:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-05-02 17:37:26 IST | 6ae548b44a44 | +4 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-02 17:37:27 IST | 89e65a1b9231 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-02 23:14:50 IST | c00e6efc4819 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-02 17:37:26 IST | c2647ee816db | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +4 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,065 stars today
 
 ### 📰 Hacker News Stories
-- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) — Score: 53
-- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) — Score: 313
-- [Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213) — Score: 57
-- [Show HN: DAC – open-source dashboard as code tool for agents and humans](https://github.com/bruin-data/dac) — Score: 30
-- [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/) — Score: 21
+- [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462) — Score: 273
+- [Inventions for battery reuse and recycling increase more than 7-fold in last 10y](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade) — Score: 18
+- [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) — Score: 173
+- [Barman – Backup and Recovery Manager for PostgreSQL](https://github.com/EnterpriseDB/barman) — Score: 74
+- [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) — Score: 567
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,115.0 🟢 +0.88%
