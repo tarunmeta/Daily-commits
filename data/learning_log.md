@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-02 (last updated: 05:36 IST)
+
+## 📅 2026-05-02 (last updated: 11:37 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 9 | 2026-05-02 05:36:22 IST | d25e9b51708b | +2 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-02 05:36:23 IST | 2c53c63ef2b5 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-02 05:36:22 IST | bdbed18a2450 | 4 assets moved, biggest mover: bitcoin |
+| Hacker News | 5 | 2026-05-02 11:37:38 IST | 7b6b4c6f2330 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-02 11:37:37 IST | b2dec7d06f47 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +2 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,17 +38,17 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,645 stars today
 
 ### 📰 Hacker News Stories
-- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) — Score: 213
-- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) — Score: 202
-- [The smelly baby problem](https://www.worksinprogress.news/p/how-disposable-diapers-conquered) — Score: 61
-- [Eka’s robotic claw feels like we're approaching a ChatGPT moment](https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/) — Score: 70
-- [Ask HN: Who is hiring? (May 2026)](https://news.ycombinator.com/item?id=47975571) — Score: 214
+- [Ask.com has closed](https://www.ask.com/) — Score: 159
+- [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) — Score: 399
+- [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/) — Score: 104
+- [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003) — Score: 149
+- [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) — Score: 303
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,253.0 🟢 +2.39%
-- Ethereum: $2,295.21 🟢 +1.50%
-- Solana: $83.69 🟢 +0.57%
-- Bnb: $615.48 🟢 +0.01%
+- Bitcoin: $78,257.0 🟢 +1.48%
+- Ethereum: $2,301.42 🟢 +0.79%
+- Solana: $83.71 🔴 -0.38%
+- Bnb: $615.73 🔴 -0.33%
 
 ---
 ## 📅 2026-05-01 (last updated: 23:12 IST)

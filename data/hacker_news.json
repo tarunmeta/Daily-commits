@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-02 00:06:23 UTC",
-    "fetched_at_ist": "2026-05-02 05:36:23 IST",
+    "fetched_at_utc": "2026-05-02 06:07:38 UTC",
+    "fetched_at_ist": "2026-05-02 11:37:38 IST",
     "item_count": 5,
-    "content_hash": "2c53c63ef2b5c23b4f11297067151064fed296000769ddfe278179e803eead56",
-    "previous_hash": "aefe562a9b07af5f3b1fdcdc1a3e06bf925c2f2fd12707f2c0f22e9ba9ae343a",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "7b6b4c6f23304c4cf30ed58cc4f953eda98758640ea1c6b38510a988b8a92697",
+    "previous_hash": "2c53c63ef2b5c23b4f11297067151064fed296000769ddfe278179e803eead56",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 47983226,
+      "title": "Ask.com has closed",
+      "url": "https://www.ask.com/",
+      "score": 159,
+      "comments": 78
+    },
+    {
       "id": 47979583,
       "title": "Ti-84 Evo",
       "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 213,
-      "comments": 233
+      "score": 399,
+      "comments": 362
+    },
+    {
+      "id": 47982512,
+      "title": "Job Postings for Software Engineers Are Rapidly Rising",
+      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+      "score": 104,
+      "comments": 33
+    },
+    {
+      "id": 47954394,
+      "title": "Artemis II Photo Timeline",
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "score": 149,
+      "comments": 12
     },
     {
       "id": 47977748,
       "title": "New research suggests people can communicate and practice skills while dreaming",
       "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 202,
-      "comments": 111
-    },
-    {
-      "id": 47950070,
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "score": 61,
-      "comments": 23
-    },
-    {
-      "id": 47955789,
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "score": 70,
-      "comments": 80
-    },
-    {
-      "id": 47975571,
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "score": 214,
-      "comments": 239
+      "score": 303,
+      "comments": 170
     }
   ]
 }
