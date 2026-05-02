@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-02 06:07:38 UTC",
-    "fetched_at_ist": "2026-05-02 11:37:38 IST",
+    "fetched_at_utc": "2026-05-02 12:07:27 UTC",
+    "fetched_at_ist": "2026-05-02 17:37:27 IST",
     "item_count": 5,
-    "content_hash": "7b6b4c6f23304c4cf30ed58cc4f953eda98758640ea1c6b38510a988b8a92697",
-    "previous_hash": "2c53c63ef2b5c23b4f11297067151064fed296000769ddfe278179e803eead56",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "89e65a1b9231a94fc9fec6e1c02757895aac8f007c94e82f6a38d150472e5fe9",
+    "previous_hash": "7b6b4c6f23304c4cf30ed58cc4f953eda98758640ea1c6b38510a988b8a92697",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47983226,
-      "title": "Ask.com has closed",
-      "url": "https://www.ask.com/",
-      "score": 159,
-      "comments": 78
-    },
-    {
-      "id": 47979583,
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "score": 399,
-      "comments": 362
-    },
-    {
-      "id": 47982512,
-      "title": "Job Postings for Software Engineers Are Rapidly Rising",
-      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
-      "score": 104,
-      "comments": 33
-    },
-    {
-      "id": 47954394,
-      "title": "Artemis II Photo Timeline",
-      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
-      "score": 149,
+      "id": 47984852,
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "score": 53,
       "comments": 12
     },
     {
-      "id": 47977748,
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "score": 303,
-      "comments": 170
+      "id": 47983352,
+      "title": "Why does it take so long to release black fan versions?",
+      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+      "score": 313,
+      "comments": 145
+    },
+    {
+      "id": 47984522,
+      "title": "Why are there both TMP and TEMP environment variables? (2015)",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+      "score": 57,
+      "comments": 25
+    },
+    {
+      "id": 47949066,
+      "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+      "url": "https://github.com/bruin-data/dac",
+      "score": 30,
+      "comments": 4
+    },
+    {
+      "id": 47985077,
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "url": "https://mljar.com/",
+      "score": 21,
+      "comments": 2
     }
   ]
 }

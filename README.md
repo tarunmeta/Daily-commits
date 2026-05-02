@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-02 11:24:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-02 12:07:27 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **TauricResearch/TradingAgents**
-- BTC: **$78,181.0** ↑ (+0.97%)
-- HN top story: **Ask.com has closed**
+- BTC: **$78,115.0** ↑ (+0.88%)
+- HN top story: **How fast is a macOS VM, and how small could it be?**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-05-02 00:06:22 UTC | `d25e9b51708b` | +2 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-02 06:07:38 UTC | `7b6b4c6f2330` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-02 11:24:43 UTC | `c809dd03a0d7` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 9 | 2026-05-02 12:07:26 UTC | `6ae548b44a44` | +4 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-02 12:07:27 UTC | `89e65a1b9231` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-02 12:07:26 UTC | `c2647ee816db` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +2 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-02` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `49` day(s) |
-| Last Commit (IST) | `2026-05-02 15:58:20 IST` |
+| Last Commit (IST) | `2026-05-02 16:54:44 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-01 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-05-02 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-05-02 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,181.0 | +0.97% | 🟢 |
-| Ethereum | $2,302.58 | +0.70% | 🟢 |
-| Solana | $83.75 | -0.30% | 🔴 |
-| Bnb | $615.32 | -0.50% | 🔴 |
+| Bitcoin | $78,115.0 | +0.88% | 🟢 |
+| Ethereum | $2,301.52 | +0.68% | 🟢 |
+| Solana | $83.68 | -0.33% | 🔴 |
+| Bnb | $615.54 | -0.54% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,112 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 535 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | 3,401 stars today | Warp is an agentic development environment, born out of the terminal. |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 403 stars today | Coding Agent Harness |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 3,645 stars today | Skills for Real Engineers. Straight from my .claude directory. |
-| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 334 stars today | Claude Agent SDK with a web browsing tool |
-| [simstudioai/sim](https://github.com/simstudioai/sim) | TypeScript | 56 stars today | Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer … |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,096 stars today | An agentic skills framework & software development methodology that works. |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,227 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,258 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
+| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 347 stars today | Claude Agent SDK with a web browsing tool |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 1,284 stars today | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ… |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 1,065 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 179 stars today | No description |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 482 stars today | Coding Agent Harness |
+| [ShareX/ShareX](https://github.com/ShareX/ShareX) | C# | 129 stars today | ShareX is a free and open-source application that enables users to capture or re… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Ask.com has closed](https://www.ask.com/) | 159 | 78 |
-| [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo) | 399 | 362 |
-| [Job Postings for Software Engineers Are Rapidly Rising](https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/) | 104 | 33 |
-| [Artemis II Photo Timeline](https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003) | 149 | 12 |
-| [New research suggests people can communicate and practice skills while dreaming](https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we) | 303 | 170 |
+| [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/) | 53 | 12 |
+| [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions) | 313 | 145 |
+| [Why are there both TMP and TEMP environment variables? (2015)](https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213) | 57 | 25 |
+| [Show HN: DAC – open-source dashboard as code tool for agents and humans](https://github.com/bruin-data/dac) | 30 | 4 |
+| [Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks](https://mljar.com/) | 21 | 2 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,68 +2,68 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-02 00:06:22 UTC",
-    "fetched_at_ist": "2026-05-02 05:36:22 IST",
+    "fetched_at_utc": "2026-05-02 12:07:26 UTC",
+    "fetched_at_ist": "2026-05-02 17:37:26 IST",
     "item_count": 9,
-    "content_hash": "d25e9b51708bf37808359b1c7c09a598ffcbe4c464e2cf4b0d41b2d15b379d59",
-    "previous_hash": "afe33b8e9b05079df70a43b384c3c692c8c16e5a25ac9eced649b6c3464e7f85",
-    "new_repos_vs_previous": 2,
-    "top_repo_changed": true
+    "content_hash": "6ae548b44a44f6219d8b542617755939f68912bb8ea58bd6e62a77fc738e3512",
+    "previous_hash": "d25e9b51708bf37808359b1c7c09a598ffcbe4c464e2cf4b0d41b2d15b379d59",
+    "new_repos_vs_previous": 4,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "2,112 stars today"
+      "stars_today": "2,227 stars today"
     },
     {
-      "name": "soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars_today": "535 stars today"
-    },
-    {
-      "name": "warpdotdev/warp",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "language": "Rust",
-      "stars_today": "3,401 stars today"
-    },
-    {
-      "name": "1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars_today": "403 stars today"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "3,645 stars today"
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars_today": "1,258 stars today"
     },
     {
       "name": "browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars_today": "334 stars today"
+      "stars_today": "347 stars today"
     },
     {
-      "name": "simstudioai/sim",
-      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "language": "TypeScript",
-      "stars_today": "56 stars today"
+      "name": "D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars_today": "1,284 stars today"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,096 stars today"
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars_today": "1,065 stars today"
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
       "description": "No description",
       "language": "Batchfile",
-      "stars_today": "145 stars today"
+      "stars_today": "179 stars today"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars_today": "482 stars today"
+    },
+    {
+      "name": "ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "language": "C#",
+      "stars_today": "129 stars today"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": "Unknown",
+      "stars_today": "717 stars today"
     }
   ]
 }
