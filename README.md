@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-03 14:15:37 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-03 18:03:54 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **TauricResearch/TradingAgents**
-- BTC: **$78,710.0** ↑ (+0.51%)
-- HN top story: **Dav2d**
+- Top GitHub repo: **ruvnet/ruflo**
+- BTC: **$78,705.0** ↑ (+0.41%)
+- HN top story: **What Chromium versions are major browsers are on?**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-05-02 12:07:26 UTC | `6ae548b44a44` | +4 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-02 19:42:56 UTC | `4dad1bf666de` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-03 14:15:37 UTC | `92f65f0def9a` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 9 | 2026-05-03 18:03:53 UTC | `8db805560fac` | +4 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-03 18:03:54 UTC | `a29c5ec2f414` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-03 18:03:54 UTC | `6e7d80d72878` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +4 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +4 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-03` |
-| Commits Today | `18` / `100` |
-| Remaining Today | `82` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
+| Commits Today | `19` / `100` |
+| Remaining Today | `81` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
 | Streak | `50` day(s) |
-| Last Commit (IST) | `2026-05-03 21:31:02 IST` |
+| Last Commit (IST) | `2026-05-03 22:38:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-04-30 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-01 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-05-02 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
-| 2026-05-03 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
+| 2026-05-03 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,710.0 | +0.51% | 🟢 |
-| Ethereum | $2,324.9 | +0.84% | 🟢 |
-| Solana | $84.16 | +0.28% | 🟢 |
-| Bnb | $619.44 | +0.45% | 🟢 |
+| Bitcoin | $78,705.0 | +0.41% | 🟢 |
+| Ethereum | $2,331.49 | +1.13% | 🟢 |
+| Solana | $84.17 | +0.21% | 🟢 |
+| Bnb | $619.66 | +0.21% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 2,227 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,258 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
-| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 347 stars today | Claude Agent SDK with a web browsing tool |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 1,284 stars today | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ… |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 1,065 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 179 stars today | No description |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 482 stars today | Coding Agent Harness |
-| [ShareX/ShareX](https://github.com/ShareX/ShareX) | C# | 129 stars today | ShareX is a free and open-source application that enables users to capture or re… |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,834 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 3,315 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 1,117 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 389 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | 478 stars today | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
+| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 322 stars today | Claude Agent SDK with a web browsing tool |
+| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 264 stars today | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow… |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 587 stars today | Coding Agent Harness |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Dav2d](https://code.videolan.org/videolan/dav2d) | 112 | 41 |
-| [Inventions for battery reuse and recycling increase more than 7-fold in last 10y](https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade) | 91 | 4 |
-| [NetHack 5.0.0](https://nethack.org/v500/release.html) | 210 | 40 |
-| [Flue is a TypeScript framework for building the next generation of agents](https://flueframework.com/) | 34 | 8 |
-| [Unsigned Sizes: A Five Year Mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/) | 18 | 12 |
+| [What Chromium versions are major browsers are on?](https://chromium-drift.pages.dev/) | 53 | 14 |
+| [Southwest Headquarters Tour](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html) | 30 | 5 |
+| [Mercedes-Benz commits to bringing back physical buttons](https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/) | 342 | 193 |
+| [Porsche will contest Laguna Seca in historic colors of the Apple Computer livery](https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html) | 70 | 23 |
+| [For thirty years I programmed with Phish on, every day](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html) | 117 | 82 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
