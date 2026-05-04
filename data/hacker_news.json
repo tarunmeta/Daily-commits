@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-03 18:03:54 UTC",
-    "fetched_at_ist": "2026-05-03 23:33:54 IST",
+    "fetched_at_utc": "2026-05-04 00:03:31 UTC",
+    "fetched_at_ist": "2026-05-04 05:33:31 IST",
     "item_count": 5,
-    "content_hash": "a29c5ec2f414afb7c87fd86046d95a30453a10b53f63ab72c34b2de99a79bd13",
-    "previous_hash": "4dad1bf666deb9359643b3c60bdc16aa2511d508103fb644966060a108a3345b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "f5601dd9ca1b1f9d44bbd1fd4fdfff525c6fa6bd685c2b80893815d7d43bd7a6",
+    "previous_hash": "a29c5ec2f414afb7c87fd86046d95a30453a10b53f63ab72c34b2de99a79bd13",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47999006,
-      "title": "What Chromium versions are major browsers are on?",
-      "url": "https://chromium-drift.pages.dev/",
-      "score": 53,
-      "comments": 14
+      "id": 48002136,
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "score": 94,
+      "comments": 42
+    },
+    {
+      "id": 47999636,
+      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "score": 222,
+      "comments": 74
+    },
+    {
+      "id": 48002607,
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "score": 22,
+      "comments": 5
     },
     {
       "id": 47998946,
       "title": "Southwest Headquarters Tour",
       "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "score": 30,
-      "comments": 5
+      "score": 169,
+      "comments": 50
     },
     {
-      "id": 47997418,
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "score": 342,
-      "comments": 193
-    },
-    {
-      "id": 47997138,
-      "title": "Porsche will contest Laguna Seca in historic colors of the Apple Computer livery",
-      "url": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html",
-      "score": 70,
-      "comments": 23
-    },
-    {
-      "id": 47998225,
-      "title": "For thirty years I programmed with Phish on, every day",
-      "url": "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html",
-      "score": 117,
-      "comments": 82
+      "id": 47974682,
+      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
+      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+      "score": 71,
+      "comments": 38
     }
   ]
 }

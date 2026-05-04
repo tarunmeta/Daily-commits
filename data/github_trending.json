@@ -2,44 +2,44 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-03 18:03:53 UTC",
-    "fetched_at_ist": "2026-05-03 23:33:53 IST",
+    "fetched_at_utc": "2026-05-04 00:03:30 UTC",
+    "fetched_at_ist": "2026-05-04 05:33:30 IST",
     "item_count": 9,
-    "content_hash": "8db805560facdd31e91c6e0ebf00f392263108e8584eafd739ce1020029b4650",
-    "previous_hash": "6ae548b44a44f6219d8b542617755939f68912bb8ea58bd6e62a77fc738e3512",
-    "new_repos_vs_previous": 4,
-    "top_repo_changed": true
+    "content_hash": "f8310efa49d325e96b0cc9d06372005062ada84665124781d9d48359082df1c2",
+    "previous_hash": "8db805560facdd31e91c6e0ebf00f392263108e8584eafd739ce1020029b4650",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars_today": "1,834 stars today"
+      "stars_today": "1,840 stars today"
     },
     {
       "name": "TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "3,315 stars today"
+      "stars_today": "3,313 stars today"
     },
     {
       "name": "soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars_today": "1,117 stars today"
+      "stars_today": "1,119 stars today"
     },
     {
       "name": "Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars_today": "389 stars today"
+      "stars_today": "343 stars today"
     },
     {
       "name": "AIDC-AI/Pixelle-Video",
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
-      "stars_today": "478 stars today"
+      "stars_today": "497 stars today"
     },
     {
       "name": "browserbase/skills",
@@ -51,19 +51,19 @@
       "name": "czlonkowski/n8n-mcp",
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
       "language": "TypeScript",
-      "stars_today": "264 stars today"
+      "stars_today": "282 stars today"
     },
     {
       "name": "1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars_today": "587 stars today"
+      "stars_today": "591 stars today"
     },
     {
       "name": "openwrt/openwrt",
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
-      "stars_today": "14 stars today"
+      "stars_today": "26 stars today"
     }
   ]
 }
