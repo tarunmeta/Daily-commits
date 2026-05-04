@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-04 22:40:12 UTC",
-    "fetched_at_ist": "2026-05-05 04:10:12 IST",
+    "fetched_at_utc": "2026-05-04 23:36:20 UTC",
+    "fetched_at_ist": "2026-05-05 05:06:20 IST",
     "item_count": 5,
-    "content_hash": "c90dd01ae8ef77feafe3a597c5e0d30892105826e262abb750c643ff7c91bb65",
-    "previous_hash": "e60f035e8382f9b60c688e7f478a0c9fd24bd12efd1bac21ae2a1980e6cf688c",
+    "content_hash": "be0937b70a08b9f90e1cec123108c10c6c67e3f0eb0065dc3a0802803989f8e1",
+    "previous_hash": "c90dd01ae8ef77feafe3a597c5e0d30892105826e262abb750c643ff7c91bb65",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48013919,
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 150,
-      "comments": 66
+      "score": 195,
+      "comments": 85
     },
     {
       "id": 48011184,
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 327,
-      "comments": 233
+      "score": 354,
+      "comments": 249
     },
     {
       "id": 48007438,
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1001,
-      "comments": 489
+      "score": 1053,
+      "comments": 510
+    },
+    {
+      "id": 48015097,
+      "title": "Pulitzer Prize Winners 2026",
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
+      "score": 44,
+      "comments": 14
     },
     {
       "id": 48012162,
       "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
       "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 139,
-      "comments": 62
-    },
-    {
-      "id": 48006402,
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
-      "score": 599,
-      "comments": 557
+      "score": 150,
+      "comments": 69
     }
   ]
 }
