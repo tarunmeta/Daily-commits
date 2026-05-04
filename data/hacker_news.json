@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-04 09:36:40 UTC",
-    "fetched_at_ist": "2026-05-04 15:06:40 IST",
+    "fetched_at_utc": "2026-05-04 21:37:43 UTC",
+    "fetched_at_ist": "2026-05-05 03:07:43 IST",
     "item_count": 5,
-    "content_hash": "ef8ee9478d2e34856795f2fb9d7bd0c0e2b99e2182dfdd36f915e0a701a9829a",
-    "previous_hash": "f5601dd9ca1b1f9d44bbd1fd4fdfff525c6fa6bd685c2b80893815d7d43bd7a6",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "e60f035e8382f9b60c688e7f478a0c9fd24bd12efd1bac21ae2a1980e6cf688c",
+    "previous_hash": "ef8ee9478d2e34856795f2fb9d7bd0c0e2b99e2182dfdd36f915e0a701a9829a",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 47977990,
-      "title": "Using “underdrawings” for accurate text and numbers",
-      "url": "https://samcollins.blog/underdrawings/",
-      "score": 222,
-      "comments": 69
+      "id": 48013919,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 102,
+      "comments": 49
     },
     {
-      "id": 47999636,
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "score": 371,
-      "comments": 122
+      "id": 48011184,
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "score": 297,
+      "comments": 193
     },
     {
-      "id": 48002839,
-      "title": "Debunking the CIA's “magic” heartbeat sensor [video]",
-      "url": "https://www.youtube.com/watch?v=SVTPv4sI_Jc",
-      "score": 10,
-      "comments": 2
+      "id": 48012162,
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 133,
+      "comments": 57
     },
     {
-      "id": 47983333,
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
-      "score": 34,
-      "comments": 1
+      "id": 48007438,
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "score": 939,
+      "comments": 466
     },
     {
-      "id": 48002136,
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-      "url": "https://github.com/aattaran/deepclaude",
-      "score": 449,
-      "comments": 174
+      "id": 48015146,
+      "title": "Welcome to Gas City",
+      "url": "https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607",
+      "score": 7,
+      "comments": 3
     }
   ]
 }
