@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-04 21:37:43 UTC",
-    "fetched_at_ist": "2026-05-05 03:07:43 IST",
+    "fetched_at_utc": "2026-05-04 22:40:12 UTC",
+    "fetched_at_ist": "2026-05-05 04:10:12 IST",
     "item_count": 5,
-    "content_hash": "e60f035e8382f9b60c688e7f478a0c9fd24bd12efd1bac21ae2a1980e6cf688c",
-    "previous_hash": "ef8ee9478d2e34856795f2fb9d7bd0c0e2b99e2182dfdd36f915e0a701a9829a",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "c90dd01ae8ef77feafe3a597c5e0d30892105826e262abb750c643ff7c91bb65",
+    "previous_hash": "e60f035e8382f9b60c688e7f478a0c9fd24bd12efd1bac21ae2a1980e6cf688c",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48013919,
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 102,
-      "comments": 49
+      "score": 150,
+      "comments": 66
     },
     {
       "id": 48011184,
       "title": "I am worried about Bun",
       "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 297,
-      "comments": 193
-    },
-    {
-      "id": 48012162,
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 133,
-      "comments": 57
+      "score": 327,
+      "comments": 233
     },
     {
       "id": 48007438,
       "title": "Talking to strangers at the gym",
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 939,
-      "comments": 466
+      "score": 1001,
+      "comments": 489
     },
     {
-      "id": 48015146,
-      "title": "Welcome to Gas City",
-      "url": "https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607",
-      "score": 7,
-      "comments": 3
+      "id": 48012162,
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 139,
+      "comments": 62
+    },
+    {
+      "id": 48006402,
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "score": 599,
+      "comments": 557
     }
   ]
 }
