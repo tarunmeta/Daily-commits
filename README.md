@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-05 09:20:29 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-05 12:12:49 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **ruvnet/ruflo**
-- BTC: **$80,626.0** ↑ (+1.16%)
-- HN top story: **What I'm Hearing About Cognitive Debt (So Far)**
+- Top GitHub repo: **Hmbown/DeepSeek-TUI**
+- BTC: **$81,042.0** ↑ (+2.85%)
+- HN top story: **Async Rust never left the MVP state**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-05-04 00:03:30 UTC | `f8310efa49d3` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-05 04:42:04 UTC | `8c03eec4670d` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-05 09:20:29 UTC | `3cb0f43a3611` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 15 | 2026-05-05 12:12:48 UTC | `d157c8295587` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-05 12:12:49 UTC | `80bf1247f366` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-05 12:12:48 UTC | `9f793199e655` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +11 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-05` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `50` day(s) |
-| Last Commit (IST) | `2026-05-05 14:50:30 IST` |
+| Last Commit (IST) | `2026-05-05 16:30:46 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-02 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 | 2026-05-03 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-05-04 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-05-05 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-05-05 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,626.0 | +1.16% | 🟢 |
-| Ethereum | $2,369.34 | +0.35% | 🟢 |
-| Solana | $84.59 | -0.20% | 🔴 |
-| Bnb | $627.02 | -0.29% | 🔴 |
+| Bitcoin | $81,042.0 | +2.85% | 🟢 |
+| Ethereum | $2,379.68 | +1.84% | 🟢 |
+| Solana | $84.97 | +1.30% | 🟢 |
+| Bnb | $628.42 | +0.97% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 1,840 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 3,313 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [soxoj/maigret](https://github.com/soxoj/maigret) | Python | 1,119 stars today | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 343 stars today | Coding agent for DeepSeek models that runs in your terminal |
-| [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | 497 stars today | 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine |
-| [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | 322 stars today | Claude Agent SDK with a web browsing tool |
-| [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | 282 stars today | A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow… |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 591 stars today | Coding Agent Harness |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 2,389 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 2,441 stars today | 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-… |
+| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 660 stars today | An autonomous agent for deep financial research |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 929 stars today | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | PowerShell | 665 stars today | VSCode theme based off the easemate IDE and Jetbrains islands theme |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 306 stars today | Context window optimization for AI coding agents. Sandboxes tool output, 98% red… |
+| [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | 434 stars today | Incremental engine for long horizon agents 🌟 Star if you like it! |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,228 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) | 98 | 39 |
-| [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) | 287 | 197 |
-| [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/) | 23 | 6 |
-| [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated) | 44 | 2 |
-| [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) | 334 | 110 |
+| [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state) | 228 | 113 |
+| [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/) | 88 | 65 |
+| [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/) | 54 | 29 |
+| [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) | 575 | 406 |
+| [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings) | 176 | 144 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

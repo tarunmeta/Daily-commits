@@ -13,44 +13,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-05 (last updated: 14:50 IST)
+
+## 📅 2026-05-05 (last updated: 17:42 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 9 | 2026-05-04 05:33:30 IST | f8310efa49d3 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-05 10:12:04 IST | 8c03eec4670d | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-05 14:50:29 IST | 3cb0f43a3611 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 15 | 2026-05-05 17:42:48 IST | d157c8295587 | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-05 17:42:49 IST | 80bf1247f366 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-05 17:42:48 IST | 9f793199e655 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
+- GitHub: +11 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** (TypeScript) — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-  
-  ⭐ 1,840 stars today
-- **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)** (Python) — TradingAgents: Multi-Agents LLM Financial Trading Framework  
-  ⭐ 3,313 stars today
-- **[soxoj/maigret](https://github.com/soxoj/maigret)** (Python) — 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites  
-  ⭐ 1,119 stars today
 - **[Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)** (Rust) — Coding agent for DeepSeek models that runs in your terminal  
-  ⭐ 343 stars today
-- **[AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)** (Python) — 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine  
-  ⭐ 497 stars today
+  ⭐ 2,389 stars today
+- **[ruvnet/ruflo](https://github.com/ruvnet/ruflo)** (TypeScript) — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-  
+  ⭐ 2,441 stars today
+- **[virattt/dexter](https://github.com/virattt/dexter)** (TypeScript) — An autonomous agent for deep financial research  
+  ⭐ 660 stars today
+- **[docusealco/docuseal](https://github.com/docusealco/docuseal)** (Ruby) — Open source DocuSign alternative. Create, fill, and sign digital documents ✍️  
+  ⭐ 929 stars today
+- **[bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands)** (PowerShell) — VSCode theme based off the easemate IDE and Jetbrains islands theme  
+  ⭐ 665 stars today
 
 ### 📰 Hacker News Stories
-- [What I'm Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/) — Score: 98
-- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) — Score: 287
-- [CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/) — Score: 23
-- [Pulitzer Prize Winner in International Reporting](https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated) — Score: 44
-- [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) — Score: 334
+- [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state) — Score: 228
+- [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/) — Score: 88
+- [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/) — Score: 54
+- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) — Score: 575
+- [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings) — Score: 176
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $80,626.0 🟢 +1.16%
-- Ethereum: $2,369.34 🟢 +0.35%
-- Solana: $84.59 🔴 -0.20%
-- Bnb: $627.02 🔴 -0.29%
+- Bitcoin: $81,042.0 🟢 +2.85%
+- Ethereum: $2,379.68 🟢 +1.84%
+- Solana: $84.97 🟢 +1.30%
+- Bnb: $628.42 🟢 +0.97%
 
 ---
 ## 📅 2026-05-04 (last updated: 20:51 IST)
