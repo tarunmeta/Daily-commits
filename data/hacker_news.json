@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-05 20:40:21 UTC",
-    "fetched_at_ist": "2026-05-06 02:10:21 IST",
+    "fetched_at_utc": "2026-05-05 21:42:31 UTC",
+    "fetched_at_ist": "2026-05-06 03:12:31 IST",
     "item_count": 5,
-    "content_hash": "b762c06cf586f042c452a6333de732b4521c6bbafdd2e114949f54366b633e8e",
-    "previous_hash": "80bf1247f366bf4d84285fc64677e641e0018110619981da1f2c57ddd6d1b85b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "056c161047e5292f90f2be94541116d95c705de3a8c93faed5b498782e13cbe9",
+    "previous_hash": "b762c06cf586f042c452a6333de732b4521c6bbafdd2e114949f54366b633e8e",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48027897,
+      "title": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "score": 294,
+      "comments": 98
+    },
+    {
       "id": 48024540,
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 311,
-      "comments": 126
-    },
-    {
-      "id": 48024859,
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 182,
-      "comments": 107
+      "score": 357,
+      "comments": 160
     },
     {
       "id": 48023861,
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 280,
-      "comments": 188
+      "score": 302,
+      "comments": 196
     },
     {
-      "id": 48024129,
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "score": 157,
-      "comments": 37
+      "id": 48024859,
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "score": 218,
+      "comments": 120
     },
     {
       "id": 48019219,
       "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
       "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-      "score": 1000,
-      "comments": 674
+      "score": 1080,
+      "comments": 748
     }
   ]
 }
