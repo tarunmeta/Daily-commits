@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-05 22:39:07 UTC",
-    "fetched_at_ist": "2026-05-06 04:09:07 IST",
+    "fetched_at_utc": "2026-05-05 23:33:47 UTC",
+    "fetched_at_ist": "2026-05-06 05:03:47 IST",
     "item_count": 5,
-    "content_hash": "a33b88a1d7831c5257b9919ed02e9010608716673c732bced80075511d74a80f",
-    "previous_hash": "056c161047e5292f90f2be94541116d95c705de3a8c93faed5b498782e13cbe9",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "852597aa27574950a36d0049a612e52a9873b35d32f87d64a381a23d91c2509c",
+    "previous_hash": "a33b88a1d7831c5257b9919ed02e9010608716673c732bced80075511d74a80f",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48027897,
       "title": ".de TLD offline due to DNSSEC?",
       "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 421,
-      "comments": 163
-    },
-    {
-      "id": 48028842,
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "score": 44,
-      "comments": 25
+      "score": 475,
+      "comments": 203
     },
     {
       "id": 48024540,
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "score": 387,
-      "comments": 172
+      "score": 405,
+      "comments": 180
     },
     {
       "id": 48024859,
       "title": "Computer Use is 45x more expensive than structured APIs",
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "score": 242,
-      "comments": 126
+      "score": 270,
+      "comments": 136
+    },
+    {
+      "id": 48028842,
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "score": 79,
+      "comments": 55
     },
     {
       "id": 48023861,
       "title": "Three Inverse Laws of AI",
       "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "score": 324,
-      "comments": 220
+      "score": 333,
+      "comments": 233
     }
   ]
 }
