@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-05-06 (last updated: 00:53 IST)
+
+## 📅 2026-05-06 (last updated: 02:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-05 17:42:48 IST | d157c8295587 | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-05 17:42:49 IST | 80bf1247f366 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-06 02:10:21 IST | b762c06cf586 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-06 00:53:52 IST | 084dd0038651 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 665 stars today
 
 ### 📰 Hacker News Stories
-- [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state) — Score: 228
-- [Should I Run Plain Docker Compose in Production in 2026?](https://distr.sh/blog/running-docker-in-production/) — Score: 88
-- [When everyone has AI and the company still learns nothing](https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/) — Score: 54
-- [Bun is being ported from Zig to Rust](https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5) — Score: 575
-- [Empty Screenings – Finds AMC movie screenings with few or no tickets sold](https://walzr.com/empty-screenings) — Score: 176
+- [Accelerating Gemma 4: faster inference with multi-token prediction drafters](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) — Score: 311
+- [Computer Use is 45x more expensive than structured APIs](https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/) — Score: 182
+- [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html) — Score: 280
+- [EEVblog: The 555 Timer is 55 years old [video]](https://www.youtube.com/watch?v=6JhK8iCQuqI) — Score: 157
+- [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/) — Score: 1000
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,542.0 🟢 +2.00%
@@ -44,19 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $631.04 🟢 +0.93%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-05-05 (last updated: 21:53 IST)
 
 ### 🧪 Source Integrity Snapshot
