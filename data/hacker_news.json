@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-04 23:36:20 UTC",
-    "fetched_at_ist": "2026-05-05 05:06:20 IST",
+    "fetched_at_utc": "2026-05-05 04:42:04 UTC",
+    "fetched_at_ist": "2026-05-05 10:12:04 IST",
     "item_count": 5,
-    "content_hash": "be0937b70a08b9f90e1cec123108c10c6c67e3f0eb0065dc3a0802803989f8e1",
-    "previous_hash": "c90dd01ae8ef77feafe3a597c5e0d30892105826e262abb750c643ff7c91bb65",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "8c03eec4670de02142f8104f14cb3ac39b9decf6e52eec7671f56f8d5b147b4c",
+    "previous_hash": "be0937b70a08b9f90e1cec123108c10c6c67e3f0eb0065dc3a0802803989f8e1",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48017298,
+      "title": "What I'm Hearing About Cognitive Debt (So Far)",
+      "url": "https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/",
+      "score": 98,
+      "comments": 39
+    },
+    {
+      "id": 48016880,
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "score": 287,
+      "comments": 197
+    },
+    {
+      "id": 48017813,
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "score": 23,
+      "comments": 6
+    },
+    {
+      "id": 48017399,
+      "title": "Pulitzer Prize Winner in International Reporting",
+      "url": "https://www.pulitzer.org/winners/dake-kang-garance-burke-byron-tau-aniruddha-ghosal-and-yael-grauer-contributor-associated",
+      "score": 44,
+      "comments": 2
+    },
     {
       "id": 48013919,
       "title": "How OpenAI delivers low-latency voice AI at scale",
       "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "score": 195,
-      "comments": 85
-    },
-    {
-      "id": 48011184,
-      "title": "I am worried about Bun",
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "score": 354,
-      "comments": 249
-    },
-    {
-      "id": 48007438,
-      "title": "Talking to strangers at the gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "score": 1053,
-      "comments": 510
-    },
-    {
-      "id": 48015097,
-      "title": "Pulitzer Prize Winners 2026",
-      "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
-      "score": 44,
-      "comments": 14
-    },
-    {
-      "id": 48012162,
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "score": 150,
-      "comments": 69
+      "score": 334,
+      "comments": 110
     }
   ]
 }
