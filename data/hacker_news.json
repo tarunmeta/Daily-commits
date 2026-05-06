@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 07:35:16 UTC",
-    "fetched_at_ist": "2026-05-06 13:05:16 IST",
+    "fetched_at_utc": "2026-05-06 12:06:15 UTC",
+    "fetched_at_ist": "2026-05-06 17:36:15 IST",
     "item_count": 5,
-    "content_hash": "2f98c43d339e8cf508c848655df08f1e303f9b28550d9500dc5aec97928ac383",
-    "previous_hash": "852597aa27574950a36d0049a612e52a9873b35d32f87d64a381a23d91c2509c",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "063dc4a536b8baaa59b0caabdab7a6e5d2803c28ae19d792ddbec0effe639a83",
+    "previous_hash": "2f98c43d339e8cf508c848655df08f1e303f9b28550d9500dc5aec97928ac383",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48034587,
+      "title": "Show HN: Red Squares – GitHub outages as contributions",
+      "url": "https://red-squares.cian.lol/",
+      "score": 197,
+      "comments": 45
+    },
+    {
       "id": 48031684,
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 236,
-      "comments": 131
-    },
-    {
-      "id": 48005432,
-      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
-      "url": "https://www.aaedmusa.com/projects/cara2",
-      "score": 75,
-      "comments": 3
+      "score": 391,
+      "comments": 210
     },
     {
       "id": 48031261,
       "title": "StarFighter 16-Inch",
       "url": "https://us.starlabs.systems/pages/starfighter",
-      "score": 236,
-      "comments": 133
+      "score": 411,
+      "comments": 213
     },
     {
-      "id": 48027897,
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "score": 634,
-      "comments": 310
+      "id": 48005432,
+      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
+      "url": "https://www.aaedmusa.com/projects/cara2",
+      "score": 217,
+      "comments": 27
     },
     {
-      "id": 48031109,
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "score": 129,
-      "comments": 82
+      "id": 48006967,
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "score": 20,
+      "comments": 2
     }
   ]
 }
