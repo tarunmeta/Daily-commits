@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 12:06:15 UTC",
-    "fetched_at_ist": "2026-05-06 17:36:15 IST",
+    "fetched_at_utc": "2026-05-06 16:42:31 UTC",
+    "fetched_at_ist": "2026-05-06 22:12:31 IST",
     "item_count": 5,
-    "content_hash": "063dc4a536b8baaa59b0caabdab7a6e5d2803c28ae19d792ddbec0effe639a83",
-    "previous_hash": "2f98c43d339e8cf508c848655df08f1e303f9b28550d9500dc5aec97928ac383",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "60d59785380a8724595ac6fc24f13c78389574c246272a108907f5a656778885",
+    "previous_hash": "063dc4a536b8baaa59b0caabdab7a6e5d2803c28ae19d792ddbec0effe639a83",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48034587,
-      "title": "Show HN: Red Squares – GitHub outages as contributions",
-      "url": "https://red-squares.cian.lol/",
-      "score": 197,
-      "comments": 45
-    },
-    {
-      "id": 48031684,
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 391,
-      "comments": 210
-    },
-    {
-      "id": 48031261,
-      "title": "StarFighter 16-Inch",
-      "url": "https://us.starlabs.systems/pages/starfighter",
-      "score": 411,
-      "comments": 213
-    },
-    {
-      "id": 48005432,
-      "title": "CARA 2.0 – “I Built a Better Robot Dog”",
-      "url": "https://www.aaedmusa.com/projects/cara2",
-      "score": 217,
-      "comments": 27
+      "id": 48037555,
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "score": 158,
+      "comments": 34
     },
     {
       "id": 48006967,
       "title": "The bottleneck was never the code",
       "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 20,
-      "comments": 2
+      "score": 301,
+      "comments": 202
+    },
+    {
+      "id": 48037724,
+      "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
+      "url": "https://tilde.run/",
+      "score": 30,
+      "comments": 9
+    },
+    {
+      "id": 48031684,
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "score": 530,
+      "comments": 309
+    },
+    {
+      "id": 48034762,
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "url": "https://catstret.ch/202605/srss-hipster202510/",
+      "score": 94,
+      "comments": 24
     }
   ]
 }
