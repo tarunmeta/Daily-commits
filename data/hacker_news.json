@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 18:07:08 UTC",
-    "fetched_at_ist": "2026-05-06 23:37:08 IST",
+    "fetched_at_utc": "2026-05-06 21:32:13 UTC",
+    "fetched_at_ist": "2026-05-07 03:02:13 IST",
     "item_count": 5,
-    "content_hash": "477b906ae0f47647ec9a2d643a757d0fca0007ce9efa2bf0756df5b8f9de3dd9",
-    "previous_hash": "60d59785380a8724595ac6fc24f13c78389574c246272a108907f5a656778885",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "aea11ec4e0f07f59bd7f0862335f9f5fe2e44ab16dd2e6ad9a4a3a79a539dbbb",
+    "previous_hash": "477b906ae0f47647ec9a2d643a757d0fca0007ce9efa2bf0756df5b8f9de3dd9",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 395,
-      "comments": 122
+      "score": 779,
+      "comments": 264
     },
     {
       "id": 48038001,
-      "title": "Appearing Productive in the Workplace",
+      "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 94,
-      "comments": 28
-    },
-    {
-      "id": 48006967,
-      "title": "The bottleneck was never the code",
-      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 352,
-      "comments": 240
+      "score": 462,
+      "comments": 174
     },
     {
       "id": 48038827,
       "title": "From Supabase to Clerk to Better Auth",
       "url": "https://blog.val.town/better-auth",
-      "score": 13,
-      "comments": 0
+      "score": 140,
+      "comments": 77
     },
     {
-      "id": 48038257,
-      "title": "Show HN: Hallucinopedia",
-      "url": "http://halupedia.com/",
-      "score": 37,
-      "comments": 33
+      "id": 48037128,
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "score": 230,
+      "comments": 270
+    },
+    {
+      "id": 48039362,
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+      "score": 98,
+      "comments": 94
     }
   ]
 }
