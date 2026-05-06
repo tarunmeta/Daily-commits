@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-06 16:42:31 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-06 18:07:08 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Hmbown/DeepSeek-TUI**
-- BTC: **$82,378.0** ↑ (+1.67%)
+- BTC: **$81,427.0** ↑ (+0.04%)
 - HN top story: **Valve releases Steam Controller CAD files under Creative Commons license**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-06 12:06:14 UTC | `9e3716ef03c9` | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-06 16:42:31 UTC | `60d59785380a` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-06 12:06:14 UTC | `65f9a812aaee` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-05-06 18:07:07 UTC | `caa1e25758a1` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-06 18:07:08 UTC | `477b906ae0f4` | +3 new stories, top changed: no |
+| Crypto | 4 | 2026-05-06 18:07:07 UTC | `d66a3c5280a0` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-06` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `51` day(s) |
-| Last Commit (IST) | `2026-05-06 20:16:42 IST` |
+| Last Commit (IST) | `2026-05-06 22:12:31 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-03 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-05-04 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-05 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-05-06 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-05-06 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $82,378.0 | +1.67% | 🟢 |
-| Ethereum | $2,408.09 | +1.23% | 🟢 |
-| Solana | $89.69 | +5.59% | 🟢 |
-| Bnb | $652.59 | +3.84% | 🟢 |
+| Bitcoin | $81,427.0 | +0.04% | 🟢 |
+| Ethereum | $2,348.64 | -0.77% | 🔴 |
+| Solana | $88.81 | +3.78% | 🟢 |
+| Bnb | $648.69 | +3.07% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 2,434 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 6,184 stars today | Coding agent for DeepSeek models that runs in your terminal |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 629 stars today | Production-grade engineering skills for AI coding agents. |
-| [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | Python | 57 stars today | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ |
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 927 stars today | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 197 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
+| [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | Python | 218 stars today | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ |
+| [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 772 stars today | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 532 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 87 stars today | Truly independent web browser |
 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 213 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
-| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 659 stars today | An autonomous agent for deep financial research |
+| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 666 stars today | An autonomous agent for deep financial research |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) | 158 | 34 |
-| [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents) | 301 | 202 |
-| [Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem](https://tilde.run/) | 30 | 9 |
-| [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/) | 530 | 309 |
-| [Setting up a Sun Ray server on OpenIndiana Hipster 2025.10](https://catstret.ch/202605/srss-hipster202510/) | 94 | 24 |
+| [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) | 395 | 122 |
+| [Appearing Productive in the Workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) | 94 | 28 |
+| [The bottleneck was never the code](https://www.thetypicalset.com/blog/thoughts-on-coding-agents) | 352 | 240 |
+| [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth) | 13 | 0 |
+| [Show HN: Hallucinopedia](http://halupedia.com/) | 37 | 33 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

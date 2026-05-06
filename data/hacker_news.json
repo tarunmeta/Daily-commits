@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 16:42:31 UTC",
-    "fetched_at_ist": "2026-05-06 22:12:31 IST",
+    "fetched_at_utc": "2026-05-06 18:07:08 UTC",
+    "fetched_at_ist": "2026-05-06 23:37:08 IST",
     "item_count": 5,
-    "content_hash": "60d59785380a8724595ac6fc24f13c78389574c246272a108907f5a656778885",
-    "previous_hash": "063dc4a536b8baaa59b0caabdab7a6e5d2803c28ae19d792ddbec0effe639a83",
+    "content_hash": "477b906ae0f47647ec9a2d643a757d0fca0007ce9efa2bf0756df5b8f9de3dd9",
+    "previous_hash": "60d59785380a8724595ac6fc24f13c78389574c246272a108907f5a656778885",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 158,
-      "comments": 34
+      "score": 395,
+      "comments": 122
+    },
+    {
+      "id": 48038001,
+      "title": "Appearing Productive in the Workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "score": 94,
+      "comments": 28
     },
     {
       "id": 48006967,
       "title": "The bottleneck was never the code",
       "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "score": 301,
-      "comments": 202
+      "score": 352,
+      "comments": 240
     },
     {
-      "id": 48037724,
-      "title": "Show HN: Tilde.run – Agent Sandbox with a Transactional, Versioned Filesystem",
-      "url": "https://tilde.run/",
-      "score": 30,
-      "comments": 9
+      "id": 48038827,
+      "title": "From Supabase to Clerk to Better Auth",
+      "url": "https://blog.val.town/better-auth",
+      "score": 13,
+      "comments": 0
     },
     {
-      "id": 48031684,
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "score": 530,
-      "comments": 309
-    },
-    {
-      "id": 48034762,
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "url": "https://catstret.ch/202605/srss-hipster202510/",
-      "score": 94,
-      "comments": 24
+      "id": 48038257,
+      "title": "Show HN: Hallucinopedia",
+      "url": "http://halupedia.com/",
+      "score": 37,
+      "comments": 33
     }
   ]
 }
