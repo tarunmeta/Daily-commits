@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 21:32:13 UTC",
-    "fetched_at_ist": "2026-05-07 03:02:13 IST",
+    "fetched_at_utc": "2026-05-06 22:31:31 UTC",
+    "fetched_at_ist": "2026-05-07 04:01:31 IST",
     "item_count": 5,
-    "content_hash": "aea11ec4e0f07f59bd7f0862335f9f5fe2e44ab16dd2e6ad9a4a3a79a539dbbb",
-    "previous_hash": "477b906ae0f47647ec9a2d643a757d0fca0007ce9efa2bf0756df5b8f9de3dd9",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "1e577df61236608eaa36f113b671edc312b707e742d15afb61bc696caa4188fe",
+    "previous_hash": "aea11ec4e0f07f59bd7f0862335f9f5fe2e44ab16dd2e6ad9a4a3a79a539dbbb",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 779,
-      "comments": 264
+      "score": 870,
+      "comments": 291
     },
     {
       "id": 48038001,
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 462,
-      "comments": 174
-    },
-    {
-      "id": 48038827,
-      "title": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "score": 140,
-      "comments": 77
+      "score": 544,
+      "comments": 211
     },
     {
       "id": 48037128,
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
       "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 230,
-      "comments": 270
+      "score": 284,
+      "comments": 300
     },
     {
       "id": 48039362,
       "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
       "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 98,
-      "comments": 94
+      "score": 139,
+      "comments": 122
+    },
+    {
+      "id": 48038827,
+      "title": "From Supabase to Clerk to Better Auth",
+      "url": "https://blog.val.town/better-auth",
+      "score": 160,
+      "comments": 93
     }
   ]
 }
