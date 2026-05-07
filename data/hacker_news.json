@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-06 23:35:33 UTC",
-    "fetched_at_ist": "2026-05-07 05:05:33 IST",
+    "fetched_at_utc": "2026-05-07 12:09:10 UTC",
+    "fetched_at_ist": "2026-05-07 17:39:10 IST",
     "item_count": 5,
-    "content_hash": "a16b2a9f4cb70afa27081423d7195e6d26e93a0f9d69fe1043574f75ef1c97ab",
-    "previous_hash": "1e577df61236608eaa36f113b671edc312b707e742d15afb61bc696caa4188fe",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "5ba75dfdd3c94feabf4b1cd2104b88d507082a7d938aeb67c300ed90ee6ad4e7",
+    "previous_hash": "a16b2a9f4cb70afa27081423d7195e6d26e93a0f9d69fe1043574f75ef1c97ab",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48037555,
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 935,
-      "comments": 316
-    },
-    {
-      "id": 48042918,
-      "title": "UK businesses brace for jet fuel rationing",
-      "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
-      "score": 43,
-      "comments": 12
+      "score": 1505,
+      "comments": 496
     },
     {
       "id": 48038001,
       "title": "Appearing productive in the workplace",
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 604,
-      "comments": 236
+      "score": 1274,
+      "comments": 505
     },
     {
-      "id": 48037128,
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "score": 317,
-      "comments": 343
+      "id": 48014521,
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "score": 43,
+      "comments": 16
     },
     {
-      "id": 48039362,
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "score": 175,
-      "comments": 161
+      "id": 48042434,
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "url": "https://sqlite.org/locrsf.html",
+      "score": 336,
+      "comments": 89
+    },
+    {
+      "id": 48044638,
+      "title": "Permacomputing Principles",
+      "url": "https://permacomputing.net/principles/",
+      "score": 170,
+      "comments": 83
     }
   ]
 }

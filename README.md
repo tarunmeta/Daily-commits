@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-07 01:23:46 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-07 12:09:10 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Hmbown/DeepSeek-TUI**
-- BTC: **$81,012.0** ↓ (-0.28%)
+- Top GitHub repo: **anthropics/financial-services**
+- BTC: **$80,931.0** ↓ (-1.74%)
 - HN top story: **Valve releases Steam Controller CAD files under Creative Commons license**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-06 18:07:07 UTC | `caa1e25758a1` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-06 23:35:33 UTC | `a16b2a9f4cb7` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-07 01:23:46 UTC | `1a8acbff6754` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-05-07 12:09:09 UTC | `e57d2b73d657` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-07 12:09:10 UTC | `5ba75dfdd3c9` | +3 new stories, top changed: no |
+| Crypto | 4 | 2026-05-07 12:09:09 UTC | `f4a0fda121ff` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-07` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `51` day(s) |
-| Last Commit (IST) | `2026-05-07 13:15:02 IST` |
+| Last Commit (IST) | `2026-05-07 15:39:57 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-04 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-05 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-06 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-05-07 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-05-07 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,012.0 | -0.28% | 🔴 |
-| Ethereum | $2,322.16 | -2.09% | 🔴 |
-| Solana | $88.01 | +1.45% | 🟢 |
-| Bnb | $642.84 | +1.48% | 🟢 |
+| Bitcoin | $80,931.0 | -1.74% | 🔴 |
+| Ethereum | $2,331.99 | -3.19% | 🔴 |
+| Solana | $89.68 | +0.00% | 🟢 |
+| Bnb | $648.49 | -0.50% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 6,184 stars today | Coding agent for DeepSeek models that runs in your terminal |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 629 stars today | Production-grade engineering skills for AI coding agents. |
-| [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | Python | 218 stars today | ⚡ TabPFN: Foundation Model for Tabular Data ⚡ |
-| [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | 772 stars today | Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 641 stars today | No description |
+| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 6,175 stars today | Coding agent for DeepSeek models that runs in your terminal |
+| [z-lab/dflash](https://github.com/z-lab/dflash) | Python | 654 stars today | DFlash: Block Diffusion for Flash Speculative Decoding |
+| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 230 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 532 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 87 stars today | Truly independent web browser |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 213 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
-| [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | 666 stars today | An autonomous agent for deep financial research |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 800 stars today | Production-grade engineering skills for AI coding agents. |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 953 stars today | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 406 stars today | An open source template for building cloud agents. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) | 935 | 316 |
-| [UK businesses brace for jet fuel rationing](https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/) | 43 | 12 |
-| [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) | 604 | 236 |
-| [Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/) | 317 | 343 |
-| [Google Cloud fraud defense, the next evolution of reCAPTCHA](https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/) | 175 | 161 |
+| [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license) | 1505 | 496 |
+| [Appearing productive in the workplace](https://nooneshappy.com/article/appearing-productive-in-the-workplace/) | 1274 | 505 |
+| [Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)](https://www.ticalc.org/programming/columns/83plus-bas/cherny/) | 43 | 16 |
+| [SQLite Is a Library of Congress Recommended Storage Format](https://sqlite.org/locrsf.html) | 336 | 89 |
+| [Permacomputing Principles](https://permacomputing.net/principles/) | 170 | 83 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
