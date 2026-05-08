@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-05-09 (last updated: 00:50 IST)
+
+## 📅 2026-05-09 (last updated: 02:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-07 17:39:09 IST | e57d2b73d657 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-08 10:07:00 IST | 5702ed50b95f | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-09 02:03:28 IST | c3154288947f | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-09 00:50:48 IST | 4f0252d0ad15 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 532 stars today
 
 ### 📰 Hacker News Stories
-- [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach) — Score: 408
-- [Maybe you shouldn't install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/) — Score: 273
-- [Dirtyfrag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8) — Score: 493
-- [Cloudflare to cut about 20% workforce](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/) — Score: 388
-- [Pinocchio is weirder than you remembered](https://storica.club/blog/pinocchio-in-italian/) — Score: 57
+- [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/) — Score: 549
+- [What we lost the last time code got cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap) — Score: 63
+- [AI Is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 89
+- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) — Score: 195
+- [Serving a website on a Raspberry Pi Zero running in RAM](https://btxx.org/posts/memory/) — Score: 157
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,055.0 🔴 -0.01%
@@ -44,19 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $648.18 🟢 +0.85%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-05-08 (last updated: 16:47 IST)
 
 ### 🧪 Source Integrity Snapshot
