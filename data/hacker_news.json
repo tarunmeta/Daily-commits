@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-08 21:41:04 UTC",
-    "fetched_at_ist": "2026-05-09 03:11:04 IST",
+    "fetched_at_utc": "2026-05-08 22:38:14 UTC",
+    "fetched_at_ist": "2026-05-09 04:08:14 IST",
     "item_count": 5,
-    "content_hash": "16a43c536f03cf48139a20ec103eda9636ebe2e3cdafef7bce1a2c3e531a295b",
-    "previous_hash": "c3154288947f5f8d80063cc86d867b1700a28d15bf5f294465134ff5c7e83506",
+    "content_hash": "c2aa4701379766ae69ecf78b97c2762aa8034e37d8e654758d7e1d8b179cf040",
+    "previous_hash": "16a43c536f03cf48139a20ec103eda9636ebe2e3cdafef7bce1a2c3e531a295b",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48036289,
-      "title": "Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
-      "url": "https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/",
-      "score": 64,
-      "comments": 10
+      "id": 48067119,
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "score": 288,
+      "comments": 84
     },
     {
       "id": 48066524,
       "title": "AI is breaking two vulnerability cultures",
       "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "score": 130,
-      "comments": 57
+      "score": 161,
+      "comments": 70
     },
     {
       "id": 48067734,
       "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
       "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 53,
-      "comments": 29
+      "score": 82,
+      "comments": 40
     },
     {
       "id": 48065360,
       "title": "Cartoon Network Flash Games",
       "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 218,
-      "comments": 68
+      "score": 240,
+      "comments": 74
     },
     {
-      "id": 48064312,
-      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
-      "url": "https://btxx.org/posts/memory/",
-      "score": 171,
-      "comments": 70
+      "id": 48068947,
+      "title": "Non-determinism is an issue with patching CVEs",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+      "score": 21,
+      "comments": 7
     }
   ]
 }
