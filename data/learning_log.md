@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-09 (last updated: 02:03 IST)
+
+## 📅 2026-05-09 (last updated: 03:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-07 17:39:09 IST | e57d2b73d657 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-09 02:03:28 IST | c3154288947f | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-09 03:11:04 IST | 16a43c536f03 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-09 00:50:48 IST | 4f0252d0ad15 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 532 stars today
 
 ### 📰 Hacker News Stories
-- [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/) — Score: 549
-- [What we lost the last time code got cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap) — Score: 63
-- [AI Is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 89
-- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) — Score: 195
-- [Serving a website on a Raspberry Pi Zero running in RAM](https://btxx.org/posts/memory/) — Score: 157
+- [Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster](https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/) — Score: 64
+- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 130
+- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) — Score: 53
+- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) — Score: 218
+- [Serving a website on a Raspberry Pi Zero running in RAM](https://btxx.org/posts/memory/) — Score: 171
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,055.0 🔴 -0.01%
