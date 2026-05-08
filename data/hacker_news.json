@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-07 12:09:10 UTC",
-    "fetched_at_ist": "2026-05-07 17:39:10 IST",
+    "fetched_at_utc": "2026-05-08 04:37:00 UTC",
+    "fetched_at_ist": "2026-05-08 10:07:00 IST",
     "item_count": 5,
-    "content_hash": "5ba75dfdd3c94feabf4b1cd2104b88d507082a7d938aeb67c300ed90ee6ad4e7",
-    "previous_hash": "a16b2a9f4cb70afa27081423d7195e6d26e93a0f9d69fe1043574f75ef1c97ab",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "5702ed50b95f6c2cef02e112546bb62560fe7f6aa5fba0ceed3e3f8ec461a4c2",
+    "previous_hash": "5ba75dfdd3c94feabf4b1cd2104b88d507082a7d938aeb67c300ed90ee6ad4e7",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48037555,
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "score": 1505,
-      "comments": 496
+      "id": 48055913,
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "score": 408,
+      "comments": 291
     },
     {
-      "id": 48038001,
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "score": 1274,
-      "comments": 505
+      "id": 48056227,
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 273,
+      "comments": 117
     },
     {
-      "id": 48014521,
-      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "score": 43,
-      "comments": 16
+      "id": 48053623,
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 493,
+      "comments": 210
     },
     {
-      "id": 48042434,
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "url": "https://sqlite.org/locrsf.html",
-      "score": 336,
-      "comments": 89
+      "id": 48054423,
+      "title": "Cloudflare to cut about 20% workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 388,
+      "comments": 234
     },
     {
-      "id": 48044638,
-      "title": "Permacomputing Principles",
-      "url": "https://permacomputing.net/principles/",
-      "score": 170,
-      "comments": 83
+      "id": 48035420,
+      "title": "Pinocchio is weirder than you remembered",
+      "url": "https://storica.club/blog/pinocchio-in-italian/",
+      "score": 57,
+      "comments": 6
     }
   ]
 }
