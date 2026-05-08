@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-09 (last updated: 04:08 IST)
+
+## 📅 2026-05-09 (last updated: 05:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-07 17:39:09 IST | e57d2b73d657 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-09 04:08:14 IST | c2aa47013797 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-09 05:09:05 IST | 349879d9465a | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-05-09 00:50:48 IST | 4f0252d0ad15 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 532 stars today
 
 ### 📰 Hacker News Stories
-- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) — Score: 288
-- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 161
-- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) — Score: 82
-- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) — Score: 240
-- [Non-determinism is an issue with patching CVEs](https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/) — Score: 21
+- [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) — Score: 413
+- [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) — Score: 100
+- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) — Score: 189
+- [AWS data center outage hits trading on Fanduel, Coinbase](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html) — Score: 25
+- [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) — Score: 256
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,055.0 🔴 -0.01%
