@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-08 23:39:05 UTC",
-    "fetched_at_ist": "2026-05-09 05:09:05 IST",
+    "fetched_at_utc": "2026-05-09 12:01:53 UTC",
+    "fetched_at_ist": "2026-05-09 17:31:53 IST",
     "item_count": 5,
-    "content_hash": "349879d9465aa0f15126f63cb01979b4bafac8a768f48912dfae8a21164e129c",
-    "previous_hash": "c2aa4701379766ae69ecf78b97c2762aa8034e37d8e654758d7e1d8b179cf040",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "00a11472b6ce64a0f5f2c8e56f6e1baf0181f36dee0cb3b8bb5b2cc24e1f5427",
+    "previous_hash": "349879d9465aa0f15126f63cb01979b4bafac8a768f48912dfae8a21164e129c",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48071262,
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 376,
+      "comments": 211
+    },
     {
       "id": 48067119,
       "title": "Google broke reCAPTCHA for de-googled Android users",
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 413,
-      "comments": 144
+      "score": 1118,
+      "comments": 384
     },
     {
-      "id": 48067734,
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
-      "score": 100,
-      "comments": 62
-    },
-    {
-      "id": 48066524,
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "id": 48071940,
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
       "score": 189,
-      "comments": 79
+      "comments": 104
     },
     {
-      "id": 48069088,
-      "title": "AWS data center outage hits trading on Fanduel, Coinbase",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "score": 25,
-      "comments": 7
+      "id": 48051951,
+      "title": "OpenAI’s WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "score": 344,
+      "comments": 86
     },
     {
-      "id": 48065360,
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "score": 256,
-      "comments": 85
+      "id": 48046436,
+      "title": "Mythical Man Month",
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "score": 189,
+      "comments": 131
     }
   ]
 }

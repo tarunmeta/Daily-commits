@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-09 01:23:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-09 12:01:53 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/financial-services**
-- BTC: **$80,269.0** ↑ (+0.71%)
-- HN top story: **Google broke reCAPTCHA for de-googled Android users**
+- BTC: **$80,338.0** ↑ (+0.15%)
+- HN top story: **A recent experience with ChatGPT 5.5 Pro**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-07 12:09:09 UTC | `e57d2b73d657` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-08 23:39:05 UTC | `349879d9465a` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-09 01:23:00 UTC | `ff43ce8da3b6` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-05-09 12:01:51 UTC | `e491c7e4caa0` | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-09 12:01:53 UTC | `00a11472b6ce` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-09 12:01:51 UTC | `c913bf8cab45` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +10 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-09` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `52` day(s) |
-| Last Commit (IST) | `2026-05-09 15:36:29 IST` |
+| Last Commit (IST) | `2026-05-09 16:41:27 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-06 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-05-07 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-05-08 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-05-09 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-05-09 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,269.0 | +0.71% | 🟢 |
-| Ethereum | $2,310.86 | +1.17% | 🟢 |
-| Solana | $92.55 | +5.04% | 🟢 |
-| Bnb | $652.56 | +2.41% | 🟢 |
+| Bitcoin | $80,338.0 | +0.15% | 🟢 |
+| Ethereum | $2,314.36 | +0.82% | 🟢 |
+| Solana | $93.63 | +5.62% | 🟢 |
+| Bnb | $650.15 | +1.42% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 641 stars today | No description |
-| [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | 6,175 stars today | Coding agent for DeepSeek models that runs in your terminal |
-| [z-lab/dflash](https://github.com/z-lab/dflash) | Python | 654 stars today | DFlash: Block Diffusion for Flash Speculative Decoding |
-| [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | 230 stars today | InsForge is a Postgres-based backend with auth, storage, compute, hosting, and A… |
-| [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | 532 stars today | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 800 stars today | Production-grade engineering skills for AI coding agents. |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | 953 stars today | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | 406 stars today | An open source template for building cloud agents. |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 3,660 stars today | No description |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 850 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 400 stars today | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 667 stars today | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 294 stars today | 💻 vibe coding 2026 | Your first modern programming course for beginners to maste… |
+| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | TypeScript | 144 stars today | Open-source AI coworker, with memory |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 145 stars today | Chrome DevTools for coding agents |
+| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Go | 595 stars today | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) | 413 | 144 |
-| [You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)](https://ze3tar.github.io/post-zcrx.html) | 100 | 62 |
-| [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures) | 189 | 79 |
-| [AWS data center outage hits trading on Fanduel, Coinbase](https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html) | 25 | 7 |
-| [Cartoon Network Flash Games](https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games) | 256 | 85 |
+| [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) | 376 | 211 |
+| [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) | 1118 | 384 |
+| [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935) | 189 | 104 |
+| [OpenAI’s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/) | 344 | 86 |
+| [Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html) | 189 | 131 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
