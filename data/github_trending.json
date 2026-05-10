@@ -2,92 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-10 00:04:44 UTC",
-    "fetched_at_ist": "2026-05-10 05:34:44 IST",
-    "item_count": 13,
-    "content_hash": "3a937ab9c5de007cb0b1796239f98fecbceee14f18700147e395b53cfdb483c4",
-    "previous_hash": "e491c7e4caa009fbdcd6dd250b0f8e89b3c9f570a159983d7e4d79cc254c90cd",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-05-10 18:08:51 UTC",
+    "fetched_at_ist": "2026-05-10 23:38:51 IST",
+    "item_count": 12,
+    "content_hash": "a482003104be5b504bc4cf81fd665a7127c87c4fff0c7d95a04d30d911203ea5",
+    "previous_hash": "3a937ab9c5de007cb0b1796239f98fecbceee14f18700147e395b53cfdb483c4",
+    "new_repos_vs_previous": 5,
+    "top_repo_changed": true
   },
   "repos": [
-    {
-      "name": "anthropics/financial-services",
-      "description": "No description",
-      "language": "Python",
-      "stars_today": "3,281 stars today"
-    },
     {
       "name": "bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars_today": "552 stars today"
+      "stars_today": "656 stars today"
     },
     {
-      "name": "rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-      "language": "TypeScript",
-      "stars_today": "533 stars today"
-    },
-    {
-      "name": "datawhalechina/hello-agents",
-      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "name": "anthropics/financial-services",
+      "description": "No description",
       "language": "Python",
-      "stars_today": "1,197 stars today"
-    },
-    {
-      "name": "datawhalechina/easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
-      "language": "JavaScript",
-      "stars_today": "294 stars today"
-    },
-    {
-      "name": "rowboatlabs/rowboat",
-      "description": "Open-source AI coworker, with memory",
-      "language": "TypeScript",
-      "stars_today": "144 stars today"
-    },
-    {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "107 stars today"
-    },
-    {
-      "name": "masterking32/MasterDnsVPN",
-      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
-      "language": "Go",
-      "stars_today": "597 stars today"
-    },
-    {
-      "name": "playcanvas/supersplat",
-      "description": "3D Gaussian Splat Editor",
-      "language": "TypeScript",
-      "stars_today": "514 stars today"
-    },
-    {
-      "name": "Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "language": "Jupyter Notebook",
-      "stars_today": "160 stars today"
+      "stars_today": "1,479 stars today"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars_today": "3,009 stars today"
+      "stars_today": "1,092 stars today"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars_today": "567 stars today"
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars_today": "255 stars today"
+    },
+    {
+      "name": "jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars_today": "187 stars today"
+    },
+    {
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars_today": "642 stars today"
+    },
+    {
+      "name": "playcanvas/supersplat",
+      "description": "3D Gaussian Splat Editor",
+      "language": "TypeScript",
+      "stars_today": "604 stars today"
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars_today": "170 stars today"
     },
     {
       "name": "decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars_today": "1,031 stars today"
+      "stars_today": "806 stars today"
     },
     {
-      "name": "oracle-devrel/oracle-ai-developer-hub",
-      "description": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
-      "language": "Jupyter Notebook",
-      "stars_today": "90 stars today"
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars_today": "1,011 stars today"
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "stars_today": "756 stars today"
     }
   ]
 }

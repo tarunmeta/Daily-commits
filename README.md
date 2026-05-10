@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-10 12:41:37 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-10 18:08:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **anthropics/financial-services**
-- BTC: **$80,746.0** ↑ (+0.30%)
-- HN top story: **Space Cadet Pinball on Linux**
+- Top GitHub repo: **bytedance/UI-TARS-desktop**
+- BTC: **$81,425.0** ↑ (+0.75%)
+- HN top story: **Hardware Attestation as Monopoly Enabler**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-10 00:04:44 UTC | `3a937ab9c5de` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-10 12:41:37 UTC | `a92a2ecfbf04` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-10 04:15:49 UTC | `e64df10681ae` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 12 | 2026-05-10 18:08:51 UTC | `a482003104be` | +5 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-10 18:08:52 UTC | `a041c1321c5d` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-10 18:08:51 UTC | `48e7cdcc6ba1` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +5 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-10` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
 | Streak | `52` day(s) |
-| Last Commit (IST) | `2026-05-10 21:41:55 IST` |
+| Last Commit (IST) | `2026-05-10 22:44:29 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-07 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-05-08 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-09 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-05-10 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-05-10 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,746.0 | +0.30% | 🟢 |
-| Ethereum | $2,326.46 | +0.36% | 🟢 |
-| Solana | $93.3 | -0.67% | 🔴 |
-| Bnb | $647.87 | -0.99% | 🔴 |
+| Bitcoin | $81,425.0 | +0.75% | 🟢 |
+| Ethereum | $2,364.43 | +1.42% | 🟢 |
+| Solana | $96.18 | +3.18% | 🟢 |
+| Bnb | $659.76 | +1.49% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 3,281 stars today | No description |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 552 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 533 stars today | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 1,197 stars today | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 294 stars today | 💻 vibe coding 2026 | Your first modern programming course for beginners to maste… |
-| [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | TypeScript | 144 stars today | Open-source AI coworker, with memory |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 107 stars today | Chrome DevTools for coding agents |
-| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Go | 597 stars today | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli… |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 656 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,479 stars today | No description |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 1,092 stars today | Production-grade engineering skills for AI coding agents. |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 567 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
+| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | 255 stars today | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
+| [jundot/omlx](https://github.com/jundot/omlx) | Python | 187 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 642 stars today | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste… |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 604 stars today | 3D Gaussian Splat Editor |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/) | 60 | 14 |
-| [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/) | 123 | 59 |
-| [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html) | 35 | 14 |
-| [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310) | 607 | 584 |
-| [The One Dollar Counterfeiter](https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html) | 187 | 61 |
+| [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) | 15 | 1 |
+| [Tracesofhumanity.org by Joanna Rutkowska](https://tracesofhumanity.org/hello-world/) | 24 | 5 |
+| [Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem](https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a) | 35 | 20 |
+| [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html) | 450 | 357 |
+| [What's a Mathematician to Do?](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do) | 104 | 52 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
