@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-09 12:01:53 UTC",
-    "fetched_at_ist": "2026-05-09 17:31:53 IST",
+    "fetched_at_utc": "2026-05-10 00:04:45 UTC",
+    "fetched_at_ist": "2026-05-10 05:34:45 IST",
     "item_count": 5,
-    "content_hash": "00a11472b6ce64a0f5f2c8e56f6e1baf0181f36dee0cb3b8bb5b2cc24e1f5427",
-    "previous_hash": "349879d9465aa0f15126f63cb01979b4bafac8a768f48912dfae8a21164e129c",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "23db8a61a168fed8894b94cdc898342dc622457a6fe3fdaecdc57c8502b2b94a",
+    "previous_hash": "00a11472b6ce64a0f5f2c8e56f6e1baf0181f36dee0cb3b8bb5b2cc24e1f5427",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48071262,
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "score": 376,
-      "comments": 211
+      "id": 48073680,
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "score": 360,
+      "comments": 351
     },
     {
-      "id": 48067119,
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "score": 1118,
-      "comments": 384
+      "id": 48074265,
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "score": 511,
+      "comments": 75
     },
     {
-      "id": 48071940,
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "score": 189,
-      "comments": 104
+      "id": 48076815,
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "score": 69,
+      "comments": 12
     },
     {
-      "id": 48051951,
-      "title": "OpenAI’s WebRTC problem",
-      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-      "score": 344,
-      "comments": 86
+      "id": 48078575,
+      "title": "Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "score": 36,
+      "comments": 15
     },
     {
-      "id": 48046436,
-      "title": "Mythical Man Month",
-      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
-      "score": 189,
-      "comments": 131
+      "id": 48049828,
+      "title": "The Serial TTL connector we deserve",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "score": 16,
+      "comments": 10
     }
   ]
 }

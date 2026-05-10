@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-09 12:01:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-10 00:04:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/financial-services**
-- BTC: **$80,338.0** ↑ (+0.15%)
-- HN top story: **A recent experience with ChatGPT 5.5 Pro**
+- BTC: **$80,687.0** ↑ (+0.66%)
+- HN top story: **Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-09 12:01:51 UTC | `e491c7e4caa0` | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-09 12:01:53 UTC | `00a11472b6ce` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-09 12:01:51 UTC | `c913bf8cab45` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-05-10 00:04:44 UTC | `3a937ab9c5de` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-10 00:04:45 UTC | `23db8a61a168` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-10 00:04:44 UTC | `43207586add7` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-10` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `53` day(s) |
-| Last Commit (IST) | `2026-05-10 03:32:10 IST` |
+| Last Commit (IST) | `2026-05-10 04:35:29 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-07 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-05-08 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-09 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-05-10 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-05-10 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,338.0 | +0.15% | 🟢 |
-| Ethereum | $2,314.36 | +0.82% | 🟢 |
-| Solana | $93.63 | +5.62% | 🟢 |
-| Bnb | $650.15 | +1.42% | 🟢 |
+| Bitcoin | $80,687.0 | +0.66% | 🟢 |
+| Ethereum | $2,326.74 | +0.92% | 🟢 |
+| Solana | $93.11 | +1.26% | 🟢 |
+| Bnb | $649.58 | +0.06% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 3,660 stars today | No description |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 850 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
-| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 400 stars today | #1 Persistent memory for AI coding agents based on real-world benchmarks |
-| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 667 stars today | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 3,281 stars today | No description |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 552 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
+| [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | 533 stars today | #1 Persistent memory for AI coding agents based on real-world benchmarks |
+| [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | 1,197 stars today | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 294 stars today | 💻 vibe coding 2026 | Your first modern programming course for beginners to maste… |
 | [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) | TypeScript | 144 stars today | Open-source AI coworker, with memory |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 145 stars today | Chrome DevTools for coding agents |
-| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Go | 595 stars today | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli… |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 107 stars today | Chrome DevTools for coding agents |
+| [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) | Go | 597 stars today | Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and Sli… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) | 376 | 211 |
-| [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users) | 1118 | 384 |
-| [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935) | 189 | 104 |
-| [OpenAI’s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/) | 344 | 86 |
-| [Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html) | 189 | 131 |
+| [Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310) | 360 | 351 |
+| [Internet Archive Switzerland](https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/) | 511 | 75 |
+| [Show HN: I made a Clojure-like language in Go, boots in 7ms](https://github.com/nooga/let-go) | 69 | 12 |
+| [Rust but Lisp](https://github.com/ThatXliner/rust-but-lisp) | 36 | 15 |
+| [The Serial TTL connector we deserve](https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/) | 16 | 10 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
