@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-10 10:37:43 UTC",
-    "fetched_at_ist": "2026-05-10 16:07:43 IST",
+    "fetched_at_utc": "2026-05-10 11:34:07 UTC",
+    "fetched_at_ist": "2026-05-10 17:04:07 IST",
     "item_count": 5,
-    "content_hash": "4ac2496ca024ff61a763fbbf5d9837b85abc74547a00c35e12215da6ae513660",
-    "previous_hash": "23db8a61a168fed8894b94cdc898342dc622457a6fe3fdaecdc57c8502b2b94a",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "9204b12a914e0498208ef9b78967e37685503390d754d360f196d3d634309250",
+    "previous_hash": "4ac2496ca024ff61a763fbbf5d9837b85abc74547a00c35e12215da6ae513660",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48047930,
       "title": "Idempotency Is Easy Until the Second Request Is Different",
       "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 38,
-      "comments": 8
+      "score": 75,
+      "comments": 33
     },
     {
       "id": 48073680,
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 577,
-      "comments": 539
-    },
-    {
-      "id": 48080587,
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "url": "https://github.com/imtomt/ymawky",
-      "score": 292,
-      "comments": 133
+      "score": 589,
+      "comments": 562
     },
     {
       "id": 48048684,
       "title": "The One Dollar Counterfeiter",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 131,
-      "comments": 41
+      "score": 162,
+      "comments": 45
     },
     {
-      "id": 48037223,
-      "title": "We see something that works, and then we understand it",
-      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "score": 103,
-      "comments": 32
+      "id": 48080587,
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "url": "https://github.com/imtomt/ymawky",
+      "score": 299,
+      "comments": 142
+    },
+    {
+      "id": 48048407,
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
+      "score": 159,
+      "comments": 63
     }
   ]
 }
