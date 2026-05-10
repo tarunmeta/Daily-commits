@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-10 (last updated: 05:34 IST)
+
+## 📅 2026-05-10 (last updated: 09:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-10 05:34:44 IST | 3a937ab9c5de | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-10 05:34:45 IST | 23db8a61a168 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-10 05:34:44 IST | 43207586add7 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-10 09:45:49 IST | e64df10681ae | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[anthropics/financial-services](https://github.com/anthropics/financial-services)** (Python) — No description  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [The Serial TTL connector we deserve](https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/) — Score: 16
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $80,687.0 🟢 +0.66%
-- Ethereum: $2,326.74 🟢 +0.92%
-- Solana: $93.11 🟢 +1.26%
-- Bnb: $649.58 🟢 +0.06%
+- Bitcoin: $80,746.0 🟢 +0.30%
+- Ethereum: $2,326.46 🟢 +0.36%
+- Solana: $93.3 🔴 -0.67%
+- Bnb: $647.87 🔴 -0.99%
 
 ---
 ## 📅 2026-05-09 (last updated: 17:31 IST)
