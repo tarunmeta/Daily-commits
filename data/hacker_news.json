@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-10 18:08:52 UTC",
-    "fetched_at_ist": "2026-05-10 23:38:52 IST",
+    "fetched_at_utc": "2026-05-10 19:33:27 UTC",
+    "fetched_at_ist": "2026-05-11 01:03:27 IST",
     "item_count": 5,
-    "content_hash": "a041c1321c5da95422fd8fcb13efa368d87bf9dc3a6a82af64ef012022ff32af",
-    "previous_hash": "a92a2ecfbf0497efe0b819cef0c50cf7d097d32597f390dbc7ad10a0cf6e97ce",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "85183291db82e5c333e84dca1fb247b6f9ddaf28091d58ff8fdfaceb60029e35",
+    "previous_hash": "a041c1321c5da95422fd8fcb13efa368d87bf9dc3a6a82af64ef012022ff32af",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48086190,
       "title": "Hardware Attestation as Monopoly Enabler",
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 15,
-      "comments": 1
+      "score": 286,
+      "comments": 79
+    },
+    {
+      "id": 48086082,
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 129,
+      "comments": 29
     },
     {
       "id": 48085782,
-      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "title": "Traces Of Humanity",
       "url": "https://tracesofhumanity.org/hello-world/",
-      "score": 24,
-      "comments": 5
+      "score": 66,
+      "comments": 10
     },
     {
-      "id": 48075429,
-      "title": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
-      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
-      "score": 35,
-      "comments": 20
+      "id": 48064789,
+      "title": "Lakebase architecture delivers faster Postgres writes",
+      "url": "https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes",
+      "score": 50,
+      "comments": 9
     },
     {
       "id": 48073201,
-      "title": "I returned to AWS, and was reminded why I left",
+      "title": "I returned to AWS and was reminded why I left",
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
-      "score": 450,
-      "comments": 357
-    },
-    {
-      "id": 48083007,
-      "title": "What's a Mathematician to Do?",
-      "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-      "score": 104,
-      "comments": 52
+      "score": 496,
+      "comments": 393
     }
   ]
 }
