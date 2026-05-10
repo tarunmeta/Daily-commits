@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-10 22:23:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-10 23:26:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **bytedance/UI-TARS-desktop**
-- BTC: **$81,274.0** ↑ (+0.65%)
+- BTC: **$82,268.0** ↑ (+2.00%)
 - HN top story: **Hardware Attestation as Monopoly Enabler**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-10 18:08:51 UTC | `a482003104be` | +5 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-10 19:33:27 UTC | `85183291db82` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-10 22:23:54 UTC | `89a861ace951` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-10 23:26:43 UTC | `f5bb1d04f10f` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-11` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `53` day(s) |
-| Last Commit (IST) | `2026-05-11 02:57:33 IST` |
+| Last Commit (IST) | `2026-05-11 03:53:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-05-08 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-09 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-05-10 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-05-11 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-05-11 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,274.0 | +0.65% | 🟢 |
-| Ethereum | $2,349.04 | +0.78% | 🟢 |
-| Solana | $95.5 | +2.27% | 🟢 |
-| Bnb | $660.24 | +1.37% | 🟢 |
+| Bitcoin | $82,268.0 | +2.00% | 🟢 |
+| Ethereum | $2,372.16 | +1.98% | 🟢 |
+| Solana | $96.19 | +3.21% | 🟢 |
+| Bnb | $664.23 | +2.21% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
