@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-10 11:34:07 UTC",
-    "fetched_at_ist": "2026-05-10 17:04:07 IST",
+    "fetched_at_utc": "2026-05-10 12:41:37 UTC",
+    "fetched_at_ist": "2026-05-10 18:11:37 IST",
     "item_count": 5,
-    "content_hash": "9204b12a914e0498208ef9b78967e37685503390d754d360f196d3d634309250",
-    "previous_hash": "4ac2496ca024ff61a763fbbf5d9837b85abc74547a00c35e12215da6ae513660",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "a92a2ecfbf0497efe0b819cef0c50cf7d097d32597f390dbc7ad10a0cf6e97ce",
+    "previous_hash": "9204b12a914e0498208ef9b78967e37685503390d754d360f196d3d634309250",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48082968,
+      "title": "Space Cadet Pinball on Linux",
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "score": 60,
+      "comments": 14
+    },
     {
       "id": 48047930,
       "title": "Idempotency Is Easy Until the Second Request Is Different",
       "url": "https://blog.dochia.dev/blog/idempotency/",
-      "score": 75,
-      "comments": 33
+      "score": 123,
+      "comments": 59
+    },
+    {
+      "id": 48073201,
+      "title": "I returned to AWS, and was reminded why I left",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "score": 35,
+      "comments": 14
     },
     {
       "id": 48073680,
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "score": 589,
-      "comments": 562
+      "score": 607,
+      "comments": 584
     },
     {
       "id": 48048684,
       "title": "The One Dollar Counterfeiter",
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "score": 162,
-      "comments": 45
-    },
-    {
-      "id": 48080587,
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "url": "https://github.com/imtomt/ymawky",
-      "score": 299,
-      "comments": 142
-    },
-    {
-      "id": 48048407,
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "url": "https://www.casio.com/jp/basic-calculators/premium/en-s100x-jc1-u/",
-      "score": 159,
-      "comments": 63
+      "score": 187,
+      "comments": 61
     }
   ]
 }
