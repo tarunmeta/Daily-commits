@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-12 (last updated: 00:50 IST)
+
+## 📅 2026-05-12 (last updated: 03:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-11 23:14:09 IST | abc25a30b894 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-12 00:50:55 IST | 32a40dd2f22a | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-05-12 03:45:49 IST | abcd4bd860a8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** (TypeScript) — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: TikTok but for Scientific Papers](https://andreaturchet.github.io/website/index.html) — Score: 21
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $81,856.0 🟢 +0.51%
-- Ethereum: $2,337.47 🔴 -1.07%
-- Solana: $97.42 🟢 +0.89%
-- Bnb: $661.42 🟢 +0.03%
+- Bitcoin: $81,803.0 🟢 +0.60%
+- Ethereum: $2,340.79 🔴 -0.09%
+- Solana: $97.45 🟢 +2.12%
+- Bnb: $663.58 🟢 +1.21%
 
 ---
 ## 📅 2026-05-11 (last updated: 23:14 IST)
