@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-11 15:36:57 UTC",
-    "fetched_at_ist": "2026-05-11 21:06:57 IST",
+    "fetched_at_utc": "2026-05-11 17:44:09 UTC",
+    "fetched_at_ist": "2026-05-11 23:14:09 IST",
     "item_count": 5,
-    "content_hash": "90b1bb86705bd47c97559a866360cda49f6d4ee1a9a72b783855b8d9080141d9",
-    "previous_hash": "0cbd4f19c124596cb80eb302a2ea2363cb4b2da53ec5d277bf46aee621264d92",
+    "content_hash": "abc25a30b89422373dec1ba28a2c240900c900d5dd017f986e53bfaf0f9177aa",
+    "previous_hash": "90b1bb86705bd47c97559a866360cda49f6d4ee1a9a72b783855b8d9080141d9",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48096692,
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "score": 108,
+      "comments": 19
+    },
+    {
+      "id": 48060077,
+      "title": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "score": 62,
+      "comments": 22
+    },
     {
       "id": 48093100,
       "title": "Ratty – A terminal emulator with inline 3D graphics",
       "url": "https://ratty-term.org/",
-      "score": 361,
-      "comments": 121
-    },
-    {
-      "id": 48095468,
-      "title": "Killed by Apple",
-      "url": "https://killedbyapple.theden.sh/",
-      "score": 101,
-      "comments": 83
+      "score": 473,
+      "comments": 166
     },
     {
       "id": 48085685,
       "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
       "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 57,
-      "comments": 3
+      "score": 131,
+      "comments": 8
     },
     {
-      "id": 48086190,
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "score": 1897,
-      "comments": 628
-    },
-    {
-      "id": 48092028,
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "score": 210,
-      "comments": 95
+      "id": 48096842,
+      "title": "Show HN: TikTok but for Scientific Papers",
+      "url": "https://andreaturchet.github.io/website/index.html",
+      "score": 21,
+      "comments": 10
     }
   ]
 }
