@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-11 (last updated: 06:53 IST)
+
+## 📅 2026-05-11 (last updated: 11:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-05-10 23:38:51 IST | a482003104be | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-11 01:03:27 IST | 85183291db82 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-11 11:03:30 IST | 1b2204a409a4 | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-05-11 06:53:46 IST | 43602b4790ea | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +5 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 255 stars today
 
 ### 📰 Hacker News Stories
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 286
-- [Incident Report: CVE-2024-YIKES](https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html) — Score: 129
-- [Traces Of Humanity](https://tracesofhumanity.org/hello-world/) — Score: 66
-- [Lakebase architecture delivers faster Postgres writes](https://www.databricks.com/blog/how-lakebase-architecture-delivers-5x-faster-postgres-writes) — Score: 50
-- [I returned to AWS and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html) — Score: 496
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 1166
+- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) — Score: 825
+- [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) — Score: 72
+- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) — Score: 183
+- [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) — Score: 210
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,607.0 🟢 +1.27%
