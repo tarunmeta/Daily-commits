@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-11 (last updated: 17:41 IST)
+
+## 📅 2026-05-11 (last updated: 21:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-11 17:41:40 IST | 0cbd4f19c124 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-11 21:06:57 IST | 90b1bb86705b | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-05-11 17:41:39 IST | fbb8d59fba2d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) — Score: 92
-- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 1698
-- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) — Score: 1278
-- [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) — Score: 480
-- [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) — Score: 207
+- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) — Score: 361
+- [Killed by Apple](https://killedbyapple.theden.sh/) — Score: 101
+- [Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html) — Score: 57
+- [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) — Score: 1897
+- [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082) — Score: 210
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,117.0 🟢 +0.34%
