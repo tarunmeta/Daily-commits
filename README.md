@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-11 05:33:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-11 12:11:40 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **bytedance/UI-TARS-desktop**
-- BTC: **$81,607.0** ↑ (+1.27%)
-- HN top story: **Hardware Attestation as Monopoly Enabler**
+- BTC: **$81,117.0** ↑ (+0.34%)
+- HN top story: **Ratty – A terminal emulator with inline 3D graphics**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-05-10 18:08:51 UTC | `a482003104be` | +5 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-11 05:33:30 UTC | `1b2204a409a4` | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-05-11 01:23:46 UTC | `43602b4790ea` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-05-11 12:11:39 UTC | `281f35151e38` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-11 12:11:40 UTC | `0cbd4f19c124` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-11 12:11:39 UTC | `fbb8d59fba2d` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: no
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-11` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `53` day(s) |
-| Last Commit (IST) | `2026-05-11 11:03:30 IST` |
+| Last Commit (IST) | `2026-05-11 14:16:42 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-08 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-09 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-05-10 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-05-11 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-05-11 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,607.0 | +1.27% | 🟢 |
-| Ethereum | $2,361.8 | +1.75% | 🟢 |
-| Solana | $96.23 | +3.75% | 🟢 |
-| Bnb | $659.61 | +2.18% | 🟢 |
+| Bitcoin | $81,117.0 | +0.34% | 🟢 |
+| Ethereum | $2,331.35 | +0.39% | 🟢 |
+| Solana | $94.91 | +1.61% | 🟢 |
+| Bnb | $654.88 | +0.91% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 656 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 1,479 stars today | No description |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 1,092 stars today | Production-grade engineering skills for AI coding agents. |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 567 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
-| [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | 255 stars today | "AI-Trader: 100% Fully-Automated Agent-Native Trading" |
-| [jundot/omlx](https://github.com/jundot/omlx) | Python | 187 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 642 stars today | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste… |
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 604 stars today | 3D Gaussian Splat Editor |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 669 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 496 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 397 stars today | Let's use AI to Earn! |
+| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 579 stars today | 3D Gaussian Splat Editor |
+| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 635 stars today | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste… |
+| [decolua/9router](https://github.com/decolua/9router) | JavaScript | 803 stars today | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An… |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 154 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | 312 stars today | Your agent writes bad React. This catches it |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) | 1166 | 390 |
-| [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) | 825 | 365 |
-| [The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) | 72 | 26 |
-| [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) | 183 | 69 |
-| [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4) | 210 | 75 |
+| [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) | 92 | 35 |
+| [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585) | 1698 | 558 |
+| [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/) | 1278 | 534 |
+| [I'm going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/) | 480 | 230 |
+| [The greatest shot in television: James Burke had one chance to nail this scene (2024)](https://www.openculture.com/2024/10/the-greatest-shot-in-television.html) | 207 | 93 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
