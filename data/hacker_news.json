@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-12 22:35:23 UTC",
-    "fetched_at_ist": "2026-05-13 04:05:23 IST",
+    "fetched_at_utc": "2026-05-12 23:41:42 UTC",
+    "fetched_at_ist": "2026-05-13 05:11:42 IST",
     "item_count": 5,
-    "content_hash": "4c4d51286fb518aeae6bc25f704bad15881a720d9d623c6f4d14ddfd2fd7800b",
-    "previous_hash": "02316edb6ea781cd108e34afd88a1a56de35eff7ef1e61e443849276feea87e0",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "dab5a832f586b17957b5244bf16f8d061e27ee1ee204e00804d6b41a82c5aef0",
+    "previous_hash": "4c4d51286fb518aeae6bc25f704bad15881a720d9d623c6f4d14ddfd2fd7800b",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48111545,
       "title": "Googlebook",
       "url": "https://googlebook.google/",
-      "score": 478,
-      "comments": 775
+      "score": 539,
+      "comments": 871
+    },
+    {
+      "id": 48115127,
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "score": 69,
+      "comments": 15
     },
     {
       "id": 48113895,
       "title": "How to make your text look futuristic (2016)",
       "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 121,
-      "comments": 12
+      "score": 168,
+      "comments": 16
     },
     {
       "id": 48112042,
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
       "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 181,
-      "comments": 76
+      "score": 202,
+      "comments": 94
     },
     {
       "id": 48111896,
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 199,
-      "comments": 64
-    },
-    {
-      "id": 48109460,
-      "title": "Why senior developers fail to communicate their expertise",
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "score": 289,
-      "comments": 146
+      "score": 233,
+      "comments": 82
     }
   ]
 }
