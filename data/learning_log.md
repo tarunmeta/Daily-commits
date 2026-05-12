@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-13 (last updated: 00:52 IST)
+
+## 📅 2026-05-13 (last updated: 04:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-12 23:01:58 IST | 02316edb6ea7 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-13 04:05:23 IST | 4c4d51286fb5 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-13 00:52:03 IST | 5524141ccfa8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/) — Score: 257
-- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) — Score: 578
-- [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/) — Score: 67
-- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) — Score: 411
-- [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai) — Score: 20
+- [Googlebook](https://googlebook.google/) — Score: 478
+- [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/) — Score: 121
+- [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html) — Score: 181
+- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) — Score: 199
+- [Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) — Score: 289
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,755.0 🔴 -1.51%
