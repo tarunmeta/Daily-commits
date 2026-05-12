@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-12 (last updated: 20:55 IST)
+
+## 📅 2026-05-12 (last updated: 23:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-12 16:11:47 IST | e82ebbbc39e4 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-12 23:01:58 IST | 02316edb6ea7 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-12 20:55:05 IST | 56652c24e659 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) — Score: 59
-- [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) — Score: 865
-- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/) — Score: 200
-- [Toxicity on Social Media – The Noisy Room](https://thenoisyroom.com) — Score: 35
-- [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker) — Score: 256
+- [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/) — Score: 257
+- [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/) — Score: 578
+- [The Future of Obsidian Plugins](https://obsidian.md/blog/future-of-plugins/) — Score: 67
+- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) — Score: 411
+- [Launch HN: Voker (YC S24) – Analytics for AI Agents](https://voker.ai) — Score: 20
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $80,369.0 🔴 -0.76%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-12 10:41:47 UTC",
-    "fetched_at_ist": "2026-05-12 16:11:47 IST",
+    "fetched_at_utc": "2026-05-12 17:31:58 UTC",
+    "fetched_at_ist": "2026-05-12 23:01:58 IST",
     "item_count": 5,
-    "content_hash": "e82ebbbc39e4875bbf2d6814fde5889857a6cbab5d104fdbe344f6869044a4d5",
-    "previous_hash": "abc25a30b89422373dec1ba28a2c240900c900d5dd017f986e53bfaf0f9177aa",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "02316edb6ea781cd108e34afd88a1a56de35eff7ef1e61e443849276feea87e0",
+    "previous_hash": "e82ebbbc39e4875bbf2d6814fde5889857a6cbab5d104fdbe344f6869044a4d5",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48107997,
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "score": 257,
+      "comments": 18
+    },
+    {
+      "id": 48109224,
+      "title": "Bambu Lab is abusing the open source social contract",
+      "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+      "score": 578,
+      "comments": 197
+    },
+    {
+      "id": 48109970,
+      "title": "The Future of Obsidian Plugins",
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "score": 67,
+      "comments": 31
+    },
+    {
       "id": 48106024,
       "title": "Learning Software Architecture",
       "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "score": 59,
-      "comments": 1
+      "score": 411,
+      "comments": 76
     },
     {
-      "id": 48100706,
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "score": 865,
-      "comments": 352
-    },
-    {
-      "id": 48104428,
-      "title": "Screenshots of Old Desktop OSes",
-      "url": "http://www.typewritten.org/Media/",
-      "score": 200,
-      "comments": 64
-    },
-    {
-      "id": 48105297,
-      "title": "Toxicity on Social Media – The Noisy Room",
-      "url": "https://thenoisyroom.com",
-      "score": 35,
+      "id": 48109962,
+      "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "score": 20,
       "comments": 8
-    },
-    {
-      "id": 48102700,
-      "title": "They Live (1988) inspired Adblocker",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "score": 256,
-      "comments": 87
     }
   ]
 }
