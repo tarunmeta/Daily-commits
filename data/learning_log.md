@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-12 (last updated: 06:49 IST)
+
+## 📅 2026-05-12 (last updated: 16:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-11 23:14:09 IST | abc25a30b894 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-12 16:11:47 IST | e82ebbbc39e4 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-12 06:49:15 IST | 2fd38b93ef56 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [CUDA-oxide: Nvidia's official Rust to CUDA compiler](https://nvlabs.github.io/cuda-oxide/index.html) — Score: 108
-- [Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)](https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html) — Score: 62
-- [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/) — Score: 473
-- [Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html) — Score: 131
-- [Show HN: TikTok but for Scientific Papers](https://andreaturchet.github.io/website/index.html) — Score: 21
+- [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) — Score: 59
+- [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) — Score: 865
+- [Screenshots of Old Desktop OSes](http://www.typewritten.org/Media/) — Score: 200
+- [Toxicity on Social Media – The Noisy Room](https://thenoisyroom.com) — Score: 35
+- [They Live (1988) inspired Adblocker](https://github.com/davmlaw/they_live_adblocker) — Score: 256
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,333.0 🔴 -0.32%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-11 17:44:09 UTC",
-    "fetched_at_ist": "2026-05-11 23:14:09 IST",
+    "fetched_at_utc": "2026-05-12 10:41:47 UTC",
+    "fetched_at_ist": "2026-05-12 16:11:47 IST",
     "item_count": 5,
-    "content_hash": "abc25a30b89422373dec1ba28a2c240900c900d5dd017f986e53bfaf0f9177aa",
-    "previous_hash": "90b1bb86705bd47c97559a866360cda49f6d4ee1a9a72b783855b8d9080141d9",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "e82ebbbc39e4875bbf2d6814fde5889857a6cbab5d104fdbe344f6869044a4d5",
+    "previous_hash": "abc25a30b89422373dec1ba28a2c240900c900d5dd017f986e53bfaf0f9177aa",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48096692,
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "score": 108,
-      "comments": 19
+      "id": 48106024,
+      "title": "Learning Software Architecture",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "score": 59,
+      "comments": 1
     },
     {
-      "id": 48060077,
-      "title": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "score": 62,
-      "comments": 22
+      "id": 48100706,
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "score": 865,
+      "comments": 352
     },
     {
-      "id": 48093100,
-      "title": "Ratty – A terminal emulator with inline 3D graphics",
-      "url": "https://ratty-term.org/",
-      "score": 473,
-      "comments": 166
+      "id": 48104428,
+      "title": "Screenshots of Old Desktop OSes",
+      "url": "http://www.typewritten.org/Media/",
+      "score": 200,
+      "comments": 64
     },
     {
-      "id": 48085685,
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "score": 131,
+      "id": 48105297,
+      "title": "Toxicity on Social Media – The Noisy Room",
+      "url": "https://thenoisyroom.com",
+      "score": 35,
       "comments": 8
     },
     {
-      "id": 48096842,
-      "title": "Show HN: TikTok but for Scientific Papers",
-      "url": "https://andreaturchet.github.io/website/index.html",
-      "score": 21,
-      "comments": 10
+      "id": 48102700,
+      "title": "They Live (1988) inspired Adblocker",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "score": 256,
+      "comments": 87
     }
   ]
 }
