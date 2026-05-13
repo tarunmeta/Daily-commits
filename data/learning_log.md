@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-13 (last updated: 06:59 IST)
+
+## 📅 2026-05-13 (last updated: 11:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-13 05:11:42 IST | dab5a832f586 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-13 11:00:49 IST | 3406f502f802 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-13 06:59:31 IST | a9881c21a057 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Googlebook](https://googlebook.google/) — Score: 539
-- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) — Score: 69
-- [How to make your text look futuristic (2016)](https://typesetinthefuture.com/2016/02/18/futuristic/) — Score: 168
-- [CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html) — Score: 202
-- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) — Score: 233
+- [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419) — Score: 38
+- [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab) — Score: 308
+- [Googlebook](https://googlebook.google/) — Score: 691
+- [Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) — Score: 357
+- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem) — Score: 105
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,048.0 🔴 -0.36%

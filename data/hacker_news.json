@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-12 23:41:42 UTC",
-    "fetched_at_ist": "2026-05-13 05:11:42 IST",
+    "fetched_at_utc": "2026-05-13 05:30:49 UTC",
+    "fetched_at_ist": "2026-05-13 11:00:49 IST",
     "item_count": 5,
-    "content_hash": "dab5a832f586b17957b5244bf16f8d061e27ee1ee204e00804d6b41a82c5aef0",
-    "previous_hash": "4c4d51286fb518aeae6bc25f704bad15881a720d9d623c6f4d14ddfd2fd7800b",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "3406f502f802a978ea4c38667a35d471b4d274503120e2b9d1c6a17c825e9ba4",
+    "previous_hash": "dab5a832f586b17957b5244bf16f8d061e27ee1ee204e00804d6b41a82c5aef0",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48111545,
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "score": 539,
-      "comments": 871
+      "id": 48117810,
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "url": "https://arxiv.org/abs/2605.08419",
+      "score": 38,
+      "comments": 0
     },
     {
       "id": 48115127,
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
       "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 69,
-      "comments": 15
+      "score": 308,
+      "comments": 127
     },
     {
-      "id": 48113895,
-      "title": "How to make your text look futuristic (2016)",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "score": 168,
-      "comments": 16
-    },
-    {
-      "id": 48112042,
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "score": 202,
-      "comments": 94
+      "id": 48111545,
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "score": 691,
+      "comments": 1169
     },
     {
       "id": 48111896,
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "url": "https://github.com/cactus-compute/needle",
-      "score": 233,
-      "comments": 82
+      "score": 357,
+      "comments": 128
+    },
+    {
+      "id": 48115823,
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "score": 105,
+      "comments": 41
     }
   ]
 }
