@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-14 21:38:14 UTC",
-    "fetched_at_ist": "2026-05-15 03:08:14 IST",
+    "fetched_at_utc": "2026-05-14 22:41:05 UTC",
+    "fetched_at_ist": "2026-05-15 04:11:05 IST",
     "item_count": 5,
-    "content_hash": "3835de49933fe0a58fe458180ec6925ba5cb29bad1e5644a73bd3d69577739e9",
-    "previous_hash": "3406f502f802a978ea4c38667a35d471b4d274503120e2b9d1c6a17c825e9ba4",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "1c3e9386b1b43710e1708c7f3f98de825e1a15222650f7e894e10223ac2fd4fb",
+    "previous_hash": "3835de49933fe0a58fe458180ec6925ba5cb29bad1e5644a73bd3d69577739e9",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 415,
-      "comments": 225
+      "score": 469,
+      "comments": 272
     },
     {
       "id": 48140730,
       "title": "Amazonbot is finally respecting robots.txt",
       "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-      "score": 41,
-      "comments": 2
+      "score": 74,
+      "comments": 15
     },
     {
       "id": 48139219,
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 121,
-      "comments": 20
+      "score": 162,
+      "comments": 25
     },
     {
       "id": 48137145,
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
       "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 408,
-      "comments": 110
+      "score": 437,
+      "comments": 114
     },
     {
       "id": 48138268,
       "title": "New Nginx Exploit",
       "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 217,
-      "comments": 49
+      "score": 241,
+      "comments": 57
     }
   ]
 }
