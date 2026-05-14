@@ -12,19 +12,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-14 (last updated: 19:58 IST)
+
+## 📅 2026-05-14 (last updated: 21:59 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-13 11:00:49 IST | 3406f502f802 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-14 19:58:00 IST | 4f50992fe1c5 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-14 21:59:28 IST | 67365ad80a67 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** (TypeScript) — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and  
@@ -46,10 +47,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem) — Score: 105
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $80,131.0 🟢 +0.37%
-- Ethereum: $2,265.11 🔴 -0.15%
-- Solana: $91.47 🔴 -0.61%
-- Bnb: $677.86 🟢 +0.75%
+- Bitcoin: $81,521.0 🟢 +3.23%
+- Ethereum: $2,306.49 🟢 +2.61%
+- Solana: $93.19 🟢 +2.75%
+- Bnb: $681.94 🟢 +2.00%
 
 ---
 ## 📅 2026-05-13 (last updated: 23:46 IST)
