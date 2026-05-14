@@ -7,14 +7,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-14 (last updated: 05:45 IST)
+
+## 📅 2026-05-14 (last updated: 09:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-13 11:00:49 IST | 3406f502f802 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-14 05:45:05 IST | 830a9399f470 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-14 09:45:33 IST | dd71f7559c92 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem) — Score: 105
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $79,450.0 🔴 -1.23%
-- Ethereum: $2,263.51 🔴 -0.59%
-- Solana: $91.27 🔴 -3.08%
-- Bnb: $673.8 🟢 +1.25%
+- Bitcoin: $79,210.0 🔴 -2.38%
+- Ethereum: $2,248.26 🔴 -2.21%
+- Solana: $90.17 🔴 -5.63%
+- Bnb: $667.36 🔴 -1.41%
 
 ---
 ## 📅 2026-05-13 (last updated: 23:46 IST)
