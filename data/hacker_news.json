@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-13 05:30:49 UTC",
-    "fetched_at_ist": "2026-05-13 11:00:49 IST",
+    "fetched_at_utc": "2026-05-14 21:38:14 UTC",
+    "fetched_at_ist": "2026-05-15 03:08:14 IST",
     "item_count": 5,
-    "content_hash": "3406f502f802a978ea4c38667a35d471b4d274503120e2b9d1c6a17c825e9ba4",
-    "previous_hash": "dab5a832f586b17957b5244bf16f8d061e27ee1ee204e00804d6b41a82c5aef0",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "3835de49933fe0a58fe458180ec6925ba5cb29bad1e5644a73bd3d69577739e9",
+    "previous_hash": "3406f502f802a978ea4c38667a35d471b4d274503120e2b9d1c6a17c825e9ba4",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48117810,
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "url": "https://arxiv.org/abs/2605.08419",
-      "score": 38,
-      "comments": 0
+      "id": 48138136,
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "score": 415,
+      "comments": 225
     },
     {
-      "id": 48115127,
-      "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-      "score": 308,
-      "comments": 127
+      "id": 48140730,
+      "title": "Amazonbot is finally respecting robots.txt",
+      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
+      "score": 41,
+      "comments": 2
     },
     {
-      "id": 48111545,
-      "title": "Googlebook",
-      "url": "https://googlebook.google/",
-      "score": 691,
-      "comments": 1169
+      "id": 48139219,
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 121,
+      "comments": 20
     },
     {
-      "id": 48111896,
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "url": "https://github.com/cactus-compute/needle",
-      "score": 357,
-      "comments": 128
+      "id": 48137145,
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 408,
+      "comments": 110
     },
     {
-      "id": 48115823,
-      "title": "Kraftwerk's radical 1976 track",
-      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
-      "score": 105,
-      "comments": 41
+      "id": 48138268,
+      "title": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "score": 217,
+      "comments": 49
     }
   ]
 }
