@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-14 22:41:05 UTC",
-    "fetched_at_ist": "2026-05-15 04:11:05 IST",
+    "fetched_at_utc": "2026-05-14 23:38:47 UTC",
+    "fetched_at_ist": "2026-05-15 05:08:47 IST",
     "item_count": 5,
-    "content_hash": "1c3e9386b1b43710e1708c7f3f98de825e1a15222650f7e894e10223ac2fd4fb",
-    "previous_hash": "3835de49933fe0a58fe458180ec6925ba5cb29bad1e5644a73bd3d69577739e9",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "5057523643d39315c2a2aebbe535ec07a23665f54db155e459e8726617cc8719",
+    "previous_hash": "1c3e9386b1b43710e1708c7f3f98de825e1a15222650f7e894e10223ac2fd4fb",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 469,
-      "comments": 272
+      "score": 516,
+      "comments": 307
+    },
+    {
+      "id": 48142251,
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
+      "score": 37,
+      "comments": 4
     },
     {
       "id": 48140730,
       "title": "Amazonbot is finally respecting robots.txt",
       "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-      "score": 74,
-      "comments": 15
+      "score": 109,
+      "comments": 24
     },
     {
-      "id": 48139219,
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "score": 162,
-      "comments": 25
+      "id": 48142108,
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
+      "score": 48,
+      "comments": 10
     },
     {
-      "id": 48137145,
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "score": 437,
-      "comments": 114
-    },
-    {
-      "id": 48138268,
-      "title": "New Nginx Exploit",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "score": 241,
-      "comments": 57
+      "id": 48142193,
+      "title": "More than half of U.S. faces worst drought in decades",
+      "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
+      "score": 22,
+      "comments": 2
     }
   ]
 }
