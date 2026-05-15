@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-15 05:39:40 UTC",
-    "fetched_at_ist": "2026-05-15 11:09:40 IST",
+    "fetched_at_utc": "2026-05-15 21:33:56 UTC",
+    "fetched_at_ist": "2026-05-16 03:03:56 IST",
     "item_count": 5,
-    "content_hash": "cce6af987a845998a874b868b4012fe481b2aad6456a026845f4582b49eb4dd3",
-    "previous_hash": "2f68915cf17e4cbe77656469f83acb326392fbb267c36dbe5302fb997a1c9427",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "4590f968a6d8889bcd8a4db53ee26ad6fb6007937b004cef53405d4fcd3251b4",
+    "previous_hash": "cce6af987a845998a874b868b4012fe481b2aad6456a026845f4582b49eb4dd3",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48143880,
-      "title": "Mullvad exit IPs are surprisingly identifying",
-      "url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-      "score": 201,
-      "comments": 87
+      "id": 48150431,
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "score": 544,
+      "comments": 147
     },
     {
-      "id": 48144494,
-      "title": "How Claude Code works in large codebases",
-      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-      "score": 64,
-      "comments": 35
+      "id": 48152729,
+      "title": "WinCE64 – Windows CE 2.11 for N64",
+      "url": "https://github.com/ThroatyMumbo/WinCE64",
+      "score": 89,
+      "comments": 24
     },
     {
-      "id": 48138136,
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 740,
-      "comments": 406
+      "id": 48153379,
+      "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "score": 186,
+      "comments": 56
     },
     {
-      "id": 48144380,
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "score": 26,
-      "comments": 3
+      "id": 48152168,
+      "title": "The Zulip Foundation",
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "score": 90,
+      "comments": 29
     },
     {
-      "id": 48142108,
-      "title": "A few words on DS4",
-      "url": "https://antirez.com/news/165",
-      "score": 243,
-      "comments": 80
+      "id": 48148460,
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "score": 286,
+      "comments": 121
     }
   ]
 }

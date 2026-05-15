@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-16 (last updated: 01:47 IST)
+
+## 📅 2026-05-16 (last updated: 03:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-15 11:09:40 IST | cce6af987a84 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-16 03:03:56 IST | 4590f968a6d8 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-16 01:47:57 IST | da297f7e58ec | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/) — Score: 201
-- [How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) — Score: 64
-- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 740
-- [Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php) — Score: 26
-- [A few words on DS4](https://antirez.com/news/165) — Score: 243
+- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 544
+- [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64) — Score: 89
+- [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) — Score: 186
+- [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/) — Score: 90
+- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html) — Score: 286
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,107.0 🔴 -2.72%
