@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-15 22:37:49 UTC",
-    "fetched_at_ist": "2026-05-16 04:07:49 IST",
+    "fetched_at_utc": "2026-05-15 23:38:36 UTC",
+    "fetched_at_ist": "2026-05-16 05:08:36 IST",
     "item_count": 5,
-    "content_hash": "8597b522d06a52e3b08e3d71682617e16c4f879ba53761c5909bcad6a9b596c2",
-    "previous_hash": "4590f968a6d8889bcd8a4db53ee26ad6fb6007937b004cef53405d4fcd3251b4",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "11f4a08e536523d373edaa3bb2aca2d58c584e69fe4bb081a7779ecabafbf8e4",
+    "previous_hash": "8597b522d06a52e3b08e3d71682617e16c4f879ba53761c5909bcad6a9b596c2",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48150431,
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 607,
-      "comments": 159
+      "score": 657,
+      "comments": 161
     },
     {
       "id": 48152729,
       "title": "WinCE64 – Windows CE 2.11 for N64",
       "url": "https://github.com/ThroatyMumbo/WinCE64",
-      "score": 107,
-      "comments": 36
+      "score": 117,
+      "comments": 46
     },
     {
       "id": 48153379,
-      "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
+      "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 400,
-      "comments": 155
+      "score": 551,
+      "comments": 247
     },
     {
       "id": 48152168,
       "title": "The Zulip Foundation",
       "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 133,
-      "comments": 38
+      "score": 172,
+      "comments": 45
     },
     {
-      "id": 48148460,
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 303,
-      "comments": 131
+      "id": 48136000,
+      "title": "Naturally Occurring Quasicrystals",
+      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+      "score": 26,
+      "comments": 0
     }
   ]
 }
