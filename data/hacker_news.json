@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-14 23:38:47 UTC",
-    "fetched_at_ist": "2026-05-15 05:08:47 IST",
+    "fetched_at_utc": "2026-05-15 01:30:49 UTC",
+    "fetched_at_ist": "2026-05-15 07:00:49 IST",
     "item_count": 5,
-    "content_hash": "5057523643d39315c2a2aebbe535ec07a23665f54db155e459e8726617cc8719",
-    "previous_hash": "1c3e9386b1b43710e1708c7f3f98de825e1a15222650f7e894e10223ac2fd4fb",
+    "content_hash": "2f68915cf17e4cbe77656469f83acb326392fbb267c36dbe5302fb997a1c9427",
+    "previous_hash": "5057523643d39315c2a2aebbe535ec07a23665f54db155e459e8726617cc8719",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48138136,
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "score": 516,
-      "comments": 307
-    },
-    {
-      "id": 48142251,
-      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "score": 37,
-      "comments": 4
-    },
-    {
-      "id": 48140730,
-      "title": "Amazonbot is finally respecting robots.txt",
-      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-      "score": 109,
-      "comments": 24
+      "score": 601,
+      "comments": 358
     },
     {
       "id": 48142108,
       "title": "A few words on DS4",
       "url": "https://antirez.com/news/165",
-      "score": 48,
-      "comments": 10
+      "score": 127,
+      "comments": 39
     },
     {
-      "id": 48142193,
-      "title": "More than half of U.S. faces worst drought in decades",
-      "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
-      "score": 22,
-      "comments": 2
+      "id": 48139219,
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "score": 251,
+      "comments": 41
+    },
+    {
+      "id": 48140529,
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "score": 165,
+      "comments": 75
+    },
+    {
+      "id": 48137145,
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "score": 486,
+      "comments": 134
     }
   ]
 }

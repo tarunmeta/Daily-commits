@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-15 (last updated: 05:08 IST)
+
+## 📅 2026-05-15 (last updated: 07:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-15 05:08:47 IST | 5057523643d3 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-15 07:00:49 IST | 2f68915cf17e | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-05-14 23:48:25 IST | 6bbf4e4efc26 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 516
-- ['Millions' of pounds saved by replacing Palantir tech in refugee system](https://www.bbc.com/news/articles/c2l2j1lxdk5o) — Score: 37
-- [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/) — Score: 109
-- [A few words on DS4](https://antirez.com/news/165) — Score: 48
-- [More than half of U.S. faces worst drought in decades](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html) — Score: 22
+- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Score: 601
+- [A few words on DS4](https://antirez.com/news/165) — Score: 127
+- [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption) — Score: 251
+- [Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/) — Score: 165
+- [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) — Score: 486
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,772.0 🟢 +2.77%
