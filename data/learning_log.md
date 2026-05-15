@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-16 (last updated: 03:03 IST)
+
+## 📅 2026-05-16 (last updated: 04:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-16 03:03:56 IST | 4590f968a6d8 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-16 04:07:49 IST | 8597b522d06a | +0 new stories, top changed: no |
 | Crypto | 4 | 2026-05-16 01:47:57 IST | da297f7e58ec | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 544
-- [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64) — Score: 89
-- [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) — Score: 186
-- [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/) — Score: 90
-- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html) — Score: 286
+- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 607
+- [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64) — Score: 107
+- [Mitchellh – I strongly believe there are entire companies now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) — Score: 400
+- [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/) — Score: 133
+- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html) — Score: 303
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,107.0 🔴 -2.72%

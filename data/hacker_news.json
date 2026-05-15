@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-15 21:33:56 UTC",
-    "fetched_at_ist": "2026-05-16 03:03:56 IST",
+    "fetched_at_utc": "2026-05-15 22:37:49 UTC",
+    "fetched_at_ist": "2026-05-16 04:07:49 IST",
     "item_count": 5,
-    "content_hash": "4590f968a6d8889bcd8a4db53ee26ad6fb6007937b004cef53405d4fcd3251b4",
-    "previous_hash": "cce6af987a845998a874b868b4012fe481b2aad6456a026845f4582b49eb4dd3",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "8597b522d06a52e3b08e3d71682617e16c4f879ba53761c5909bcad6a9b596c2",
+    "previous_hash": "4590f968a6d8889bcd8a4db53ee26ad6fb6007937b004cef53405d4fcd3251b4",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48150431,
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 544,
-      "comments": 147
+      "score": 607,
+      "comments": 159
     },
     {
       "id": 48152729,
       "title": "WinCE64 – Windows CE 2.11 for N64",
       "url": "https://github.com/ThroatyMumbo/WinCE64",
-      "score": 89,
-      "comments": 24
+      "score": 107,
+      "comments": 36
     },
     {
       "id": 48153379,
       "title": "Mitchellh – I strongly believe there are entire companies now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 186,
-      "comments": 56
+      "score": 400,
+      "comments": 155
     },
     {
       "id": 48152168,
       "title": "The Zulip Foundation",
       "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 90,
-      "comments": 29
+      "score": 133,
+      "comments": 38
     },
     {
       "id": 48148460,
       "title": "A 0-click exploit chain for the Pixel 10",
       "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "score": 286,
-      "comments": 121
+      "score": 303,
+      "comments": 131
     }
   ]
 }
