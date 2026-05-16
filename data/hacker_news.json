@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-15 23:38:36 UTC",
-    "fetched_at_ist": "2026-05-16 05:08:36 IST",
+    "fetched_at_utc": "2026-05-16 10:37:40 UTC",
+    "fetched_at_ist": "2026-05-16 16:07:40 IST",
     "item_count": 5,
-    "content_hash": "11f4a08e536523d373edaa3bb2aca2d58c584e69fe4bb081a7779ecabafbf8e4",
-    "previous_hash": "8597b522d06a52e3b08e3d71682617e16c4f879ba53761c5909bcad6a9b596c2",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "71dfde47cc5a0ccc98f04a7864f5182cc0de349d4a68e7ac4d09adf1185ec9b1",
+    "previous_hash": "11f4a08e536523d373edaa3bb2aca2d58c584e69fe4bb081a7779ecabafbf8e4",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48158506,
+      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "score": 24,
+      "comments": 2
+    },
+    {
+      "id": 48158606,
+      "title": "Futhark by Example",
+      "url": "https://futhark-lang.org/examples.html",
+      "score": 7,
+      "comments": 0
+    },
     {
       "id": 48150431,
       "title": "Project Gutenberg – keeps getting better",
       "url": "https://www.gutenberg.org/",
-      "score": 657,
-      "comments": 161
+      "score": 954,
+      "comments": 200
     },
     {
-      "id": 48152729,
-      "title": "WinCE64 – Windows CE 2.11 for N64",
-      "url": "https://github.com/ThroatyMumbo/WinCE64",
-      "score": 117,
-      "comments": 46
+      "id": 48157559,
+      "title": "Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "score": 143,
+      "comments": 129
     },
     {
       "id": 48153379,
       "title": "I believe there are entire companies right now under AI psychosis",
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-      "score": 551,
-      "comments": 247
-    },
-    {
-      "id": 48152168,
-      "title": "The Zulip Foundation",
-      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-      "score": 172,
-      "comments": 45
-    },
-    {
-      "id": 48136000,
-      "title": "Naturally Occurring Quasicrystals",
-      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-      "score": 26,
-      "comments": 0
+      "score": 1395,
+      "comments": 683
     }
   ]
 }

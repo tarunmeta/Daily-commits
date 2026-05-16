@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-16 (last updated: 06:54 IST)
+
+## 📅 2026-05-16 (last updated: 16:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-16 05:08:36 IST | 11f4a08e5365 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-16 16:07:40 IST | 71dfde47cc5a | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-16 06:54:25 IST | 22773ba65cb0 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 657
-- [WinCE64 – Windows CE 2.11 for N64](https://github.com/ThroatyMumbo/WinCE64) — Score: 117
-- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) — Score: 551
-- [The Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/) — Score: 172
-- [Naturally Occurring Quasicrystals](https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/) — Score: 26
+- [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) — Score: 24
+- [Futhark by Example](https://futhark-lang.org/examples.html) — Score: 7
+- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 954
+- [Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead) — Score: 143
+- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578) — Score: 1395
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,108.0 🔴 -2.87%
