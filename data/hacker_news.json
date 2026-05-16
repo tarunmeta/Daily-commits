@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-16 12:44:51 UTC",
-    "fetched_at_ist": "2026-05-16 18:14:51 IST",
+    "fetched_at_utc": "2026-05-16 17:31:49 UTC",
+    "fetched_at_ist": "2026-05-16 23:01:49 IST",
     "item_count": 5,
-    "content_hash": "b85cdece9e68c19afedf62812a100a3ad47b128814161a3aae41934064732c10",
-    "previous_hash": "81cad30ab0d8e2e896e524e440ff67404c8bc7e7b0c54b73165fc88837e41243",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "0cf0c72aff2abb869da5986fd2c558a182027fbfeabaccf86f5b7f715d19171b",
+    "previous_hash": "b85cdece9e68c19afedf62812a100a3ad47b128814161a3aae41934064732c10",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48161861,
+      "title": "You don't know HTML Lists",
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "score": 50,
+      "comments": 4
+    },
+    {
+      "id": 48160914,
+      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
+      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "score": 61,
+      "comments": 19
+    },
+    {
+      "id": 48159445,
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "score": 188,
+      "comments": 80
+    },
+    {
+      "id": 48158400,
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 226,
+      "comments": 137
+    },
     {
       "id": 48158506,
       "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
       "url": "https://arxiv.org/abs/2605.12357",
-      "score": 79,
-      "comments": 14
-    },
-    {
-      "id": 48159241,
-      "title": "Accelerando (2005)",
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "score": 34,
-      "comments": 8
-    },
-    {
-      "id": 48158606,
-      "title": "Futhark by Example",
-      "url": "https://futhark-lang.org/examples.html",
-      "score": 47,
-      "comments": 10
-    },
-    {
-      "id": 48158494,
-      "title": "Fecal transplants for autism deliver success in clinical trials",
-      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-      "score": 46,
-      "comments": 25
-    },
-    {
-      "id": 48150431,
-      "title": "Project Gutenberg – keeps getting better",
-      "url": "https://www.gutenberg.org/",
-      "score": 999,
-      "comments": 206
+      "score": 148,
+      "comments": 35
     }
   ]
 }

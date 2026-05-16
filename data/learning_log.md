@@ -18,18 +18,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-16 (last updated: 21:58 IST)
+
+## 📅 2026-05-16 (last updated: 23:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-16 18:14:51 IST | b85cdece9e68 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-16 23:01:49 IST | 0cf0c72aff2a | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-16 21:58:03 IST | 687c00530125 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) — Score: 79
-- [Accelerando (2005)](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html) — Score: 34
-- [Futhark by Example](https://futhark-lang.org/examples.html) — Score: 47
-- [Fecal transplants for autism deliver success in clinical trials](https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/) — Score: 46
-- [Project Gutenberg – keeps getting better](https://www.gutenberg.org/) — Score: 999
+- [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) — Score: 50
+- [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2) — Score: 61
+- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) — Score: 188
+- [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) — Score: 226
+- [Δ-Mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) — Score: 148
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,272.0 🔴 -1.17%
