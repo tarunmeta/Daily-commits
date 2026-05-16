@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-16 17:31:49 UTC",
-    "fetched_at_ist": "2026-05-16 23:01:49 IST",
+    "fetched_at_utc": "2026-05-16 18:40:46 UTC",
+    "fetched_at_ist": "2026-05-17 00:10:46 IST",
     "item_count": 5,
-    "content_hash": "0cf0c72aff2abb869da5986fd2c558a182027fbfeabaccf86f5b7f715d19171b",
-    "previous_hash": "b85cdece9e68c19afedf62812a100a3ad47b128814161a3aae41934064732c10",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "199616bc0f235859d77cc04e0c4e6bc672cc4e340dfdfe09ff303e183b3cbc13",
+    "previous_hash": "0cf0c72aff2abb869da5986fd2c558a182027fbfeabaccf86f5b7f715d19171b",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48161861,
       "title": "You don't know HTML Lists",
       "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-      "score": 50,
-      "comments": 4
-    },
-    {
-      "id": 48160914,
-      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
-      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
-      "score": 61,
-      "comments": 19
+      "score": 153,
+      "comments": 23
     },
     {
       "id": 48159445,
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
       "url": "https://nvlabs.github.io/Sana/WM/",
-      "score": 188,
-      "comments": 80
+      "score": 219,
+      "comments": 92
     },
     {
-      "id": 48158400,
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-      "score": 226,
-      "comments": 137
+      "id": 48160914,
+      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
+      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "score": 77,
+      "comments": 24
     },
     {
-      "id": 48158506,
-      "title": "Δ-Mem: Efficient Online Memory for Large Language Models",
-      "url": "https://arxiv.org/abs/2605.12357",
-      "score": 148,
-      "comments": 35
+      "id": 48161997,
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "score": 14,
+      "comments": 7
+    },
+    {
+      "id": 48120162,
+      "title": "Windows 9x Subsystem for Linux",
+      "url": "https://codeberg.org/hails/wsl9x",
+      "score": 58,
+      "comments": 25
     }
   ]
 }
