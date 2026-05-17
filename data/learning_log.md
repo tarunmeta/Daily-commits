@@ -12,14 +12,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-17 (last updated: 12:06 IST)
+
+## 📅 2026-05-17 (last updated: 15:53 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-17 12:06:53 IST | b8fdd0a379d8 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-16 21:58:03 IST | 687c00530125 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-17 15:53:10 IST | 90fbc226cca0 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
@@ -46,10 +47,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: Codiff, a local diff review tool](https://github.com/nkzw-tech/codiff/releases) — Score: 6
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,272.0 🔴 -1.17%
-- Ethereum: $2,176.6 🔴 -2.17%
-- Solana: $86.6 🔴 -3.15%
-- Bnb: $655.98 🔴 -2.67%
+- Bitcoin: $78,399.0 🟢 +0.74%
+- Ethereum: $2,193.26 🟢 +1.13%
+- Solana: $87.09 🟢 +1.58%
+- Bnb: $654.68 🟢 +0.35%
 
 ---
 ## 📅 2026-05-16 (last updated: 23:01 IST)
