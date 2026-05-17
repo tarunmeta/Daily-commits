@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 06:36:53 UTC",
-    "fetched_at_ist": "2026-05-17 12:06:53 IST",
+    "fetched_at_utc": "2026-05-17 11:38:07 UTC",
+    "fetched_at_ist": "2026-05-17 17:08:07 IST",
     "item_count": 5,
-    "content_hash": "b8fdd0a379d8593873b4a8c285ea93136c9fc8344822f3c785018a398b900b18",
-    "previous_hash": "c7755dcc5fad4c4bff1589e6eb884f432e4cafdcb8ba51906bfc4b2b6c25f72d",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "5906fd0d20ee8894cf5f80d528d8fa083b72c9cc6fba9f6886f7dd25ceaa7ede",
+    "previous_hash": "b8fdd0a379d8593873b4a8c285ea93136c9fc8344822f3c785018a398b900b18",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48164287,
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 304,
-      "comments": 114
+      "score": 428,
+      "comments": 196
     },
     {
-      "id": 48165295,
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "score": 93,
-      "comments": 5
-    },
-    {
-      "id": 48142115,
-      "title": "Colossus: The Forbin Project",
-      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-      "score": 66,
-      "comments": 7
+      "id": 48166459,
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "score": 278,
+      "comments": 87
     },
     {
       "id": 48164432,
       "title": "A nicer voltmeter clock",
       "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 131,
-      "comments": 20
+      "score": 209,
+      "comments": 27
     },
     {
-      "id": 48166275,
-      "title": "Show HN: Codiff, a local diff review tool",
-      "url": "https://github.com/nkzw-tech/codiff/releases",
-      "score": 6,
-      "comments": 2
+      "id": 48165295,
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "score": 149,
+      "comments": 13
+    },
+    {
+      "id": 48142115,
+      "title": "Colossus: The Forbin Project",
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "score": 116,
+      "comments": 38
     }
   ]
 }
