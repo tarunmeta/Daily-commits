@@ -16,19 +16,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-17 (last updated: 18:09 IST)
+
+## 📅 2026-05-17 (last updated: 20:48 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-17 18:09:36 IST | b16438833581 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-17 15:53:10 IST | 90fbc226cca0 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-17 20:48:03 IST | 1ceb8176f6cd | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** (TypeScript) — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and  
@@ -50,10 +51,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Mozilla to UK regulators: VPNs are essential privacy and security tools](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/) — Score: 329
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $78,399.0 🟢 +0.74%
-- Ethereum: $2,193.26 🟢 +1.13%
-- Solana: $87.09 🟢 +1.58%
-- Bnb: $654.68 🟢 +0.35%
+- Bitcoin: $77,988.0 🔴 -0.13%
+- Ethereum: $2,183.82 🟢 +0.27%
+- Solana: $86.31 🔴 -0.05%
+- Bnb: $651.57 🔴 -0.25%
 
 ---
 ## 📅 2026-05-16 (last updated: 23:01 IST)
