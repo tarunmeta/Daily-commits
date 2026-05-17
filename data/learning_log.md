@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-17 (last updated: 00:10 IST)
+
+## 📅 2026-05-17 (last updated: 09:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-17 00:10:46 IST | 199616bc0f23 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-17 09:07:05 IST | c7755dcc5fad | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-16 21:58:03 IST | 687c00530125 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [You don't know HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/) — Score: 153
-- [SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) — Score: 219
-- [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2) — Score: 77
-- [Kioxia and Dell cram 10 PB into slim 2RU server](https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574) — Score: 14
-- [Windows 9x Subsystem for Linux](https://codeberg.org/hails/wsl9x) — Score: 58
+- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) — Score: 208
+- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) — Score: 42
+- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) — Score: 85
+- [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/) — Score: 25
+- [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/) — Score: 102
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,272.0 🔴 -1.17%
