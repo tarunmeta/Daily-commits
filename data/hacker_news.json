@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 11:38:07 UTC",
-    "fetched_at_ist": "2026-05-17 17:08:07 IST",
+    "fetched_at_utc": "2026-05-17 12:39:36 UTC",
+    "fetched_at_ist": "2026-05-17 18:09:36 IST",
     "item_count": 5,
-    "content_hash": "5906fd0d20ee8894cf5f80d528d8fa083b72c9cc6fba9f6886f7dd25ceaa7ede",
-    "previous_hash": "b8fdd0a379d8593873b4a8c285ea93136c9fc8344822f3c785018a398b900b18",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "b16438833581b5c743d5aa263ff9a9b9f0ad5cd7d29680ca05d14dc0e3cafd7f",
+    "previous_hash": "5906fd0d20ee8894cf5f80d528d8fa083b72c9cc6fba9f6886f7dd25ceaa7ede",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48168058,
+      "title": "Native all the way, until you need text",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "score": 30,
+      "comments": 8
+    },
+    {
+      "id": 48168221,
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "score": 12,
+      "comments": 1
+    },
+    {
+      "id": 48168198,
+      "title": "Apple Silicon costs more than OpenRouter",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "score": 25,
+      "comments": 4
+    },
     {
       "id": 48164287,
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
       "url": "https://crates.io/crates/zerostack/1.0.0",
-      "score": 428,
-      "comments": 196
+      "score": 449,
+      "comments": 223
     },
     {
       "id": 48166459,
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
       "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "score": 278,
-      "comments": 87
-    },
-    {
-      "id": 48164432,
-      "title": "A nicer voltmeter clock",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "score": 209,
-      "comments": 27
-    },
-    {
-      "id": 48165295,
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "score": 149,
-      "comments": 13
-    },
-    {
-      "id": 48142115,
-      "title": "Colossus: The Forbin Project",
-      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
-      "score": 116,
-      "comments": 38
+      "score": 329,
+      "comments": 131
     }
   ]
 }
