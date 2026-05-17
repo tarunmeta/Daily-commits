@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-17 17:41:54 UTC",
-    "fetched_at_ist": "2026-05-17 23:11:54 IST",
+    "fetched_at_utc": "2026-05-17 18:44:46 UTC",
+    "fetched_at_ist": "2026-05-18 00:14:46 IST",
     "item_count": 5,
-    "content_hash": "242e350c82c33f0b924ab00b296d7044a05b0632d724818f84a35ca91d159d69",
-    "previous_hash": "cd0be664668301ae22b82373e4b3798c6be33850cb9db9095fc287a0523b1ef3",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "23b86b3870c22423ba662b3b717c29d7ea66f8c8b1806d4f3a3b3b449688428e",
+    "previous_hash": "242e350c82c33f0b924ab00b296d7044a05b0632d724818f84a35ca91d159d69",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48170798,
       "title": "Americans Are Smashing Flock Cameras",
       "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-      "score": 87,
-      "comments": 45
+      "score": 279,
+      "comments": 224
+    },
+    {
+      "id": 48171826,
+      "title": "The AI water issue is fake",
+      "url": "https://blog.andymasley.com/p/the-ai-water-issue-is-fake",
+      "score": 37,
+      "comments": 15
+    },
+    {
+      "id": 48170799,
+      "title": "The occasional ECONNRESET",
+      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+      "score": 32,
+      "comments": 3
+    },
+    {
+      "id": 48147351,
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "score": 28,
+      "comments": 3
     },
     {
       "id": 48168668,
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
       "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 109,
-      "comments": 59
-    },
-    {
-      "id": 48168221,
-      "title": "I don't think AI will make your processes go faster",
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "score": 318,
-      "comments": 254
-    },
-    {
-      "id": 48168856,
-      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-      "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
-      "score": 350,
-      "comments": 147
-    },
-    {
-      "id": 48168058,
-      "title": "Native all the way, until you need text",
-      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "score": 275,
-      "comments": 189
+      "score": 130,
+      "comments": 77
     }
   ]
 }
