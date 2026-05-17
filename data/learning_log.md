@@ -18,18 +18,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-17 (last updated: 22:00 IST)
+
+## 📅 2026-05-17 (last updated: 23:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-17 22:00:13 IST | cd0be6646683 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-17 23:11:54 IST | 242e350c82c3 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-17 20:48:03 IST | 1ceb8176f6cd | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -45,11 +46,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) — Score: 266
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 68
-- [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) — Score: 238
-- [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) — Score: 246
-- [Every AI Subscription Is a Ticking Time Bomb for Enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb) — Score: 214
+- [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/) — Score: 87
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 109
+- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) — Score: 318
+- [Security researcher says Microsoft built a Bitlocker backdoor, releases exploit](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html) — Score: 350
+- [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/) — Score: 275
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,988.0 🔴 -0.13%
