@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-17 (last updated: 09:07 IST)
+
+## 📅 2026-05-17 (last updated: 12:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-17 09:07:05 IST | c7755dcc5fad | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-17 12:06:53 IST | b8fdd0a379d8 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-16 21:58:03 IST | 687c00530125 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 635 stars today
 
 ### 📰 Hacker News Stories
-- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) — Score: 208
-- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) — Score: 42
-- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) — Score: 85
-- [Unknowable Math Can Help Hide Secrets](https://www.quantamagazine.org/how-unknowable-math-can-help-hide-secrets-20260511/) — Score: 25
-- [OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/) — Score: 102
+- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0) — Score: 304
+- [Hosting a website on an 8-bit microcontroller](https://maurycyz.com/projects/mcusite/) — Score: 93
+- [Colossus: The Forbin Project](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project) — Score: 66
+- [A nicer voltmeter clock](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock) — Score: 131
+- [Show HN: Codiff, a local diff review tool](https://github.com/nkzw-tech/codiff/releases) — Score: 6
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,272.0 🔴 -1.17%
