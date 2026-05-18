@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-17 18:44:46 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-18 00:02:33 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **bytedance/UI-TARS-desktop**
-- BTC: **$77,988.0** ↓ (-0.13%)
-- HN top story: **Americans Are Smashing Flock Cameras**
+- Top GitHub repo: **tinyhumansai/openhuman**
+- BTC: **$77,407.0** ↓ (-0.99%)
+- HN top story: **GenCAD**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-11 12:11:39 UTC | `281f35151e38` | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-17 18:44:46 UTC | `23b86b3870c2` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-05-17 15:18:03 UTC | `1ceb8176f6cd` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 18 | 2026-05-18 00:02:32 UTC | `f4a8381aac7a` | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-18 00:02:33 UTC | `ee2dc94fb079` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-18 00:02:32 UTC | `57dd58cf7c43` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-18` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `57` day(s) |
-| Last Commit (IST) | `2026-05-18 03:26:53 IST` |
+| Last Commit (IST) | `2026-05-18 04:27:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-15 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-16 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-17 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-05-18 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-05-18 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,988.0 | -0.13% | 🔴 |
-| Ethereum | $2,183.82 | +0.27% | 🟢 |
-| Solana | $86.31 | -0.05% | 🔴 |
-| Bnb | $651.57 | -0.25% | 🔴 |
+| Bitcoin | $77,407.0 | -0.99% | 🔴 |
+| Ethereum | $2,128.26 | -2.49% | 🔴 |
+| Solana | $85.1 | -1.65% | 🔴 |
+| Bnb | $648.98 | -1.15% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | 669 stars today | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and… |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 496 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 397 stars today | Let's use AI to Earn! |
-| [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | 579 stars today | 3D Gaussian Splat Editor |
-| [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | 635 stars today | 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste… |
-| [decolua/9router](https://github.com/decolua/9router) | JavaScript | 803 stars today | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An… |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 154 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | 312 stars today | Your agent writes bad React. This catches it |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 1,690 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 238 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [calcom/cal.diy](https://github.com/calcom/cal.diy) | TypeScript | 433 stars today | Scheduling infrastructure for absolutely everyone. |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 910 stars today | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – … |
+| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 703 stars today | Open-source alternative to AI video platforms — Free AI image & video generation… |
+| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | 333 stars today | Open-source intelligence for the global theater. Track everything from the corpo… |
+| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 225 stars today | The secure, validated skill registry for professional AI coding agents. Extend A… |
+| [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | Jupyter Notebook | 172 stars today | End-to-end, code-first tutorials for building production-grade GenAI agents. Fro… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/) | 279 | 224 |
-| [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake) | 37 | 15 |
-| [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html) | 32 | 3 |
-| [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/) | 28 | 3 |
-| [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) | 130 | 77 |
+| [GenCAD](https://gencad.github.io/) | 36 | 6 |
+| [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) | 45 | 13 |
+| [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/) | 24 | 6 |
+| [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/) | 14 | 1 |
+| [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) | 223 | 114 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

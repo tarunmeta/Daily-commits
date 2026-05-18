@@ -8,44 +8,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-18 (last updated: 00:14 IST)
+
+## 📅 2026-05-18 (last updated: 05:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-05-11 17:41:39 IST | 281f35151e38 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-18 00:14:46 IST | 23b86b3870c2 | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-05-17 20:48:03 IST | 1ceb8176f6cd | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 18 | 2026-05-18 05:32:32 IST | f4a8381aac7a | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-18 05:32:33 IST | ee2dc94fb079 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-18 05:32:32 IST | 57dd58cf7c43 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** (TypeScript) — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and  
-  ⭐ 669 stars today
-- **[CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** (Python) — Stealth Chromium that passes every bot detection test. Drop-in Playwright replac  
-  ⭐ 496 stars today
-- **[yikart/AiToEarn](https://github.com/yikart/AiToEarn)** (TypeScript) — Let's use AI to Earn!  
-  ⭐ 397 stars today
-- **[playcanvas/supersplat](https://github.com/playcanvas/supersplat)** (TypeScript) — 3D Gaussian Splat Editor  
-  ⭐ 579 stars today
-- **[datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)** (JavaScript) — 💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste  
-  ⭐ 635 stars today
+- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
+  ⭐ 1,690 stars today
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** (Python) — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything  
+  ⭐ 238 stars today
+- **[calcom/cal.diy](https://github.com/calcom/cal.diy)** (TypeScript) — Scheduling infrastructure for absolutely everyone.  
+  ⭐ 433 stars today
+- **[oven-sh/bun](https://github.com/oven-sh/bun)** (Rust) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager –   
+  ⭐ 910 stars today
+- **[Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)** (JavaScript) — Open-source alternative to AI video platforms — Free AI image & video generation  
+  ⭐ 703 stars today
 
 ### 📰 Hacker News Stories
-- [Americans Are Smashing Flock Cameras](https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/) — Score: 279
-- [The AI water issue is fake](https://blog.andymasley.com/p/the-ai-water-issue-is-fake) — Score: 37
-- [The occasional ECONNRESET](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html) — Score: 32
-- [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/) — Score: 28
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 130
+- [GenCAD](https://gencad.github.io/) — Score: 36
+- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) — Score: 45
+- [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/) — Score: 24
+- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/) — Score: 14
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 223
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,988.0 🔴 -0.13%
-- Ethereum: $2,183.82 🟢 +0.27%
-- Solana: $86.31 🔴 -0.05%
-- Bnb: $651.57 🔴 -0.25%
+- Bitcoin: $77,407.0 🔴 -0.99%
+- Ethereum: $2,128.26 🔴 -2.49%
+- Solana: $85.1 🔴 -1.65%
+- Bnb: $648.98 🔴 -1.15%
 
 ---
 ## 📅 2026-05-17 (last updated: 23:11 IST)

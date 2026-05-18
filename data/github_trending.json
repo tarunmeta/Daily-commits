@@ -2,92 +2,122 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-11 12:11:39 UTC",
-    "fetched_at_ist": "2026-05-11 17:41:39 IST",
-    "item_count": 13,
-    "content_hash": "281f35151e38c300d44597f3f79fb1b6a1e7d8cb5852c59bc822fc63718dddc5",
-    "previous_hash": "a482003104be5b504bc4cf81fd665a7127c87c4fff0c7d95a04d30d911203ea5",
-    "new_repos_vs_previous": 8,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-05-18 00:02:32 UTC",
+    "fetched_at_ist": "2026-05-18 05:32:32 IST",
+    "item_count": 18,
+    "content_hash": "f4a8381aac7a19f78467a33efd187586c51f34c09b1cf33d5d5d9a1b3b105a2a",
+    "previous_hash": "281f35151e38c300d44597f3f79fb1b6a1e7d8cb5852c59bc822fc63718dddc5",
+    "new_repos_vs_previous": 17,
+    "top_repo_changed": true
   },
   "repos": [
-    {
-      "name": "bytedance/UI-TARS-desktop",
-      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-      "language": "TypeScript",
-      "stars_today": "669 stars today"
-    },
-    {
-      "name": "CloakHQ/CloakBrowser",
-      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-      "language": "Python",
-      "stars_today": "496 stars today"
-    },
-    {
-      "name": "yikart/AiToEarn",
-      "description": "Let's use AI to Earn!",
-      "language": "TypeScript",
-      "stars_today": "397 stars today"
-    },
-    {
-      "name": "playcanvas/supersplat",
-      "description": "3D Gaussian Splat Editor",
-      "language": "TypeScript",
-      "stars_today": "579 stars today"
-    },
-    {
-      "name": "datawhalechina/easy-vibe",
-      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
-      "language": "JavaScript",
-      "stars_today": "635 stars today"
-    },
-    {
-      "name": "decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "language": "JavaScript",
-      "stars_today": "803 stars today"
-    },
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "154 stars today"
+      "stars_today": "1,690 stars today"
     },
     {
-      "name": "millionco/react-doctor",
-      "description": "Your agent writes bad React. This catches it",
-      "language": "TypeScript",
-      "stars_today": "312 stars today"
-    },
-    {
-      "name": "Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "language": "Jupyter Notebook",
-      "stars_today": "373 stars today"
-    },
-    {
-      "name": "AUTOMATIC1111/stable-diffusion-webui",
-      "description": "Stable Diffusion web UI",
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars_today": "29 stars today"
+      "stars_today": "238 stars today"
     },
     {
-      "name": "rasbt/LLMs-from-scratch",
-      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "language": "Jupyter Notebook",
-      "stars_today": "141 stars today"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "1,496 stars today"
-    },
-    {
-      "name": "rohitg00/agentmemory",
-      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "name": "calcom/cal.diy",
+      "description": "Scheduling infrastructure for absolutely everyone.",
       "language": "TypeScript",
-      "stars_today": "655 stars today"
+      "stars_today": "433 stars today"
+    },
+    {
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars_today": "910 stars today"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "stars_today": "703 stars today"
+    },
+    {
+      "name": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "stars_today": "333 stars today"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars_today": "225 stars today"
+    },
+    {
+      "name": "NirDiamant/agents-towards-production",
+      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
+      "language": "Jupyter Notebook",
+      "stars_today": "172 stars today"
+    },
+    {
+      "name": "dograh-hq/dograh",
+      "description": "Open Source Voice Agent Platform",
+      "language": "Python",
+      "stars_today": "223 stars today"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars_today": "762 stars today"
+    },
+    {
+      "name": "Light-Heart-Labs/DreamServer",
+      "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
+      "language": "Python",
+      "stars_today": "112 stars today"
+    },
+    {
+      "name": "KeygraphHQ/shannon",
+      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "language": "TypeScript",
+      "stars_today": "200 stars today"
+    },
+    {
+      "name": "TryGhost/Ghost",
+      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+      "language": "JavaScript",
+      "stars_today": "231 stars today"
+    },
+    {
+      "name": "medusajs/medusa",
+      "description": "The world's most flexible commerce platform.",
+      "language": "TypeScript",
+      "stars_today": "211 stars today"
+    },
+    {
+      "name": "knadh/listmonk",
+      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+      "language": "Go",
+      "stars_today": "242 stars today"
+    },
+    {
+      "name": "plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "stars_today": "186 stars today"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars_today": "857 stars today"
+    },
+    {
+      "name": "microsoft/ai-agents-for-beginners",
+      "description": "12 Lessons to Get Started Building AI Agents",
+      "language": "Jupyter Notebook",
+      "stars_today": "485 stars today"
     }
   ]
 }
