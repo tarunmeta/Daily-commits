@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-18 (last updated: 05:32 IST)
+
+## 📅 2026-05-18 (last updated: 10:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-05-18 05:32:32 IST | f4a8381aac7a | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-18 05:32:33 IST | ee2dc94fb079 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-18 10:11:58 IST | 43e566c84f4c | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-18 05:32:32 IST | 57dd58cf7c43 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 703 stars today
 
 ### 📰 Hacker News Stories
-- [GenCAD](https://gencad.github.io/) — Score: 36
-- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) — Score: 45
-- [ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations](https://www.jdhodges.com/blog/thinkpad-history/) — Score: 24
-- [Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP](https://xca-attacks.github.io/fabricked/) — Score: 14
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 223
+- [GenCAD](https://gencad.github.io/) — Score: 179
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 285
+- [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/) — Score: 71
+- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) — Score: 75
+- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base) — Score: 143
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,407.0 🔴 -0.99%
