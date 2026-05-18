@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-18 12:14:25 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-18 18:06:04 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **tinyhumansai/openhuman**
-- BTC: **$77,389.0** ↓ (-1.30%)
-- HN top story: **I automated opt-outs for 500 data broker sites (open source)**
+- BTC: **$76,516.0** ↓ (-2.07%)
+- HN top story: **Anthropic Acquires Stainless**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-18 12:14:24 UTC | `38c98eb04081` | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-18 12:14:25 UTC | `783a08f646a2` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-18 12:14:24 UTC | `139d19cef570` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-05-18 18:06:03 UTC | `88aff51ee62d` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-18 18:06:04 UTC | `a7e0eb8796bd` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-18 18:06:03 UTC | `075023987aa5` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-18` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `57` day(s) |
-| Last Commit (IST) | `2026-05-18 17:44:25 IST` |
+| Last Commit (IST) | `2026-05-18 21:27:51 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-05-15 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-16 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-17 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-05-18 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-05-18 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,389.0 | -1.30% | 🔴 |
-| Ethereum | $2,142.23 | -2.29% | 🔴 |
-| Solana | $85.23 | -1.89% | 🔴 |
-| Bnb | $643.02 | -1.83% | 🔴 |
+| Bitcoin | $76,516.0 | -2.07% | 🔴 |
+| Ethereum | $2,103.03 | -3.71% | 🔴 |
+| Solana | $84.15 | -2.49% | 🔴 |
+| Bnb | $639.3 | -1.96% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
@@ -67,20 +67,20 @@
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 1,302 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 1,047 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 610 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 827 stars today | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 179 stars today | LLM inference in C/C++ |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 963 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 755 stars today | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 283 stars today | LLM inference in C/C++ |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 704 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 1,391 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [I automated opt-outs for 500 data broker sites (open source)](https://github.com/stephenlthorn/auto-identity-remove) | 31 | 5 |
-| [The foundations of a provably secure operating system (PSOS) (1979) [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf) | 51 | 25 |
-| [GenCAD](https://gencad.github.io/) | 356 | 91 |
-| [Dogme 25 – Vow of Chastity](https://dogma25.dk/) | 13 | 8 |
-| [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/) | 134 | 326 |
+| [Anthropic Acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | 95 | 56 |
+| [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai) | 235 | 102 |
+| [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md) | 339 | 186 |
+| [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) | 248 | 121 |
+| [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) | 106 | 32 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

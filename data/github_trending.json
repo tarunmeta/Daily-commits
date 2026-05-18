@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-18 12:14:24 UTC",
-    "fetched_at_ist": "2026-05-18 17:44:24 IST",
+    "fetched_at_utc": "2026-05-18 18:06:03 UTC",
+    "fetched_at_ist": "2026-05-18 23:36:03 IST",
     "item_count": 15,
-    "content_hash": "38c98eb040818eeb2aa34b531c3a83e60c175175029af0457bb69bb314e604fa",
-    "previous_hash": "f4a8381aac7a19f78467a33efd187586c51f34c09b1cf33d5d5d9a1b3b105a2a",
-    "new_repos_vs_previous": 8,
+    "content_hash": "88aff51ee62d68bbc7d7ef73fb3a6bfe431a11e0d457243938cdbfbe81dbfdb2",
+    "previous_hash": "38c98eb040818eeb2aa34b531c3a83e60c175175029af0457bb69bb314e604fa",
+    "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
   "repos": [
@@ -39,19 +39,19 @@
       "name": "supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars_today": "827 stars today"
+      "stars_today": "755 stars today"
     },
     {
       "name": "ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars_today": "179 stars today"
+      "stars_today": "283 stars today"
     },
     {
       "name": "ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "963 stars today"
+      "stars_today": "704 stars today"
     },
     {
       "name": "CloakHQ/CloakBrowser",
@@ -81,7 +81,7 @@
       "name": "NVlabs/Sana",
       "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
       "language": "Python",
-      "stars_today": "472 stars today"
+      "stars_today": "376 stars today"
     },
     {
       "name": "microsoft/ai-agents-for-beginners",

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-18 12:14:25 UTC",
-    "fetched_at_ist": "2026-05-18 17:44:25 IST",
+    "fetched_at_utc": "2026-05-18 18:06:04 UTC",
+    "fetched_at_ist": "2026-05-18 23:36:04 IST",
     "item_count": 5,
-    "content_hash": "783a08f646a207208ba86bf357c65dd3ae1fa4c42e0d5cc371dcc2012cf8c6b0",
-    "previous_hash": "3d9b1c93761a6b2000f12c0784b5b56e2ec174f836159d0a4b5bb3416d80df2b",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "a7e0eb8796bd55fb3e40657ab7f65cc4a735b3c324c8d5a52dd331bbc5cbcd7f",
+    "previous_hash": "783a08f646a207208ba86bf357c65dd3ae1fa4c42e0d5cc371dcc2012cf8c6b0",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48178184,
-      "title": "I automated opt-outs for 500 data broker sites (open source)",
-      "url": "https://github.com/stephenlthorn/auto-identity-remove",
-      "score": 31,
-      "comments": 5
+      "id": 48182281,
+      "title": "Anthropic Acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "score": 95,
+      "comments": 56
     },
     {
-      "id": 48177300,
-      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
-      "score": 51,
-      "comments": 25
+      "id": 48181125,
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "score": 235,
+      "comments": 102
     },
     {
-      "id": 48173429,
-      "title": "GenCAD",
-      "url": "https://gencad.github.io/",
-      "score": 356,
-      "comments": 91
+      "id": 48179677,
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "score": 339,
+      "comments": 186
     },
     {
-      "id": 48177452,
-      "title": "Dogme 25 – Vow of Chastity",
-      "url": "https://dogma25.dk/",
-      "score": 13,
-      "comments": 8
+      "id": 48163389,
+      "title": "The Quiet Renovation at Bitwarden",
+      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+      "score": 248,
+      "comments": 121
     },
     {
-      "id": 48175140,
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "score": 134,
-      "comments": 326
+      "id": 48182754,
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "score": 106,
+      "comments": 32
     }
   ]
 }
