@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-18 18:06:04 UTC",
-    "fetched_at_ist": "2026-05-18 23:36:04 IST",
+    "fetched_at_utc": "2026-05-18 21:37:39 UTC",
+    "fetched_at_ist": "2026-05-19 03:07:39 IST",
     "item_count": 5,
-    "content_hash": "a7e0eb8796bd55fb3e40657ab7f65cc4a735b3c324c8d5a52dd331bbc5cbcd7f",
-    "previous_hash": "783a08f646a207208ba86bf357c65dd3ae1fa4c42e0d5cc371dcc2012cf8c6b0",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "558784779afcb139cb4f8aba3d18aebfa25ab369dd96c555b3a610c27678788a",
+    "previous_hash": "a7e0eb8796bd55fb3e40657ab7f65cc4a735b3c324c8d5a52dd331bbc5cbcd7f",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48182281,
-      "title": "Anthropic Acquires Stainless",
+      "title": "Anthropic acquires Stainless",
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "score": 95,
-      "comments": 56
+      "score": 266,
+      "comments": 188
+    },
+    {
+      "id": 48184322,
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
+      "score": 67,
+      "comments": 8
     },
     {
       "id": 48181125,
       "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
       "url": "https://archestra.ai/blog/only-responsible-ai",
-      "score": 235,
-      "comments": 102
+      "score": 340,
+      "comments": 168
+    },
+    {
+      "id": 48183301,
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "score": 71,
+      "comments": 77
     },
     {
       "id": 48179677,
       "title": "Show HN: Files.md – Open-source alternative to Obsidian",
       "url": "https://github.com/zakirullin/files.md",
-      "score": 339,
-      "comments": 186
-    },
-    {
-      "id": 48163389,
-      "title": "The Quiet Renovation at Bitwarden",
-      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-      "score": 248,
-      "comments": 121
-    },
-    {
-      "id": 48182754,
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "score": 106,
-      "comments": 32
+      "score": 458,
+      "comments": 243
     }
   ]
 }
