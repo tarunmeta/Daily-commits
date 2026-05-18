@@ -10,13 +10,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-18 (last updated: 10:11 IST)
+
+## 📅 2026-05-18 (last updated: 14:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-05-18 05:32:32 IST | f4a8381aac7a | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-18 10:11:58 IST | 43e566c84f4c | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-18 14:07:12 IST | 3d9b1c93761a | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-18 05:32:32 IST | 57dd58cf7c43 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 703 stars today
 
 ### 📰 Hacker News Stories
-- [GenCAD](https://gencad.github.io/) — Score: 179
-- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 285
-- [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/) — Score: 71
-- [Prolog Coding Horror](https://www.metalevel.at/prolog/horror) — Score: 75
-- [Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base) — Score: 143
+- [GenCAD](https://gencad.github.io/) — Score: 290
+- [Crystals found inside wreckage from the first nuclear bomb test](https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/) — Score: 51
+- [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/) — Score: 48
+- [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) — Score: 350
+- [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/) — Score: 134
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,407.0 🔴 -0.99%
