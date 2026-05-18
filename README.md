@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-18 08:37:12 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-18 12:14:25 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **tinyhumansai/openhuman**
-- BTC: **$77,407.0** ↓ (-0.99%)
-- HN top story: **GenCAD**
+- BTC: **$77,389.0** ↓ (-1.30%)
+- HN top story: **I automated opt-outs for 500 data broker sites (open source)**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-05-18 00:02:32 UTC | `f4a8381aac7a` | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-18 08:37:12 UTC | `3d9b1c93761a` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-18 00:02:32 UTC | `57dd58cf7c43` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-05-18 12:14:24 UTC | `38c98eb04081` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-18 12:14:25 UTC | `783a08f646a2` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-18 12:14:24 UTC | `139d19cef570` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +17 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-18` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `57` day(s) |
-| Last Commit (IST) | `2026-05-18 10:11:58 IST` |
+| Last Commit (IST) | `2026-05-18 14:07:12 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-15 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-16 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-05-17 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-05-18 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-05-18 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,407.0 | -0.99% | 🔴 |
-| Ethereum | $2,128.26 | -2.49% | 🔴 |
-| Solana | $85.1 | -1.65% | 🔴 |
-| Bnb | $648.98 | -1.15% | 🔴 |
+| Bitcoin | $77,389.0 | -1.30% | 🔴 |
+| Ethereum | $2,142.23 | -2.29% | 🔴 |
+| Solana | $85.23 | -1.89% | 🔴 |
+| Bnb | $643.02 | -1.83% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 1,690 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 238 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
-| [calcom/cal.diy](https://github.com/calcom/cal.diy) | TypeScript | 433 stars today | Scheduling infrastructure for absolutely everyone. |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 910 stars today | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – … |
-| [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | 703 stars today | Open-source alternative to AI video platforms — Free AI image & video generation… |
-| [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | 333 stars today | Open-source intelligence for the global theater. Track everything from the corpo… |
-| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 225 stars today | The secure, validated skill registry for professional AI coding agents. Extend A… |
-| [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | Jupyter Notebook | 172 stars today | End-to-end, code-first tutorials for building production-grade GenAI agents. Fro… |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,945 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 1,302 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 1,047 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 610 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
+| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 827 stars today | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 179 stars today | LLM inference in C/C++ |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 963 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 1,391 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [GenCAD](https://gencad.github.io/) | 290 | 68 |
-| [Crystals found inside wreckage from the first nuclear bomb test](https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/) | 51 | 9 |
-| [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/) | 48 | 127 |
-| [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb) | 350 | 163 |
-| [Ask an Astronaut: 333 hours of Q&A footage with astronauts](https://askanastronaut.issinrealtime.org/) | 134 | 9 |
+| [I automated opt-outs for 500 data broker sites (open source)](https://github.com/stephenlthorn/auto-identity-remove) | 31 | 5 |
+| [The foundations of a provably secure operating system (PSOS) (1979) [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf) | 51 | 25 |
+| [GenCAD](https://gencad.github.io/) | 356 | 91 |
+| [Dogme 25 – Vow of Chastity](https://dogma25.dk/) | 13 | 8 |
+| [It is time to give up the dualism introduced by the debate on consciousness](https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/) | 134 | 326 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

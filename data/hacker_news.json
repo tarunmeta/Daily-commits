@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-18 08:37:12 UTC",
-    "fetched_at_ist": "2026-05-18 14:07:12 IST",
+    "fetched_at_utc": "2026-05-18 12:14:25 UTC",
+    "fetched_at_ist": "2026-05-18 17:44:25 IST",
     "item_count": 5,
-    "content_hash": "3d9b1c93761a6b2000f12c0784b5b56e2ec174f836159d0a4b5bb3416d80df2b",
-    "previous_hash": "43e566c84f4c81bc5196675e13b4e75ac6c7a740e167b326492fe8a33d2ae61c",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "783a08f646a207208ba86bf357c65dd3ae1fa4c42e0d5cc371dcc2012cf8c6b0",
+    "previous_hash": "3d9b1c93761a6b2000f12c0784b5b56e2ec174f836159d0a4b5bb3416d80df2b",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48178184,
+      "title": "I automated opt-outs for 500 data broker sites (open source)",
+      "url": "https://github.com/stephenlthorn/auto-identity-remove",
+      "score": 31,
+      "comments": 5
+    },
+    {
+      "id": 48177300,
+      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+      "score": 51,
+      "comments": 25
+    },
     {
       "id": 48173429,
       "title": "GenCAD",
       "url": "https://gencad.github.io/",
-      "score": 290,
-      "comments": 68
+      "score": 356,
+      "comments": 91
     },
     {
-      "id": 48155450,
-      "title": "Crystals found inside wreckage from the first nuclear bomb test",
-      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
-      "score": 51,
-      "comments": 9
+      "id": 48177452,
+      "title": "Dogme 25 – Vow of Chastity",
+      "url": "https://dogma25.dk/",
+      "score": 13,
+      "comments": 8
     },
     {
       "id": 48175140,
       "title": "It is time to give up the dualism introduced by the debate on consciousness",
       "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "score": 48,
-      "comments": 127
-    },
-    {
-      "id": 48168668,
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "score": 350,
-      "comments": 163
-    },
-    {
-      "id": 48152754,
-      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "url": "https://askanastronaut.issinrealtime.org/",
       "score": 134,
-      "comments": 9
+      "comments": 326
     }
   ]
 }

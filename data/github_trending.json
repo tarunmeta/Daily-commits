@@ -2,122 +2,104 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-18 00:02:32 UTC",
-    "fetched_at_ist": "2026-05-18 05:32:32 IST",
-    "item_count": 18,
-    "content_hash": "f4a8381aac7a19f78467a33efd187586c51f34c09b1cf33d5d5d9a1b3b105a2a",
-    "previous_hash": "281f35151e38c300d44597f3f79fb1b6a1e7d8cb5852c59bc822fc63718dddc5",
-    "new_repos_vs_previous": 17,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-05-18 12:14:24 UTC",
+    "fetched_at_ist": "2026-05-18 17:44:24 IST",
+    "item_count": 15,
+    "content_hash": "38c98eb040818eeb2aa34b531c3a83e60c175175029af0457bb69bb314e604fa",
+    "previous_hash": "f4a8381aac7a19f78467a33efd187586c51f34c09b1cf33d5d5d9a1b3b105a2a",
+    "new_repos_vs_previous": 8,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars_today": "1,690 stars today"
+      "stars_today": "3,945 stars today"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars_today": "1,302 stars today"
     },
     {
       "name": "HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars_today": "238 stars today"
-    },
-    {
-      "name": "calcom/cal.diy",
-      "description": "Scheduling infrastructure for absolutely everyone.",
-      "language": "TypeScript",
-      "stars_today": "433 stars today"
-    },
-    {
-      "name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars_today": "910 stars today"
-    },
-    {
-      "name": "Anil-matcha/Open-Generative-AI",
-      "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-      "language": "JavaScript",
-      "stars_today": "703 stars today"
-    },
-    {
-      "name": "BigBodyCobain/Shadowbroker",
-      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
-      "language": "Python",
-      "stars_today": "333 stars today"
-    },
-    {
-      "name": "tech-leads-club/agent-skills",
-      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
-      "language": "TypeScript",
-      "stars_today": "225 stars today"
-    },
-    {
-      "name": "NirDiamant/agents-towards-production",
-      "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
-      "language": "Jupyter Notebook",
-      "stars_today": "172 stars today"
-    },
-    {
-      "name": "dograh-hq/dograh",
-      "description": "Open Source Voice Agent Platform",
-      "language": "Python",
-      "stars_today": "223 stars today"
+      "stars_today": "1,047 stars today"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
-      "stars_today": "762 stars today"
+      "stars_today": "610 stars today"
     },
     {
-      "name": "Light-Heart-Labs/DreamServer",
-      "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars_today": "827 stars today"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars_today": "179 stars today"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "963 stars today"
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars_today": "112 stars today"
+      "stars_today": "1,391 stars today"
     },
     {
-      "name": "KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+      "name": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars_today": "200 stars today"
+      "stars_today": "1,244 stars today"
     },
     {
-      "name": "TryGhost/Ghost",
-      "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-      "language": "JavaScript",
-      "stars_today": "231 stars today"
+      "name": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "language": "Python",
+      "stars_today": "768 stars today"
     },
     {
-      "name": "medusajs/medusa",
-      "description": "The world's most flexible commerce platform.",
+      "name": "humanlayer/12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "language": "TypeScript",
-      "stars_today": "211 stars today"
+      "stars_today": "359 stars today"
     },
     {
-      "name": "knadh/listmonk",
-      "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
-      "language": "Go",
-      "stars_today": "242 stars today"
-    },
-    {
-      "name": "plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "stars_today": "186 stars today"
-    },
-    {
-      "name": "colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
-      "language": "TypeScript",
-      "stars_today": "857 stars today"
+      "name": "NVlabs/Sana",
+      "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+      "language": "Python",
+      "stars_today": "472 stars today"
     },
     {
       "name": "microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
-      "stars_today": "485 stars today"
+      "stars_today": "1,013 stars today"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "language": "Python",
+      "stars_today": "290 stars today"
+    },
+    {
+      "name": "plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "stars_today": "637 stars today"
     }
   ]
 }
