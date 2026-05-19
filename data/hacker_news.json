@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-19 10:44:16 UTC",
-    "fetched_at_ist": "2026-05-19 16:14:16 IST",
+    "fetched_at_utc": "2026-05-19 13:44:56 UTC",
+    "fetched_at_ist": "2026-05-19 19:14:56 IST",
     "item_count": 5,
-    "content_hash": "563af7c86e5e0e745d6d86ec853510f126d5aea38c23804452a693d974c259e5",
-    "previous_hash": "56a0d6f1288626d8dbae75a4594ab7916128ff6df00bca683c17d69328951ae6",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "b019373f0ac76228b322b79dc8d7af265cf5b6c1c11ccce6c8baa54440bc5995",
+    "previous_hash": "563af7c86e5e0e745d6d86ec853510f126d5aea38c23804452a693d974c259e5",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48192224,
+      "title": "New accessibility features powered by Apple Intelligence",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "score": 147,
+      "comments": 62
+    },
+    {
+      "id": 48191602,
+      "title": "Gaussian Splat of a Strawberry",
+      "url": "https://superspl.at/scene/84df8849",
+      "score": 211,
+      "comments": 75
+    },
+    {
+      "id": 48192882,
+      "title": "OpenBSD 7.9 Released",
+      "url": "https://www.openbsd.org/79.html",
+      "score": 28,
+      "comments": 2
+    },
+    {
       "id": 48165797,
       "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
       "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-      "score": 58,
-      "comments": 9
+      "score": 139,
+      "comments": 35
     },
     {
-      "id": 48166744,
-      "title": "Polypad",
-      "url": "https://polypad.amplify.com/",
-      "score": 74,
-      "comments": 6
-    },
-    {
-      "id": 48188787,
-      "title": "Peter Neumann has died",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "score": 127,
-      "comments": 8
-    },
-    {
-      "id": 48188183,
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "score": 471,
-      "comments": 336
-    },
-    {
-      "id": 48187054,
-      "title": "Click (2016)",
-      "url": "https://clickclickclick.click/",
-      "score": 311,
-      "comments": 75
+      "id": 48167890,
+      "title": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "score": 104,
+      "comments": 69
     }
   ]
 }
