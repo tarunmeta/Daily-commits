@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-19 13:44:56 UTC",
-    "fetched_at_ist": "2026-05-19 19:14:56 IST",
+    "fetched_at_utc": "2026-05-19 16:41:02 UTC",
+    "fetched_at_ist": "2026-05-19 22:11:02 IST",
     "item_count": 5,
-    "content_hash": "b019373f0ac76228b322b79dc8d7af265cf5b6c1c11ccce6c8baa54440bc5995",
-    "previous_hash": "563af7c86e5e0e745d6d86ec853510f126d5aea38c23804452a693d974c259e5",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "337079a19db009e96907e468621a60baf5d8eaa6bcbf1b470fb89e71c3e85a5f",
+    "previous_hash": "b019373f0ac76228b322b79dc8d7af265cf5b6c1c11ccce6c8baa54440bc5995",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48195009,
+      "title": "I've built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "score": 69,
+      "comments": 12
+    },
+    {
       "id": 48192224,
-      "title": "New accessibility features powered by Apple Intelligence",
+      "title": "Apple unveils new accessibility features",
       "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 147,
-      "comments": 62
+      "score": 346,
+      "comments": 184
+    },
+    {
+      "id": 48194352,
+      "title": "I’ve joined Anthropic",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "score": 443,
+      "comments": 169
+    },
+    {
+      "id": 48194614,
+      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "score": 32,
+      "comments": 3
     },
     {
       "id": 48191602,
       "title": "Gaussian Splat of a Strawberry",
       "url": "https://superspl.at/scene/84df8849",
-      "score": 211,
-      "comments": 75
-    },
-    {
-      "id": 48192882,
-      "title": "OpenBSD 7.9 Released",
-      "url": "https://www.openbsd.org/79.html",
-      "score": 28,
-      "comments": 2
-    },
-    {
-      "id": 48165797,
-      "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-      "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-      "score": 139,
-      "comments": 35
-    },
-    {
-      "id": 48167890,
-      "title": "Photo GIMP – A Patch for GIMP 3 for Photoshop Users",
-      "url": "https://github.com/Diolinux/PhotoGIMP",
-      "score": 104,
-      "comments": 69
+      "score": 333,
+      "comments": 135
     }
   ]
 }
