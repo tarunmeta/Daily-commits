@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-19 16:41:02 UTC",
-    "fetched_at_ist": "2026-05-19 22:11:02 IST",
+    "fetched_at_utc": "2026-05-20 17:30:24 UTC",
+    "fetched_at_ist": "2026-05-20 23:00:24 IST",
     "item_count": 5,
-    "content_hash": "337079a19db009e96907e468621a60baf5d8eaa6bcbf1b470fb89e71c3e85a5f",
-    "previous_hash": "b019373f0ac76228b322b79dc8d7af265cf5b6c1c11ccce6c8baa54440bc5995",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "4439da05999f374f8246c38678ab99a9162e7c00281159e4df12b065297e8245",
+    "previous_hash": "337079a19db009e96907e468621a60baf5d8eaa6bcbf1b470fb89e71c3e85a5f",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48195009,
-      "title": "I've built a virtual museum with nearly every operating system you can think of",
-      "url": "https://virtualosmuseum.org/",
-      "score": 69,
-      "comments": 12
+      "id": 48209558,
+      "title": "SBCL: the ultimate assembly code breadboard (2014)",
+      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+      "score": 51,
+      "comments": 1
     },
     {
-      "id": 48192224,
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "score": 346,
-      "comments": 184
+      "id": 48205626,
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "score": 402,
+      "comments": 146
     },
     {
-      "id": 48194352,
-      "title": "I’ve joined Anthropic",
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "score": 443,
-      "comments": 169
+      "id": 48206340,
+      "title": "Saying Goodbye to Asm.js",
+      "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+      "score": 190,
+      "comments": 87
     },
     {
-      "id": 48194614,
-      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
-      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-      "score": 32,
-      "comments": 3
+      "id": 48204770,
+      "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+      "score": 34,
+      "comments": 6
     },
     {
-      "id": 48191602,
-      "title": "Gaussian Splat of a Strawberry",
-      "url": "https://superspl.at/scene/84df8849",
-      "score": 333,
-      "comments": 135
+      "id": 48206768,
+      "title": "Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE",
+      "url": "https://www.alqst.org/ar/posts/1190",
+      "score": 695,
+      "comments": 293
     }
   ]
 }
