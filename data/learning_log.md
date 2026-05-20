@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-20 (last updated: 13:56 IST)
+
+## 📅 2026-05-20 (last updated: 16:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-18 23:36:03 IST | 88aff51ee62d | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-19 22:11:02 IST | 337079a19db0 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-20 13:56:39 IST | 0fae209ccff0 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-20 16:58:46 IST | 7255b35a98a7 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Gaussian Splat of a Strawberry](https://superspl.at/scene/84df8849) — Score: 333
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,163.0 🟢 +0.22%
-- Ethereum: $2,128.26 🔴 -0.16%
-- Solana: $84.7 🔴 -0.57%
-- Bnb: $643.19 🟢 +0.17%
+- Bitcoin: $77,413.0 🟢 +0.78%
+- Ethereum: $2,127.53 🟢 +0.70%
+- Solana: $84.8 🟢 +0.39%
+- Bnb: $642.88 🟢 +0.54%
 
 ---
 ## 📅 2026-05-19 (last updated: 23:57 IST)
