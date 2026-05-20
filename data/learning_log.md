@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-21 (last updated: 23:00 IST)
+
+## 📅 2026-05-21 (last updated: 04:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-05-18 23:36:03 IST | 88aff51ee62d | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-20 23:00:24 IST | 4439da05999f | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-20 16:58:46 IST | 7255b35a98a7 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-05-21 04:45:44 IST | 298afe5d7d5f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Meta blocks human rights accounts from reaching audiences in Saudi Arabia, UAE](https://www.alqst.org/ar/posts/1190) — Score: 695
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,413.0 🟢 +0.78%
-- Ethereum: $2,127.53 🟢 +0.70%
-- Solana: $84.8 🟢 +0.39%
-- Bnb: $642.88 🟢 +0.54%
+- Bitcoin: $77,358.0 🟢 +0.79%
+- Ethereum: $2,122.87 🟢 +0.65%
+- Solana: $85.89 🟢 +2.03%
+- Bnb: $647.36 🟢 +1.24%
 
 ---
 ## 📅 2026-05-20 (last updated: 23:00 IST)
