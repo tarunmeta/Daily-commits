@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-21 09:43:35 UTC",
-    "fetched_at_ist": "2026-05-21 15:13:35 IST",
+    "fetched_at_utc": "2026-05-21 12:35:03 UTC",
+    "fetched_at_ist": "2026-05-21 18:05:03 IST",
     "item_count": 5,
-    "content_hash": "8f1e2bad902ea74d443398390534283753877308e503d4a600ae4d44c30ea1aa",
-    "previous_hash": "f8366717c787073759a0d3a7d1fdae16f3436e8f3d61b57a972c39666345042e",
+    "content_hash": "303dfabfca2f8bf7386ddad915295b8b86e3adfddd6cf7d7636a6b2158f5fa4b",
+    "previous_hash": "8f1e2bad902ea74d443398390534283753877308e503d4a600ae4d44c30ea1aa",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48220647,
+      "title": "Flipper One – we need your help",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "score": 154,
+      "comments": 76
+    },
+    {
+      "id": 48220696,
+      "title": "Python 3.15: features that didn't make the headlines",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "score": 57,
+      "comments": 21
+    },
+    {
+      "id": 48219918,
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "url": "https://github.com/helvesec/rmux",
+      "score": 87,
+      "comments": 49
+    },
     {
       "id": 48212493,
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1155,
-      "comments": 841
+      "score": 1236,
+      "comments": 901
     },
     {
       "id": 48207660,
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 833,
-      "comments": 346
-    },
-    {
-      "id": 48219060,
-      "title": "Vivaldi 8.0",
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "score": 117,
-      "comments": 51
-    },
-    {
-      "id": 48215979,
-      "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "url": "https://github.com/kageroumado/phosphene",
-      "score": 278,
-      "comments": 59
-    },
-    {
-      "id": 48216983,
-      "title": "Haskell Foundation 2026 Update",
-      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-      "score": 114,
-      "comments": 32
+      "score": 911,
+      "comments": 380
     }
   ]
 }
