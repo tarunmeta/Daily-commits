@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-21 01:31:16 UTC",
-    "fetched_at_ist": "2026-05-21 07:01:16 IST",
+    "fetched_at_utc": "2026-05-21 09:43:35 UTC",
+    "fetched_at_ist": "2026-05-21 15:13:35 IST",
     "item_count": 5,
-    "content_hash": "f8366717c787073759a0d3a7d1fdae16f3436e8f3d61b57a972c39666345042e",
-    "previous_hash": "4439da05999f374f8246c38678ab99a9162e7c00281159e4df12b065297e8245",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "8f1e2bad902ea74d443398390534283753877308e503d4a600ae4d44c30ea1aa",
+    "previous_hash": "f8366717c787073759a0d3a7d1fdae16f3436e8f3d61b57a972c39666345042e",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48212493,
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 714,
-      "comments": 513
+      "score": 1155,
+      "comments": 841
     },
     {
       "id": 48207660,
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
       "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 527,
-      "comments": 186
+      "score": 833,
+      "comments": 346
     },
     {
-      "id": 48215418,
-      "title": "DOS Zone",
-      "url": "https://dos.zone/",
-      "score": 83,
-      "comments": 19
+      "id": 48219060,
+      "title": "Vivaldi 8.0",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "score": 117,
+      "comments": 51
     },
     {
-      "id": 48213651,
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "score": 110,
-      "comments": 27
+      "id": 48215979,
+      "title": "Show HN: I reverse engineered Apple's video wallpapers",
+      "url": "https://github.com/kageroumado/phosphene",
+      "score": 278,
+      "comments": 59
     },
     {
-      "id": 48212046,
-      "title": "Flipper One Tech Specs",
-      "url": "https://docs.flipper.net/one/general/tech-specs",
-      "score": 248,
-      "comments": 87
+      "id": 48216983,
+      "title": "Haskell Foundation 2026 Update",
+      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "score": 114,
+      "comments": 32
     }
   ]
 }
