@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-21 12:35:03 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-21 18:13:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **tinyhumansai/openhuman**
-- BTC: **$77,358.0** ↑ (+0.79%)
-- HN top story: **Flipper One – we need your help**
+- Top GitHub repo: **anthropics/claude-plugins-official**
+- BTC: **$77,644.0** ↑ (+0.29%)
+- HN top story: **Amazon, Facebook, FBI have access to a private intelligence-sharing network**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-18 18:06:03 UTC | `88aff51ee62d` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-21 12:35:03 UTC | `303dfabfca2f` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-20 23:15:44 UTC | `298afe5d7d5f` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-05-21 18:13:37 UTC | `a5f83672cd18` | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-21 18:13:38 UTC | `2a4396148a19` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-21 18:13:37 UTC | `1376cef4fef8` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-21` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| Streak | `59` day(s) |
-| Last Commit (IST) | `2026-05-21 18:05:03 IST` |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Streak | `58` day(s) |
+| Last Commit (IST) | `2026-05-21 21:32:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-18 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-19 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-20 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| 2026-05-21 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-05-21 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,358.0 | +0.79% | 🟢 |
-| Ethereum | $2,122.87 | +0.65% | 🟢 |
-| Solana | $85.89 | +2.03% | 🟢 |
-| Bnb | $647.36 | +1.24% | 🟢 |
+| Bitcoin | $77,644.0 | +0.29% | 🟢 |
+| Ethereum | $2,139.3 | +0.14% | 🟢 |
+| Solana | $87.43 | +1.21% | 🟢 |
+| Bnb | $657.21 | +1.28% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | 3,945 stars today | Your Personal AI super intelligence. Private, Simple and extremely powerful. |
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 1,302 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 1,047 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 610 stars today | A set of ready to use Agent Skills for research, science, engineering, analysis,… |
-| [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | 755 stars today | Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX. |
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | 283 stars today | LLM inference in C/C++ |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 704 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
-| [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | 1,391 stars today | Stealth Chromium that passes every bot detection test. Drop-in Playwright replac… |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 891 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 4,222 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — … |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,590 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [dotnet/skills](https://github.com/dotnet/skills) | C# | 179 stars today | Repository for skills to assist AI coding agents with .NET and C# |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,572 stars today | An agentic skills framework & software development methodology that works. |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 644 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | TypeScript | 704 stars today | Free, Open Source, Self-Hosted WhatsApp API Gateway |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 132 stars today | Chrome DevTools for coding agents |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) | 154 | 76 |
-| [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html) | 57 | 21 |
-| [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux) | 87 | 49 |
-| [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) | 1236 | 901 |
-| [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) | 911 | 380 |
+| [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) | 57 | 9 |
+| [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) | 117 | 30 |
+| [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) | 790 | 355 |
+| [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/) | 143 | 53 |
+| [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/) | 37 | 21 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

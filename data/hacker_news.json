@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-21 12:35:03 UTC",
-    "fetched_at_ist": "2026-05-21 18:05:03 IST",
+    "fetched_at_utc": "2026-05-21 18:13:38 UTC",
+    "fetched_at_ist": "2026-05-21 23:43:38 IST",
     "item_count": 5,
-    "content_hash": "303dfabfca2f8bf7386ddad915295b8b86e3adfddd6cf7d7636a6b2158f5fa4b",
-    "previous_hash": "8f1e2bad902ea74d443398390534283753877308e503d4a600ae4d44c30ea1aa",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "2a4396148a19dd66d8cebbc7cd33f620e4cc35e7a0d910ff172b1cda9b9d2852",
+    "previous_hash": "303dfabfca2f8bf7386ddad915295b8b86e3adfddd6cf7d7636a6b2158f5fa4b",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48226588,
+      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "score": 57,
+      "comments": 9
+    },
+    {
+      "id": 48225297,
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
+      "score": 117,
+      "comments": 30
+    },
+    {
       "id": 48220647,
       "title": "Flipper One – we need your help",
       "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 154,
-      "comments": 76
+      "score": 790,
+      "comments": 355
     },
     {
-      "id": 48220696,
-      "title": "Python 3.15: features that didn't make the headlines",
-      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "score": 57,
+      "id": 48222733,
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "score": 143,
+      "comments": 53
+    },
+    {
+      "id": 48184402,
+      "title": "Was my $48K GPU server worth it?",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "score": 37,
       "comments": 21
-    },
-    {
-      "id": 48219918,
-      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-      "url": "https://github.com/helvesec/rmux",
-      "score": 87,
-      "comments": 49
-    },
-    {
-      "id": 48212493,
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "score": 1236,
-      "comments": 901
-    },
-    {
-      "id": 48207660,
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "score": 911,
-      "comments": 380
     }
   ]
 }

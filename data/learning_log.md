@@ -11,44 +11,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-21 (last updated: 18:05 IST)
+
+## 📅 2026-05-21 (last updated: 23:43 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-05-18 23:36:03 IST | 88aff51ee62d | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-21 18:05:03 IST | 303dfabfca2f | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-21 04:45:44 IST | 298afe5d7d5f | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-21 23:43:38 IST | 2a4396148a19 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-21 23:43:37 IST | 1376cef4fef8 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
-- **[tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman)** (Rust) — Your Personal AI super intelligence. Private, Simple and extremely powerful.  
-  ⭐ 3,945 stars today
-- **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** (Python) — Academic Research Skills for Claude Code: research → write → review → revise → f  
-  ⭐ 1,302 stars today
-- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** (Python) — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything  
-  ⭐ 1,047 stars today
-- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** (Python) — A set of ready to use Agent Skills for research, science, engineering, analysis,  
-  ⭐ 610 stars today
-- **[supertone-inc/supertonic](https://github.com/supertone-inc/supertonic)** (Swift) — Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.  
-  ⭐ 755 stars today
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
+  ⭐ 891 stars today
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
+  ⭐ 4,222 stars today
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
+  ⭐ 2,590 stars today
+- **[dotnet/skills](https://github.com/dotnet/skills)** (C#) — Repository for skills to assist AI coding agents with .NET and C#  
+  ⭐ 179 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,572 stars today
 
 ### 📰 Hacker News Stories
-- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) — Score: 154
-- [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html) — Score: 57
-- [Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK](https://github.com/helvesec/rmux) — Score: 87
-- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/) — Score: 1236
-- [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/) — Score: 911
+- [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) — Score: 57
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 117
+- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) — Score: 790
+- [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/) — Score: 143
+- [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/) — Score: 37
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,358.0 🟢 +0.79%
-- Ethereum: $2,122.87 🟢 +0.65%
-- Solana: $85.89 🟢 +2.03%
-- Bnb: $647.36 🟢 +1.24%
+- Bitcoin: $77,644.0 🟢 +0.29%
+- Ethereum: $2,139.3 🟢 +0.14%
+- Solana: $87.43 🟢 +1.21%
+- Bnb: $657.21 🟢 +1.28%
 
 ---
 ## 📅 2026-05-20 (last updated: 23:00 IST)
