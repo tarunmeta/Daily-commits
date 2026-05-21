@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-05-22 (last updated: 23:43 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-21 23:43:38 IST | 2a4396148a19 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-21 23:43:37 IST | 1376cef4fef8 | 4 assets moved, biggest mover: bnb |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
+
+### 🚀 Trending Repos Tracked Today
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
+  ⭐ 891 stars today
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
+  ⭐ 4,222 stars today
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
+  ⭐ 2,590 stars today
+- **[dotnet/skills](https://github.com/dotnet/skills)** (C#) — Repository for skills to assist AI coding agents with .NET and C#  
+  ⭐ 179 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 1,572 stars today
+
+### 📰 Hacker News Stories
+- [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) — Score: 57
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 117
+- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) — Score: 790
+- [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/) — Score: 143
+- [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/) — Score: 37
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $77,644.0 🟢 +0.29%
+- Ethereum: $2,139.3 🟢 +0.14%
+- Solana: $87.43 🟢 +1.21%
+- Bnb: $657.21 🟢 +1.28%
+
+---
 
 
 
