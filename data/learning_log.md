@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-23 (last updated: 03:12 IST)
+
+## 📅 2026-05-23 (last updated: 04:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 03:12:35 IST | 66256df94c36 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-23 04:12:26 IST | ab500c4c6507 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-23 01:49:29 IST | 33a3fb8dfeed | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,572 stars today
 
 ### 📰 Hacker News Stories
-- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) — Score: 164
-- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 386
-- [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev) — Score: 54
-- [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators) — Score: 259
-- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) — Score: 102
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) — Score: 223
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 410
+- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) — Score: 133
+- [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft) — Score: 45
+- [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,881.0 🔴 -2.25%
