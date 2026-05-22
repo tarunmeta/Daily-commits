@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-22 (last updated: 05:46 IST)
+
+## 📅 2026-05-22 (last updated: 10:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-21 23:43:38 IST | 2a4396148a19 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-22 10:14:47 IST | 2d65e341ae54 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-22 05:46:02 IST | 7b300bedc397 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,572 stars today
 
 ### 📰 Hacker News Stories
-- [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/) — Score: 57
-- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 117
-- [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/) — Score: 790
-- [Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)](https://blog.simbastack.com/indexed-a-year-of-video-locally/) — Score: 143
-- [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/) — Score: 37
+- [Show HN: Tight C, a systems language with 10 keywords](https://github.com/alonsovm44/tc-lang/) — Score: 17
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 704
+- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) — Score: 209
+- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/) — Score: 166
+- [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126) — Score: 141
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,391.0 🔴 -0.22%

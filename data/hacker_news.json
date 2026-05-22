@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-21 18:13:38 UTC",
-    "fetched_at_ist": "2026-05-21 23:43:38 IST",
+    "fetched_at_utc": "2026-05-22 04:44:47 UTC",
+    "fetched_at_ist": "2026-05-22 10:14:47 IST",
     "item_count": 5,
-    "content_hash": "2a4396148a19dd66d8cebbc7cd33f620e4cc35e7a0d910ff172b1cda9b9d2852",
-    "previous_hash": "303dfabfca2f8bf7386ddad915295b8b86e3adfddd6cf7d7636a6b2158f5fa4b",
+    "content_hash": "2d65e341ae540cc818d1474c9bfef275fa3499da2323bfb7b7c43d7e156f0b44",
+    "previous_hash": "2a4396148a19dd66d8cebbc7cd33f620e4cc35e7a0d910ff172b1cda9b9d2852",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48226588,
-      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "score": 57,
-      "comments": 9
+      "id": 48231674,
+      "title": "Show HN: Tight C, a systems language with 10 keywords",
+      "url": "https://github.com/alonsovm44/tc-lang/",
+      "score": 17,
+      "comments": 0
     },
     {
       "id": 48225297,
       "title": "Project Hail Mary – Stellar Navigation Chart",
       "url": "https://valhovey.github.io/gaia-mary/",
-      "score": 117,
-      "comments": 30
+      "score": 704,
+      "comments": 165
     },
     {
-      "id": 48220647,
-      "title": "Flipper One – we need your help",
-      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "score": 790,
-      "comments": 355
+      "id": 48227397,
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "score": 209,
+      "comments": 112
     },
     {
-      "id": 48222733,
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "score": 143,
-      "comments": 53
+      "id": 48227860,
+      "title": "Using Kagi Search with Low Vision",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "score": 166,
+      "comments": 40
     },
     {
-      "id": 48184402,
-      "title": "Was my $48K GPU server worth it?",
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "score": 37,
-      "comments": 21
+      "id": 48230892,
+      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+      "score": 141,
+      "comments": 54
     }
   ]
 }
