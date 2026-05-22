@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-21 18:13:38 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-22 00:16:02 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/claude-plugins-official**
-- BTC: **$77,644.0** ↑ (+0.29%)
+- BTC: **$77,391.0** ↓ (-0.22%)
 - HN top story: **Amazon, Facebook, FBI have access to a private intelligence-sharing network**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 18:13:37 UTC | `a5f83672cd18` | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-21 18:13:38 UTC | `2a4396148a19` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-21 18:13:37 UTC | `1376cef4fef8` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-22 00:16:02 UTC | `7b300bedc397` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-22` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `59` day(s) |
-| Last Commit (IST) | `2026-05-22 03:20:19 IST` |
+| Last Commit (IST) | `2026-05-22 04:34:20 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-05-19 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-20 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-05-21 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| 2026-05-22 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-05-22 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,644.0 | +0.29% | 🟢 |
-| Ethereum | $2,139.3 | +0.14% | 🟢 |
-| Solana | $87.43 | +1.21% | 🟢 |
-| Bnb | $657.21 | +1.28% | 🟢 |
+| Bitcoin | $77,391.0 | -0.22% | 🔴 |
+| Ethereum | $2,128.96 | -0.05% | 🔴 |
+| Solana | $87.0 | +0.86% | 🟢 |
+| Bnb | $657.18 | +1.03% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 

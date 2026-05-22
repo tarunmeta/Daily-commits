@@ -6,14 +6,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-22 (last updated: 23:43 IST)
+
+## 📅 2026-05-22 (last updated: 05:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-21 23:43:38 IST | 2a4396148a19 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-21 23:43:37 IST | 1376cef4fef8 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-22 05:46:02 IST | 7b300bedc397 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
@@ -40,10 +41,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Was my $48K GPU server worth it?](https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/) — Score: 37
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,644.0 🟢 +0.29%
-- Ethereum: $2,139.3 🟢 +0.14%
-- Solana: $87.43 🟢 +1.21%
-- Bnb: $657.21 🟢 +1.28%
+- Bitcoin: $77,391.0 🔴 -0.22%
+- Ethereum: $2,128.96 🔴 -0.05%
+- Solana: $87.0 🟢 +0.86%
+- Bnb: $657.18 🟢 +1.03%
 
 ---
 ## 📅 2026-05-21 (last updated: 23:43 IST)
