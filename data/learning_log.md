@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-05-23 (last updated: 01:49 IST)
+
+## 📅 2026-05-23 (last updated: 03:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-22 10:14:47 IST | 2d65e341ae54 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-23 03:12:35 IST | 66256df94c36 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-23 01:49:29 IST | 33a3fb8dfeed | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,572 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Tight C, a systems language with 10 keywords](https://github.com/alonsovm44/tc-lang/) — Score: 17
-- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/) — Score: 704
-- [Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/) — Score: 209
-- [Using Kagi Search with Low Vision](https://veroniiiica.com/using-kagi-search-with-low-vision/) — Score: 166
-- [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126) — Score: 141
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) — Score: 164
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 386
+- [Models.dev: open-source database of AI model specs, pricing, and capabilities](https://github.com/anomalyco/models.dev) — Score: 54
+- [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators) — Score: 259
+- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) — Score: 102
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,881.0 🔴 -2.25%
@@ -44,15 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $652.89 🔴 -0.59%
 
 ---
-
-
-
-
-
-
-
-
-
 ## 📅 2026-05-22 (last updated: 23:46 IST)
 
 ### 🧪 Source Integrity Snapshot
