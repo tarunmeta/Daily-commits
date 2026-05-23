@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 08:35:06 UTC",
-    "fetched_at_ist": "2026-05-23 14:05:06 IST",
+    "fetched_at_utc": "2026-05-23 11:41:19 UTC",
+    "fetched_at_ist": "2026-05-23 17:11:19 IST",
     "item_count": 5,
-    "content_hash": "a85c9d0865c7e61ab95d84f32684b0dbb07c09c3bac2ee201f56d7e674aa5705",
-    "previous_hash": "ab500c4c6507d5df84074f6ad219ef0b132d7169ae9b09cee965f23cdf502493",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "8491f3c99810aad40254e9574772905339e9c7f1e39569da33f34915627d6424",
+    "previous_hash": "a85c9d0865c7e61ab95d84f32684b0dbb07c09c3bac2ee201f56d7e674aa5705",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48241997,
       "title": "Shipping a laptop to a refugee camp in Uganda",
       "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 409,
-      "comments": 141
+      "score": 505,
+      "comments": 178
+    },
+    {
+      "id": 48245262,
+      "title": "Rubish: A Unix shell written in pure Ruby",
+      "url": "https://github.com/amatsuda/rubish",
+      "score": 61,
+      "comments": 27
     },
     {
       "id": 48237163,
       "title": "Why Japanese companies do so many different things",
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 650,
-      "comments": 313
+      "score": 705,
+      "comments": 339
     },
     {
-      "id": 48206387,
-      "title": "The Quadratic Sandwich",
-      "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
-      "score": 24,
-      "comments": 1
+      "id": 48246614,
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+      "score": 30,
+      "comments": 6
     },
     {
-      "id": 48240419,
-      "title": "Project Glasswing: An Initial Update",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "score": 418,
-      "comments": 251
-    },
-    {
-      "id": 48194645,
-      "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-      "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-      "score": 19,
-      "comments": 10
+      "id": 48245862,
+      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
+      "score": 113,
+      "comments": 20
     }
   ]
 }

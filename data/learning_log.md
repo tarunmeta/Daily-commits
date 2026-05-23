@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 15:45 IST)
+
+## 📅 2026-05-23 (last updated: 17:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 14:05:06 IST | a85c9d0865c7 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-23 17:11:19 IST | 8491f3c99810 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-05-23 15:45:34 IST | 4054d6d31fa3 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,572 stars today
 
 ### 📰 Hacker News Stories
-- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 409
-- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 650
-- [The Quadratic Sandwich](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html) — Score: 24
-- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) — Score: 418
-- [Kindle loyalists scramble as Amazon turns page on old e-readers](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/) — Score: 19
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 505
+- [Rubish: A Unix shell written in pure Ruby](https://github.com/amatsuda/rubish) — Score: 61
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 705
+- [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/) — Score: 30
+- [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330) — Score: 113
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $74,627.0 🔴 -3.39%
