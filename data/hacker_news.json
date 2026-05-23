@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 12:43:49 UTC",
-    "fetched_at_ist": "2026-05-23 18:13:49 IST",
+    "fetched_at_utc": "2026-05-23 15:41:51 UTC",
+    "fetched_at_ist": "2026-05-23 21:11:51 IST",
     "item_count": 5,
-    "content_hash": "ae79fbd68fa9b346208c02d65e9ebc3d133dff85b8c8f2b40497bb7343710c3c",
-    "previous_hash": "8491f3c99810aad40254e9574772905339e9c7f1e39569da33f34915627d6424",
+    "content_hash": "0ee8d0c51a0e02ac9307262944ae981ce5871962ae84cf799601a2ca9bf211a2",
+    "previous_hash": "ae79fbd68fa9b346208c02d65e9ebc3d133dff85b8c8f2b40497bb7343710c3c",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48247325,
+      "title": "On The <dl>",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "score": 124,
+      "comments": 41
+    },
+    {
       "id": 48247004,
       "title": "80386 Microcode Disassembled",
       "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 29,
-      "comments": 3
+      "score": 113,
+      "comments": 20
+    },
+    {
+      "id": 48247876,
+      "title": "Oura says it gets government demands for user data. Will it share how many?",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "score": 39,
+      "comments": 14
     },
     {
       "id": 48246889,
       "title": "Making Deep Learning Go Brrrr from First Principles",
       "url": "https://horace.io/brrr_intro.html",
+      "score": 66,
+      "comments": 26
+    },
+    {
+      "id": 48248014,
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
       "score": 15,
-      "comments": 6
-    },
-    {
-      "id": 48247127,
-      "title": "I Miss Terry Pratchett",
-      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "id": 48246614,
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "score": 79,
-      "comments": 43
-    },
-    {
-      "id": 48241997,
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 536,
-      "comments": 186
+      "comments": 2
     }
   ]
 }

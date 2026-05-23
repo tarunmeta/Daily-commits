@@ -14,13 +14,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 19:48 IST)
+
+## 📅 2026-05-23 (last updated: 21:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 18:13:49 IST | ae79fbd68fa9 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-23 21:11:51 IST | 0ee8d0c51a0e | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-23 19:48:25 IST | 725bf17e4289 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,572 stars today
 
 ### 📰 Hacker News Stories
-- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 29
-- [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html) — Score: 15
-- [I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/) — Score: 3
-- [US tech firms share Dutch regulator officials' names with Senate](https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/) — Score: 79
-- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 536
+- [On The <dl>](https://benmyers.dev/blog/on-the-dl/) — Score: 124
+- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 113
+- [Oura says it gets government demands for user data. Will it share how many?](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) — Score: 39
+- [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html) — Score: 66
+- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) — Score: 15
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,146.0 🔴 -2.25%
