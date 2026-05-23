@@ -7,19 +7,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 04:12 IST)
+
+## 📅 2026-05-23 (last updated: 08:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-23 04:12:26 IST | ab500c4c6507 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-05-23 01:49:29 IST | 33a3fb8dfeed | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-23 08:57:06 IST | e3425f281e13 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 19
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,881.0 🔴 -2.25%
-- Ethereum: $2,071.74 🔴 -3.09%
-- Solana: $84.82 🔴 -3.32%
-- Bnb: $652.89 🔴 -0.59%
+- Bitcoin: $75,515.0 🔴 -2.79%
+- Ethereum: $2,067.41 🔴 -3.17%
+- Solana: $84.5 🔴 -2.78%
+- Bnb: $650.46 🔴 -1.29%
 
 ---
 ## 📅 2026-05-22 (last updated: 23:46 IST)
