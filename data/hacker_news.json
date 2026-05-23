@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 11:41:19 UTC",
-    "fetched_at_ist": "2026-05-23 17:11:19 IST",
+    "fetched_at_utc": "2026-05-23 12:43:49 UTC",
+    "fetched_at_ist": "2026-05-23 18:13:49 IST",
     "item_count": 5,
-    "content_hash": "8491f3c99810aad40254e9574772905339e9c7f1e39569da33f34915627d6424",
-    "previous_hash": "a85c9d0865c7e61ab95d84f32684b0dbb07c09c3bac2ee201f56d7e674aa5705",
+    "content_hash": "ae79fbd68fa9b346208c02d65e9ebc3d133dff85b8c8f2b40497bb7343710c3c",
+    "previous_hash": "8491f3c99810aad40254e9574772905339e9c7f1e39569da33f34915627d6424",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48241997,
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "score": 505,
-      "comments": 178
+      "id": 48247004,
+      "title": "80386 Microcode Disassembled",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "score": 29,
+      "comments": 3
     },
     {
-      "id": 48245262,
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "url": "https://github.com/amatsuda/rubish",
-      "score": 61,
-      "comments": 27
+      "id": 48246889,
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "url": "https://horace.io/brrr_intro.html",
+      "score": 15,
+      "comments": 6
     },
     {
-      "id": 48237163,
-      "title": "Why Japanese companies do so many different things",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "score": 705,
-      "comments": 339
+      "id": 48247127,
+      "title": "I Miss Terry Pratchett",
+      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "score": 3,
+      "comments": 0
     },
     {
       "id": 48246614,
       "title": "US tech firms share Dutch regulator officials' names with Senate",
       "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "score": 30,
-      "comments": 6
+      "score": 79,
+      "comments": 43
     },
     {
-      "id": 48245862,
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "score": 113,
-      "comments": 20
+      "id": 48241997,
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "score": 536,
+      "comments": 186
     }
   ]
 }
