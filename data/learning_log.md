@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 11:52 IST)
+
+## 📅 2026-05-23 (last updated: 14:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 04:12:26 IST | ab500c4c6507 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-23 14:05:06 IST | a85c9d0865c7 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-23 11:52:49 IST | b04fecc179fc | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,572 stars today
 
 ### 📰 Hacker News Stories
-- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) — Score: 223
-- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 410
-- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) — Score: 133
-- [A Wayland Compositor in Minecraft](https://modrinth.com/mod/waylandcraft) — Score: 45
-- [Shipping a Laptop to a Refugee Camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 19
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Score: 409
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Score: 650
+- [The Quadratic Sandwich](https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html) — Score: 24
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) — Score: 418
+- [Kindle loyalists scramble as Amazon turns page on old e-readers](https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,404.0 🔴 -2.54%
