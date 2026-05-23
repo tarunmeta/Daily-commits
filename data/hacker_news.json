@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 15:41:51 UTC",
-    "fetched_at_ist": "2026-05-23 21:11:51 IST",
+    "fetched_at_utc": "2026-05-23 16:41:54 UTC",
+    "fetched_at_ist": "2026-05-23 22:11:54 IST",
     "item_count": 5,
-    "content_hash": "0ee8d0c51a0e02ac9307262944ae981ce5871962ae84cf799601a2ca9bf211a2",
-    "previous_hash": "ae79fbd68fa9b346208c02d65e9ebc3d133dff85b8c8f2b40497bb7343710c3c",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "c24267f4d336d2339be27f133586ec6c6251e15b4538c58b4d24cec1b3c3bc02",
+    "previous_hash": "0ee8d0c51a0e02ac9307262944ae981ce5871962ae84cf799601a2ca9bf211a2",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48247325,
       "title": "On The <dl>",
       "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 124,
-      "comments": 41
+      "score": 183,
+      "comments": 58
+    },
+    {
+      "id": 48247876,
+      "title": "Oura says it gets government demands for user data",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "score": 98,
+      "comments": 52
     },
     {
       "id": 48247004,
       "title": "80386 Microcode Disassembled",
       "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 113,
-      "comments": 20
-    },
-    {
-      "id": 48247876,
-      "title": "Oura says it gets government demands for user data. Will it share how many?",
-      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "score": 39,
-      "comments": 14
-    },
-    {
-      "id": 48246889,
-      "title": "Making Deep Learning Go Brrrr from First Principles",
-      "url": "https://horace.io/brrr_intro.html",
-      "score": 66,
-      "comments": 26
+      "score": 139,
+      "comments": 22
     },
     {
       "id": 48248014,
       "title": "z386: An Open-Source 80386 Built Around Original Microcode",
       "url": "https://nand2mario.github.io/posts/2026/z386/",
-      "score": 15,
-      "comments": 2
+      "score": 40,
+      "comments": 9
+    },
+    {
+      "id": 48199314,
+      "title": "PHP's Oddities",
+      "url": "https://flowtwo.io/post/php%27s-oddities",
+      "score": 20,
+      "comments": 19
     }
   ]
 }

@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-23 (last updated: 21:11 IST)
+
+## 📅 2026-05-23 (last updated: 22:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 21:11:51 IST | 0ee8d0c51a0e | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-23 22:11:54 IST | c24267f4d336 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-05-23 19:48:25 IST | 725bf17e4289 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,572 stars today
 
 ### 📰 Hacker News Stories
-- [On The <dl>](https://benmyers.dev/blog/on-the-dl/) — Score: 124
-- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 113
-- [Oura says it gets government demands for user data. Will it share how many?](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) — Score: 39
-- [Making Deep Learning Go Brrrr from First Principles](https://horace.io/brrr_intro.html) — Score: 66
-- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) — Score: 15
+- [On The <dl>](https://benmyers.dev/blog/on-the-dl/) — Score: 183
+- [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) — Score: 98
+- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 139
+- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) — Score: 40
+- [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities) — Score: 20
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,146.0 🔴 -2.25%
