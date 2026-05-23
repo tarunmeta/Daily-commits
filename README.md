@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-23 08:35:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-23 10:15:34 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/claude-plugins-official**
-- BTC: **$75,404.0** ↓ (-2.54%)
+- BTC: **$74,627.0** ↓ (-3.39%)
 - HN top story: **Shipping a laptop to a refugee camp in Uganda**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-05-21 18:13:37 UTC | `a5f83672cd18` | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-05-23 08:35:06 UTC | `a85c9d0865c7` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-23 06:22:49 UTC | `b04fecc179fc` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-05-23 10:15:34 UTC | `4054d6d31fa3` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-23` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-05-23 11:52:49 IST` |
+| Last Commit (IST) | `2026-05-23 14:05:07 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-05-20 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-05-21 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-05-22 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-05-23 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-05-23 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,404.0 | -2.54% | 🔴 |
-| Ethereum | $2,061.98 | -3.01% | 🔴 |
-| Solana | $84.36 | -2.59% | 🔴 |
-| Bnb | $648.35 | -1.24% | 🔴 |
+| Bitcoin | $74,627.0 | -3.39% | 🔴 |
+| Ethereum | $2,027.14 | -4.45% | 🔴 |
+| Solana | $82.07 | -5.69% | 🔴 |
+| Bnb | $638.72 | -2.53% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
