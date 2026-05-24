@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-24 15:33:26 UTC",
-    "fetched_at_ist": "2026-05-24 21:03:26 IST",
+    "fetched_at_utc": "2026-05-24 16:43:02 UTC",
+    "fetched_at_ist": "2026-05-24 22:13:02 IST",
     "item_count": 5,
-    "content_hash": "420305ba18ee810a76ccdc7405a5d74e4a23f42348fea6b7eae50c4b25bcb653",
-    "previous_hash": "eb3555fdc337295e823a5ac6f354f8b2f774ef47928725602d08feced3ca6829",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "bd4d00104de8afb12089b3de829f52a78b2238d43c92f9f4a2aeaba37965b06a",
+    "previous_hash": "420305ba18ee810a76ccdc7405a5d74e4a23f42348fea6b7eae50c4b25bcb653",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48257058,
-      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
-      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
-      "score": 60,
-      "comments": 13
+      "id": 48258194,
+      "title": "Usborne 1980s Computer Books",
+      "url": "https://usborne.com/us/books/computer-and-coding-books",
+      "score": 19,
+      "comments": 7
     },
     {
       "id": 48256953,
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 62,
-      "comments": 39
+      "score": 134,
+      "comments": 79
+    },
+    {
+      "id": 48257612,
+      "title": "Omarchy Is Not A Distro",
+      "url": "https://abyss.fish/your_dotfiles_are_not_a_distro",
+      "score": 58,
+      "comments": 30
     },
     {
       "id": 48256475,
       "title": "Mastering Dyalog APL",
       "url": "https://mastering.dyalog.com/README.html",
-      "score": 74,
-      "comments": 14
-    },
-    {
-      "id": 48256597,
-      "title": "Childhood Computing",
-      "url": "https://susam.net/childhood-computing.html",
-      "score": 73,
-      "comments": 35
+      "score": 83,
+      "comments": 18
     },
     {
       "id": 48256912,
       "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
       "url": "https://arxiv.org/abs/2605.06445",
-      "score": 19,
-      "comments": 6
+      "score": 49,
+      "comments": 28
     }
   ]
 }

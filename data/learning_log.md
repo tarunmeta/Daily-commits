@@ -16,18 +16,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-24 (last updated: 21:03 IST)
+
+## 📅 2026-05-24 (last updated: 22:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-24 17:41:29 IST | 84c14b6ac991 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-24 21:03:26 IST | 420305ba18ee | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-24 22:13:02 IST | bd4d00104de8 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-24 17:41:29 IST | 3e141fb97896 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -43,11 +44,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,555 stars today
 
 ### 📰 Hacker News Stories
-- [Microsoft's 6502 BASIC is now Open Source (2025)](https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/) — Score: 60
-- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) — Score: 62
-- [Mastering Dyalog APL](https://mastering.dyalog.com/README.html) — Score: 74
-- [Childhood Computing](https://susam.net/childhood-computing.html) — Score: 73
-- [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445) — Score: 19
+- [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books) — Score: 19
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) — Score: 134
+- [Omarchy Is Not A Distro](https://abyss.fish/your_dotfiles_are_not_a_distro) — Score: 58
+- [Mastering Dyalog APL](https://mastering.dyalog.com/README.html) — Score: 83
+- [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445) — Score: 49
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,145.0 🟢 +3.37%
