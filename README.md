@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-23 16:41:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-24 00:12:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **anthropics/claude-plugins-official**
-- BTC: **$75,146.0** ↓ (-2.25%)
-- HN top story: **On The <dl>**
+- Top GitHub repo: **Lum1104/Understand-Anything**
+- BTC: **$76,573.0** ↑ (+1.56%)
+- HN top story: **It's time to talk about my writerdeck**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-05-21 18:13:37 UTC | `a5f83672cd18` | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 16:41:54 UTC | `c24267f4d336` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-23 14:18:25 UTC | `725bf17e4289` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-05-24 00:12:44 UTC | `2e45bb3d7908` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-24 00:12:45 UTC | `1c75d6dee44a` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-24 00:12:44 UTC | `bd15efdeb232` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +17 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-24` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-05-24 03:38:39 IST` |
+| Last Commit (IST) | `2026-05-24 04:41:31 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-21 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-05-22 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-23 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-05-24 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-05-24 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,146.0 | -2.25% | 🔴 |
-| Ethereum | $2,043.77 | -3.54% | 🔴 |
-| Solana | $83.23 | -4.18% | 🔴 |
-| Bnb | $643.13 | -2.56% | 🔴 |
+| Bitcoin | $76,573.0 | +1.56% | 🟢 |
+| Ethereum | $2,113.33 | +2.35% | 🟢 |
+| Solana | $85.57 | +1.43% | 🟢 |
+| Bnb | $655.51 | +0.80% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 891 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 4,222 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — … |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,590 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [dotnet/skills](https://github.com/dotnet/skills) | C# | 179 stars today | Repository for skills to assist AI coding agents with .NET and C# |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,572 stars today | An agentic skills framework & software development methodology that works. |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 644 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
-| [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | TypeScript | 704 stars today | Free, Open Source, Self-Hosted WhatsApp API Gateway |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 132 stars today | Chrome DevTools for coding agents |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 2,299 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 2,193 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 2,456 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H… |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 1,521 stars today | Learn it. Build it. Ship it for others. |
+| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 545 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 3,507 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [dotnet/skills](https://github.com/dotnet/skills) | C# | 266 stars today | Repository for skills to assist AI coding agents with .NET and C# |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 435 stars today | Chrome DevTools for coding agents |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [On The <dl>](https://benmyers.dev/blog/on-the-dl/) | 183 | 58 |
-| [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) | 98 | 52 |
-| [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) | 139 | 22 |
-| [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) | 40 | 9 |
-| [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities) | 20 | 19 |
+| [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) | 247 | 127 |
+| [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html) | 50 | 38 |
+| [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) | 193 | 119 |
+| [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) | 24 | 9 |
+| [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) | 339 | 106 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

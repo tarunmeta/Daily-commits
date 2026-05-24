@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-23 16:41:54 UTC",
-    "fetched_at_ist": "2026-05-23 22:11:54 IST",
+    "fetched_at_utc": "2026-05-24 00:12:45 UTC",
+    "fetched_at_ist": "2026-05-24 05:42:45 IST",
     "item_count": 5,
-    "content_hash": "c24267f4d336d2339be27f133586ec6c6251e15b4538c58b4d24cec1b3c3bc02",
-    "previous_hash": "0ee8d0c51a0e02ac9307262944ae981ce5871962ae84cf799601a2ca9bf211a2",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "1c75d6dee44a5b419ebff18d13f6895725f6934b971667d6b1dda0e225d9dc95",
+    "previous_hash": "c24267f4d336d2339be27f133586ec6c6251e15b4538c58b4d24cec1b3c3bc02",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48247325,
-      "title": "On The <dl>",
-      "url": "https://benmyers.dev/blog/on-the-dl/",
-      "score": 183,
-      "comments": 58
+      "id": 48250144,
+      "title": "It's time to talk about my writerdeck",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "score": 247,
+      "comments": 127
     },
     {
-      "id": 48247876,
-      "title": "Oura says it gets government demands for user data",
-      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "score": 98,
-      "comments": 52
+      "id": 48252192,
+      "title": "Don't Roll Your Own",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "score": 50,
+      "comments": 38
     },
     {
-      "id": 48247004,
-      "title": "80386 Microcode Disassembled",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "score": 139,
-      "comments": 22
+      "id": 48214311,
+      "title": "My two-part desk setup (2025)",
+      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+      "score": 193,
+      "comments": 119
     },
     {
-      "id": 48248014,
-      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
-      "url": "https://nand2mario.github.io/posts/2026/z386/",
-      "score": 40,
+      "id": 48232721,
+      "title": "Sales and Dungeons: Thermal printer TTRPG utility",
+      "url": "https://sales-and-dungeons.app/",
+      "score": 24,
       "comments": 9
     },
     {
-      "id": 48199314,
-      "title": "PHP's Oddities",
-      "url": "https://flowtwo.io/post/php%27s-oddities",
-      "score": 20,
-      "comments": 19
+      "id": 48247325,
+      "title": "On The <dl> (2021)",
+      "url": "https://benmyers.dev/blog/on-the-dl/",
+      "score": 339,
+      "comments": 106
     }
   ]
 }

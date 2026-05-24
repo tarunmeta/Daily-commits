@@ -8,44 +8,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-24 (last updated: 22:11 IST)
+
+## 📅 2026-05-24 (last updated: 05:42 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-05-21 23:43:37 IST | a5f83672cd18 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-23 22:11:54 IST | c24267f4d336 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-05-23 19:48:25 IST | 725bf17e4289 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-05-24 05:42:44 IST | 2e45bb3d7908 | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-05-24 05:42:45 IST | 1c75d6dee44a | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-24 05:42:44 IST | bd15efdeb232 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +17 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
+  ⭐ 2,299 stars today
 - **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
-  ⭐ 891 stars today
-- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode —   
-  ⭐ 4,222 stars today
-- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 2,590 stars today
-- **[dotnet/skills](https://github.com/dotnet/skills)** (C#) — Repository for skills to assist AI coding agents with .NET and C#  
-  ⭐ 179 stars today
-- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 1,572 stars today
+  ⭐ 2,193 stars today
+- **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** (TypeScript) — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H  
+  ⭐ 2,456 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 1,521 stars today
+- **[Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)** (Python) — FinceptTerminal is a modern finance application offering advanced market analyti  
+  ⭐ 545 stars today
 
 ### 📰 Hacker News Stories
-- [On The <dl>](https://benmyers.dev/blog/on-the-dl/) — Score: 183
-- [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) — Score: 98
-- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Score: 139
-- [z386: An Open-Source 80386 Built Around Original Microcode](https://nand2mario.github.io/posts/2026/z386/) — Score: 40
-- [PHP's Oddities](https://flowtwo.io/post/php%27s-oddities) — Score: 20
+- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) — Score: 247
+- [Don't Roll Your Own](https://susam.net/do-not-roll-your-own.html) — Score: 50
+- [My two-part desk setup (2025)](https://arslan.io/2025/11/18/my-two-part-desk-setup/) — Score: 193
+- [Sales and Dungeons: Thermal printer TTRPG utility](https://sales-and-dungeons.app/) — Score: 24
+- [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) — Score: 339
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,146.0 🔴 -2.25%
-- Ethereum: $2,043.77 🔴 -3.54%
-- Solana: $83.23 🔴 -4.18%
-- Bnb: $643.13 🔴 -2.56%
+- Bitcoin: $76,573.0 🟢 +1.56%
+- Ethereum: $2,113.33 🟢 +2.35%
+- Solana: $85.57 🟢 +1.43%
+- Bnb: $655.51 🟢 +0.80%
 
 ---
 ## 📅 2026-05-23 (last updated: 22:11 IST)
