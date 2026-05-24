@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-24 09:31:44 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-24 12:11:30 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Lum1104/Understand-Anything**
-- BTC: **$76,573.0** ↑ (+1.56%)
-- HN top story: **Microsoft open-sources "the earliest DOS source code discovered to date"**
+- BTC: **$77,145.0** ↑ (+3.37%)
+- HN top story: **Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-24 00:12:44 UTC | `2e45bb3d7908` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-05-24 09:31:44 UTC | `0ec975fb42ab` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-24 00:12:44 UTC | `bd15efdeb232` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-05-24 12:11:29 UTC | `84c14b6ac991` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-24 12:11:30 UTC | `eb3555fdc337` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-24 12:11:29 UTC | `3e141fb97896` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
+- GitHub: +8 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-24` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-05-24 15:01:44 IST` |
+| Last Commit (IST) | `2026-05-24 16:32:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-21 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-05-22 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-23 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-05-24 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-05-24 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,573.0 | +1.56% | 🟢 |
-| Ethereum | $2,113.33 | +2.35% | 🟢 |
-| Solana | $85.57 | +1.43% | 🟢 |
-| Bnb | $655.51 | +0.80% | 🟢 |
+| Bitcoin | $77,145.0 | +3.37% | 🟢 |
+| Ethereum | $2,121.36 | +4.62% | 🟢 |
+| Solana | $86.42 | +5.10% | 🟢 |
+| Bnb | $659.83 | +3.15% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 2,299 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 2,193 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 2,456 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H… |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 1,521 stars today | Learn it. Build it. Ship it for others. |
-| [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | 545 stars today | FinceptTerminal is a modern finance application offering advanced market analyti… |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 3,507 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [dotnet/skills](https://github.com/dotnet/skills) | C# | 266 stars today | Repository for skills to assist AI coding agents with .NET and C# |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 435 stars today | Chrome DevTools for coding agents |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 3,987 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 1,836 stars today | Learn it. Build it. Ship it for others. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,179 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 486 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,555 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 444 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 565 stars today | Use claude-code for free in the terminal, VSCode extension or discord like OpenC… |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 2,993 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) | 238 | 61 |
-| [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) | 141 | 47 |
-| [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/) | 141 | 61 |
-| [Wake up! 16b](https://hellmood.111mb.de/wake_up_16b_writeup.html) | 221 | 13 |
-| [Silk: Open-source cooperative fiber scheduler](https://github.com/ClickHouse/silk) | 14 | 1 |
+| [Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI](https://fs.blog/knowledge-project-podcast/greg-brockman/) | 60 | 25 |
+| [Microsoft open-sources "the earliest DOS source code discovered to date"](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/) | 301 | 93 |
+| [I spent 50 hours drawing a line graph](https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html) | 80 | 11 |
+| [Why is Vivado 2026.1 dropping Linux support for free tier?](https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US) | 203 | 89 |
+| [Scammers are abusing an internal Microsoft account to send spam links](https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/) | 176 | 79 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

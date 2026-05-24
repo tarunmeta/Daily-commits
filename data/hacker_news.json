@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-24 09:31:44 UTC",
-    "fetched_at_ist": "2026-05-24 15:01:44 IST",
+    "fetched_at_utc": "2026-05-24 12:11:30 UTC",
+    "fetched_at_ist": "2026-05-24 17:41:30 IST",
     "item_count": 5,
-    "content_hash": "0ec975fb42ab9de21c2a1e81383c61fe4af63c8c697d26c1cb77c1e6de9d6416",
-    "previous_hash": "2f3beafb7adc54e22c3bc62040270e57d29d751d3c9b495d344ab214d68b338b",
+    "content_hash": "eb3555fdc337295e823a5ac6f354f8b2f774ef47928725602d08feced3ca6829",
+    "previous_hash": "0ec975fb42ab9de21c2a1e81383c61fe4af63c8c697d26c1cb77c1e6de9d6416",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48255593,
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "score": 60,
+      "comments": 25
+    },
+    {
       "id": 48253386,
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 238,
-      "comments": 61
+      "score": 301,
+      "comments": 93
+    },
+    {
+      "id": 48223997,
+      "title": "I spent 50 hours drawing a line graph",
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "score": 80,
+      "comments": 11
     },
     {
       "id": 48254309,
       "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
       "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "score": 141,
-      "comments": 47
+      "score": 203,
+      "comments": 89
     },
     {
       "id": 48253186,
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 141,
-      "comments": 61
-    },
-    {
-      "id": 48253060,
-      "title": "Wake up! 16b",
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "score": 221,
-      "comments": 13
-    },
-    {
-      "id": 48210937,
-      "title": "Silk: Open-source cooperative fiber scheduler",
-      "url": "https://github.com/ClickHouse/silk",
-      "score": 14,
-      "comments": 1
+      "score": 176,
+      "comments": 79
     }
   ]
 }
