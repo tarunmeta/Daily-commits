@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-24 12:11:30 UTC",
-    "fetched_at_ist": "2026-05-24 17:41:30 IST",
+    "fetched_at_utc": "2026-05-24 15:33:26 UTC",
+    "fetched_at_ist": "2026-05-24 21:03:26 IST",
     "item_count": 5,
-    "content_hash": "eb3555fdc337295e823a5ac6f354f8b2f774ef47928725602d08feced3ca6829",
-    "previous_hash": "0ec975fb42ab9de21c2a1e81383c61fe4af63c8c697d26c1cb77c1e6de9d6416",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "420305ba18ee810a76ccdc7405a5d74e4a23f42348fea6b7eae50c4b25bcb653",
+    "previous_hash": "eb3555fdc337295e823a5ac6f354f8b2f774ef47928725602d08feced3ca6829",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48255593,
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "id": 48257058,
+      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
       "score": 60,
-      "comments": 25
+      "comments": 13
     },
     {
-      "id": 48253386,
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "score": 301,
-      "comments": 93
+      "id": 48256953,
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "score": 62,
+      "comments": 39
     },
     {
-      "id": 48223997,
-      "title": "I spent 50 hours drawing a line graph",
-      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-      "score": 80,
-      "comments": 11
+      "id": 48256475,
+      "title": "Mastering Dyalog APL",
+      "url": "https://mastering.dyalog.com/README.html",
+      "score": 74,
+      "comments": 14
     },
     {
-      "id": 48254309,
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "score": 203,
-      "comments": 89
+      "id": 48256597,
+      "title": "Childhood Computing",
+      "url": "https://susam.net/childhood-computing.html",
+      "score": 73,
+      "comments": 35
     },
     {
-      "id": 48253186,
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "score": 176,
-      "comments": 79
+      "id": 48256912,
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "score": 19,
+      "comments": 6
     }
   ]
 }
