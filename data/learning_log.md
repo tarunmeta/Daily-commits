@@ -7,19 +7,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-25 (last updated: 23:14 IST)
+
+## 📅 2026-05-25 (last updated: 04:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-24 17:41:29 IST | 84c14b6ac991 | +8 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-24 23:14:06 IST | f6cd442e7e21 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-24 17:41:29 IST | 3e141fb97896 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-05-25 04:46:01 IST | 0dd1927447df | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Constraint Decay: The Fragility of LLM Agents in Back End Code Generation](https://arxiv.org/abs/2605.06445) — Score: 74
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,145.0 🟢 +3.37%
-- Ethereum: $2,121.36 🟢 +4.62%
-- Solana: $86.42 🟢 +5.10%
-- Bnb: $659.83 🟢 +3.15%
+- Bitcoin: $76,853.0 🟢 +0.33%
+- Ethereum: $2,092.01 🔴 -1.10%
+- Solana: $85.04 🔴 -0.85%
+- Bnb: $654.51 🔴 -0.26%
 
 ---
 ## 📅 2026-05-24 (last updated: 23:14 IST)
