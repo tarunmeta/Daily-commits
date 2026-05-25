@@ -13,19 +13,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-25 (last updated: 22:02 IST)
+
+## 📅 2026-05-25 (last updated: 23:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 11:40:02 IST | f212c28fcab0 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-25 22:02:06 IST | 51f5a12c508c | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-25 11:40:02 IST | 8d5aa4882f95 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-25 23:45:32 IST | 7966a2fb5fe1 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
@@ -47,10 +48,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/) — Score: 79
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,381.0 🟢 +0.83%
-- Ethereum: $2,104.93 🔴 -0.68%
-- Solana: $85.96 🔴 -0.06%
-- Bnb: $660.27 🟢 +0.83%
+- Bitcoin: $77,574.0 🟢 +1.20%
+- Ethereum: $2,130.52 🟢 +1.41%
+- Solana: $86.17 🟢 +0.80%
+- Bnb: $661.23 🟢 +0.92%
 
 ---
 ## 📅 2026-05-24 (last updated: 23:14 IST)
