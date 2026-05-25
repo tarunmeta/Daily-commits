@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-05-26 (last updated: 23:45 IST)
+
+## 📅 2026-05-26 (last updated: 03:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 11:40:02 IST | f212c28fcab0 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-25 22:02:06 IST | 51f5a12c508c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-26 03:03:59 IST | 4f02cc241c97 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-25 23:45:32 IST | 7966a2fb5fe1 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) — Score: 576
-- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/) — Score: 55
-- [Launch HN: Chert (YC P26) – Twilio for iMessage](https://www.trychert.com) — Score: 13
-- [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) — Score: 119
-- [IBM Spins Off the First Pure-Play Quantum Chip Foundry](https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/) — Score: 79
+- [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) — Score: 182
+- [Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) — Score: 52
+- [California moves to exempt Linux from its age-verification law after backlash](https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law) — Score: 358
+- [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html) — Score: 1176
+- [C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/) — Score: 115
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,574.0 🟢 +1.20%
@@ -44,16 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $661.23 🟢 +0.92%
 
 ---
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-05-25 (last updated: 23:45 IST)
 
 ### 🧪 Source Integrity Snapshot
