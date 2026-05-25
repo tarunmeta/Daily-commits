@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-25 01:31:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-25 06:10:03 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Lum1104/Understand-Anything**
-- BTC: **$76,853.0** ↑ (+0.33%)
-- HN top story: **Show HN: Audiomass – a free, open-source multitrack audio editor for the web**
+- BTC: **$77,381.0** ↑ (+0.83%)
+- HN top story: **Jira Is Turing-Complete**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-24 12:11:29 UTC | `84c14b6ac991` | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-25 01:31:06 UTC | `7ae1be0d2d56` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-24 23:16:01 UTC | `0dd1927447df` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-05-25 06:10:02 UTC | `f212c28fcab0` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-25 06:10:03 UTC | `eb0173a4fa41` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-25 06:10:02 UTC | `8d5aa4882f95` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: no
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-25` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-05-25 04:46:02 IST` |
+| Last Commit (IST) | `2026-05-25 07:01:06 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-22 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-05-23 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-05-24 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-05-25 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-05-25 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,853.0 | +0.33% | 🟢 |
-| Ethereum | $2,092.01 | -1.10% | 🔴 |
-| Solana | $85.04 | -0.85% | 🔴 |
-| Bnb | $654.51 | -0.26% | 🔴 |
+| Bitcoin | $77,381.0 | +0.83% | 🟢 |
+| Ethereum | $2,104.93 | -0.68% | 🔴 |
+| Solana | $85.96 | -0.06% | 🔴 |
+| Bnb | $660.27 | +0.83% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 3,987 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 1,836 stars today | Learn it. Build it. Ship it for others. |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,179 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 486 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,555 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 444 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 565 stars today | Use claude-code for free in the terminal, VSCode extension or discord like OpenC… |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 2,993 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H… |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 3,999 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 1,853 stars today | Learn it. Build it. Ship it for others. |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,173 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 550 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,551 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
+| [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 456 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 553 stars today | Use claude-code for free in the terminal, VSCode extension or discord like OpenC… |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 3,003 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) | 139 | 36 |
-| [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) | 428 | 196 |
-| [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) | 50 | 22 |
-| [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) | 290 | 309 |
-| [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) | 89 | 73 |
+| [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html) | 36 | 8 |
+| [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) | 285 | 58 |
+| [Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/) | 35 | 10 |
+| [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) | 510 | 214 |
+| [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) | 202 | 199 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

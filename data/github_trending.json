@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-24 12:11:29 UTC",
-    "fetched_at_ist": "2026-05-24 17:41:29 IST",
+    "fetched_at_utc": "2026-05-25 06:10:02 UTC",
+    "fetched_at_ist": "2026-05-25 11:40:02 IST",
     "item_count": 16,
-    "content_hash": "84c14b6ac99184205895a669663f3b19d8916328de44023c34fa73a00f0066a1",
-    "previous_hash": "2e45bb3d7908f6fd39c659928b7e125760bb5038bd4acd14d883d90851692481",
-    "new_repos_vs_previous": 8,
+    "content_hash": "f212c28fcab03179093f02ffdccee506f3138fbf1acd51c8392dedb708da0995",
+    "previous_hash": "84c14b6ac99184205895a669663f3b19d8916328de44023c34fa73a00f0066a1",
+    "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,97 +15,97 @@
       "name": "Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_today": "3,987 stars today"
+      "stars_today": "3,999 stars today"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "1,836 stars today"
+      "stars_today": "1,853 stars today"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars_today": "1,179 stars today"
+      "stars_today": "1,173 stars today"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars_today": "486 stars today"
+      "stars_today": "550 stars today"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": "Unknown",
-      "stars_today": "2,555 stars today"
+      "stars_today": "2,551 stars today"
     },
     {
       "name": "earendil-works/pi",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars_today": "444 stars today"
+      "stars_today": "456 stars today"
     },
     {
       "name": "Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars_today": "565 stars today"
+      "stars_today": "553 stars today"
     },
     {
       "name": "colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars_today": "2,993 stars today"
+      "stars_today": "3,003 stars today"
     },
     {
       "name": "multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars_today": "584 stars today"
+      "stars_today": "585 stars today"
     },
     {
       "name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "96 stars today"
+      "stars_today": "106 stars today"
     },
     {
       "name": "manaflow-ai/cmux",
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "language": "Swift",
-      "stars_today": "560 stars today"
+      "stars_today": "696 stars today"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars_today": "179 stars today"
+      "stars_today": "197 stars today"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_today": "590 stars today"
+      "stars_today": "550 stars today"
     },
     {
       "name": "dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars_today": "181 stars today"
+      "stars_today": "183 stars today"
     },
     {
       "name": "blakeblackshear/frigate",
       "description": "NVR with realtime local object detection for IP cameras",
       "language": "TypeScript",
-      "stars_today": "355 stars today"
+      "stars_today": "181 stars today"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "934 stars today"
+      "stars_today": "930 stars today"
     }
   ]
 }

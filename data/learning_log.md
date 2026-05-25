@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-25 (last updated: 07:01 IST)
+
+## 📅 2026-05-25 (last updated: 11:40 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-24 17:41:29 IST | 84c14b6ac991 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-25 07:01:06 IST | 7ae1be0d2d56 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-25 04:46:01 IST | 0dd1927447df | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-05-25 11:40:02 IST | f212c28fcab0 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-25 11:40:03 IST | eb0173a4fa41 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-25 11:40:02 IST | 8d5aa4882f95 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: no
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
-  ⭐ 3,987 stars today
+  ⭐ 3,999 stars today
 - **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 1,836 stars today
+  ⭐ 1,853 stars today
 - **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
-  ⭐ 1,179 stars today
+  ⭐ 1,173 stars today
 - **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** (Python) — Open source repository of plugins primarily intended for knowledge workers to us  
-  ⭐ 486 stars today
+  ⭐ 550 stars today
 - **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 2,555 stars today
+  ⭐ 2,551 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) — Score: 139
-- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) — Score: 428
-- [A fundamental principle of aeronautical engineering has been overturned](https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/) — Score: 50
-- [Memory has grown to nearly two-thirds of AI chip component costs](https://epoch.ai/data-insights/ai-chip-component-cost-shares) — Score: 290
-- [Defeating Git Rigour Fatigue with Jujutsu](https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/) — Score: 89
+- [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html) — Score: 36
+- [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1) — Score: 285
+- [Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)](https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/) — Score: 35
+- [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/) — Score: 510
+- [Migrating from Go to Rust](https://corrode.dev/learn/migration-guides/go-to-rust/) — Score: 202
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,853.0 🟢 +0.33%
-- Ethereum: $2,092.01 🔴 -1.10%
-- Solana: $85.04 🔴 -0.85%
-- Bnb: $654.51 🔴 -0.26%
+- Bitcoin: $77,381.0 🟢 +0.83%
+- Ethereum: $2,104.93 🔴 -0.68%
+- Solana: $85.96 🔴 -0.06%
+- Bnb: $660.27 🟢 +0.83%
 
 ---
 ## 📅 2026-05-24 (last updated: 23:14 IST)
