@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-24 17:44:06 UTC",
-    "fetched_at_ist": "2026-05-24 23:14:06 IST",
+    "fetched_at_utc": "2026-05-25 01:31:06 UTC",
+    "fetched_at_ist": "2026-05-25 07:01:06 IST",
     "item_count": 5,
-    "content_hash": "f6cd442e7e21c4e14766949a8026638fae2bb01ef4267a428d1c6a4619fe65b8",
-    "previous_hash": "bd4d00104de8afb12089b3de829f52a78b2238d43c92f9f4a2aeaba37965b06a",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "7ae1be0d2d56b075928bcf0bb427ee16dd86a2fd50f5c9311afe1626295fd500",
+    "previous_hash": "f6cd442e7e21c4e14766949a8026638fae2bb01ef4267a428d1c6a4619fe65b8",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48258684,
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "score": 50,
-      "comments": 32
-    },
-    {
-      "id": 48258194,
-      "title": "Usborne 1980s Computer Books",
-      "url": "https://usborne.com/us/books/computer-and-coding-books",
-      "score": 76,
-      "comments": 25
-    },
-    {
-      "id": 48258254,
-      "title": "Ruby for Good",
-      "url": "https://ti.to/codeforgood/rubyforgood",
-      "score": 43,
-      "comments": 13
+      "id": 48258015,
+      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+      "url": "https://audiomass.co/?multitrack=1",
+      "score": 139,
+      "comments": 36
     },
     {
       "id": 48256953,
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "score": 182,
-      "comments": 97
+      "score": 428,
+      "comments": 196
     },
     {
-      "id": 48256912,
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "url": "https://arxiv.org/abs/2605.06445",
-      "score": 74,
-      "comments": 41
+      "id": 48260117,
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "score": 50,
+      "comments": 22
+    },
+    {
+      "id": 48258684,
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "score": 290,
+      "comments": 309
+    },
+    {
+      "id": 48259861,
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "score": 89,
+      "comments": 73
     }
   ]
 }
