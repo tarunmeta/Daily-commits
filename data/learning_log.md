@@ -10,14 +10,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-26 (last updated: 09:12 IST)
+
+## 📅 2026-05-26 (last updated: 22:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-25 11:40:02 IST | f212c28fcab0 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-26 09:12:30 IST | cad250ba8160 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-25 23:45:32 IST | 7966a2fb5fe1 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-05-26 22:57:33 IST | 177b2ce118fc | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout) — Score: 290
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,574.0 🟢 +1.20%
-- Ethereum: $2,130.52 🟢 +1.41%
-- Solana: $86.17 🟢 +0.80%
-- Bnb: $661.23 🟢 +0.92%
+- Bitcoin: $76,089.0 🔴 -1.90%
+- Ethereum: $2,067.41 🔴 -3.02%
+- Solana: $83.61 🔴 -2.96%
+- Bnb: $655.64 🔴 -1.07%
 
 ---
 ## 📅 2026-05-25 (last updated: 23:45 IST)
