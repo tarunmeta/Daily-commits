@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-05-27 (last updated: 01:03 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 16 | 2026-05-25 11:40:02 IST | f212c28fcab0 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-27 01:03:53 IST | 12274c8c359a | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-26 22:57:33 IST | 177b2ce118fc | 4 assets moved, biggest mover: ethereum |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
+
+### 🚀 Trending Repos Tracked Today
+- **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
+  ⭐ 3,999 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 1,853 stars today
+- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
+  ⭐ 1,173 stars today
+- **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** (Python) — Open source repository of plugins primarily intended for knowledge workers to us  
+  ⭐ 550 stars today
+- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
+  ⭐ 2,551 stars today
+
+### 📰 Hacker News Stories
+- [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/) — Score: 56
+- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) — Score: 56
+- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) — Score: 28
+- [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit) — Score: 65
+- [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind) — Score: 44
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $76,089.0 🔴 -1.90%
+- Ethereum: $2,067.41 🔴 -3.02%
+- Solana: $83.61 🔴 -2.96%
+- Bnb: $655.64 🔴 -1.07%
+
+---
 
 
 
