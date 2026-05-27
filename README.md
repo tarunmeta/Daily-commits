@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-27 08:39:03 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-27 12:01:07 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Lum1104/Understand-Anything**
-- BTC: **$75,834.0** ↓ (-1.79%)
-- HN top story: **The Structural Barriers to AI Lawyers**
+- BTC: **$75,655.0** ↓ (-1.91%)
+- HN top story: **I'm Tired of Talking to AI**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-05-27 00:06:21 UTC | `b4cca2b503e2` | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-27 08:39:03 UTC | `794ff8eccbc9` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-27 00:06:21 UTC | `c4c691722ec5` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 16 | 2026-05-27 12:01:06 UTC | `eda3138b7ef4` | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-27 12:01:07 UTC | `358ff987252d` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-27 12:01:06 UTC | `49dde8803500` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-27` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `61` day(s) |
-| Last Commit (IST) | `2026-05-27 10:19:04 IST` |
+| Last Commit (IST) | `2026-05-27 14:09:03 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-24 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-05-25 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-26 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-05-27 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-05-27 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,834.0 | -1.79% | 🔴 |
-| Ethereum | $2,072.69 | -1.79% | 🔴 |
-| Solana | $83.64 | -1.55% | 🔴 |
-| Bnb | $655.94 | -1.04% | 🔴 |
+| Bitcoin | $75,655.0 | -1.91% | 🔴 |
+| Ethereum | $2,077.14 | -2.01% | 🔴 |
+| Solana | $83.85 | -1.53% | 🔴 |
+| Bnb | $653.29 | -1.30% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 4,697 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,915 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 2,155 stars today | Learn it. Build it. Ship it for others. |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 1,718 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 880 stars today | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR… |
 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 539 stars today | A skill file for removing AI tells from prose |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,915 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 1,718 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 1,430 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 1,219 stars today | DigitalPlat FreeDomain: Free Domain For Everyone |
+| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 314 stars today | Fully automatic censorship removal for language models |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 425 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 880 stars today | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The Structural Barriers to AI Lawyers](https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers) | 37 | 37 |
-| [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/) | 43 | 6 |
-| [What Gets Kept](https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind) | 22 | 5 |
-| [Cloudflare Flagship](https://developers.cloudflare.com/flagship/) | 203 | 100 |
-| [BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass](https://badhost.org/) | 37 | 8 |
+| [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/) | 219 | 157 |
+| [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about) | 64 | 21 |
+| [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/) | 134 | 51 |
+| [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/) | 50 | 5 |
+| [BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass](https://badhost.org/) | 71 | 25 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

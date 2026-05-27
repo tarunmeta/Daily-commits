@@ -9,44 +9,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-27 (last updated: 14:09 IST)
+
+## 📅 2026-05-27 (last updated: 17:31 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-05-27 05:36:21 IST | b4cca2b503e2 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-27 14:09:03 IST | 794ff8eccbc9 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-27 05:36:21 IST | c4c691722ec5 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-27 17:31:07 IST | 358ff987252d | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-27 17:31:06 IST | 49dde8803500 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +10 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
   ⭐ 4,697 stars today
+- **[hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)** (Unknown) — A skill file for removing AI tells from prose  
+  ⭐ 539 stars today
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
   ⭐ 1,915 stars today
-- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 2,155 stars today
 - **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** (Python) — Open source repository of plugins primarily intended for knowledge workers to us  
   ⭐ 1,718 stars today
-- **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** (Python) — 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR  
-  ⭐ 880 stars today
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** (Shell) — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen  
+  ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [The Structural Barriers to AI Lawyers](https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers) — Score: 37
-- [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/) — Score: 43
-- [What Gets Kept](https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind) — Score: 22
-- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/) — Score: 203
-- [BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass](https://badhost.org/) — Score: 37
+- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/) — Score: 219
+- [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about) — Score: 64
+- [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/) — Score: 134
+- [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/) — Score: 50
+- [BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass](https://badhost.org/) — Score: 71
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,834.0 🔴 -1.79%
-- Ethereum: $2,072.69 🔴 -1.79%
-- Solana: $83.64 🔴 -1.55%
-- Bnb: $655.94 🔴 -1.04%
+- Bitcoin: $75,655.0 🔴 -1.91%
+- Ethereum: $2,077.14 🔴 -2.01%
+- Solana: $83.85 🔴 -1.53%
+- Bnb: $653.29 🔴 -1.30%
 
 ---
 ## 📅 2026-05-26 (last updated: 22:57 IST)

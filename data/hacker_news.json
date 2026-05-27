@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-27 08:39:03 UTC",
-    "fetched_at_ist": "2026-05-27 14:09:03 IST",
+    "fetched_at_utc": "2026-05-27 12:01:07 UTC",
+    "fetched_at_ist": "2026-05-27 17:31:07 IST",
     "item_count": 5,
-    "content_hash": "794ff8eccbc9ccf0171e978c1b3ae89bb8d139a0ea3f0c2a8aba715051c5408e",
-    "previous_hash": "e0d4bf1415c1881a86123efa0fae9ac6753a49c02147836981512a7aa2d7a540",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "358ff987252d2849b24ec64d8ef8c1d2ce26d4243d74e92e5d9f4399ad5c0ae9",
+    "previous_hash": "794ff8eccbc9ccf0171e978c1b3ae89bb8d139a0ea3f0c2a8aba715051c5408e",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48228728,
-      "title": "The Structural Barriers to AI Lawyers",
-      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
-      "score": 37,
-      "comments": 37
+      "id": 48292224,
+      "title": "I'm Tired of Talking to AI",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "score": 219,
+      "comments": 157
+    },
+    {
+      "id": 48291947,
+      "title": "Mini Micro Fantasy Computer",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "score": 64,
+      "comments": 21
     },
     {
       "id": 48284711,
       "title": "The Melancholy of Slaying Monsters",
       "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-      "score": 43,
-      "comments": 6
+      "score": 134,
+      "comments": 51
     },
     {
-      "id": 48258848,
-      "title": "What Gets Kept",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
-      "score": 22,
+      "id": 48277723,
+      "title": "Raft Consensus with a Minority of Nodes",
+      "url": "https://padhye.org/raft-minority/",
+      "score": 50,
       "comments": 5
-    },
-    {
-      "id": 48287468,
-      "title": "Cloudflare Flagship",
-      "url": "https://developers.cloudflare.com/flagship/",
-      "score": 203,
-      "comments": 100
     },
     {
       "id": 48277107,
       "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
       "url": "https://badhost.org/",
-      "score": 37,
-      "comments": 8
+      "score": 71,
+      "comments": 25
     }
   ]
 }

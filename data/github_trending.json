@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-05-27 00:06:21 UTC",
-    "fetched_at_ist": "2026-05-27 05:36:21 IST",
-    "item_count": 14,
-    "content_hash": "b4cca2b503e2ef3ac0ab023fe009a0a97f79503356c0c2556b6f9611a31bf11b",
-    "previous_hash": "f212c28fcab03179093f02ffdccee506f3138fbf1acd51c8392dedb708da0995",
-    "new_repos_vs_previous": 10,
+    "fetched_at_utc": "2026-05-27 12:01:06 UTC",
+    "fetched_at_ist": "2026-05-27 17:31:06 IST",
+    "item_count": 16,
+    "content_hash": "eda3138b7ef4e8f3bd91e0f8e8e38ca79e566540d5f330f8676715d4ebfb051f",
+    "previous_hash": "b4cca2b503e2ef3ac0ab023fe009a0a97f79503356c0c2556b6f9611a31bf11b",
+    "new_repos_vs_previous": 7,
     "top_repo_changed": false
   },
   "repos": [
@@ -18,16 +18,16 @@
       "stars_today": "4,697 stars today"
     },
     {
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "Unknown",
+      "stars_today": "539 stars today"
+    },
+    {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "stars_today": "1,915 stars today"
-    },
-    {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "stars_today": "2,155 stars today"
     },
     {
       "name": "anthropics/knowledge-work-plugins",
@@ -36,40 +36,28 @@
       "stars_today": "1,718 stars today"
     },
     {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "880 stars today"
-    },
-    {
-      "name": "hardikpandya/stop-slop",
-      "description": "A skill file for removing AI tells from prose",
-      "language": "Unknown",
-      "stars_today": "539 stars today"
-    },
-    {
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
       "stars_today": "1,430 stars today"
     },
     {
-      "name": "DigitalPlatDev/FreeDomain",
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "language": "HTML",
-      "stars_today": "1,219 stars today"
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars_today": "314 stars today"
     },
     {
-      "name": "jellyfin/jellyfin",
-      "description": "The Free Software Media System - Server Backend & API",
-      "language": "C#",
-      "stars_today": "83 stars today"
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": "425 stars today"
     },
     {
-      "name": "Axorax/awesome-free-apps",
-      "description": "Curated list of the best free apps for PC and mobile",
-      "language": "JavaScript",
-      "stars_today": "731 stars today"
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "880 stars today"
     },
     {
       "name": "twentyhq/twenty",
@@ -78,22 +66,46 @@
       "stars_today": "216 stars today"
     },
     {
-      "name": "Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "name": "Yeachan-Heo/oh-my-claudecode",
+      "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
-      "stars_today": "156 stars today"
+      "stars_today": "137 stars today"
     },
     {
-      "name": "thedotmack/claude-mem",
-      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "language": "TypeScript",
-      "stars_today": "352 stars today"
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "HTML",
+      "stars_today": "1,219 stars today"
     },
     {
-      "name": "st-tech/ppf-contact-solver",
-      "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
-      "language": "Python",
-      "stars_today": "170 stars today"
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "1,680 stars today"
+    },
+    {
+      "name": "byoungd/English-level-up-tips",
+      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "language": "Unknown",
+      "stars_today": "1,133 stars today"
+    },
+    {
+      "name": "iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "language": "Rust",
+      "stars_today": "244 stars today"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "language": "JavaScript",
+      "stars_today": "731 stars today"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": "56 stars today"
     }
   ]
 }
