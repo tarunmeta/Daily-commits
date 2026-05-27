@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-27 (last updated: 05:36 IST)
+
+## 📅 2026-05-27 (last updated: 14:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-05-27 05:36:21 IST | b4cca2b503e2 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-27 05:36:22 IST | e0d4bf1415c1 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-27 14:09:03 IST | 794ff8eccbc9 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-27 05:36:21 IST | c4c691722ec5 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 880 stars today
 
 ### 📰 Hacker News Stories
-- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) — Score: 192
-- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) — Score: 222
-- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) — Score: 145
-- [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/) — Score: 29
-- [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943) — Score: 218
+- [The Structural Barriers to AI Lawyers](https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers) — Score: 37
+- [The Melancholy of Slaying Monsters](https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/) — Score: 43
+- [What Gets Kept](https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind) — Score: 22
+- [Cloudflare Flagship](https://developers.cloudflare.com/flagship/) — Score: 203
+- [BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass](https://badhost.org/) — Score: 37
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,834.0 🔴 -1.79%

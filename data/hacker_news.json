@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-27 00:06:22 UTC",
-    "fetched_at_ist": "2026-05-27 05:36:22 IST",
+    "fetched_at_utc": "2026-05-27 08:39:03 UTC",
+    "fetched_at_ist": "2026-05-27 14:09:03 IST",
     "item_count": 5,
-    "content_hash": "e0d4bf1415c1881a86123efa0fae9ac6753a49c02147836981512a7aa2d7a540",
-    "previous_hash": "12274c8c359a5070c08f8875d5489b36e0b013affff68fc9f681f0e563e30177",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "794ff8eccbc9ccf0171e978c1b3ae89bb8d139a0ea3f0c2a8aba715051c5408e",
+    "previous_hash": "e0d4bf1415c1881a86123efa0fae9ac6753a49c02147836981512a7aa2d7a540",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48284712,
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "score": 192,
-      "comments": 74
+      "id": 48228728,
+      "title": "The Structural Barriers to AI Lawyers",
+      "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+      "score": 37,
+      "comments": 37
     },
     {
-      "id": 48271448,
-      "title": "A few interesting modern pixel fonts",
-      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 222,
-      "comments": 51
+      "id": 48284711,
+      "title": "The Melancholy of Slaying Monsters",
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "score": 43,
+      "comments": 6
     },
     {
-      "id": 48238703,
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "score": 145,
-      "comments": 36
+      "id": 48258848,
+      "title": "What Gets Kept",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+      "score": 22,
+      "comments": 5
     },
     {
-      "id": 48275564,
-      "title": "A portentous reunion",
-      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-      "score": 29,
-      "comments": 9
-    },
-    {
-      "id": 48285592,
-      "title": "Big tech's anti-labor playbook has come for Wikipedia",
-      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-      "score": 218,
+      "id": 48287468,
+      "title": "Cloudflare Flagship",
+      "url": "https://developers.cloudflare.com/flagship/",
+      "score": 203,
       "comments": 100
+    },
+    {
+      "id": 48277107,
+      "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "url": "https://badhost.org/",
+      "score": 37,
+      "comments": 8
     }
   ]
 }
