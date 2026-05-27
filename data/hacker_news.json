@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-26 19:33:53 UTC",
-    "fetched_at_ist": "2026-05-27 01:03:53 IST",
+    "fetched_at_utc": "2026-05-27 00:06:22 UTC",
+    "fetched_at_ist": "2026-05-27 05:36:22 IST",
     "item_count": 5,
-    "content_hash": "12274c8c359a5070c08f8875d5489b36e0b013affff68fc9f681f0e563e30177",
-    "previous_hash": "cad250ba81606a5ff62e724ceedefedba4967f34493d30d1910684dcbf08c2cb",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "e0d4bf1415c1881a86123efa0fae9ac6753a49c02147836981512a7aa2d7a540",
+    "previous_hash": "12274c8c359a5070c08f8875d5489b36e0b013affff68fc9f681f0e563e30177",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48283914,
-      "title": "Stop Advertising in Your Commits",
-      "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
-      "score": 56,
-      "comments": 23
+      "id": 48284712,
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "score": 192,
+      "comments": 74
     },
     {
       "id": 48271448,
       "title": "A few interesting modern pixel fonts",
       "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "score": 56,
-      "comments": 14
+      "score": 222,
+      "comments": 51
     },
     {
       "id": 48238703,
       "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
       "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "score": 28,
-      "comments": 11
+      "score": 145,
+      "comments": 36
     },
     {
-      "id": 48281367,
-      "title": "The Ballad of TIGIT",
-      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
-      "score": 65,
-      "comments": 8
+      "id": 48275564,
+      "title": "A portentous reunion",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "score": 29,
+      "comments": 9
     },
     {
-      "id": 48222600,
-      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-      "url": "https://github.com/logannye/rosalind",
-      "score": 44,
-      "comments": 7
+      "id": 48285592,
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+      "score": 218,
+      "comments": 100
     }
   ]
 }

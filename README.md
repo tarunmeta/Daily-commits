@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-26 21:19:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-27 00:06:22 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Lum1104/Understand-Anything**
-- BTC: **$75,854.0** ↓ (-1.80%)
-- HN top story: **Stop Advertising in Your Commits**
+- BTC: **$75,834.0** ↓ (-1.79%)
+- HN top story: **Chemistry behind the Garden Grove chemical tank**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-25 06:10:02 UTC | `f212c28fcab0` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-26 19:33:53 UTC | `12274c8c359a` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-26 21:19:30 UTC | `99cadd13205f` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-05-27 00:06:21 UTC | `b4cca2b503e2` | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-27 00:06:22 UTC | `e0d4bf1415c1` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-27 00:06:21 UTC | `c4c691722ec5` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +10 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-27` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `62` day(s) |
-| Last Commit (IST) | `2026-05-27 02:49:30 IST` |
+| Last Commit (IST) | `2026-05-27 04:18:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-05-24 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-05-25 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-05-26 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-05-27 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-05-27 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,854.0 | -1.80% | 🔴 |
-| Ethereum | $2,070.24 | -1.78% | 🔴 |
-| Solana | $83.62 | -2.01% | 🔴 |
-| Bnb | $655.31 | -0.89% | 🔴 |
+| Bitcoin | $75,834.0 | -1.79% | 🔴 |
+| Ethereum | $2,072.69 | -1.79% | 🔴 |
+| Solana | $83.64 | -1.55% | 🔴 |
+| Bnb | $655.94 | -1.04% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 3,999 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 1,853 stars today | Learn it. Build it. Ship it for others. |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,173 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 550 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | Unknown | 2,551 stars today | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar… |
-| [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | 456 stars today | AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Sla… |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | 553 stars today | Use claude-code for free in the terminal, VSCode extension or discord like OpenC… |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | 3,003 stars today | Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H… |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 4,697 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,915 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 2,155 stars today | Learn it. Build it. Ship it for others. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 1,718 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 880 stars today | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR… |
+| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 539 stars today | A skill file for removing AI tells from prose |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 1,430 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | 1,219 stars today | DigitalPlat FreeDomain: Free Domain For Everyone |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/) | 56 | 23 |
-| [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) | 56 | 14 |
-| [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) | 28 | 11 |
-| [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit) | 65 | 8 |
-| [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind) | 44 | 7 |
+| [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) | 192 | 74 |
+| [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) | 222 | 51 |
+| [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) | 145 | 36 |
+| [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/) | 29 | 9 |
+| [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943) | 218 | 100 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

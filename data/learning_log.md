@@ -6,44 +6,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-27 (last updated: 02:49 IST)
+
+## 📅 2026-05-27 (last updated: 05:36 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-25 11:40:02 IST | f212c28fcab0 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-27 01:03:53 IST | 12274c8c359a | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-27 02:49:30 IST | 99cadd13205f | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 14 | 2026-05-27 05:36:21 IST | b4cca2b503e2 | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-05-27 05:36:22 IST | e0d4bf1415c1 | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-05-27 05:36:21 IST | c4c691722ec5 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +10 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
-  ⭐ 3,999 stars today
+  ⭐ 4,697 stars today
+- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
+  ⭐ 1,915 stars today
 - **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 1,853 stars today
-- **[anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)** (Python) — Official, Anthropic-managed directory of high quality Claude Code Plugins.  
-  ⭐ 1,173 stars today
+  ⭐ 2,155 stars today
 - **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** (Python) — Open source repository of plugins primarily intended for knowledge workers to us  
-  ⭐ 550 stars today
-- **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** (Unknown) — A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar  
-  ⭐ 2,551 stars today
+  ⭐ 1,718 stars today
+- **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** (Python) — 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR  
+  ⭐ 880 stars today
 
 ### 📰 Hacker News Stories
-- [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/) — Score: 56
-- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) — Score: 56
-- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) — Score: 28
-- [The Ballad of TIGIT](https://www.owlposting.com/p/the-ballad-of-tigit) — Score: 65
-- [Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop](https://github.com/logannye/rosalind) — Score: 44
+- [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank) — Score: 192
+- [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/) — Score: 222
+- [I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline](https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/) — Score: 145
+- [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/) — Score: 29
+- [Big tech's anti-labor playbook has come for Wikipedia](https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943) — Score: 218
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,854.0 🔴 -1.80%
-- Ethereum: $2,070.24 🔴 -1.78%
-- Solana: $83.62 🔴 -2.01%
-- Bnb: $655.31 🔴 -0.89%
+- Bitcoin: $75,834.0 🔴 -1.79%
+- Ethereum: $2,072.69 🔴 -1.79%
+- Solana: $83.64 🔴 -1.55%
+- Bnb: $655.94 🔴 -1.04%
 
 ---
 ## 📅 2026-05-26 (last updated: 22:57 IST)
