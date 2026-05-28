@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-29 (last updated: 00:13 IST)
+
+## 📅 2026-05-29 (last updated: 04:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-29 00:13:00 IST | cc7043b5bff2 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-29 04:13:42 IST | ff6c026ed027 | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-05-27 17:31:06 IST | 49dde8803500 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) — Score: 623
-- [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev) — Score: 127
-- [Indoor Wi-Fi Roaming with OpenWRT](https://taoofmac.com/space/blog/2026/05/26/1730) — Score: 136
-- [Show HN: Ktx – Open-source executable context layer for data agents](https://github.com/Kaelio/ktx) — Score: 17
-- [The Permanent Upper Crow](https://permanent-upper-crow.jasonwu.ink/) — Score: 66
+- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) — Score: 1072
+- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 400
+- [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution) — Score: 221
+- [I Made a Million Dollar Product from My Dorm Room (2025)](https://nick.winans.io/blog/nice-nano/) — Score: 67
+- [Various LLM Smells](https://shvbsle.in/various-llm-smells/) — Score: 124
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,655.0 🔴 -1.91%
