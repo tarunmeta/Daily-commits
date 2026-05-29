@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-29 11:40:50 UTC",
-    "fetched_at_ist": "2026-05-29 17:10:50 IST",
+    "fetched_at_utc": "2026-05-29 23:43:00 UTC",
+    "fetched_at_ist": "2026-05-30 05:13:00 IST",
     "item_count": 5,
-    "content_hash": "0eb51095b880342d96b48e4dfc5db325d956250e6c2d1c099276ab00451febce",
-    "previous_hash": "ff6c026ed027e0432653cc07fbeeab579605504cb3b550f2a15ae56a7488c242",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "4e7e6f078d2ca7bd18233b266efb45757fc9d6da3e1f8193e479228ce8e72976",
+    "previous_hash": "0eb51095b880342d96b48e4dfc5db325d956250e6c2d1c099276ab00451febce",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48320985,
-      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
-      "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
-      "score": 31,
-      "comments": 25
+      "id": 48326802,
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "score": 296,
+      "comments": 178
     },
     {
-      "id": 48311647,
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "score": 1573,
-      "comments": 1236
+      "id": 48324712,
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "score": 597,
+      "comments": 785
     },
     {
-      "id": 48314136,
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "score": 1017,
-      "comments": 472
+      "id": 48324853,
+      "title": "You can just say it",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "score": 72,
+      "comments": 10
     },
     {
-      "id": 48321076,
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-      "score": 35,
-      "comments": 27
+      "id": 48325340,
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "score": 298,
+      "comments": 102
     },
     {
-      "id": 48318174,
-      "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
-      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "score": 146,
-      "comments": 29
+      "id": 48327962,
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "score": 61,
+      "comments": 86
     }
   ]
 }

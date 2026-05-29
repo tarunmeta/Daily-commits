@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-05-30 (last updated: 01:57 IST)
+
+## 📅 2026-05-30 (last updated: 05:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-29 17:10:50 IST | 0eb51095b880 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-30 05:13:00 IST | 4e7e6f078d2c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-30 01:57:25 IST | d827e71712ad | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [The $500K AI Film That "Premiered at Cannes" Was Not in the Official Festival](https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/) — Score: 31
-- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) — Score: 1573
-- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 1017
-- [Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/) — Score: 35
-- [Claude Code – Everything You Can Configure That the Docs Don't Tell You](https://buildingbetter.tech/p/i-read-the-claude-code-source-code) — Score: 146
+- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 296
+- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 597
+- [You can just say it](https://noperator.dev/posts/you-can-just-say-it/) — Score: 72
+- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) — Score: 298
+- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) — Score: 61
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,623.0 🟢 +0.09%
