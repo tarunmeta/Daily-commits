@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-29 (last updated: 04:13 IST)
+
+## 📅 2026-05-29 (last updated: 17:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-29 04:13:42 IST | ff6c026ed027 | +4 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-29 17:10:50 IST | 0eb51095b880 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-27 17:31:06 IST | 49dde8803500 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) — Score: 1072
-- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 400
-- [Just Use Postgres for Durable Workflows](https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution) — Score: 221
-- [I Made a Million Dollar Product from My Dorm Room (2025)](https://nick.winans.io/blog/nice-nano/) — Score: 67
-- [Various LLM Smells](https://shvbsle.in/various-llm-smells/) — Score: 124
+- [The $500K AI Film That "Premiered at Cannes" Was Not in the Official Festival](https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/) — Score: 31
+- [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) — Score: 1573
+- [Bricks and Minifigs Stole a Man's $200k Lego Collection](https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection) — Score: 1017
+- [Real-time LLM Inference on Standard GPUs: 3k tokens/s per request](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/) — Score: 35
+- [Claude Code – Everything You Can Configure That the Docs Don't Tell You](https://buildingbetter.tech/p/i-read-the-claude-code-source-code) — Score: 146
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,655.0 🔴 -1.91%
