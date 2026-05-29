@@ -10,19 +10,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-29 (last updated: 17:10 IST)
+
+## 📅 2026-05-29 (last updated: 19:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-29 17:10:50 IST | 0eb51095b880 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-27 17:31:06 IST | 49dde8803500 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-05-29 19:52:27 IST | 05c896a8c7aa | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Claude Code – Everything You Can Configure That the Docs Don't Tell You](https://buildingbetter.tech/p/i-read-the-claude-code-source-code) — Score: 146
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,655.0 🔴 -1.91%
-- Ethereum: $2,077.14 🔴 -2.01%
-- Solana: $83.85 🔴 -1.53%
-- Bnb: $653.29 🔴 -1.30%
+- Bitcoin: $72,727.0 🔴 -0.30%
+- Ethereum: $1,986.18 🔴 -0.02%
+- Solana: $81.07 🔴 -0.03%
+- Bnb: $634.57 🟢 +0.24%
 
 ---
 ## 📅 2026-05-28 (last updated: 04:11 IST)

@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-05-29 11:40:50 UTC`
+**Last Meaningful Data Update (UTC):** `2026-05-29 14:22:27 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Lum1104/Understand-Anything**
-- BTC: **$75,655.0** ↓ (-1.91%)
+- BTC: **$72,727.0** ↓ (-0.30%)
 - HN top story: **The $500K AI Film That "Premiered at Cannes" Was Not in the Official Festival**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 12:01:06 UTC | `eda3138b7ef4` | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-29 11:40:50 UTC | `0eb51095b880` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-27 12:01:06 UTC | `49dde8803500` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-05-29 14:22:27 UTC | `05c896a8c7aa` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +7 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-05-29` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `63` day(s) |
-| Last Commit (IST) | `2026-05-29 13:39:53 IST` |
+| Last Commit (IST) | `2026-05-29 17:10:50 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-05-26 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-05-27 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-05-28 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-05-29 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-05-29 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,655.0 | -1.91% | 🔴 |
-| Ethereum | $2,077.14 | -2.01% | 🔴 |
-| Solana | $83.85 | -1.53% | 🔴 |
-| Bnb | $653.29 | -1.30% | 🔴 |
+| Bitcoin | $72,727.0 | -0.30% | 🔴 |
+| Ethereum | $1,986.18 | -0.02% | 🔴 |
+| Solana | $81.07 | -0.03% | 🔴 |
+| Bnb | $634.57 | +0.24% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
