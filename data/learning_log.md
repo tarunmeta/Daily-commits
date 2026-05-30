@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-30 (last updated: 19:11 IST)
+
+## 📅 2026-05-30 (last updated: 23:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-30 19:11:54 IST | 1d35d70abbb2 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-30 23:00:13 IST | cacf4d0d95ae | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-30 15:48:05 IST | f10d1e851434 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [Pandoc Templates](https://pandoc-templates.org/) — Score: 176
-- [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26) — Score: 167
-- [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism) — Score: 48
-- [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) — Score: 32
-- [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) — Score: 138
+- [Voxel Space](https://s-macke.github.io/VoxelSpace/) — Score: 128
+- [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup) — Score: 361
+- [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) — Score: 189
+- [Pandoc Templates](https://pandoc-templates.org/) — Score: 277
+- [Navier-Stokes fluid simulation explained with Godot game engine](https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot) — Score: 94
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,548.0 🔴 -0.01%
