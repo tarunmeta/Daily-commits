@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-30 01:31:30 UTC",
-    "fetched_at_ist": "2026-05-30 07:01:30 IST",
+    "fetched_at_utc": "2026-05-30 05:34:39 UTC",
+    "fetched_at_ist": "2026-05-30 11:04:39 IST",
     "item_count": 5,
-    "content_hash": "b653afda1f46dbe88abcafb62852c6963c764f0269ca2d0bb4ca28ba2913ba7a",
-    "previous_hash": "4e7e6f078d2ca7bd18233b266efb45757fc9d6da3e1f8193e479228ce8e72976",
+    "content_hash": "13d9e95b04242323029196119ac14eae0b18a0303c84f6f412affad0e95ccd4c",
+    "previous_hash": "b653afda1f46dbe88abcafb62852c6963c764f0269ca2d0bb4ca28ba2913ba7a",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48326802,
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 349,
-      "comments": 199
+      "id": 48331786,
+      "title": "Naphtha Shortages Having a Growing Impact in Japan",
+      "url": "https://www.nippon.com/en/japan-data/h02783/",
+      "score": 73,
+      "comments": 34
     },
     {
       "id": 48324712,
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 677,
-      "comments": 862
+      "score": 853,
+      "comments": 1026
     },
     {
-      "id": 48325340,
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 309,
-      "comments": 109
+      "id": 48326802,
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "score": 446,
+      "comments": 226
+    },
+    {
+      "id": 48332151,
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "url": "https://www.perryts.com/",
+      "score": 30,
+      "comments": 13
     },
     {
       "id": 48284494,
       "title": "Snowboard Kids 2 is 100% Decompiled",
       "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 38,
-      "comments": 9
-    },
-    {
-      "id": 48330436,
-      "title": "MCP is dead?",
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "score": 73,
-      "comments": 59
+      "score": 132,
+      "comments": 40
     }
   ]
 }

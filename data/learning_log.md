@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-30 (last updated: 07:01 IST)
+
+## 📅 2026-05-30 (last updated: 11:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-30 07:01:30 IST | b653afda1f46 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-05-30 11:04:39 IST | 13d9e95b0424 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-30 01:57:25 IST | d827e71712ad | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 349
-- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 677
-- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) — Score: 309
-- [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) — Score: 38
-- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) — Score: 73
+- [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/) — Score: 73
+- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 853
+- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 446
+- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/) — Score: 30
+- [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) — Score: 132
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,623.0 🟢 +0.09%
