@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-30 (last updated: 15:48 IST)
+
+## 📅 2026-05-30 (last updated: 19:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-30 11:04:39 IST | 13d9e95b0424 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-30 19:11:54 IST | 1d35d70abbb2 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-30 15:48:05 IST | f10d1e851434 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [Naphtha Shortages Having a Growing Impact in Japan](https://www.nippon.com/en/japan-data/h02783/) — Score: 73
-- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 853
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 446
-- [Perry Compiles TypeScript directly to executables using SWC and LLVM](https://www.perryts.com/) — Score: 30
-- [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) — Score: 132
+- [Pandoc Templates](https://pandoc-templates.org/) — Score: 176
+- [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26) — Score: 167
+- [Leo's first encyclical attacks technological messianism](https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism) — Score: 48
+- [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) — Score: 32
+- [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) — Score: 138
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,548.0 🔴 -0.01%

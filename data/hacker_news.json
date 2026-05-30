@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-30 05:34:39 UTC",
-    "fetched_at_ist": "2026-05-30 11:04:39 IST",
+    "fetched_at_utc": "2026-05-30 13:41:54 UTC",
+    "fetched_at_ist": "2026-05-30 19:11:54 IST",
     "item_count": 5,
-    "content_hash": "13d9e95b04242323029196119ac14eae0b18a0303c84f6f412affad0e95ccd4c",
-    "previous_hash": "b653afda1f46dbe88abcafb62852c6963c764f0269ca2d0bb4ca28ba2913ba7a",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "1d35d70abbb23d2f029046a9856e94f14f8a804145acdc9792313fa65f7ff23c",
+    "previous_hash": "13d9e95b04242323029196119ac14eae0b18a0303c84f6f412affad0e95ccd4c",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48331786,
-      "title": "Naphtha Shortages Having a Growing Impact in Japan",
-      "url": "https://www.nippon.com/en/japan-data/h02783/",
-      "score": 73,
-      "comments": 34
+      "id": 48334515,
+      "title": "Pandoc Templates",
+      "url": "https://pandoc-templates.org/",
+      "score": 176,
+      "comments": 14
     },
     {
-      "id": 48324712,
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 853,
-      "comments": 1026
+      "id": 48334048,
+      "title": "Zig: Build System Reworked",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+      "score": 167,
+      "comments": 72
     },
     {
-      "id": 48326802,
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 446,
-      "comments": 226
+      "id": 48334710,
+      "title": "Leo's first encyclical attacks technological messianism",
+      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
+      "score": 48,
+      "comments": 25
     },
     {
-      "id": 48332151,
-      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-      "url": "https://www.perryts.com/",
-      "score": 30,
-      "comments": 13
+      "id": 48334854,
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "url": "https://github.com/kristapsdz/openrsync",
+      "score": 32,
+      "comments": 12
     },
     {
-      "id": 48284494,
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-      "score": 132,
-      "comments": 40
+      "id": 48335135,
+      "title": "Proposed new US funding rules: We can cancel any grant at any time",
+      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+      "score": 138,
+      "comments": 78
     }
   ]
 }
