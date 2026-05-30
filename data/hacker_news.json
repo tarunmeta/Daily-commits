@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-29 23:43:00 UTC",
-    "fetched_at_ist": "2026-05-30 05:13:00 IST",
+    "fetched_at_utc": "2026-05-30 01:31:30 UTC",
+    "fetched_at_ist": "2026-05-30 07:01:30 IST",
     "item_count": 5,
-    "content_hash": "4e7e6f078d2ca7bd18233b266efb45757fc9d6da3e1f8193e479228ce8e72976",
-    "previous_hash": "0eb51095b880342d96b48e4dfc5db325d956250e6c2d1c099276ab00451febce",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "b653afda1f46dbe88abcafb62852c6963c764f0269ca2d0bb4ca28ba2913ba7a",
+    "previous_hash": "4e7e6f078d2ca7bd18233b266efb45757fc9d6da3e1f8193e479228ce8e72976",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48326802,
       "title": "SQLite is all you need for durable workflows",
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "score": 296,
-      "comments": 178
+      "score": 349,
+      "comments": 199
     },
     {
       "id": 48324712,
       "title": "The dead economy theory",
       "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "score": 597,
-      "comments": 785
-    },
-    {
-      "id": 48324853,
-      "title": "You can just say it",
-      "url": "https://noperator.dev/posts/you-can-just-say-it/",
-      "score": 72,
-      "comments": 10
+      "score": 677,
+      "comments": 862
     },
     {
       "id": 48325340,
       "title": "Notes from the Mistral AI Now Summit",
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "score": 298,
-      "comments": 102
+      "score": 309,
+      "comments": 109
     },
     {
-      "id": 48327962,
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "score": 61,
-      "comments": 86
+      "id": 48284494,
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
+      "score": 38,
+      "comments": 9
+    },
+    {
+      "id": 48330436,
+      "title": "MCP is dead?",
+      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
+      "score": 73,
+      "comments": 59
     }
   ]
 }

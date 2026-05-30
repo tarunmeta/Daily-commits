@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-30 (last updated: 05:13 IST)
+
+## 📅 2026-05-30 (last updated: 07:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-30 05:13:00 IST | 4e7e6f078d2c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-30 07:01:30 IST | b653afda1f46 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-05-30 01:57:25 IST | d827e71712ad | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 296
-- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 597
-- [You can just say it](https://noperator.dev/posts/you-can-just-say-it/) — Score: 72
-- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) — Score: 298
-- [Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) — Score: 61
+- [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/) — Score: 349
+- [The dead economy theory](https://www.owenmcgrann.com/p/the-dead-economy-theory) — Score: 677
+- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) — Score: 309
+- [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) — Score: 38
+- [MCP is dead?](https://www.quandri.io/engineering-blog/mcp-is-dead) — Score: 73
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,623.0 🟢 +0.09%
