@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-30 17:30:13 UTC",
-    "fetched_at_ist": "2026-05-30 23:00:13 IST",
+    "fetched_at_utc": "2026-05-30 23:33:44 UTC",
+    "fetched_at_ist": "2026-05-31 05:03:44 IST",
     "item_count": 5,
-    "content_hash": "cacf4d0d95aeadbd9a4f01fe55c82e1252cefecd24ec235a36921e0d7f760bcd",
-    "previous_hash": "1d35d70abbb23d2f029046a9856e94f14f8a804145acdc9792313fa65f7ff23c",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "50c21c017a6dadc469c69614d5f83c189e1a31ff9215f2e80f4c0dd8ce6066f4",
+    "previous_hash": "cacf4d0d95aeadbd9a4f01fe55c82e1252cefecd24ec235a36921e0d7f760bcd",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48336564,
-      "title": "Voxel Space",
-      "url": "https://s-macke.github.io/VoxelSpace/",
-      "score": 128,
-      "comments": 24
+      "id": 48340411,
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "score": 168,
+      "comments": 106
     },
     {
-      "id": 48336233,
-      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-      "score": 361,
-      "comments": 369
+      "id": 48318402,
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
+      "score": 155,
+      "comments": 45
     },
     {
-      "id": 48334854,
-      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "url": "https://github.com/kristapsdz/openrsync",
-      "score": 189,
-      "comments": 81
+      "id": 48337987,
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "score": 215,
+      "comments": 109
     },
     {
-      "id": 48334515,
-      "title": "Pandoc Templates",
-      "url": "https://pandoc-templates.org/",
-      "score": 277,
-      "comments": 41
+      "id": 48339894,
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+      "score": 49,
+      "comments": 25
     },
     {
-      "id": 48286745,
-      "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-      "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-      "score": 94,
-      "comments": 20
+      "id": 48340422,
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "url": "https://github.com/wolfSSL/wolfCOSE",
+      "score": 34,
+      "comments": 2
     }
   ]
 }

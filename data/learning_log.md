@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-31 (last updated: 03:45 IST)
+
+## 📅 2026-05-31 (last updated: 05:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-30 23:00:13 IST | cacf4d0d95ae | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-31 05:03:44 IST | 50c21c017a6d | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-31 03:45:28 IST | f685aaac8da4 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [Voxel Space](https://s-macke.github.io/VoxelSpace/) — Score: 128
-- [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup) — Score: 361
-- [Openrsync: An implementation of rsync, by the OpenBSD team](https://github.com/kristapsdz/openrsync) — Score: 189
-- [Pandoc Templates](https://pandoc-templates.org/) — Score: 277
-- [Navier-Stokes fluid simulation explained with Godot game engine](https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot) — Score: 94
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 168
+- [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) — Score: 155
+- [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) — Score: 215
+- [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/) — Score: 49
+- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) — Score: 34
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,792.0 🟢 +0.62%
