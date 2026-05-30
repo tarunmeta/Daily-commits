@@ -9,14 +9,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-30 (last updated: 11:04 IST)
+
+## 📅 2026-05-30 (last updated: 15:48 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-30 11:04:39 IST | 13d9e95b0424 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-30 01:57:25 IST | d827e71712ad | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-30 15:48:05 IST | f10d1e851434 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Snowboard Kids 2 is 100% Decompiled](https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/) — Score: 132
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,623.0 🟢 +0.09%
-- Ethereum: $2,019.95 🟢 +0.15%
-- Solana: $82.14 🔴 -0.03%
-- Bnb: $642.18 🟢 +0.27%
+- Bitcoin: $73,548.0 🔴 -0.01%
+- Ethereum: $2,015.18 🟢 +0.30%
+- Solana: $82.32 🟢 +0.14%
+- Bnb: $673.84 🟢 +5.33%
 
 ---
 ## 📅 2026-05-29 (last updated: 19:52 IST)
