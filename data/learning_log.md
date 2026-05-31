@@ -9,14 +9,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-31 (last updated: 05:03 IST)
+
+## 📅 2026-05-31 (last updated: 11:50 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-31 05:03:44 IST | 50c21c017a6d | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-31 03:45:28 IST | f685aaac8da4 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-31 11:50:28 IST | 14405c1e8d3d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) — Score: 34
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,792.0 🟢 +0.62%
-- Ethereum: $2,021.35 🟢 +0.70%
-- Solana: $82.61 🟢 +1.25%
-- Bnb: $708.09 🟢 +10.42%
+- Bitcoin: $73,903.0 🟢 +0.61%
+- Ethereum: $2,026.72 🟢 +0.75%
+- Solana: $82.79 🟢 +0.54%
+- Bnb: $733.61 🟢 +10.07%
 
 ---
 ## 📅 2026-05-30 (last updated: 23:00 IST)
