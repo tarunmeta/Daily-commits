@@ -11,14 +11,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-31 (last updated: 15:00 IST)
+
+## 📅 2026-05-31 (last updated: 16:50 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-31 15:00:48 IST | 71538444e9f1 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-31 11:50:28 IST | 14405c1e8d3d | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-05-31 16:50:01 IST | b1d96fd98334 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal](https://github.com/marekkowalczyk/breathe-cli) — Score: 22
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,903.0 🟢 +0.61%
-- Ethereum: $2,026.72 🟢 +0.75%
-- Solana: $82.79 🟢 +0.54%
-- Bnb: $733.61 🟢 +10.07%
+- Bitcoin: $73,803.0 🟢 +0.42%
+- Ethereum: $2,019.47 🟢 +0.30%
+- Solana: $82.67 🟢 +0.56%
+- Bnb: $721.39 🟢 +7.54%
 
 ---
 ## 📅 2026-05-30 (last updated: 23:00 IST)
