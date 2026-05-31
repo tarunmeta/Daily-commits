@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-01 (last updated: 02:45 IST)
+
+## 📅 2026-06-01 (last updated: 04:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-31 23:00:42 IST | f204e66cb1d8 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-01 04:02:15 IST | f6499f45b1c4 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-01 02:45:22 IST | 8a2391ade292 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%](https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/) — Score: 59
-- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) — Score: 210
-- [Dav2d](https://jbkempf.com/blog/2026/dav2d/) — Score: 302
-- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b) — Score: 95
-- [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) — Score: 13
+- [ChatGPT for Google Sheets Exfiltrates Workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration) — Score: 55
+- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) — Score: 445
+- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b) — Score: 245
+- [The four programming questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from) — Score: 37
+- [Atherton spent $145K to delay train electrification. The rest of us paid $400M](https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,600.0 🔴 -0.37%
