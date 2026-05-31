@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-05-31 (last updated: 11:50 IST)
+
+## 📅 2026-05-31 (last updated: 15:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-05-31 05:03:44 IST | 50c21c017a6d | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-05-31 15:00:48 IST | 71538444e9f1 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-05-31 11:50:28 IST | 14405c1e8d3d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 168
-- [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert) — Score: 155
-- [Accenture to acquire Ookla](https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises) — Score: 215
-- [Jef Raskin, the Visionary Behind the Mac (2013)](https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/) — Score: 49
-- [wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack](https://github.com/wolfSSL/wolfCOSE) — Score: 34
+- [The Website Specification](https://specification.website/) — Score: 122
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) — Score: 573
+- [London's Free Roof Terraces](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html) — Score: 24
+- [Avian Visitors](https://theodore.net/projects/AvianVisitors/) — Score: 34
+- [Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal](https://github.com/marekkowalczyk/breathe-cli) — Score: 22
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,903.0 🟢 +0.61%
