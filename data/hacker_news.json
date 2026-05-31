@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-31 09:30:48 UTC",
-    "fetched_at_ist": "2026-05-31 15:00:48 IST",
+    "fetched_at_utc": "2026-05-31 17:30:42 UTC",
+    "fetched_at_ist": "2026-05-31 23:00:42 IST",
     "item_count": 5,
-    "content_hash": "71538444e9f18b9ec0d644d2f9a791c2dd77e60a1b9e865581ed565cd5f177ab",
-    "previous_hash": "50c21c017a6dadc469c69614d5f83c189e1a31ff9215f2e80f4c0dd8ce6066f4",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "f204e66cb1d80c598cd22715a0c33934fe645ff63e4cf1a3e6ff375a422df547",
+    "previous_hash": "71538444e9f18b9ec0d644d2f9a791c2dd77e60a1b9e865581ed565cd5f177ab",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48343683,
-      "title": "The Website Specification",
-      "url": "https://specification.website/",
-      "score": 122,
-      "comments": 40
+      "id": 48346947,
+      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
+      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "score": 59,
+      "comments": 31
     },
     {
-      "id": 48340411,
-      "title": "Domain expertise has always been the real moat",
-      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-      "score": 573,
-      "comments": 330
+      "id": 48345840,
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+      "score": 210,
+      "comments": 116
     },
     {
-      "id": 48343714,
-      "title": "London's Free Roof Terraces",
-      "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-      "score": 24,
+      "id": 48344961,
+      "title": "Dav2d",
+      "url": "https://jbkempf.com/blog/2026/dav2d/",
+      "score": 302,
+      "comments": 95
+    },
+    {
+      "id": 48346257,
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "score": 95,
+      "comments": 23
+    },
+    {
+      "id": 48347354,
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "score": 13,
       "comments": 2
-    },
-    {
-      "id": 48343424,
-      "title": "Avian Visitors",
-      "url": "https://theodore.net/projects/AvianVisitors/",
-      "score": 34,
-      "comments": 3
-    },
-    {
-      "id": 48340315,
-      "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-      "url": "https://github.com/marekkowalczyk/breathe-cli",
-      "score": 22,
-      "comments": 5
     }
   ]
 }
