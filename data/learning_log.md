@@ -5,14 +5,15 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-01 (last updated: 23:00 IST)
+
+## 📅 2026-06-01 (last updated: 02:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-05-31 23:00:42 IST | f204e66cb1d8 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-05-31 16:50:01 IST | b1d96fd98334 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-06-01 02:45:22 IST | 8a2391ade292 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Meta launches Instagram, Facebook, and WhatsApp subscriptions](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) — Score: 13
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,803.0 🟢 +0.42%
-- Ethereum: $2,019.47 🟢 +0.30%
-- Solana: $82.67 🟢 +0.56%
-- Bnb: $721.39 🟢 +7.54%
+- Bitcoin: $73,600.0 🔴 -0.37%
+- Ethereum: $2,003.31 🔴 -1.13%
+- Solana: $81.79 🔴 -1.25%
+- Bnb: $707.1 🔴 -1.65%
 
 ---
 ## 📅 2026-05-31 (last updated: 23:00 IST)
