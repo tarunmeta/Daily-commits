@@ -10,13 +10,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-01 (last updated: 15:10 IST)
+
+## 📅 2026-06-01 (last updated: 21:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-01 15:10:03 IST | a0f23723de17 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-01 21:12:46 IST | a26f26094477 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-01 09:45:16 IST | 940c352970ea | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/) — Score: 69
-- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/) — Score: 274
-- [Meta legal action forces Facebook whistleblower to sit in silence](https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival) — Score: 71
-- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) — Score: 670
-- [Rift: Better Alternative to Git Worktrees](https://github.com/anomalyco/rift) — Score: 26
+- [NPM packages from Red Hat have been compromised](https://github.com/RedHatInsights/javascript-clients/issues/492) — Score: 470
+- [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) — Score: 65
+- [Windows GOG DOS Games on M-Series Macs](https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/) — Score: 49
+- [Flipper Zero Zig Template](https://github.com/NishantJoshi00/flipper-template) — Score: 51
+- [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/) — Score: 466
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,513.0 🔴 -0.68%
