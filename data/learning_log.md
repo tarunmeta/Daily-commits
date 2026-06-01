@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-01 (last updated: 09:45 IST)
+
+## 📅 2026-06-01 (last updated: 15:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-01 04:02:15 IST | f6499f45b1c4 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-01 15:10:03 IST | a0f23723de17 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-01 09:45:16 IST | 940c352970ea | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [ChatGPT for Google Sheets Exfiltrates Workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration) — Score: 55
-- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) — Score: 445
-- [1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b) — Score: 245
-- [The four programming questions from my 1994 Microsoft internship interview (2023)](https://www.computerenhance.com/p/the-four-programming-questions-from) — Score: 37
-- [Atherton spent $145K to delay train electrification. The rest of us paid $400M](https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/) — Score: 13
+- [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/) — Score: 69
+- [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/) — Score: 274
+- [Meta legal action forces Facebook whistleblower to sit in silence](https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival) — Score: 71
+- [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting) — Score: 670
+- [Rift: Better Alternative to Git Worktrees](https://github.com/anomalyco/rift) — Score: 26
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,513.0 🔴 -0.68%

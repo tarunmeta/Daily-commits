@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-05-31 22:32:15 UTC",
-    "fetched_at_ist": "2026-06-01 04:02:15 IST",
+    "fetched_at_utc": "2026-06-01 09:40:03 UTC",
+    "fetched_at_ist": "2026-06-01 15:10:03 IST",
     "item_count": 5,
-    "content_hash": "f6499f45b1c47a7a29056236e9a872b6d0c25daf6964307bc571a5a71698cf5a",
-    "previous_hash": "f204e66cb1d80c598cd22715a0c33934fe645ff63e4cf1a3e6ff375a422df547",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "a0f23723de173964b1f64cad829bb20fa8da8e890ab0c634ec6c83cf4c39c3b8",
+    "previous_hash": "f6499f45b1c47a7a29056236e9a872b6d0c25daf6964307bc571a5a71698cf5a",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48349487,
-      "title": "ChatGPT for Google Sheets Exfiltrates Workbooks",
-      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-      "score": 55,
-      "comments": 15
+      "id": 48353348,
+      "title": "A 10 year old Xeon is all you need",
+      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+      "score": 69,
+      "comments": 28
+    },
+    {
+      "id": 48350598,
+      "title": "Chuwi Minibook X",
+      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "score": 274,
+      "comments": 201
+    },
+    {
+      "id": 48353965,
+      "title": "Meta legal action forces Facebook whistleblower to sit in silence",
+      "url": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
+      "score": 71,
+      "comments": 21
     },
     {
       "id": 48345840,
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "score": 445,
-      "comments": 241
+      "score": 670,
+      "comments": 363
     },
     {
-      "id": 48346257,
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "score": 245,
-      "comments": 88
-    },
-    {
-      "id": 48306225,
-      "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
-      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-      "score": 37,
-      "comments": 6
-    },
-    {
-      "id": 48350131,
-      "title": "Atherton spent $145K to delay train electrification. The rest of us paid $400M",
-      "url": "https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/",
-      "score": 13,
-      "comments": 1
+      "id": 48353427,
+      "title": "Rift: Better Alternative to Git Worktrees",
+      "url": "https://github.com/anomalyco/rift",
+      "score": 26,
+      "comments": 7
     }
   ]
 }
