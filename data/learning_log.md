@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-06-02 (last updated: 21:12 IST)
+
+## 📅 2026-06-02 (last updated: 04:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-01 21:12:46 IST | a26f26094477 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-02 04:06:47 IST | a63d80fd451e | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-01 09:45:16 IST | 940c352970ea | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,430 stars today
 
 ### 📰 Hacker News Stories
-- [NPM packages from Red Hat have been compromised](https://github.com/RedHatInsights/javascript-clients/issues/492) — Score: 470
-- [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) — Score: 65
-- [Windows GOG DOS Games on M-Series Macs](https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/) — Score: 49
-- [Flipper Zero Zig Template](https://github.com/NishantJoshi00/flipper-template) — Score: 51
-- [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/) — Score: 466
+- [The newest Instagram “exploit” is the goofiest I've seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco) — Score: 1100
+- [Debug Project](https://debug.com/) — Score: 80
+- [AI Agent Guidelines for CS336 at Stanford](https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md) — Score: 256
+- [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/) — Score: 143
+- [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) — Score: 300
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $73,513.0 🔴 -0.68%
@@ -44,13 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $699.97 🔴 -5.21%
 
 ---
-
-
-
-
-
-
-
 ## 📅 2026-06-01 (last updated: 21:12 IST)
 
 ### 🧪 Source Integrity Snapshot

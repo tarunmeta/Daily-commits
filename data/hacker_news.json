@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-01 15:42:46 UTC",
-    "fetched_at_ist": "2026-06-01 21:12:46 IST",
+    "fetched_at_utc": "2026-06-01 22:36:47 UTC",
+    "fetched_at_ist": "2026-06-02 04:06:47 IST",
     "item_count": 5,
-    "content_hash": "a26f260944771966a7f33a5f9b966cd7cb08efe4ce492d199b938d34c4a170f1",
-    "previous_hash": "a0f23723de173964b1f64cad829bb20fa8da8e890ab0c634ec6c83cf4c39c3b8",
+    "content_hash": "a63d80fd451e9692a5f1b3dcb36d47eb9749eb105c295e0c2ad3d701b9f2fca1",
+    "previous_hash": "a26f260944771966a7f33a5f9b966cd7cb08efe4ce492d199b938d34c4a170f1",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48356625,
-      "title": "NPM packages from Red Hat have been compromised",
-      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
-      "score": 470,
-      "comments": 236
+      "id": 48359102,
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "score": 1100,
+      "comments": 259
+    },
+    {
+      "id": 48362347,
+      "title": "Debug Project",
+      "url": "https://debug.com/",
+      "score": 80,
+      "comments": 34
+    },
+    {
+      "id": 48359232,
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "score": 256,
+      "comments": 103
+    },
+    {
+      "id": 48360054,
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "score": 143,
+      "comments": 57
     },
     {
       "id": 48357075,
       "title": "CS336: Language Modeling from Scratch",
       "url": "https://cs336.stanford.edu/",
-      "score": 65,
-      "comments": 3
-    },
-    {
-      "id": 48356603,
-      "title": "Windows GOG DOS Games on M-Series Macs",
-      "url": "https://f055.net/technology/windows-gog-dos-games-on-m-series-macs/",
-      "score": 49,
-      "comments": 35
-    },
-    {
-      "id": 48356490,
-      "title": "Flipper Zero Zig Template",
-      "url": "https://github.com/NishantJoshi00/flipper-template",
-      "score": 51,
-      "comments": 3
-    },
-    {
-      "id": 48353348,
-      "title": "A 10 year old Xeon is all you need",
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "score": 466,
-      "comments": 203
+      "score": 300,
+      "comments": 39
     }
   ]
 }
