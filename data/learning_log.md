@@ -8,14 +8,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-01 (last updated: 04:02 IST)
+
+## 📅 2026-06-01 (last updated: 09:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-01 04:02:15 IST | f6499f45b1c4 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-01 02:45:22 IST | 8a2391ade292 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-06-01 09:45:16 IST | 940c352970ea | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Atherton spent $145K to delay train electrification. The rest of us paid $400M](https://peninsulaforeveryone.org/blog/atherton-spent-145k-to-delay-caltrain-electrification-the-rest-of-us-paid-400-million-and-waited-3-extra-years/) — Score: 13
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,600.0 🔴 -0.37%
-- Ethereum: $2,003.31 🔴 -1.13%
-- Solana: $81.79 🔴 -1.25%
-- Bnb: $707.1 🔴 -1.65%
+- Bitcoin: $73,513.0 🔴 -0.68%
+- Ethereum: $2,000.85 🔴 -1.37%
+- Solana: $82.29 🔴 -0.90%
+- Bnb: $699.97 🔴 -5.21%
 
 ---
 ## 📅 2026-05-31 (last updated: 23:00 IST)
