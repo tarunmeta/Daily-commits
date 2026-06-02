@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-01 22:36:47 UTC",
-    "fetched_at_ist": "2026-06-02 04:06:47 IST",
+    "fetched_at_utc": "2026-06-02 22:34:15 UTC",
+    "fetched_at_ist": "2026-06-03 04:04:15 IST",
     "item_count": 5,
-    "content_hash": "a63d80fd451e9692a5f1b3dcb36d47eb9749eb105c295e0c2ad3d701b9f2fca1",
-    "previous_hash": "a26f260944771966a7f33a5f9b966cd7cb08efe4ce492d199b938d34c4a170f1",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "2490422aa8f152df6a84560a79510c2c5f6d020ec717893201bcfa7723a1fcb6",
+    "previous_hash": "a63d80fd451e9692a5f1b3dcb36d47eb9749eb105c295e0c2ad3d701b9f2fca1",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48359102,
-      "title": "The newest Instagram “exploit” is the goofiest I've seen",
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "score": 1100,
-      "comments": 259
+      "id": 48374466,
+      "title": "MAI-Code-1-Flash",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "score": 294,
+      "comments": 141
     },
     {
-      "id": 48362347,
-      "title": "Debug Project",
-      "url": "https://debug.com/",
-      "score": 80,
-      "comments": 34
-    },
-    {
-      "id": 48359232,
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "score": 256,
-      "comments": 103
-    },
-    {
-      "id": 48360054,
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "url": "https://30fps.net/pages/255-vs-256-division/",
-      "score": 143,
-      "comments": 57
-    },
-    {
-      "id": 48357075,
-      "title": "CS336: Language Modeling from Scratch",
-      "url": "https://cs336.stanford.edu/",
-      "score": 300,
+      "id": 48375824,
+      "title": "CT scans of BYD car parts",
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "score": 113,
       "comments": 39
+    },
+    {
+      "id": 48375016,
+      "title": "Gmail thinks I'm stupid, so I left",
+      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+      "score": 442,
+      "comments": 264
+    },
+    {
+      "id": 48377080,
+      "title": "Gleam v1.17.0 Released",
+      "url": "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/",
+      "score": 12,
+      "comments": 1
+    },
+    {
+      "id": 48375150,
+      "title": "Open Repair Data Standard – Open Repair Alliance",
+      "url": "https://openrepair.org/open-data/open-standard/",
+      "score": 64,
+      "comments": 2
     }
   ]
 }
