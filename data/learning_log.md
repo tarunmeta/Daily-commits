@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-02 (last updated: 04:06 IST)
+
+## 📅 2026-06-02 (last updated: 22:53 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-05-27 17:31:06 IST | eda3138b7ef4 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-02 04:06:47 IST | a63d80fd451e | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-01 09:45:16 IST | 940c352970ea | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-06-02 22:53:55 IST | 7939e0beb4a5 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)** (TypeScript) — Graphs that teach > graphs that impress. Turn any code into an interactive knowl  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/) — Score: 300
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $73,513.0 🔴 -0.68%
-- Ethereum: $2,000.85 🔴 -1.37%
-- Solana: $82.29 🔴 -0.90%
-- Bnb: $699.97 🔴 -5.21%
+- Bitcoin: $67,570.0 🔴 -5.43%
+- Ethereum: $1,923.66 🔴 -2.96%
+- Solana: $76.76 🔴 -4.58%
+- Bnb: $664.5 🔴 -2.89%
 
 ---
 ## 📅 2026-06-01 (last updated: 21:12 IST)
