@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-04 00:01:11 UTC",
-    "fetched_at_ist": "2026-06-04 05:31:11 IST",
+    "fetched_at_utc": "2026-06-04 20:31:49 UTC",
+    "fetched_at_ist": "2026-06-05 02:01:49 IST",
     "item_count": 5,
-    "content_hash": "93971802260955a332dabe31d867f79cec9a2caf66c33ea9082a2e006c9ffe90",
-    "previous_hash": "2490422aa8f152df6a84560a79510c2c5f6d020ec717893201bcfa7723a1fcb6",
+    "content_hash": "6caa189cc17db111990ea5666097fa1e6a21f07fcf161e2c2e02c99161af1b6e",
+    "previous_hash": "93971802260955a332dabe31d867f79cec9a2caf66c33ea9082a2e006c9ffe90",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48388324,
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-      "score": 474,
-      "comments": 163
+      "id": 48403588,
+      "title": "Meta's ships facial recognition on smart glasses",
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "score": 59,
+      "comments": 22
     },
     {
-      "id": 48385906,
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "score": 638,
-      "comments": 267
+      "id": 48398055,
+      "title": "VoidZero Is Joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "score": 494,
+      "comments": 232
     },
     {
-      "id": 48384355,
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "url": "https://burntsushi.net/encephalitis/",
-      "score": 452,
-      "comments": 126
+      "id": 48403980,
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "score": 20,
+      "comments": 5
     },
     {
-      "id": 48384482,
-      "title": "DaVinci Resolve 21",
-      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-      "score": 370,
-      "comments": 175
+      "id": 48400588,
+      "title": "Retro-Tech Parenting",
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "score": 168,
+      "comments": 109
     },
     {
-      "id": 48387270,
-      "title": "Artificial intelligence is not conscious – Ted Chiang",
-      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
-      "score": 158,
-      "comments": 242
+      "id": 48400842,
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 122,
+      "comments": 136
     }
   ]
 }
