@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-03 15:16:12 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-04 00:01:11 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Lum1104/Understand-Anything**
-- BTC: **$66,426.0** ↓ (-1.92%)
-- HN top story: **MAI-Code-1-Flash**
+- Top GitHub repo: **chopratejas/headroom**
+- BTC: **$64,024.0** ↓ (-4.00%)
+- HN top story: **Elixir v1.20: Now a gradually typed language**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-05-27 12:01:06 UTC | `eda3138b7ef4` | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-02 22:34:15 UTC | `2490422aa8f1` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-03 15:16:12 UTC | `9b3052476ba6` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-06-04 00:01:10 UTC | `6a2eb2d3029c` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-04 00:01:11 UTC | `939718022609` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-04 00:01:10 UTC | `89b6061528a4` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: no
+- GitHub: +13 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-04` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `67` day(s) |
-| Last Commit (IST) | `2026-06-04 00:37:13 IST` |
+| Last Commit (IST) | `2026-06-04 03:35:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-01 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-02 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-06-03 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-06-04 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-06-04 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,426.0 | -1.92% | 🔴 |
-| Ethereum | $1,847.43 | -4.32% | 🔴 |
-| Solana | $73.91 | -3.97% | 🔴 |
-| Bnb | $634.93 | -5.20% | 🔴 |
+| Bitcoin | $64,024.0 | -4.00% | 🔴 |
+| Ethereum | $1,811.25 | -2.52% | 🔴 |
+| Solana | $71.54 | -3.45% | 🔴 |
+| Bnb | $619.97 | -4.67% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | 4,697 stars today | Graphs that teach > graphs that impress. Turn any code into an interactive knowl… |
-| [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | Unknown | 539 stars today | A skill file for removing AI tells from prose |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,915 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | 1,718 stars today | Open source repository of plugins primarily intended for knowledge workers to us… |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 1,430 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
-| [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | 314 stars today | Fully automatic censorship removal for language models |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 425 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 880 stars today | 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR… |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 3,530 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 2,141 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | 24 stars today | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,735 stars today | The agent that grows with you |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,984 stars today | Python tool for converting files and office documents to Markdown. |
+| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | 719 stars today | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 1,067 stars today | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ… |
+| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 570 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/) | 294 | 141 |
-| [CT scans of BYD car parts](https://www.lumafield.com/scan-of-the-month/byd) | 113 | 39 |
-| [Gmail thinks I'm stupid, so I left](https://moddedbear.com/gmail-thinks-im-stupid-so-i-left) | 442 | 264 |
-| [Gleam v1.17.0 Released](https://gleam.run/news/single-file-gleam-beam-programs-with-escript/) | 12 | 1 |
-| [Open Repair Data Standard – Open Repair Alliance](https://openrepair.org/open-data/open-standard/) | 64 | 2 |
+| [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/) | 474 | 163 |
+| [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) | 638 | 267 |
+| [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/) | 452 | 126 |
+| [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew) | 370 | 175 |
+| [Artificial intelligence is not conscious – Ted Chiang](https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/) | 158 | 242 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
