@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-05 (last updated: 02:01 IST)
+
+## 📅 2026-06-05 (last updated: 05:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-04 05:31:10 IST | 6a2eb2d3029c | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-05 02:01:49 IST | 6caa189cc17d | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-05 05:07:50 IST | 7547ed374a72 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-04 23:55:20 IST | c8bd7b0e0f8f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,984 stars today
 
 ### 📰 Hacker News Stories
-- [Meta's ships facial recognition on smart glasses](https://www.buchodi.com/meta-glasses-facial-recognition/) — Score: 59
-- [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) — Score: 494
-- [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness) — Score: 20
-- [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html) — Score: 168
-- [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement) — Score: 122
+- [Do Transformers Need Three Projections? Systematic Study of QKV Variants](https://arxiv.org/abs/2606.04032) — Score: 26
+- [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness) — Score: 202
+- [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/) — Score: 48
+- [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/) — Score: 544
+- [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement) — Score: 264
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,439.0 🔴 -3.49%

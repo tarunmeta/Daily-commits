@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-04 20:31:49 UTC",
-    "fetched_at_ist": "2026-06-05 02:01:49 IST",
+    "fetched_at_utc": "2026-06-04 23:37:50 UTC",
+    "fetched_at_ist": "2026-06-05 05:07:50 IST",
     "item_count": 5,
-    "content_hash": "6caa189cc17db111990ea5666097fa1e6a21f07fcf161e2c2e02c99161af1b6e",
-    "previous_hash": "93971802260955a332dabe31d867f79cec9a2caf66c33ea9082a2e006c9ffe90",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "7547ed374a72a2b8e91c31884d12f017b428c3ff0435cb451bad3dd96c494013",
+    "previous_hash": "6caa189cc17db111990ea5666097fa1e6a21f07fcf161e2c2e02c99161af1b6e",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48403588,
-      "title": "Meta's ships facial recognition on smart glasses",
-      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-      "score": 59,
-      "comments": 22
-    },
-    {
-      "id": 48398055,
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "score": 494,
-      "comments": 232
+      "id": 48405931,
+      "title": "Do Transformers Need Three Projections? Systematic Study of QKV Variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "score": 26,
+      "comments": 2
     },
     {
       "id": 48403980,
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
       "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "score": 20,
-      "comments": 5
+      "score": 202,
+      "comments": 72
     },
     {
-      "id": 48400588,
-      "title": "Retro-Tech Parenting",
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "score": 168,
-      "comments": 109
+      "id": 48405019,
+      "title": "IPv6 zones in URLs are a mistake",
+      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "score": 48,
+      "comments": 34
+    },
+    {
+      "id": 48398055,
+      "title": "VoidZero Is Joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "score": 544,
+      "comments": 245
     },
     {
       "id": 48400842,
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
       "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-      "score": 122,
-      "comments": 136
+      "score": 264,
+      "comments": 355
     }
   ]
 }
