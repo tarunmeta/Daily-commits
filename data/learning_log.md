@@ -10,19 +10,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-05 (last updated: 19:12 IST)
+
+## 📅 2026-06-05 (last updated: 21:48 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-04 05:31:10 IST | 6a2eb2d3029c | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-05 19:12:29 IST | 414238fd2196 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-05 11:54:41 IST | 4de2c8081cf8 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-05 21:48:54 IST | 4d02fdf1628c | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[chopratejas/headroom](https://github.com/chopratejas/headroom)** (Python) — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60  
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click) — Score: 42
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $61,426.0 🔴 -4.44%
-- Ethereum: $1,651.82 🔴 -8.02%
-- Solana: $65.07 🔴 -8.23%
-- Bnb: $573.79 🔴 -5.66%
+- Bitcoin: $60,838.0 🔴 -4.42%
+- Ethereum: $1,586.91 🔴 -10.44%
+- Solana: $64.37 🔴 -7.12%
+- Bnb: $576.56 🔴 -4.75%
 
 ---
 ## 📅 2026-06-04 (last updated: 23:55 IST)
