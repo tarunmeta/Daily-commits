@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-05 10:31:48 UTC",
-    "fetched_at_ist": "2026-06-05 16:01:48 IST",
+    "fetched_at_utc": "2026-06-05 13:42:29 UTC",
+    "fetched_at_ist": "2026-06-05 19:12:29 IST",
     "item_count": 5,
-    "content_hash": "2c60a1e7e0a48e583712d33b11d06a99afc52b8880426134f49389c3fbfc7db2",
-    "previous_hash": "7547ed374a72a2b8e91c31884d12f017b428c3ff0435cb451bad3dd96c494013",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "414238fd2196aacd977d61394c9f551b9239d5f3614cda191330a89f6d394d60",
+    "previous_hash": "2c60a1e7e0a48e583712d33b11d06a99afc52b8880426134f49389c3fbfc7db2",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48409191,
-      "title": "Changing How We Develop Ladybird",
-      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "score": 263,
-      "comments": 156
+      "id": 48411190,
+      "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
+      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
+      "score": 172,
+      "comments": 161
+    },
+    {
+      "id": 48411510,
+      "title": "Programmers will document for Claude, but not for each other",
+      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+      "score": 36,
+      "comments": 22
     },
     {
       "id": 48409664,
       "title": "Tracing a powerful GNSS interference source over Europe",
       "url": "https://arxiv.org/abs/2606.03673",
-      "score": 41,
-      "comments": 4
+      "score": 187,
+      "comments": 66
     },
     {
-      "id": 48409675,
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "score": 24,
-      "comments": 11
+      "id": 48382047,
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "score": 69,
+      "comments": 23
     },
     {
-      "id": 48406640,
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "score": 228,
-      "comments": 84
-    },
-    {
-      "id": 48408016,
-      "title": "C++: The Documentary",
-      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "score": 160,
-      "comments": 97
+      "id": 48383667,
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
+      "score": 42,
+      "comments": 24
     }
   ]
 }
