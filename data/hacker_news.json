@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-05 13:42:29 UTC",
-    "fetched_at_ist": "2026-06-05 19:12:29 IST",
+    "fetched_at_utc": "2026-06-06 16:39:51 UTC",
+    "fetched_at_ist": "2026-06-06 22:09:51 IST",
     "item_count": 5,
-    "content_hash": "414238fd2196aacd977d61394c9f551b9239d5f3614cda191330a89f6d394d60",
-    "previous_hash": "2c60a1e7e0a48e583712d33b11d06a99afc52b8880426134f49389c3fbfc7db2",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "49565afa69e5b9b169535dedbcf120c8fc8ba6e64aae813a039775a958b0bd9b",
+    "previous_hash": "414238fd2196aacd977d61394c9f551b9239d5f3614cda191330a89f6d394d60",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48411190,
-      "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
-      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2026.308501",
-      "score": 172,
-      "comments": 161
+      "id": 48425528,
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 99,
+      "comments": 74
     },
     {
-      "id": 48411510,
-      "title": "Programmers will document for Claude, but not for each other",
-      "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-      "score": 36,
-      "comments": 22
+      "id": 48425247,
+      "title": "Benchmarks in Leipzig",
+      "url": "https://arxiv.org/abs/2606.05818",
+      "score": 66,
+      "comments": 28
     },
     {
-      "id": 48409664,
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "url": "https://arxiv.org/abs/2606.03673",
+      "id": 48424605,
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "score": 66,
+      "comments": 146
+    },
+    {
+      "id": 48423990,
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
       "score": 187,
-      "comments": 66
+      "comments": 228
     },
     {
-      "id": 48382047,
-      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "score": 69,
-      "comments": 23
-    },
-    {
-      "id": 48383667,
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "score": 42,
-      "comments": 24
+      "id": 48389360,
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "score": 650,
+      "comments": 181
     }
   ]
 }
