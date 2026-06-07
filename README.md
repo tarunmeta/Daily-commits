@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-07 10:40:15 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-07 12:12:34 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$62,429.0** ↑ (+1.86%)
+- BTC: **$62,357.0** ↑ (+2.25%)
 - HN top story: **The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-06-07 00:04:50 UTC | `52a645d361c3` | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-07 10:40:15 UTC | `1ecee558e5e9` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-07 08:25:22 UTC | `cc346ec95fd3` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-06-07 12:12:33 UTC | `82c00e4300f3` | +12 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-07 12:12:34 UTC | `b4c16f396869` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-06-07 12:12:33 UTC | `7ed44101e727` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +17 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +12 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-07` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `68` day(s) |
-| Last Commit (IST) | `2026-06-07 13:55:22 IST` |
+| Last Commit (IST) | `2026-06-07 16:10:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-04 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-05 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-06 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-06-07 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-06-07 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,429.0 | +1.86% | 🟢 |
-| Ethereum | $1,614.67 | +2.00% | 🟢 |
-| Solana | $64.64 | +2.78% | 🟢 |
-| Bnb | $588.74 | +1.30% | 🟢 |
+| Bitcoin | $62,357.0 | +2.25% | 🟢 |
+| Ethereum | $1,618.88 | +3.65% | 🟢 |
+| Solana | $64.74 | +3.38% | 🟢 |
+| Bnb | $590.66 | +2.87% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 439 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | 631 stars today | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an… |
-| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | Python | 446 stars today | The best-benchmarked open-source AI memory system. And it's free. |
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 70 stars today | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
-| [openai/plugins](https://github.com/openai/plugins) | JavaScript | 213 stars today | OpenAI Plugins |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 683 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
-| [sveltejs/svelte](https://github.com/sveltejs/svelte) | JavaScript | 25 stars today | web development for the rest of us |
-| [nginx/nginx](https://github.com/nginx/nginx) | C | 20 stars today | The official NGINX Open Source repository. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,097 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [opencv/opencv](https://github.com/opencv/opencv) | C++ | 58 stars today | Open Source Computer Vision Library |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 1,104 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,117 stars today | The agent that grows with you |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 555 stars today | An Open Source implementation of Notebook LM with more flexibility and features |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 180 stars today | Let's use AI to Earn! |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | 262 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 304 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) | 173 | 47 |
-| [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) | 43 | 5 |
-| [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) | 170 | 78 |
-| [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/) | 26 | 3 |
-| [My Software North Star](https://kristoff.it/blog/north-star/) | 85 | 38 |
+| [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) | 219 | 54 |
+| [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/) | 50 | 13 |
+| [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) | 65 | 11 |
+| [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) | 120 | 39 |
+| [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) | 199 | 87 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

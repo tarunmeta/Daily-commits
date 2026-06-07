@@ -11,44 +11,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-07 (last updated: 16:10 IST)
+
+## 📅 2026-06-07 (last updated: 17:42 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-06-07 05:34:50 IST | 52a645d361c3 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-07 16:10:15 IST | 1ecee558e5e9 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-07 13:55:22 IST | cc346ec95fd3 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-06-07 17:42:33 IST | 82c00e4300f3 | +12 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-07 17:42:34 IST | b4c16f396869 | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-06-07 17:42:33 IST | 7ed44101e727 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +17 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +12 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 439 stars today
-- **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** (TypeScript) — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an  
-  ⭐ 631 stars today
-- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** (Python) — The best-benchmarked open-source AI memory system. And it's free.  
-  ⭐ 446 stars today
-- **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** (TypeScript) — Agentic AI Infrastructure for magnifying HUMAN capabilities.  
-  ⭐ 70 stars today
-- **[openai/plugins](https://github.com/openai/plugins)** (JavaScript) — OpenAI Plugins  
-  ⭐ 213 stars today
+  ⭐ 1,097 stars today
+- **[opencv/opencv](https://github.com/opencv/opencv)** (C++) — Open Source Computer Vision Library  
+  ⭐ 58 stars today
+- **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** (Shell) — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen  
+  ⭐ 1,104 stars today
+- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
+  ⭐ 1,117 stars today
+- **[lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)** (TypeScript) — An Open Source implementation of Notebook LM with more flexibility and features  
+  ⭐ 555 stars today
 
 ### 📰 Hacker News Stories
-- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) — Score: 173
-- [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) — Score: 43
-- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) — Score: 170
-- [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/) — Score: 26
-- [My Software North Star](https://kristoff.it/blog/north-star/) — Score: 85
+- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) — Score: 219
+- [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/) — Score: 50
+- [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) — Score: 65
+- [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) — Score: 120
+- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) — Score: 199
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,429.0 🟢 +1.86%
-- Ethereum: $1,614.67 🟢 +2.00%
-- Solana: $64.64 🟢 +2.78%
-- Bnb: $588.74 🟢 +1.30%
+- Bitcoin: $62,357.0 🟢 +2.25%
+- Ethereum: $1,618.88 🟢 +3.65%
+- Solana: $64.74 🟢 +3.38%
+- Bnb: $590.66 🟢 +2.87%
 
 ---
 ## 📅 2026-06-06 (last updated: 22:09 IST)

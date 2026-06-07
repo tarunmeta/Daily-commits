@@ -2,122 +2,104 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-07 00:04:50 UTC",
-    "fetched_at_ist": "2026-06-07 05:34:50 IST",
-    "item_count": 18,
-    "content_hash": "52a645d361c3968c23eadbaea43060b699dd9a2e7705e180685ff63be5cdcbbb",
-    "previous_hash": "6a2eb2d3029ce8eeb9ee0a0f79267bdbfefe77502a3972f7cb8d41f5a1abe686",
-    "new_repos_vs_previous": 17,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-06-07 12:12:33 UTC",
+    "fetched_at_ist": "2026-06-07 17:42:33 IST",
+    "item_count": 15,
+    "content_hash": "82c00e4300f3a4470595a3e968118649a3ac2ddbcccd5e11399665bc4ca43275",
+    "previous_hash": "52a645d361c3968c23eadbaea43060b699dd9a2e7705e180685ff63be5cdcbbb",
+    "new_repos_vs_previous": 12,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "439 stars today"
+      "stars_today": "1,097 stars today"
     },
     {
-      "name": "CopilotKit/CopilotKit",
-      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
-      "language": "TypeScript",
-      "stars_today": "631 stars today"
+      "name": "opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars_today": "58 stars today"
     },
     {
-      "name": "MemPalace/mempalace",
-      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars_today": "1,104 stars today"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "446 stars today"
-    },
-    {
-      "name": "danielmiessler/Personal_AI_Infrastructure",
-      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-      "language": "TypeScript",
-      "stars_today": "70 stars today"
-    },
-    {
-      "name": "openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "stars_today": "213 stars today"
-    },
-    {
-      "name": "Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "stars_today": "683 stars today"
-    },
-    {
-      "name": "sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "stars_today": "25 stars today"
-    },
-    {
-      "name": "nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "language": "C",
-      "stars_today": "20 stars today"
-    },
-    {
-      "name": "aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "stars_today": "159 stars today"
-    },
-    {
-      "name": "golang/go",
-      "description": "The Go programming language",
-      "language": "Go",
-      "stars_today": "30 stars today"
+      "stars_today": "1,117 stars today"
     },
     {
       "name": "lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_today": "794 stars today"
+      "stars_today": "555 stars today"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "700 stars today"
-    },
-    {
-      "name": "santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars_today": "193 stars today"
-    },
-    {
-      "name": "openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "language": "Python",
-      "stars_today": "150 stars today"
-    },
-    {
-      "name": "vitejs/vite",
-      "description": "Next generation frontend tooling. It's fast!",
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars_today": "25 stars today"
+      "stars_today": "180 stars today"
     },
     {
-      "name": "microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
+      "name": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars_today": "64 stars today"
+      "stars_today": "262 stars today"
     },
     {
-      "name": "PaddlePaddle/PaddleOCR",
-      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-      "language": "Python",
-      "stars_today": "433 stars today"
+      "name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "language": "TypeScript",
+      "stars_today": "304 stars today"
     },
     {
-      "name": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
+      "name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars_today": "199 stars today"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "216 stars today"
+      "stars_today": "1,533 stars today"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "355 stars today"
+    },
+    {
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars_today": "262 stars today"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars_today": "242 stars today"
+    },
+    {
+      "name": "HunxByts/GhostTrack",
+      "description": "Useful tool to track location or mobile number",
+      "language": "Python",
+      "stars_today": "21 stars today"
+    },
+    {
+      "name": "microsoft/pg_durable",
+      "description": "PostgreSQL in-database durable execution",
+      "language": "Rust",
+      "stars_today": "314 stars today"
     }
   ]
 }
