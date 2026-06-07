@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-07 (last updated: 13:55 IST)
+
+## 📅 2026-06-07 (last updated: 16:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-06-07 05:34:50 IST | 52a645d361c3 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-07 05:34:51 IST | 7dfe05e35bbd | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-07 16:10:15 IST | 1ecee558e5e9 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-07 13:55:22 IST | cc346ec95fd3 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 213 stars today
 
 ### 📰 Hacker News Stories
-- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/) — Score: 231
-- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) — Score: 351
-- [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/) — Score: 226
-- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve) — Score: 180
-- [DoD Officially Drops 180 Faiths from Military's Recognized Religion List](https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list) — Score: 19
+- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) — Score: 173
+- [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) — Score: 43
+- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) — Score: 170
+- [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/) — Score: 26
+- [My Software North Star](https://kristoff.it/blog/north-star/) — Score: 85
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,429.0 🟢 +1.86%
