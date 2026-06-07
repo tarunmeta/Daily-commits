@@ -2,98 +2,122 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-04 00:01:10 UTC",
-    "fetched_at_ist": "2026-06-04 05:31:10 IST",
-    "item_count": 14,
-    "content_hash": "6a2eb2d3029ce8eeb9ee0a0f79267bdbfefe77502a3972f7cb8d41f5a1abe686",
-    "previous_hash": "eda3138b7ef4e8f3bd91e0f8e8e38ca79e566540d5f330f8676715d4ebfb051f",
-    "new_repos_vs_previous": 13,
+    "fetched_at_utc": "2026-06-07 00:04:50 UTC",
+    "fetched_at_ist": "2026-06-07 05:34:50 IST",
+    "item_count": 18,
+    "content_hash": "52a645d361c3968c23eadbaea43060b699dd9a2e7705e180685ff63be5cdcbbb",
+    "previous_hash": "6a2eb2d3029ce8eeb9ee0a0f79267bdbfefe77502a3972f7cb8d41f5a1abe686",
+    "new_repos_vs_previous": 17,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "chopratejas/headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "3,530 stars today"
+      "stars_today": "439 stars today"
     },
     {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "name": "CopilotKit/CopilotKit",
+      "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
+      "language": "TypeScript",
+      "stars_today": "631 stars today"
+    },
+    {
+      "name": "MemPalace/mempalace",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "language": "Python",
+      "stars_today": "446 stars today"
+    },
+    {
+      "name": "danielmiessler/Personal_AI_Infrastructure",
+      "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+      "language": "TypeScript",
+      "stars_today": "70 stars today"
+    },
+    {
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars_today": "2,141 stars today"
+      "stars_today": "213 stars today"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "683 stars today"
+    },
+    {
+      "name": "sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars_today": "25 stars today"
+    },
+    {
+      "name": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars_today": "20 stars today"
     },
     {
       "name": "aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars_today": "24 stars today"
+      "stars_today": "159 stars today"
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars_today": "1,735 stars today"
+      "name": "golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "stars_today": "30 stars today"
     },
     {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars_today": "1,984 stars today"
-    },
-    {
-      "name": "nesquena/hermes-webui",
-      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "language": "Python",
-      "stars_today": "719 stars today"
-    },
-    {
-      "name": "D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "language": "Python",
-      "stars_today": "1,067 stars today"
-    },
-    {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "language": "Java",
-      "stars_today": "570 stars today"
-    },
-    {
-      "name": "odoo/odoo",
-      "description": "Odoo. Open Source Apps To Grow Your Business.",
-      "language": "Python",
-      "stars_today": "29 stars today"
-    },
-    {
-      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-      "language": "Python",
-      "stars_today": "693 stars today"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "description": "A complete computer science study plan to become a software engineer.",
-      "language": "Unknown",
-      "stars_today": "330 stars today"
-    },
-    {
-      "name": "lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "stars_today": "208 stars today"
-    },
-    {
-      "name": "supermemoryai/supermemory",
-      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_today": "600 stars today"
+      "stars_today": "794 stars today"
     },
     {
-      "name": "HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "700 stars today"
+    },
+    {
+      "name": "santifer/career-ops",
+      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+      "language": "JavaScript",
+      "stars_today": "193 stars today"
+    },
+    {
+      "name": "openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
-      "stars_today": "197 stars today"
+      "stars_today": "150 stars today"
+    },
+    {
+      "name": "vitejs/vite",
+      "description": "Next generation frontend tooling. It's fast!",
+      "language": "TypeScript",
+      "stars_today": "25 stars today"
+    },
+    {
+      "name": "microsoft/mxc",
+      "description": "Policy-driven, layered isolation and containment",
+      "language": "Rust",
+      "stars_today": "64 stars today"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars_today": "433 stars today"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": "216 stars today"
     }
   ]
 }

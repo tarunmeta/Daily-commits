@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-06 20:40:10 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-07 00:04:51 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **chopratejas/headroom**
-- BTC: **$60,620.0** ↑ (+1.89%)
+- Top GitHub repo: **mvanhorn/last30days-skill**
+- BTC: **$60,871.0** ↓ (-0.70%)
 - HN top story: **Ntsc-rs – open-source video emulation of analog TV and VHS artifacts**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-04 00:01:10 UTC | `6a2eb2d3029c` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-06 20:40:10 UTC | `e172ada65a6c` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-06 19:25:39 UTC | `7fcca16461c0` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 18 | 2026-06-07 00:04:50 UTC | `52a645d361c3` | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-07 00:04:51 UTC | `7dfe05e35bbd` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-06-07 00:04:51 UTC | `05740d06f35c` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-07` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `68` day(s) |
-| Last Commit (IST) | `2026-06-07 03:15:10 IST` |
+| Last Commit (IST) | `2026-06-07 04:16:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-04 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-05 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-06 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-06-07 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-06-07 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $60,620.0 | +1.89% | 🟢 |
-| Ethereum | $1,556.94 | +0.40% | 🟢 |
-| Solana | $61.93 | +0.32% | 🟢 |
-| Bnb | $574.2 | +2.29% | 🟢 |
+| Bitcoin | $60,871.0 | -0.70% | 🔴 |
+| Ethereum | $1,570.09 | -1.49% | 🔴 |
+| Solana | $62.21 | -2.03% | 🔴 |
+| Bnb | $574.84 | -0.01% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | 3,530 stars today | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60… |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 2,141 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | 24 stars today | Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,735 stars today | The agent that grows with you |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 1,984 stars today | Python tool for converting files and office documents to Markdown. |
-| [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | 719 stars today | Hermes WebUI: The best way to use Hermes Agent from the web or from your phone! |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | 1,067 stars today | 🕷️ An adaptive Web Scraping framework that handles everything from a single requ… |
-| [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | 570 stars today | PDF Parser for AI-ready data. Automate PDF accessibility. Open-source. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 439 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | 631 stars today | The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an… |
+| [MemPalace/mempalace](https://github.com/MemPalace/mempalace) | Python | 446 stars today | The best-benchmarked open-source AI memory system. And it's free. |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 70 stars today | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [openai/plugins](https://github.com/openai/plugins) | JavaScript | 213 stars today | OpenAI Plugins |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 683 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
+| [sveltejs/svelte](https://github.com/sveltejs/svelte) | JavaScript | 25 stars today | web development for the rest of us |
+| [nginx/nginx](https://github.com/nginx/nginx) | C | 20 stars today | The official NGINX Open Source repository. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/) | 68 | 13 |
-| [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve) | 127 | 30 |
-| [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) | 115 | 39 |
-| [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739) | 171 | 338 |
-| [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives) | 56 | 15 |
+| [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/) | 231 | 51 |
+| [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) | 351 | 127 |
+| [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/) | 226 | 247 |
+| [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve) | 180 | 45 |
+| [DoD Officially Drops 180 Faiths from Military's Recognized Religion List](https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list) | 19 | 6 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-06 20:40:10 UTC",
-    "fetched_at_ist": "2026-06-07 02:10:10 IST",
+    "fetched_at_utc": "2026-06-07 00:04:51 UTC",
+    "fetched_at_ist": "2026-06-07 05:34:51 IST",
     "item_count": 5,
-    "content_hash": "e172ada65a6c4a734b8543296c916f5cc4401dfe5e3f7cf6184ba4010c076d1e",
-    "previous_hash": "49565afa69e5b9b169535dedbcf120c8fc8ba6e64aae813a039775a958b0bd9b",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "7dfe05e35bbd74bd1e578b0e4b3ef6546cd0c2e91431da7dac49b8f724cf0fab",
+    "previous_hash": "e172ada65a6c4a734b8543296c916f5cc4401dfe5e3f7cf6184ba4010c076d1e",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48428025,
       "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
       "url": "https://ntsc.rs/",
-      "score": 68,
-      "comments": 13
-    },
-    {
-      "id": 48425723,
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "url": "https://su3.io/posts/introducing-zeroserve",
-      "score": 127,
-      "comments": 30
+      "score": 231,
+      "comments": 51
     },
     {
       "id": 48427643,
       "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
       "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-      "score": 115,
-      "comments": 39
+      "score": 351,
+      "comments": 127
     },
     {
-      "id": 48424605,
-      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "url": "https://twitter.com/lemire/status/2062880075117113739",
-      "score": 171,
-      "comments": 338
+      "id": 48425528,
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 226,
+      "comments": 247
     },
     {
-      "id": 48426202,
-      "title": "You Can Run",
-      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-      "score": 56,
-      "comments": 15
+      "id": 48425723,
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "score": 180,
+      "comments": 45
+    },
+    {
+      "id": 48430212,
+      "title": "DoD Officially Drops 180 Faiths from Military's Recognized Religion List",
+      "url": "https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list",
+      "score": 19,
+      "comments": 6
     }
   ]
 }

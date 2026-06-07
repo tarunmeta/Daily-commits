@@ -7,44 +7,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-07 (last updated: 02:10 IST)
+
+## 📅 2026-06-07 (last updated: 05:34 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-04 05:31:10 IST | 6a2eb2d3029c | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-07 02:10:10 IST | e172ada65a6c | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-07 00:55:39 IST | 7fcca16461c0 | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 18 | 2026-06-07 05:34:50 IST | 52a645d361c3 | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-07 05:34:51 IST | 7dfe05e35bbd | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-06-07 05:34:51 IST | 05740d06f35c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[chopratejas/headroom](https://github.com/chopratejas/headroom)** (Python) — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60  
-  ⭐ 3,530 stars today
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
-  ⭐ 2,141 stars today
-- **[aquasecurity/trivy](https://github.com/aquasecurity/trivy)** (Go) — Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes  
-  ⭐ 24 stars today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 1,735 stars today
-- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
-  ⭐ 1,984 stars today
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
+  ⭐ 439 stars today
+- **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** (TypeScript) — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, an  
+  ⭐ 631 stars today
+- **[MemPalace/mempalace](https://github.com/MemPalace/mempalace)** (Python) — The best-benchmarked open-source AI memory system. And it's free.  
+  ⭐ 446 stars today
+- **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** (TypeScript) — Agentic AI Infrastructure for magnifying HUMAN capabilities.  
+  ⭐ 70 stars today
+- **[openai/plugins](https://github.com/openai/plugins)** (JavaScript) — OpenAI Plugins  
+  ⭐ 213 stars today
 
 ### 📰 Hacker News Stories
-- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/) — Score: 68
-- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve) — Score: 127
-- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) — Score: 115
-- [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739) — Score: 171
-- [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives) — Score: 56
+- [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/) — Score: 231
+- [Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot](https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/) — Score: 351
+- [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/) — Score: 226
+- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve) — Score: 180
+- [DoD Officially Drops 180 Faiths from Military's Recognized Religion List](https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list) — Score: 19
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $60,620.0 🟢 +1.89%
-- Ethereum: $1,556.94 🟢 +0.40%
-- Solana: $61.93 🟢 +0.32%
-- Bnb: $574.2 🟢 +2.29%
+- Bitcoin: $60,871.0 🔴 -0.70%
+- Ethereum: $1,570.09 🔴 -1.49%
+- Solana: $62.21 🔴 -2.03%
+- Bnb: $574.84 🔴 -0.01%
 
 ---
 ## 📅 2026-06-06 (last updated: 22:09 IST)
