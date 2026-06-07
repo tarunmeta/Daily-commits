@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-08 (last updated: 22:49 IST)
+
+## 📅 2026-06-08 (last updated: 03:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-06-07 17:42:33 IST | 82c00e4300f3 | +12 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-07 17:42:34 IST | b4c16f396869 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-08 03:07:32 IST | ab3a1efe8f25 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-07 22:49:01 IST | 870776022163 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 555 stars today
 
 ### 📰 Hacker News Stories
-- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/) — Score: 219
-- [Win16 Memory Management](http://www.os2museum.com/wp/win16-memory-management/) — Score: 50
-- [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/) — Score: 65
-- [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) — Score: 120
-- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398) — Score: 199
+- [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) — Score: 179
+- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) — Score: 170
+- [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409) — Score: 40
+- [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) — Score: 81
+- [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer) — Score: 84
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,263.0 🟢 +2.62%

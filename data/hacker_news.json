@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-07 12:12:34 UTC",
-    "fetched_at_ist": "2026-06-07 17:42:34 IST",
+    "fetched_at_utc": "2026-06-07 21:37:32 UTC",
+    "fetched_at_ist": "2026-06-08 03:07:32 IST",
     "item_count": 5,
-    "content_hash": "b4c16f39686982fae07ca2f4082fbfbe80d48e011b7629a5ba729fe56dccabc2",
-    "previous_hash": "1ecee558e5e9618d4357264941369ff8a27ce1fdd4ee0018f98aaa9ad7197e8b",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "ab3a1efe8f25881e9d7619c24710a9d239800c7b7022e8337f6212fb62f4c6c0",
+    "previous_hash": "b4c16f39686982fae07ca2f4082fbfbe80d48e011b7629a5ba729fe56dccabc2",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48432199,
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "url": "https://www.ioccc.org/2025/",
-      "score": 219,
-      "comments": 54
+      "id": 48437406,
+      "title": "Building from zero after addiction, prison, and a felony",
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "score": 179,
+      "comments": 77
     },
     {
-      "id": 48410844,
-      "title": "Win16 Memory Management",
-      "url": "http://www.os2museum.com/wp/win16-memory-management/",
-      "score": 50,
-      "comments": 13
+      "id": 48437609,
+      "title": "How's Linear so fast? A technical breakdown",
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "score": 170,
+      "comments": 93
     },
     {
-      "id": 48400151,
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "score": 65,
-      "comments": 11
+      "id": 48438212,
+      "title": "The architecture of the internet creates risks for democracy",
+      "url": "https://www.science.org/doi/10.1126/science.aei2409",
+      "score": 40,
+      "comments": 37
     },
     {
-      "id": 48433410,
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-      "score": 120,
-      "comments": 39
+      "id": 48437290,
+      "title": "Making peace with your unlived dreams (2023)",
+      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
+      "score": 81,
+      "comments": 30
     },
     {
-      "id": 48431461,
-      "title": "Valve P2P networking broken for more than 2 months",
-      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
-      "score": 199,
-      "comments": 87
+      "id": 48436863,
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "score": 84,
+      "comments": 29
     }
   ]
 }
