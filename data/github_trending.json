@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-07 12:12:33 UTC",
-    "fetched_at_ist": "2026-06-07 17:42:33 IST",
+    "fetched_at_utc": "2026-06-08 00:10:29 UTC",
+    "fetched_at_ist": "2026-06-08 05:40:29 IST",
     "item_count": 15,
-    "content_hash": "82c00e4300f3a4470595a3e968118649a3ac2ddbcccd5e11399665bc4ca43275",
-    "previous_hash": "52a645d361c3968c23eadbaea43060b699dd9a2e7705e180685ff63be5cdcbbb",
-    "new_repos_vs_previous": 12,
+    "content_hash": "b3d9e26ec9aa17ed2969f5b88e6fa904a98b5c7beb37dd6dab2343bfcad21ee3",
+    "previous_hash": "82c00e4300f3a4470595a3e968118649a3ac2ddbcccd5e11399665bc4ca43275",
+    "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,67 +15,67 @@
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars_today": "1,097 stars today"
+      "stars_today": "1,111 stars today"
     },
     {
       "name": "opencv/opencv",
       "description": "Open Source Computer Vision Library",
       "language": "C++",
-      "stars_today": "58 stars today"
+      "stars_today": "65 stars today"
     },
     {
       "name": "Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars_today": "1,104 stars today"
+      "stars_today": "1,103 stars today"
     },
     {
       "name": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_today": "1,117 stars today"
+      "stars_today": "1,112 stars today"
     },
     {
       "name": "lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars_today": "555 stars today"
+      "stars_today": "554 stars today"
     },
     {
       "name": "yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars_today": "180 stars today"
+      "stars_today": "183 stars today"
     },
     {
       "name": "aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars_today": "262 stars today"
+      "stars_today": "322 stars today"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars_today": "304 stars today"
+      "stars_today": "309 stars today"
     },
     {
       "name": "ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars_today": "199 stars today"
+      "stars_today": "158 stars today"
     },
     {
       "name": "RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars_today": "1,533 stars today"
+      "stars_today": "1,554 stars today"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars_today": "355 stars today"
+      "stars_today": "350 stars today"
     },
     {
       "name": "openai/plugins",
@@ -87,19 +87,19 @@
       "name": "refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars_today": "242 stars today"
+      "stars_today": "245 stars today"
     },
     {
       "name": "HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars_today": "21 stars today"
+      "stars_today": "28 stars today"
     },
     {
       "name": "microsoft/pg_durable",
       "description": "PostgreSQL in-database durable execution",
       "language": "Rust",
-      "stars_today": "314 stars today"
+      "stars_today": "316 stars today"
     }
   ]
 }

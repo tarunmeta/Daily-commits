@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-07 21:37:32 UTC",
-    "fetched_at_ist": "2026-06-08 03:07:32 IST",
+    "fetched_at_utc": "2026-06-08 00:10:30 UTC",
+    "fetched_at_ist": "2026-06-08 05:40:30 IST",
     "item_count": 5,
-    "content_hash": "ab3a1efe8f25881e9d7619c24710a9d239800c7b7022e8337f6212fb62f4c6c0",
-    "previous_hash": "b4c16f39686982fae07ca2f4082fbfbe80d48e011b7629a5ba729fe56dccabc2",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "56874fa1c5cb98c08388c14f8bc392adfe827b0885c332c383f2617bbee156a2",
+    "previous_hash": "ab3a1efe8f25881e9d7619c24710a9d239800c7b7022e8337f6212fb62f4c6c0",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48437406,
       "title": "Building from zero after addiction, prison, and a felony",
       "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-      "score": 179,
-      "comments": 77
+      "score": 315,
+      "comments": 150
     },
     {
-      "id": 48437609,
-      "title": "How's Linear so fast? A technical breakdown",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-      "score": 170,
-      "comments": 93
-    },
-    {
-      "id": 48438212,
-      "title": "The architecture of the internet creates risks for democracy",
-      "url": "https://www.science.org/doi/10.1126/science.aei2409",
-      "score": 40,
-      "comments": 37
+      "id": 48408854,
+      "title": "Show HN: I Derived a Pancake",
+      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+      "score": 78,
+      "comments": 27
     },
     {
       "id": 48437290,
       "title": "Making peace with your unlived dreams (2023)",
       "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "score": 81,
-      "comments": 30
+      "score": 122,
+      "comments": 54
     },
     {
-      "id": 48436863,
-      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
-      "score": 84,
-      "comments": 29
+      "id": 48437609,
+      "title": "How's Linear so fast? A technical breakdown",
+      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "score": 262,
+      "comments": 135
+    },
+    {
+      "id": 48384525,
+      "title": "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
+      "url": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
+      "score": 39,
+      "comments": 18
     }
   ]
 }

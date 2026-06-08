@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-07 21:37:32 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-08 00:10:30 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$62,263.0** ↑ (+2.62%)
+- BTC: **$63,217.0** ↑ (+3.92%)
 - HN top story: **Building from zero after addiction, prison, and a felony**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-06-07 12:12:33 UTC | `82c00e4300f3` | +12 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-07 21:37:32 UTC | `ab3a1efe8f25` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-07 17:19:01 UTC | `870776022163` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-06-08 00:10:29 UTC | `b3d9e26ec9aa` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-08 00:10:30 UTC | `56874fa1c5cb` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-06-08 00:10:29 UTC | `7381454a5215` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-08` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `69` day(s) |
-| Last Commit (IST) | `2026-06-08 03:07:33 IST` |
+| Last Commit (IST) | `2026-06-08 04:15:54 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-05 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-06 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-07 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-06-08 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-06-08 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,263.0 | +2.62% | 🟢 |
-| Ethereum | $1,634.51 | +4.80% | 🟢 |
-| Solana | $65.44 | +5.66% | 🟢 |
-| Bnb | $595.96 | +3.98% | 🟢 |
+| Bitcoin | $63,217.0 | +3.92% | 🟢 |
+| Ethereum | $1,686.37 | +7.61% | 🟢 |
+| Solana | $66.28 | +6.67% | 🟢 |
+| Bnb | $603.89 | +5.14% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,097 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [opencv/opencv](https://github.com/opencv/opencv) | C++ | 58 stars today | Open Source Computer Vision Library |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 1,104 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,117 stars today | The agent that grows with you |
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 555 stars today | An Open Source implementation of Notebook LM with more flexibility and features |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 180 stars today | Let's use AI to Earn! |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | 262 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 304 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,111 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [opencv/opencv](https://github.com/opencv/opencv) | C++ | 65 stars today | Open Source Computer Vision Library |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 1,103 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,112 stars today | The agent that grows with you |
+| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 554 stars today | An Open Source implementation of Notebook LM with more flexibility and features |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 183 stars today | Let's use AI to Earn! |
+| [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | 322 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 309 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) | 179 | 77 |
-| [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) | 170 | 93 |
-| [The architecture of the internet creates risks for democracy](https://www.science.org/doi/10.1126/science.aei2409) | 40 | 37 |
-| [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) | 81 | 30 |
-| [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer) | 84 | 29 |
+| [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony) | 315 | 150 |
+| [Show HN: I Derived a Pancake](https://www.absurdlyoptimized.com/recipes/pancakes/) | 78 | 27 |
+| [Making peace with your unlived dreams (2023)](https://nik.art/making-peace-with-your-unlived-dreams/) | 122 | 54 |
+| [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown) | 262 | 135 |
+| [Do we fear the serializable isolation level more than we fear subtle bugs (2024)](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609) | 39 | 18 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
