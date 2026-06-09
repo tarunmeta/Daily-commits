@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-09 (last updated: 13:52 IST)
+
+## 📅 2026-06-09 (last updated: 17:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-09 05:42:43 IST | 84c12ed21757 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-09 10:07:54 IST | 07aff2d351dc | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-09 17:09:13 IST | 72c52677728c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-09 13:52:15 IST | c0af154152fb | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 679 stars today
 
 ### 📰 Hacker News Stories
-- [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449) — Score: 74
-- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) — Score: 437
-- [Siri AI](https://www.apple.com/apple-intelligence/) — Score: 481
-- [Old'aVista – The most powerful guide to the old Internet](https://oldavista.com/) — Score: 28
-- [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/) — Score: 474
+- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32) — Score: 86
+- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) — Score: 219
+- [Forever Young: how one molecule can lock plants in a youthful state (2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age) — Score: 50
+- [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/) — Score: 269
+- [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/) — Score: 21
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,893.0 🔴 -0.17%

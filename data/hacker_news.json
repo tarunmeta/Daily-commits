@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-09 04:37:54 UTC",
-    "fetched_at_ist": "2026-06-09 10:07:54 IST",
+    "fetched_at_utc": "2026-06-09 11:39:13 UTC",
+    "fetched_at_ist": "2026-06-09 17:09:13 IST",
     "item_count": 5,
-    "content_hash": "07aff2d351dce05296d1327686c01b60744eac4f3fbf1444d9fc53b9b054044a",
-    "previous_hash": "13ddc615e75f11fb711f8bcc231f355e5760b47b0a0b3515b4e70aec2f54c71c",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "72c52677728ca5e066a21fe21630de68c83a49b700d1852e233532789be1ee35",
+    "previous_hash": "07aff2d351dce05296d1327686c01b60744eac4f3fbf1444d9fc53b9b054044a",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48455928,
-      "title": "Job: Head of Stonehenge",
-      "url": "https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449",
-      "score": 74,
-      "comments": 33
+      "id": 48458890,
+      "title": "GentleOS – Classic operating system with a lovely retro GUI",
+      "url": "https://github.com/luke8086/gentleos32",
+      "score": 86,
+      "comments": 15
     },
     {
-      "id": 48450142,
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-      "score": 437,
-      "comments": 361
+      "id": 48457830,
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+      "score": 219,
+      "comments": 92
     },
     {
-      "id": 48449084,
-      "title": "Siri AI",
-      "url": "https://www.apple.com/apple-intelligence/",
-      "score": 481,
-      "comments": 420
+      "id": 48458257,
+      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+      "score": 50,
+      "comments": 24
     },
     {
-      "id": 48447111,
-      "title": "Old'aVista – The most powerful guide to the old Internet",
-      "url": "https://oldavista.com/",
-      "score": 28,
-      "comments": 2
+      "id": 48421858,
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "score": 269,
+      "comments": 46
     },
     {
-      "id": 48446428,
-      "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-      "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-      "score": 474,
-      "comments": 363
+      "id": 48427526,
+      "title": "The beauty and simplicity of the good old C-style void* in C++",
+      "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
+      "score": 21,
+      "comments": 28
     }
   ]
 }
