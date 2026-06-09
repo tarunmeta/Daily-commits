@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-08 19:40:32 UTC",
-    "fetched_at_ist": "2026-06-09 01:10:32 IST",
+    "fetched_at_utc": "2026-06-09 00:12:44 UTC",
+    "fetched_at_ist": "2026-06-09 05:42:44 IST",
     "item_count": 5,
-    "content_hash": "c62fe71eecafe9e3acda0aa7d24ebc4b382bd5e320a0002791c7b61281500b47",
-    "previous_hash": "56874fa1c5cb98c08388c14f8bc392adfe827b0885c332c383f2617bbee156a2",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "13ddc615e75f11fb711f8bcc231f355e5760b47b0a0b3515b4e70aec2f54c71c",
+    "previous_hash": "c62fe71eecafe9e3acda0aa7d24ebc4b382bd5e320a0002791c7b61281500b47",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48447935,
-      "title": "Stop the Apple Music app from launching",
-      "url": "https://lowtechguys.com/musicdecoy/",
-      "score": 361,
-      "comments": 136
+      "id": 48452317,
+      "title": "OpenAI Submits S-1 Draft to SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+      "score": 232,
+      "comments": 142
+    },
+    {
+      "id": 48450646,
+      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+      "score": 339,
+      "comments": 105
+    },
+    {
+      "id": 48449084,
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
+      "score": 363,
+      "comments": 302
+    },
+    {
+      "id": 48445554,
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
+      "score": 731,
+      "comments": 147
     },
     {
       "id": 48446639,
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "score": 368,
-      "comments": 260
-    },
-    {
-      "id": 48445554,
-      "title": "Show HN: Performative-UI – a react component library of design tropes",
-      "url": "https://vorpus.github.io/performativeUI/",
-      "score": 553,
-      "comments": 113
-    },
-    {
-      "id": 48448493,
-      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
-      "url": "https://siraben.github.io/ti84p-re/",
-      "score": 67,
-      "comments": 11
-    },
-    {
-      "id": 48444228,
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "score": 406,
-      "comments": 334
+      "score": 478,
+      "comments": 327
     }
   ]
 }

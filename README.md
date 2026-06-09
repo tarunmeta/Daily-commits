@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-08 21:27:52 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-09 00:12:44 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$63,704.0** ↑ (+3.14%)
-- HN top story: **Stop the Apple Music app from launching**
+- BTC: **$63,031.0** ↓ (-0.26%)
+- HN top story: **OpenAI Submits S-1 Draft to SEC**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-06-08 00:10:29 UTC | `b3d9e26ec9aa` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-08 19:40:32 UTC | `c62fe71eecaf` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-08 21:27:52 UTC | `2700fcf92035` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-06-09 00:12:43 UTC | `84c12ed21757` | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-09 00:12:44 UTC | `13ddc615e75f` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-09 00:12:43 UTC | `faf13cb18726` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +10 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-09` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `69` day(s) |
-| Last Commit (IST) | `2026-06-09 02:57:52 IST` |
+| Last Commit (IST) | `2026-06-09 04:29:48 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-06 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-07 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-08 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| 2026-06-09 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-06-09 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,704.0 | +3.14% | 🟢 |
-| Ethereum | $1,709.63 | +5.01% | 🟢 |
-| Solana | $67.82 | +4.95% | 🟢 |
-| Bnb | $609.57 | +2.72% | 🟢 |
+| Bitcoin | $63,031.0 | -0.26% | 🔴 |
+| Ethereum | $1,685.93 | +0.03% | 🟢 |
+| Solana | $66.64 | +0.72% | 🟢 |
+| Bnb | $601.03 | -0.46% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 1,111 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [opencv/opencv](https://github.com/opencv/opencv) | C++ | 65 stars today | Open Source Computer Vision Library |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | 1,103 stars today | Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 1,112 stars today | The agent that grows with you |
-| [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | 554 stars today | An Open Source implementation of Notebook LM with more flexibility and features |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | 183 stars today | Let's use AI to Earn! |
-| [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | 322 stars today | an open source, extensible AI agent that goes beyond code suggestions - install,… |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 309 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 3,558 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | 1,729 stars today | A vector index built on TurboQuant, written in Rust with Python bindings |
+| [google/skills](https://github.com/google/skills) | Python | 461 stars today | Agent Skills for Google products and technologies |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 651 stars today | Desktop app to manage markdown knowledge bases |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 679 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
+| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 62 stars today | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 308 stars today | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,… |
+| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 164 stars today | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/) | 361 | 136 |
-| [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) | 368 | 260 |
-| [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/) | 553 | 113 |
-| [Full Reverse Engineering of the TI-84 Plus Operating System](https://siraben.github.io/ti84p-re/) | 67 | 11 |
-| [Anti-social: It's fads, not friends, which now dominate social media feeds](https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social) | 406 | 334 |
+| [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/) | 232 | 142 |
+| [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf) | 339 | 105 |
+| [Siri AI](https://www.apple.com/apple-intelligence/) | 363 | 302 |
+| [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/) | 731 | 147 |
+| [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) | 478 | 327 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
