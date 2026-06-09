@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-09 (last updated: 05:42 IST)
+
+## 📅 2026-06-09 (last updated: 10:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-09 05:42:43 IST | 84c12ed21757 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-09 05:42:44 IST | 13ddc615e75f | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-09 10:07:54 IST | 07aff2d351dc | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-09 05:42:43 IST | faf13cb18726 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 679 stars today
 
 ### 📰 Hacker News Stories
-- [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/) — Score: 232
-- [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf) — Score: 339
-- [Siri AI](https://www.apple.com/apple-intelligence/) — Score: 363
-- [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/) — Score: 731
-- [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps) — Score: 478
+- [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449) — Score: 74
+- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/) — Score: 437
+- [Siri AI](https://www.apple.com/apple-intelligence/) — Score: 481
+- [Old'aVista – The most powerful guide to the old Internet](https://oldavista.com/) — Score: 28
+- [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/) — Score: 474
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,031.0 🔴 -0.26%
