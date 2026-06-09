@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-09 11:39:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-09 19:15:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$62,893.0** ↓ (-0.17%)
+- BTC: **$61,776.0** ↓ (-2.64%)
 - HN top story: **GentleOS – Classic operating system with a lovely retro GUI**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-09 00:12:43 UTC | `84c12ed21757` | +10 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-09 11:39:13 UTC | `72c52677728c` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-09 08:22:15 UTC | `c0af154152fb` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-06-09 19:15:21 UTC | `0dc1402ab2d8` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +10 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-06-09` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| Streak | `69` day(s) |
-| Last Commit (IST) | `2026-06-09 19:35:05 IST` |
+| Date (IST) | `2026-06-10` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-06-09 22:18:25 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-06-03 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-06-04 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-05 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-06 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-07 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-08 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-09 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-06-10 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,893.0 | -0.17% | 🔴 |
-| Ethereum | $1,673.1 | +0.53% | 🟢 |
-| Solana | $66.53 | +1.37% | 🟢 |
-| Bnb | $602.29 | +1.38% | 🟢 |
+| Bitcoin | $61,776.0 | -2.64% | 🔴 |
+| Ethereum | $1,649.52 | -2.09% | 🔴 |
+| Solana | $65.19 | -3.46% | 🔴 |
+| Bnb | $593.7 | -2.20% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
