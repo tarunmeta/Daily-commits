@@ -9,19 +9,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-10 (last updated: 05:51 IST)
+
+## 📅 2026-06-10 (last updated: 17:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-09 05:42:43 IST | 84c12ed21757 | +10 new repos, top changed: no |
 | Hacker News | 5 | 2026-06-09 17:09:13 IST | 72c52677728c | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-10 05:51:18 IST | 99a78bf6c70f | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-06-10 17:57:49 IST | f810b7c1d14f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/) — Score: 21
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $61,758.0 🔴 -1.86%
-- Ethereum: $1,640.07 🔴 -2.52%
-- Solana: $64.98 🔴 -2.50%
-- Bnb: $593.81 🔴 -0.84%
+- Bitcoin: $61,052.0 🔴 -2.52%
+- Ethereum: $1,621.81 🔴 -3.26%
+- Solana: $63.35 🔴 -4.41%
+- Bnb: $583.78 🔴 -2.30%
 
 ---
 ## 📅 2026-06-09 (last updated: 17:09 IST)
