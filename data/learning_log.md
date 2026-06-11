@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-06-12 (last updated: 23:45 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 16 | 2026-06-09 05:42:43 IST | 84c12ed21757 | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-11 07:10:09 IST | 5aee4c3a751b | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-11 23:45:34 IST | 5e1f9c5c026e | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +10 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
+  ⭐ 3,558 stars today
+- **[RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)** (Python) — A vector index built on TurboQuant, written in Rust with Python bindings  
+  ⭐ 1,729 stars today
+- **[google/skills](https://github.com/google/skills)** (Python) — Agent Skills for Google products and technologies  
+  ⭐ 461 stars today
+- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** (TypeScript) — Desktop app to manage markdown knowledge bases  
+  ⭐ 651 stars today
+- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (Python) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi  
+  ⭐ 679 stars today
+
+### 📰 Hacker News Stories
+- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) — Score: 202
+- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) — Score: 76
+- [πFS](https://github.com/philipl/pifs) — Score: 514
+- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) — Score: 86
+- [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) — Score: 168
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $63,367.0 🟢 +2.43%
+- Ethereum: $1,680.43 🟢 +3.24%
+- Solana: $66.97 🟢 +4.76%
+- Bnb: $604.41 🟢 +2.68%
+
+---
 
 
 
