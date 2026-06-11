@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-09 11:39:13 UTC",
-    "fetched_at_ist": "2026-06-09 17:09:13 IST",
+    "fetched_at_utc": "2026-06-11 01:40:09 UTC",
+    "fetched_at_ist": "2026-06-11 07:10:09 IST",
     "item_count": 5,
-    "content_hash": "72c52677728ca5e066a21fe21630de68c83a49b700d1852e233532789be1ee35",
-    "previous_hash": "07aff2d351dce05296d1327686c01b60744eac4f3fbf1444d9fc53b9b054044a",
+    "content_hash": "5aee4c3a751b639af512a09b526ec09bf6d9481b6df8fd91a9e7897c0b28a172",
+    "previous_hash": "72c52677728ca5e066a21fe21630de68c83a49b700d1852e233532789be1ee35",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48458890,
-      "title": "GentleOS – Classic operating system with a lovely retro GUI",
-      "url": "https://github.com/luke8086/gentleos32",
+      "id": 48478969,
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "score": 202,
+      "comments": 188
+    },
+    {
+      "id": 48484584,
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "score": 76,
+      "comments": 8
+    },
+    {
+      "id": 48480978,
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
+      "score": 514,
+      "comments": 132
+    },
+    {
+      "id": 48483387,
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
       "score": 86,
-      "comments": 15
-    },
-    {
-      "id": 48457830,
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "score": 219,
-      "comments": 92
-    },
-    {
-      "id": 48458257,
-      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
-      "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
-      "score": 50,
-      "comments": 24
-    },
-    {
-      "id": 48421858,
-      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-      "url": "https://opencv.org/opencv-5/",
-      "score": 269,
       "comments": 46
     },
     {
-      "id": 48427526,
-      "title": "The beauty and simplicity of the good old C-style void* in C++",
-      "url": "https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/",
-      "score": 21,
-      "comments": 28
+      "id": 48464258,
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "score": 168,
+      "comments": 66
     }
   ]
 }

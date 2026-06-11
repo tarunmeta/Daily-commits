@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-11 (last updated: 02:58 IST)
+
+## 📅 2026-06-11 (last updated: 07:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-09 05:42:43 IST | 84c12ed21757 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-09 17:09:13 IST | 72c52677728c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-11 07:10:09 IST | 5aee4c3a751b | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-11 02:58:21 IST | 0a80983b03a9 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 679 stars today
 
 ### 📰 Hacker News Stories
-- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32) — Score: 86
-- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/) — Score: 219
-- [Forever Young: how one molecule can lock plants in a youthful state (2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age) — Score: 50
-- [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/) — Score: 269
-- [The beauty and simplicity of the good old C-style void* in C++](https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/) — Score: 21
+- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) — Score: 202
+- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) — Score: 76
+- [πFS](https://github.com/philipl/pifs) — Score: 514
+- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) — Score: 86
+- [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) — Score: 168
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,537.0 🔴 -0.39%
