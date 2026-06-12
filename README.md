@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-12 18:09:27 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-12 20:26:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **addyosmani/agent-skills**
-- BTC: **$63,744.0** ↑ (+0.70%)
+- BTC: **$63,499.0** ↑ (+0.30%)
 - HN top story: **CRISPR tech selectively shreds cancer cells, including "undruggable" cancers**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-06-12 18:09:26 UTC | `c240662ed2be` | +11 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-12 18:09:27 UTC | `033e130ea957` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-12 18:09:27 UTC | `137d3e1cd36e` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-06-12 20:26:52 UTC | `4e5dccdbdf37` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
 - GitHub: +11 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-06-12` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| Streak | `71` day(s) |
-| Last Commit (IST) | `2026-06-12 21:25:47 IST` |
+| Date (IST) | `2026-06-13` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-06-12 23:39:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-06-06 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-07 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-08 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-09 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-10 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-11 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-12 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-06-13 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,744.0 | +0.70% | 🟢 |
-| Ethereum | $1,665.11 | -0.65% | 🔴 |
-| Solana | $67.23 | +0.45% | 🟢 |
-| Bnb | $605.83 | +0.46% | 🟢 |
+| Bitcoin | $63,499.0 | +0.30% | 🟢 |
+| Ethereum | $1,665.74 | -0.29% | 🔴 |
+| Solana | $66.65 | -0.22% | 🔴 |
+| Bnb | $603.77 | +0.40% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
