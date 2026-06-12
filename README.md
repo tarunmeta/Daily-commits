@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-12 12:34:09 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-12 18:09:27 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **mvanhorn/last30days-skill**
-- BTC: **$63,570.0** ↑ (+2.87%)
-- HN top story: **AI agent bankrupted their operator while trying to scan DN42**
+- Top GitHub repo: **addyosmani/agent-skills**
+- BTC: **$63,744.0** ↑ (+0.70%)
+- HN top story: **CRISPR tech selectively shreds cancer cells, including "undruggable" cancers**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-06-09 00:12:43 UTC | `84c12ed21757` | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-12 12:34:09 UTC | `499aa7496d7d` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-12 00:19:38 UTC | `5daf2fcb7f5f` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-06-12 18:09:26 UTC | `c240662ed2be` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-12 18:09:27 UTC | `033e130ea957` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-12 18:09:27 UTC | `137d3e1cd36e` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: no
+- GitHub: +11 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-12` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `71` day(s) |
-| Last Commit (IST) | `2026-06-12 18:04:09 IST` |
+| Last Commit (IST) | `2026-06-12 21:25:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-09 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-10 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-11 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-12 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-12 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,570.0 | +2.87% | 🟢 |
-| Ethereum | $1,671.33 | +2.61% | 🟢 |
-| Solana | $66.82 | +5.29% | 🟢 |
-| Bnb | $604.21 | +2.62% | 🟢 |
+| Bitcoin | $63,744.0 | +0.70% | 🟢 |
+| Ethereum | $1,665.11 | -0.65% | 🔴 |
+| Solana | $67.23 | +0.45% | 🟢 |
+| Bnb | $605.83 | +0.46% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 3,558 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | 1,729 stars today | A vector index built on TurboQuant, written in Rust with Python bindings |
-| [google/skills](https://github.com/google/skills) | Python | 461 stars today | Agent Skills for Google products and technologies |
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 651 stars today | Desktop app to manage markdown knowledge bases |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 679 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
-| [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | 62 stars today | Agentic AI Infrastructure for magnifying HUMAN capabilities. |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 308 stars today | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,… |
-| [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | Unknown | 164 stars today | PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 2,660 stars today | Production-grade engineering skills for AI coding agents. |
+| [music-assistant/server](https://github.com/music-assistant/server) | Python | 6 stars today | Music Assistant is a free, opensource Media library manager that connects to you… |
+| [mattermost/mattermost](https://github.com/mattermost/mattermost) | TypeScript | 391 stars today | Mattermost is an open source platform for secure collaboration across the entire… |
+| [apple/container](https://github.com/apple/container) | Swift | 3,513 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 142 stars today | Collection of publicly available IPTV channels from all over the world |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,276 stars today | An agentic skills framework & software development methodology that works. |
+| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 369 stars today | Desktop app to manage markdown knowledge bases |
+| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 517 stars today | open-source healthcare ai |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) | 806 | 309 |
-| [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) | 926 | 307 |
-| [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/) | 62 | 41 |
-| [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) | 530 | 170 |
-| [Maxproof](https://arxiv.org/abs/2606.13473) | 11 | 0 |
+| [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) | 246 | 62 |
+| [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html) | 94 | 60 |
+| [A PDF that changes based on who is reading](https://sgaud.com/texts/pdf) | 34 | 18 |
+| [Keygen.music](https://keygen.music) | 82 | 38 |
+| [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571) | 78 | 57 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

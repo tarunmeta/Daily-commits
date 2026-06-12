@@ -10,44 +10,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-12 (last updated: 18:04 IST)
+
+## 📅 2026-06-12 (last updated: 23:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-06-09 05:42:43 IST | 84c12ed21757 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-12 18:04:09 IST | 499aa7496d7d | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-12 05:49:38 IST | 5daf2fcb7f5f | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-06-12 23:39:26 IST | c240662ed2be | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-12 23:39:27 IST | 033e130ea957 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-12 23:39:27 IST | 137d3e1cd36e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +10 new repos, top changed: no
+- GitHub: +11 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)** (Python) — AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark  
-  ⭐ 3,558 stars today
-- **[RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)** (Python) — A vector index built on TurboQuant, written in Rust with Python bindings  
-  ⭐ 1,729 stars today
-- **[google/skills](https://github.com/google/skills)** (Python) — Agent Skills for Google products and technologies  
-  ⭐ 461 stars today
-- **[refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)** (TypeScript) — Desktop app to manage markdown knowledge bases  
-  ⭐ 651 stars today
-- **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** (Python) — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi  
-  ⭐ 679 stars today
+- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
+  ⭐ 2,660 stars today
+- **[music-assistant/server](https://github.com/music-assistant/server)** (Python) — Music Assistant is a free, opensource Media library manager that connects to you  
+  ⭐ 6 stars today
+- **[mattermost/mattermost](https://github.com/mattermost/mattermost)** (TypeScript) — Mattermost is an open source platform for secure collaboration across the entire  
+  ⭐ 391 stars today
+- **[apple/container](https://github.com/apple/container)** (Swift) — A tool for creating and running Linux containers using lightweight virtual machi  
+  ⭐ 3,513 stars today
+- **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
+  ⭐ 142 stars today
 
 ### 📰 Hacker News Stories
-- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) — Score: 806
-- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) — Score: 926
-- [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/) — Score: 62
-- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) — Score: 530
-- [Maxproof](https://arxiv.org/abs/2606.13473) — Score: 11
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) — Score: 246
+- [Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html) — Score: 94
+- [A PDF that changes based on who is reading](https://sgaud.com/texts/pdf) — Score: 34
+- [Keygen.music](https://keygen.music) — Score: 82
+- [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571) — Score: 78
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,570.0 🟢 +2.87%
-- Ethereum: $1,671.33 🟢 +2.61%
-- Solana: $66.82 🟢 +5.29%
-- Bnb: $604.21 🟢 +2.62%
+- Bitcoin: $63,744.0 🟢 +0.70%
+- Ethereum: $1,665.11 🔴 -0.65%
+- Solana: $67.23 🟢 +0.45%
+- Bnb: $605.83 🟢 +0.46%
 
 ---
 ## 📅 2026-06-11 (last updated: 23:45 IST)
