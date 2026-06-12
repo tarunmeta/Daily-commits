@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-11 01:40:09 UTC",
-    "fetched_at_ist": "2026-06-11 07:10:09 IST",
+    "fetched_at_utc": "2026-06-12 12:34:09 UTC",
+    "fetched_at_ist": "2026-06-12 18:04:09 IST",
     "item_count": 5,
-    "content_hash": "5aee4c3a751b639af512a09b526ec09bf6d9481b6df8fd91a9e7897c0b28a172",
-    "previous_hash": "72c52677728ca5e066a21fe21630de68c83a49b700d1852e233532789be1ee35",
+    "content_hash": "499aa7496d7ddeaef87012cae6cf5adebf15f586837a30ec97d3719fac909db7",
+    "previous_hash": "5aee4c3a751b639af512a09b526ec09bf6d9481b6df8fd91a9e7897c0b28a172",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48478969,
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "score": 202,
-      "comments": 188
+      "id": 48500012,
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "score": 806,
+      "comments": 309
     },
     {
-      "id": 48484584,
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "score": 76,
-      "comments": 8
+      "id": 48497609,
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "score": 926,
+      "comments": 307
     },
     {
-      "id": 48480978,
-      "title": "πFS",
-      "url": "https://github.com/philipl/pifs",
-      "score": 514,
-      "comments": 132
+      "id": 48502601,
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+      "score": 62,
+      "comments": 41
     },
     {
-      "id": 48483387,
-      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
-      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-      "score": 86,
-      "comments": 46
+      "id": 48498385,
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "score": 530,
+      "comments": 170
     },
     {
-      "id": 48464258,
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "score": 168,
-      "comments": 66
+      "id": 48503014,
+      "title": "Maxproof",
+      "url": "https://arxiv.org/abs/2606.13473",
+      "score": 11,
+      "comments": 0
     }
   ]
 }

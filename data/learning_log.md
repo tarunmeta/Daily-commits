@@ -8,13 +8,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-12 (last updated: 05:49 IST)
+
+## 📅 2026-06-12 (last updated: 18:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-09 05:42:43 IST | 84c12ed21757 | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-11 07:10:09 IST | 5aee4c3a751b | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-12 18:04:09 IST | 499aa7496d7d | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-12 05:49:38 IST | 5daf2fcb7f5f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 679 stars today
 
 ### 📰 Hacker News Stories
-- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/) — Score: 202
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/) — Score: 76
-- [πFS](https://github.com/philipl/pifs) — Score: 514
-- [A Written Language for the Cherokee So Efficient It Was Thought to Be Magic](https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/) — Score: 86
-- [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models) — Score: 168
+- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/) — Score: 806
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/) — Score: 926
+- [Ryanair dark UX patterns summer 2026 refresher](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/) — Score: 62
+- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf) — Score: 530
+- [Maxproof](https://arxiv.org/abs/2606.13473) — Score: 11
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,570.0 🟢 +2.87%
