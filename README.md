@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-13 10:30:39 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-13 12:15:01 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **addyosmani/agent-skills**
-- BTC: **$63,499.0** ↑ (+0.30%)
-- HN top story: **Leaving Mozilla**
+- Top GitHub repo: **iptv-org/iptv**
+- BTC: **$63,912.0** ↑ (+0.55%)
+- HN top story: **A low-carbon computing platform from your retired phones**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-06-12 18:09:26 UTC | `c240662ed2be` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-13 10:30:39 UTC | `23cf304d1591` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-12 20:26:52 UTC | `4e5dccdbdf37` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-06-13 12:15:00 UTC | `66406a390695` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-13 12:15:01 UTC | `ceead3baa23d` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-13 12:15:00 UTC | `7ee7e6fd99a5` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-13` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `72` day(s) |
-| Last Commit (IST) | `2026-06-13 13:21:32 IST` |
+| Last Commit (IST) | `2026-06-13 16:00:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-10 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-11 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-12 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-13 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-06-13 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,499.0 | +0.30% | 🟢 |
-| Ethereum | $1,665.74 | -0.29% | 🔴 |
-| Solana | $66.65 | -0.22% | 🔴 |
-| Bnb | $603.77 | +0.40% | 🟢 |
+| Bitcoin | $63,912.0 | +0.55% | 🟢 |
+| Ethereum | $1,677.0 | +0.49% | 🟢 |
+| Solana | $67.83 | +1.55% | 🟢 |
+| Bnb | $606.24 | +0.12% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 2,660 stars today | Production-grade engineering skills for AI coding agents. |
-| [music-assistant/server](https://github.com/music-assistant/server) | Python | 6 stars today | Music Assistant is a free, opensource Media library manager that connects to you… |
-| [mattermost/mattermost](https://github.com/mattermost/mattermost) | TypeScript | 391 stars today | Mattermost is an open source platform for secure collaboration across the entire… |
-| [apple/container](https://github.com/apple/container) | Swift | 3,513 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 142 stars today | Collection of publicly available IPTV channels from all over the world |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,276 stars today | An agentic skills framework & software development methodology that works. |
-| [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | 369 stars today | Desktop app to manage markdown knowledge bases |
-| [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) | Python | 517 stars today | open-source healthcare ai |
+| [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 179 stars today | Collection of publicly available IPTV channels from all over the world |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 2,656 stars today | Production-grade engineering skills for AI coding agents. |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 437 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,275 stars today | An agentic skills framework & software development methodology that works. |
+| [apple/container](https://github.com/apple/container) | Swift | 3,504 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
+| [music-assistant/server](https://github.com/music-assistant/server) | Python | 20 stars today | Music Assistant is a free, opensource Media library manager that connects to you… |
+| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | Go | 530 stars today | Local-first session intelligence and analytics for coding agents, supporting Cla… |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | Python | 28 stars today | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Leaving Mozilla](https://blog.unitedheroes.net/5751) | 184 | 88 |
-| [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) | 474 | 132 |
-| [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) | 2338 | 1679 |
-| [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](https://github.com/Paca-AI/paca) | 6 | 0 |
-| [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/) | 827 | 190 |
+| [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/) | 44 | 14 |
+| [Leaving Mozilla](https://blog.unitedheroes.net/5751) | 280 | 158 |
+| [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/) | 524 | 151 |
+| [The state of building user interfaces in Rust](https://areweguiyet.com/#ecosystem) | 18 | 9 |
+| [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access) | 2526 | 1825 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
