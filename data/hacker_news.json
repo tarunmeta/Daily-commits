@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-13 12:15:01 UTC",
-    "fetched_at_ist": "2026-06-13 17:45:01 IST",
+    "fetched_at_utc": "2026-06-13 14:31:10 UTC",
+    "fetched_at_ist": "2026-06-13 20:01:10 IST",
     "item_count": 5,
-    "content_hash": "ceead3baa23dd96df4ba44a15450edac9c41fa5e61bb8a2696f66e452e26417c",
-    "previous_hash": "23cf304d159110de73ca04f6a21493eb185d5212a7ea9070322c8efc72090cc5",
+    "content_hash": "79e37dc759b949f10feca2d3a3d3e70214dd3110c6453ba3ab3c7b73ae977109",
+    "previous_hash": "ceead3baa23dd96df4ba44a15450edac9c41fa5e61bb8a2696f66e452e26417c",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48516504,
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "score": 80,
+      "comments": 45
+    },
+    {
       "id": 48515336,
       "title": "A low-carbon computing platform from your retired phones",
       "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "score": 44,
-      "comments": 14
+      "score": 115,
+      "comments": 56
     },
     {
-      "id": 48513806,
-      "title": "Leaving Mozilla",
-      "url": "https://blog.unitedheroes.net/5751",
-      "score": 280,
-      "comments": 158
-    },
-    {
-      "id": 48510010,
-      "title": "Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "score": 524,
-      "comments": 151
+      "id": 48516573,
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+      "score": 25,
+      "comments": 0
     },
     {
       "id": 48479008,
       "title": "The state of building user interfaces in Rust",
       "url": "https://areweguiyet.com/#ecosystem",
-      "score": 18,
-      "comments": 9
+      "score": 65,
+      "comments": 43
     },
     {
-      "id": 48511072,
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "score": 2526,
-      "comments": 1825
+      "id": 48513806,
+      "title": "Leaving Mozilla",
+      "url": "https://blog.unitedheroes.net/5751",
+      "score": 361,
+      "comments": 203
     }
   ]
 }
