@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-13 14:31:10 UTC",
-    "fetched_at_ist": "2026-06-13 20:01:10 IST",
+    "fetched_at_utc": "2026-06-13 23:32:57 UTC",
+    "fetched_at_ist": "2026-06-14 05:02:57 IST",
     "item_count": 5,
-    "content_hash": "79e37dc759b949f10feca2d3a3d3e70214dd3110c6453ba3ab3c7b73ae977109",
-    "previous_hash": "ceead3baa23dd96df4ba44a15450edac9c41fa5e61bb8a2696f66e452e26417c",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "5a81bcd6092ddf37a5e177e6d4b062480d56ab5647782d60e3f87de2928e3e5f",
+    "previous_hash": "79e37dc759b949f10feca2d3a3d3e70214dd3110c6453ba3ab3c7b73ae977109",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48516504,
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "score": 80,
-      "comments": 45
+      "id": 48517377,
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 672,
+      "comments": 391
     },
     {
-      "id": 48515336,
-      "title": "A low-carbon computing platform from your retired phones",
-      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "score": 115,
-      "comments": 56
+      "id": 48516251,
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "score": 485,
+      "comments": 159
     },
     {
-      "id": 48516573,
-      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-      "score": 25,
-      "comments": 0
+      "id": 48462759,
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "url": "https://blog.pyodide.org/posts/314-release/",
+      "score": 47,
+      "comments": 8
     },
     {
-      "id": 48479008,
-      "title": "The state of building user interfaces in Rust",
-      "url": "https://areweguiyet.com/#ecosystem",
-      "score": 65,
-      "comments": 43
+      "id": 48517199,
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "score": 272,
+      "comments": 89
     },
     {
-      "id": 48513806,
-      "title": "Leaving Mozilla",
-      "url": "https://blog.unitedheroes.net/5751",
-      "score": 361,
-      "comments": 203
+      "id": 48519552,
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
+      "score": 142,
+      "comments": 50
     }
   ]
 }
