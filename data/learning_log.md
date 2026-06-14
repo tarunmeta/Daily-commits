@@ -11,13 +11,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-14 (last updated: 17:54 IST)
+
+## 📅 2026-06-14 (last updated: 20:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-14 05:02:57 IST | 5a81bcd6092d | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-14 20:11:13 IST | 8b9cb8d72fed | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-14 17:54:53 IST | 1a43c912b331 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html) — Score: 672
-- [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/) — Score: 485
-- [Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI](https://blog.pyodide.org/posts/314-release/) — Score: 47
-- [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch) — Score: 272
-- [GameBoy Workboy](https://tcrf.net/Workboy) — Score: 142
+- [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) — Score: 82
+- [Firewood Splitting Simulator](https://screen.toys/firewood/) — Score: 148
+- [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e) — Score: 85
+- [Caddy compatibility for zeroserve: 3x throughput and 70% lower latency](https://su3.io/posts/zeroserve-caddy-compat) — Score: 17
+- [FarOutCompany](https://faroutcompany.com/) — Score: 16
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,463.0 🟢 +0.85%

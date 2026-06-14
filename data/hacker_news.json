@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-13 23:32:57 UTC",
-    "fetched_at_ist": "2026-06-14 05:02:57 IST",
+    "fetched_at_utc": "2026-06-14 14:41:13 UTC",
+    "fetched_at_ist": "2026-06-14 20:11:13 IST",
     "item_count": 5,
-    "content_hash": "5a81bcd6092ddf37a5e177e6d4b062480d56ab5647782d60e3f87de2928e3e5f",
-    "previous_hash": "79e37dc759b949f10feca2d3a3d3e70214dd3110c6453ba3ab3c7b73ae977109",
+    "content_hash": "8b9cb8d72fed21ca399da41961c0e2599658a5acc413a48d8c20cda150a46f1e",
+    "previous_hash": "5a81bcd6092ddf37a5e177e6d4b062480d56ab5647782d60e3f87de2928e3e5f",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48517377,
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "score": 672,
-      "comments": 391
+      "id": 48526661,
+      "title": "The Birth and Death of JavaScript (2014)",
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "score": 82,
+      "comments": 41
     },
     {
-      "id": 48516251,
-      "title": "Every Frame Perfect",
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "score": 485,
-      "comments": 159
+      "id": 48471638,
+      "title": "Firewood Splitting Simulator",
+      "url": "https://screen.toys/firewood/",
+      "score": 148,
+      "comments": 47
     },
     {
-      "id": 48462759,
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "url": "https://blog.pyodide.org/posts/314-release/",
-      "score": 47,
-      "comments": 8
+      "id": 48491048,
+      "title": "Lisp's Influence on Ruby",
+      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+      "score": 85,
+      "comments": 0
     },
     {
-      "id": 48517199,
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "score": 272,
-      "comments": 89
+      "id": 48527145,
+      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "url": "https://su3.io/posts/zeroserve-caddy-compat",
+      "score": 17,
+      "comments": 1
     },
     {
-      "id": 48519552,
-      "title": "GameBoy Workboy",
-      "url": "https://tcrf.net/Workboy",
-      "score": 142,
-      "comments": 50
+      "id": 48527360,
+      "title": "FarOutCompany",
+      "url": "https://faroutcompany.com/",
+      "score": 16,
+      "comments": 3
     }
   ]
 }
