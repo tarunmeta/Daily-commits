@@ -10,19 +10,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-14 (last updated: 15:58 IST)
+
+## 📅 2026-06-14 (last updated: 17:54 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-14 05:02:57 IST | 5a81bcd6092d | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-14 15:58:21 IST | 7f125d58e7d6 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-14 17:54:53 IST | 1a43c912b331 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [GameBoy Workboy](https://tcrf.net/Workboy) — Score: 142
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,567.0 🟢 +1.29%
-- Ethereum: $1,676.48 🟢 +0.22%
-- Solana: $68.44 🟢 +1.63%
-- Bnb: $612.4 🟢 +1.31%
+- Bitcoin: $64,463.0 🟢 +0.85%
+- Ethereum: $1,673.1 🔴 -0.24%
+- Solana: $68.05 🟢 +0.34%
+- Bnb: $611.42 🟢 +0.78%
 
 ---
 ## 📅 2026-06-13 (last updated: 20:01 IST)
