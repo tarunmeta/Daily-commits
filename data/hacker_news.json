@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-14 14:41:13 UTC",
-    "fetched_at_ist": "2026-06-14 20:11:13 IST",
+    "fetched_at_utc": "2026-06-14 23:38:23 UTC",
+    "fetched_at_ist": "2026-06-15 05:08:23 IST",
     "item_count": 5,
-    "content_hash": "8b9cb8d72fed21ca399da41961c0e2599658a5acc413a48d8c20cda150a46f1e",
-    "previous_hash": "5a81bcd6092ddf37a5e177e6d4b062480d56ab5647782d60e3f87de2928e3e5f",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "077950d4ab7b6ec49b5b7589f73321844556ec95225ded31f9dcd112d84dda61",
+    "previous_hash": "8b9cb8d72fed21ca399da41961c0e2599658a5acc413a48d8c20cda150a46f1e",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48526661,
-      "title": "The Birth and Death of JavaScript (2014)",
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "score": 82,
-      "comments": 41
+      "id": 48529990,
+      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+      "url": "https://github.com/tamnd/kage",
+      "score": 348,
+      "comments": 81
+    },
+    {
+      "id": 48533504,
+      "title": "Did Anthropic ask for this?",
+      "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+      "score": 88,
+      "comments": 45
+    },
+    {
+      "id": 48528371,
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "score": 257,
+      "comments": 134
     },
     {
       "id": 48471638,
       "title": "Firewood Splitting Simulator",
       "url": "https://screen.toys/firewood/",
-      "score": 148,
-      "comments": 47
+      "score": 588,
+      "comments": 189
     },
     {
-      "id": 48491048,
-      "title": "Lisp's Influence on Ruby",
-      "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
-      "score": 85,
-      "comments": 0
-    },
-    {
-      "id": 48527145,
-      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "url": "https://su3.io/posts/zeroserve-caddy-compat",
-      "score": 17,
+      "id": 48533848,
+      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+      "score": 5,
       "comments": 1
-    },
-    {
-      "id": 48527360,
-      "title": "FarOutCompany",
-      "url": "https://faroutcompany.com/",
-      "score": 16,
-      "comments": 3
     }
   ]
 }

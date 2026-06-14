@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-15 (last updated: 00:57 IST)
+
+## 📅 2026-06-15 (last updated: 05:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-14 20:11:13 IST | 8b9cb8d72fed | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-15 05:08:23 IST | 077950d4ab7b | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-15 00:57:50 IST | 05c0cb948a8e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) — Score: 82
-- [Firewood Splitting Simulator](https://screen.toys/firewood/) — Score: 148
-- [Lisp's Influence on Ruby](https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e) — Score: 85
-- [Caddy compatibility for zeroserve: 3x throughput and 70% lower latency](https://su3.io/posts/zeroserve-caddy-compat) — Score: 17
-- [FarOutCompany](https://faroutcompany.com/) — Score: 16
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) — Score: 348
+- [Did Anthropic ask for this?](https://www.verysane.ai/p/did-anthropic-ask-for-this) — Score: 88
+- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4) — Score: 257
+- [Firewood Splitting Simulator](https://screen.toys/firewood/) — Score: 588
+- [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) — Score: 5
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,772.0 🔴 -0.57%
