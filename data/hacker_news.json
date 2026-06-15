@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-15 13:40:26 UTC",
-    "fetched_at_ist": "2026-06-15 19:10:26 IST",
+    "fetched_at_utc": "2026-06-15 21:32:56 UTC",
+    "fetched_at_ist": "2026-06-16 03:02:56 IST",
     "item_count": 5,
-    "content_hash": "08fbb87ef71431c46d9021f569815347dd851cd08ac42e2dfd638539c7d5ef05",
-    "previous_hash": "525aca088471920d82f12b2dc1a05043f2e3ed59077fed5c7d55c85fd9bd43ca",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "eda467be0489bc54f99f11dfc0acec28a5a8fe7e645679285d0479e82c6744f9",
+    "previous_hash": "08fbb87ef71431c46d9021f569815347dd851cd08ac42e2dfd638539c7d5ef05",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48540126,
-      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
-      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
-      "score": 87,
-      "comments": 58
+      "id": 48546294,
+      "title": "A backdoor in a LinkedIn job offer",
+      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "score": 247,
+      "comments": 49
     },
     {
-      "id": 48538229,
-      "title": "What the Fuck Happened to Nerds",
-      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-      "score": 471,
-      "comments": 289
+      "id": 48546616,
+      "title": "US battery manufacturing output continues to break records",
+      "url": "https://fred.stlouisfed.org/series/IPG33591S",
+      "score": 51,
+      "comments": 16
     },
     {
-      "id": 48533848,
-      "title": "Your ePub Is fine",
-      "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 736,
-      "comments": 243
+      "id": 48542480,
+      "title": "Iroh 1.0",
+      "url": "https://www.iroh.computer/blog/v1",
+      "score": 790,
+      "comments": 256
     },
     {
-      "id": 48536776,
-      "title": "Apple Foundation Models",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 270,
-      "comments": 110
+      "id": 48546441,
+      "title": "I Love the Computer",
+      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "score": 49,
+      "comments": 10
     },
     {
-      "id": 48506980,
-      "title": "Ported my C game to WASM, here's everybug that I hit",
-      "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
-      "score": 50,
-      "comments": 37
+      "id": 48543475,
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "score": 474,
+      "comments": 91
     }
   ]
 }
