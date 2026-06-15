@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-15 (last updated: 05:08 IST)
+
+## 📅 2026-06-15 (last updated: 13:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-15 05:08:23 IST | 077950d4ab7b | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-15 13:09:06 IST | 525aca088471 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-15 00:57:50 IST | 05c0cb948a8e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) — Score: 348
-- [Did Anthropic ask for this?](https://www.verysane.ai/p/did-anthropic-ask-for-this) — Score: 88
-- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4) — Score: 257
-- [Firewood Splitting Simulator](https://screen.toys/firewood/) — Score: 588
-- [Your ePub Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) — Score: 5
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) — Score: 497
+- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) — Score: 156
+- [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/) — Score: 227
+- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) — Score: 41
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) — Score: 526
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,772.0 🔴 -0.57%
