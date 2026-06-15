@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-15 (last updated: 13:09 IST)
+
+## 📅 2026-06-15 (last updated: 19:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-15 13:09:06 IST | 525aca088471 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-15 19:10:26 IST | 08fbb87ef714 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-15 00:57:50 IST | 05c0cb948a8e | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) — Score: 497
-- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/) — Score: 156
-- [Curl will not accept vulnerability reports during July 2026](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/) — Score: 227
-- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) — Score: 41
-- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage) — Score: 526
+- [Salesforce to Acquire Fin (formerly Intercom) for $3.6BN](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL) — Score: 87
+- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/) — Score: 471
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) — Score: 736
+- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) — Score: 270
+- [Ported my C game to WASM, here's everybug that I hit](http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/) — Score: 50
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,772.0 🔴 -0.57%

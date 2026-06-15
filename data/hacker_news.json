@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-15 07:39:06 UTC",
-    "fetched_at_ist": "2026-06-15 13:09:06 IST",
+    "fetched_at_utc": "2026-06-15 13:40:26 UTC",
+    "fetched_at_ist": "2026-06-15 19:10:26 IST",
     "item_count": 5,
-    "content_hash": "525aca088471920d82f12b2dc1a05043f2e3ed59077fed5c7d55c85fd9bd43ca",
-    "previous_hash": "077950d4ab7b6ec49b5b7589f73321844556ec95225ded31f9dcd112d84dda61",
+    "content_hash": "08fbb87ef71431c46d9021f569815347dd851cd08ac42e2dfd638539c7d5ef05",
+    "previous_hash": "525aca088471920d82f12b2dc1a05043f2e3ed59077fed5c7d55c85fd9bd43ca",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48540126,
+      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
+      "url": "https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/?bc=HL",
+      "score": 87,
+      "comments": 58
+    },
+    {
+      "id": 48538229,
+      "title": "What the Fuck Happened to Nerds",
+      "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+      "score": 471,
+      "comments": 289
+    },
+    {
       "id": 48533848,
       "title": "Your ePub Is fine",
       "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-      "score": 497,
-      "comments": 179
-    },
-    {
-      "id": 48535886,
-      "title": "Even more batteries included with Emacs",
-      "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-      "score": 156,
-      "comments": 27
-    },
-    {
-      "id": 48537165,
-      "title": "Curl will not accept vulnerability reports during July 2026",
-      "url": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
-      "score": 227,
-      "comments": 53
+      "score": 736,
+      "comments": 243
     },
     {
       "id": 48536776,
       "title": "Apple Foundation Models",
       "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "score": 41,
-      "comments": 6
+      "score": 270,
+      "comments": 110
     },
     {
-      "id": 48529990,
-      "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-      "url": "https://github.com/tamnd/kage",
-      "score": 526,
-      "comments": 107
+      "id": 48506980,
+      "title": "Ported my C game to WASM, here's everybug that I hit",
+      "url": "http://ernesernesto.github.io/writes/portingmatchmorphosistowasm/",
+      "score": 50,
+      "comments": 37
     }
   ]
 }
