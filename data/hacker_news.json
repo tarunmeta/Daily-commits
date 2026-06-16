@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-16 07:43:14 UTC",
-    "fetched_at_ist": "2026-06-16 13:13:14 IST",
+    "fetched_at_utc": "2026-06-16 12:32:33 UTC",
+    "fetched_at_ist": "2026-06-16 18:02:33 IST",
     "item_count": 5,
-    "content_hash": "0a1244c4b96513cc06a0f5d0c373f3659d905620ce61a2d488e64a1cdc8e9550",
-    "previous_hash": "eda467be0489bc54f99f11dfc0acec28a5a8fe7e645679285d0479e82c6744f9",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "eafbf269af5b246b46da316410902eae661986445241a4167f2b92a105ba01d2",
+    "previous_hash": "0a1244c4b96513cc06a0f5d0c373f3659d905620ce61a2d488e64a1cdc8e9550",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48553550,
+      "title": "Mechanical Watch",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "score": 84,
+      "comments": 12
+    },
+    {
       "id": 48550693,
       "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "score": 170,
-      "comments": 44
+      "score": 333,
+      "comments": 102
     },
     {
       "id": 48550779,
       "title": "John Carmack on Fabrice Bellard",
       "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 131,
-      "comments": 69
+      "score": 406,
+      "comments": 221
     },
     {
       "id": 48546294,
       "title": "A backdoor in a LinkedIn job offer",
       "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1049,
-      "comments": 196
+      "score": 1297,
+      "comments": 244
     },
     {
-      "id": 48547985,
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
-      "score": 338,
-      "comments": 172
-    },
-    {
-      "id": 48542480,
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "score": 1124,
-      "comments": 335
+      "id": 48552723,
+      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
+      "url": "https://trinket.strivemath.org/",
+      "score": 50,
+      "comments": 3
     }
   ]
 }
