@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-17 19:35:49 UTC",
-    "fetched_at_ist": "2026-06-18 01:05:49 IST",
+    "fetched_at_utc": "2026-06-17 21:35:19 UTC",
+    "fetched_at_ist": "2026-06-18 03:05:19 IST",
     "item_count": 5,
-    "content_hash": "b3a6a6f89cc2284efa09e03cf90cab333f0b239dd72acf9de4fad0f352597070",
-    "previous_hash": "eafbf269af5b246b46da316410902eae661986445241a4167f2b92a105ba01d2",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "02c86a4382f77b7982ddf987f4aff829e67d5ca9442132eaae13cd40379c6af1",
+    "previous_hash": "b3a6a6f89cc2284efa09e03cf90cab333f0b239dd72acf9de4fad0f352597070",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48571081,
-      "title": "Epic Games announces Lore version control system",
+      "title": "Lore – Open source version control system designed for scalability",
       "url": "https://lore.org/",
-      "score": 672,
-      "comments": 368
+      "score": 816,
+      "comments": 450
     },
     {
-      "id": 48572553,
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "score": 83,
-      "comments": 36
+      "id": 48576824,
+      "title": "A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?",
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "score": 22,
+      "comments": 11
     },
     {
-      "id": 48567759,
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 645,
-      "comments": 332
+      "id": 48565498,
+      "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "score": 237,
+      "comments": 241
     },
     {
       "id": 48556561,
       "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
       "url": "https://browser-use.com/posts/firecracker-browser-infra",
-      "score": 84,
-      "comments": 42
+      "score": 135,
+      "comments": 90
     },
     {
-      "id": 48575451,
-      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-      "score": 10,
-      "comments": 2
+      "id": 48567759,
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "score": 712,
+      "comments": 358
     }
   ]
 }

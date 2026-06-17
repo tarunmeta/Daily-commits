@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-06-18 (last updated: 01:05 IST)
+
+## 📅 2026-06-18 (last updated: 03:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-18 01:05:49 IST | b3a6a6f89cc2 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-18 03:05:19 IST | 02c86a4382f7 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-06-17 22:53:59 IST | 55452743d225 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Epic Games announces Lore version control system](https://lore.org/) — Score: 672
-- [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM) — Score: 83
-- [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) — Score: 645
-- [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra) — Score: 84
-- [The hacker sent by Anthropic to calm the government's nerves about AI safety](https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3) — Score: 10
+- [Lore – Open source version control system designed for scalability](https://lore.org/) — Score: 816
+- [A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?](https://openrouter.ai/blog/insights/royale-last-agent-standing/) — Score: 22
+- [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) — Score: 237
+- [How we run Firecracker VMs inside EC2 and start browsers in less than 1s](https://browser-use.com/posts/firecracker-browser-infra) — Score: 135
+- [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index) — Score: 712
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,883.0 🟢 +0.26%
@@ -44,12 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $605.76 🟢 +0.20%
 
 ---
-
-
-
-
-
-
 ## 📅 2026-06-17 (last updated: 22:53 IST)
 
 ### 🧪 Source Integrity Snapshot
