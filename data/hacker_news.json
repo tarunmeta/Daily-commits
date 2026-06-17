@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-16 12:32:33 UTC",
-    "fetched_at_ist": "2026-06-16 18:02:33 IST",
+    "fetched_at_utc": "2026-06-17 19:35:49 UTC",
+    "fetched_at_ist": "2026-06-18 01:05:49 IST",
     "item_count": 5,
-    "content_hash": "eafbf269af5b246b46da316410902eae661986445241a4167f2b92a105ba01d2",
-    "previous_hash": "0a1244c4b96513cc06a0f5d0c373f3659d905620ce61a2d488e64a1cdc8e9550",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "b3a6a6f89cc2284efa09e03cf90cab333f0b239dd72acf9de4fad0f352597070",
+    "previous_hash": "eafbf269af5b246b46da316410902eae661986445241a4167f2b92a105ba01d2",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48553550,
-      "title": "Mechanical Watch",
-      "url": "https://ciechanow.ski/mechanical-watch/",
+      "id": 48571081,
+      "title": "Epic Games announces Lore version control system",
+      "url": "https://lore.org/",
+      "score": 672,
+      "comments": 368
+    },
+    {
+      "id": 48572553,
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "score": 83,
+      "comments": 36
+    },
+    {
+      "id": 48567759,
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+      "score": 645,
+      "comments": 332
+    },
+    {
+      "id": 48556561,
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
       "score": 84,
-      "comments": 12
+      "comments": 42
     },
     {
-      "id": 48550693,
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "score": 333,
-      "comments": 102
-    },
-    {
-      "id": 48550779,
-      "title": "John Carmack on Fabrice Bellard",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "score": 406,
-      "comments": 221
-    },
-    {
-      "id": 48546294,
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "score": 1297,
-      "comments": 244
-    },
-    {
-      "id": 48552723,
-      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-      "url": "https://trinket.strivemath.org/",
-      "score": 50,
-      "comments": 3
+      "id": 48575451,
+      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "score": 10,
+      "comments": 2
     }
   ]
 }
