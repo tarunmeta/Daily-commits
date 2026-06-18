@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-18 (last updated: 19:52 IST)
+
+## 📅 2026-06-18 (last updated: 23:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-18 12:00:29 IST | 01ab8a55884c | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-18 23:11:16 IST | a7249b176a63 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-18 19:52:39 IST | d658ba249d60 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Midjourney Medical](https://www.midjourney.com/medical/blogpost) — Score: 478
-- [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/) — Score: 39
-- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/) — Score: 107
-- [Lore – Open source version control system designed for scalability](https://lore.org/) — Score: 1081
-- [Apple boss Tim Cook says prices to rise due to memory chip costs](https://www.bbc.com/news/articles/c3wyxvqdx1zo) — Score: 31
+- [A website that lists websites to submit your website to](https://www.submission.directory/) — Score: 157
+- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) — Score: 314
+- [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) — Score: 304
+- [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas) — Score: 130
+- [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army) — Score: 44
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,886.0 🔴 -2.01%

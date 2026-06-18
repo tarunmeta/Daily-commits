@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-18 06:30:29 UTC",
-    "fetched_at_ist": "2026-06-18 12:00:29 IST",
+    "fetched_at_utc": "2026-06-18 17:41:16 UTC",
+    "fetched_at_ist": "2026-06-18 23:11:16 IST",
     "item_count": 5,
-    "content_hash": "01ab8a55884c1903008e01a9a005954e3cc3eecfe4605e8bfc5bf71e54b779c5",
-    "previous_hash": "43e0fae946150af62f76278ec129efebd06ee5eb9d58b659e665a84c2b8e5aef",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "a7249b176a63f7066b84b6dd08364eb2de7278e843b39668e2c4da4c555ce78f",
+    "previous_hash": "01ab8a55884c1903008e01a9a005954e3cc3eecfe4605e8bfc5bf71e54b779c5",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48579650,
-      "title": "Midjourney Medical",
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "score": 478,
-      "comments": 344
+      "id": 48586631,
+      "title": "A website that lists websites to submit your website to",
+      "url": "https://www.submission.directory/",
+      "score": 157,
+      "comments": 43
     },
     {
-      "id": 48581070,
-      "title": "I Hate Compilers",
-      "url": "https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/",
-      "score": 39,
-      "comments": 27
+      "id": 48583928,
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
+      "score": 314,
+      "comments": 88
     },
     {
-      "id": 48580209,
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-      "score": 107,
-      "comments": 34
+      "id": 48585746,
+      "title": "Swiss parliament lifts ban on new nuclear power plants",
+      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+      "score": 304,
+      "comments": 170
     },
     {
-      "id": 48571081,
-      "title": "Lore – Open source version control system designed for scalability",
-      "url": "https://lore.org/",
-      "score": 1081,
-      "comments": 576
+      "id": 48585866,
+      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
+      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+      "score": 130,
+      "comments": 100
     },
     {
-      "id": 48580466,
-      "title": "Apple boss Tim Cook says prices to rise due to memory chip costs",
-      "url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo",
-      "score": 31,
-      "comments": 15
+      "id": 48586299,
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "url": "https://tester.army",
+      "score": 44,
+      "comments": 23
     }
   ]
 }
