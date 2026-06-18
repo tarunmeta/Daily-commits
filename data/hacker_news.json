@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-17 21:35:19 UTC",
-    "fetched_at_ist": "2026-06-18 03:05:19 IST",
+    "fetched_at_utc": "2026-06-18 01:42:42 UTC",
+    "fetched_at_ist": "2026-06-18 07:12:42 IST",
     "item_count": 5,
-    "content_hash": "02c86a4382f77b7982ddf987f4aff829e67d5ca9442132eaae13cd40379c6af1",
-    "previous_hash": "b3a6a6f89cc2284efa09e03cf90cab333f0b239dd72acf9de4fad0f352597070",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "43e0fae946150af62f76278ec129efebd06ee5eb9d58b659e665a84c2b8e5aef",
+    "previous_hash": "02c86a4382f77b7982ddf987f4aff829e67d5ca9442132eaae13cd40379c6af1",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48571081,
       "title": "Lore – Open source version control system designed for scalability",
       "url": "https://lore.org/",
-      "score": 816,
-      "comments": 450
+      "score": 974,
+      "comments": 532
     },
     {
-      "id": 48576824,
-      "title": "A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?",
-      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-      "score": 22,
-      "comments": 11
+      "id": 48578388,
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "url": "https://www.horg.com/horg/?page_id=921",
+      "score": 50,
+      "comments": 7
     },
     {
       "id": 48565498,
       "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
       "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "score": 237,
-      "comments": 241
+      "score": 345,
+      "comments": 373
     },
     {
-      "id": 48556561,
-      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-      "url": "https://browser-use.com/posts/firecracker-browser-infra",
-      "score": 135,
-      "comments": 90
+      "id": 48577374,
+      "title": "Storied Colors – a catalogue of named colors",
+      "url": "https://storiedcolors.com/",
+      "score": 87,
+      "comments": 17
     },
     {
-      "id": 48567759,
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "score": 712,
-      "comments": 358
+      "id": 48577208,
+      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "score": 289,
+      "comments": 205
     }
   ]
 }
