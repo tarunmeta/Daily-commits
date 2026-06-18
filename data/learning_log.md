@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-18 (last updated: 07:12 IST)
+
+## 📅 2026-06-18 (last updated: 12:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-18 07:12:42 IST | 43e0fae94615 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-18 12:00:29 IST | 01ab8a55884c | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-17 22:53:59 IST | 55452743d225 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 3,504 stars today
 
 ### 📰 Hacker News Stories
-- [Lore – Open source version control system designed for scalability](https://lore.org/) — Score: 974
-- [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921) — Score: 50
-- [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/) — Score: 345
-- [Storied Colors – a catalogue of named colors](https://storiedcolors.com/) — Score: 87
-- [Leaked financial docs show OpenAI is losing billions of dollars a year](https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/) — Score: 289
+- [Midjourney Medical](https://www.midjourney.com/medical/blogpost) — Score: 478
+- [I Hate Compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/) — Score: 39
+- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/) — Score: 107
+- [Lore – Open source version control system designed for scalability](https://lore.org/) — Score: 1081
+- [Apple boss Tim Cook says prices to rise due to memory chip costs](https://www.bbc.com/news/articles/c3wyxvqdx1zo) — Score: 31
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,883.0 🟢 +0.26%
