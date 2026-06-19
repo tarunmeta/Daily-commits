@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-06-20 (last updated: 01:45 IST)
+
+## 📅 2026-06-20 (last updated: 03:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-19 05:38:59 IST | e8ab8397f02f | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-19 19:11:59 IST | 1a1cddeb8cf9 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-20 03:14:11 IST | 1852f1f364d8 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-20 01:45:15 IST | 348698197765 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 202 stars today
 
 ### 📰 Hacker News Stories
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a) — Score: 288
-- [Leave a Trace](https://www.jakeworth.com/posts/leave-a-trace) — Score: 19
-- [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1) — Score: 265
-- [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610) — Score: 242
-- [Zen and the Art of Machine Learning Research](https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning) — Score: 116
+- [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) — Score: 54
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) — Score: 493
+- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) — Score: 254
+- [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929) — Score: 115
+- [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/) — Score: 154
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,011.0 🔴 -0.11%
@@ -44,13 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $579.34 🟢 +0.03%
 
 ---
-
-
-
-
-
-
-
 ## 📅 2026-06-19 (last updated: 23:46 IST)
 
 ### 🧪 Source Integrity Snapshot

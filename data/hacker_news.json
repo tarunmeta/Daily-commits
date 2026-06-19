@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-19 13:41:59 UTC",
-    "fetched_at_ist": "2026-06-19 19:11:59 IST",
+    "fetched_at_utc": "2026-06-19 21:44:11 UTC",
+    "fetched_at_ist": "2026-06-20 03:14:11 IST",
     "item_count": 5,
-    "content_hash": "1a1cddeb8cf96b02b635f78ee610b05d7c08b3ddb750b7066f7c9c03c0821f4b",
-    "previous_hash": "8ac43c4967402cc9828f3b0c6f3334b844b940aa39c096de2936ae34bab2e120",
+    "content_hash": "1852f1f364d8726b412ddf6870c03b4e247f39861587e0fa5974379a8465ae08",
+    "previous_hash": "1a1cddeb8cf96b02b635f78ee610b05d7c08b3ddb750b7066f7c9c03c0821f4b",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48595511,
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "score": 288,
-      "comments": 141
-    },
-    {
-      "id": 48597939,
-      "title": "Leave a Trace",
-      "url": "https://www.jakeworth.com/posts/leave-a-trace",
-      "score": 19,
-      "comments": 5
-    },
-    {
-      "id": 48553388,
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "score": 265,
-      "comments": 81
-    },
-    {
-      "id": 48543311,
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "score": 242,
+      "id": 48600093,
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "score": 54,
       "comments": 35
     },
     {
-      "id": 48549118,
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "score": 116,
-      "comments": 38
+      "id": 48600312,
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "score": 493,
+      "comments": 245
+    },
+    {
+      "id": 48599515,
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "score": 254,
+      "comments": 156
+    },
+    {
+      "id": 48514843,
+      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
+      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "score": 115,
+      "comments": 73
+    },
+    {
+      "id": 48598586,
+      "title": "How many of the 170k English words do you know?",
+      "url": "https://vocabowl-870366514258.us-west1.run.app/",
+      "score": 154,
+      "comments": 250
     }
   ]
 }
