@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-18 22:16:15 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-19 00:08:59 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **iptv-org/iptv**
-- BTC: **$62,867.0** ↓ (-1.94%)
-- HN top story: **A website that lists websites to submit your website to**
+- Top GitHub repo: **google-research/timesfm**
+- BTC: **$62,842.0** ↓ (-2.62%)
+- HN top story: **The AirPods Effect**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-13 12:15:00 UTC | `66406a390695` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-18 17:41:16 UTC | `a7249b176a63` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-18 22:16:15 UTC | `2aa407ba2e2f` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-06-19 00:08:59 UTC | `e8ab8397f02f` | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-19 00:08:59 UTC | `8ac43c496740` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-19 00:08:59 UTC | `05e4bca56cdc` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-19` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `76` day(s) |
-| Last Commit (IST) | `2026-06-19 01:26:21 IST` |
+| Last Commit (IST) | `2026-06-19 03:46:15 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-16 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-06-17 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-06-18 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-19 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-06-19 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,867.0 | -1.94% | 🔴 |
-| Ethereum | $1,705.12 | -1.75% | 🔴 |
-| Solana | $69.54 | -2.58% | 🔴 |
-| Bnb | $579.51 | -3.24% | 🔴 |
+| Bitcoin | $62,842.0 | -2.62% | 🔴 |
+| Ethereum | $1,708.19 | -2.49% | 🔴 |
+| Solana | $69.6 | -3.52% | 🔴 |
+| Bnb | $577.59 | -4.05% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | 179 stars today | Collection of publicly available IPTV channels from all over the world |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | 2,656 stars today | Production-grade engineering skills for AI coding agents. |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 437 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,275 stars today | An agentic skills framework & software development methodology that works. |
-| [apple/container](https://github.com/apple/container) | Swift | 3,504 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [music-assistant/server](https://github.com/music-assistant/server) | Python | 20 stars today | Music Assistant is a free, opensource Media library manager that connects to you… |
-| [kenn-io/agentsview](https://github.com/kenn-io/agentsview) | Go | 530 stars today | Local-first session intelligence and analytics for coding agents, supporting Cla… |
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | Python | 28 stars today | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer |
+| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 844 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
+| [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 369 stars today | IP addresses break, dial keys instead. Modular networking stack in Rust. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 417 stars today | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,429 stars today | An agentic skills framework & software development methodology that works. |
+| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | Unknown | 202 stars today | GLM-5: From Vibe Coding to Agentic Engineering |
+| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 2,322 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
+| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | 124 stars today | Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr… |
+| [alibaba/zvec](https://github.com/alibaba/zvec) | C++ | 259 stars today | A lightweight, lightning-fast, in-process vector database |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A website that lists websites to submit your website to](https://www.submission.directory/) | 157 | 43 |
-| [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) | 314 | 88 |
-| [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) | 304 | 170 |
-| [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas) | 130 | 100 |
-| [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army) | 44 | 23 |
+| [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect) | 38 | 32 |
+| [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) | 49 | 17 |
+| [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) | 635 | 144 |
+| [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) | 66 | 21 |
+| [The Korean telecom giant at the center of Anthropic's Mythos controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/) | 88 | 55 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

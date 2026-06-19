@@ -5,44 +5,45 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-19 (last updated: 03:46 IST)
+
+## 📅 2026-06-19 (last updated: 05:38 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-06-13 17:45:00 IST | 66406a390695 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-18 23:11:16 IST | a7249b176a63 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-19 03:46:15 IST | 2aa407ba2e2f | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-06-19 05:38:59 IST | e8ab8397f02f | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-19 05:38:59 IST | 8ac43c496740 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-19 05:38:59 IST | 05e4bca56cdc | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
-- **[iptv-org/iptv](https://github.com/iptv-org/iptv)** (TypeScript) — Collection of publicly available IPTV channels from all over the world  
-  ⭐ 179 stars today
-- **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (Shell) — Production-grade engineering skills for AI coding agents.  
-  ⭐ 2,656 stars today
-- **[chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)** (Ruby) — Open-source live-chat, email support, omni-channel desk. An alternative to Inter  
-  ⭐ 437 stars today
+- **[google-research/timesfm](https://github.com/google-research/timesfm)** (Python) — TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo  
+  ⭐ 844 stars today
+- **[n0-computer/iroh](https://github.com/n0-computer/iroh)** (Rust) — IP addresses break, dial keys instead. Modular networking stack in Rust.  
+  ⭐ 369 stars today
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (TypeScript) — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,  
+  ⭐ 417 stars today
 - **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
-  ⭐ 1,275 stars today
-- **[apple/container](https://github.com/apple/container)** (Swift) — A tool for creating and running Linux containers using lightweight virtual machi  
-  ⭐ 3,504 stars today
+  ⭐ 1,429 stars today
+- **[zai-org/GLM-5](https://github.com/zai-org/GLM-5)** (Unknown) — GLM-5: From Vibe Coding to Agentic Engineering  
+  ⭐ 202 stars today
 
 ### 📰 Hacker News Stories
-- [A website that lists websites to submit your website to](https://www.submission.directory/) — Score: 157
-- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) — Score: 314
-- [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html) — Score: 304
-- [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas) — Score: 130
-- [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](https://tester.army) — Score: 44
+- [The AirPods Effect](https://www.theescapenewsletter.com/p/the-airpods-effect) — Score: 38
+- [Zero-Touch OAuth for MCP](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/) — Score: 49
+- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/) — Score: 635
+- [Cell-based architecture for resilient payment systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) — Score: 66
+- [The Korean telecom giant at the center of Anthropic's Mythos controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/) — Score: 88
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,867.0 🔴 -1.94%
-- Ethereum: $1,705.12 🔴 -1.75%
-- Solana: $69.54 🔴 -2.58%
-- Bnb: $579.51 🔴 -3.24%
+- Bitcoin: $62,842.0 🔴 -2.62%
+- Ethereum: $1,708.19 🔴 -2.49%
+- Solana: $69.6 🔴 -3.52%
+- Bnb: $577.59 🔴 -4.05%
 
 ---
 ## 📅 2026-06-18 (last updated: 23:11 IST)

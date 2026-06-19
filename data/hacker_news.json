@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-18 17:41:16 UTC",
-    "fetched_at_ist": "2026-06-18 23:11:16 IST",
+    "fetched_at_utc": "2026-06-19 00:08:59 UTC",
+    "fetched_at_ist": "2026-06-19 05:38:59 IST",
     "item_count": 5,
-    "content_hash": "a7249b176a63f7066b84b6dd08364eb2de7278e843b39668e2c4da4c555ce78f",
-    "previous_hash": "01ab8a55884c1903008e01a9a005954e3cc3eecfe4605e8bfc5bf71e54b779c5",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "8ac43c4967402cc9828f3b0c6f3334b844b940aa39c096de2936ae34bab2e120",
+    "previous_hash": "a7249b176a63f7066b84b6dd08364eb2de7278e843b39668e2c4da4c555ce78f",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48586631,
-      "title": "A website that lists websites to submit your website to",
-      "url": "https://www.submission.directory/",
-      "score": 157,
-      "comments": 43
+      "id": 48592832,
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "score": 38,
+      "comments": 32
+    },
+    {
+      "id": 48592163,
+      "title": "Zero-Touch OAuth for MCP",
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "score": 49,
+      "comments": 17
     },
     {
       "id": 48583928,
       "title": "I found 10k GitHub repositories distributing Trojan malware",
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "score": 314,
-      "comments": 88
+      "score": 635,
+      "comments": 144
     },
     {
-      "id": 48585746,
-      "title": "Swiss parliament lifts ban on new nuclear power plants",
-      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "score": 304,
-      "comments": 170
+      "id": 48547969,
+      "title": "Cell-based architecture for resilient payment systems",
+      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+      "score": 66,
+      "comments": 21
     },
     {
-      "id": 48585866,
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "score": 130,
-      "comments": 100
-    },
-    {
-      "id": 48586299,
-      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-      "url": "https://tester.army",
-      "score": 44,
-      "comments": 23
+      "id": 48584484,
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "score": 88,
+      "comments": 55
     }
   ]
 }
