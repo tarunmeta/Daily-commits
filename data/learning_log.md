@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-20 (last updated: 03:14 IST)
+
+## 📅 2026-06-20 (last updated: 04:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-19 05:38:59 IST | e8ab8397f02f | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-20 03:14:11 IST | 1852f1f364d8 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-20 04:09:06 IST | 4b1b88cf329c | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-06-20 01:45:15 IST | 348698197765 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 202 stars today
 
 ### 📰 Hacker News Stories
-- [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) — Score: 54
-- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) — Score: 493
-- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) — Score: 254
-- [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929) — Score: 115
-- [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/) — Score: 154
+- [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/) — Score: 186
+- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) — Score: 282
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/) — Score: 548
+- [I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾](https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929) — Score: 138
+- [The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents](https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents) — Score: 33
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,011.0 🔴 -0.11%
