@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-19 22:39:06 UTC",
-    "fetched_at_ist": "2026-06-20 04:09:06 IST",
+    "fetched_at_utc": "2026-06-20 10:33:21 UTC",
+    "fetched_at_ist": "2026-06-20 16:03:21 IST",
     "item_count": 5,
-    "content_hash": "4b1b88cf329cdcc29770f59493205cd39596a5d999dda6ba95f164045b260fa0",
-    "previous_hash": "1852f1f364d8726b412ddf6870c03b4e247f39861587e0fa5974379a8465ae08",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "3269b67b5bcd79835844a6399a673196f3bea4134352a45d56cba97fd14da006",
+    "previous_hash": "4b1b88cf329cdcc29770f59493205cd39596a5d999dda6ba95f164045b260fa0",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48600093,
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "score": 186,
-      "comments": 124
+      "id": 48606619,
+      "title": "I Stored a Website in a Favicon",
+      "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+      "score": 140,
+      "comments": 54
+    },
+    {
+      "id": 48606140,
+      "title": "Where to Find the Colors Your Screen Can't Show You",
+      "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+      "score": 138,
+      "comments": 36
+    },
+    {
+      "id": 48562662,
+      "title": "Data Compression Explained (2012)",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "score": 130,
+      "comments": 17
     },
     {
       "id": 48599515,
       "title": "There are no instances in ATProto",
       "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "score": 282,
-      "comments": 170
+      "score": 453,
+      "comments": 228
     },
     {
-      "id": 48600312,
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "score": 548,
-      "comments": 263
-    },
-    {
-      "id": 48514843,
-      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
-      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
-      "score": 138,
-      "comments": 84
-    },
-    {
-      "id": 48603761,
-      "title": "The UK's New Under-16 Social Media Ban Will Cause More Harm Than It Prevents",
-      "url": "https://www.eff.org/deeplinks/2026/06/uks-new-under-16-social-media-ban-will-cause-more-harm-it-prevents",
-      "score": 33,
-      "comments": 22
+      "id": 48582374,
+      "title": "Can you see three trees?",
+      "url": "https://www.not-ship.com/can-you-see-three-trees/",
+      "score": 121,
+      "comments": 66
     }
   ]
 }
