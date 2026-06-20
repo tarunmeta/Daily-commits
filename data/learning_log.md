@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-21 (last updated: 01:09 IST)
+
+## 📅 2026-06-21 (last updated: 05:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-19 05:38:59 IST | e8ab8397f02f | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-21 01:09:08 IST | acf86117540c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-21 05:06:16 IST | f4cc07df920d | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-20 17:48:11 IST | 7afa48dd53b1 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 202 stars today
 
 ### 📰 Hacker News Stories
-- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) — Score: 93
-- [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/) — Score: 201
-- [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/) — Score: 64
-- [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html) — Score: 100
-- [Bun has an open PR adding shared-memory threads to JavaScriptCore](https://github.com/oven-sh/WebKit/pull/249) — Score: 58
+- [Pre-2022 Books](https://notes.lorenzogravina.com/musings/pre-2022-books) — Score: 75
+- [Not just books: renting a sewing machine from the library can improve democracy](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland) — Score: 29
+- [Epoll vs. Io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/) — Score: 11
+- [A Love Story](https://pudding.cool/2026/06/love-story/) — Score: 35
+- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community) — Score: 207
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,667.0 🟢 +1.94%
