@@ -10,14 +10,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-20 (last updated: 16:03 IST)
+
+## 📅 2026-06-20 (last updated: 17:48 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-19 05:38:59 IST | e8ab8397f02f | +16 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-20 16:03:21 IST | 3269b67b5bcd | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-20 01:45:15 IST | 348698197765 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-20 17:48:11 IST | 7afa48dd53b1 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/) — Score: 121
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,011.0 🔴 -0.11%
-- Ethereum: $1,701.8 🔴 -0.46%
-- Solana: $68.94 🔴 -1.04%
-- Bnb: $579.34 🟢 +0.03%
+- Bitcoin: $63,667.0 🟢 +1.94%
+- Ethereum: $1,726.75 🟢 +2.37%
+- Solana: $71.79 🟢 +5.31%
+- Bnb: $586.17 🟢 +2.37%
 
 ---
 ## 📅 2026-06-19 (last updated: 23:46 IST)
