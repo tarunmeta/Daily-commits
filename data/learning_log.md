@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-20 (last updated: 17:48 IST)
+
+## 📅 2026-06-20 (last updated: 20:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-06-19 05:38:59 IST | e8ab8397f02f | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-20 16:03:21 IST | 3269b67b5bcd | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-20 20:10:50 IST | df426f5026ff | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-20 17:48:11 IST | 7afa48dd53b1 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 202 stars today
 
 ### 📰 Hacker News Stories
-- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) — Score: 140
-- [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) — Score: 138
-- [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html) — Score: 130
-- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/) — Score: 453
-- [Can you see three trees?](https://www.not-ship.com/can-you-see-three-trees/) — Score: 121
+- [CSSQuake](https://cssquake.com/) — Score: 188
+- [I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps](https://point.free/blog/delete-12-flags/) — Score: 8
+- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) — Score: 221
+- [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com) — Score: 37
+- [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) — Score: 272
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,667.0 🟢 +1.94%
