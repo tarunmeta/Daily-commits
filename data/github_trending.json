@@ -2,116 +2,110 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-19 00:08:59 UTC",
-    "fetched_at_ist": "2026-06-19 05:38:59 IST",
-    "item_count": 17,
-    "content_hash": "e8ab8397f02fb69c74d011c8e4f5cf73d6f6aa0cf32c88a57e8426b6c360490d",
-    "previous_hash": "66406a390695ed02caf1a1cfda6a1765167048c4b238d39b91e6d2aa728b7d23",
-    "new_repos_vs_previous": 16,
+    "fetched_at_utc": "2026-06-23 00:07:35 UTC",
+    "fetched_at_ist": "2026-06-23 05:37:35 IST",
+    "item_count": 16,
+    "content_hash": "2dddfb8892cffaeefc966eeef45f8f04dfc2a95e9984bfee821d45bdd7daa66c",
+    "previous_hash": "e8ab8397f02fb69c74d011c8e4f5cf73d6f6aa0cf32c88a57e8426b6c360490d",
+    "new_repos_vs_previous": 15,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "844 stars today"
+      "stars_today": "2,938 stars today"
     },
     {
-      "name": "n0-computer/iroh",
-      "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "language": "Rust",
-      "stars_today": "369 stars today"
+      "name": "palmier-io/palmier-pro",
+      "description": "macOS video editor built for AI",
+      "language": "Swift",
+      "stars_today": "2,463 stars today"
     },
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "name": "jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars_today": "417 stars today"
+      "stars_today": "529 stars today"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,429 stars today"
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars_today": "956 stars today"
     },
     {
-      "name": "zai-org/GLM-5",
-      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
-      "language": "Unknown",
-      "stars_today": "202 stars today"
+      "name": "penpot/penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "language": "Clojure",
+      "stars_today": "728 stars today"
+    },
+    {
+      "name": "Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "TypeScript",
+      "stars_today": "547 stars today"
+    },
+    {
+      "name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": "573 stars today"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars_today": "395 stars today"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "description": "Turso is an in-process SQL database, compatible with SQLite.",
+      "language": "Rust",
+      "stars_today": "540 stars today"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "stars_today": "738 stars today"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars_today": "2,322 stars today"
+      "stars_today": "1,185 stars today"
     },
     {
-      "name": "yifanfeng97/Hyper-Extract",
-      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "124 stars today"
+      "stars_today": "1,557 stars today"
     },
     {
-      "name": "alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
-      "language": "C++",
-      "stars_today": "259 stars today"
-    },
-    {
-      "name": "withastro/flue",
-      "description": "The sandbox agent framework.",
+      "name": "firecrawl/firecrawl",
+      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
       "language": "TypeScript",
-      "stars_today": "162 stars today"
+      "stars_today": "615 stars today"
     },
     {
-      "name": "Kilo-Org/kilocode",
-      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "name": "JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_today": "1,345 stars today"
+      "stars_today": "100 stars today"
     },
     {
-      "name": "makeplane/plane",
-      "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "language": "TypeScript",
-      "stars_today": "613 stars today"
+      "name": "lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "language": "Jupyter Notebook",
+      "stars_today": "193 stars today"
     },
     {
-      "name": "Kong/insomnia",
-      "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "language": "TypeScript",
-      "stars_today": "18 stars today"
-    },
-    {
-      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "language": "Rust",
-      "stars_today": "244 stars today"
-    },
-    {
-      "name": "dotnet/aspnetcore",
-      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "language": "C#",
-      "stars_today": "14 stars today"
-    },
-    {
-      "name": "owainlewis/awesome-artificial-intelligence",
-      "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "language": "Unknown",
-      "stars_today": "40 stars today"
-    },
-    {
-      "name": "Lightricks/LTX-2",
-      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "language": "Python",
-      "stars_today": "51 stars today"
-    },
-    {
-      "name": "LibreTranslate/LibreTranslate",
-      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
-      "language": "Python",
-      "stars_today": "51 stars today"
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars_today": "2,051 stars today"
     }
   ]
 }

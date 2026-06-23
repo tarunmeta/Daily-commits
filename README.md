@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-22 01:42:34 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-23 00:07:37 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **google-research/timesfm**
-- BTC: **$64,047.0** ↑ (+0.27%)
-- HN top story: **Apertus – Open Foundation Model for Sovereign AI**
+- Top GitHub repo: **calesthio/OpenMontage**
+- BTC: **$63,941.0** ↑ (+0.81%)
+- HN top story: **Steam Machine launches today**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-06-19 00:08:59 UTC | `e8ab8397f02f` | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-22 01:42:34 UTC | `7d99b0264b20` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-21 20:25:11 UTC | `e9c56f66a1d4` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-06-23 00:07:35 UTC | `2dddfb8892cf` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-23 00:07:37 UTC | `8168c63f35c5` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-23 00:07:35 UTC | `e1aff409f06d` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +16 new repos, top changed: yes
+- GitHub: +15 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-23` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `78` day(s) |
-| Last Commit (IST) | `2026-06-23 02:20:01 IST` |
+| Last Commit (IST) | `2026-06-23 04:17:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-20 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-06-21 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-22 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-23 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-06-23 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,047.0 | +0.27% | 🟢 |
-| Ethereum | $1,728.44 | +0.01% | 🟢 |
-| Solana | $73.98 | +3.00% | 🟢 |
-| Bnb | $590.26 | +0.89% | 🟢 |
+| Bitcoin | $63,941.0 | +0.81% | 🟢 |
+| Ethereum | $1,725.91 | +0.89% | 🟢 |
+| Solana | $71.88 | -1.02% | 🔴 |
+| Bnb | $589.48 | +0.88% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 844 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | 369 stars today | IP addresses break, dial keys instead. Modular networking stack in Rust. |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | 417 stars today | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,429 stars today | An agentic skills framework & software development methodology that works. |
-| [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | Unknown | 202 stars today | GLM-5: From Vibe Coding to Agentic Engineering |
-| [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | 2,322 stars today | High-performance code intelligence MCP server. Indexes codebases into a persiste… |
-| [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | Python | 124 stars today | Transform unstructured text into structured knowledge with LLMs. Graphs, hypergr… |
-| [alibaba/zvec](https://github.com/alibaba/zvec) | C++ | 259 stars today | A lightweight, lightning-fast, in-process vector database |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 2,938 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 2,463 stars today | macOS video editor built for AI |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 529 stars today | The open-source AI voice studio. Clone, dictate, create. |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 956 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
+| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 728 stars today | Penpot: The open-source design tool for design and code collaboration |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | TypeScript | 547 stars today | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 573 stars today | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,… |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 395 stars today | Write HTML. Render video. Built for agents. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/) | 189 | 74 |
-| [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/) | 209 | 92 |
-| [Everything is logarithms](https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html) | 106 | 14 |
-| [I was wrong about the Midjourney ultra-sound scanner](https://twitter.com/MattZirwas/status/2068365802491834541) | 40 | 25 |
-| [Petition against Meta's employee training data collection for ML models](https://mcipetition.com/) | 27 | 23 |
+| [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) | 1094 | 973 |
+| [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2) | 112 | 45 |
+| [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero) | 81 | 21 |
+| [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes) | 92 | 56 |
+| [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/) | 179 | 60 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

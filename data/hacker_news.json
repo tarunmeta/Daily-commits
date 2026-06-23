@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-22 01:42:34 UTC",
-    "fetched_at_ist": "2026-06-22 07:12:34 IST",
+    "fetched_at_utc": "2026-06-23 00:07:37 UTC",
+    "fetched_at_ist": "2026-06-23 05:37:37 IST",
     "item_count": 5,
-    "content_hash": "7d99b0264b205a4ba9a9d400aeb661df6411023d292085995a7874585bcd9bef",
-    "previous_hash": "f4cc07df920dd426f87a21fd60c92d259defa817399ec99546206eb39cf7fcb7",
+    "content_hash": "8168c63f35c53d4d65f3ea4173007560b5342352a690a63f0084cc0fa3f1325f",
+    "previous_hash": "7d99b0264b205a4ba9a9d400aeb661df6411023d292085995a7874585bcd9bef",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48622778,
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "score": 189,
-      "comments": 74
+      "id": 48632884,
+      "title": "Steam Machine launches today",
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
+      "score": 1094,
+      "comments": 973
     },
     {
-      "id": 48622867,
-      "title": "Did my old job only exist because of fraud?",
-      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-      "score": 209,
-      "comments": 92
+      "id": 48636377,
+      "title": "Unsloth GLM-5.2 – How to Run Locally",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "score": 112,
+      "comments": 45
     },
     {
-      "id": 48622626,
-      "title": "Everything is logarithms",
-      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
-      "score": 106,
-      "comments": 14
+      "id": 48634778,
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "url": "https://github.com/dorukkumkumoglu/optocamzero",
+      "score": 81,
+      "comments": 21
     },
     {
-      "id": 48618536,
-      "title": "I was wrong about the Midjourney ultra-sound scanner",
-      "url": "https://twitter.com/MattZirwas/status/2068365802491834541",
-      "score": 40,
-      "comments": 25
+      "id": 48634787,
+      "title": "British Columbia, Time Zones, and Postgres",
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "score": 92,
+      "comments": 56
     },
     {
-      "id": 48623721,
-      "title": "Petition against Meta's employee training data collection for ML models",
-      "url": "https://mcipetition.com/",
-      "score": 27,
-      "comments": 23
+      "id": 48597221,
+      "title": "My Mathematical Regression",
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "score": 179,
+      "comments": 60
     }
   ]
 }
