@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-23 11:31:39 UTC",
-    "fetched_at_ist": "2026-06-23 17:01:39 IST",
+    "fetched_at_utc": "2026-06-23 16:41:57 UTC",
+    "fetched_at_ist": "2026-06-23 22:11:57 IST",
     "item_count": 5,
-    "content_hash": "7c824c0f1e41fceda6ee54c9854b119833163afe277947d87a5c8eabf943b840",
-    "previous_hash": "d512d4bf7543c8928f57182938c6421e9f1e8a20408b3e9cbff61a484464667a",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "content_hash": "9da3eac08ca904566470bcb3fa187a6c47aacac253390b6ae2c4ac18d0298151",
+    "previous_hash": "7c824c0f1e41fceda6ee54c9854b119833163afe277947d87a5c8eabf943b840",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48632884,
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1643,
-      "comments": 1411
+      "id": 48645437,
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "score": 164,
+      "comments": 25
     },
     {
-      "id": 48640974,
-      "title": "The new HTTP QUERY method explained",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "score": 150,
-      "comments": 83
+      "id": 48643426,
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "score": 299,
+      "comments": 79
     },
     {
-      "id": 48642699,
-      "title": "Crypto in 2026: Oh, This Is the Bad Place",
-      "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
-      "score": 88,
-      "comments": 66
+      "id": 48645173,
+      "title": "Spying on kids to save kids from spying is stupid",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "score": 302,
+      "comments": 191
     },
     {
-      "id": 48596488,
-      "title": "Plotnine",
-      "url": "https://plotnine.org/",
-      "score": 65,
-      "comments": 15
+      "id": 48645721,
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "url": "https://lift4d.github.io/",
+      "score": 39,
+      "comments": 3
     },
     {
-      "id": 48614715,
-      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-      "score": 349,
-      "comments": 263
+      "id": 48634187,
+      "title": "Five monitors on a Commodore 128 [video]",
+      "url": "https://www.youtube.com/watch?v=ul5hC3PY1Yg",
+      "score": 19,
+      "comments": 3
     }
   ]
 }

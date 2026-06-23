@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-23 (last updated: 17:01 IST)
+
+## 📅 2026-06-23 (last updated: 22:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-23 05:37:35 IST | 2dddfb8892cf | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-23 17:01:39 IST | 7c824c0f1e41 | +4 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-23 22:11:57 IST | 9da3eac08ca9 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-23 05:37:35 IST | e1aff409f06d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 728 stars today
 
 ### 📰 Hacker News Stories
-- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1643
-- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/) — Score: 150
-- [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/) — Score: 88
-- [Plotnine](https://plotnine.org/) — Score: 65
-- [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2) — Score: 349
+- [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/) — Score: 164
+- [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR) — Score: 299
+- [Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/) — Score: 302
+- [Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild](https://lift4d.github.io/) — Score: 39
+- [Five monitors on a Commodore 128 [video]](https://www.youtube.com/watch?v=ul5hC3PY1Yg) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,941.0 🟢 +0.81%
