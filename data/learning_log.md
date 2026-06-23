@@ -5,14 +5,15 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-24 (last updated: 00:02 IST)
+
+## 📅 2026-06-24 (last updated: 03:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-23 05:37:35 IST | 2dddfb8892cf | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-24 00:02:31 IST | 40025b3c2815 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-23 05:37:35 IST | e1aff409f06d | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-24 03:46:41 IST | a126029108ec | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [The truth about being a manager](https://sofiakodar.github.io/posts/becomingmanager/) — Score: 33
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,941.0 🟢 +0.81%
-- Ethereum: $1,725.91 🟢 +0.89%
-- Solana: $71.88 🔴 -1.02%
-- Bnb: $589.48 🟢 +0.88%
+- Bitcoin: $62,676.0 🔴 -2.39%
+- Ethereum: $1,669.27 🔴 -3.57%
+- Solana: $69.51 🔴 -4.38%
+- Bnb: $577.38 🔴 -2.22%
 
 ---
 ## 📅 2026-06-23 (last updated: 22:11 IST)
