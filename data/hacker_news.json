@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-23 00:07:37 UTC",
-    "fetched_at_ist": "2026-06-23 05:37:37 IST",
+    "fetched_at_utc": "2026-06-23 04:30:12 UTC",
+    "fetched_at_ist": "2026-06-23 10:00:12 IST",
     "item_count": 5,
-    "content_hash": "8168c63f35c53d4d65f3ea4173007560b5342352a690a63f0084cc0fa3f1325f",
-    "previous_hash": "7d99b0264b205a4ba9a9d400aeb661df6411023d292085995a7874585bcd9bef",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "d512d4bf7543c8928f57182938c6421e9f1e8a20408b3e9cbff61a484464667a",
+    "previous_hash": "8168c63f35c53d4d65f3ea4173007560b5342352a690a63f0084cc0fa3f1325f",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48632884,
       "title": "Steam Machine launches today",
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1094,
-      "comments": 973
+      "score": 1346,
+      "comments": 1213
     },
     {
       "id": 48636377,
-      "title": "Unsloth GLM-5.2 – How to Run Locally",
+      "title": "GLM-5.2 – How to Run Locally",
       "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 112,
-      "comments": 45
+      "score": 253,
+      "comments": 112
     },
     {
-      "id": 48634778,
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "url": "https://github.com/dorukkumkumoglu/optocamzero",
-      "score": 81,
-      "comments": 21
+      "id": 48638886,
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "score": 80,
+      "comments": 27
     },
     {
-      "id": 48634787,
-      "title": "British Columbia, Time Zones, and Postgres",
-      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "score": 92,
-      "comments": 56
+      "id": 48639240,
+      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+      "url": "https://arxiv.org/abs/2606.16140",
+      "score": 48,
+      "comments": 18
     },
     {
-      "id": 48597221,
-      "title": "My Mathematical Regression",
-      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "score": 179,
-      "comments": 60
+      "id": 48639165,
+      "title": "An Introduction to YOLO26",
+      "url": "https://blog.roboflow.com/yolo26/",
+      "score": 20,
+      "comments": 0
     }
   ]
 }

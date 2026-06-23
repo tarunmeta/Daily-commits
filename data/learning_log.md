@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-23 (last updated: 05:37 IST)
+
+## 📅 2026-06-23 (last updated: 10:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-23 05:37:35 IST | 2dddfb8892cf | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-23 05:37:37 IST | 8168c63f35c5 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-23 10:00:12 IST | d512d4bf7543 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-06-23 05:37:35 IST | e1aff409f06d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 728 stars today
 
 ### 📰 Hacker News Stories
-- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1094
-- [Unsloth GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2) — Score: 112
-- [Optocam Zero: a Pi Zero based digital camera made using off the shelf components](https://github.com/dorukkumkumoglu/optocamzero) — Score: 81
-- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes) — Score: 92
-- [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/) — Score: 179
+- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1346
+- [GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2) — Score: 253
+- [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/) — Score: 80
+- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140) — Score: 48
+- [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/) — Score: 20
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,941.0 🟢 +0.81%
