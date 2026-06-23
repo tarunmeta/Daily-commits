@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-23 18:32:31 UTC",
-    "fetched_at_ist": "2026-06-24 00:02:31 IST",
+    "fetched_at_utc": "2026-06-23 23:35:15 UTC",
+    "fetched_at_ist": "2026-06-24 05:05:15 IST",
     "item_count": 5,
-    "content_hash": "40025b3c2815fb19508b2bd84bd66c7ed7fc97048bfe57861bab36acedf340b9",
-    "previous_hash": "9da3eac08ca904566470bcb3fa187a6c47aacac253390b6ae2c4ac18d0298151",
+    "content_hash": "6390f40dfe45fe282c639f63c2815ea81a6f4e268dc02a3cef984c7e64f09d0e",
+    "previous_hash": "40025b3c2815fb19508b2bd84bd66c7ed7fc97048bfe57861bab36acedf340b9",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48647799,
-      "title": "F3",
-      "url": "https://github.com/future-file-format/f3",
-      "score": 308,
-      "comments": 77
-    },
-    {
-      "id": 48647823,
-      "title": "San Diego photologs from the 1970s",
-      "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
-      "score": 62,
-      "comments": 10
-    },
-    {
-      "id": 48645437,
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "score": 235,
-      "comments": 46
+      "id": 48649435,
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
+      "score": 279,
+      "comments": 38
     },
     {
       "id": 48648779,
-      "title": "Swift Package Index Joins Apple",
+      "title": "Swift Package Index joins Apple",
       "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 20,
-      "comments": 1
+      "score": 153,
+      "comments": 48
     },
     {
-      "id": 48648558,
-      "title": "The truth about being a manager",
-      "url": "https://sofiakodar.github.io/posts/becomingmanager/",
-      "score": 33,
-      "comments": 20
+      "id": 48648619,
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "score": 193,
+      "comments": 66
+    },
+    {
+      "id": 48618481,
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "score": 126,
+      "comments": 8
+    },
+    {
+      "id": 48648959,
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "score": 69,
+      "comments": 2
     }
   ]
 }
