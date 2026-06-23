@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-23 04:30:12 UTC",
-    "fetched_at_ist": "2026-06-23 10:00:12 IST",
+    "fetched_at_utc": "2026-06-23 11:31:39 UTC",
+    "fetched_at_ist": "2026-06-23 17:01:39 IST",
     "item_count": 5,
-    "content_hash": "d512d4bf7543c8928f57182938c6421e9f1e8a20408b3e9cbff61a484464667a",
-    "previous_hash": "8168c63f35c53d4d65f3ea4173007560b5342352a690a63f0084cc0fa3f1325f",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "7c824c0f1e41fceda6ee54c9854b119833163afe277947d87a5c8eabf943b840",
+    "previous_hash": "d512d4bf7543c8928f57182938c6421e9f1e8a20408b3e9cbff61a484464667a",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48632884,
       "title": "Steam Machine launches today",
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "score": 1346,
-      "comments": 1213
+      "score": 1643,
+      "comments": 1411
     },
     {
-      "id": 48636377,
-      "title": "GLM-5.2 – How to Run Locally",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "score": 253,
-      "comments": 112
+      "id": 48640974,
+      "title": "The new HTTP QUERY method explained",
+      "url": "https://kreya.app/blog/new-http-query-method-explained/",
+      "score": 150,
+      "comments": 83
     },
     {
-      "id": 48638886,
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "score": 80,
-      "comments": 27
+      "id": 48642699,
+      "title": "Crypto in 2026: Oh, This Is the Bad Place",
+      "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
+      "score": 88,
+      "comments": 66
     },
     {
-      "id": 48639240,
-      "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
-      "url": "https://arxiv.org/abs/2606.16140",
-      "score": 48,
-      "comments": 18
+      "id": 48596488,
+      "title": "Plotnine",
+      "url": "https://plotnine.org/",
+      "score": 65,
+      "comments": 15
     },
     {
-      "id": 48639165,
-      "title": "An Introduction to YOLO26",
-      "url": "https://blog.roboflow.com/yolo26/",
-      "score": 20,
-      "comments": 0
+      "id": 48614715,
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
+      "score": 349,
+      "comments": 263
     }
   ]
 }

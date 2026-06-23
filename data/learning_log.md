@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-23 (last updated: 10:00 IST)
+
+## 📅 2026-06-23 (last updated: 17:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-23 05:37:35 IST | 2dddfb8892cf | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-23 10:00:12 IST | d512d4bf7543 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-06-23 17:01:39 IST | 7c824c0f1e41 | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-06-23 05:37:35 IST | e1aff409f06d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 728 stars today
 
 ### 📰 Hacker News Stories
-- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1346
-- [GLM-5.2 – How to Run Locally](https://unsloth.ai/docs/models/glm-5.2) — Score: 253
-- [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/) — Score: 80
-- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140) — Score: 48
-- [An Introduction to YOLO26](https://blog.roboflow.com/yolo26/) — Score: 20
+- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245) — Score: 1643
+- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/) — Score: 150
+- [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/) — Score: 88
+- [Plotnine](https://plotnine.org/) — Score: 65
+- [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2) — Score: 349
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,941.0 🟢 +0.81%
