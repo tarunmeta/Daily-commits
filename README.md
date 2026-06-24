@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-24 09:32:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-24 12:09:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **calesthio/OpenMontage**
-- BTC: **$62,676.0** ↓ (-2.39%)
-- HN top story: **Vulnerability reports are not special anymore**
+- BTC: **$62,807.0** ↑ (+0.64%)
+- HN top story: **We're making Bunny DNS free: because a faster internet won't build itself**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-06-23 00:07:35 UTC | `2dddfb8892cf` | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-24 09:32:43 UTC | `b9b71649e85c` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-06-23 22:16:41 UTC | `a126029108ec` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 13 | 2026-06-24 12:09:37 UTC | `942264e4bfef` | +10 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-24 12:09:38 UTC | `dbd75a53ab43` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-24 12:09:37 UTC | `1f7f01f4f0c7` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +10 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-24` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `78` day(s) |
-| Last Commit (IST) | `2026-06-24 11:19:47 IST` |
+| Last Commit (IST) | `2026-06-24 15:02:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-21 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-22 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-23 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-06-24 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-24 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,676.0 | -2.39% | 🔴 |
-| Ethereum | $1,669.27 | -3.57% | 🔴 |
-| Solana | $69.51 | -4.38% | 🔴 |
-| Bnb | $577.38 | -2.22% | 🔴 |
+| Bitcoin | $62,807.0 | +0.64% | 🟢 |
+| Ethereum | $1,676.13 | +1.08% | 🟢 |
+| Solana | $69.69 | +0.69% | 🟢 |
+| Bnb | $578.91 | +0.90% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 2,938 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
-| [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | 2,463 stars today | macOS video editor built for AI |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | 529 stars today | The open-source AI voice studio. Clone, dictate, create. |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 956 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
-| [penpot/penpot](https://github.com/penpot/penpot) | Clojure | 728 stars today | Penpot: The open-source design tool for design and code collaboration |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | TypeScript | 547 stars today | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 573 stars today | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,… |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 395 stars today | Write HTML. Render video. Built for agents. |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 3,703 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 1,461 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
+| [apple/container](https://github.com/apple/container) | Swift | 1,746 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
+| [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | Python | 152 stars today | AI agent to evaluate and score resumes. |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 693 stars today | Clone any website with one command using AI coding agents |
+| [revfactory/harness](https://github.com/revfactory/harness) | HTML | 274 stars today | A meta-skill that designs domain-specific agent teams, defines specialized agent… |
+| [flutter/flutter](https://github.com/flutter/flutter) | Dart | 44 stars today | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | Kotlin | 79 stars today | Headunit App for displaying Android Auto |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) | 265 | 148 |
-| [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi) | 131 | 40 |
-| [Jerry's Map](http://www.jerrysmap.com/the-map) | 463 | 54 |
-| [Why eval startups fail (2025)](https://thomasliao.com/eval-startups) | 17 | 13 |
-| [Show HN: An ASCII 3D Rendering Engine](https://glyphcss.com) | 122 | 37 |
+| [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/) | 269 | 84 |
+| [Statistics that live in your SQL](https://kolistat.com/blog/the-stats-duck-v0-6-0/) | 42 | 3 |
+| [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) | 313 | 170 |
+| [Jerry's Map](http://www.jerrysmap.com/the-map) | 500 | 55 |
+| [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi) | 163 | 72 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

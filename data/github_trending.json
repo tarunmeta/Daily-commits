@@ -2,110 +2,92 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-23 00:07:35 UTC",
-    "fetched_at_ist": "2026-06-23 05:37:35 IST",
-    "item_count": 16,
-    "content_hash": "2dddfb8892cffaeefc966eeef45f8f04dfc2a95e9984bfee821d45bdd7daa66c",
-    "previous_hash": "e8ab8397f02fb69c74d011c8e4f5cf73d6f6aa0cf32c88a57e8426b6c360490d",
-    "new_repos_vs_previous": 15,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-06-24 12:09:37 UTC",
+    "fetched_at_ist": "2026-06-24 17:39:37 IST",
+    "item_count": 13,
+    "content_hash": "942264e4bfef1cf356260cb023c24de34a4725a12f766cee61069a7a68edfc40",
+    "previous_hash": "2dddfb8892cffaeefc966eeef45f8f04dfc2a95e9984bfee821d45bdd7daa66c",
+    "new_repos_vs_previous": 10,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars_today": "2,938 stars today"
-    },
-    {
-      "name": "palmier-io/palmier-pro",
-      "description": "macOS video editor built for AI",
-      "language": "Swift",
-      "stars_today": "2,463 stars today"
-    },
-    {
-      "name": "jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
-      "language": "TypeScript",
-      "stars_today": "529 stars today"
-    },
-    {
-      "name": "mukul975/Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
-      "language": "Python",
-      "stars_today": "956 stars today"
-    },
-    {
-      "name": "penpot/penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "language": "Clojure",
-      "stars_today": "728 stars today"
-    },
-    {
-      "name": "Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "TypeScript",
-      "stars_today": "547 stars today"
-    },
-    {
-      "name": "garrytan/gstack",
-      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "language": "TypeScript",
-      "stars_today": "573 stars today"
-    },
-    {
-      "name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_today": "395 stars today"
-    },
-    {
-      "name": "tursodatabase/turso",
-      "description": "Turso is an in-process SQL database, compatible with SQLite.",
-      "language": "Rust",
-      "stars_today": "540 stars today"
-    },
-    {
-      "name": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "language": "Python",
-      "stars_today": "738 stars today"
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "stars_today": "1,185 stars today"
+      "stars_today": "3,703 stars today"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "1,557 stars today"
+      "stars_today": "1,461 stars today"
     },
     {
-      "name": "firecrawl/firecrawl",
-      "description": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "language": "TypeScript",
-      "stars_today": "615 stars today"
+      "name": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars_today": "1,746 stars today"
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "language": "Python",
+      "stars_today": "152 stars today"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars_today": "100 stars today"
+      "stars_today": "693 stars today"
     },
     {
-      "name": "lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "stars_today": "193 stars today"
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars_today": "274 stars today"
     },
     {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "2,051 stars today"
+      "name": "flutter/flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "language": "Dart",
+      "stars_today": "44 stars today"
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "description": "Headunit App for displaying Android Auto",
+      "language": "Kotlin",
+      "stars_today": "79 stars today"
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars_today": "265 stars today"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "language": "TypeScript",
+      "stars_today": "504 stars today"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "description": "No description",
+      "language": "Batchfile",
+      "stars_today": "103 stars today"
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "description": "git push no-mistakes",
+      "language": "Go",
+      "stars_today": "90 stars today"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars_today": "1,174 stars today"
     }
   ]
 }
