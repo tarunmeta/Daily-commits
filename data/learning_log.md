@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-24 (last updated: 05:05 IST)
+
+## 📅 2026-06-24 (last updated: 07:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-23 05:37:35 IST | 2dddfb8892cf | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-24 05:05:15 IST | 6390f40dfe45 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-24 07:01:24 IST | d4d8f243a79c | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-24 03:46:41 IST | a126029108ec | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 728 stars today
 
 ### 📰 Hacker News Stories
-- [Jerry's Map](http://www.jerrysmap.com/the-map) — Score: 279
-- [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple) — Score: 153
-- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/) — Score: 193
-- [Printing Gaussian Splats](https://www.patreon.com/DanyBittel/posts/printing-splats-161333338) — Score: 126
-- [In memory of the man who put red and green squiggles under words](https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451) — Score: 69
+- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/) — Score: 47
+- [Jerry's Map](http://www.jerrysmap.com/the-map) — Score: 329
+- [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison) — Score: 61
+- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/) — Score: 267
+- [Usbliter8: an A12/A13 SecureROM Exploit](https://ps.tc/pages/blog-usbliter8.html) — Score: 64
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,676.0 🔴 -2.39%

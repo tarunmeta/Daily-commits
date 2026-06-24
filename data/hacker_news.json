@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-23 23:35:15 UTC",
-    "fetched_at_ist": "2026-06-24 05:05:15 IST",
+    "fetched_at_utc": "2026-06-24 01:31:24 UTC",
+    "fetched_at_ist": "2026-06-24 07:01:24 IST",
     "item_count": 5,
-    "content_hash": "6390f40dfe45fe282c639f63c2815ea81a6f4e268dc02a3cef984c7e64f09d0e",
-    "previous_hash": "40025b3c2815fb19508b2bd84bd66c7ed7fc97048bfe57861bab36acedf340b9",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "d4d8f243a79c73fcf93fe10305f5dd8e8d8e00c86056632a5134eed471e5426a",
+    "previous_hash": "6390f40dfe45fe282c639f63c2815ea81a6f4e268dc02a3cef984c7e64f09d0e",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48653216,
+      "title": "Vulnerability reports are not special anymore",
+      "url": "https://words.filippo.io/vuln-reports/",
+      "score": 47,
+      "comments": 7
+    },
+    {
       "id": 48649435,
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "score": 279,
-      "comments": 38
+      "score": 329,
+      "comments": 48
     },
     {
-      "id": 48648779,
-      "title": "Swift Package Index joins Apple",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "score": 153,
-      "comments": 48
+      "id": 48633643,
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "score": 61,
+      "comments": 23
     },
     {
       "id": 48648619,
       "title": "FUTO Swipe – A new swipe typing model",
       "url": "https://swipe.futo.tech/",
-      "score": 193,
-      "comments": 66
+      "score": 267,
+      "comments": 86
     },
     {
-      "id": 48618481,
-      "title": "Printing Gaussian Splats",
-      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-      "score": 126,
-      "comments": 8
-    },
-    {
-      "id": 48648959,
-      "title": "In memory of the man who put red and green squiggles under words",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "score": 69,
-      "comments": 2
+      "id": 48585852,
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "score": 64,
+      "comments": 15
     }
   ]
 }
