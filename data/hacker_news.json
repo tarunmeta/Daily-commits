@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-24 01:31:24 UTC",
-    "fetched_at_ist": "2026-06-24 07:01:24 IST",
+    "fetched_at_utc": "2026-06-24 09:32:43 UTC",
+    "fetched_at_ist": "2026-06-24 15:02:43 IST",
     "item_count": 5,
-    "content_hash": "d4d8f243a79c73fcf93fe10305f5dd8e8d8e00c86056632a5134eed471e5426a",
-    "previous_hash": "6390f40dfe45fe282c639f63c2815ea81a6f4e268dc02a3cef984c7e64f09d0e",
+    "content_hash": "b9b71649e85cc7959e902756cfe7f9060e9d3ab9af05dc3ac0995d041aff9288",
+    "previous_hash": "d4d8f243a79c73fcf93fe10305f5dd8e8d8e00c86056632a5134eed471e5426a",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48653216,
       "title": "Vulnerability reports are not special anymore",
       "url": "https://words.filippo.io/vuln-reports/",
-      "score": 47,
-      "comments": 7
+      "score": 265,
+      "comments": 148
+    },
+    {
+      "id": 48654676,
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "score": 131,
+      "comments": 40
     },
     {
       "id": 48649435,
       "title": "Jerry's Map",
       "url": "http://www.jerrysmap.com/the-map",
-      "score": 329,
-      "comments": 48
+      "score": 463,
+      "comments": 54
     },
     {
-      "id": 48633643,
-      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-      "score": 61,
-      "comments": 23
+      "id": 48637868,
+      "title": "Why eval startups fail (2025)",
+      "url": "https://thomasliao.com/eval-startups",
+      "score": 17,
+      "comments": 13
     },
     {
-      "id": 48648619,
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "score": 267,
-      "comments": 86
-    },
-    {
-      "id": 48585852,
-      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
-      "url": "https://ps.tc/pages/blog-usbliter8.html",
-      "score": 64,
-      "comments": 15
+      "id": 48612025,
+      "title": "Show HN: An ASCII 3D Rendering Engine",
+      "url": "https://glyphcss.com",
+      "score": 122,
+      "comments": 37
     }
   ]
 }
