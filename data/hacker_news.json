@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-25 06:08:52 UTC",
-    "fetched_at_ist": "2026-06-25 11:38:52 IST",
+    "fetched_at_utc": "2026-06-25 09:44:20 UTC",
+    "fetched_at_ist": "2026-06-25 15:14:20 IST",
     "item_count": 5,
-    "content_hash": "b5e930a627ee8d4dbab4d981543cf3075d779adc5640c85307e818a72d51c519",
-    "previous_hash": "a2b257c7d2ce53a8fe0bdece2af482702dbbfb495afd4734cade99a1d0a92463",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "18560087ad70d53b6df74314e25189720bd3a87f80ca810b3da134fd21cf5102",
+    "previous_hash": "b5e930a627ee8d4dbab4d981543cf3075d779adc5640c85307e818a72d51c519",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48669534,
+      "title": "Half-Life 2 in a Browser",
+      "url": "https://hl2.slqnt.dev/",
+      "score": 221,
+      "comments": 81
+    },
+    {
       "id": 48664814,
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
       "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 273,
-      "comments": 465
+      "score": 414,
+      "comments": 714
+    },
+    {
+      "id": 48669932,
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
+      "score": 68,
+      "comments": 57
     },
     {
       "id": 48663324,
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 641,
-      "comments": 365
+      "score": 701,
+      "comments": 394
     },
     {
       "id": 48668033,
       "title": "Cloudflare launched self-managed OAuth for all",
       "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 93,
-      "comments": 26
-    },
-    {
-      "id": 48667336,
-      "title": "LuaJIT 3.0 proposed syntax extensions",
-      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
-      "score": 119,
-      "comments": 63
-    },
-    {
-      "id": 48666927,
-      "title": "Blogging can just be stating the obvious",
-      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
-      "score": 160,
-      "comments": 54
+      "score": 159,
+      "comments": 72
     }
   ]
 }
