@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-25 09:44:20 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-25 12:07:49 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **calesthio/OpenMontage**
-- BTC: **$61,542.0** ↓ (-1.95%)
-- HN top story: **Half-Life 2 in a Browser**
+- Top GitHub repo: **google-labs-code/design.md**
+- BTC: **$61,174.0** ↓ (-2.57%)
+- HN top story: **Dolphin Emulator Progress Release 2606**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-06-25 06:08:51 UTC | `8ae00df63c1c` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-25 09:44:20 UTC | `18560087ad70` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-25 06:08:51 UTC | `700db84b8c43` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 15 | 2026-06-25 12:07:48 UTC | `7c29e6c9efa1` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-25 12:07:49 UTC | `64a734673e34` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-25 12:07:48 UTC | `6a39a0a5f180` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-25` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `79` day(s) |
-| Last Commit (IST) | `2026-06-25 11:38:52 IST` |
+| Last Commit (IST) | `2026-06-25 15:14:20 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-22 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-23 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-24 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-06-25 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-06-25 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $61,542.0 | -1.95% | 🔴 |
-| Ethereum | $1,643.69 | -1.67% | 🔴 |
-| Solana | $68.98 | -1.16% | 🔴 |
-| Bnb | $569.73 | -1.54% | 🔴 |
+| Bitcoin | $61,174.0 | -2.57% | 🔴 |
+| Ethereum | $1,629.72 | -2.75% | 🔴 |
+| Solana | $68.1 | -2.29% | 🔴 |
+| Bnb | $562.07 | -2.84% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 619 stars today | A format specification for describing a visual identity to coding agents. DESIGN… |
 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 3,719 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 1,468 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 201 stars today | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be… |
+| [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | TypeScript | 112 stars today | A self-hosted travel/trip planner with real-time collaboration, interactive maps… |
 | [apple/container](https://github.com/apple/container) | Swift | 1,838 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | Python | 203 stars today | AI agent to evaluate and score resumes. |
 | [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 692 stars today | Clone any website with one command using AI coding agents |
-| [revfactory/harness](https://github.com/revfactory/harness) | HTML | 277 stars today | A meta-skill that designs domain-specific agent teams, defines specialized agent… |
-| [flutter/flutter](https://github.com/flutter/flutter) | Dart | 73 stars today | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | Kotlin | 41 stars today | Headunit App for displaying Android Auto |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 922 stars today | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,… |
+| [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | 15 stars today | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) | 221 | 81 |
-| [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) | 414 | 714 |
-| [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition) | 68 | 57 |
-| [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) | 701 | 394 |
-| [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) | 159 | 72 |
+| [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/) | 83 | 10 |
+| [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) | 329 | 118 |
+| [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) | 490 | 848 |
+| [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) | 723 | 411 |
+| [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) | 205 | 91 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
