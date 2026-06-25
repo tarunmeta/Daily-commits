@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-24 23:42:57 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-25 06:08:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **calesthio/OpenMontage**
-- BTC: **$60,860.0** ↓ (-2.68%)
-- HN top story: **OpenAI unveils its first custom chip, built by Broadcom**
+- BTC: **$61,542.0** ↓ (-1.95%)
+- HN top story: **Anthropic says Alibaba illicitly extracted Claude AI model capabilities**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-06-24 12:09:37 UTC | `942264e4bfef` | +10 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-24 23:42:57 UTC | `a2b257c7d2ce` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-24 22:22:17 UTC | `381291effd0b` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-06-25 06:08:51 UTC | `8ae00df63c1c` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-25 06:08:52 UTC | `b5e930a627ee` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-25 06:08:51 UTC | `700db84b8c43` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: no
+- GitHub: +0 new repos, top changed: no
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-25` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `79` day(s) |
-| Last Commit (IST) | `2026-06-25 05:12:57 IST` |
+| Last Commit (IST) | `2026-06-25 07:20:22 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-22 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-23 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-24 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-06-25 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-06-25 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $60,860.0 | -2.68% | 🔴 |
-| Ethereum | $1,615.11 | -2.96% | 🔴 |
-| Solana | $67.88 | -2.17% | 🔴 |
-| Bnb | $563.4 | -2.23% | 🔴 |
+| Bitcoin | $61,542.0 | -1.95% | 🔴 |
+| Ethereum | $1,643.69 | -1.67% | 🔴 |
+| Solana | $68.98 | -1.16% | 🔴 |
+| Bnb | $569.73 | -1.54% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 3,703 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 1,461 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
-| [apple/container](https://github.com/apple/container) | Swift | 1,746 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | Python | 152 stars today | AI agent to evaluate and score resumes. |
-| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 693 stars today | Clone any website with one command using AI coding agents |
-| [revfactory/harness](https://github.com/revfactory/harness) | HTML | 274 stars today | A meta-skill that designs domain-specific agent teams, defines specialized agent… |
-| [flutter/flutter](https://github.com/flutter/flutter) | Dart | 44 stars today | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | Kotlin | 79 stars today | Headunit App for displaying Android Auto |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 3,719 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 1,468 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
+| [apple/container](https://github.com/apple/container) | Swift | 1,838 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
+| [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) | Python | 203 stars today | AI agent to evaluate and score resumes. |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 692 stars today | Clone any website with one command using AI coding agents |
+| [revfactory/harness](https://github.com/revfactory/harness) | HTML | 277 stars today | A meta-skill that designs domain-specific agent teams, defines specialized agent… |
+| [flutter/flutter](https://github.com/flutter/flutter) | Dart | 73 stars today | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [andreknieriem/headunit-revived](https://github.com/andreknieriem/headunit-revived) | Kotlin | 41 stars today | Headunit App for displaying Android Auto |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) | 452 | 288 |
-| [PostgreSQL Is Enough](https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb) | 47 | 18 |
-| [Qualcomm to Acquire Modular](https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/) | 110 | 27 |
-| [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/) | 332 | 50 |
-| [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/) | 831 | 252 |
+| [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) | 273 | 465 |
+| [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) | 641 | 365 |
+| [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) | 93 | 26 |
+| [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475) | 119 | 63 |
+| [Blogging can just be stating the obvious](https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/) | 160 | 54 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
