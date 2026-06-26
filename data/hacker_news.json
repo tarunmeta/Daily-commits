@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-25 12:07:49 UTC",
-    "fetched_at_ist": "2026-06-25 17:37:49 IST",
+    "fetched_at_utc": "2026-06-26 00:10:43 UTC",
+    "fetched_at_ist": "2026-06-26 05:40:43 IST",
     "item_count": 5,
-    "content_hash": "64a734673e34e693ccacb607bdc9231ecd7f5fc5c5cd0ec52172e9cbe92545fe",
-    "previous_hash": "18560087ad70d53b6df74314e25189720bd3a87f80ca810b3da134fd21cf5102",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "a68644dca28b1966e32083c25f9a7879dbad663015ac1ade82acb4b01b20b5d1",
+    "previous_hash": "64a734673e34e693ccacb607bdc9231ecd7f5fc5c5cd0ec52172e9cbe92545fe",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48671392,
-      "title": "Dolphin Emulator Progress Release 2606",
-      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
-      "score": 83,
-      "comments": 10
+      "id": 48675179,
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 892,
+      "comments": 202
     },
     {
-      "id": 48669534,
-      "title": "Half-Life 2 in a Browser",
-      "url": "https://hl2.slqnt.dev/",
-      "score": 329,
-      "comments": 118
+      "id": 48679608,
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "score": 280,
+      "comments": 127
     },
     {
-      "id": 48664814,
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "score": 490,
-      "comments": 848
+      "id": 48679007,
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "score": 92,
+      "comments": 23
     },
     {
-      "id": 48663324,
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "score": 723,
-      "comments": 411
+      "id": 48642474,
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "url": "https://github.com/plbrault/youre-the-os",
+      "score": 65,
+      "comments": 15
     },
     {
-      "id": 48668033,
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "url": "https://blog.cloudflare.com/oauth-for-all/",
-      "score": 205,
-      "comments": 91
+      "id": 48631450,
+      "title": "Oxide computer 3D rack guided tour",
+      "url": "https://explorer.oxide.computer/",
+      "score": 273,
+      "comments": 114
     }
   ]
 }

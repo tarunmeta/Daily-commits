@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-25 19:24:12 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-26 00:10:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **google-labs-code/design.md**
-- BTC: **$59,192.0** ↓ (-0.65%)
-- HN top story: **Dolphin Emulator Progress Release 2606**
+- BTC: **$59,754.0** ↓ (-2.05%)
+- HN top story: **An entire Herculaneum scroll has been read for the first time**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-06-25 12:07:48 UTC | `7c29e6c9efa1` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-25 12:07:49 UTC | `64a734673e34` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-25 19:24:12 UTC | `1b26b06406d9` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-06-26 00:10:42 UTC | `b0f4a76ef580` | +1 new repos, top changed: no |
+| Hacker News | 5 | 2026-06-26 00:10:43 UTC | `a68644dca28b` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-26 00:10:42 UTC | `b03d9ac85cb6` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +1 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-26` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
-| Streak | `80` day(s) |
-| Last Commit (IST) | `2026-06-26 02:41:48 IST` |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Streak | `79` day(s) |
+| Last Commit (IST) | `2026-06-26 04:17:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-23 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-06-24 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-25 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-06-26 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-06-26 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $59,192.0 | -0.65% | 🔴 |
-| Ethereum | $1,557.55 | -0.81% | 🔴 |
-| Solana | $65.74 | +0.10% | 🟢 |
-| Bnb | $552.82 | +0.07% | 🟢 |
+| Bitcoin | $59,754.0 | -2.05% | 🔴 |
+| Ethereum | $1,567.3 | -3.37% | 🔴 |
+| Solana | $67.64 | -0.63% | 🔴 |
+| Bnb | $561.92 | -0.47% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 619 stars today | A format specification for describing a visual identity to coding agents. DESIGN… |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 3,719 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 201 stars today | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be… |
-| [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | TypeScript | 112 stars today | A self-hosted travel/trip planner with real-time collaboration, interactive maps… |
-| [apple/container](https://github.com/apple/container) | Swift | 1,838 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 692 stars today | Clone any website with one command using AI coding agents |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 922 stars today | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,… |
-| [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | 15 stars today | Official, AWS-supported MCP servers, skills, and plugins to help AI agents build… |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 1,475 stars today | A format specification for describing a visual identity to coding agents. DESIGN… |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 3,434 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 309 stars today | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be… |
+| [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | TypeScript | 241 stars today | A self-hosted travel/trip planner with real-time collaboration, interactive maps… |
+| [apple/container](https://github.com/apple/container) | Swift | 1,351 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
+| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 1,024 stars today | Clone any website with one command using AI coding agents |
+| [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | 57 stars today | Open source alternative to Semrush and Ahrefs |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 767 stars today | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Dolphin Emulator Progress Release 2606](https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/) | 83 | 10 |
-| [Half-Life 2 in a Browser](https://hl2.slqnt.dev/) | 329 | 118 |
-| [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/) | 490 | 848 |
-| [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/) | 723 | 411 |
-| [Cloudflare launched self-managed OAuth for all](https://blog.cloudflare.com/oauth-for-all/) | 205 | 91 |
+| [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) | 892 | 202 |
+| [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) | 280 | 127 |
+| [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) | 92 | 23 |
+| [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os) | 65 | 15 |
+| [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/) | 273 | 114 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
