@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-26 00:10:43 UTC",
-    "fetched_at_ist": "2026-06-26 05:40:43 IST",
+    "fetched_at_utc": "2026-06-26 04:40:21 UTC",
+    "fetched_at_ist": "2026-06-26 10:10:21 IST",
     "item_count": 5,
-    "content_hash": "a68644dca28b1966e32083c25f9a7879dbad663015ac1ade82acb4b01b20b5d1",
-    "previous_hash": "64a734673e34e693ccacb607bdc9231ecd7f5fc5c5cd0ec52172e9cbe92545fe",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c43b9501dad913fe0f3c17a81ddbdb0420c200ae4f50efa9b271f643b560aec3",
+    "previous_hash": "a68644dca28b1966e32083c25f9a7879dbad663015ac1ade82acb4b01b20b5d1",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48678852,
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 642,
+      "comments": 65
+    },
+    {
       "id": 48675179,
       "title": "An entire Herculaneum scroll has been read for the first time",
       "url": "https://scrollprize.org/firstscroll",
-      "score": 892,
-      "comments": 202
+      "score": 1089,
+      "comments": 234
     },
     {
-      "id": 48679608,
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-      "score": 280,
-      "comments": 127
+      "id": 48681949,
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "score": 31,
+      "comments": 0
     },
     {
-      "id": 48679007,
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-      "score": 92,
-      "comments": 23
+      "id": 48681220,
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "score": 81,
+      "comments": 30
     },
     {
-      "id": 48642474,
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "url": "https://github.com/plbrault/youre-the-os",
-      "score": 65,
-      "comments": 15
-    },
-    {
-      "id": 48631450,
-      "title": "Oxide computer 3D rack guided tour",
-      "url": "https://explorer.oxide.computer/",
-      "score": 273,
-      "comments": 114
+      "id": 48676795,
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "score": 155,
+      "comments": 115
     }
   ]
 }

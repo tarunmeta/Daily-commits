@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-26 (last updated: 05:40 IST)
+
+## 📅 2026-06-26 (last updated: 10:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-26 05:40:42 IST | b0f4a76ef580 | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-26 05:40:43 IST | a68644dca28b | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-26 10:10:21 IST | c43b9501dad9 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-26 05:40:42 IST | b03d9ac85cb6 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,351 stars today
 
 ### 📰 Hacker News Stories
-- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) — Score: 892
-- [The 'papers, please' era of the internet will decimate your privacy](https://expression.fire.org/p/the-papers-please-era-of-the-internet) — Score: 280
-- [Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/) — Score: 92
-- [A game where you're an OS and have to manage processes, memory and I/O events](https://github.com/plbrault/youre-the-os) — Score: 65
-- [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/) — Score: 273
+- [Om Malik has died](https://om.co/2026/06/24/1966-2026/) — Score: 642
+- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) — Score: 1089
+- [Libre Barcode Project](https://graphicore.github.io/librebarcode/) — Score: 31
+- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) — Score: 81
+- [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true) — Score: 155
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $59,754.0 🔴 -2.05%
