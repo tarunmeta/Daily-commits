@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-27 (last updated: 17:49 IST)
+
+## 📅 2026-06-27 (last updated: 21:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-06-26 05:40:42 IST | b0f4a76ef580 | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-27 12:13:25 IST | 9eaf29c6fbb3 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-27 21:10:29 IST | 2a2b7aa24d44 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-27 17:49:32 IST | fe1e861098b6 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +1 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,351 stars today
 
 ### 📰 Hacker News Stories
-- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1) — Score: 41
-- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) — Score: 938
-- [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm) — Score: 50
-- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed) — Score: 200
-- [IBM MCGA Gate Array Reverse Engineering](https://github.com/schlae/IBM_MCGA) — Score: 11
+- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) — Score: 591
+- [OpenRA](https://www.openra.net/) — Score: 198
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) — Score: 261
+- [Underarm Bowling Incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981) — Score: 56
+- [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/) — Score: 28
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,217.0 🟢 +1.23%
