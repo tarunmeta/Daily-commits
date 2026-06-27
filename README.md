@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-27 18:04:58 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-27 22:15:46 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **simplex-chat/simplex-chat**
-- BTC: **$60,375.0** ↑ (+0.65%)
+- BTC: **$60,044.0** ↑ (+0.29%)
 - HN top story: **Anonymous GitHub account mass-dropping undisclosed 0-days**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 18:04:57 UTC | `eff571a4d45c` | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-27 18:04:58 UTC | `2a62f2f736fc` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-27 18:04:57 UTC | `fdbcb00247aa` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-06-27 22:15:46 UTC | `037cf88d35ab` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-28` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `80` day(s) |
-| Last Commit (IST) | `2026-06-28 01:15:16 IST` |
+| Last Commit (IST) | `2026-06-28 02:34:50 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-06-25 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-26 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-27 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-06-28 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-06-28 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $60,375.0 | +0.65% | 🟢 |
-| Ethereum | $1,587.55 | +0.44% | 🟢 |
-| Solana | $71.95 | -0.76% | 🔴 |
-| Bnb | $562.34 | -0.81% | 🔴 |
+| Bitcoin | $60,044.0 | +0.29% | 🟢 |
+| Ethereum | $1,572.86 | -0.04% | 🔴 |
+| Solana | $70.69 | -1.33% | 🔴 |
+| Bnb | $556.03 | -1.94% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 

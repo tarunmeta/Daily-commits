@@ -5,14 +5,15 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-06-28 (last updated: 23:34 IST)
+
+## 📅 2026-06-28 (last updated: 03:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 23:34:57 IST | eff571a4d45c | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-27 23:34:58 IST | 2a62f2f736fc | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-27 23:34:57 IST | fdbcb00247aa | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-06-28 03:45:46 IST | 037cf88d35ab | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) — Score: 336
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $60,375.0 🟢 +0.65%
-- Ethereum: $1,587.55 🟢 +0.44%
-- Solana: $71.95 🔴 -0.76%
-- Bnb: $562.34 🔴 -0.81%
+- Bitcoin: $60,044.0 🟢 +0.29%
+- Ethereum: $1,572.86 🔴 -0.04%
+- Solana: $70.69 🔴 -1.33%
+- Bnb: $556.03 🔴 -1.94%
 
 ---
 ## 📅 2026-06-27 (last updated: 23:34 IST)
