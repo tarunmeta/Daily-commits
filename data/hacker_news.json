@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-27 03:35:49 UTC",
-    "fetched_at_ist": "2026-06-27 09:05:49 IST",
+    "fetched_at_utc": "2026-06-27 06:43:25 UTC",
+    "fetched_at_ist": "2026-06-27 12:13:25 IST",
     "item_count": 5,
-    "content_hash": "e1a86413283e309253f770b7db66d16a6bbfdb4939876b3e411722a3ed0e1670",
-    "previous_hash": "c43b9501dad913fe0f3c17a81ddbdb0420c200ae4f50efa9b271f643b560aec3",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "9eaf29c6fbb392cc3ae5514b49554bdbc1d7e254f8318a82e51181825c3e5c21",
+    "previous_hash": "e1a86413283e309253f770b7db66d16a6bbfdb4939876b3e411722a3ed0e1670",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48692995,
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "score": 264,
-      "comments": 255
+      "id": 48695149,
+      "title": "OpenTTD 16.0-Beta1",
+      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
+      "score": 41,
+      "comments": 2
     },
     {
       "id": 48689028,
       "title": "Previewing GPT‑5.6 Sol: a next-generation model",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 881,
-      "comments": 532
+      "score": 938,
+      "comments": 579
+    },
+    {
+      "id": 48694853,
+      "title": "WordStar: A Writer's Word Processor (1996)",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "score": 50,
+      "comments": 19
     },
     {
       "id": 48692946,
       "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
       "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "score": 128,
-      "comments": 50
+      "score": 200,
+      "comments": 91
     },
     {
-      "id": 48693912,
-      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "score": 25,
+      "id": 48695363,
+      "title": "IBM MCGA Gate Array Reverse Engineering",
+      "url": "https://github.com/schlae/IBM_MCGA",
+      "score": 11,
       "comments": 2
-    },
-    {
-      "id": 48692883,
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 67,
-      "comments": 32
     }
   ]
 }
