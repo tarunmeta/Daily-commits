@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-26 04:40:21 UTC",
-    "fetched_at_ist": "2026-06-26 10:10:21 IST",
+    "fetched_at_utc": "2026-06-27 03:35:49 UTC",
+    "fetched_at_ist": "2026-06-27 09:05:49 IST",
     "item_count": 5,
-    "content_hash": "c43b9501dad913fe0f3c17a81ddbdb0420c200ae4f50efa9b271f643b560aec3",
-    "previous_hash": "a68644dca28b1966e32083c25f9a7879dbad663015ac1ade82acb4b01b20b5d1",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "e1a86413283e309253f770b7db66d16a6bbfdb4939876b3e411722a3ed0e1670",
+    "previous_hash": "c43b9501dad913fe0f3c17a81ddbdb0420c200ae4f50efa9b271f643b560aec3",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48678852,
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "score": 642,
-      "comments": 65
+      "id": 48692995,
+      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "score": 264,
+      "comments": 255
     },
     {
-      "id": 48675179,
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "score": 1089,
-      "comments": 234
+      "id": 48689028,
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "score": 881,
+      "comments": 532
     },
     {
-      "id": 48681949,
-      "title": "Libre Barcode Project",
-      "url": "https://graphicore.github.io/librebarcode/",
-      "score": 31,
-      "comments": 0
+      "id": 48692946,
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "score": 128,
+      "comments": 50
     },
     {
-      "id": 48681220,
-      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-      "score": 81,
-      "comments": 30
+      "id": 48693912,
+      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "score": 25,
+      "comments": 2
     },
     {
-      "id": 48676795,
-      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-      "score": 155,
-      "comments": 115
+      "id": 48692883,
+      "title": "AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "score": 67,
+      "comments": 32
     }
   ]
 }
