@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-28 (last updated: 03:45 IST)
+
+## 📅 2026-06-28 (last updated: 05:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 23:34:57 IST | eff571a4d45c | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-27 23:34:58 IST | 2a62f2f736fc | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-28 05:03:42 IST | e5748b7b4a33 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-28 03:45:46 IST | 037cf88d35ab | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 459 stars today
 
 ### 📰 Hacker News Stories
-- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) — Score: 280
-- [OpenRA](https://www.openra.net/) — Score: 340
-- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) — Score: 651
-- [Suspicious Discontinuities (2020)](https://danluu.com/discontinuities/) — Score: 124
-- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) — Score: 336
+- [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/) — Score: 187
+- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) — Score: 605
+- [OpenRA](https://www.openra.net/) — Score: 538
+- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) — Score: 712
+- [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil) — Score: 64
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,044.0 🟢 +0.29%

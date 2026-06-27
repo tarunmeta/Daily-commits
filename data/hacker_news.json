@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-27 18:04:58 UTC",
-    "fetched_at_ist": "2026-06-27 23:34:58 IST",
+    "fetched_at_utc": "2026-06-27 23:33:42 UTC",
+    "fetched_at_ist": "2026-06-28 05:03:42 IST",
     "item_count": 5,
-    "content_hash": "2a62f2f736fcd0f69b8d083c42b173abfb4f46ffe551f744fc088729ce3f2b36",
-    "previous_hash": "2a2b7aa24d449ee1d0c7a0e77c03fc4676a712d1a1142d18e235baa34049acb9",
+    "content_hash": "e5748b7b4a33dc373352561346773d5d5a0b3fe76dd826d6177a04f17f825c35",
+    "previous_hash": "2a62f2f736fcd0f69b8d083c42b173abfb4f46ffe551f744fc088729ce3f2b36",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48700834,
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "url": "https://ipcrawl.com/",
+      "score": 187,
+      "comments": 103
+    },
+    {
       "id": 48698617,
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
       "url": "https://github.com/bikini/exploitarium",
-      "score": 280,
-      "comments": 116
+      "score": 605,
+      "comments": 240
     },
     {
       "id": 48697560,
       "title": "OpenRA",
       "url": "https://www.openra.net/",
-      "score": 340,
-      "comments": 72
+      "score": 538,
+      "comments": 101
     },
     {
       "id": 48696585,
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
       "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 651,
-      "comments": 248
+      "score": 712,
+      "comments": 293
     },
     {
-      "id": 48698151,
-      "title": "Suspicious Discontinuities (2020)",
-      "url": "https://danluu.com/discontinuities/",
-      "score": 124,
-      "comments": 34
-    },
-    {
-      "id": 48696982,
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 336,
-      "comments": 112
+      "id": 48701512,
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "score": 64,
+      "comments": 37
     }
   ]
 }
