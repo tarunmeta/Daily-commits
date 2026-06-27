@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-27 15:40:29 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-27 18:04:58 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **google-labs-code/design.md**
-- BTC: **$60,217.0** ↑ (+1.23%)
-- HN top story: **DSpark: Speculative decoding accelerates LLM inference [pdf]**
+- Top GitHub repo: **simplex-chat/simplex-chat**
+- BTC: **$60,375.0** ↑ (+0.65%)
+- HN top story: **Anonymous GitHub account mass-dropping undisclosed 0-days**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-06-26 00:10:42 UTC | `b0f4a76ef580` | +1 new repos, top changed: no |
-| Hacker News | 5 | 2026-06-27 15:40:29 UTC | `2a2b7aa24d44` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-27 12:19:32 UTC | `fe1e861098b6` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 20 | 2026-06-27 18:04:57 UTC | `eff571a4d45c` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-27 18:04:58 UTC | `2a62f2f736fc` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-27 18:04:57 UTC | `fdbcb00247aa` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +1 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +13 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-27` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `79` day(s) |
-| Last Commit (IST) | `2026-06-27 21:10:30 IST` |
+| Last Commit (IST) | `2026-06-27 22:17:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-24 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-25 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-06-26 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-06-27 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-06-27 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $60,217.0 | +1.23% | 🟢 |
-| Ethereum | $1,580.95 | +2.18% | 🟢 |
-| Solana | $71.65 | +3.97% | 🟢 |
-| Bnb | $562.2 | +0.58% | 🟢 |
+| Bitcoin | $60,375.0 | +0.65% | 🟢 |
+| Ethereum | $1,587.55 | +0.44% | 🟢 |
+| Solana | $71.95 | -0.76% | 🔴 |
+| Bnb | $562.34 | -0.81% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 1,475 stars today | A format specification for describing a visual identity to coding agents. DESIGN… |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 3,434 stars today | World's first open-source, agentic video production system. 12 pipelines, 52 too… |
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 309 stars today | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be… |
-| [mauriceboe/TREK](https://github.com/mauriceboe/TREK) | TypeScript | 241 stars today | A self-hosted travel/trip planner with real-time collaboration, interactive maps… |
-| [apple/container](https://github.com/apple/container) | Swift | 1,351 stars today | A tool for creating and running Linux containers using lightweight virtual machi… |
-| [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) | TypeScript | 1,024 stars today | Clone any website with one command using AI coding agents |
-| [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | 57 stars today | Open source alternative to Semrush and Ahrefs |
-| [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | 767 stars today | Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO,… |
+| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 1,470 stars today | SimpleX - the first messaging network operating without user identifiers of any … |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 686 stars today | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be… |
+| [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 322 stars today | openpilot is an operating system for robotics. Currently, it upgrades the driver… |
+| [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | Go | 502 stars today | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. |
+| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 459 stars today | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo… |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 1,542 stars today | A format specification for describing a visual identity to coding agents. DESIGN… |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C | 67 stars today | Microsoft PowerToys is a collection of utilities that supercharge productivity a… |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 589 stars today | AI generates a real, editable PowerPoint from any document — native shapes & ani… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | 591 | 227 |
-| [OpenRA](https://www.openra.net/) | 198 | 53 |
-| [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) | 261 | 93 |
-| [Underarm Bowling Incident of 1981](https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981) | 56 | 10 |
-| [Post-Mythos Cybersecurity: Keep calm and carry on](https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/) | 28 | 7 |
+| [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) | 280 | 116 |
+| [OpenRA](https://www.openra.net/) | 340 | 72 |
+| [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) | 651 | 248 |
+| [Suspicious Discontinuities (2020)](https://danluu.com/discontinuities/) | 124 | 34 |
+| [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) | 336 | 112 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
