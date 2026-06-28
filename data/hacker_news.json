@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-27 23:33:42 UTC",
-    "fetched_at_ist": "2026-06-28 05:03:42 IST",
+    "fetched_at_utc": "2026-06-28 09:40:56 UTC",
+    "fetched_at_ist": "2026-06-28 15:10:56 IST",
     "item_count": 5,
-    "content_hash": "e5748b7b4a33dc373352561346773d5d5a0b3fe76dd826d6177a04f17f825c35",
-    "previous_hash": "2a62f2f736fcd0f69b8d083c42b173abfb4f46ffe551f744fc088729ce3f2b36",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "143de13fa69b4e02183bcada49989ace142d4c93a7f4dc5540c9bcec893f1b57",
+    "previous_hash": "e5748b7b4a33dc373352561346773d5d5a0b3fe76dd826d6177a04f17f825c35",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48700834,
-      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "url": "https://ipcrawl.com/",
-      "score": 187,
-      "comments": 103
+      "id": 48703759,
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "score": 226,
+      "comments": 56
     },
     {
-      "id": 48698617,
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "score": 605,
-      "comments": 240
+      "id": 48704454,
+      "title": "Bashblog – a single bash script to create blogs",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "score": 42,
+      "comments": 13
     },
     {
-      "id": 48697560,
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "score": 538,
-      "comments": 101
+      "id": 48703258,
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "score": 134,
+      "comments": 39
     },
     {
-      "id": 48696585,
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "score": 712,
-      "comments": 293
-    },
-    {
-      "id": 48701512,
-      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "url": "https://github.com/kageroumado/adrafinil",
+      "id": 48704373,
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
       "score": 64,
-      "comments": 37
+      "comments": 15
+    },
+    {
+      "id": 48703412,
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "score": 120,
+      "comments": 43
     }
   ]
 }

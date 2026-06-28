@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-28 (last updated: 11:49 IST)
+
+## 📅 2026-06-28 (last updated: 15:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 23:34:57 IST | eff571a4d45c | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-28 05:03:42 IST | e5748b7b4a33 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-28 15:10:56 IST | 143de13fa69b | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-28 11:49:59 IST | d31ec7ebc32d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 459 stars today
 
 ### 📰 Hacker News Stories
-- [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/) — Score: 187
-- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) — Score: 605
-- [OpenRA](https://www.openra.net/) — Score: 538
-- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf) — Score: 712
-- [Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work](https://github.com/kageroumado/adrafinil) — Score: 64
+- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) — Score: 226
+- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog) — Score: 42
+- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md) — Score: 134
+- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router) — Score: 64
+- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev) — Score: 120
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $59,781.0 🔴 -0.50%
