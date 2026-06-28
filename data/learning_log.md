@@ -10,19 +10,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-28 (last updated: 15:10 IST)
+
+## 📅 2026-06-28 (last updated: 16:54 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 23:34:57 IST | eff571a4d45c | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-28 15:10:56 IST | 143de13fa69b | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-28 11:49:59 IST | d31ec7ebc32d | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-28 16:54:41 IST | 32f2bc4aaab6 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)** (Haskell) — SimpleX - the first messaging network operating without user identifiers of any   
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev) — Score: 120
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $59,781.0 🔴 -0.50%
-- Ethereum: $1,562.07 🔴 -0.81%
-- Solana: $70.19 🔴 -2.01%
-- Bnb: $553.62 🔴 -1.81%
+- Bitcoin: $60,184.0 🔴 -0.11%
+- Ethereum: $1,578.77 🔴 -0.04%
+- Solana: $71.55 🔴 -0.13%
+- Bnb: $555.28 🔴 -1.20%
 
 ---
 ## 📅 2026-06-27 (last updated: 23:34 IST)
