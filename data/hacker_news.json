@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-28 21:31:08 UTC",
-    "fetched_at_ist": "2026-06-29 03:01:08 IST",
+    "fetched_at_utc": "2026-06-28 22:42:59 UTC",
+    "fetched_at_ist": "2026-06-29 04:12:59 IST",
     "item_count": 5,
-    "content_hash": "47df8f44d4b87df0b38fd57288abb968d41a962ea7c37b1038537b7c46a0e7ee",
-    "previous_hash": "9bd33cc8145ced6ca3e329e50af867f867c2095016f9cd1b11f17907f1e3f206",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "b6d652286074e390bb5e1ae37420877718d8a924cfdf9ddf24800e2fbee36d26",
+    "previous_hash": "47df8f44d4b87df0b38fd57288abb968d41a962ea7c37b1038537b7c46a0e7ee",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48709670,
       "title": "GLM 5.2 beats Claude in our benchmarks",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 122,
-      "comments": 37
+      "score": 244,
+      "comments": 90
     },
     {
       "id": 48708941,
       "title": "I used Claude Code to get a second opinion on my MRI",
       "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 240,
-      "comments": 349
+      "score": 280,
+      "comments": 386
     },
     {
       "id": 48707763,
       "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
       "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 288,
-      "comments": 76
-    },
-    {
-      "id": 48710775,
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-      "score": 35,
-      "comments": 20
+      "score": 299,
+      "comments": 80
     },
     {
       "id": 48710092,
       "title": "Historical memory prices 1960-2026",
       "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 60,
-      "comments": 16
+      "score": 92,
+      "comments": 29
+    },
+    {
+      "id": 48710775,
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "score": 43,
+      "comments": 28
     }
   ]
 }
