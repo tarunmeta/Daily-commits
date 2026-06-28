@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-28 17:35:47 UTC",
-    "fetched_at_ist": "2026-06-28 23:05:47 IST",
+    "fetched_at_utc": "2026-06-28 21:31:08 UTC",
+    "fetched_at_ist": "2026-06-29 03:01:08 IST",
     "item_count": 5,
-    "content_hash": "9bd33cc8145ced6ca3e329e50af867f867c2095016f9cd1b11f17907f1e3f206",
-    "previous_hash": "143de13fa69b4e02183bcada49989ace142d4c93a7f4dc5540c9bcec893f1b57",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "47df8f44d4b87df0b38fd57288abb968d41a962ea7c37b1038537b7c46a0e7ee",
+    "previous_hash": "9bd33cc8145ced6ca3e329e50af867f867c2095016f9cd1b11f17907f1e3f206",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48707763,
-      "title": "5k Restaurant Menus, Years 1880-1920",
-      "url": "https://pudding.cool/2026/06/menu-collection/",
-      "score": 163,
+      "id": 48709670,
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 122,
       "comments": 37
     },
     {
-      "id": 48708859,
-      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
-      "url": "https://www.openculture.com/2020/10/daisugi.html",
-      "score": 40,
-      "comments": 15
+      "id": 48708941,
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "score": 240,
+      "comments": 349
     },
     {
-      "id": 48709187,
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-      "score": 19,
-      "comments": 1
+      "id": 48707763,
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "score": 288,
+      "comments": 76
     },
     {
-      "id": 48708700,
-      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
-      "score": 34,
-      "comments": 7
+      "id": 48710775,
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "score": 35,
+      "comments": 20
     },
     {
-      "id": 48706814,
-      "title": "The curious case of the disappearing Polish S (2015)",
-      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
-      "score": 168,
-      "comments": 36
+      "id": 48710092,
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "score": 60,
+      "comments": 16
     }
   ]
 }
