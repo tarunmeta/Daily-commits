@@ -14,13 +14,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-28 (last updated: 16:54 IST)
+
+## 📅 2026-06-28 (last updated: 23:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 23:34:57 IST | eff571a4d45c | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-28 15:10:56 IST | 143de13fa69b | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-28 23:05:47 IST | 9bd33cc8145c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-06-28 16:54:41 IST | 32f2bc4aaab6 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 459 stars today
 
 ### 📰 Hacker News Stories
-- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep) — Score: 226
-- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog) — Score: 42
-- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md) — Score: 134
-- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router) — Score: 64
-- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev) — Score: 120
+- [5k Restaurant Menus, Years 1880-1920](https://pudding.cool/2026/06/menu-collection/) — Score: 163
+- [Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)](https://www.openculture.com/2020/10/daisugi.html) — Score: 40
+- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html) — Score: 19
+- [Examining circuit boards from the Space Shuttle's I/O Processor](https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html) — Score: 34
+- [The curious case of the disappearing Polish S (2015)](https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/) — Score: 168
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,184.0 🔴 -0.11%
