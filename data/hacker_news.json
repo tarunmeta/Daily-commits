@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-28 22:42:59 UTC",
-    "fetched_at_ist": "2026-06-29 04:12:59 IST",
+    "fetched_at_utc": "2026-06-29 16:43:09 UTC",
+    "fetched_at_ist": "2026-06-29 22:13:09 IST",
     "item_count": 5,
-    "content_hash": "b6d652286074e390bb5e1ae37420877718d8a924cfdf9ddf24800e2fbee36d26",
-    "previous_hash": "47df8f44d4b87df0b38fd57288abb968d41a962ea7c37b1038537b7c46a0e7ee",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "1ecc6dc69717c415f8425e67ec99e4b9e00591068dc487d503c5013fed59b1df",
+    "previous_hash": "b6d652286074e390bb5e1ae37420877718d8a924cfdf9ddf24800e2fbee36d26",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48709670,
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "score": 244,
-      "comments": 90
+      "id": 48719485,
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "score": 134,
+      "comments": 67
     },
     {
-      "id": 48708941,
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "score": 280,
-      "comments": 386
+      "id": 48720591,
+      "title": "Microsoft Needs Windows Lite",
+      "url": "https://philipbohun.com/blog/0011.html",
+      "score": 30,
+      "comments": 20
     },
     {
-      "id": 48707763,
-      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "score": 299,
-      "comments": 80
+      "id": 48720190,
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 66,
+      "comments": 6
     },
     {
-      "id": 48710092,
-      "title": "Historical memory prices 1960-2026",
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "score": 92,
-      "comments": 29
+      "id": 48720758,
+      "title": "A native graphical shell for SSH",
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "score": 20,
+      "comments": 2
     },
     {
-      "id": 48710775,
-      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
-      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
-      "score": 43,
-      "comments": 28
+      "id": 48718863,
+      "title": "What happens when you run a CUDA kernel?",
+      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+      "score": 94,
+      "comments": 5
     }
   ]
 }
