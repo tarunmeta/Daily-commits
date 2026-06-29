@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-29 16:43:09 UTC",
-    "fetched_at_ist": "2026-06-29 22:13:09 IST",
+    "fetched_at_utc": "2026-06-29 18:33:52 UTC",
+    "fetched_at_ist": "2026-06-30 00:03:52 IST",
     "item_count": 5,
-    "content_hash": "1ecc6dc69717c415f8425e67ec99e4b9e00591068dc487d503c5013fed59b1df",
-    "previous_hash": "b6d652286074e390bb5e1ae37420877718d8a924cfdf9ddf24800e2fbee36d26",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c1ffa2a4016b7959514556c728d1dfc87d07c1f91c9d04f77716bdd1273fafa1",
+    "previous_hash": "1ecc6dc69717c415f8425e67ec99e4b9e00591068dc487d503c5013fed59b1df",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48721903,
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 172,
+      "comments": 114
+    },
+    {
       "id": 48719485,
       "title": "Rocketlab acquires Iridium",
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 134,
-      "comments": 67
-    },
-    {
-      "id": 48720591,
-      "title": "Microsoft Needs Windows Lite",
-      "url": "https://philipbohun.com/blog/0011.html",
-      "score": 30,
-      "comments": 20
-    },
-    {
-      "id": 48720190,
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "score": 66,
-      "comments": 6
+      "score": 214,
+      "comments": 126
     },
     {
       "id": 48720758,
       "title": "A native graphical shell for SSH",
       "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 20,
-      "comments": 2
+      "score": 101,
+      "comments": 49
     },
     {
-      "id": 48718863,
-      "title": "What happens when you run a CUDA kernel?",
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "score": 94,
-      "comments": 5
+      "id": 48720190,
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "score": 102,
+      "comments": 11
+    },
+    {
+      "id": 48720924,
+      "title": "US Supreme Court rules geofence warrants require constitutional protections",
+      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+      "score": 190,
+      "comments": 69
     }
   ]
 }
