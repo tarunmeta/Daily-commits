@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-06-30 (last updated: 00:03 IST)
+
+## 📅 2026-06-30 (last updated: 02:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 23:34:57 IST | eff571a4d45c | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-30 00:03:52 IST | c1ffa2a4016b | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-06-30 02:01:16 IST | 7ca38d972f5f | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-06-28 16:54:41 IST | 32f2bc4aaab6 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 459 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) — Score: 172
-- [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) — Score: 214
-- [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html) — Score: 101
-- [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/) — Score: 102
-- [US Supreme Court rules geofence warrants require constitutional protections](https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision) — Score: 190
+- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) — Score: 362
+- [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) — Score: 284
+- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) — Score: 78
+- [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html) — Score: 166
+- [Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,184.0 🔴 -0.11%
@@ -44,14 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $555.28 🔴 -1.20%
 
 ---
-
-
-
-
-
-
-
-
 ## 📅 2026-06-29 (last updated: 22:13 IST)
 
 ### 🧪 Source Integrity Snapshot
