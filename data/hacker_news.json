@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-29 20:31:16 UTC",
-    "fetched_at_ist": "2026-06-30 02:01:16 IST",
+    "fetched_at_utc": "2026-06-30 18:14:48 UTC",
+    "fetched_at_ist": "2026-06-30 23:44:48 IST",
     "item_count": 5,
-    "content_hash": "7ca38d972f5f6d7311f424fdbbb247e1ecdf29cccf2788cb95dc0654387ed92b",
-    "previous_hash": "c1ffa2a4016b7959514556c728d1dfc87d07c1f91c9d04f77716bdd1273fafa1",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "22b26bdcea70483e599e11dafd79c10fb6e35db9a3bcf88d4c563fc4aba564d8",
+    "previous_hash": "7ca38d972f5f6d7311f424fdbbb247e1ecdf29cccf2788cb95dc0654387ed92b",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48721903,
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "score": 362,
-      "comments": 304
+      "id": 48734373,
+      "title": "Claude Code Is Steganographically Marking Requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 622,
+      "comments": 193
     },
     {
-      "id": 48719485,
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "score": 284,
-      "comments": 166
+      "id": 48736605,
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "score": 100,
+      "comments": 35
     },
     {
-      "id": 48722052,
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "score": 78,
-      "comments": 12
+      "id": 48735444,
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "score": 101,
+      "comments": 30
     },
     {
-      "id": 48720758,
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "score": 166,
-      "comments": 65
+      "id": 48735770,
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "score": 92,
+      "comments": 39
     },
     {
-      "id": 48724230,
-      "title": "Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "score": 13,
-      "comments": 11
+      "id": 48735633,
+      "title": "We Are the Last People Who Know How It Works",
+      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+      "score": 50,
+      "comments": 13
     }
   ]
 }

@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-06-30 13:23:58 UTC`
+**Last Meaningful Data Update (UTC):** `2026-06-30 18:14:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **simplex-chat/simplex-chat**
-- BTC: **$58,456.0** ↓ (-2.63%)
-- HN top story: **Qwen 3.6 27B is the sweet spot for local development**
+- Top GitHub repo: **hasaneyldrm/exercises-dataset**
+- BTC: **$58,380.0** ↓ (-3.38%)
+- HN top story: **Claude Code Is Steganographically Marking Requests**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 20 | 2026-06-27 18:04:57 UTC | `eff571a4d45c` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-29 20:31:16 UTC | `7ca38d972f5f` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-06-30 13:23:58 UTC | `f2c87bc3e889` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-06-30 18:14:47 UTC | `bef3593b7e3c` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-06-30 18:14:48 UTC | `22b26bdcea70` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-06-30 18:14:47 UTC | `d0057f618c0d` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-06-30` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `81` day(s) |
-| Last Commit (IST) | `2026-06-30 18:53:58 IST` |
+| Last Commit (IST) | `2026-06-30 21:35:13 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-27 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-06-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-29 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| 2026-06-30 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-06-30 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $58,456.0 | -2.63% | 🔴 |
-| Ethereum | $1,558.5 | -1.30% | 🔴 |
-| Solana | $72.41 | -2.05% | 🔴 |
-| Bnb | $545.58 | -1.45% | 🔴 |
+| Bitcoin | $58,380.0 | -3.38% | 🔴 |
+| Ethereum | $1,570.44 | -3.39% | 🔴 |
+| Solana | $73.16 | -3.16% | 🔴 |
+| Bnb | $545.91 | -2.75% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | 1,470 stars today | SimpleX - the first messaging network operating without user identifiers of any … |
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 686 stars today | AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be… |
-| [commaai/openpilot](https://github.com/commaai/openpilot) | Python | 322 stars today | openpilot is an operating system for robotics. Currently, it upgrades the driver… |
-| [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | Go | 502 stars today | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. |
-| [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | 459 stars today | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo… |
-| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | TypeScript | 1,542 stars today | A format specification for describing a visual identity to coding agents. DESIGN… |
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C | 67 stars today | Microsoft PowerToys is a collection of utilities that supercharge productivity a… |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 589 stars today | AI generates a real, editable PowerPoint from any document — native shapes & ani… |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 2,436 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
+| [usestrix/strix](https://github.com/usestrix/strix) | Python | 395 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,793 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 586 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 459 stars today | Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), con… |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 722 stars today | Edit videos with coding agents |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 966 stars today | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A… |
+| [Mebus/cupp](https://github.com/Mebus/cupp) | Python | 61 stars today | Common User Passwords Profiler (CUPP) |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) | 362 | 304 |
-| [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) | 284 | 166 |
-| [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) | 78 | 12 |
-| [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html) | 166 | 65 |
-| [Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) | 13 | 11 |
+| [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography) | 622 | 193 |
+| [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 100 | 35 |
+| [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/) | 101 | 30 |
+| [Claude Science](https://claude.com/product/claude-science) | 92 | 39 |
+| [We Are the Last People Who Know How It Works](https://unix.foo/posts/last-people-who-know-how-it-works/) | 50 | 13 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
