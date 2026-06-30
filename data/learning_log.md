@@ -10,14 +10,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-30 (last updated: 13:52 IST)
+
+## 📅 2026-06-30 (last updated: 16:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 23:34:57 IST | eff571a4d45c | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-30 02:01:16 IST | 7ca38d972f5f | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-06-30 13:52:13 IST | d8f361e8c3e9 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-30 16:57:26 IST | 375481da7f5f | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) — Score: 13
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $59,325.0 🔴 -0.89%
-- Ethereum: $1,586.59 🟢 +0.73%
-- Solana: $73.83 🟢 +1.66%
-- Bnb: $550.52 🔴 -0.36%
+- Bitcoin: $59,164.0 🔴 -1.20%
+- Ethereum: $1,577.79 🟢 +0.43%
+- Solana: $73.35 🟢 +1.24%
+- Bnb: $547.53 🔴 -0.70%
 
 ---
 ## 📅 2026-06-29 (last updated: 22:13 IST)
