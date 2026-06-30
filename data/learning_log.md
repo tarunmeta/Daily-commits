@@ -11,19 +11,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-06-30 (last updated: 16:57 IST)
+
+## 📅 2026-06-30 (last updated: 18:53 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 20 | 2026-06-27 23:34:57 IST | eff571a4d45c | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-30 02:01:16 IST | 7ca38d972f5f | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-06-30 16:57:26 IST | 375481da7f5f | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-06-30 18:53:58 IST | f2c87bc3e889 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)** (Haskell) — SimpleX - the first messaging network operating without user identifiers of any   
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Announcing .self: A New Top-Level Domain Designed to Support Self-Hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) — Score: 13
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $59,164.0 🔴 -1.20%
-- Ethereum: $1,577.79 🟢 +0.43%
-- Solana: $73.35 🟢 +1.24%
-- Bnb: $547.53 🔴 -0.70%
+- Bitcoin: $58,456.0 🔴 -2.63%
+- Ethereum: $1,558.5 🔴 -1.30%
+- Solana: $72.41 🔴 -2.05%
+- Bnb: $545.58 🔴 -1.45%
 
 ---
 ## 📅 2026-06-29 (last updated: 22:13 IST)
