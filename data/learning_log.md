@@ -5,14 +5,15 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-01 (last updated: 01:52 IST)
+
+## 📅 2026-07-01 (last updated: 04:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-06-30 23:44:47 IST | bef3593b7e3c | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-06-30 23:44:48 IST | 22b26bdcea70 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-01 01:52:18 IST | a85f04c33ff8 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-01 04:46:04 IST | 4c32483c79e9 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [We Are the Last People Who Know How It Works](https://unix.foo/posts/last-people-who-know-how-it-works/) — Score: 50
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $58,655.0 🔴 -2.78%
-- Ethereum: $1,576.38 🔴 -2.78%
-- Solana: $73.64 🔴 -2.50%
-- Bnb: $545.75 🔴 -2.67%
+- Bitcoin: $58,522.0 🔴 -2.88%
+- Ethereum: $1,566.33 🔴 -2.69%
+- Solana: $73.29 🔴 -2.63%
+- Bnb: $544.7 🔴 -2.60%
 
 ---
 ## 📅 2026-06-30 (last updated: 23:44 IST)
