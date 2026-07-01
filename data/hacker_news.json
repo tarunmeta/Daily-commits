@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-06-30 18:14:48 UTC",
-    "fetched_at_ist": "2026-06-30 23:44:48 IST",
+    "fetched_at_utc": "2026-07-01 01:39:55 UTC",
+    "fetched_at_ist": "2026-07-01 07:09:55 IST",
     "item_count": 5,
-    "content_hash": "22b26bdcea70483e599e11dafd79c10fb6e35db9a3bcf88d4c563fc4aba564d8",
-    "previous_hash": "7ca38d972f5f6d7311f424fdbbb247e1ecdf29cccf2788cb95dc0654387ed92b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "2202621f24e63a942363889722ea024b821363d69b6cc2c1beb37035f2054a36",
+    "previous_hash": "22b26bdcea70483e599e11dafd79c10fb6e35db9a3bcf88d4c563fc4aba564d8",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48734373,
-      "title": "Claude Code Is Steganographically Marking Requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 622,
-      "comments": 193
-    },
-    {
       "id": 48736605,
       "title": "Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 100,
-      "comments": 35
+      "score": 881,
+      "comments": 496
     },
     {
-      "id": 48735444,
-      "title": "Nano Banana 2 Lite",
-      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-      "score": 101,
-      "comments": 30
+      "id": 48734373,
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "score": 1420,
+      "comments": 403
     },
     {
-      "id": 48735770,
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "score": 92,
-      "comments": 39
+      "id": 48740698,
+      "title": "Google copybara: moving code between repositories",
+      "url": "https://github.com/google/copybara",
+      "score": 41,
+      "comments": 5
     },
     {
-      "id": 48735633,
-      "title": "We Are the Last People Who Know How It Works",
-      "url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
-      "score": 50,
-      "comments": 13
+      "id": 48740771,
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "score": 220,
+      "comments": 79
+    },
+    {
+      "id": 48741012,
+      "title": "The President Made More Than $1Billon in Crypto Deals",
+      "url": "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f",
+      "score": 23,
+      "comments": 3
     }
   ]
 }

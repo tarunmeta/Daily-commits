@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-01 (last updated: 04:46 IST)
+
+## 📅 2026-07-01 (last updated: 07:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-06-30 23:44:47 IST | bef3593b7e3c | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-06-30 23:44:48 IST | 22b26bdcea70 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-01 07:09:55 IST | 2202621f24e6 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-01 04:46:04 IST | 4c32483c79e9 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 459 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography) — Score: 622
-- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) — Score: 100
-- [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/) — Score: 101
-- [Claude Science](https://claude.com/product/claude-science) — Score: 92
-- [We Are the Last People Who Know How It Works](https://unix.foo/posts/last-people-who-know-how-it-works/) — Score: 50
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) — Score: 881
+- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) — Score: 1420
+- [Google copybara: moving code between repositories](https://github.com/google/copybara) — Score: 41
+- [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) — Score: 220
+- [The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f) — Score: 23
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $58,522.0 🔴 -2.88%
