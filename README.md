@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-01 01:39:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-01 06:11:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **hasaneyldrm/exercises-dataset**
-- BTC: **$58,522.0** ↓ (-2.88%)
-- HN top story: **Claude Sonnet 5**
+- BTC: **$58,879.0** ↓ (-0.98%)
+- HN top story: **Claude Code is steganographically marking requests**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-06-30 18:14:47 UTC | `bef3593b7e3c` | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-01 01:39:55 UTC | `2202621f24e6` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-06-30 23:16:04 UTC | `4c32483c79e9` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-07-01 06:11:20 UTC | `08bb5fb922be` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-01 06:11:21 UTC | `1f96733c5d31` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-01 06:11:21 UTC | `d7e4b5a9c78c` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-01` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `82` day(s) |
-| Last Commit (IST) | `2026-07-01 04:46:04 IST` |
+| Last Commit (IST) | `2026-07-01 07:09:56 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-06-29 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-06-30 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
-| 2026-07-01 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-07-01 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $58,522.0 | -2.88% | 🔴 |
-| Ethereum | $1,566.33 | -2.69% | 🔴 |
-| Solana | $73.29 | -2.63% | 🔴 |
-| Bnb | $544.7 | -2.60% | 🔴 |
+| Bitcoin | $58,879.0 | -0.98% | 🔴 |
+| Ethereum | $1,584.09 | -0.24% | 🔴 |
+| Solana | $74.93 | +1.30% | 🟢 |
+| Bnb | $548.96 | -0.57% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 2,436 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
-| [usestrix/strix](https://github.com/usestrix/strix) | Python | 395 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,793 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 586 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 459 stars today | Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), con… |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 722 stars today | Edit videos with coding agents |
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 966 stars today | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A… |
-| [Mebus/cupp](https://github.com/Mebus/cupp) | Python | 61 stars today | Common User Passwords Profiler (CUPP) |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 1,343 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
+| [usestrix/strix](https://github.com/usestrix/strix) | Python | 515 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,791 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 588 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 387 stars today | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con… |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 721 stars today | Edit videos with coding agents |
+| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 969 stars today | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A… |
+| [Mebus/cupp](https://github.com/Mebus/cupp) | Python | 32 stars today | Common User Passwords Profiler (CUPP) |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 881 | 496 |
-| [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) | 1420 | 403 |
-| [Google copybara: moving code between repositories](https://github.com/google/copybara) | 41 | 5 |
-| [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) | 220 | 79 |
-| [The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f) | 23 | 3 |
+| [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) | 1672 | 484 |
+| [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 1027 | 596 |
+| [The first early human eggs from stem cells](https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells) | 32 | 2 |
+| [Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/) | 14 | 0 |
+| [Google copybara: moving code between repositories](https://github.com/google/copybara) | 158 | 20 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

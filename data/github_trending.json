@@ -2,92 +2,92 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-06-30 18:14:47 UTC",
-    "fetched_at_ist": "2026-06-30 23:44:47 IST",
+    "fetched_at_utc": "2026-07-01 06:11:20 UTC",
+    "fetched_at_ist": "2026-07-01 11:41:20 IST",
     "item_count": 19,
-    "content_hash": "bef3593b7e3ce3ac63e211d1c624aef520bfb81c0001042d20aece4f02986dcf",
-    "previous_hash": "eff571a4d45c6a3e99c33f8abbd9ed8a757051ea7db9a3d15fd800eb11a93334",
-    "new_repos_vs_previous": 15,
-    "top_repo_changed": true
+    "content_hash": "08bb5fb922be2a4d82d414b87e0a12b257db28b0ea1b8d97ebf14ca021dff9f6",
+    "previous_hash": "bef3593b7e3ce3ac63e211d1c624aef520bfb81c0001042d20aece4f02986dcf",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars_today": "2,436 stars today"
+      "stars_today": "1,343 stars today"
     },
     {
       "name": "usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars_today": "395 stars today"
+      "stars_today": "515 stars today"
     },
     {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "1,793 stars today"
+      "stars_today": "1,791 stars today"
     },
     {
       "name": "altic-dev/FluidVoice",
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
       "language": "Swift",
-      "stars_today": "586 stars today"
+      "stars_today": "588 stars today"
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars_today": "459 stars today"
+      "stars_today": "387 stars today"
     },
     {
       "name": "browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars_today": "722 stars today"
+      "stars_today": "721 stars today"
     },
     {
       "name": "xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars_today": "966 stars today"
+      "stars_today": "969 stars today"
     },
     {
       "name": "Mebus/cupp",
       "description": "Common User Passwords Profiler (CUPP)",
       "language": "Python",
-      "stars_today": "61 stars today"
+      "stars_today": "32 stars today"
     },
     {
       "name": "ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars_today": "740 stars today"
+      "stars_today": "742 stars today"
     },
     {
       "name": "google/agents-cli",
       "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
       "language": "Python",
-      "stars_today": "433 stars today"
+      "stars_today": "445 stars today"
     },
     {
       "name": "roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars_today": "336 stars today"
+      "stars_today": "309 stars today"
     },
     {
       "name": "ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars_today": "485 stars today"
+      "stars_today": "486 stars today"
     },
     {
       "name": "simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars_today": "1,229 stars today"
+      "stars_today": "1,235 stars today"
     },
     {
       "name": "CoreBunch/Instatic",
@@ -99,31 +99,31 @@
       "name": "microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars_today": "180 stars today"
+      "stars_today": "252 stars today"
     },
     {
       "name": "facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars_today": "399 stars today"
+      "stars_today": "364 stars today"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "719 stars today"
+      "stars_today": "721 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "884 stars today"
+      "stars_today": "890 stars today"
     },
     {
       "name": "Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars_today": "210 stars today"
+      "stars_today": "189 stars today"
     }
   ]
 }
