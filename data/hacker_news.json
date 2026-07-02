@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-02 15:40:54 UTC",
-    "fetched_at_ist": "2026-07-02 21:10:54 IST",
+    "fetched_at_utc": "2026-07-02 21:44:33 UTC",
+    "fetched_at_ist": "2026-07-03 03:14:33 IST",
     "item_count": 5,
-    "content_hash": "f6d18fac335f92e5ecac0a4603688234e3a8f52d536242ef5eb79d251affef38",
-    "previous_hash": "4e808a40868b00b85fe296b9fed7d74123c3067eb10176216bf19bd824e7d573",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "e0c780ed51566ecf54a6daeeb5eee36e83102ac54f6990244576156531a019eb",
+    "previous_hash": "f6d18fac335f92e5ecac0a4603688234e3a8f52d536242ef5eb79d251affef38",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48762862,
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "url": "https://manufact.com",
-      "score": 17,
-      "comments": 4
+      "id": 48767347,
+      "title": "US State of Virginia Bans Sale of Geolocation Data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "score": 41,
+      "comments": 3
     },
     {
-      "id": 48755965,
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
-      "score": 1205,
-      "comments": 495
+      "id": 48765663,
+      "title": "Exapunks (2018)",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "score": 171,
+      "comments": 63
     },
     {
-      "id": 48762000,
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "url": "https://mailmemories.com",
-      "score": 28,
-      "comments": 11
+      "id": 48763035,
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "score": 342,
+      "comments": 167
     },
     {
-      "id": 48761536,
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "score": 115,
-      "comments": 41
-    },
-    {
-      "id": 48760201,
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "url": "https://arxiv.org/abs/2607.01232",
+      "id": 48766209,
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
       "score": 60,
-      "comments": 15
+      "comments": 17
+    },
+    {
+      "id": 48766598,
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "url": "http://www.lmdb.tech/doc/",
+      "score": 35,
+      "comments": 16
     }
   ]
 }
