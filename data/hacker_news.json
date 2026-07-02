@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-01 06:11:21 UTC",
-    "fetched_at_ist": "2026-07-01 11:41:21 IST",
+    "fetched_at_utc": "2026-07-02 01:32:44 UTC",
+    "fetched_at_ist": "2026-07-02 07:02:44 IST",
     "item_count": 5,
-    "content_hash": "1f96733c5d31a561b93018017d481668d190f2ad17d6d81a43d6ae02f2e83ced",
-    "previous_hash": "2202621f24e63a942363889722ea024b821363d69b6cc2c1beb37035f2054a36",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "6301de290963d916d005a118137b883f8b1d177090d4437b78c622828818152c",
+    "previous_hash": "1f96733c5d31a561b93018017d481668d190f2ad17d6d81a43d6ae02f2e83ced",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48734373,
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "score": 1672,
-      "comments": 484
+      "id": 48753715,
+      "title": "ZCode – Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "score": 184,
+      "comments": 203
     },
     {
-      "id": 48736605,
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "score": 1027,
-      "comments": 596
+      "id": 48754713,
+      "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
+      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+      "score": 55,
+      "comments": 40
     },
     {
-      "id": 48742483,
-      "title": "The first early human eggs from stem cells",
-      "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
-      "score": 32,
-      "comments": 2
+      "id": 48752905,
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
+      "score": 205,
+      "comments": 34
     },
     {
-      "id": 48742514,
-      "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
-      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-      "score": 14,
-      "comments": 0
+      "id": 48747304,
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 726,
+      "comments": 249
     },
     {
-      "id": 48740698,
-      "title": "Google copybara: moving code between repositories",
-      "url": "https://github.com/google/copybara",
-      "score": 158,
-      "comments": 20
+      "id": 48750710,
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "score": 232,
+      "comments": 122
     }
   ]
 }
