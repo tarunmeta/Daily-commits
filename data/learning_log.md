@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-02 (last updated: 18:46 IST)
+
+## 📅 2026-07-02 (last updated: 21:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-01 11:41:20 IST | 08bb5fb922be | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-02 14:04:41 IST | 4e808a40868b | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-02 21:10:54 IST | f6d18fac335f | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-02 18:46:50 IST | 2806c852d69d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 387 stars today
 
 ### 📰 Hacker News Stories
-- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/) — Score: 113
-- [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html) — Score: 285
-- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en) — Score: 379
-- [Oomwoo, an open-source robot vacuum you build yourself](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) — Score: 265
-- [Bring back crappy forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/) — Score: 232
+- [Launch HN: Manufact (YC S25) – MCP Cloud](https://manufact.com) — Score: 17
+- [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html) — Score: 1205
+- [Show HN: Mail Memories – A desktop app to rescue photos from Gmail](https://mailmemories.com) — Score: 28
+- [AI can't be listed as inventor on patent applications, Japan's top court rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/) — Score: 115
+- [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232) — Score: 60
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,606.0 🟢 +5.04%
