@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-02 05:43:00 UTC",
-    "fetched_at_ist": "2026-07-02 11:13:00 IST",
+    "fetched_at_utc": "2026-07-02 08:34:41 UTC",
+    "fetched_at_ist": "2026-07-02 14:04:41 IST",
     "item_count": 5,
-    "content_hash": "83840ad93d7fd778b6b4b4861dfc3859c02de9659acfc81561e9e7e4bb943483",
-    "previous_hash": "6301de290963d916d005a118137b883f8b1d177090d4437b78c622828818152c",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "4e808a40868b00b85fe296b9fed7d74123c3067eb10176216bf19bd824e7d573",
+    "previous_hash": "83840ad93d7fd778b6b4b4861dfc3859c02de9659acfc81561e9e7e4bb943483",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48756602,
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "score": 113,
+      "comments": 32
+    },
+    {
+      "id": 48755965,
+      "title": "A new Android malware from Google",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "score": 285,
+      "comments": 130
+    },
     {
       "id": 48753715,
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
-      "score": 321,
-      "comments": 254
+      "score": 379,
+      "comments": 286
     },
     {
       "id": 48755005,
       "title": "Oomwoo, an open-source robot vacuum you build yourself",
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
-      "score": 147,
-      "comments": 20
-    },
-    {
-      "id": 48755928,
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "score": 46,
-      "comments": 28
-    },
-    {
-      "id": 48747304,
-      "title": "For first time, a cell built from scratch grows and divides",
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 802,
-      "comments": 266
+      "score": 265,
+      "comments": 48
     },
     {
       "id": 48755731,
       "title": "Bring back crappy forums",
       "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-      "score": 122,
-      "comments": 77
+      "score": 232,
+      "comments": 137
     }
   ]
 }
