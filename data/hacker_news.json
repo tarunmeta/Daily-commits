@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-02 01:32:44 UTC",
-    "fetched_at_ist": "2026-07-02 07:02:44 IST",
+    "fetched_at_utc": "2026-07-02 05:43:00 UTC",
+    "fetched_at_ist": "2026-07-02 11:13:00 IST",
     "item_count": 5,
-    "content_hash": "6301de290963d916d005a118137b883f8b1d177090d4437b78c622828818152c",
-    "previous_hash": "1f96733c5d31a561b93018017d481668d190f2ad17d6d81a43d6ae02f2e83ced",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "83840ad93d7fd778b6b4b4861dfc3859c02de9659acfc81561e9e7e4bb943483",
+    "previous_hash": "6301de290963d916d005a118137b883f8b1d177090d4437b78c622828818152c",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48753715,
       "title": "ZCode – Harness for GLM-5.2",
       "url": "https://zcode.z.ai/en",
-      "score": 184,
-      "comments": 203
+      "score": 321,
+      "comments": 254
     },
     {
-      "id": 48754713,
-      "title": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
-      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-      "score": 55,
-      "comments": 40
+      "id": 48755005,
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "score": 147,
+      "comments": 20
     },
     {
-      "id": 48752905,
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "url": "https://www.workerowned.info/",
-      "score": 205,
-      "comments": 34
+      "id": 48755928,
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "score": 46,
+      "comments": 28
     },
     {
       "id": 48747304,
       "title": "For first time, a cell built from scratch grows and divides",
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "score": 726,
-      "comments": 249
+      "score": 802,
+      "comments": 266
     },
     {
-      "id": 48750710,
-      "title": "What to learn to be a graphics programmer",
-      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "score": 232,
-      "comments": 122
+      "id": 48755731,
+      "title": "Bring back crappy forums",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "score": 122,
+      "comments": 77
     }
   ]
 }
