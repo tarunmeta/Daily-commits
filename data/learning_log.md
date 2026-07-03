@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-03 (last updated: 05:37 IST)
+
+## 📅 2026-07-03 (last updated: 13:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-03 05:37:06 IST | f9316154cd6f | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-03 05:37:11 IST | f1c8a0177e57 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-03 13:06:35 IST | 029b4ba2e666 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-03 05:37:06 IST | 9c2beb266f08 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 372 stars today
 
 ### 📰 Hacker News Stories
-- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) — Score: 335
-- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) — Score: 76
-- [Exapunks (2018)](https://www.zachtronics.com/exapunks/) — Score: 208
-- [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) — Score: 93
-- [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) — Score: 385
+- [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://stefan.schueller.net/posts/the-free-market-lie/) — Score: 432
+- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) — Score: 714
+- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts) — Score: 225
+- [Right to Local Intelligence](https://righttointelligence.org/) — Score: 174
+- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) — Score: 241
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,390.0 🟢 +2.50%
