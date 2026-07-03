@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-03 07:36:35 UTC",
-    "fetched_at_ist": "2026-07-03 13:06:35 IST",
+    "fetched_at_utc": "2026-07-03 19:39:25 UTC",
+    "fetched_at_ist": "2026-07-04 01:09:25 IST",
     "item_count": 5,
-    "content_hash": "029b4ba2e66621c11d3f71a5e44bcf80d94f0f66a5f3b3e65afa5d870434fafb",
-    "previous_hash": "f1c8a0177e5734175e8db1cf672e46296c14bb135330dc01c183388a239aa4be",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "b536278f5b84395c7f0e5f0f1d254422c000aff69529325b34bf3ec1fc2adfe2",
+    "previous_hash": "029b4ba2e66621c11d3f71a5e44bcf80d94f0f66a5f3b3e65afa5d870434fafb",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48770647,
-      "title": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-      "score": 432,
-      "comments": 261
+      "id": 48775921,
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "score": 152,
+      "comments": 63
     },
     {
-      "id": 48767347,
-      "title": "Virginia bans sale of geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "score": 714,
-      "comments": 117
+      "id": 48776044,
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "score": 81,
+      "comments": 30
     },
     {
-      "id": 48769397,
-      "title": "CarPlay Is Additive",
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "score": 225,
-      "comments": 265
+      "id": 48776035,
+      "title": "Factories are just rooms",
+      "url": "https://interconnected.org/home/2026/07/03/factories",
+      "score": 107,
+      "comments": 48
     },
     {
-      "id": 48768951,
-      "title": "Right to Local Intelligence",
-      "url": "https://righttointelligence.org/",
-      "score": 174,
-      "comments": 67
+      "id": 48730953,
+      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+      "score": 111,
+      "comments": 6
     },
     {
-      "id": 48768464,
-      "title": "crustc: entirety of `rustc`, translated to C",
-      "url": "https://github.com/FractalFir/crustc",
-      "score": 241,
-      "comments": 42
+      "id": 48777144,
+      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "score": 23,
+      "comments": 4
     }
   ]
 }
