@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-04 (last updated: 01:09 IST)
+
+## 📅 2026-07-04 (last updated: 02:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-03 05:37:06 IST | f9316154cd6f | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-04 01:09:25 IST | b536278f5b84 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-04 02:13:52 IST | 9093b31e3d83 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-03 21:55:22 IST | 797a75286b85 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 372 stars today
 
 ### 📰 Hacker News Stories
-- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) — Score: 152
-- [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/) — Score: 81
-- [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories) — Score: 107
-- [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected) — Score: 111
-- [Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)](https://github.com/kerlenton/mcpsnoop) — Score: 23
+- [FreeBSD Ate My RAM](https://crocidb.com/post/freebsd-ate-my-ram/) — Score: 24
+- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) — Score: 184
+- [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/) — Score: 146
+- [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories) — Score: 134
+- [ClawdMojis – A Clawd for Every Occasion](https://github.com/afspies/ClawdMoji) — Score: 8
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,020.0 🟢 +0.98%
@@ -44,17 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $565.5 🟢 +0.80%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-03 (last updated: 21:55 IST)
 
 ### 🧪 Source Integrity Snapshot

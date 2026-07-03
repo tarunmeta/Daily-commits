@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-03 19:39:25 UTC",
-    "fetched_at_ist": "2026-07-04 01:09:25 IST",
+    "fetched_at_utc": "2026-07-03 20:43:52 UTC",
+    "fetched_at_ist": "2026-07-04 02:13:52 IST",
     "item_count": 5,
-    "content_hash": "b536278f5b84395c7f0e5f0f1d254422c000aff69529325b34bf3ec1fc2adfe2",
-    "previous_hash": "029b4ba2e66621c11d3f71a5e44bcf80d94f0f66a5f3b3e65afa5d870434fafb",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "9093b31e3d83ea404d99e76469e9591b1dee36a7b5f9b8afaa8921b4cfa560bf",
+    "previous_hash": "b536278f5b84395c7f0e5f0f1d254422c000aff69529325b34bf3ec1fc2adfe2",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48778757,
+      "title": "FreeBSD Ate My RAM",
+      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+      "score": 24,
+      "comments": 1
+    },
+    {
       "id": 48775921,
       "title": "Jamesob's guide to running SOTA LLMs locally",
       "url": "https://github.com/jamesob/local-llm",
-      "score": 152,
-      "comments": 63
+      "score": 184,
+      "comments": 87
     },
     {
       "id": 48776044,
       "title": "Costco is the anti-Amazon",
       "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-      "score": 81,
-      "comments": 30
+      "score": 146,
+      "comments": 115
     },
     {
       "id": 48776035,
       "title": "Factories are just rooms",
       "url": "https://interconnected.org/home/2026/07/03/factories",
-      "score": 107,
-      "comments": 48
+      "score": 134,
+      "comments": 56
     },
     {
-      "id": 48730953,
-      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
-      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-      "score": 111,
-      "comments": 6
-    },
-    {
-      "id": 48777144,
-      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
-      "url": "https://github.com/kerlenton/mcpsnoop",
-      "score": 23,
-      "comments": 4
+      "id": 48778971,
+      "title": "ClawdMojis – A Clawd for Every Occasion",
+      "url": "https://github.com/afspies/ClawdMoji",
+      "score": 8,
+      "comments": 1
     }
   ]
 }
