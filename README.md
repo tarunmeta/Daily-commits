@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-02 21:44:33 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-03 00:07:11 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **hasaneyldrm/exercises-dataset**
-- BTC: **$61,369.0** ↑ (+2.44%)
-- HN top story: **US State of Virginia Bans Sale of Geolocation Data**
+- Top GitHub repo: **usestrix/strix**
+- BTC: **$61,390.0** ↑ (+2.50%)
+- HN top story: **Virginia bans sale of geolocation data**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-07-01 06:11:20 UTC | `08bb5fb922be` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-02 21:44:33 UTC | `e0c780ed5156` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-02 20:22:59 UTC | `b0760c93b416` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-07-03 00:07:06 UTC | `f9316154cd6f` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-03 00:07:11 UTC | `f1c8a0177e57` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-07-03 00:07:06 UTC | `9c2beb266f08` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-03` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `83` day(s) |
-| Last Commit (IST) | `2026-07-03 03:14:33 IST` |
+| Last Commit (IST) | `2026-07-03 04:18:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-06-30 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-01 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-07-02 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
-| 2026-07-03 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-07-03 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $61,369.0 | +2.44% | 🟢 |
-| Ethereum | $1,697.78 | +5.24% | 🟢 |
-| Solana | $80.68 | +5.33% | 🟢 |
-| Bnb | $557.6 | +1.35% | 🟢 |
+| Bitcoin | $61,390.0 | +2.50% | 🟢 |
+| Ethereum | $1,697.96 | +5.80% | 🟢 |
+| Solana | $80.61 | +4.32% | 🟢 |
+| Bnb | $558.07 | +1.65% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 1,343 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
-| [usestrix/strix](https://github.com/usestrix/strix) | Python | 515 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,791 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 588 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
-| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | 387 stars today | Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con… |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 721 stars today | Edit videos with coding agents |
-| [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | 969 stars today | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A… |
-| [Mebus/cupp](https://github.com/Mebus/cupp) | Python | 32 stars today | Common User Passwords Profiler (CUPP) |
+| [usestrix/strix](https://github.com/usestrix/strix) | Python | 2,137 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 926 stars today | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 3,032 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 938 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 372 stars today | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 897 stars today | An agentic skills framework & software development methodology that works. |
+| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 104 stars today | Chrome DevTools for coding agents |
+| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 554 stars today | Edit videos with coding agents |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [US State of Virginia Bans Sale of Geolocation Data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) | 41 | 3 |
-| [Exapunks (2018)](https://www.zachtronics.com/exapunks/) | 171 | 63 |
-| [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) | 342 | 167 |
-| [EFF letter to FTC on X consent order (2 July 2026) [pdf]](https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf) | 60 | 17 |
-| [Lightning Memory-Mapped Database Manager (LMDB) 1.0](http://www.lmdb.tech/doc/) | 35 | 16 |
+| [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) | 335 | 59 |
+| [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) | 76 | 11 |
+| [Exapunks (2018)](https://www.zachtronics.com/exapunks/) | 208 | 74 |
+| [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) | 93 | 32 |
+| [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) | 385 | 185 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
