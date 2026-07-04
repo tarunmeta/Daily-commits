@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-04 (last updated: 21:00 IST)
+
+## 📅 2026-07-04 (last updated: 22:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-03 05:37:06 IST | f9316154cd6f | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-04 21:00:58 IST | 4068d3a38f20 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-04 22:12:19 IST | e3f22e952911 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-04 17:49:25 IST | 5e4f1e56e374 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 372 stars today
 
 ### 📰 Hacker News Stories
-- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) — Score: 89
-- [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/) — Score: 121
-- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) — Score: 117
-- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/) — Score: 271
-- [Postgres data stored in Parquet on S3: LTAP architecture explained](https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage) — Score: 97
+- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066) — Score: 156
+- [Explanation of everything you can see in htop/top on Linux](https://peteris.rocks/blog/htop/) — Score: 189
+- [Windows CE Dreamcast Community Edition (wince-dc)](https://github.com/maximqaxd/wince-dc) — Score: 12
+- [What ORMs have taught me: just learn SQL (2014)](https://wozniak.ca/blog/2014/08/03/1/index.html) — Score: 67
+- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/) — Score: 129
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,507.0 🟢 +0.92%
