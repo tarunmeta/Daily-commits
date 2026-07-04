@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 16:42:19 UTC",
-    "fetched_at_ist": "2026-07-04 22:12:19 IST",
+    "fetched_at_utc": "2026-07-04 21:30:53 UTC",
+    "fetched_at_ist": "2026-07-05 03:00:53 IST",
     "item_count": 5,
-    "content_hash": "e3f22e9529114e55b178317ae6e8815ffded889527677e65675c5895bf8654f7",
-    "previous_hash": "4068d3a38f20e40d6f43e9fa28c4beae4278fb12a43edd1b9f333e85c4dfc6e0",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "a09efdc7940614e31f54960545c10c685ba22d8e19d85b4b79ef6dbaaeea8652",
+    "previous_hash": "e3f22e9529114e55b178317ae6e8815ffded889527677e65675c5895bf8654f7",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48788283,
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "score": 137,
+      "comments": 68
+    },
+    {
+      "id": 48786781,
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "score": 371,
+      "comments": 191
+    },
+    {
+      "id": 48786838,
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "score": 228,
+      "comments": 111
+    },
+    {
+      "id": 48787329,
+      "title": "Verizon is About to Break our Watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "score": 92,
+      "comments": 37
+    },
     {
       "id": 48785485,
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
       "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 156,
-      "comments": 59
-    },
-    {
-      "id": 48784777,
-      "title": "Explanation of everything you can see in htop/top on Linux",
-      "url": "https://peteris.rocks/blog/htop/",
-      "score": 189,
-      "comments": 27
-    },
-    {
-      "id": 48785840,
-      "title": "Windows CE Dreamcast Community Edition (wince-dc)",
-      "url": "https://github.com/maximqaxd/wince-dc",
-      "score": 12,
-      "comments": 0
-    },
-    {
-      "id": 48742175,
-      "title": "What ORMs have taught me: just learn SQL (2014)",
-      "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-      "score": 67,
-      "comments": 62
-    },
-    {
-      "id": 48783948,
-      "title": "Astrophysicists Puzzle over Webb’s New Universe",
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "score": 129,
-      "comments": 74
+      "score": 249,
+      "comments": 118
     }
   ]
 }
