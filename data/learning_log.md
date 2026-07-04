@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-04 (last updated: 12:45 IST)
+
+## 📅 2026-07-04 (last updated: 15:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-03 05:37:06 IST | f9316154cd6f | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-04 02:13:52 IST | 9093b31e3d83 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-04 15:05:55 IST | e89360db3474 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-04 12:45:41 IST | 3d2a39b8f8fe | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 372 stars today
 
 ### 📰 Hacker News Stories
-- [FreeBSD Ate My RAM](https://crocidb.com/post/freebsd-ate-my-ram/) — Score: 24
-- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) — Score: 184
-- [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/) — Score: 146
-- [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories) — Score: 134
-- [ClawdMojis – A Clawd for Every Occasion](https://github.com/afspies/ClawdMoji) — Score: 8
+- [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/) — Score: 203
+- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post) — Score: 86
+- [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd) — Score: 241
+- [Mir Books – Books from the Soviet Era](https://mirtitles.org) — Score: 66
+- [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/) — Score: 229
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,467.0 🟢 +1.32%
