@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 21:30:53 UTC",
-    "fetched_at_ist": "2026-07-05 03:00:53 IST",
+    "fetched_at_utc": "2026-07-04 22:39:27 UTC",
+    "fetched_at_ist": "2026-07-05 04:09:27 IST",
     "item_count": 5,
-    "content_hash": "a09efdc7940614e31f54960545c10c685ba22d8e19d85b4b79ef6dbaaeea8652",
-    "previous_hash": "e3f22e9529114e55b178317ae6e8815ffded889527677e65675c5895bf8654f7",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "66af5425f20fe5d1f1c24ec1006ee04e0fa4b4065f00d4618c407dca47bd3a6e",
+    "previous_hash": "a09efdc7940614e31f54960545c10c685ba22d8e19d85b4b79ef6dbaaeea8652",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48788283,
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 137,
-      "comments": 68
+      "score": 235,
+      "comments": 100
+    },
+    {
+      "id": 48789428,
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "score": 41,
+      "comments": 4
     },
     {
       "id": 48786781,
       "title": "Leaking YouTube creators' private videos",
       "url": "https://javoriuski.com/post/youtube",
-      "score": 371,
-      "comments": 191
+      "score": 417,
+      "comments": 211
     },
     {
       "id": 48786838,
       "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
       "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 228,
-      "comments": 111
+      "score": 259,
+      "comments": 142
     },
     {
-      "id": 48787329,
-      "title": "Verizon is About to Break our Watches",
-      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
-      "score": 92,
-      "comments": 37
-    },
-    {
-      "id": 48785485,
-      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 249,
-      "comments": 118
+      "id": 48788599,
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "score": 42,
+      "comments": 13
     }
   ]
 }
