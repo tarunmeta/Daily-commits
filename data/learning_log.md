@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-05 (last updated: 11:10 IST)
+
+## 📅 2026-07-05 (last updated: 14:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-03 05:37:06 IST | f9316154cd6f | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-05 11:10:49 IST | de295866ca56 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-05 14:00:57 IST | 3f96490af5e4 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-05 06:56:22 IST | 2af23a960510 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 372 stars today
 
 ### 📰 Hacker News Stories
-- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) — Score: 457
-- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog) — Score: 18
-- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) — Score: 91
-- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) — Score: 209
-- [Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com) — Score: 5
+- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog) — Score: 101
+- [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) — Score: 27
+- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) — Score: 546
+- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) — Score: 174
+- [Pandoc Lua Filters](https://pandoc.org/lua-filters.html) — Score: 56
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,803.0 🟢 +0.66%

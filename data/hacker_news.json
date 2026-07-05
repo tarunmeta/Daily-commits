@@ -2,48 +2,48 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-05 05:40:49 UTC",
-    "fetched_at_ist": "2026-07-05 11:10:49 IST",
+    "fetched_at_utc": "2026-07-05 08:30:57 UTC",
+    "fetched_at_ist": "2026-07-05 14:00:57 IST",
     "item_count": 5,
-    "content_hash": "de295866ca568aa030e902c5d9f9e73ba433e344f725a5ae723539b1587b238f",
-    "previous_hash": "ff2de21e0ff3449cc907c4d6bae870b71917db13637e837d16e57e2663795d15",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "3f96490af5e40548013a0cde3f9d319e8aa34030d88fbc55699ccba19649e901",
+    "previous_hash": "de295866ca568aa030e902c5d9f9e73ba433e344f725a5ae723539b1587b238f",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 48788283,
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 457,
-      "comments": 178
-    },
     {
       "id": 48791328,
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
       "url": "https://ui.shadcn.com/docs/changelog",
-      "score": 18,
-      "comments": 0
+      "score": 101,
+      "comments": 29
+    },
+    {
+      "id": 48791708,
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "score": 27,
+      "comments": 15
+    },
+    {
+      "id": 48788283,
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "score": 546,
+      "comments": 223
     },
     {
       "id": 48790689,
       "title": "If you're a button, you have one job",
       "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 91,
-      "comments": 21
+      "score": 174,
+      "comments": 74
     },
     {
-      "id": 48789428,
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 209,
-      "comments": 73
-    },
-    {
-      "id": 48791380,
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://hic-ai.com",
-      "score": 5,
+      "id": 48773079,
+      "title": "Pandoc Lua Filters",
+      "url": "https://pandoc.org/lua-filters.html",
+      "score": 56,
       "comments": 1
     }
   ]
