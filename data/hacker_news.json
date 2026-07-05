@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-04 23:43:41 UTC",
-    "fetched_at_ist": "2026-07-05 05:13:41 IST",
+    "fetched_at_utc": "2026-07-05 05:40:49 UTC",
+    "fetched_at_ist": "2026-07-05 11:10:49 IST",
     "item_count": 5,
-    "content_hash": "ff2de21e0ff3449cc907c4d6bae870b71917db13637e837d16e57e2663795d15",
-    "previous_hash": "66af5425f20fe5d1f1c24ec1006ee04e0fa4b4065f00d4618c407dca47bd3a6e",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "de295866ca568aa030e902c5d9f9e73ba433e344f725a5ae723539b1587b238f",
+    "previous_hash": "ff2de21e0ff3449cc907c4d6bae870b71917db13637e837d16e57e2663795d15",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48788283,
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 287,
-      "comments": 122
+      "score": 457,
+      "comments": 178
+    },
+    {
+      "id": 48791328,
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "score": 18,
+      "comments": 0
+    },
+    {
+      "id": 48790689,
+      "title": "If you're a button, you have one job",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "score": 91,
+      "comments": 21
     },
     {
       "id": 48789428,
       "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
       "url": "https://github.com/openai/codex/issues/30364",
-      "score": 97,
-      "comments": 18
+      "score": 209,
+      "comments": 73
     },
     {
-      "id": 48786838,
-      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 290,
-      "comments": 151
-    },
-    {
-      "id": 48786781,
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "score": 440,
-      "comments": 241
-    },
-    {
-      "id": 48788599,
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "score": 70,
-      "comments": 18
+      "id": 48791380,
+      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://hic-ai.com",
+      "score": 5,
+      "comments": 1
     }
   ]
 }
