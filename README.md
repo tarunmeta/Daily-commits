@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-05 14:15:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-05 18:17:07 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **usestrix/strix**
-- BTC: **$62,675.0** ↑ (+0.07%)
+- BTC: **$62,632.0** ↓ (-0.92%)
 - HN top story: **Shadcn/UI now defaults to Base UI instead of Radix**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-03 00:07:06 UTC | `f9316154cd6f` | +11 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-05 08:30:57 UTC | `3f96490af5e4` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-05 14:15:53 UTC | `443dbae33d5e` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-05 18:17:07 UTC | `a2d6555ec019` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +11 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-05` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `83` day(s) |
-| Last Commit (IST) | `2026-07-05 21:16:57 IST` |
+| Last Commit (IST) | `2026-07-05 22:42:33 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-02 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-03 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-04 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-07-05 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-07-05 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,675.0 | +0.07% | 🟢 |
-| Ethereum | $1,765.93 | -0.30% | 🔴 |
-| Solana | $81.14 | -0.63% | 🔴 |
-| Bnb | $587.77 | +2.33% | 🟢 |
+| Bitcoin | $62,632.0 | -0.92% | 🔴 |
+| Ethereum | $1,778.22 | -1.22% | 🔴 |
+| Solana | $81.12 | -1.59% | 🔴 |
+| Bnb | $584.4 | +1.21% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
