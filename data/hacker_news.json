@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-05 08:30:57 UTC",
-    "fetched_at_ist": "2026-07-05 14:00:57 IST",
+    "fetched_at_utc": "2026-07-06 22:38:22 UTC",
+    "fetched_at_ist": "2026-07-07 04:08:22 IST",
     "item_count": 5,
-    "content_hash": "3f96490af5e40548013a0cde3f9d319e8aa34030d88fbc55699ccba19649e901",
-    "previous_hash": "de295866ca568aa030e902c5d9f9e73ba433e344f725a5ae723539b1587b238f",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "5d8d4d0e7c5c7f23964dedf616233154c34eb603510a0b9cdef9ee2e219b491a",
+    "previous_hash": "3f96490af5e40548013a0cde3f9d319e8aa34030d88fbc55699ccba19649e901",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48791328,
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "url": "https://ui.shadcn.com/docs/changelog",
-      "score": 101,
-      "comments": 29
+      "id": 48808482,
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 318,
+      "comments": 137
     },
     {
-      "id": 48791708,
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "score": 27,
-      "comments": 15
+      "id": 48808928,
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 224,
+      "comments": 42
     },
     {
-      "id": 48788283,
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 546,
-      "comments": 223
+      "id": 48808002,
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "score": 202,
+      "comments": 66
     },
     {
-      "id": 48790689,
-      "title": "If you're a button, you have one job",
-      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
-      "score": 174,
-      "comments": 74
-    },
-    {
-      "id": 48773079,
-      "title": "Pandoc Lua Filters",
-      "url": "https://pandoc.org/lua-filters.html",
-      "score": 56,
+      "id": 48809354,
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "score": 22,
       "comments": 1
+    },
+    {
+      "id": 48809496,
+      "title": "Python 3.14 compiled to metal – no interpreter",
+      "url": "https://github.com/can1357/pon",
+      "score": 90,
+      "comments": 53
     }
   ]
 }

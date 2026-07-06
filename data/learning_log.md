@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-07 (last updated: 00:46 IST)
+
+## 📅 2026-07-07 (last updated: 04:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-03 05:37:06 IST | f9316154cd6f | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-05 14:00:57 IST | 3f96490af5e4 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-07 04:08:22 IST | 5d8d4d0e7c5c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-07 00:46:17 IST | 75d0490c0cfe | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 372 stars today
 
 ### 📰 Hacker News Stories
-- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog) — Score: 101
-- [sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/) — Score: 27
-- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main) — Score: 546
-- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) — Score: 174
-- [Pandoc Lua Filters](https://pandoc.org/lua-filters.html) — Score: 56
+- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) — Score: 318
+- [CoMaps – FOSS Offline Maps](https://www.comaps.app/) — Score: 224
+- [A global workspace in language models](https://www.anthropic.com/research/global-workspace) — Score: 202
+- [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context) — Score: 22
+- [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon) — Score: 90
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,678.0 🟢 +1.42%
