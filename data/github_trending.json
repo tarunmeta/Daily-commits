@@ -2,116 +2,86 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-03 00:07:06 UTC",
-    "fetched_at_ist": "2026-07-03 05:37:06 IST",
-    "item_count": 17,
-    "content_hash": "f9316154cd6f4d1e137b5f7974c41c074b8a800f03698fa62efa712eb1ad6d2d",
-    "previous_hash": "08bb5fb922be2a4d82d414b87e0a12b257db28b0ea1b8d97ebf14ca021dff9f6",
-    "new_repos_vs_previous": 11,
+    "fetched_at_utc": "2026-07-07 18:00:31 UTC",
+    "fetched_at_ist": "2026-07-07 23:30:31 IST",
+    "item_count": 12,
+    "content_hash": "4fb78eb0ce843143da0851079ab365396e7af35ace430abdb68c269aaa7228a6",
+    "previous_hash": "f9316154cd6f4d1e137b5f7974c41c074b8a800f03698fa62efa712eb1ad6d2d",
+    "new_repos_vs_previous": 12,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "2,137 stars today"
+      "name": "Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "language": "Rust",
+      "stars_today": "1,781 stars today"
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "926 stars today"
+      "stars_today": "1,311 stars today"
     },
     {
-      "name": "msitarzewski/agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "language": "Shell",
-      "stars_today": "3,032 stars today"
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars_today": "1,122 stars today"
     },
     {
-      "name": "hasaneyldrm/exercises-dataset",
-      "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars_today": "1,704 stars today"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars_today": "665 stars today"
+    },
+    {
+      "name": "AhmadIbrahiim/Website-downloader",
+      "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
       "language": "HTML",
-      "stars_today": "938 stars today"
+      "stars_today": "173 stars today"
     },
     {
-      "name": "santifer/career-ops",
-      "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-      "language": "JavaScript",
-      "stars_today": "372 stars today"
+      "name": "steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "stars_today": "377 stars today"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "897 stars today"
+      "name": "dotnet/skills",
+      "description": "Repository for skills to assist AI coding agents with .NET and C#",
+      "language": "C#",
+      "stars_today": "82 stars today"
     },
     {
-      "name": "ChromeDevTools/chrome-devtools-mcp",
-      "description": "Chrome DevTools for coding agents",
-      "language": "TypeScript",
-      "stars_today": "104 stars today"
+      "name": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars_today": "802 stars today"
     },
     {
-      "name": "browser-use/video-use",
-      "description": "Edit videos with coding agents",
+      "name": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_today": "554 stars today"
+      "stars_today": "953 stars today"
     },
     {
-      "name": "actions/checkout",
-      "description": "Action for checking out a repo",
-      "language": "TypeScript",
-      "stars_today": "26 stars today"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "486 stars today"
-    },
-    {
-      "name": "HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "name": "kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
       "language": "Python",
-      "stars_today": "939 stars today"
+      "stars_today": "510 stars today"
     },
     {
-      "name": "agentskills/agentskills",
-      "description": "Specification and documentation for Agent Skills",
+      "name": "hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "language": "Python",
-      "stars_today": "86 stars today"
-    },
-    {
-      "name": "openai/codex-plugin-cc",
-      "description": "Use Codex from Claude Code to review code or delegate tasks.",
-      "language": "JavaScript",
-      "stars_today": "352 stars today"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-      "language": "Python",
-      "stars_today": "117 stars today"
-    },
-    {
-      "name": "pytorch/pytorch",
-      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-      "language": "Python",
-      "stars_today": "65 stars today"
-    },
-    {
-      "name": "harvard-edge/cs249r_book",
-      "description": "Machine Learning Systems",
-      "language": "Python",
-      "stars_today": "68 stars today"
-    },
-    {
-      "name": "ryanmcdermott/clean-code-javascript",
-      "description": "Clean Code concepts adapted for JavaScript",
-      "language": "JavaScript",
-      "stars_today": "27 stars today"
+      "stars_today": "227 stars today"
     }
   ]
 }

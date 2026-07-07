@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-07 10:32:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-07 18:00:33 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **usestrix/strix**
-- BTC: **$63,678.0** ↑ (+1.42%)
-- HN top story: **OpenWrt One – Open Hardware Router**
+- Top GitHub repo: **Zackriya-Solutions/meetily**
+- BTC: **$64,133.0** ↑ (+0.79%)
+- HN top story: **StreetComplete: Fixing OpenStreetMap, one tiny quest at a time**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-03 00:07:06 UTC | `f9316154cd6f` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-07 10:32:00 UTC | `6db6d86a5f16` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-06 19:16:17 UTC | `75d0490c0cfe` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 12 | 2026-07-07 18:00:31 UTC | `4fb78eb0ce84` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-07 18:00:33 UTC | `ae90a5869659` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-07 18:00:32 UTC | `ffe05b8561f3` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-07` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-07-07 18:35:17 IST` |
+| Last Commit (IST) | `2026-07-07 21:20:17 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-04 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-05 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-06 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| 2026-07-07 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-07-07 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,678.0 | +1.42% | 🟢 |
-| Ethereum | $1,793.13 | +0.66% | 🟢 |
-| Solana | $81.85 | +1.07% | 🟢 |
-| Bnb | $584.3 | -0.88% | 🔴 |
+| Bitcoin | $64,133.0 | +0.79% | 🟢 |
+| Ethereum | $1,808.36 | +1.21% | 🟢 |
+| Solana | $82.62 | +1.24% | 🟢 |
+| Bnb | $585.42 | +0.40% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [usestrix/strix](https://github.com/usestrix/strix) | Python | 2,137 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | 926 stars today | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 3,032 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 938 stars today | A comprehensive dataset of 433 fitness exercises. Each entry includes name, cate… |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 372 stars today | AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard,… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 897 stars today | An agentic skills framework & software development methodology that works. |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 104 stars today | Chrome DevTools for coding agents |
-| [browser-use/video-use](https://github.com/browser-use/video-use) | Python | 554 stars today | Edit videos with coding agents |
+| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | 1,781 stars today | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1,311 stars today | Production-grade engineering skills for AI coding agents. |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,122 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 1,704 stars today | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,… |
+| [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | Rust | 665 stars today | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
+| [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | HTML | 173 stars today | 💡 Download the complete source code of any website (including all assets). [ Jav… |
+| [steipete/CodexBar](https://github.com/steipete/CodexBar) | Swift | 377 stars today | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
+| [dotnet/skills](https://github.com/dotnet/skills) | C# | 82 stars today | Repository for skills to assist AI coding agents with .NET and C# |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) | 640 | 248 |
-| [CoMaps – FOSS Offline Maps](https://www.comaps.app/) | 585 | 126 |
-| [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) | 436 | 268 |
-| [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) | 226 | 89 |
-| [Dolosse – a South African invention used over the world](https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/) | 53 | 14 |
+| [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) | 421 | 91 |
+| [Amazon without the knockoffs](https://knockoff.shopping/) | 110 | 64 |
+| [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) | 71 | 11 |
+| [A better way to tie gym shorts (or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk) | 316 | 121 |
+| [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86) | 23 | 2 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

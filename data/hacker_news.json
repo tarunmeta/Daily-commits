@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-07 10:32:00 UTC",
-    "fetched_at_ist": "2026-07-07 16:02:00 IST",
+    "fetched_at_utc": "2026-07-07 18:00:33 UTC",
+    "fetched_at_ist": "2026-07-07 23:30:33 IST",
     "item_count": 5,
-    "content_hash": "6db6d86a5f16bbc15a56f825be81a460a5dce2244850754fc53b6fbe92846746",
-    "previous_hash": "3d00c352113c6aa3524d77dbdd159ca9ae49ec6edbf018b78352a9e407841c40",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "ae90a586965958f518cd70c8054892a665db97bf16db815b035ad4dba8f2e0df",
+    "previous_hash": "6db6d86a5f16bbc15a56f825be81a460a5dce2244850754fc53b6fbe92846746",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48808482,
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 640,
-      "comments": 248
+      "id": 48816883,
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://streetcomplete.app/",
+      "score": 421,
+      "comments": 91
     },
     {
-      "id": 48808928,
-      "title": "CoMaps – FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
-      "score": 585,
-      "comments": 126
+      "id": 48818963,
+      "title": "Amazon without the knockoffs",
+      "url": "https://knockoff.shopping/",
+      "score": 110,
+      "comments": 64
     },
     {
-      "id": 48809877,
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "score": 436,
-      "comments": 268
+      "id": 48819608,
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "score": 71,
+      "comments": 11
     },
     {
-      "id": 48812156,
-      "title": "How to sequence your own DNA at home",
-      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-      "score": 226,
-      "comments": 89
+      "id": 48816956,
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "score": 316,
+      "comments": 121
     },
     {
-      "id": 48786124,
-      "title": "Dolosse – a South African invention used over the world",
-      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
-      "score": 53,
-      "comments": 14
+      "id": 48820022,
+      "title": "MacSurf 1.68 – NetSurf on OS 9 Released",
+      "url": "https://github.com/mplsllc/macsurf/releases/tag/v1.86",
+      "score": 23,
+      "comments": 2
     }
   ]
 }
