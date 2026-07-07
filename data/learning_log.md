@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-08 (last updated: 23:30 IST)
+
+## 📅 2026-07-08 (last updated: 03:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-07-07 23:30:31 IST | 4fb78eb0ce84 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-07 23:30:33 IST | ae90a5869659 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-08 03:14:16 IST | ec783cec1b36 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-07 23:30:32 IST | ffe05b8561f3 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 665 stars today
 
 ### 📰 Hacker News Stories
-- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) — Score: 421
-- [Amazon without the knockoffs](https://knockoff.shopping/) — Score: 110
-- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) — Score: 71
-- [A better way to tie gym shorts (or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk) — Score: 316
-- [MacSurf 1.68 – NetSurf on OS 9 Released](https://github.com/mplsllc/macsurf/releases/tag/v1.86) — Score: 23
+- [All Cars Sold in the EU Now Require a Camera Aimed at Your Face](https://allaboutcookies.org/eu-mandatory-distracted-driver-system) — Score: 190
+- [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) — Score: 124
+- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) — Score: 609
+- [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) — Score: 311
+- [Show HN: Davit, a Apple Containers UI](https://davit.app) — Score: 87
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,133.0 🟢 +0.79%
@@ -44,15 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $585.42 🟢 +0.40%
 
 ---
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-07 (last updated: 23:30 IST)
 
 ### 🧪 Source Integrity Snapshot
