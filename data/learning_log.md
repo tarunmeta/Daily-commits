@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-07 (last updated: 04:08 IST)
+
+## 📅 2026-07-07 (last updated: 09:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-03 05:37:06 IST | f9316154cd6f | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-07 04:08:22 IST | 5d8d4d0e7c5c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-07 09:02:39 IST | 3d00c352113c | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-07 00:46:17 IST | 75d0490c0cfe | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 372 stars today
 
 ### 📰 Hacker News Stories
-- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) — Score: 318
-- [CoMaps – FOSS Offline Maps](https://www.comaps.app/) — Score: 224
-- [A global workspace in language models](https://www.anthropic.com/research/global-workspace) — Score: 202
-- [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context) — Score: 22
-- [Python 3.14 compiled to metal – no interpreter](https://github.com/can1357/pon) — Score: 90
+- [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle) — Score: 207
+- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) — Score: 473
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) — Score: 83
+- [CoMaps – FOSS Offline Maps](https://www.comaps.app/) — Score: 351
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) — Score: 218
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,678.0 🟢 +1.42%

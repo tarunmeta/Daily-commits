@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-06 22:38:22 UTC",
-    "fetched_at_ist": "2026-07-07 04:08:22 IST",
+    "fetched_at_utc": "2026-07-07 03:32:39 UTC",
+    "fetched_at_ist": "2026-07-07 09:02:39 IST",
     "item_count": 5,
-    "content_hash": "5d8d4d0e7c5c7f23964dedf616233154c34eb603510a0b9cdef9ee2e219b491a",
-    "previous_hash": "3f96490af5e40548013a0cde3f9d319e8aa34030d88fbc55699ccba19649e901",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "3d00c352113c6aa3524d77dbdd159ca9ae49ec6edbf018b78352a9e407841c40",
+    "previous_hash": "5d8d4d0e7c5c7f23964dedf616233154c34eb603510a0b9cdef9ee2e219b491a",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48811591,
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "score": 207,
+      "comments": 125
+    },
+    {
       "id": 48808482,
       "title": "OpenWrt One – Open Hardware Router",
       "url": "https://openwrt.org/toh/openwrt/one",
-      "score": 318,
-      "comments": 137
+      "score": 473,
+      "comments": 191
+    },
+    {
+      "id": 48812156,
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "score": 83,
+      "comments": 20
     },
     {
       "id": 48808928,
       "title": "CoMaps – FOSS Offline Maps",
       "url": "https://www.comaps.app/",
-      "score": 224,
-      "comments": 42
+      "score": 351,
+      "comments": 71
     },
     {
-      "id": 48808002,
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "score": 202,
-      "comments": 66
-    },
-    {
-      "id": 48809354,
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "score": 22,
-      "comments": 1
-    },
-    {
-      "id": 48809496,
-      "title": "Python 3.14 compiled to metal – no interpreter",
-      "url": "https://github.com/can1357/pon",
-      "score": 90,
-      "comments": 53
+      "id": 48809877,
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 218,
+      "comments": 141
     }
   ]
 }
