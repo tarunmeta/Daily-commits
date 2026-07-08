@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-08 15:34:27 UTC",
-    "fetched_at_ist": "2026-07-08 21:04:27 IST",
+    "fetched_at_utc": "2026-07-08 21:41:22 UTC",
+    "fetched_at_ist": "2026-07-09 03:11:22 IST",
     "item_count": 5,
-    "content_hash": "3e1b169515aedfc1f966a68d23c93bc09e62fd84aabddc4b96d7d8128f8578a3",
-    "previous_hash": "8f51ea61a3cfd80a95e594281148813a13b240b78c7d8a7913b70e40e6f0d87f",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "a1e949f37d6f72d9af4efdfdb499814700f0b3989cf5a6110eade145634a449a",
+    "previous_hash": "3e1b169515aedfc1f966a68d23c93bc09e62fd84aabddc4b96d7d8128f8578a3",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48832212,
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 98,
-      "comments": 12
-    },
-    {
-      "id": 48829312,
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "score": 884,
-      "comments": 159
-    },
-    {
-      "id": 48831565,
-      "title": "Cloudflare Meerkat - Globally distributed consensus",
-      "url": "https://blog.cloudflare.com/meerkat-introduction/",
-      "score": 71,
-      "comments": 8
-    },
-    {
-      "id": 48831658,
-      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
-      "score": 74,
-      "comments": 19
+      "id": 48837396,
+      "title": "OpenAI no longer recommends SWE-Bench Pro",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "score": 53,
+      "comments": 16
     },
     {
       "id": 48833116,
       "title": "Chatto is now Open Source",
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 6,
-      "comments": 1
+      "score": 568,
+      "comments": 155
+    },
+    {
+      "id": 48833866,
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "score": 224,
+      "comments": 117
+    },
+    {
+      "id": 48829312,
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 1201,
+      "comments": 193
+    },
+    {
+      "id": 48832212,
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "score": 360,
+      "comments": 87
     }
   ]
 }
