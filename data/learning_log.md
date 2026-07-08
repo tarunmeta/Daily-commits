@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-08 (last updated: 03:14 IST)
+
+## 📅 2026-07-08 (last updated: 09:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-07-07 23:30:31 IST | 4fb78eb0ce84 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-08 03:14:16 IST | ec783cec1b36 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-08 09:05:04 IST | 8f51ea61a3cf | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-07 23:30:32 IST | ffe05b8561f3 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 665 stars today
 
 ### 📰 Hacker News Stories
-- [All Cars Sold in the EU Now Require a Camera Aimed at Your Face](https://allaboutcookies.org/eu-mandatory-distracted-driver-system) — Score: 190
-- [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) — Score: 124
-- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) — Score: 609
-- [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) — Score: 311
-- [Show HN: Davit, a Apple Containers UI](https://davit.app) — Score: 87
+- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong) — Score: 45
+- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193) — Score: 141
+- [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) — Score: 65
+- [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) — Score: 57
+- [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211) — Score: 62
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,133.0 🟢 +0.79%
