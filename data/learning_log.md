@@ -12,13 +12,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-08 (last updated: 16:47 IST)
+
+## 📅 2026-07-08 (last updated: 21:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-07-07 23:30:31 IST | 4fb78eb0ce84 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-08 09:05:04 IST | 8f51ea61a3cf | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-08 21:04:27 IST | 3e1b169515ae | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-08 16:47:29 IST | d58e008351a4 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 665 stars today
 
 ### 📰 Hacker News Stories
-- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong) — Score: 45
-- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193) — Score: 141
-- [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) — Score: 65
-- [Structure and Interpretation of Computer Programs Video Lectures (1986)](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) — Score: 57
-- [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211) — Score: 62
+- [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/) — Score: 98
+- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/) — Score: 884
+- [Cloudflare Meerkat - Globally distributed consensus](https://blog.cloudflare.com/meerkat-introduction/) — Score: 71
+- [OpenBSD has a use-after-free allowing local privilege escalation to root](https://nvd.nist.gov/vuln/detail/cve-2026-57589) — Score: 74
+- [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source) — Score: 6
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,059.0 🔴 -1.69%
