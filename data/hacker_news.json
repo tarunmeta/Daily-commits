@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-09 10:31:41 UTC",
-    "fetched_at_ist": "2026-07-09 16:01:41 IST",
+    "fetched_at_utc": "2026-07-09 13:36:36 UTC",
+    "fetched_at_ist": "2026-07-09 19:06:36 IST",
     "item_count": 5,
-    "content_hash": "68911863cf3c07aa0e5babd58030252fbf68058764d8806fc31821956542da3d",
-    "previous_hash": "eedc9e564fe8a267805baecd7af2612573caf7c4944c250b92f308b622eb0491",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "09586522f275a9befaa07e212001156c95df2699024a8e6df02d0612bb2e6151",
+    "previous_hash": "68911863cf3c07aa0e5babd58030252fbf68058764d8806fc31821956542da3d",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48845049,
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 75,
+      "comments": 36
+    },
+    {
       "id": 48838876,
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 859,
-      "comments": 164
+      "score": 1097,
+      "comments": 218
+    },
+    {
+      "id": 48843923,
+      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "score": 240,
+      "comments": 111
+    },
+    {
+      "id": 48843438,
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "score": 165,
+      "comments": 62
     },
     {
       "id": 48841259,
       "title": "Spider venom kills varroa mites without harming honeybees",
       "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "score": 129,
-      "comments": 59
-    },
-    {
-      "id": 48842611,
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-      "score": 115,
-      "comments": 69
-    },
-    {
-      "id": 48778956,
-      "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
-      "score": 35,
-      "comments": 4
-    },
-    {
-      "id": 48800596,
-      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "url": "https://nexte.st/",
-      "score": 107,
-      "comments": 30
+      "score": 205,
+      "comments": 82
     }
   ]
 }
