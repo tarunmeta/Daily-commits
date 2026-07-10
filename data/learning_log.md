@@ -12,44 +12,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-10 (last updated: 19:13 IST)
+
+## 📅 2026-07-10 (last updated: 23:31 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-07-07 23:30:31 IST | 4fb78eb0ce84 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-10 19:13:53 IST | 89b932bc44ba | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-10 04:49:27 IST | 881a61ab25bd | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-07-10 23:31:02 IST | dc7e139ca589 | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-10 23:31:04 IST | 46dd77e8a4b1 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-10 23:31:02 IST | e011c262a485 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)** (Rust) — Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr  
-  ⭐ 1,781 stars today
+- **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** (TypeScript) — This is MCP server for Claude that gives it terminal control, file system search  
+  ⭐ 349 stars today
+- **[oven-sh/bun](https://github.com/oven-sh/bun)** (Rust) — Incredibly fast JavaScript runtime, bundler, test runner, and package manager –   
+  ⭐ 307 stars today
+- **[abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)** (C++) — Abseil Common Libraries (C++)  
+  ⭐ 106 stars today
 - **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)** (JavaScript) — Production-grade engineering skills for AI coding agents.  
-  ⭐ 1,311 stars today
-- **[ruvnet/RuView](https://github.com/ruvnet/RuView)** (Rust) — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital  
-  ⭐ 1,122 stars today
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** (JavaScript) — Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,  
-  ⭐ 1,704 stars today
-- **[TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** (Rust) — Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.  
-  ⭐ 665 stars today
+  ⭐ 1,114 stars today
+- **[jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)** (C++) — A YAML parser and emitter in C++  
+  ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) — Score: 58
-- [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) — Score: 76
-- [GPT-5.6](https://openai.com/index/gpt-5-6/) — Score: 1397
-- [In Emacs, Everything Looks Like a Service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html) — Score: 81
-- [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/) — Score: 34
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 145
+- [Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/) — Score: 54
+- [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) — Score: 40
+- [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/) — Score: 64
+- [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) — Score: 232
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,090.0 🟢 +1.37%
-- Ethereum: $1,743.58 🟢 +0.23%
-- Solana: $77.94 🟢 +0.53%
-- Bnb: $568.87 🟢 +0.27%
+- Bitcoin: $63,799.0 🟢 +1.12%
+- Ethereum: $1,787.4 🟢 +2.28%
+- Solana: $77.59 🔴 -0.55%
+- Bnb: $575.61 🟢 +0.79%
 
 ---
 ## 📅 2026-07-09 (last updated: 23:47 IST)

@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-10 13:43:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-10 18:01:04 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Zackriya-Solutions/meetily**
-- BTC: **$63,090.0** ↑ (+1.37%)
-- HN top story: **Late Bronze Age Collapse**
+- Top GitHub repo: **wonderwhy-er/DesktopCommanderMCP**
+- BTC: **$63,799.0** ↑ (+1.12%)
+- HN top story: **QuadRF can spot drones and see WiFi through my wall**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-07-07 18:00:31 UTC | `4fb78eb0ce84` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-10 13:43:53 UTC | `89b932bc44ba` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-09 23:19:27 UTC | `881a61ab25bd` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 19 | 2026-07-10 18:01:02 UTC | `dc7e139ca589` | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-10 18:01:04 UTC | `46dd77e8a4b1` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-10 18:01:02 UTC | `e011c262a485` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-10` |
-| Commits Today | `9` / `100` |
-| Remaining Today | `91` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Commits Today | `10` / `100` |
+| Remaining Today | `90` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-07-10 19:13:53 IST` |
+| Last Commit (IST) | `2026-07-10 21:37:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-07 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-08 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-09 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
-| 2026-07-10 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| 2026-07-10 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,090.0 | +1.37% | 🟢 |
-| Ethereum | $1,743.58 | +0.23% | 🟢 |
-| Solana | $77.94 | +0.53% | 🟢 |
-| Bnb | $568.87 | +0.27% | 🟢 |
+| Bitcoin | $63,799.0 | +1.12% | 🟢 |
+| Ethereum | $1,787.4 | +2.28% | 🟢 |
+| Solana | $77.59 | -0.55% | 🔴 |
+| Bnb | $575.61 | +0.79% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | 1,781 stars today | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1,311 stars today | Production-grade engineering skills for AI coding agents. |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 1,122 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 1,704 stars today | Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,… |
-| [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | Rust | 665 stars today | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
-| [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | HTML | 173 stars today | 💡 Download the complete source code of any website (including all assets). [ Jav… |
-| [steipete/CodexBar](https://github.com/steipete/CodexBar) | Swift | 377 stars today | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
-| [dotnet/skills](https://github.com/dotnet/skills) | C# | 82 stars today | Repository for skills to assist AI coding agents with .NET and C# |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 349 stars today | This is MCP server for Claude that gives it terminal control, file system search… |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 307 stars today | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – … |
+| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 106 stars today | Abseil Common Libraries (C++) |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1,114 stars today | Production-grade engineering skills for AI coding agents. |
+| [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | C++ | 65 stars today | A YAML parser and emitter in C++ |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,728 stars today | Skills for Real Engineers. Straight from my .claude directory. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,096 stars today | An agentic skills framework & software development methodology that works. |
+| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript | 166 stars today | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) | 58 | 15 |
-| [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) | 76 | 49 |
-| [GPT-5.6](https://openai.com/index/gpt-5-6/) | 1397 | 968 |
-| [In Emacs, Everything Looks Like a Service](http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html) | 81 | 44 |
-| [The mathematical secrets of Barcelona's Sagrada Familia](https://mappingignorance.org/2026/06/30/sagrada-familia/) | 34 | 4 |
+| [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) | 145 | 49 |
+| [Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/) | 54 | 27 |
+| [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) | 40 | 7 |
+| [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/) | 64 | 32 |
+| [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) | 232 | 134 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-10 13:43:53 UTC",
-    "fetched_at_ist": "2026-07-10 19:13:53 IST",
+    "fetched_at_utc": "2026-07-10 18:01:04 UTC",
+    "fetched_at_ist": "2026-07-10 23:31:04 IST",
     "item_count": 5,
-    "content_hash": "89b932bc44bae1df298672329bb60f24228aeafdbb26032a0ce122ef68a2c785",
-    "previous_hash": "7253edf0c6ff74f622f0f999fa1fc85302c20483c63061d539d10525000fad21",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "46dd77e8a4b15030f6cadea9fcf8eaa470c760dbe2c6a98172d8ee94379ce15b",
+    "previous_hash": "89b932bc44bae1df298672329bb60f24228aeafdbb26032a0ce122ef68a2c785",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48858737,
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "score": 58,
-      "comments": 15
-    },
-    {
-      "id": 48858121,
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-      "score": 76,
+      "id": 48861717,
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 145,
       "comments": 49
     },
     {
-      "id": 48849066,
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "score": 1397,
-      "comments": 968
+      "id": 48862252,
+      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "score": 54,
+      "comments": 27
     },
     {
-      "id": 48857230,
-      "title": "In Emacs, Everything Looks Like a Service",
-      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
-      "score": 81,
-      "comments": 44
+      "id": 48862365,
+      "title": "The tech of 'Terminator 2' – an oral history (2017)",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "score": 40,
+      "comments": 7
     },
     {
-      "id": 48772528,
-      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
-      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
-      "score": 34,
-      "comments": 4
+      "id": 48861319,
+      "title": "A Love Letter to Flashcards",
+      "url": "https://lesleylai.info/en/flashcards/",
+      "score": 64,
+      "comments": 32
+    },
+    {
+      "id": 48858737,
+      "title": "Late Bronze Age Collapse",
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "score": 232,
+      "comments": 134
     }
   ]
 }
