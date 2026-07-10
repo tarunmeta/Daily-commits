@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-10 08:41:05 UTC",
-    "fetched_at_ist": "2026-07-10 14:11:05 IST",
+    "fetched_at_utc": "2026-07-10 11:33:40 UTC",
+    "fetched_at_ist": "2026-07-10 17:03:40 IST",
     "item_count": 5,
-    "content_hash": "e0771dc367292ea16679f549919065c473da419fb684af6f6733e9193bd56d3c",
-    "previous_hash": "09586522f275a9befaa07e212001156c95df2699024a8e6df02d0612bb2e6151",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "7253edf0c6ff74f622f0f999fa1fc85302c20483c63061d539d10525000fad21",
+    "previous_hash": "e0771dc367292ea16679f549919065c473da419fb684af6f6733e9193bd56d3c",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48849066,
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "score": 1332,
+      "comments": 925
+    },
+    {
+      "id": 48857230,
+      "title": "In Emacs, Everything Looks Like a Service",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "score": 42,
+      "comments": 6
+    },
+    {
       "id": 48842459,
       "title": "Show HN: Getting GLM 5.2 running on my slow computer",
       "url": "https://github.com/JustVugg/colibri",
-      "score": 637,
-      "comments": 147
+      "score": 721,
+      "comments": 176
     },
     {
       "id": 48843923,
       "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 1339,
-      "comments": 631
+      "score": 1436,
+      "comments": 688
     },
     {
       "id": 48792383,
       "title": "Train sim created by just one person is being called the best ever made",
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "score": 542,
-      "comments": 197
-    },
-    {
-      "id": 48845049,
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 976,
-      "comments": 316
-    },
-    {
-      "id": 48856904,
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "url": "https://nevo-project.epfl.ch/",
-      "score": 13,
-      "comments": 12
+      "score": 648,
+      "comments": 243
     }
   ]
 }
