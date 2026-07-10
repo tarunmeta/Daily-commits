@@ -5,14 +5,15 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-11 (last updated: 23:31 IST)
+
+## 📅 2026-07-11 (last updated: 03:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-10 23:31:02 IST | dc7e139ca589 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-10 23:31:04 IST | 46dd77e8a4b1 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-10 23:31:02 IST | e011c262a485 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-11 03:45:51 IST | 0297496ead73 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) — Score: 232
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,799.0 🟢 +1.12%
-- Ethereum: $1,787.4 🟢 +2.28%
-- Solana: $77.59 🔴 -0.55%
-- Bnb: $575.61 🟢 +0.79%
+- Bitcoin: $64,001.0 🟢 +1.15%
+- Ethereum: $1,794.49 🟢 +2.66%
+- Solana: $78.01 🔴 -0.01%
+- Bnb: $575.87 🟢 +1.06%
 
 ---
 ## 📅 2026-07-10 (last updated: 23:31 IST)
