@@ -8,13 +8,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-10 (last updated: 04:49 IST)
+
+## 📅 2026-07-10 (last updated: 14:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-07-07 23:30:31 IST | 4fb78eb0ce84 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-09 19:06:36 IST | 09586522f275 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-10 14:11:05 IST | e0771dc36729 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-10 04:49:27 IST | 881a61ab25bd | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 665 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: 18 Words](https://18words.com/) — Score: 75
-- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) — Score: 1097
-- [EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose out"](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) — Score: 240
-- [Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75](https://www.bbc.com/news/articles/cg5pd9z2487o) — Score: 165
-- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming) — Score: 205
+- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) — Score: 637
+- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) — Score: 1339
+- [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429) — Score: 542
+- [Show HN: 18 Words](https://18words.com/) — Score: 976
+- [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/) — Score: 13
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,090.0 🟢 +1.37%

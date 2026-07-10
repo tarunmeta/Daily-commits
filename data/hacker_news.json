@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-09 13:36:36 UTC",
-    "fetched_at_ist": "2026-07-09 19:06:36 IST",
+    "fetched_at_utc": "2026-07-10 08:41:05 UTC",
+    "fetched_at_ist": "2026-07-10 14:11:05 IST",
     "item_count": 5,
-    "content_hash": "09586522f275a9befaa07e212001156c95df2699024a8e6df02d0612bb2e6151",
-    "previous_hash": "68911863cf3c07aa0e5babd58030252fbf68058764d8806fc31821956542da3d",
+    "content_hash": "e0771dc367292ea16679f549919065c473da419fb684af6f6733e9193bd56d3c",
+    "previous_hash": "09586522f275a9befaa07e212001156c95df2699024a8e6df02d0612bb2e6151",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48845049,
-      "title": "Show HN: 18 Words",
-      "url": "https://18words.com/",
-      "score": 75,
-      "comments": 36
-    },
-    {
-      "id": 48838876,
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 1097,
-      "comments": 218
+      "id": 48842459,
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "score": 637,
+      "comments": 147
     },
     {
       "id": 48843923,
-      "title": "EU Parliament greenlights Chat Control 1.0 – Breyer: \"Our children lose out\"",
+      "title": "EU Parliament greenlights Chat Control 1.0",
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "score": 240,
-      "comments": 111
+      "score": 1339,
+      "comments": 631
     },
     {
-      "id": 48843438,
-      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-      "score": 165,
-      "comments": 62
+      "id": 48792383,
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "score": 542,
+      "comments": 197
     },
     {
-      "id": 48841259,
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "score": 205,
-      "comments": 82
+      "id": 48845049,
+      "title": "Show HN: 18 Words",
+      "url": "https://18words.com/",
+      "score": 976,
+      "comments": 316
+    },
+    {
+      "id": 48856904,
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "score": 13,
+      "comments": 12
     }
   ]
 }
