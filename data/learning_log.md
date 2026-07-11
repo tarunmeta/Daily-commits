@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-12 (last updated: 23:59 IST)
+
+## 📅 2026-07-12 (last updated: 02:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-10 23:31:02 IST | dc7e139ca589 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-11 12:07:49 IST | 3a0d6d6f86a8 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-12 02:02:03 IST | f55175d861fb | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-11 23:59:07 IST | 0cb7855127b3 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) — Score: 190
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 530
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) — Score: 889
-- [The Vintage Beauty of Soviet Control Rooms](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) — Score: 8
-- [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan) — Score: 75
+- [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) — Score: 117
+- [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/) — Score: 52
+- [Show HN: Ant – A JavaScript Runtime and Ecosystem](https://antjs.org) — Score: 11
+- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 135
+- [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) — Score: 60
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,302.0 🟢 +0.65%
@@ -44,21 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $580.49 🟢 +0.70%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-11 (last updated: 23:59 IST)
 
 ### 🧪 Source Integrity Snapshot

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-11 06:37:49 UTC",
-    "fetched_at_ist": "2026-07-11 12:07:49 IST",
+    "fetched_at_utc": "2026-07-11 20:32:03 UTC",
+    "fetched_at_ist": "2026-07-12 02:02:03 IST",
     "item_count": 5,
-    "content_hash": "3a0d6d6f86a8a49a22a1f913e249c72dce195b799e1561a6943fd9c49d0b6862",
-    "previous_hash": "46dd77e8a4b15030f6cadea9fcf8eaa470c760dbe2c6a98172d8ee94379ce15b",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "f55175d861fb0162908f1fc69bf60617cb595d735010a663d6f12b90fb0063ad",
+    "previous_hash": "3a0d6d6f86a8a49a22a1f913e249c72dce195b799e1561a6943fd9c49d0b6862",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48866134,
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "score": 190,
-      "comments": 65
+      "id": 48873940,
+      "title": "Prefer Strict Tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "score": 117,
+      "comments": 42
     },
     {
-      "id": 48861717,
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "score": 530,
-      "comments": 185
+      "id": 48874182,
+      "title": "Who manages the agents?",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "score": 52,
+      "comments": 37
     },
     {
-      "id": 48865019,
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "score": 889,
-      "comments": 445
-    },
-    {
-      "id": 48868996,
-      "title": "The Vintage Beauty of Soviet Control Rooms",
-      "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
-      "score": 8,
+      "id": 48875377,
+      "title": "Show HN: Ant – A JavaScript Runtime and Ecosystem",
+      "url": "https://antjs.org",
+      "score": 11,
       "comments": 0
     },
     {
-      "id": 48817539,
-      "title": "An iroh powered smart fan",
-      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-      "score": 75,
-      "comments": 9
+      "id": 48872874,
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "score": 135,
+      "comments": 15
+    },
+    {
+      "id": 48873836,
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 60,
+      "comments": 20
     }
   ]
 }
