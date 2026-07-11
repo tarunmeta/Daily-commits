@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-11 21:32:47 UTC",
-    "fetched_at_ist": "2026-07-12 03:02:47 IST",
+    "fetched_at_utc": "2026-07-11 22:30:25 UTC",
+    "fetched_at_ist": "2026-07-12 04:00:25 IST",
     "item_count": 5,
-    "content_hash": "9ad106904b25f2987b8c0ecd9c17d6fba11dad641a26b7de35cc208df9e6cec9",
-    "previous_hash": "f55175d861fb0162908f1fc69bf60617cb595d735010a663d6f12b90fb0063ad",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "645749d6bdcdea9fbd966dc4dc413ff6594ea3873d2ccf22d026950f24999ce2",
+    "previous_hash": "9ad106904b25f2987b8c0ecd9c17d6fba11dad641a26b7de35cc208df9e6cec9",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48875377,
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
-      "score": 83,
+      "score": 121,
+      "comments": 49
+    },
+    {
+      "id": 48873836,
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 111,
       "comments": 37
     },
     {
       "id": 48872874,
       "title": "We scaled PgBouncer to 4x throughput",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 146,
-      "comments": 19
-    },
-    {
-      "id": 48873836,
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 79,
-      "comments": 29
+      "score": 158,
+      "comments": 28
     },
     {
       "id": 48873457,
       "title": "UPI: Anatomy of a Payment Transaction",
       "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "score": 51,
-      "comments": 15
+      "score": 60,
+      "comments": 20
     },
     {
       "id": 48873940,
       "title": "Prefer strict tables in SQLite",
       "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 150,
-      "comments": 56
+      "score": 175,
+      "comments": 68
     }
   ]
 }
