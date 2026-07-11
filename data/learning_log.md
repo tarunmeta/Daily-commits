@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-11 (last updated: 09:58 IST)
+
+## 📅 2026-07-11 (last updated: 12:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-10 23:31:02 IST | dc7e139ca589 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-10 23:31:04 IST | 46dd77e8a4b1 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-11 12:07:49 IST | 3a0d6d6f86a8 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-11 09:58:23 IST | 87cf95dd9bdf | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 145
-- [Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/) — Score: 54
-- [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) — Score: 40
-- [A Love Letter to Flashcards](https://lesleylai.info/en/flashcards/) — Score: 64
-- [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) — Score: 232
+- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) — Score: 190
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Score: 530
+- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) — Score: 889
+- [The Vintage Beauty of Soviet Control Rooms](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) — Score: 8
+- [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan) — Score: 75
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,108.0 🟢 +0.38%
