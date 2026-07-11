@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-11 22:30:25 UTC",
-    "fetched_at_ist": "2026-07-12 04:00:25 IST",
+    "fetched_at_utc": "2026-07-11 23:36:38 UTC",
+    "fetched_at_ist": "2026-07-12 05:06:38 IST",
     "item_count": 5,
-    "content_hash": "645749d6bdcdea9fbd966dc4dc413ff6594ea3873d2ccf22d026950f24999ce2",
-    "previous_hash": "9ad106904b25f2987b8c0ecd9c17d6fba11dad641a26b7de35cc208df9e6cec9",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "d00a07549a5648cf3724aaa26da43940c02bc077b816268d8179df23a4725190",
+    "previous_hash": "645749d6bdcdea9fbd966dc4dc413ff6594ea3873d2ccf22d026950f24999ce2",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48876441,
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "score": 76,
+      "comments": 38
+    },
+    {
+      "id": 48876593,
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "score": 38,
+      "comments": 20
+    },
     {
       "id": 48875377,
       "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
-      "score": 121,
-      "comments": 49
+      "score": 150,
+      "comments": 67
     },
     {
-      "id": 48873836,
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 111,
-      "comments": 37
+      "id": 48876505,
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 21,
+      "comments": 8
     },
     {
-      "id": 48872874,
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 158,
-      "comments": 28
-    },
-    {
-      "id": 48873457,
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "score": 60,
-      "comments": 20
-    },
-    {
-      "id": 48873940,
-      "title": "Prefer strict tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 175,
-      "comments": 68
+      "id": 48876245,
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "score": 20,
+      "comments": 4
     }
   ]
 }

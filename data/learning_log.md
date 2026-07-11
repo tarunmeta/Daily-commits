@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-12 (last updated: 04:00 IST)
+
+## 📅 2026-07-12 (last updated: 05:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-10 23:31:02 IST | dc7e139ca589 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-12 04:00:25 IST | 645749d6bdcd | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-12 05:06:38 IST | d00a07549a56 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-11 23:59:07 IST | 0cb7855127b3 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) — Score: 121
-- [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) — Score: 111
-- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 158
-- [UPI: Anatomy of a Payment Transaction](https://timeseriesofindia.com/economy/reads/upi-architecture/) — Score: 60
-- [Prefer strict tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) — Score: 175
+- [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/) — Score: 76
+- [Weightlifting beats running for blood sugar control, researchers find](https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html) — Score: 38
+- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) — Score: 150
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) — Score: 21
+- [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) — Score: 20
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,302.0 🟢 +0.65%
