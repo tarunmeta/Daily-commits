@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-11 20:32:03 UTC",
-    "fetched_at_ist": "2026-07-12 02:02:03 IST",
+    "fetched_at_utc": "2026-07-11 21:32:47 UTC",
+    "fetched_at_ist": "2026-07-12 03:02:47 IST",
     "item_count": 5,
-    "content_hash": "f55175d861fb0162908f1fc69bf60617cb595d735010a663d6f12b90fb0063ad",
-    "previous_hash": "3a0d6d6f86a8a49a22a1f913e249c72dce195b799e1561a6943fd9c49d0b6862",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "9ad106904b25f2987b8c0ecd9c17d6fba11dad641a26b7de35cc208df9e6cec9",
+    "previous_hash": "f55175d861fb0162908f1fc69bf60617cb595d735010a663d6f12b90fb0063ad",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48873940,
-      "title": "Prefer Strict Tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "score": 117,
-      "comments": 42
-    },
-    {
-      "id": 48874182,
-      "title": "Who manages the agents?",
-      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "score": 52,
-      "comments": 37
-    },
-    {
       "id": 48875377,
-      "title": "Show HN: Ant – A JavaScript Runtime and Ecosystem",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
       "url": "https://antjs.org",
-      "score": 11,
-      "comments": 0
+      "score": 83,
+      "comments": 37
     },
     {
       "id": 48872874,
       "title": "We scaled PgBouncer to 4x throughput",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "score": 135,
-      "comments": 15
+      "score": 146,
+      "comments": 19
     },
     {
       "id": 48873836,
       "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
       "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "score": 60,
-      "comments": 20
+      "score": 79,
+      "comments": 29
+    },
+    {
+      "id": 48873457,
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "score": 51,
+      "comments": 15
+    },
+    {
+      "id": 48873940,
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "score": 150,
+      "comments": 56
     }
   ]
 }

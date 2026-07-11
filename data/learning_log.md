@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-12 (last updated: 02:02 IST)
+
+## 📅 2026-07-12 (last updated: 03:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-10 23:31:02 IST | dc7e139ca589 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-12 02:02:03 IST | f55175d861fb | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-12 03:02:47 IST | 9ad106904b25 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-11 23:59:07 IST | 0cb7855127b3 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) — Score: 117
-- [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/) — Score: 52
-- [Show HN: Ant – A JavaScript Runtime and Ecosystem](https://antjs.org) — Score: 11
-- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 135
-- [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) — Score: 60
+- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) — Score: 83
+- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres) — Score: 146
+- [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) — Score: 79
+- [UPI: Anatomy of a Payment Transaction](https://timeseriesofindia.com/economy/reads/upi-architecture/) — Score: 51
+- [Prefer strict tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/) — Score: 150
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,302.0 🟢 +0.65%
