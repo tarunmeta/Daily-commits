@@ -10,14 +10,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-11 (last updated: 12:07 IST)
+
+## 📅 2026-07-11 (last updated: 13:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-10 23:31:02 IST | dc7e139ca589 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-11 12:07:49 IST | 3a0d6d6f86a8 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-11 09:58:23 IST | 87cf95dd9bdf | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-11 13:58:23 IST | 3721cbdab262 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan) — Score: 75
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,108.0 🟢 +0.38%
-- Ethereum: $1,796.04 🟢 +1.26%
-- Solana: $77.68 🔴 -1.53%
-- Bnb: $574.89 🟢 +0.00%
+- Bitcoin: $64,206.0 🔴 -0.09%
+- Ethereum: $1,799.87 🟢 +0.91%
+- Solana: $78.0 🔴 -1.58%
+- Bnb: $577.3 🟢 +0.20%
 
 ---
 ## 📅 2026-07-10 (last updated: 23:31 IST)
