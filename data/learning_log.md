@@ -18,14 +18,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-12 (last updated: 22:47 IST)
+
+## 📅 2026-07-12 (last updated: 23:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-12 17:30:24 IST | 9005e1310d33 | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-12 17:30:26 IST | d5dcdb8a832d | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-12 22:47:44 IST | a6702ced8d39 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-12 23:57:08 IST | 1d6ef15a0783 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
@@ -52,10 +53,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Woman in Brazil enslaved for 55 years by 3 generations of the same family](https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html) — Score: 31
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,100.0 🔴 -0.15%
-- Ethereum: $1,818.8 🔴 -0.07%
-- Solana: $77.45 🔴 -0.54%
-- Bnb: $579.13 🔴 -0.11%
+- Bitcoin: $63,994.0 🔴 -0.47%
+- Ethereum: $1,815.52 🔴 -0.49%
+- Solana: $77.23 🔴 -1.17%
+- Bnb: $578.86 🔴 -0.29%
 
 ---
 ## 📅 2026-07-11 (last updated: 23:59 IST)
