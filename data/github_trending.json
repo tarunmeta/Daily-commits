@@ -2,128 +2,116 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-10 18:01:02 UTC",
-    "fetched_at_ist": "2026-07-10 23:31:02 IST",
-    "item_count": 19,
-    "content_hash": "dc7e139ca5891f4b9360d94ef37fa03e37d2556093191af25ecefdb116e93b3c",
-    "previous_hash": "4fb78eb0ce843143da0851079ab365396e7af35ace430abdb68c269aaa7228a6",
-    "new_repos_vs_previous": 17,
+    "fetched_at_utc": "2026-07-12 12:00:24 UTC",
+    "fetched_at_ist": "2026-07-12 17:30:24 IST",
+    "item_count": 17,
+    "content_hash": "9005e1310d339b04112ff05653fa3ce726ff9b806c1f9c551c78d8d9cc8d7817",
+    "previous_hash": "dc7e139ca5891f4b9360d94ef37fa03e37d2556093191af25ecefdb116e93b3c",
+    "new_repos_vs_previous": 15,
     "top_repo_changed": true
   },
   "repos": [
     {
+      "name": "Dicklesworthstone/destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "language": "Rust",
+      "stars_today": "444 stars today"
+    },
+    {
       "name": "wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars_today": "349 stars today"
+      "stars_today": "207 stars today"
     },
     {
-      "name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars_today": "307 stars today"
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars_today": "776 stars today"
     },
     {
-      "name": "abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "stars_today": "106 stars today"
+      "name": "PrefectHQ/prefect",
+      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "language": "Python",
+      "stars_today": "55 stars today"
     },
     {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars_today": "1,114 stars today"
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars_today": "549 stars today"
     },
     {
-      "name": "jbeder/yaml-cpp",
-      "description": "A YAML parser and emitter in C++",
-      "language": "C++",
-      "stars_today": "65 stars today"
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars_today": "464 stars today"
     },
     {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars_today": "1,728 stars today"
+      "name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars_today": "404 stars today"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "1,096 stars today"
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "name": "Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars_today": "166 stars today"
+      "stars_today": "122 stars today"
     },
     {
-      "name": "catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "stars_today": "69 stars today"
-    },
-    {
-      "name": "chriskohlhoff/asio",
-      "description": "Asio C++ Library",
-      "language": "C++",
-      "stars_today": "87 stars today"
-    },
-    {
-      "name": "TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "name": "ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
       "language": "TypeScript",
-      "stars_today": "134 stars today"
+      "stars_today": "9 stars today"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "language": "C#",
+      "stars_today": "661 stars today"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars_today": "79 stars today"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars_today": "109 stars today"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "language": "Dart",
+      "stars_today": "151 stars today"
     },
     {
       "name": "davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars_today": "104 stars today"
+      "stars_today": "274 stars today"
     },
     {
-      "name": "zeux/meshoptimizer",
-      "description": "Mesh optimization library that makes meshes smaller and faster to render",
-      "language": "C++",
-      "stars_today": "86 stars today"
-    },
-    {
-      "name": "tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
-      "language": "Go",
-      "stars_today": "183 stars today"
-    },
-    {
-      "name": "google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "stars_today": "101 stars today"
-    },
-    {
-      "name": "iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "name": "par274/sharpemu",
+      "description": "An experimental PlayStation 5 emulator project.",
       "language": "C#",
-      "stars_today": "1,210 stars today"
+      "stars_today": "436 stars today"
     },
     {
-      "name": "hashicorp/terraform",
-      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
-      "language": "Go",
-      "stars_today": "168 stars today"
+      "name": "malisper/pgrust",
+      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "language": "Rust",
+      "stars_today": "518 stars today"
     },
     {
-      "name": "grpc/grpc",
-      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-      "language": "C++",
-      "stars_today": "68 stars today"
-    },
-    {
-      "name": "vercel/next.js",
-      "description": "The React Framework",
-      "language": "JavaScript",
-      "stars_today": "176 stars today"
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars_today": "210 stars today"
     }
   ]
 }

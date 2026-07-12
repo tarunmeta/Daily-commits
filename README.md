@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-12 09:26:39 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-12 12:00:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **wonderwhy-er/DesktopCommanderMCP**
-- BTC: **$63,755.0** ↓ (-0.71%)
-- HN top story: **We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture**
+- Top GitHub repo: **Dicklesworthstone/destructive_command_guard**
+- BTC: **$63,972.0** ↓ (-0.27%)
+- HN top story: **Old and new apps, via modern coding agents by Terry Tao**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-07-10 18:01:02 UTC | `dc7e139ca589` | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-12 04:42:01 UTC | `5feb87493b22` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-12 09:26:39 UTC | `f9706e5cc6d5` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-07-12 12:00:24 UTC | `9005e1310d33` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-12 12:00:26 UTC | `d5dcdb8a832d` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-12 12:00:24 UTC | `e0d7ecf490ca` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +17 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-12` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-07-12 14:56:39 IST` |
+| Last Commit (IST) | `2026-07-12 16:25:06 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-09 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-10 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-11 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-07-12 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-07-12 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,755.0 | -0.71% | 🔴 |
-| Ethereum | $1,796.67 | -0.09% | 🔴 |
-| Solana | $76.42 | -2.05% | 🔴 |
-| Bnb | $572.18 | -1.00% | 🔴 |
+| Bitcoin | $63,972.0 | -0.27% | 🔴 |
+| Ethereum | $1,803.32 | +0.25% | 🟢 |
+| Solana | $77.05 | -1.24% | 🔴 |
+| Bnb | $579.58 | +0.16% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 349 stars today | This is MCP server for Claude that gives it terminal control, file system search… |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | 307 stars today | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – … |
-| [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | 106 stars today | Abseil Common Libraries (C++) |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1,114 stars today | Production-grade engineering skills for AI coding agents. |
-| [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | C++ | 65 stars today | A YAML parser and emitter in C++ |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,728 stars today | Skills for Real Engineers. Straight from my .claude directory. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 1,096 stars today | An agentic skills framework & software development methodology that works. |
-| [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript | 166 stars today | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 444 stars today | The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm… |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 207 stars today | This is MCP server for Claude that gives it terminal control, file system search… |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 776 stars today | "Vibe-Trading: Your Personal Trading Agent" |
+| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Python | 55 stars today | Prefect is a workflow orchestration framework for building resilient data pipeli… |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 549 stars today | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | 464 stars today | A collection of notebooks/recipes showcasing some fun and effective ways of usin… |
+| [home-assistant/core](https://github.com/home-assistant/core) | Python | 404 stars today | 🏡 Open source home automation that puts local control and privacy first. |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 122 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) | 43 | 8 |
-| [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) | 160 | 36 |
-| [A pure scheme web programming tool](https://goeteia.dev) | 50 | 16 |
-| [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) | 213 | 91 |
-| [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) | 88 | 17 |
+| [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) | 23 | 1 |
+| [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/) | 118 | 75 |
+| [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk) | 86 | 40 |
+| [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) | 275 | 63 |
+| [Woman in Brazil enslaved for 55 years by 3 generations of the same family](https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html) | 31 | 8 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
