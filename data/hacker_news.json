@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-12 12:00:26 UTC",
-    "fetched_at_ist": "2026-07-12 17:30:26 IST",
+    "fetched_at_utc": "2026-07-12 19:41:10 UTC",
+    "fetched_at_ist": "2026-07-13 01:11:10 IST",
     "item_count": 5,
-    "content_hash": "d5dcdb8a832daacd93ac05018596b1ffd238906158a7e3d89f00cd1346bb88df",
-    "previous_hash": "5feb87493b22b466f4e3ac283c2c5a2c665950848f9d6b0a68b4097ba7dd3330",
+    "content_hash": "9e7dae66f1f03fff4f026b242e2ae89b00c15f42e6640217e88ee3d7f84904c9",
+    "previous_hash": "d5dcdb8a832daacd93ac05018596b1ffd238906158a7e3d89f00cd1346bb88df",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48883275,
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 135,
+      "comments": 76
+    },
+    {
+      "id": 48883343,
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 67,
+      "comments": 29
+    },
+    {
+      "id": 48881874,
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "score": 124,
+      "comments": 101
+    },
+    {
       "id": 48880170,
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 23,
-      "comments": 1
+      "score": 350,
+      "comments": 100
     },
     {
-      "id": 48854168,
-      "title": "Vint Cerf, a “father of the Internet”, is retiring",
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "score": 118,
-      "comments": 75
-    },
-    {
-      "id": 48878682,
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "score": 86,
-      "comments": 40
-    },
-    {
-      "id": 48876505,
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 275,
-      "comments": 63
-    },
-    {
-      "id": 48880209,
-      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
-      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
-      "score": 31,
-      "comments": 8
+      "id": 48881830,
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "score": 132,
+      "comments": 62
     }
   ]
 }

@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-07-13 (last updated: 01:11 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 17 | 2026-07-12 17:30:24 IST | 9005e1310d33 | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-13 01:11:10 IST | 9e7dae66f1f0 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-12 23:57:08 IST | 1d6ef15a0783 | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** (Rust) — The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm  
+  ⭐ 444 stars today
+- **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** (TypeScript) — This is MCP server for Claude that gives it terminal control, file system search  
+  ⭐ 207 stars today
+- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** (Python) — "Vibe-Trading: Your Personal Trading Agent"  
+  ⭐ 776 stars today
+- **[PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)** (Python) — Prefect is a workflow orchestration framework for building resilient data pipeli  
+  ⭐ 55 stars today
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** (Python) — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
+  ⭐ 549 stars today
+
+### 📰 Hacker News Stories
+- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) — Score: 135
+- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) — Score: 67
+- [The shingles vaccine may reduce the risk of dementia](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain) — Score: 124
+- [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — Score: 350
+- [Don't you mean extinct?](https://fabiensanglard.net/extinct/index.html) — Score: 132
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $63,994.0 🔴 -0.47%
+- Ethereum: $1,815.52 🔴 -0.49%
+- Solana: $77.23 🔴 -1.17%
+- Bnb: $578.86 🔴 -0.29%
+
+---
 
 
 
