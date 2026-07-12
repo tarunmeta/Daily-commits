@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-12 20:27:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-12 21:25:46 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Dicklesworthstone/destructive_command_guard**
-- BTC: **$64,159.0** ↓ (-0.22%)
+- BTC: **$64,075.0** ↓ (-0.42%)
 - HN top story: **Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-12 12:00:24 UTC | `9005e1310d33` | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-12 19:41:10 UTC | `9e7dae66f1f0` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-12 20:27:54 UTC | `fdffa3f27ceb` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-12 21:25:46 UTC | `6b4b68fa8b88` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-13` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-07-13 01:11:10 IST` |
+| Last Commit (IST) | `2026-07-13 01:57:54 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-10 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-11 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-12 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-07-13 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-07-13 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,159.0 | -0.22% | 🔴 |
-| Ethereum | $1,818.51 | -0.31% | 🔴 |
-| Solana | $77.5 | -0.82% | 🔴 |
-| Bnb | $578.58 | -0.34% | 🔴 |
+| Bitcoin | $64,075.0 | -0.42% | 🔴 |
+| Ethereum | $1,814.22 | -0.65% | 🔴 |
+| Solana | $77.32 | -1.15% | 🔴 |
+| Bnb | $577.38 | -0.61% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
