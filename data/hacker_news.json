@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-11 23:36:38 UTC",
-    "fetched_at_ist": "2026-07-12 05:06:38 IST",
+    "fetched_at_utc": "2026-07-12 04:42:01 UTC",
+    "fetched_at_ist": "2026-07-12 10:12:01 IST",
     "item_count": 5,
-    "content_hash": "d00a07549a5648cf3724aaa26da43940c02bc077b816268d8179df23a4725190",
-    "previous_hash": "645749d6bdcdea9fbd966dc4dc413ff6594ea3873d2ccf22d026950f24999ce2",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "5feb87493b22b466f4e3ac283c2c5a2c665950848f9d6b0a68b4097ba7dd3330",
+    "previous_hash": "d00a07549a5648cf3724aaa26da43940c02bc077b816268d8179df23a4725190",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48876441,
-      "title": "Stop Telling Me to Ask an LLM",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "score": 76,
-      "comments": 38
-    },
-    {
-      "id": 48876593,
-      "title": "Weightlifting beats running for blood sugar control, researchers find",
-      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-      "score": 38,
-      "comments": 20
-    },
-    {
-      "id": 48875377,
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "score": 150,
-      "comments": 67
+      "id": 48877668,
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "score": 43,
+      "comments": 8
     },
     {
       "id": 48876505,
       "title": "Mesh LLM: distributed AI computing on iroh",
       "url": "https://www.iroh.computer/blog/mesh-llm",
-      "score": 21,
-      "comments": 8
+      "score": 160,
+      "comments": 36
+    },
+    {
+      "id": 48877314,
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
+      "score": 50,
+      "comments": 16
+    },
+    {
+      "id": 48875377,
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "score": 213,
+      "comments": 91
     },
     {
       "id": 48876245,
       "title": "RISCBoy is an open-source portable games console, designed from scratch",
       "url": "https://github.com/Wren6991/RISCBoy",
-      "score": 20,
-      "comments": 4
+      "score": 88,
+      "comments": 17
     }
   ]
 }

@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-12 (last updated: 05:06 IST)
+
+## 📅 2026-07-12 (last updated: 10:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-07-10 23:31:02 IST | dc7e139ca589 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-12 05:06:38 IST | d00a07549a56 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-12 10:12:01 IST | 5feb87493b22 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-11 23:59:07 IST | 0cb7855127b3 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 65 stars today
 
 ### 📰 Hacker News Stories
-- [Stop Telling Me to Ask an LLM](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/) — Score: 76
-- [Weightlifting beats running for blood sugar control, researchers find](https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html) — Score: 38
-- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) — Score: 150
-- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) — Score: 21
-- [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) — Score: 20
+- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/) — Score: 43
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) — Score: 160
+- [A pure scheme web programming tool](https://goeteia.dev) — Score: 50
+- [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) — Score: 213
+- [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) — Score: 88
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,302.0 🟢 +0.65%
