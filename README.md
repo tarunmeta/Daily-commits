@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-12 23:26:24 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-13 08:17:20 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Dicklesworthstone/destructive_command_guard**
-- BTC: **$63,806.0** ↓ (-0.11%)
+- BTC: **$62,988.0** ↓ (-1.55%)
 - HN top story: **Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-12 12:00:24 UTC | `9005e1310d33` | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-12 19:41:10 UTC | `9e7dae66f1f0` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-12 23:26:24 UTC | `3b37562ebcf5` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-13 08:17:20 UTC | `752d4ec54c14` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +15 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-13` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-07-13 06:35:21 IST` |
+| Last Commit (IST) | `2026-07-13 10:16:38 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-10 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-11 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-12 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-07-13 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-07-13 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,806.0 | -0.11% | 🔴 |
-| Ethereum | $1,803.19 | +0.48% | 🟢 |
-| Solana | $76.7 | -0.66% | 🔴 |
-| Bnb | $573.57 | -0.47% | 🔴 |
+| Bitcoin | $62,988.0 | -1.55% | 🔴 |
+| Ethereum | $1,785.24 | -1.10% | 🔴 |
+| Solana | $76.42 | -0.28% | 🔴 |
+| Bnb | $569.61 | -0.56% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
