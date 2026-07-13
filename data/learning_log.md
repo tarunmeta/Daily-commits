@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-07-14 (last updated: 23:51 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 17 | 2026-07-12 17:30:24 IST | 9005e1310d33 | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-13 22:04:48 IST | a4aefc6b7e22 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-13 23:51:34 IST | 26472f68182f | 4 assets moved, biggest mover: ethereum |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
+
+### 🚀 Trending Repos Tracked Today
+- **[Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** (Rust) — The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm  
+  ⭐ 444 stars today
+- **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** (TypeScript) — This is MCP server for Claude that gives it terminal control, file system search  
+  ⭐ 207 stars today
+- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** (Python) — "Vibe-Trading: Your Personal Trading Agent"  
+  ⭐ 776 stars today
+- **[PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)** (Python) — Prefect is a workflow orchestration framework for building resilient data pipeli  
+  ⭐ 55 stars today
+- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** (Python) — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
+  ⭐ 549 stars today
+
+### 📰 Hacker News Stories
+- [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html) — Score: 89
+- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) — Score: 30
+- [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha) — Score: 225
+- [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159) — Score: 391
+- [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/) — Score: 101
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $61,792.0 🔴 -3.45%
+- Ethereum: $1,751.02 🔴 -3.56%
+- Solana: $74.62 🔴 -3.44%
+- Bnb: $562.65 🔴 -2.81%
+
+---
 
 
 
