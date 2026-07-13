@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-13 16:34:48 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-13 18:21:34 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Dicklesworthstone/destructive_command_guard**
-- BTC: **$62,988.0** ↓ (-1.55%)
+- BTC: **$61,792.0** ↓ (-3.45%)
 - HN top story: **The art and engineering of Sega CD Silpheed**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-12 12:00:24 UTC | `9005e1310d33` | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-13 16:34:48 UTC | `a4aefc6b7e22` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-13 08:17:20 UTC | `752d4ec54c14` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-13 18:21:34 UTC | `26472f68182f` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +15 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-13` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-07-13 19:19:41 IST` |
+| Last Commit (IST) | `2026-07-13 22:04:48 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-10 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-11 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-12 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-07-13 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-07-13 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,988.0 | -1.55% | 🔴 |
-| Ethereum | $1,785.24 | -1.10% | 🔴 |
-| Solana | $76.42 | -0.28% | 🔴 |
-| Bnb | $569.61 | -0.56% | 🔴 |
+| Bitcoin | $61,792.0 | -3.45% | 🔴 |
+| Ethereum | $1,751.02 | -3.56% | 🔴 |
+| Solana | $74.62 | -3.44% | 🔴 |
+| Bnb | $562.65 | -2.81% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 

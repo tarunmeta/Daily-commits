@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-13 (last updated: 22:04 IST)
+
+## 📅 2026-07-13 (last updated: 23:51 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-12 17:30:24 IST | 9005e1310d33 | +15 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-13 22:04:48 IST | a4aefc6b7e22 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-13 13:47:20 IST | 752d4ec54c14 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-13 23:51:34 IST | 26472f68182f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard)** (Rust) — The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm  
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/) — Score: 101
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,988.0 🔴 -1.55%
-- Ethereum: $1,785.24 🔴 -1.10%
-- Solana: $76.42 🔴 -0.28%
-- Bnb: $569.61 🔴 -0.56%
+- Bitcoin: $61,792.0 🔴 -3.45%
+- Ethereum: $1,751.02 🔴 -3.56%
+- Solana: $74.62 🔴 -3.44%
+- Bnb: $562.65 🔴 -2.81%
 
 ---
 ## 📅 2026-07-12 (last updated: 23:57 IST)
