@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-13 (last updated: 13:47 IST)
+
+## 📅 2026-07-13 (last updated: 17:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-12 17:30:24 IST | 9005e1310d33 | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-13 01:11:10 IST | 9e7dae66f1f0 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-13 17:08:18 IST | 3f9066151598 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-13 13:47:20 IST | 752d4ec54c14 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 549 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) — Score: 135
-- [I love LLMs, I hate hype](https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html) — Score: 67
-- [The shingles vaccine may reduce the risk of dementia](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain) — Score: 124
-- [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) — Score: 350
-- [Don't you mean extinct?](https://fabiensanglard.net/extinct/index.html) — Score: 132
+- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) — Score: 408
+- [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/) — Score: 86
+- [The social physics of conversation: Communication patterns matter](https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership) — Score: 62
+- [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) — Score: 299
+- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive) — Score: 104
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,988.0 🔴 -1.55%

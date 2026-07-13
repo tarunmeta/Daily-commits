@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-12 19:41:10 UTC",
-    "fetched_at_ist": "2026-07-13 01:11:10 IST",
+    "fetched_at_utc": "2026-07-13 11:38:18 UTC",
+    "fetched_at_ist": "2026-07-13 17:08:18 IST",
     "item_count": 5,
-    "content_hash": "9e7dae66f1f03fff4f026b242e2ae89b00c15f42e6640217e88ee3d7f84904c9",
-    "previous_hash": "d5dcdb8a832daacd93ac05018596b1ffd238906158a7e3d89f00cd1346bb88df",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "3f90661515985e7e2340d3093d8b52e6b3388ee01d2f7498f241fb453ccb967e",
+    "previous_hash": "9e7dae66f1f03fff4f026b242e2ae89b00c15f42e6640217e88ee3d7f84904c9",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48883275,
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "score": 135,
-      "comments": 76
+      "id": 48889637,
+      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "score": 408,
+      "comments": 189
     },
     {
-      "id": 48883343,
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "score": 67,
-      "comments": 29
+      "id": 48889350,
+      "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "score": 86,
+      "comments": 54
     },
     {
-      "id": 48881874,
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "score": 124,
-      "comments": 101
+      "id": 48828576,
+      "title": "The social physics of conversation: Communication patterns matter",
+      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+      "score": 62,
+      "comments": 10
     },
     {
-      "id": 48880170,
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "score": 350,
-      "comments": 100
+      "id": 48834309,
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 299,
+      "comments": 126
     },
     {
-      "id": 48881830,
-      "title": "Don't you mean extinct?",
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "score": 132,
-      "comments": 62
+      "id": 48888518,
+      "title": "Backtrack-Free Cursive",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "score": 104,
+      "comments": 44
     }
   ]
 }
