@@ -13,13 +13,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-13 (last updated: 17:08 IST)
+
+## 📅 2026-07-13 (last updated: 22:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-12 17:30:24 IST | 9005e1310d33 | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-13 17:08:18 IST | 3f9066151598 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-13 22:04:48 IST | a4aefc6b7e22 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-13 13:47:20 IST | 752d4ec54c14 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 549 stars today
 
 ### 📰 Hacker News Stories
-- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/) — Score: 408
-- [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/) — Score: 86
-- [The social physics of conversation: Communication patterns matter](https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership) — Score: 62
-- [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/) — Score: 299
-- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive) — Score: 104
+- [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html) — Score: 89
+- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) — Score: 30
+- [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha) — Score: 225
+- [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159) — Score: 391
+- [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/) — Score: 101
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,988.0 🔴 -1.55%
