@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-14 22:39:50 UTC",
-    "fetched_at_ist": "2026-07-15 04:09:50 IST",
+    "fetched_at_utc": "2026-07-14 23:34:24 UTC",
+    "fetched_at_ist": "2026-07-15 05:04:24 IST",
     "item_count": 5,
-    "content_hash": "ab87196fa85bd0476b6f35f508ecdbde4bdd881780bb3dac0dab48dd7f11fad6",
-    "previous_hash": "5a07615032f1fd8e27ccfa818e31de71deafc834f08e44482cf40646c509fbd1",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "a1a64337f6a5f8d64cd73c3c2d54fdee13bef23126aaa5f6be9bdbb38f0dbdbd",
+    "previous_hash": "ab87196fa85bd0476b6f35f508ecdbde4bdd881780bb3dac0dab48dd7f11fad6",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48910545,
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 317,
-      "comments": 110
+      "score": 355,
+      "comments": 133
     },
     {
       "id": 48913050,
       "title": "Dependabot version updates introduce default package cooldown",
       "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "score": 36,
-      "comments": 15
-    },
-    {
-      "id": 48909785,
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 284,
-      "comments": 141
-    },
-    {
-      "id": 48910676,
-      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 173,
-      "comments": 71
+      "score": 56,
+      "comments": 40
     },
     {
       "id": 48913443,
       "title": "Financing the AI boom: from cash flows to debt [pdf]",
       "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "score": 11,
-      "comments": 1
+      "score": 40,
+      "comments": 2
+    },
+    {
+      "id": 48909785,
+      "title": "The Tower Keeps Rising",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "score": 302,
+      "comments": 150
+    },
+    {
+      "id": 48910676,
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "score": 199,
+      "comments": 82
     }
   ]
 }
