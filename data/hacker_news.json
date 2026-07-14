@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-14 20:37:54 UTC",
-    "fetched_at_ist": "2026-07-15 02:07:54 IST",
+    "fetched_at_utc": "2026-07-14 21:38:16 UTC",
+    "fetched_at_ist": "2026-07-15 03:08:16 IST",
     "item_count": 5,
-    "content_hash": "57afbb10f575efe7b0b2cf36569a4d821c0ff669991d1ba31a6896e542b8735a",
-    "previous_hash": "52c55d3f597f33aa54e53015569a12de8a3f476b8003c82869bb6d301c96199b",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "5a07615032f1fd8e27ccfa818e31de71deafc834f08e44482cf40646c509fbd1",
+    "previous_hash": "57afbb10f575efe7b0b2cf36569a4d821c0ff669991d1ba31a6896e542b8735a",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48910545,
-      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
-      "score": 154,
-      "comments": 44
+      "score": 234,
+      "comments": 81
     },
     {
       "id": 48909785,
       "title": "The Tower Keeps Rising",
       "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "score": 216,
-      "comments": 88
-    },
-    {
-      "id": 48869989,
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "score": 573,
-      "comments": 386
+      "score": 250,
+      "comments": 116
     },
     {
       "id": 48910676,
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
       "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "score": 59,
-      "comments": 14
+      "score": 118,
+      "comments": 39
+    },
+    {
+      "id": 48869989,
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "score": 624,
+      "comments": 398
     },
     {
       "id": 48872401,
       "title": "The largest available Minecraft world, totalling 15 TB",
       "url": "https://2b2t.place/1million",
-      "score": 71,
-      "comments": 15
+      "score": 95,
+      "comments": 23
     }
   ]
 }
