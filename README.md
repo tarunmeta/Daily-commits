@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-14 10:16:39 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-14 15:24:04 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **OpenCut-app/OpenCut**
-- BTC: **$62,648.0** ↓ (-0.62%)
+- BTC: **$64,293.0** ↑ (+2.34%)
 - HN top story: **Japan develops a method to recover up to 90% of lithium from used EV batteries**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 00:09:14 UTC | `da741d53857f` | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-14 03:33:46 UTC | `52c55d3f597f` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-14 10:16:39 UTC | `ad84c4e3ffb7` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-14 15:24:04 UTC | `bb51a82e25aa` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +7 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-14` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-07-14 17:24:24 IST` |
+| Last Commit (IST) | `2026-07-14 19:16:21 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-11 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-12 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-13 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-07-14 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-07-14 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,648.0 | -0.62% | 🔴 |
-| Ethereum | $1,787.74 | +0.32% | 🟢 |
-| Solana | $75.13 | -1.43% | 🔴 |
-| Bnb | $569.85 | +0.07% | 🟢 |
+| Bitcoin | $64,293.0 | +2.34% | 🟢 |
+| Ethereum | $1,876.76 | +5.24% | 🟢 |
+| Solana | $77.25 | +1.44% | 🟢 |
+| Bnb | $581.51 | +2.05% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 

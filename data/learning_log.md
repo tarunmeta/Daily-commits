@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-14 (last updated: 15:46 IST)
+
+## 📅 2026-07-14 (last updated: 20:54 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-14 09:03:46 IST | 52c55d3f597f | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-14 15:46:39 IST | ad84c4e3ffb7 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-14 20:54:04 IST | bb51a82e25aa | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** (TypeScript) — The open-source CapCut alternative  
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 346
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,648.0 🔴 -0.62%
-- Ethereum: $1,787.74 🟢 +0.32%
-- Solana: $75.13 🔴 -1.43%
-- Bnb: $569.85 🟢 +0.07%
+- Bitcoin: $64,293.0 🟢 +2.34%
+- Ethereum: $1,876.76 🟢 +5.24%
+- Solana: $77.25 🟢 +1.44%
+- Bnb: $581.51 🟢 +2.05%
 
 ---
 ## 📅 2026-07-13 (last updated: 23:51 IST)
