@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-13 16:34:48 UTC",
-    "fetched_at_ist": "2026-07-13 22:04:48 IST",
+    "fetched_at_utc": "2026-07-14 00:09:15 UTC",
+    "fetched_at_ist": "2026-07-14 05:39:15 IST",
     "item_count": 5,
-    "content_hash": "a4aefc6b7e22e2c757490cea94ee20e7b3a14ffd96ace24353866b22141fdf0f",
-    "previous_hash": "3f90661515985e7e2340d3093d8b52e6b3388ee01d2f7498f241fb453ccb967e",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c4f981089c1e3db49d40a6aec9db505976d2673b285255040c92c16db61123ab",
+    "previous_hash": "a4aefc6b7e22e2c757490cea94ee20e7b3a14ffd96ace24353866b22141fdf0f",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48893639,
-      "title": "The art and engineering of Sega CD Silpheed",
-      "url": "https://fabiensanglard.net/silpheed/index.html",
-      "score": 89,
-      "comments": 13
+      "id": 48899672,
+      "title": "‘Asia's cleanest village’ bans tourists on Sundays",
+      "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
+      "score": 46,
+      "comments": 26
+    },
+    {
+      "id": 48899529,
+      "title": "Claude is just Mr. Meeseeks",
+      "url": "https://github.com/thephw/claude-meseeks",
+      "score": 92,
+      "comments": 36
+    },
+    {
+      "id": 48896665,
+      "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "score": 258,
+      "comments": 118
     },
     {
       "id": 48894752,
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
       "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "score": 30,
-      "comments": 6
+      "score": 415,
+      "comments": 173
     },
     {
-      "id": 48890959,
-      "title": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
-      "url": "https://jivx.com/densha",
-      "score": 225,
-      "comments": 28
-    },
-    {
-      "id": 48892512,
-      "title": "Grok uploaded my user directory to xAI's servers",
-      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-      "score": 391,
-      "comments": 207
-    },
-    {
-      "id": 48893947,
-      "title": "LAPD lets contract with surveillance giant Flock expire",
-      "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "score": 101,
-      "comments": 40
+      "id": 48900191,
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
+      "score": 15,
+      "comments": 2
     }
   ]
 }

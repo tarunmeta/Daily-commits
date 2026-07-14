@@ -2,116 +2,74 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-12 12:00:24 UTC",
-    "fetched_at_ist": "2026-07-12 17:30:24 IST",
-    "item_count": 17,
-    "content_hash": "9005e1310d339b04112ff05653fa3ce726ff9b806c1f9c551c78d8d9cc8d7817",
-    "previous_hash": "dc7e139ca5891f4b9360d94ef37fa03e37d2556093191af25ecefdb116e93b3c",
-    "new_repos_vs_previous": 15,
+    "fetched_at_utc": "2026-07-14 00:09:14 UTC",
+    "fetched_at_ist": "2026-07-14 05:39:14 IST",
+    "item_count": 10,
+    "content_hash": "da741d53857f56691bf5fad4ac28d61fdb6e6dad52b635b5db5889927c47cc3c",
+    "previous_hash": "9005e1310d339b04112ff05653fa3ce726ff9b806c1f9c551c78d8d9cc8d7817",
+    "new_repos_vs_previous": 7,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "Dicklesworthstone/destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "language": "Rust",
-      "stars_today": "444 stars today"
-    },
-    {
-      "name": "wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_today": "207 stars today"
+      "stars_today": "1,229 stars today"
     },
     {
       "name": "HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars_today": "776 stars today"
+      "stars_today": "1,153 stars today"
     },
     {
-      "name": "PrefectHQ/prefect",
-      "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
-      "language": "Python",
-      "stars_today": "55 stars today"
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": "78 stars today"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars_today": "549 stars today"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "464 stars today"
-    },
-    {
-      "name": "home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "stars_today": "404 stars today"
-    },
-    {
-      "name": "Crosstalk-Solutions/project-nomad",
-      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "language": "TypeScript",
-      "stars_today": "122 stars today"
-    },
-    {
-      "name": "ColeMurray/background-agents",
-      "description": "An open-source background agents coding system",
-      "language": "TypeScript",
-      "stars_today": "9 stars today"
-    },
-    {
-      "name": "k1tbyte/Wand-Enhancer",
-      "description": "Advanced UX and interoperability extension for Wand (WeMod) app",
-      "language": "C#",
-      "stars_today": "661 stars today"
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "description": "No description",
-      "language": "TypeScript",
-      "stars_today": "79 stars today"
-    },
-    {
-      "name": "virattt/ai-hedge-fund",
-      "description": "An AI Hedge Fund Team",
-      "language": "Python",
-      "stars_today": "109 stars today"
-    },
-    {
-      "name": "chen08209/FlClash",
-      "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-      "language": "Dart",
-      "stars_today": "151 stars today"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_today": "274 stars today"
-    },
-    {
-      "name": "par274/sharpemu",
-      "description": "An experimental PlayStation 5 emulator project.",
-      "language": "C#",
-      "stars_today": "436 stars today"
-    },
-    {
-      "name": "malisper/pgrust",
-      "description": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-      "language": "Rust",
-      "stars_today": "518 stars today"
+      "stars_today": "996 stars today"
     },
     {
       "name": "Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars_today": "210 stars today"
+      "stars_today": "794 stars today"
+    },
+    {
+      "name": "Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "stars_today": "118 stars today"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars_today": "1,095 stars today"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "language": "HTML",
+      "stars_today": "451 stars today"
+    },
+    {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars_today": "543 stars today"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_today": "299 stars today"
     }
   ]
 }

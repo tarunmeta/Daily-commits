@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-13 18:21:34 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-14 00:09:15 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Dicklesworthstone/destructive_command_guard**
-- BTC: **$61,792.0** ↓ (-3.45%)
-- HN top story: **The art and engineering of Sega CD Silpheed**
+- Top GitHub repo: **OpenCut-app/OpenCut**
+- BTC: **$62,227.0** ↓ (-2.70%)
+- HN top story: **‘Asia's cleanest village’ bans tourists on Sundays**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-12 12:00:24 UTC | `9005e1310d33` | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-13 16:34:48 UTC | `a4aefc6b7e22` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-13 18:21:34 UTC | `26472f68182f` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 10 | 2026-07-14 00:09:14 UTC | `da741d53857f` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-14 00:09:15 UTC | `c4f981089c1e` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-14 00:09:14 UTC | `46474d1f23f1` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-14` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `87` day(s) |
-| Last Commit (IST) | `2026-07-14 03:39:57 IST` |
+| Last Commit (IST) | `2026-07-14 04:43:20 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-11 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-12 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-13 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-07-14 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-07-14 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $61,792.0 | -3.45% | 🔴 |
-| Ethereum | $1,751.02 | -3.56% | 🔴 |
-| Solana | $74.62 | -3.44% | 🔴 |
-| Bnb | $562.65 | -2.81% | 🔴 |
+| Bitcoin | $62,227.0 | -2.70% | 🔴 |
+| Ethereum | $1,772.66 | -2.49% | 🔴 |
+| Solana | $74.82 | -3.23% | 🔴 |
+| Bnb | $566.3 | -1.50% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | 444 stars today | The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm… |
-| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | 207 stars today | This is MCP server for Claude that gives it terminal control, file system search… |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 776 stars today | "Vibe-Trading: Your Personal Trading Agent" |
-| [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Python | 55 stars today | Prefect is a workflow orchestration framework for building resilient data pipeli… |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 549 stars today | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | 464 stars today | A collection of notebooks/recipes showcasing some fun and effective ways of usin… |
-| [home-assistant/core](https://github.com/home-assistant/core) | Python | 404 stars today | 🏡 Open source home automation that puts local control and privacy first. |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | 122 stars today | Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr… |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 1,229 stars today | The open-source CapCut alternative |
+| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 1,153 stars today | "Vibe-Trading: Your Personal Trading Agent" |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 78 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 996 stars today | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 794 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | 118 stars today | A simple, lightweight PowerShell script that allows you to remove pre-installed … |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 1,095 stars today | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and… |
+| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 451 stars today | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html) | 89 | 13 |
-| [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) | 30 | 6 |
-| [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha) | 225 | 28 |
-| [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159) | 391 | 207 |
-| [LAPD lets contract with surveillance giant Flock expire](https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/) | 101 | 40 |
+| [‘Asia's cleanest village’ bans tourists on Sundays](https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays) | 46 | 26 |
+| [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks) | 92 | 36 |
+| [Building and shipping Mac and iOS apps without ever opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) | 258 | 118 |
+| [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) | 415 | 173 |
+| [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o) | 15 | 2 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
