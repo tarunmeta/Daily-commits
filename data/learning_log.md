@@ -8,13 +8,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-14 (last updated: 05:39 IST)
+
+## 📅 2026-07-14 (last updated: 09:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-14 05:39:15 IST | c4f981089c1e | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-14 09:03:46 IST | 52c55d3f597f | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-14 05:39:14 IST | 46474d1f23f1 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 794 stars today
 
 ### 📰 Hacker News Stories
-- [‘Asia's cleanest village’ bans tourists on Sundays](https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays) — Score: 46
-- [Claude is just Mr. Meeseeks](https://github.com/thephw/claude-meseeks) — Score: 92
-- [Building and shipping Mac and iOS apps without ever opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 258
-- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) — Score: 415
-- [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o) — Score: 15
+- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/) — Score: 43
+- [The Git history command deserves more attention](https://lalitm.com/post/git-history/) — Score: 100
+- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html) — Score: 33
+- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work) — Score: 38
+- [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 346
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,227.0 🔴 -2.70%
