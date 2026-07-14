@@ -11,14 +11,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-14 (last updated: 13:49 IST)
+
+## 📅 2026-07-14 (last updated: 15:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-14 09:03:46 IST | 52c55d3f597f | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-14 13:49:21 IST | 48cd9c5ed2ca | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-14 15:46:39 IST | ad84c4e3ffb7 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
@@ -45,10 +46,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 346
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,520.0 🔴 -0.71%
-- Ethereum: $1,780.54 🔴 -0.21%
-- Solana: $74.98 🔴 -1.89%
-- Bnb: $569.59 🟢 +0.01%
+- Bitcoin: $62,648.0 🔴 -0.62%
+- Ethereum: $1,787.74 🟢 +0.32%
+- Solana: $75.13 🔴 -1.43%
+- Bnb: $569.85 🟢 +0.07%
 
 ---
 ## 📅 2026-07-13 (last updated: 23:51 IST)
