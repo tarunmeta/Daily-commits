@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-14 15:24:04 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-14 19:21:35 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **OpenCut-app/OpenCut**
-- BTC: **$64,293.0** ↑ (+2.34%)
+- BTC: **$64,571.0** ↑ (+4.21%)
 - HN top story: **Japan develops a method to recover up to 90% of lithium from used EV batteries**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 00:09:14 UTC | `da741d53857f` | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-14 03:33:46 UTC | `52c55d3f597f` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-14 15:24:04 UTC | `bb51a82e25aa` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-14 19:21:35 UTC | `0d3806920e42` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -29,12 +29,12 @@
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-07-14` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
-| Streak | `86` day(s) |
-| Last Commit (IST) | `2026-07-14 22:15:12 IST` |
+| Date (IST) | `2026-07-15` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-07-14 23:20:59 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-07-08 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-09 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-07-10 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
 | 2026-07-11 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-12 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-13 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-14 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-07-15 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,293.0 | +2.34% | 🟢 |
-| Ethereum | $1,876.76 | +5.24% | 🟢 |
-| Solana | $77.25 | +1.44% | 🟢 |
-| Bnb | $581.51 | +2.05% | 🟢 |
+| Bitcoin | $64,571.0 | +4.21% | 🟢 |
+| Ethereum | $1,876.83 | +6.36% | 🟢 |
+| Solana | $77.33 | +3.43% | 🟢 |
+| Bnb | $580.57 | +2.94% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
