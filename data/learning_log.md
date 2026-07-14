@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-15 (last updated: 00:51 IST)
+
+## 📅 2026-07-15 (last updated: 02:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-14 09:03:46 IST | 52c55d3f597f | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-15 02:07:54 IST | 57afbb10f575 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-15 00:51:35 IST | 0d3806920e42 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 794 stars today
 
 ### 📰 Hacker News Stories
-- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/) — Score: 43
-- [The Git history command deserves more attention](https://lalitm.com/post/git-history/) — Score: 100
-- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html) — Score: 33
-- [What will be left for us to work on?](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work) — Score: 38
-- [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) — Score: 346
+- [Bonsai 27B: A 27B-Class Model that runs on a phone](https://prismml.com/news/bonsai-27b) — Score: 154
+- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) — Score: 216
+- [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) — Score: 573
+- [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) — Score: 59
+- [The largest available Minecraft world, totalling 15 TB](https://2b2t.place/1million) — Score: 71
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,571.0 🟢 +4.21%
@@ -44,19 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $580.57 🟢 +2.94%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-14 (last updated: 20:54 IST)
 
 ### 🧪 Source Integrity Snapshot
