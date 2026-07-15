@@ -13,13 +13,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-15 (last updated: 12:05 IST)
+
+## 📅 2026-07-15 (last updated: 18:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-15 12:05:45 IST | 2dc549c629d4 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-15 18:12:16 IST | 1dfa7117c95c | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-15 09:46:41 IST | 2802e0fc589e | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 794 stars today
 
 ### 📰 Hacker News Stories
-- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html) — Score: 246
-- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) — Score: 222
-- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) — Score: 112
-- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) — Score: 531
-- [Andon (manufacturing)](https://en.wikipedia.org/wiki/Andon_(manufacturing)) — Score: 25
+- [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269) — Score: 78
+- [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html) — Score: 590
+- [Prioritize mental health, and why communication is so important](https://ramones.dev/posts/mental-health/) — Score: 26
+- [Make people pay to get into your inbox](https://www.captchainbox.com) — Score: 14
+- [Weathergotchi – an open-source climate Tamagotchi](https://github.com/Michael-Manning/E-Paper-Climate-Logger) — Score: 18
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,779.0 🟢 +3.66%
