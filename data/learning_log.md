@@ -9,14 +9,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-15 (last updated: 05:04 IST)
+
+## 📅 2026-07-15 (last updated: 09:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-15 05:04:24 IST | a1a64337f6a5 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-07-15 00:51:35 IST | 0d3806920e42 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-15 09:46:41 IST | 2802e0fc589e | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
@@ -43,10 +44,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) — Score: 199
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,571.0 🟢 +4.21%
-- Ethereum: $1,876.83 🟢 +6.36%
-- Solana: $77.33 🟢 +3.43%
-- Bnb: $580.57 🟢 +2.94%
+- Bitcoin: $64,779.0 🟢 +3.66%
+- Ethereum: $1,875.68 🟢 +5.28%
+- Solana: $77.69 🟢 +3.52%
+- Bnb: $580.38 🟢 +1.89%
 
 ---
 ## 📅 2026-07-14 (last updated: 20:54 IST)
