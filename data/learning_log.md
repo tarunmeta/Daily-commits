@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-17 (last updated: 22:11 IST)
+
+## 📅 2026-07-17 (last updated: 02:48 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-16 22:11:17 IST | 00b7f967c610 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-16 16:48:18 IST | 148e4bd85fd1 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-17 02:48:20 IST | c59c4fd69c96 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** (TypeScript) — The open-source CapCut alternative  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [How Our Rust-to-Zig Rewrite Is Going](https://rtfeldman.com/rust-to-zig) — Score: 170
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,060.0 🔴 -0.92%
-- Ethereum: $1,882.19 🟢 +0.14%
-- Solana: $76.08 🔴 -1.69%
-- Bnb: $576.0 🔴 -0.31%
+- Bitcoin: $64,138.0 🔴 -1.10%
+- Ethereum: $1,874.98 🔴 -2.43%
+- Solana: $75.9 🔴 -1.85%
+- Bnb: $575.93 🔴 -0.76%
 
 ---
 ## 📅 2026-07-16 (last updated: 22:11 IST)
