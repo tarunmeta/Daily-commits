@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-15 17:38:44 UTC",
-    "fetched_at_ist": "2026-07-15 23:08:44 IST",
+    "fetched_at_utc": "2026-07-16 16:41:17 UTC",
+    "fetched_at_ist": "2026-07-16 22:11:17 IST",
     "item_count": 5,
-    "content_hash": "31fcd66a8bc9e3a3a249bff66eefa824bd8c7930680c59946162745152443a73",
-    "previous_hash": "1dfa7117c95c9e765f01c42700e12b95c4df5fe90defd3915017124fd22bc077",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "00b7f967c610a2c92baee7c7e3076eb413ec5297cec4cc2a8eb5ef3aedb04050",
+    "previous_hash": "31fcd66a8bc9e3a3a249bff66eefa824bd8c7930680c59946162745152443a73",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48920475,
-      "title": "Mysteries of Telegram Data Centers",
-      "url": "https://dev.moe/en/3025",
-      "score": 158,
-      "comments": 41
+      "id": 48935342,
+      "title": "Kimi K3 is now live",
+      "url": "https://www.kimi.com/en",
+      "score": 319,
+      "comments": 172
     },
     {
-      "id": 48922434,
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "score": 55,
-      "comments": 19
+      "id": 48936426,
+      "title": "Microsoft Comic Chat is now open source",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "score": 50,
+      "comments": 13
     },
     {
-      "id": 48923111,
-      "title": "Open-source memory for coding agents, synced over SSH",
-      "url": "https://github.com/vshulcz/deja-vu/",
-      "score": 28,
-      "comments": 8
+      "id": 48932539,
+      "title": "OnePlus halts operations in USA and Europe",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "score": 387,
+      "comments": 206
     },
     {
-      "id": 48922838,
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
-      "score": 42,
-      "comments": 5
+      "id": 48934286,
+      "title": "Goes-19 weather satellite enters Safe Hold mode",
+      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+      "score": 90,
+      "comments": 43
     },
     {
-      "id": 48919198,
-      "title": "Prioritize mental health, and why communication is so important",
-      "url": "https://ramones.dev/posts/mental-health/",
-      "score": 191,
-      "comments": 107
+      "id": 48933149,
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "url": "https://rtfeldman.com/rust-to-zig",
+      "score": 170,
+      "comments": 66
     }
   ]
 }
