@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-17 (last updated: 17:39 IST)
+
+## 📅 2026-07-17 (last updated: 21:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-17 17:39:46 IST | 33286e82310e | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-17 17:39:47 IST | d3df39a424dd | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-17 21:10:18 IST | fc2fb91eba21 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-17 17:39:46 IST | 7ce8652add74 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 13 stars today
 
 ### 📰 Hacker News Stories
-- [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423) — Score: 94
-- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) — Score: 144
-- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) — Score: 1727
-- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) — Score: 145
-- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) — Score: 156
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 349
+- [Mozilla: The state of open source AI](https://stateofopensource.ai/) — Score: 90
+- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) — Score: 57
+- [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/) — Score: 36
+- [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/) — Score: 41
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,231.0 🔴 -1.36%

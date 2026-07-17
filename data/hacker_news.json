@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 12:09:47 UTC",
-    "fetched_at_ist": "2026-07-17 17:39:47 IST",
+    "fetched_at_utc": "2026-07-17 15:40:18 UTC",
+    "fetched_at_ist": "2026-07-17 21:10:18 IST",
     "item_count": 5,
-    "content_hash": "d3df39a424dd391e096d286729e4bbb19286fcbe6c5e268d1060d0af3f07ed0d",
-    "previous_hash": "f6120213a927d96029282f4dac9609f13c74e361cd2094d29fc6581f85bcea9c",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "fc2fb91eba2108d795a2a410e9b0d5d1d325909f296fc9fe785ffcdb6788c584",
+    "previous_hash": "d3df39a424dd391e096d286729e4bbb19286fcbe6c5e268d1060d0af3f07ed0d",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48946010,
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "score": 94,
-      "comments": 20
+      "id": 48945241,
+      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+      "url": "https://news.ycombinator.com/item?id=48945241",
+      "score": 349,
+      "comments": 246
     },
     {
-      "id": 48943745,
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "score": 144,
-      "comments": 81
+      "id": 48947825,
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 90,
+      "comments": 40
     },
     {
-      "id": 48935342,
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1727,
-      "comments": 1010
+      "id": 48947560,
+      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "score": 57,
+      "comments": 38
     },
     {
-      "id": 48943174,
-      "title": "Pebble Mega Update – July 2026",
-      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-      "score": 145,
-      "comments": 65
+      "id": 48947776,
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "score": 36,
+      "comments": 21
     },
     {
-      "id": 48943142,
-      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-      "score": 156,
-      "comments": 119
+      "id": 48947548,
+      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
+      "url": "https://honeypotlive.cc/",
+      "score": 41,
+      "comments": 10
     }
   ]
 }
