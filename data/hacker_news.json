@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 19:32:42 UTC",
-    "fetched_at_ist": "2026-07-18 01:02:42 IST",
+    "fetched_at_utc": "2026-07-17 20:33:28 UTC",
+    "fetched_at_ist": "2026-07-18 02:03:28 IST",
     "item_count": 5,
-    "content_hash": "581a90216588a8154d59f094ae87283295f15b5b352baaa420672e08adaf5a8d",
-    "previous_hash": "d98df0e0efc400442ef3bd2cb4d4f4fab17d6b5917883284f295429b0b4589bc",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "9081b21f187530de811a1789dad5419e758334fb75eeb9825ffe7ebeb7fe002c",
+    "previous_hash": "581a90216588a8154d59f094ae87283295f15b5b352baaa420672e08adaf5a8d",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48951461,
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://goliath32.com/blog/z80.html",
+      "score": 36,
+      "comments": 3
+    },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 786,
-      "comments": 441
+      "score": 868,
+      "comments": 476
     },
     {
       "id": 48947560,
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 232,
-      "comments": 160
+      "score": 272,
+      "comments": 192
     },
     {
       "id": 48950122,
       "title": "Learning a few things about running SQLite",
       "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 34,
-      "comments": 3
+      "score": 75,
+      "comments": 18
     },
     {
       "id": 48948597,
-      "title": "Frame – the first Linux Assembly X server",
+      "title": "Frame – Linux X server in Assembly",
       "url": "https://isene.org/2026/07/Frame.html",
-      "score": 82,
-      "comments": 47
-    },
-    {
-      "id": 48947717,
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 152,
-      "comments": 90
+      "score": 103,
+      "comments": 62
     }
   ]
 }
