@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 22:31:49 UTC",
-    "fetched_at_ist": "2026-07-18 04:01:49 IST",
+    "fetched_at_utc": "2026-07-17 23:35:03 UTC",
+    "fetched_at_ist": "2026-07-18 05:05:03 IST",
     "item_count": 5,
-    "content_hash": "3bfe8da374bab790ff8bbc6b661e063d78c16b321d1f2d0a8a895d6d81e3f737",
-    "previous_hash": "3273cbe315f89e0565eb4149ba69a4906496afd19efecd32a6ecdbf6619a7e95",
+    "content_hash": "0193b3467d2662334f0535ac902dd19e024432aeda6020f31c8e2f7bff32f367",
+    "previous_hash": "3bfe8da374bab790ff8bbc6b661e063d78c16b321d1f2d0a8a895d6d81e3f737",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 48952880,
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "score": 109,
+      "comments": 81
+    },
     {
       "id": 48951461,
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "score": 120,
-      "comments": 31
+      "score": 140,
+      "comments": 38
     },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 963,
-      "comments": 611
+      "score": 993,
+      "comments": 619
     },
     {
       "id": 48949551,
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
       "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 137,
-      "comments": 6
+      "score": 206,
+      "comments": 16
     },
     {
-      "id": 48947560,
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 321,
-      "comments": 213
-    },
-    {
-      "id": 48952773,
-      "title": "The US Grocery Slowdown Is Real",
-      "url": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
-      "score": 8,
-      "comments": 3
+      "id": 48952939,
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "score": 22,
+      "comments": 5
     }
   ]
 }

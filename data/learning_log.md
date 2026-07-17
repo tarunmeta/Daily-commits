@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 04:01 IST)
+
+## 📅 2026-07-18 (last updated: 05:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-17 23:35:54 IST | 279859929330 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-18 04:01:49 IST | 3bfe8da374ba | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-18 05:05:03 IST | 0193b3467d26 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-17 23:35:54 IST | f498a6d4e3c7 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 234 stars today
 
 ### 📰 Hacker News Stories
-- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) — Score: 120
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 963
-- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) — Score: 137
-- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) — Score: 321
-- [The US Grocery Slowdown Is Real](https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/) — Score: 8
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) — Score: 109
+- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) — Score: 140
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 993
+- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) — Score: 206
+- [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) — Score: 22
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,987.0 🔴 -0.20%
