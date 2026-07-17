@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 21:34:19 UTC",
-    "fetched_at_ist": "2026-07-18 03:04:19 IST",
+    "fetched_at_utc": "2026-07-17 22:31:49 UTC",
+    "fetched_at_ist": "2026-07-18 04:01:49 IST",
     "item_count": 5,
-    "content_hash": "3273cbe315f89e0565eb4149ba69a4906496afd19efecd32a6ecdbf6619a7e95",
-    "previous_hash": "9081b21f187530de811a1789dad5419e758334fb75eeb9825ffe7ebeb7fe002c",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "3bfe8da374bab790ff8bbc6b661e063d78c16b321d1f2d0a8a895d6d81e3f737",
+    "previous_hash": "3273cbe315f89e0565eb4149ba69a4906496afd19efecd32a6ecdbf6619a7e95",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48951461,
       "title": "The Zilog Z80 has turned 50",
       "url": "https://goliath32.com/blog/z80.html",
-      "score": 84,
-      "comments": 18
+      "score": 120,
+      "comments": 31
     },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 928,
-      "comments": 595
+      "score": 963,
+      "comments": 611
+    },
+    {
+      "id": 48949551,
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "score": 137,
+      "comments": 6
     },
     {
       "id": 48947560,
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 297,
-      "comments": 203
+      "score": 321,
+      "comments": 213
     },
     {
-      "id": 48950122,
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 101,
-      "comments": 24
-    },
-    {
-      "id": 48947717,
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-      "score": 213,
-      "comments": 123
+      "id": 48952773,
+      "title": "The US Grocery Slowdown Is Real",
+      "url": "https://www.bain.com/insights/the-us-grocery-slowdown-is-real-snap-chart/",
+      "score": 8,
+      "comments": 3
     }
   ]
 }
