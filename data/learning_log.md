@@ -13,44 +13,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-17 (last updated: 12:08 IST)
+
+## 📅 2026-07-17 (last updated: 17:39 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-17 12:08:46 IST | f6120213a927 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-17 09:55:26 IST | 3903b7f818d0 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-07-17 17:39:46 IST | 33286e82310e | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-17 17:39:47 IST | d3df39a424dd | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-17 17:39:46 IST | 7ce8652add74 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)** (TypeScript) — The open-source CapCut alternative  
-  ⭐ 1,229 stars today
-- **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** (Python) — "Vibe-Trading: Your Personal Trading Agent"  
-  ⭐ 1,153 stars today
-- **[moeru-ai/airi](https://github.com/moeru-ai/airi)** (TypeScript) — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l  
-  ⭐ 78 stars today
-- **[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** (Python) — 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.  
-  ⭐ 996 stars today
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
+  ⭐ 435 stars today
+- **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
+  ⭐ 77 stars today
+- **[HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** (TypeScript) — Become a cracked AI/ML Research Engineer  
+  ⭐ 511 stars today
 - **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** (CSS) — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  
-  ⭐ 794 stars today
+  ⭐ 3,372 stars today
+- **[github/copilot-sdk](https://github.com/github/copilot-sdk)** (Java) — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  
+  ⭐ 13 stars today
 
 ### 📰 Hacker News Stories
-- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) — Score: 72
-- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) — Score: 1463
-- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) — Score: 48
-- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) — Score: 9
-- [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029) — Score: 109
+- [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423) — Score: 94
+- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) — Score: 144
+- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) — Score: 1727
+- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) — Score: 145
+- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) — Score: 156
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,325.0 🔴 -1.82%
-- Ethereum: $1,845.89 🔴 -3.53%
-- Solana: $74.82 🔴 -2.53%
-- Bnb: $570.46 🔴 -1.72%
+- Bitcoin: $63,231.0 🔴 -1.36%
+- Ethereum: $1,835.38 🔴 -2.34%
+- Solana: $74.72 🔴 -1.91%
+- Bnb: $563.74 🔴 -2.25%
 
 ---
 ## 📅 2026-07-16 (last updated: 22:11 IST)

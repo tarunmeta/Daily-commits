@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-17 06:38:46 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-17 12:09:47 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **OpenCut-app/OpenCut**
-- BTC: **$63,325.0** ↓ (-1.82%)
-- HN top story: **How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues**
+- Top GitHub repo: **codecrafters-io/build-your-own-x**
+- BTC: **$63,231.0** ↓ (-1.36%)
+- HN top story: **Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 10 | 2026-07-14 00:09:14 UTC | `da741d53857f` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-17 06:38:46 UTC | `f6120213a927` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-17 04:25:26 UTC | `3903b7f818d0` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-07-17 12:09:46 UTC | `33286e82310e` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-17 12:09:47 UTC | `d3df39a424dd` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-17 12:09:46 UTC | `7ce8652add74` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-17` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `87` day(s) |
-| Last Commit (IST) | `2026-07-17 14:28:24 IST` |
+| Last Commit (IST) | `2026-07-17 16:24:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-14 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-15 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-16 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-07-17 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-07-17 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,325.0 | -1.82% | 🔴 |
-| Ethereum | $1,845.89 | -3.53% | 🔴 |
-| Solana | $74.82 | -2.53% | 🔴 |
-| Bnb | $570.46 | -1.72% | 🔴 |
+| Bitcoin | $63,231.0 | -1.36% | 🔴 |
+| Ethereum | $1,835.38 | -2.34% | 🔴 |
+| Solana | $74.72 | -1.91% | 🔴 |
+| Bnb | $563.74 | -2.25% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | 1,229 stars today | The open-source CapCut alternative |
-| [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | 1,153 stars today | "Vibe-Trading: Your Personal Trading Agent" |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 78 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | 996 stars today | 100+ AI Agent & RAG apps you can actually run — clone, customize, ship. |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 794 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | 118 stars today | A simple, lightweight PowerShell script that allows you to remove pre-installed … |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 1,095 stars today | AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and… |
-| [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | 451 stars today | 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou… |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 435 stars today | Master programming by recreating your favorite technologies from scratch. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 77 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
+| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | 511 stars today | Become a cracked AI/ML Research Engineer |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 3,372 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 13 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | TypeScript | 37 stars today | No description |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 196 stars today | Bonsai Demo |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 11 stars today | Protocol Buffers - Google's data interchange format |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) | 72 | 38 |
-| [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) | 1463 | 883 |
-| [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) | 48 | 2 |
-| [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) | 9 | 0 |
-| [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029) | 109 | 2 |
+| [Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423) | 94 | 20 |
+| [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) | 144 | 81 |
+| [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) | 1727 | 1010 |
+| [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) | 145 | 65 |
+| [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) | 156 | 119 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
