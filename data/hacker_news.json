@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 15:40:18 UTC",
-    "fetched_at_ist": "2026-07-17 21:10:18 IST",
+    "fetched_at_utc": "2026-07-17 18:05:54 UTC",
+    "fetched_at_ist": "2026-07-17 23:35:54 IST",
     "item_count": 5,
-    "content_hash": "fc2fb91eba2108d795a2a410e9b0d5d1d325909f296fc9fe785ffcdb6788c584",
-    "previous_hash": "d3df39a424dd391e096d286729e4bbb19286fcbe6c5e268d1060d0af3f07ed0d",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "d98df0e0efc400442ef3bd2cb4d4f4fab17d6b5917883284f295429b0b4589bc",
+    "previous_hash": "fc2fb91eba2108d795a2a410e9b0d5d1d325909f296fc9fe785ffcdb6788c584",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 349,
-      "comments": 246
-    },
-    {
-      "id": 48947825,
-      "title": "Mozilla: The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "score": 90,
-      "comments": 40
+      "score": 678,
+      "comments": 384
     },
     {
       "id": 48947560,
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 57,
-      "comments": 38
+      "score": 165,
+      "comments": 119
     },
     {
-      "id": 48947776,
-      "title": "Claude Code: Anatomy of a Misfeature",
-      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-      "score": 36,
-      "comments": 21
+      "id": 48947825,
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "score": 222,
+      "comments": 147
     },
     {
-      "id": 48947548,
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "url": "https://honeypotlive.cc/",
-      "score": 41,
-      "comments": 10
+      "id": 48947455,
+      "title": "A Road to Lisp: Which Lisp",
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "score": 101,
+      "comments": 57
+    },
+    {
+      "id": 48947717,
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "score": 96,
+      "comments": 51
     }
   ]
 }

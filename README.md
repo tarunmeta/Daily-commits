@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-17 15:40:18 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-17 18:05:54 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **codecrafters-io/build-your-own-x**
-- BTC: **$63,231.0** ↓ (-1.36%)
+- BTC: **$63,987.0** ↓ (-0.20%)
 - HN top story: **AWS: Inaccurate Estimated Billing Data – $1.7 billion**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-07-17 12:09:46 UTC | `33286e82310e` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-17 15:40:18 UTC | `fc2fb91eba21` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-17 12:09:46 UTC | `7ce8652add74` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-07-17 18:05:54 UTC | `279859929330` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-17 18:05:54 UTC | `d98df0e0efc4` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-07-17 18:05:54 UTC | `f498a6d4e3c7` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-17` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `87` day(s) |
-| Last Commit (IST) | `2026-07-17 21:10:19 IST` |
+| Last Commit (IST) | `2026-07-17 22:17:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-14 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-15 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-16 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-07-17 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,231.0 | -1.36% | 🔴 |
-| Ethereum | $1,835.38 | -2.34% | 🔴 |
-| Solana | $74.72 | -1.91% | 🔴 |
-| Bnb | $563.74 | -2.25% | 🔴 |
+| Bitcoin | $63,987.0 | -0.20% | 🔴 |
+| Ethereum | $1,842.04 | -1.57% | 🔴 |
+| Solana | $75.2 | -0.44% | 🔴 |
+| Bnb | $565.85 | -1.65% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 435 stars today | Master programming by recreating your favorite technologies from scratch. |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 77 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
-| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | 511 stars today | Become a cracked AI/ML Research Engineer |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 3,372 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 13 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 1,070 stars today | Master programming by recreating your favorite technologies from scratch. |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 437 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
+| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | 248 stars today | Become a cracked AI/ML Research Engineer |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,486 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 234 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
 | [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | TypeScript | 37 stars today | No description |
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 196 stars today | Bonsai Demo |
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 11 stars today | Protocol Buffers - Google's data interchange format |
+| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 279 stars today | Bonsai Demo |
+| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 18 stars today | Protocol Buffers - Google's data interchange format |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 349 | 246 |
-| [Mozilla: The state of open source AI](https://stateofopensource.ai/) | 90 | 40 |
-| [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) | 57 | 38 |
-| [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/) | 36 | 21 |
-| [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/) | 41 | 10 |
+| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 678 | 384 |
+| [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) | 165 | 119 |
+| [Mozilla: The state of open source AI](https://stateofopensource.ai/) | 222 | 147 |
+| [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/) | 101 | 57 |
+| [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/) | 96 | 51 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

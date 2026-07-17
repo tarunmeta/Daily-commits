@@ -17,44 +17,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-17 (last updated: 21:10 IST)
+
+## 📅 2026-07-17 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-07-17 17:39:46 IST | 33286e82310e | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-17 21:10:18 IST | fc2fb91eba21 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-17 17:39:46 IST | 7ce8652add74 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-07-17 23:35:54 IST | 279859929330 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-17 23:35:54 IST | d98df0e0efc4 | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-07-17 23:35:54 IST | f498a6d4e3c7 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
-  ⭐ 435 stars today
+  ⭐ 1,070 stars today
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
-  ⭐ 77 stars today
+  ⭐ 437 stars today
 - **[HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** (TypeScript) — Become a cracked AI/ML Research Engineer  
-  ⭐ 511 stars today
+  ⭐ 248 stars today
 - **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** (CSS) — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  
-  ⭐ 3,372 stars today
+  ⭐ 1,486 stars today
 - **[github/copilot-sdk](https://github.com/github/copilot-sdk)** (Java) — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  
-  ⭐ 13 stars today
+  ⭐ 234 stars today
 
 ### 📰 Hacker News Stories
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 349
-- [Mozilla: The state of open source AI](https://stateofopensource.ai/) — Score: 90
-- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) — Score: 57
-- [Claude Code: Anatomy of a Misfeature](https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/) — Score: 36
-- [Show HN: Watch bots interact with an SSH honeypot in real time](https://honeypotlive.cc/) — Score: 41
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 678
+- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) — Score: 165
+- [Mozilla: The state of open source AI](https://stateofopensource.ai/) — Score: 222
+- [A Road to Lisp: Which Lisp](https://scotto.me/blog/2026-07-17-which-lisp/) — Score: 101
+- [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/) — Score: 96
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,231.0 🔴 -1.36%
-- Ethereum: $1,835.38 🔴 -2.34%
-- Solana: $74.72 🔴 -1.91%
-- Bnb: $563.74 🔴 -2.25%
+- Bitcoin: $63,987.0 🔴 -0.20%
+- Ethereum: $1,842.04 🔴 -1.57%
+- Solana: $75.2 🔴 -0.44%
+- Bnb: $565.85 🔴 -1.65%
 
 ---
 ## 📅 2026-07-16 (last updated: 22:11 IST)
