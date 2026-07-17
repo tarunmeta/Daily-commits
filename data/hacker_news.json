@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-16 16:41:17 UTC",
-    "fetched_at_ist": "2026-07-16 22:11:17 IST",
+    "fetched_at_utc": "2026-07-17 06:38:46 UTC",
+    "fetched_at_ist": "2026-07-17 12:08:46 IST",
     "item_count": 5,
-    "content_hash": "00b7f967c610a2c92baee7c7e3076eb413ec5297cec4cc2a8eb5ef3aedb04050",
-    "previous_hash": "31fcd66a8bc9e3a3a249bff66eefa824bd8c7930680c59946162745152443a73",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "f6120213a927d96029282f4dac9609f13c74e361cd2094d29fc6581f85bcea9c",
+    "previous_hash": "00b7f967c610a2c92baee7c7e3076eb413ec5297cec4cc2a8eb5ef3aedb04050",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48943142,
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "score": 72,
+      "comments": 38
+    },
+    {
       "id": 48935342,
-      "title": "Kimi K3 is now live",
-      "url": "https://www.kimi.com/en",
-      "score": 319,
-      "comments": 172
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "score": 1463,
+      "comments": 883
     },
     {
-      "id": 48936426,
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 50,
-      "comments": 13
+      "id": 48943174,
+      "title": "Pebble Mega Update – July 2026",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "score": 48,
+      "comments": 2
     },
     {
-      "id": 48932539,
-      "title": "OnePlus halts operations in USA and Europe",
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "score": 387,
-      "comments": 206
+      "id": 48943745,
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "score": 9,
+      "comments": 0
     },
     {
-      "id": 48934286,
-      "title": "Goes-19 weather satellite enters Safe Hold mode",
-      "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
-      "score": 90,
-      "comments": 43
-    },
-    {
-      "id": 48933149,
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "url": "https://rtfeldman.com/rust-to-zig",
-      "score": 170,
-      "comments": 66
+      "id": 48862165,
+      "title": "An Engineer's Guide to USB Typе-С (2024)",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "score": 109,
+      "comments": 2
     }
   ]
 }

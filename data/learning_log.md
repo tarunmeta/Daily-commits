@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-17 (last updated: 09:55 IST)
+
+## 📅 2026-07-17 (last updated: 12:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 10 | 2026-07-14 05:39:14 IST | da741d53857f | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-16 22:11:17 IST | 00b7f967c610 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-17 12:08:46 IST | f6120213a927 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-17 09:55:26 IST | 3903b7f818d0 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 794 stars today
 
 ### 📰 Hacker News Stories
-- [Kimi K3 is now live](https://www.kimi.com/en) — Score: 319
-- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) — Score: 50
-- [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237) — Score: 387
-- [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold) — Score: 90
-- [How Our Rust-to-Zig Rewrite Is Going](https://rtfeldman.com/rust-to-zig) — Score: 170
+- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) — Score: 72
+- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) — Score: 1463
+- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) — Score: 48
+- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) — Score: 9
+- [An Engineer's Guide to USB Typе-С (2024)](https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029) — Score: 109
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,325.0 🔴 -1.82%
