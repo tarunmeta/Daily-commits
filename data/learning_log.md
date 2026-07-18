@@ -14,44 +14,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 13:49 IST)
+
+## 📅 2026-07-18 (last updated: 17:34 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-07-17 23:35:54 IST | 279859929330 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-18 05:05:03 IST | 0193b3467d26 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-18 13:49:53 IST | 7ab2b8d16767 | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 11 | 2026-07-18 17:34:51 IST | 3ceb69cd5715 | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-18 17:34:52 IST | 76276b84716a | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-18 17:34:52 IST | 7874800fafd9 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
-  ⭐ 1,070 stars today
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** (Python) — A feed-forward 3D foundation model for reconstructing scenes from streaming data  
+  ⭐ 827 stars today
+- **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
+  ⭐ 48 stars today
 - **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
-  ⭐ 437 stars today
-- **[HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)** (TypeScript) — Become a cracked AI/ML Research Engineer  
-  ⭐ 248 stars today
-- **[Nutlope/hallmark](https://github.com/Nutlope/hallmark)** (CSS) — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.  
-  ⭐ 1,486 stars today
-- **[github/copilot-sdk](https://github.com/github/copilot-sdk)** (Java) — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services  
-  ⭐ 234 stars today
+  ⭐ 438 stars today
+- **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** (TypeScript) — Skills for Design Engineers  
+  ⭐ 529 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 232 stars today
 
 ### 📰 Hacker News Stories
-- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) — Score: 109
-- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) — Score: 140
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 993
-- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) — Score: 206
-- [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) — Score: 22
+- [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) — Score: 128
+- [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph) — Score: 41
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) — Score: 426
+- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) — Score: 149
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Score: 1216
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,933.0 🟢 +1.96%
-- Ethereum: $1,843.48 🟢 +1.06%
-- Solana: $74.85 🟢 +0.42%
-- Bnb: $567.6 🟢 +0.63%
+- Bitcoin: $64,084.0 🟢 +1.31%
+- Ethereum: $1,845.77 🟢 +0.47%
+- Solana: $74.95 🟢 +0.26%
+- Bnb: $569.58 🟢 +1.04%
 
 ---
 ## 📅 2026-07-17 (last updated: 23:35 IST)

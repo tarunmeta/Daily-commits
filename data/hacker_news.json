@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-17 23:35:03 UTC",
-    "fetched_at_ist": "2026-07-18 05:05:03 IST",
+    "fetched_at_utc": "2026-07-18 12:04:52 UTC",
+    "fetched_at_ist": "2026-07-18 17:34:52 IST",
     "item_count": 5,
-    "content_hash": "0193b3467d2662334f0535ac902dd19e024432aeda6020f31c8e2f7bff32f367",
-    "previous_hash": "3bfe8da374bab790ff8bbc6b661e063d78c16b321d1f2d0a8a895d6d81e3f737",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "76276b84716a2a74c0080af6b2b2f364e97a1a5d8fa6727c68fd48ebbe4d2104",
+    "previous_hash": "0193b3467d2662334f0535ac902dd19e024432aeda6020f31c8e2f7bff32f367",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48952880,
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 109,
-      "comments": 81
+      "id": 48956924,
+      "title": "Why do AI company logos look like buttholes?",
+      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+      "score": 128,
+      "comments": 32
     },
     {
-      "id": 48951461,
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 140,
-      "comments": 38
+      "id": 48956949,
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "score": 41,
+      "comments": 21
+    },
+    {
+      "id": 48954851,
+      "title": "Regressive JPEGs",
+      "url": "https://maurycyz.com/projects/bad_jpeg/",
+      "score": 426,
+      "comments": 42
+    },
+    {
+      "id": 48956688,
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+      "score": 149,
+      "comments": 77
     },
     {
       "id": 48945241,
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 993,
-      "comments": 619
-    },
-    {
-      "id": 48949551,
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 206,
-      "comments": 16
-    },
-    {
-      "id": 48952939,
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "score": 22,
-      "comments": 5
+      "score": 1216,
+      "comments": 716
     }
   ]
 }

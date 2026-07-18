@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-18 08:19:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-18 12:04:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **codecrafters-io/build-your-own-x**
-- BTC: **$63,933.0** ↑ (+1.96%)
-- HN top story: **Kaiser nurses say AI, workplace surveillance are making their jobs, care worse**
+- Top GitHub repo: **Robbyant/lingbot-map**
+- BTC: **$64,084.0** ↑ (+1.31%)
+- HN top story: **Why do AI company logos look like buttholes?**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-07-17 18:05:54 UTC | `279859929330` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-17 23:35:03 UTC | `0193b3467d26` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-18 08:19:53 UTC | `7ab2b8d16767` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 11 | 2026-07-18 12:04:51 UTC | `3ceb69cd5715` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-18 12:04:52 UTC | `76276b84716a` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-18 12:04:52 UTC | `7874800fafd9` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-18` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `87` day(s) |
-| Last Commit (IST) | `2026-07-18 15:26:42 IST` |
+| Last Commit (IST) | `2026-07-18 16:38:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-15 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-16 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-18 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-07-18 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,933.0 | +1.96% | 🟢 |
-| Ethereum | $1,843.48 | +1.06% | 🟢 |
-| Solana | $74.85 | +0.42% | 🟢 |
-| Bnb | $567.6 | +0.63% | 🟢 |
+| Bitcoin | $64,084.0 | +1.31% | 🟢 |
+| Ethereum | $1,845.77 | +0.47% | 🟢 |
+| Solana | $74.95 | +0.26% | 🟢 |
+| Bnb | $569.58 | +1.04% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 1,070 stars today | Master programming by recreating your favorite technologies from scratch. |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 437 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
-| [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | 248 stars today | Become a cracked AI/ML Research Engineer |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,486 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 234 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | TypeScript | 37 stars today | No description |
-| [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | 279 stars today | Bonsai Demo |
-| [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | 18 stars today | Protocol Buffers - Google's data interchange format |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 827 stars today | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
+| [apache/ossie](https://github.com/apache/ossie) | Python | 48 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 438 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
+| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 529 stars today | Skills for Design Engineers |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 232 stars today | Learn it. Build it. Ship it for others. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 74 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
+| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | TypeScript | 63 stars today | LIBERATED AI CHAT |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 242 stars today | AirLLM 70B inference with single 4GB GPU |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) | 109 | 81 |
-| [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) | 140 | 38 |
-| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 993 | 619 |
-| [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) | 206 | 16 |
-| [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) | 22 | 5 |
+| [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) | 128 | 32 |
+| [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph) | 41 | 21 |
+| [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) | 426 | 42 |
+| [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) | 149 | 77 |
+| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 1216 | 716 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
