@@ -10,19 +10,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-18 (last updated: 05:05 IST)
+
+## 📅 2026-07-18 (last updated: 11:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-17 23:35:54 IST | 279859929330 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-07-18 05:05:03 IST | 0193b3467d26 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-17 23:35:54 IST | f498a6d4e3c7 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-18 11:57:07 IST | 1f8c32504f3b | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Texas wins court order to suspend domain name for violating age-verification law](https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and) — Score: 22
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,987.0 🔴 -0.20%
-- Ethereum: $1,842.04 🔴 -1.57%
-- Solana: $75.2 🔴 -0.44%
-- Bnb: $565.85 🔴 -1.65%
+- Bitcoin: $63,948.0 🟢 +1.73%
+- Ethereum: $1,845.12 🟢 +0.70%
+- Solana: $75.0 🟢 +0.59%
+- Bnb: $567.82 🔴 -0.10%
 
 ---
 ## 📅 2026-07-17 (last updated: 23:35 IST)
