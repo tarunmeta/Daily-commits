@@ -2,13 +2,13 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-18 12:04:51 UTC",
-    "fetched_at_ist": "2026-07-18 17:34:51 IST",
+    "fetched_at_utc": "2026-07-18 18:07:21 UTC",
+    "fetched_at_ist": "2026-07-18 23:37:21 IST",
     "item_count": 11,
-    "content_hash": "3ceb69cd5715cee224e0829f30ace441662b00d64289fccecb2603bbc3e394e7",
-    "previous_hash": "2798599293303aa0e78a7dc78ff5498ff0ffeb6e10c66139210e2e31ff645458",
-    "new_repos_vs_previous": 8,
-    "top_repo_changed": true
+    "content_hash": "d69d62f4859902f4ebcf9011d01c7d6511edaca466afa8291797353394210ac9",
+    "previous_hash": "3ceb69cd5715cee224e0829f30ace441662b00d64289fccecb2603bbc3e394e7",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
@@ -27,25 +27,25 @@
       "name": "PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars_today": "438 stars today"
+      "stars_today": "337 stars today"
     },
     {
       "name": "ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars_today": "529 stars today"
+      "stars_today": "242 stars today"
     },
     {
       "name": "rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars_today": "232 stars today"
+      "stars_today": "240 stars today"
     },
     {
       "name": "tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars_today": "74 stars today"
+      "stars_today": "356 stars today"
     },
     {
       "name": "elder-plinius/G0DM0D3",
@@ -69,7 +69,7 @@
       "name": "codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_today": "1,068 stars today"
+      "stars_today": "1,131 stars today"
     },
     {
       "name": "MoonshotAI/kimi-cli",

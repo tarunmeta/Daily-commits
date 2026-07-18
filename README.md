@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-18 12:04:52 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-18 18:07:22 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Robbyant/lingbot-map**
-- BTC: **$64,084.0** ↑ (+1.31%)
-- HN top story: **Why do AI company logos look like buttholes?**
+- BTC: **$64,430.0** ↑ (+0.72%)
+- HN top story: **GPT-5.6 used a prompt to close a 30-year gap in convex optimization**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-07-18 12:04:51 UTC | `3ceb69cd5715` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-18 12:04:52 UTC | `76276b84716a` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-18 12:04:52 UTC | `7874800fafd9` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 11 | 2026-07-18 18:07:21 UTC | `d69d62f48599` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-18 18:07:22 UTC | `5845a1893512` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-18 18:07:21 UTC | `d2fbf75ecd94` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-18` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
-| Streak | `87` day(s) |
-| Last Commit (IST) | `2026-07-18 21:28:20 IST` |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
+| Streak | `86` day(s) |
+| Last Commit (IST) | `2026-07-18 22:36:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-15 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-16 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-18 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-07-18 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,084.0 | +1.31% | 🟢 |
-| Ethereum | $1,845.77 | +0.47% | 🟢 |
-| Solana | $74.95 | +0.26% | 🟢 |
-| Bnb | $569.58 | +1.04% | 🟢 |
+| Bitcoin | $64,430.0 | +0.72% | 🟢 |
+| Ethereum | $1,850.27 | +0.50% | 🟢 |
+| Solana | $75.31 | +0.16% | 🟢 |
+| Bnb | $570.6 | +0.85% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
@@ -65,10 +65,10 @@
 | :--- | :--- | ---: | :--- |
 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 827 stars today | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
 | [apache/ossie](https://github.com/apache/ossie) | Python | 48 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 438 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
-| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 529 stars today | Skills for Design Engineers |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 232 stars today | Learn it. Build it. Ship it for others. |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 74 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
+| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 337 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
+| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 242 stars today | Skills for Design Engineers |
+| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 240 stars today | Learn it. Build it. Ship it for others. |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 356 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
 | [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | TypeScript | 63 stars today | LIBERATED AI CHAT |
 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 242 stars today | AirLLM 70B inference with single 4GB GPU |
 
@@ -76,11 +76,11 @@
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes) | 128 | 32 |
-| [What AI did to stackoverflow in a graph](https://data.stackexchange.com/stackoverflow/query/1953768#graph) | 41 | 21 |
-| [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/) | 426 | 42 |
-| [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent) | 149 | 77 |
-| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 1216 | 716 |
+| [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) | 332 | 195 |
+| [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307) | 20 | 2 |
+| [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam) | 96 | 54 |
+| [Setting up your spare Mac for Claude Code to control, a step-by-step guide](https://ykdojo.github.io/claude-controls-mac/) | 72 | 39 |
+| [Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind](https://deepmind.google/blog/our-approach-to-bioresilience/) | 25 | 15 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

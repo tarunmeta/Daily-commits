@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-18 12:04:52 UTC",
-    "fetched_at_ist": "2026-07-18 17:34:52 IST",
+    "fetched_at_utc": "2026-07-18 18:07:22 UTC",
+    "fetched_at_ist": "2026-07-18 23:37:22 IST",
     "item_count": 5,
-    "content_hash": "76276b84716a2a74c0080af6b2b2f364e97a1a5d8fa6727c68fd48ebbe4d2104",
-    "previous_hash": "0193b3467d2662334f0535ac902dd19e024432aeda6020f31c8e2f7bff32f367",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "5845a1893512654d2bb1700fbea71ceb7f87af083492705da0b438d9d9dbcba3",
+    "previous_hash": "76276b84716a2a74c0080af6b2b2f364e97a1a5d8fa6727c68fd48ebbe4d2104",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48956924,
-      "title": "Why do AI company logos look like buttholes?",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "score": 128,
-      "comments": 32
+      "id": 48957779,
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "score": 332,
+      "comments": 195
     },
     {
-      "id": 48956949,
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "score": 41,
-      "comments": 21
+      "id": 48960155,
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "score": 20,
+      "comments": 2
     },
     {
-      "id": 48954851,
-      "title": "Regressive JPEGs",
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "score": 426,
-      "comments": 42
+      "id": 48959143,
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
+      "score": 96,
+      "comments": 54
     },
     {
-      "id": 48956688,
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "score": 149,
-      "comments": 77
+      "id": 48959392,
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "score": 72,
+      "comments": 39
     },
     {
-      "id": 48945241,
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 1216,
-      "comments": 716
+      "id": 48959297,
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "score": 25,
+      "comments": 15
     }
   ]
 }
