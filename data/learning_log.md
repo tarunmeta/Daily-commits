@@ -14,13 +14,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-19 (last updated: 14:56 IST)
+
+## 📅 2026-07-19 (last updated: 19:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-07-18 23:37:21 IST | d69d62f48599 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-19 10:05:25 IST | cd5e03c617fa | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-19 19:14:01 IST | 12219236a876 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-19 14:56:48 IST | df099314aef9 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 240 stars today
 
 ### 📰 Hacker News Stories
-- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) — Score: 233
-- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) — Score: 347
-- [Better and Cheaper Than IPTV](https://github.com/stupside/castor) — Score: 78
-- [FDA approves new kind of cholesterol pill](https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol) — Score: 21
-- [Mathematicians still don't know the fastest way to multiply numbers](https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/) — Score: 44
+- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan) — Score: 179
+- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) — Score: 36
+- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) — Score: 110
+- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/) — Score: 120
+- [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/) — Score: 33
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,522.0 🟢 +0.96%
