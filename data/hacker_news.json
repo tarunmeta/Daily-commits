@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-18 19:31:29 UTC",
-    "fetched_at_ist": "2026-07-19 01:01:29 IST",
+    "fetched_at_utc": "2026-07-19 04:35:25 UTC",
+    "fetched_at_ist": "2026-07-19 10:05:25 IST",
     "item_count": 5,
-    "content_hash": "abadf991e46d2ae8a3a747f2c81438848e5b3952d047f4b47f17b257cfabab2b",
-    "previous_hash": "5845a1893512654d2bb1700fbea71ceb7f87af083492705da0b438d9d9dbcba3",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "cd5e03c617fa5cd463c34a8bb7f2d0196820ef05563d824af9506362708c128f",
+    "previous_hash": "abadf991e46d2ae8a3a747f2c81438848e5b3952d047f4b47f17b257cfabab2b",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48957779,
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 375,
-      "comments": 223
+      "id": 48963879,
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "score": 233,
+      "comments": 40
     },
     {
-      "id": 48960218,
-      "title": "The Kimi K3 Moment",
-      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-      "score": 42,
-      "comments": 24
+      "id": 48911793,
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "score": 347,
+      "comments": 36
     },
     {
-      "id": 48959143,
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
-      "score": 123,
-      "comments": 69
+      "id": 48964015,
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
+      "score": 78,
+      "comments": 23
     },
     {
-      "id": 48960155,
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "score": 104,
-      "comments": 89
+      "id": 48964536,
+      "title": "FDA approves new kind of cholesterol pill",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+      "score": 21,
+      "comments": 4
     },
     {
-      "id": 48959042,
-      "title": "Elixir-lang.org has a new design",
-      "url": "https://elixir-lang.org/",
-      "score": 99,
-      "comments": 61
+      "id": 48895861,
+      "title": "Mathematicians still don't know the fastest way to multiply numbers",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "score": 44,
+      "comments": 13
     }
   ]
 }
