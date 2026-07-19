@@ -15,18 +15,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-19 (last updated: 19:14 IST)
+
+## 📅 2026-07-19 (last updated: 20:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-07-18 23:37:21 IST | d69d62f48599 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-19 19:14:01 IST | 12219236a876 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-19 20:11:51 IST | ab2c450dfe32 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-19 14:56:48 IST | df099314aef9 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -42,11 +43,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 240 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan) — Score: 179
-- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) — Score: 36
-- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) — Score: 110
-- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/) — Score: 120
-- [I burned all my tokens researching how to save tokens](https://quesma.com/blog/custom-deep-research-pipeline/) — Score: 33
+- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) — Score: 75
+- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) — Score: 159
+- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/) — Score: 145
+- [The death and rebirth of my home server](https://sgt.hootr.club/blog/home-server-rebirth/) — Score: 52
+- [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) — Score: 103
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,522.0 🟢 +0.96%
