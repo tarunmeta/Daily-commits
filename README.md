@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-19 04:35:25 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-19 07:15:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **Robbyant/lingbot-map**
-- BTC: **$64,781.0** ↑ (+1.37%)
+- BTC: **$64,649.0** ↑ (+1.09%)
 - HN top story: **Transcribe.cpp**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-07-18 18:07:21 UTC | `d69d62f48599` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-07-19 04:35:25 UTC | `cd5e03c617fa` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-18 23:27:22 UTC | `f828ea9cd168` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-19 07:15:38 UTC | `9417e32ed99d` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-19` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `87` day(s) |
-| Last Commit (IST) | `2026-07-19 06:33:22 IST` |
+| Last Commit (IST) | `2026-07-19 10:05:25 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-16 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-17 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-18 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
-| 2026-07-19 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-07-19 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,781.0 | +1.37% | 🟢 |
-| Ethereum | $1,861.59 | +1.22% | 🟢 |
-| Solana | $75.49 | +0.71% | 🟢 |
-| Bnb | $570.04 | +0.47% | 🟢 |
+| Bitcoin | $64,649.0 | +1.09% | 🟢 |
+| Ethereum | $1,866.51 | +1.32% | 🟢 |
+| Solana | $75.99 | +1.44% | 🟢 |
+| Bnb | $568.61 | +0.27% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
