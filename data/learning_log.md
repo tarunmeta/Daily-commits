@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-07-20 (last updated: 00:10 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 11 | 2026-07-18 23:37:21 IST | d69d62f48599 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-20 00:10:18 IST | 64715c55f9bd | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-07-19 14:56:48 IST | df099314aef9 | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** (Python) — A feed-forward 3D foundation model for reconstructing scenes from streaming data  
+  ⭐ 827 stars today
+- **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
+  ⭐ 48 stars today
+- **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
+  ⭐ 337 stars today
+- **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** (TypeScript) — Skills for Design Engineers  
+  ⭐ 242 stars today
+- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
+  ⭐ 240 stars today
+
+### 📰 Hacker News Stories
+- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) — Score: 595
+- [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g) — Score: 23
+- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) — Score: 165
+- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) — Score: 310
+- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) — Score: 273
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $64,522.0 🟢 +0.96%
+- Ethereum: $1,866.99 🟢 +1.31%
+- Solana: $75.94 🟢 +1.68%
+- Bnb: $567.22 🔴 -0.08%
+
+---
 
 
 

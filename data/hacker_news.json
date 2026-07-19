@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-19 17:42:22 UTC",
-    "fetched_at_ist": "2026-07-19 23:12:22 IST",
+    "fetched_at_utc": "2026-07-19 18:40:18 UTC",
+    "fetched_at_ist": "2026-07-20 00:10:18 IST",
     "item_count": 5,
-    "content_hash": "35b1956f1d844bb726d8fd5d85c80ef4022665d6ea0fa925586c6438c82d403e",
-    "previous_hash": "4193e2d29c5299deaad008447560266473078fe255d5cedd17406e2f31451d34",
+    "content_hash": "64715c55f9bd430d704281b7ca9a03a8f4c2c44fee3ecdbf231ae808ab74e7a1",
+    "previous_hash": "35b1956f1d844bb726d8fd5d85c80ef4022665d6ea0fa925586c6438c82d403e",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48966120,
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 535,
-      "comments": 387
+      "score": 595,
+      "comments": 435
     },
     {
       "id": 48969983,
       "title": "HMD Touch 4G",
       "url": "https://www.hmd.com/en_int/hmd-touch-4g",
-      "score": 9,
-      "comments": 4
+      "score": 23,
+      "comments": 26
+    },
+    {
+      "id": 48968606,
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "score": 165,
+      "comments": 17
     },
     {
       "id": 48966713,
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 284,
-      "comments": 122
-    },
-    {
-      "id": 48968063,
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 58,
-      "comments": 32
+      "score": 310,
+      "comments": 143
     },
     {
       "id": 48966569,
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 240,
-      "comments": 318
+      "score": 273,
+      "comments": 358
     }
   ]
 }
