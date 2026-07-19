@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-19 14:41:51 UTC",
-    "fetched_at_ist": "2026-07-19 20:11:51 IST",
+    "fetched_at_utc": "2026-07-19 15:39:52 UTC",
+    "fetched_at_ist": "2026-07-19 21:09:52 IST",
     "item_count": 5,
-    "content_hash": "ab2c450dfe3270ce2c1f1aa42d0f1d5becdc850aa34505c46c39206fd7c0be12",
-    "previous_hash": "12219236a87670b13f37ea6d955c5b282a54e0c19105bb3a592c79e43d209efa",
+    "content_hash": "3f44c91c154636127b1325b9bf972c7f233bbeb56d77ea08c0fc27c7721e628d",
+    "previous_hash": "ab2c450dfe3270ce2c1f1aa42d0f1d5becdc850aa34505c46c39206fd7c0be12",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48966120,
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "score": 390,
+      "comments": 303
+    },
+    {
       "id": 48967256,
       "title": "Minecraft: Java Edition now uses SDL3",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 75,
-      "comments": 42
+      "score": 117,
+      "comments": 72
     },
     {
       "id": 48966713,
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 159,
-      "comments": 81
+      "score": 204,
+      "comments": 102
+    },
+    {
+      "id": 48968063,
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+      "score": 22,
+      "comments": 15
     },
     {
       "id": 48911021,
       "title": "Blender 5.2 LTS",
       "url": "https://www.blender.org/download/releases/5-2/",
-      "score": 145,
-      "comments": 65
-    },
-    {
-      "id": 48966769,
-      "title": "The death and rebirth of my home server",
-      "url": "https://sgt.hootr.club/blog/home-server-rebirth/",
-      "score": 52,
-      "comments": 23
-    },
-    {
-      "id": 48965850,
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "score": 103,
-      "comments": 47
+      "score": 178,
+      "comments": 75
     }
   ]
 }
