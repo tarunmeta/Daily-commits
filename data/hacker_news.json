@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-19 15:39:52 UTC",
-    "fetched_at_ist": "2026-07-19 21:09:52 IST",
+    "fetched_at_utc": "2026-07-19 16:36:24 UTC",
+    "fetched_at_ist": "2026-07-19 22:06:24 IST",
     "item_count": 5,
-    "content_hash": "3f44c91c154636127b1325b9bf972c7f233bbeb56d77ea08c0fc27c7721e628d",
-    "previous_hash": "ab2c450dfe3270ce2c1f1aa42d0f1d5becdc850aa34505c46c39206fd7c0be12",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "4193e2d29c5299deaad008447560266473078fe255d5cedd17406e2f31451d34",
+    "previous_hash": "3f44c91c154636127b1325b9bf972c7f233bbeb56d77ea08c0fc27c7721e628d",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48966120,
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 390,
-      "comments": 303
+      "score": 457,
+      "comments": 343
     },
     {
       "id": 48967256,
       "title": "Minecraft: Java Edition now uses SDL3",
       "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 117,
-      "comments": 72
+      "score": 147,
+      "comments": 95
     },
     {
       "id": 48966713,
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 204,
-      "comments": 102
+      "score": 240,
+      "comments": 111
     },
     {
       "id": 48968063,
       "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
       "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 22,
-      "comments": 15
+      "score": 45,
+      "comments": 21
     },
     {
-      "id": 48911021,
-      "title": "Blender 5.2 LTS",
-      "url": "https://www.blender.org/download/releases/5-2/",
-      "score": 178,
-      "comments": 75
+      "id": 48966569,
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 187,
+      "comments": 273
     }
   ]
 }
