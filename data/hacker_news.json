@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-19 16:36:24 UTC",
-    "fetched_at_ist": "2026-07-19 22:06:24 IST",
+    "fetched_at_utc": "2026-07-19 17:42:22 UTC",
+    "fetched_at_ist": "2026-07-19 23:12:22 IST",
     "item_count": 5,
-    "content_hash": "4193e2d29c5299deaad008447560266473078fe255d5cedd17406e2f31451d34",
-    "previous_hash": "3f44c91c154636127b1325b9bf972c7f233bbeb56d77ea08c0fc27c7721e628d",
+    "content_hash": "35b1956f1d844bb726d8fd5d85c80ef4022665d6ea0fa925586c6438c82d403e",
+    "previous_hash": "4193e2d29c5299deaad008447560266473078fe255d5cedd17406e2f31451d34",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48966120,
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "score": 457,
-      "comments": 343
+      "score": 535,
+      "comments": 387
     },
     {
-      "id": 48967256,
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "score": 147,
-      "comments": 95
+      "id": 48969983,
+      "title": "HMD Touch 4G",
+      "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+      "score": 9,
+      "comments": 4
     },
     {
       "id": 48966713,
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
       "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "score": 240,
-      "comments": 111
+      "score": 284,
+      "comments": 122
     },
     {
       "id": 48968063,
       "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
       "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
-      "score": 45,
-      "comments": 21
+      "score": 58,
+      "comments": 32
     },
     {
       "id": 48966569,
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "score": 187,
-      "comments": 273
+      "score": 240,
+      "comments": 318
     }
   ]
 }
