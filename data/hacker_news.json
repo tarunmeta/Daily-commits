@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-20 21:32:26 UTC",
-    "fetched_at_ist": "2026-07-21 03:02:26 IST",
+    "fetched_at_utc": "2026-07-20 22:39:37 UTC",
+    "fetched_at_ist": "2026-07-21 04:09:37 IST",
     "item_count": 5,
-    "content_hash": "783a1285419f9712ae5eddf47615053d763c18292f4510267f4fb34b2d1aba65",
-    "previous_hash": "b9be8e3eda8c6091a89bd4ec4ab197c477cdddde31fa9a68571f9ca9b8f45b11",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "9e215565ea16a7c055a1b594b8828dd9967de4fd26534f8b09719c7ffdc99131",
+    "previous_hash": "783a1285419f9712ae5eddf47615053d763c18292f4510267f4fb34b2d1aba65",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48979269,
       "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 762,
-      "comments": 633
+      "score": 849,
+      "comments": 690
     },
     {
       "id": 48981703,
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
-      "score": 238,
-      "comments": 118
+      "score": 294,
+      "comments": 141
     },
     {
       "id": 48981620,
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
-      "score": 211,
-      "comments": 83
+      "score": 262,
+      "comments": 107
     },
     {
       "id": 48983382,
       "title": "Human mathematicians are being outcounterexampled",
       "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "score": 72,
-      "comments": 13
+      "score": 119,
+      "comments": 40
     },
     {
       "id": 48978605,
       "title": "Hacker wipes Romania's land registry database",
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "score": 508,
-      "comments": 274
+      "score": 532,
+      "comments": 296
     }
   ]
 }
