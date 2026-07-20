@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-20 22:39:37 UTC",
-    "fetched_at_ist": "2026-07-21 04:09:37 IST",
+    "fetched_at_utc": "2026-07-20 23:40:34 UTC",
+    "fetched_at_ist": "2026-07-21 05:10:34 IST",
     "item_count": 5,
-    "content_hash": "9e215565ea16a7c055a1b594b8828dd9967de4fd26534f8b09719c7ffdc99131",
-    "previous_hash": "783a1285419f9712ae5eddf47615053d763c18292f4510267f4fb34b2d1aba65",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "a2278fe4f8a0381190933c4c0ad884643eb71f133a8980f75e8aaa19f302368b",
+    "previous_hash": "9e215565ea16a7c055a1b594b8828dd9967de4fd26534f8b09719c7ffdc99131",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 48979269,
       "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 849,
-      "comments": 690
+      "score": 905,
+      "comments": 735
+    },
+    {
+      "id": 48977128,
+      "title": "Who's Afraid of Chinese Models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "score": 105,
+      "comments": 77
     },
     {
       "id": 48981703,
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
-      "score": 294,
-      "comments": 141
+      "score": 334,
+      "comments": 159
     },
     {
       "id": 48981620,
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
-      "score": 262,
-      "comments": 107
+      "score": 290,
+      "comments": 120
     },
     {
       "id": 48983382,
       "title": "Human mathematicians are being outcounterexampled",
       "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "score": 119,
-      "comments": 40
-    },
-    {
-      "id": 48978605,
-      "title": "Hacker wipes Romania's land registry database",
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "score": 532,
-      "comments": 296
+      "score": 152,
+      "comments": 58
     }
   ]
 }
