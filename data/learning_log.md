@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-20 (last updated: 17:56 IST)
+
+## 📅 2026-07-20 (last updated: 20:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-07-18 23:37:21 IST | d69d62f48599 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-20 00:10:18 IST | 64715c55f9bd | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-20 20:09:46 IST | b9be8e3eda8c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-20 17:56:35 IST | f25a2861837d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 240 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291) — Score: 595
-- [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g) — Score: 23
-- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) — Score: 165
-- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) — Score: 310
-- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) — Score: 273
+- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) — Score: 140
+- [Airport Simulator](https://airport.apunen.com/) — Score: 248
+- [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution) — Score: 29
+- [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html) — Score: 20
+- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) — Score: 270
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,646.0 🟢 +0.58%
