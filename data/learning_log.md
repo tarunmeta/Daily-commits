@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-21 (last updated: 23:53 IST)
+
+## 📅 2026-07-21 (last updated: 03:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-07-18 23:37:21 IST | d69d62f48599 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-20 20:09:46 IST | b9be8e3eda8c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-21 03:02:26 IST | 783a1285419f | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-20 23:53:30 IST | e96bbab16862 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 240 stars today
 
 ### 📰 Hacker News Stories
-- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) — Score: 140
-- [Airport Simulator](https://airport.apunen.com/) — Score: 248
-- [We're Squandering LEDs' Potential to Save Our Night Skies](https://spectrum.ieee.org/led-light-pollution) — Score: 29
-- [Perfection Is Not Over-Engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html) — Score: 20
-- [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/) — Score: 270
+- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) — Score: 762
+- [Kimi Work](https://www.kimi.com/products/kimi-work) — Score: 238
+- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) — Score: 211
+- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) — Score: 72
+- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) — Score: 508
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,591.0 🟢 +1.84%
@@ -44,18 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $573.62 🟢 +1.12%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-20 (last updated: 23:53 IST)
 
 ### 🧪 Source Integrity Snapshot
