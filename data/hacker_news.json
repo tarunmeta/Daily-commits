@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-21 22:36:30 UTC",
-    "fetched_at_ist": "2026-07-22 04:06:30 IST",
+    "fetched_at_utc": "2026-07-21 23:41:43 UTC",
+    "fetched_at_ist": "2026-07-22 05:11:43 IST",
     "item_count": 5,
-    "content_hash": "a63f731dd60785bd30829673046b7d4c9b88e838f53ab5499024699758529661",
-    "previous_hash": "bf442e35f8abac8953846ad728f958b0ef90c07fdb1236434f6f2a0149e35815",
+    "content_hash": "86bead47777fac208c345d750ccee6b978e4bd666f34772d23e7aae7d38eb1ea",
+    "previous_hash": "a63f731dd60785bd30829673046b7d4c9b88e838f53ab5499024699758529661",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 48997548,
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 429,
-      "comments": 278
+      "score": 552,
+      "comments": 359
+    },
+    {
+      "id": 48999291,
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "score": 134,
+      "comments": 68
     },
     {
       "id": 48996318,
       "title": "FreeInk: Open ecosystem for e-readers",
       "url": "https://freeink.org/",
-      "score": 306,
-      "comments": 68
+      "score": 355,
+      "comments": 79
     },
     {
       "id": 48998362,
       "title": "A digestion of the Jacobian conjecture counterexample",
       "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "score": 63,
-      "comments": 15
+      "score": 115,
+      "comments": 27
     },
     {
       "id": 48993414,
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 555,
-      "comments": 445
-    },
-    {
-      "id": 48993816,
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-      "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "score": 263,
-      "comments": 48
+      "score": 582,
+      "comments": 465
     }
   ]
 }
