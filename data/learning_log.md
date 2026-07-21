@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-07-22 (last updated: 22:51 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-21 17:30:04 IST | 7c17872d946d | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-21 22:51:14 IST | b829afd5809f | 4 assets moved, biggest mover: bitcoin |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +19 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
+
+### 🚀 Trending Repos Tracked Today
+- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
+  ⭐ 1,167 stars today
+- **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
+  ⭐ 4,434 stars today
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** (Python) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of   
+  ⭐ 1,833 stars today
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** (Unknown) — A skill for your coding agent to stop it from burying the answer. ADHD-friendly   
+  ⭐ 1,846 stars today
+- **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** (JavaScript) — A collection of agent skills for CAD, robotics and hardware design  
+  ⭐ 297 stars today
+
+### 📰 Hacker News Stories
+- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) — Score: 178
+- [The Growing Compute Shortage](https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage) — Score: 35
+- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental) — Score: 240
+- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 710
+- [GitHub suddenly rejected my SSH key (the fix was a .pub file?)](https://thorsell.io/2026/07/21/github-ssh-keys.html) — Score: 4
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $66,401.0 🟢 +1.50%
+- Ethereum: $1,922.65 🟢 +1.34%
+- Solana: $77.92 🟢 +0.46%
+- Bnb: $573.07 🟢 +0.19%
+
+---
 
 
 
