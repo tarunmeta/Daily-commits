@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-22 (last updated: 01:48 IST)
+
+## 📅 2026-07-22 (last updated: 03:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-21 17:30:04 IST | 7c17872d946d | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-22 03:09:14 IST | bf442e35f8ab | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-22 01:48:46 IST | cd7dc095a2ed | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) — Score: 178
-- [The Growing Compute Shortage](https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage) — Score: 35
-- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental) — Score: 240
-- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 710
-- [GitHub suddenly rejected my SSH key (the fix was a .pub file?)](https://thorsell.io/2026/07/21/github-ssh-keys.html) — Score: 4
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) — Score: 303
+- [FreeInk: Open ecosystem for e-readers](https://freeink.org/) — Score: 261
+- [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) — Score: 528
+- [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef) — Score: 250
+- [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) — Score: 160
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $66,350.0 🟢 +1.80%

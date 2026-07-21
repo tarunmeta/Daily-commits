@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-21 12:00:04 UTC",
-    "fetched_at_ist": "2026-07-21 17:30:04 IST",
+    "fetched_at_utc": "2026-07-21 21:39:14 UTC",
+    "fetched_at_ist": "2026-07-22 03:09:14 IST",
     "item_count": 5,
-    "content_hash": "7c17872d946d8beabfe473eb9b07dbd0a175ceba5613ff2a9e7ee3188a0354a5",
-    "previous_hash": "43531e5f3b23e3844fff61c152e23147aa344145239a27b940409950ec53bc2f",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "bf442e35f8abac8953846ad728f958b0ef90c07fdb1236434f6f2a0149e35815",
+    "previous_hash": "7c17872d946d8beabfe473eb9b07dbd0a175ceba5613ff2a9e7ee3188a0354a5",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48989701,
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "score": 178,
-      "comments": 93
+      "id": 48997548,
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "score": 303,
+      "comments": 165
     },
     {
-      "id": 48937252,
-      "title": "The Growing Compute Shortage",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage",
-      "score": 35,
-      "comments": 13
+      "id": 48996318,
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "url": "https://freeink.org/",
+      "score": 261,
+      "comments": 62
     },
     {
-      "id": 48987822,
-      "title": "Incremental – A library for incremental computations",
-      "url": "https://github.com/janestreet/incremental",
-      "score": 240,
-      "comments": 42
+      "id": 48993414,
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "score": 528,
+      "comments": 423
     },
     {
-      "id": 48977128,
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 710,
-      "comments": 521
+      "id": 48993816,
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "score": 250,
+      "comments": 45
     },
     {
-      "id": 48990929,
-      "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?)",
-      "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
-      "score": 4,
-      "comments": 0
+      "id": 48995213,
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "score": 160,
+      "comments": 149
     }
   ]
 }
