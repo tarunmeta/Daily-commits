@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-21 (last updated: 05:10 IST)
+
+## 📅 2026-07-21 (last updated: 10:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-07-18 23:37:21 IST | d69d62f48599 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-21 05:10:34 IST | a2278fe4f8a0 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-21 10:02:09 IST | 43531e5f3b23 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-20 23:53:30 IST | e96bbab16862 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 240 stars today
 
 ### 📰 Hacker News Stories
-- [China’s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/) — Score: 905
-- [Who's Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 105
-- [Kimi Work](https://www.kimi.com/products/kimi-work) — Score: 334
-- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) — Score: 290
-- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) — Score: 152
+- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 417
+- [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/) — Score: 11
+- [Kimi Work](https://www.kimi.com/products/kimi-work) — Score: 447
+- [Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding) — Score: 39
+- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) — Score: 399
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,591.0 🟢 +1.84%

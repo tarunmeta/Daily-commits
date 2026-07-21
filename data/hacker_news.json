@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-20 23:40:34 UTC",
-    "fetched_at_ist": "2026-07-21 05:10:34 IST",
+    "fetched_at_utc": "2026-07-21 04:32:09 UTC",
+    "fetched_at_ist": "2026-07-21 10:02:09 IST",
     "item_count": 5,
-    "content_hash": "a2278fe4f8a0381190933c4c0ad884643eb71f133a8980f75e8aaa19f302368b",
-    "previous_hash": "9e215565ea16a7c055a1b594b8828dd9967de4fd26534f8b09719c7ffdc99131",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "43531e5f3b23e3844fff61c152e23147aa344145239a27b940409950ec53bc2f",
+    "previous_hash": "a2278fe4f8a0381190933c4c0ad884643eb71f133a8980f75e8aaa19f302368b",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48979269,
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "score": 905,
-      "comments": 735
+      "id": 48977128,
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "score": 417,
+      "comments": 285
     },
     {
-      "id": 48977128,
-      "title": "Who's Afraid of Chinese Models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 105,
-      "comments": 77
+      "id": 48987831,
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "score": 11,
+      "comments": 1
     },
     {
       "id": 48981703,
       "title": "Kimi Work",
       "url": "https://www.kimi.com/products/kimi-work",
-      "score": 334,
-      "comments": 159
+      "score": 447,
+      "comments": 196
+    },
+    {
+      "id": 48987863,
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "score": 39,
+      "comments": 0
     },
     {
       "id": 48981620,
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
       "url": "https://jelly-ui.com/",
-      "score": 290,
-      "comments": 120
-    },
-    {
-      "id": 48983382,
-      "title": "Human mathematicians are being outcounterexampled",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "score": 152,
-      "comments": 58
+      "score": 399,
+      "comments": 143
     }
   ]
 }
