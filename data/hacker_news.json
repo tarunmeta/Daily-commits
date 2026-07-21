@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-21 04:32:09 UTC",
-    "fetched_at_ist": "2026-07-21 10:02:09 IST",
+    "fetched_at_utc": "2026-07-21 12:00:04 UTC",
+    "fetched_at_ist": "2026-07-21 17:30:04 IST",
     "item_count": 5,
-    "content_hash": "43531e5f3b23e3844fff61c152e23147aa344145239a27b940409950ec53bc2f",
-    "previous_hash": "a2278fe4f8a0381190933c4c0ad884643eb71f133a8980f75e8aaa19f302368b",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "7c17872d946d8beabfe473eb9b07dbd0a175ceba5613ff2a9e7ee3188a0354a5",
+    "previous_hash": "43531e5f3b23e3844fff61c152e23147aa344145239a27b940409950ec53bc2f",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 48989701,
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "score": 178,
+      "comments": 93
+    },
+    {
+      "id": 48937252,
+      "title": "The Growing Compute Shortage",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage",
+      "score": 35,
+      "comments": 13
+    },
+    {
+      "id": 48987822,
+      "title": "Incremental – A library for incremental computations",
+      "url": "https://github.com/janestreet/incremental",
+      "score": 240,
+      "comments": 42
+    },
+    {
       "id": 48977128,
       "title": "Who's afraid of Chinese models?",
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "score": 417,
-      "comments": 285
+      "score": 710,
+      "comments": 521
     },
     {
-      "id": 48987831,
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "score": 11,
-      "comments": 1
-    },
-    {
-      "id": 48981703,
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
-      "score": 447,
-      "comments": 196
-    },
-    {
-      "id": 48987863,
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-      "score": 39,
+      "id": 48990929,
+      "title": "GitHub suddenly rejected my SSH key (the fix was a .pub file?)",
+      "url": "https://thorsell.io/2026/07/21/github-ssh-keys.html",
+      "score": 4,
       "comments": 0
-    },
-    {
-      "id": 48981620,
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
-      "score": 399,
-      "comments": 143
     }
   ]
 }

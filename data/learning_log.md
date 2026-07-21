@@ -11,44 +11,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-21 (last updated: 12:50 IST)
+
+## 📅 2026-07-21 (last updated: 17:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-07-18 23:37:21 IST | d69d62f48599 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-21 10:02:09 IST | 43531e5f3b23 | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-21 12:50:06 IST | 87a5713e7a27 | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-21 17:30:04 IST | 7c17872d946d | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-21 17:30:02 IST | 35dfe0fbf43f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +19 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map)** (Python) — A feed-forward 3D foundation model for reconstructing scenes from streaming data  
-  ⭐ 827 stars today
-- **[apache/ossie](https://github.com/apache/ossie)** (Python) — Apache Ossie, industry wide specification effort to standardize how we exchange   
-  ⭐ 48 stars today
-- **[PostHog/posthog](https://github.com/PostHog/posthog)** (Python) — 🦔 PostHog is the leading platform for building self-driving products. Our develo  
-  ⭐ 337 stars today
-- **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** (TypeScript) — Skills for Design Engineers  
-  ⭐ 242 stars today
-- **[rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)** (Python) — Learn it. Build it. Ship it for others.  
-  ⭐ 240 stars today
+- **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
+  ⭐ 1,167 stars today
+- **[bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)** (Python) — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码  
+  ⭐ 4,434 stars today
+- **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** (Python) — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of   
+  ⭐ 1,833 stars today
+- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** (Unknown) — A skill for your coding agent to stop it from burying the answer. ADHD-friendly   
+  ⭐ 1,846 stars today
+- **[earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)** (JavaScript) — A collection of agent skills for CAD, robotics and hardware design  
+  ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 417
-- [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/) — Score: 11
-- [Kimi Work](https://www.kimi.com/products/kimi-work) — Score: 447
-- [Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding) — Score: 39
-- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) — Score: 399
+- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) — Score: 178
+- [The Growing Compute Shortage](https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage) — Score: 35
+- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental) — Score: 240
+- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) — Score: 710
+- [GitHub suddenly rejected my SSH key (the fix was a .pub file?)](https://thorsell.io/2026/07/21/github-ssh-keys.html) — Score: 4
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $65,910.0 🟢 +3.20%
-- Ethereum: $1,934.98 🟢 +4.65%
-- Solana: $78.58 🟢 +3.86%
-- Bnb: $575.29 🟢 +1.88%
+- Bitcoin: $66,276.0 🟢 +2.04%
+- Ethereum: $1,933.61 🟢 +2.22%
+- Solana: $78.31 🟢 +1.67%
+- Bnb: $575.95 🟢 +0.97%
 
 ---
 ## 📅 2026-07-20 (last updated: 23:53 IST)

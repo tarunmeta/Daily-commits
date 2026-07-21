@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-21 07:20:06 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-21 12:00:04 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **Robbyant/lingbot-map**
-- BTC: **$65,910.0** ↑ (+3.20%)
-- HN top story: **Who's afraid of Chinese models?**
+- Top GitHub repo: **koala73/worldmonitor**
+- BTC: **$66,276.0** ↑ (+2.04%)
+- HN top story: **Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-07-18 18:07:21 UTC | `d69d62f48599` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-21 04:32:09 UTC | `43531e5f3b23` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-21 07:20:06 UTC | `87a5713e7a27` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 21 | 2026-07-21 12:00:02 UTC | `0d8809db6bf4` | +19 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-21 12:00:04 UTC | `7c17872d946d` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-21 12:00:02 UTC | `35dfe0fbf43f` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +19 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-21` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| Streak | `88` day(s) |
-| Last Commit (IST) | `2026-07-21 12:50:06 IST` |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
+| Streak | `87` day(s) |
+| Last Commit (IST) | `2026-07-21 15:31:51 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-18 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 | 2026-07-19 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-20 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-07-21 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-07-21 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $65,910.0 | +3.20% | 🟢 |
-| Ethereum | $1,934.98 | +4.65% | 🟢 |
-| Solana | $78.58 | +3.86% | 🟢 |
-| Bnb | $575.29 | +1.88% | 🟢 |
+| Bitcoin | $66,276.0 | +2.04% | 🟢 |
+| Ethereum | $1,933.61 | +2.22% | 🟢 |
+| Solana | $78.31 | +1.67% | 🟢 |
+| Bnb | $575.95 | +0.97% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 827 stars today | A feed-forward 3D foundation model for reconstructing scenes from streaming data |
-| [apache/ossie](https://github.com/apache/ossie) | Python | 48 stars today | Apache Ossie, industry wide specification effort to standardize how we exchange … |
-| [PostHog/posthog](https://github.com/PostHog/posthog) | Python | 337 stars today | 🦔 PostHog is the leading platform for building self-driving products. Our develo… |
-| [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | TypeScript | 242 stars today | Skills for Design Engineers |
-| [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | 240 stars today | Learn it. Build it. Ship it for others. |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 356 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
-| [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | TypeScript | 63 stars today | LIBERATED AI CHAT |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 242 stars today | AirLLM 70B inference with single 4GB GPU |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 1,167 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
+| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | 4,434 stars today | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
+| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 1,833 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Unknown | 1,846 stars today | A skill for your coding agent to stop it from burying the answer. ADHD-friendly … |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | JavaScript | 297 stars today | A collection of agent skills for CAD, robotics and hardware design |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 568 stars today | The most intelligent agent harness for code |
+| [oblien/openship](https://github.com/oblien/openship) | TypeScript | 1,641 stars today | Self-hosted deployment platform |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | 317 stars today | AI Agent Assistant & development framework that integrates lots of IM platforms,… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) | 417 | 285 |
-| [A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste](https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/) | 11 | 1 |
-| [Kimi Work](https://www.kimi.com/products/kimi-work) | 447 | 196 |
-| [Five US tech giants' hidden debts soar to $1.65T on opaque AI funding](https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding) | 39 | 0 |
-| [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) | 399 | 143 |
+| [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0) | 178 | 93 |
+| [The Growing Compute Shortage](https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage) | 35 | 13 |
+| [Incremental – A library for incremental computations](https://github.com/janestreet/incremental) | 240 | 42 |
+| [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) | 710 | 521 |
+| [GitHub suddenly rejected my SSH key (the fix was a .pub file?)](https://thorsell.io/2026/07/21/github-ssh-keys.html) | 4 | 0 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
