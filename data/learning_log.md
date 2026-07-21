@@ -4,14 +4,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-22 (last updated: 22:51 IST)
+
+## 📅 2026-07-22 (last updated: 01:48 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-21 17:30:04 IST | 7c17872d946d | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-21 22:51:14 IST | b829afd5809f | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-22 01:48:46 IST | cd7dc095a2ed | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
@@ -38,23 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [GitHub suddenly rejected my SSH key (the fix was a .pub file?)](https://thorsell.io/2026/07/21/github-ssh-keys.html) — Score: 4
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,401.0 🟢 +1.50%
-- Ethereum: $1,922.65 🟢 +1.34%
-- Solana: $77.92 🟢 +0.46%
-- Bnb: $573.07 🟢 +0.19%
+- Bitcoin: $66,350.0 🟢 +1.80%
+- Ethereum: $1,921.3 🟢 +1.16%
+- Solana: $77.86 🟢 +0.28%
+- Bnb: $572.64 🟢 +0.18%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-21 (last updated: 22:51 IST)
 
 ### 🧪 Source Integrity Snapshot
