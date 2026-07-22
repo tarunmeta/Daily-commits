@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-22 04:34:23 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-22 07:22:08 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **koala73/worldmonitor**
-- BTC: **$66,350.0** ↑ (+1.80%)
+- BTC: **$65,853.0** ↓ (-0.03%)
 - HN top story: **OpenAI and Hugging Face address security incident during model evaluation**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 12:00:02 UTC | `0d8809db6bf4` | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-22 04:34:23 UTC | `6b0d2dee4e28` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-07-21 20:18:46 UTC | `cd7dc095a2ed` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-22 07:22:08 UTC | `18404efeb4a7` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-22` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `88` day(s) |
-| Last Commit (IST) | `2026-07-22 06:38:24 IST` |
+| Last Commit (IST) | `2026-07-22 10:04:24 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-19 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-07-20 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-21 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-07-22 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-07-22 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,350.0 | +1.80% | 🟢 |
-| Ethereum | $1,921.3 | +1.16% | 🟢 |
-| Solana | $77.86 | +0.28% | 🟢 |
-| Bnb | $572.64 | +0.18% | 🟢 |
+| Bitcoin | $65,853.0 | -0.03% | 🔴 |
+| Ethereum | $1,914.49 | -0.99% | 🔴 |
+| Solana | $77.17 | -1.81% | 🔴 |
+| Bnb | $567.43 | -1.34% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 

@@ -10,19 +10,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-22 (last updated: 10:04 IST)
+
+## 📅 2026-07-22 (last updated: 12:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-22 10:04:23 IST | 6b0d2dee4e28 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-07-22 01:48:46 IST | cd7dc095a2ed | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-22 12:52:08 IST | 18404efeb4a7 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Advertise in ChatGPT](https://ads.openai.com/) — Score: 505
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,350.0 🟢 +1.80%
-- Ethereum: $1,921.3 🟢 +1.16%
-- Solana: $77.86 🟢 +0.28%
-- Bnb: $572.64 🟢 +0.18%
+- Bitcoin: $65,853.0 🔴 -0.03%
+- Ethereum: $1,914.49 🔴 -0.99%
+- Solana: $77.17 🔴 -1.81%
+- Bnb: $567.43 🔴 -1.34%
 
 ---
 ## 📅 2026-07-21 (last updated: 22:51 IST)
