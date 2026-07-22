@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-22 18:41:43 UTC",
-    "fetched_at_ist": "2026-07-23 00:11:43 IST",
+    "fetched_at_utc": "2026-07-22 22:33:17 UTC",
+    "fetched_at_ist": "2026-07-23 04:03:17 IST",
     "item_count": 5,
-    "content_hash": "00ddf614bb4fa2a51e4539460174d9caec427b4ad4b454d2e41927feb1b404de",
-    "previous_hash": "6b0d2dee4e2855345c45f064176f1d4d293371a712fc2fef4fb8bc467c2cb18c",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "35f8c385041ba99f6b8ad53c6bf900da1ebcd18b3eb0135516d1733892062173",
+    "previous_hash": "00ddf614bb4fa2a51e4539460174d9caec427b4ad4b454d2e41927feb1b404de",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49010345,
       "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 168,
-      "comments": 67
+      "score": 478,
+      "comments": 277
     },
     {
       "id": 49010167,
       "title": "GigaToken: ~1000x faster Language model tokenization",
       "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 89,
-      "comments": 15
-    },
-    {
-      "id": 49008211,
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "score": 398,
-      "comments": 82
-    },
-    {
-      "id": 49008440,
-      "title": "Making",
-      "url": "https://beej.us/blog/data/ai-making/",
-      "score": 151,
+      "score": 293,
       "comments": 56
     },
     {
-      "id": 49005787,
-      "title": "The startup's Postgres survival guide",
-      "url": "https://hatchet.run/blog/postgres-survival-guide",
-      "score": 197,
-      "comments": 99
+      "id": 49013538,
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "score": 37,
+      "comments": 3
+    },
+    {
+      "id": 49007247,
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "score": 30,
+      "comments": 11
+    },
+    {
+      "id": 49013356,
+      "title": "Safari Technology Preview 248 Released",
+      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "score": 45,
+      "comments": 7
     }
   ]
 }
