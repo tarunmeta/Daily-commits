@@ -2,48 +2,48 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-22 22:33:17 UTC",
-    "fetched_at_ist": "2026-07-23 04:03:17 IST",
+    "fetched_at_utc": "2026-07-22 23:42:07 UTC",
+    "fetched_at_ist": "2026-07-23 05:12:07 IST",
     "item_count": 5,
-    "content_hash": "35f8c385041ba99f6b8ad53c6bf900da1ebcd18b3eb0135516d1733892062173",
-    "previous_hash": "00ddf614bb4fa2a51e4539460174d9caec427b4ad4b454d2e41927feb1b404de",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "8026763ae7c7178d504aa2ceed00a14a42c4661e346660af702804c9c4bf144c",
+    "previous_hash": "35f8c385041ba99f6b8ad53c6bf900da1ebcd18b3eb0135516d1733892062173",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49010345,
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "score": 478,
-      "comments": 277
-    },
-    {
-      "id": 49010167,
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "score": 293,
-      "comments": 56
-    },
-    {
-      "id": 49013538,
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
-      "score": 37,
-      "comments": 3
+      "id": 49014007,
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
+      "score": 54,
+      "comments": 8
     },
     {
       "id": 49007247,
       "title": "Quality non-fiction books are the antithesis of AI slop",
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "score": 30,
-      "comments": 11
+      "score": 65,
+      "comments": 37
     },
     {
-      "id": 49013356,
-      "title": "Safari Technology Preview 248 Released",
-      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
-      "score": 45,
+      "id": 49010167,
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "score": 322,
+      "comments": 60
+    },
+    {
+      "id": 49010345,
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "score": 532,
+      "comments": 332
+    },
+    {
+      "id": 49013538,
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "score": 51,
       "comments": 7
     }
   ]

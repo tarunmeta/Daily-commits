@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-23 (last updated: 04:03 IST)
+
+## 📅 2026-07-23 (last updated: 05:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-23 04:03:17 IST | 35f8c385041b | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-23 05:12:07 IST | 8026763ae7c7 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-23 02:47:15 IST | 3f9fdcdec649 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 478
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 293
-- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html) — Score: 37
-- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 30
-- [Safari Technology Preview 248 Released](https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/) — Score: 45
+- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) — Score: 54
+- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 65
+- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 322
+- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 532
+- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html) — Score: 51
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,902.0 🔴 -0.62%
