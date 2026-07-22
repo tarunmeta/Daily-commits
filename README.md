@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-22 18:41:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-22 21:17:15 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **koala73/worldmonitor**
-- BTC: **$66,056.0** ↓ (-0.52%)
+- BTC: **$65,902.0** ↓ (-0.62%)
 - HN top story: **Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 12:00:02 UTC | `0d8809db6bf4` | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-22 18:41:43 UTC | `00ddf614bb4f` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-22 17:20:39 UTC | `2b6836396a55` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-22 21:17:15 UTC | `3f9fdcdec649` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-23` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-07-23 00:11:44 IST` |
+| Last Commit (IST) | `2026-07-23 01:29:06 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-20 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-21 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-22 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-07-23 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-07-23 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $66,056.0 | -0.52% | 🔴 |
-| Ethereum | $1,942.47 | +1.00% | 🟢 |
-| Solana | $78.46 | +0.61% | 🟢 |
-| Bnb | $574.18 | +0.20% | 🟢 |
+| Bitcoin | $65,902.0 | -0.62% | 🔴 |
+| Ethereum | $1,927.44 | +0.31% | 🟢 |
+| Solana | $77.77 | -0.24% | 🔴 |
+| Bnb | $570.73 | -0.35% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 

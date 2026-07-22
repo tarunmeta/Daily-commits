@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-23 (last updated: 00:11 IST)
+
+## 📅 2026-07-23 (last updated: 02:47 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-23 00:11:43 IST | 00ddf614bb4f | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-22 22:50:39 IST | 2b6836396a55 | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-23 02:47:15 IST | 3f9fdcdec649 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [The startup's Postgres survival guide](https://hatchet.run/blog/postgres-survival-guide) — Score: 197
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $66,056.0 🔴 -0.52%
-- Ethereum: $1,942.47 🟢 +1.00%
-- Solana: $78.46 🟢 +0.61%
-- Bnb: $574.18 🟢 +0.20%
+- Bitcoin: $65,902.0 🔴 -0.62%
+- Ethereum: $1,927.44 🟢 +0.31%
+- Solana: $77.77 🔴 -0.24%
+- Bnb: $570.73 🔴 -0.35%
 
 ---
 ## 📅 2026-07-22 (last updated: 22:50 IST)
