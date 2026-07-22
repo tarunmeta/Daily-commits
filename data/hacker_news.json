@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-22 04:34:23 UTC",
-    "fetched_at_ist": "2026-07-22 10:04:23 IST",
+    "fetched_at_utc": "2026-07-22 18:41:43 UTC",
+    "fetched_at_ist": "2026-07-23 00:11:43 IST",
     "item_count": 5,
-    "content_hash": "6b0d2dee4e2855345c45f064176f1d4d293371a712fc2fef4fb8bc467c2cb18c",
-    "previous_hash": "86bead47777fac208c345d750ccee6b978e4bd666f34772d23e7aae7d38eb1ea",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "00ddf614bb4fa2a51e4539460174d9caec427b4ad4b454d2e41927feb1b404de",
+    "previous_hash": "6b0d2dee4e2855345c45f064176f1d4d293371a712fc2fef4fb8bc467c2cb18c",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 48997548,
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 861,
-      "comments": 599
+      "id": 49010345,
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "score": 168,
+      "comments": 67
     },
     {
-      "id": 48999291,
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "url": "https://fireworks.ai/blog/kimik3-fable",
-      "score": 413,
-      "comments": 257
+      "id": 49010167,
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "score": 89,
+      "comments": 15
     },
     {
-      "id": 49000864,
-      "title": "LG to ban residential proxies from smart TV apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "score": 95,
-      "comments": 70
+      "id": 49008211,
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
+      "score": 398,
+      "comments": 82
     },
     {
-      "id": 48996318,
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "url": "https://freeink.org/",
-      "score": 459,
-      "comments": 110
+      "id": 49008440,
+      "title": "Making",
+      "url": "https://beej.us/blog/data/ai-making/",
+      "score": 151,
+      "comments": 56
     },
     {
-      "id": 48996571,
-      "title": "Advertise in ChatGPT",
-      "url": "https://ads.openai.com/",
-      "score": 505,
-      "comments": 393
+      "id": 49005787,
+      "title": "The startup's Postgres survival guide",
+      "url": "https://hatchet.run/blog/postgres-survival-guide",
+      "score": 197,
+      "comments": 99
     }
   ]
 }
