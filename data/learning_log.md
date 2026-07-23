@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-24 (last updated: 00:49 IST)
+
+## 📅 2026-07-24 (last updated: 02:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-23 10:09:24 IST | 3a7f5e27c289 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-24 02:05:44 IST | f8fc171ded1c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-24 00:49:29 IST | 85c04b423b08 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html) — Score: 33
-- [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 702
-- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 231
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 412
-- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) — Score: 714
+- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) — Score: 714
+- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) — Score: 75
+- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) — Score: 188
+- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) — Score: 70
+- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) — Score: 554
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,795.0 🔴 -1.47%
@@ -44,18 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $566.23 🔴 -0.55%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-23 (last updated: 12:49 IST)
 
 ### 🧪 Source Integrity Snapshot
