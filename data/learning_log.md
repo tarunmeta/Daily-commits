@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-23 (last updated: 05:12 IST)
+
+## 📅 2026-07-23 (last updated: 10:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-23 05:12:07 IST | 8026763ae7c7 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-23 10:09:24 IST | 3a7f5e27c289 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-23 02:47:15 IST | 3f9fdcdec649 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) — Score: 54
-- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 65
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 322
-- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 532
-- [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html) — Score: 51
+- [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html) — Score: 33
+- [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) — Score: 702
+- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) — Score: 231
+- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) — Score: 412
+- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) — Score: 714
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,902.0 🔴 -0.62%
