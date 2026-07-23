@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-23 21:42:54 UTC",
-    "fetched_at_ist": "2026-07-24 03:12:54 IST",
+    "fetched_at_utc": "2026-07-23 22:39:28 UTC",
+    "fetched_at_ist": "2026-07-24 04:09:28 IST",
     "item_count": 5,
-    "content_hash": "7e8cd79c416a426aa7a7d625cbef42e4ce775a446459062607ffc1d75625f0f2",
-    "previous_hash": "f8fc171ded1cf25f9fa3f9fc4563c3b30cdc2b169a927bdea3bfac0a0a811cc8",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "438620cc1175ba74f91db9970d519dae52a4082958c6730000cef7fd323f7b70",
+    "previous_hash": "7e8cd79c416a426aa7a7d625cbef42e4ce775a446459062607ffc1d75625f0f2",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49022152,
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 796,
-      "comments": 400
-    },
     {
       "id": 49027892,
       "title": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
       "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-      "score": 43,
-      "comments": 10
+      "score": 152,
+      "comments": 60
+    },
+    {
+      "id": 49022152,
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "score": 849,
+      "comments": 425
     },
     {
       "id": 49026810,
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 123,
-      "comments": 57
+      "score": 157,
+      "comments": 73
     },
     {
-      "id": 49024691,
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 216,
-      "comments": 100
+      "id": 49028037,
+      "title": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+      "url": "https://news.ycombinator.com/item?id=49028037",
+      "score": 184,
+      "comments": 47
     },
     {
       "id": 49007221,
       "title": "The Beam Engine",
       "url": "https://glinscott.github.io/beam-engine/",
-      "score": 44,
-      "comments": 14
+      "score": 76,
+      "comments": 30
     }
   ]
 }
