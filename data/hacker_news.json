@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-24 04:32:35 UTC",
-    "fetched_at_ist": "2026-07-24 10:02:35 IST",
+    "fetched_at_utc": "2026-07-24 11:42:35 UTC",
+    "fetched_at_ist": "2026-07-24 17:12:35 IST",
     "item_count": 5,
-    "content_hash": "578f8a6f26c783dc97a8d65a3d332d800d91f38b0fe4f43300f2211a17847b0c",
-    "previous_hash": "97b20cf162ac9aafecd431700711c4addaaa3734919c889282a787558c0bdf0a",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "4deb68e8676ceb14bf0009c0325ddb494964032dfd92a738b17c73059486a5e9",
+    "previous_hash": "578f8a6f26c783dc97a8d65a3d332d800d91f38b0fe4f43300f2211a17847b0c",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49033127,
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "score": 97,
+      "comments": 8
+    },
+    {
+      "id": 49031796,
+      "title": "Flux 3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "score": 350,
+      "comments": 89
+    },
+    {
+      "id": 49032660,
+      "title": "It's getting harder to focus every day",
+      "url": "https://glyphack.com/attention/",
+      "score": 140,
+      "comments": 72
+    },
     {
       "id": 49022152,
       "title": "Writing by hand is good for your brain",
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1076,
-      "comments": 509
-    },
-    {
-      "id": 49026810,
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 272,
-      "comments": 137
-    },
-    {
-      "id": 49007221,
-      "title": "The Beam Engine",
-      "url": "https://glinscott.github.io/beam-engine/",
-      "score": 213,
-      "comments": 65
+      "score": 1344,
+      "comments": 613
     },
     {
       "id": 49023016,
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
       "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 798,
-      "comments": 695
-    },
-    {
-      "id": 49024691,
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 318,
-      "comments": 141
+      "score": 975,
+      "comments": 793
     }
   ]
 }
