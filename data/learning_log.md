@@ -10,14 +10,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-24 (last updated: 10:02 IST)
+
+## 📅 2026-07-24 (last updated: 12:47 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-24 10:02:35 IST | 578f8a6f26c7 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-07-24 00:49:29 IST | 85c04b423b08 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-24 12:47:55 IST | c8d851ac3266 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
@@ -44,10 +45,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) — Score: 318
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,795.0 🔴 -1.47%
-- Ethereum: $1,877.55 🔴 -2.48%
-- Solana: $75.58 🔴 -2.49%
-- Bnb: $566.23 🔴 -0.55%
+- Bitcoin: $65,705.0 🟢 +0.46%
+- Ethereum: $1,906.74 🔴 -0.48%
+- Solana: $76.33 🔴 -1.08%
+- Bnb: $570.62 🟢 +0.36%
 
 ---
 ## 📅 2026-07-23 (last updated: 12:49 IST)
