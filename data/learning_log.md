@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 03:48 IST)
+
+## 📅 2026-07-25 (last updated: 05:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-24 17:12:35 IST | 4deb68e8676c | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-25 05:02:17 IST | 7c4cca36e72f | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 03:48:06 IST | 01a1dc6e2067 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic) — Score: 97
-- [Flux 3](https://bfl.ai/blog/flux-3) — Score: 350
-- [It's getting harder to focus every day](https://glyphack.com/attention/) — Score: 140
-- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) — Score: 1344
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) — Score: 975
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 1191
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) — Score: 161
+- [SpaceX Starship Flight 13 livestream [video]](https://www.spacex.com/launches/starship-flight-13) — Score: 18
+- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) — Score: 58
+- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) — Score: 485
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,093.0 🔴 -1.48%

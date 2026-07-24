@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-24 11:42:35 UTC",
-    "fetched_at_ist": "2026-07-24 17:12:35 IST",
+    "fetched_at_utc": "2026-07-24 23:32:17 UTC",
+    "fetched_at_ist": "2026-07-25 05:02:17 IST",
     "item_count": 5,
-    "content_hash": "4deb68e8676ceb14bf0009c0325ddb494964032dfd92a738b17c73059486a5e9",
-    "previous_hash": "578f8a6f26c783dc97a8d65a3d332d800d91f38b0fe4f43300f2211a17847b0c",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "7c4cca36e72f3d6dd9e67a7e767e37370cd33ba7504e390221e34d8a25aeafa0",
+    "previous_hash": "4deb68e8676ceb14bf0009c0325ddb494964032dfd92a738b17c73059486a5e9",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49033127,
-      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "url": "https://bfl.ai/blog/flux-3-mimic",
-      "score": 97,
-      "comments": 8
+      "id": 49038433,
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 1191,
+      "comments": 652
     },
     {
-      "id": 49031796,
-      "title": "Flux 3",
-      "url": "https://bfl.ai/blog/flux-3",
-      "score": 350,
-      "comments": 89
+      "id": 49040296,
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "score": 161,
+      "comments": 29
     },
     {
-      "id": 49032660,
-      "title": "It's getting harder to focus every day",
-      "url": "https://glyphack.com/attention/",
-      "score": 140,
-      "comments": 72
+      "id": 49042528,
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "url": "https://www.spacex.com/launches/starship-flight-13",
+      "score": 18,
+      "comments": 9
     },
     {
-      "id": 49022152,
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 1344,
-      "comments": 613
+      "id": 49040741,
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "score": 58,
+      "comments": 31
     },
     {
-      "id": 49023016,
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 975,
-      "comments": 793
+      "id": 49034292,
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "score": 485,
+      "comments": 168
     }
   ]
 }
