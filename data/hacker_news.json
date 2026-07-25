@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 13:36:04 UTC",
-    "fetched_at_ist": "2026-07-25 19:06:04 IST",
+    "fetched_at_utc": "2026-07-25 19:43:54 UTC",
+    "fetched_at_ist": "2026-07-26 01:13:54 IST",
     "item_count": 5,
-    "content_hash": "39bb497e15f91c54e0f1fdb1a90a7a80841d5509f7d9c6b93e13b06bfaa6c7a3",
-    "previous_hash": "33d61a731fbe151e2a8e5174954da13dc2d583180f9c85a330512d8dbf54fdae",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "169e80f1edc1d2f4625da698d80281ac24fc867ec379a44e4ac70287c58bee35",
+    "previous_hash": "39bb497e15f91c54e0f1fdb1a90a7a80841d5509f7d9c6b93e13b06bfaa6c7a3",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49050566,
+      "title": "Show HN: Bribes.fyi – Know before you go. New feature added",
+      "url": "https://bribes.fyi/before-you-go",
+      "score": 46,
+      "comments": 27
+    },
+    {
+      "id": 48976262,
+      "title": "Stolen Buttons",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "score": 345,
+      "comments": 80
+    },
+    {
+      "id": 49048034,
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "score": 183,
+      "comments": 126
+    },
+    {
       "id": 49045159,
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 442,
-      "comments": 196
+      "score": 756,
+      "comments": 351
     },
     {
-      "id": 49038433,
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "score": 1659,
-      "comments": 1031
-    },
-    {
-      "id": 49043724,
-      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
-      "score": 364,
-      "comments": 59
-    },
-    {
-      "id": 49006096,
-      "title": "My Images Are Dithered",
-      "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-      "score": 27,
-      "comments": 4
-    },
-    {
-      "id": 49010993,
-      "title": "Building a Tiny 3D Renderer for a Tiny Handheld",
-      "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
-      "score": 100,
-      "comments": 7
+      "id": 49039868,
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
+      "score": 35,
+      "comments": 3
     }
   ]
 }
