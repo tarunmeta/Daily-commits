@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 20:34:23 UTC",
-    "fetched_at_ist": "2026-07-26 02:04:23 IST",
+    "fetched_at_utc": "2026-07-25 21:36:37 UTC",
+    "fetched_at_ist": "2026-07-26 03:06:37 IST",
     "item_count": 5,
-    "content_hash": "0ef5fb367b6f1733711f873abfe77775ebc443afb77bfd78a701ea1278132b6b",
-    "previous_hash": "169e80f1edc1d2f4625da698d80281ac24fc867ec379a44e4ac70287c58bee35",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "53220904b85f88e831275a69dc725c70f8fc53be5cc487c625847468d8039216",
+    "previous_hash": "0ef5fb367b6f1733711f873abfe77775ebc443afb77bfd78a701ea1278132b6b",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 48976262,
       "title": "Stolen Buttons",
       "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 399,
-      "comments": 88
+      "score": 464,
+      "comments": 107
     },
     {
       "id": 49050735,
       "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
       "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "score": 36,
-      "comments": 9
+      "score": 52,
+      "comments": 20
     },
     {
       "id": 49045159,
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 793,
-      "comments": 372
+      "score": 821,
+      "comments": 393
     },
     {
-      "id": 49050824,
-      "title": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
-      "url": "https://github.com/lucid-fabrics/proxmox-bluetooth",
-      "score": 16,
-      "comments": 4
+      "id": 49048034,
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "score": 257,
+      "comments": 193
     },
     {
       "id": 49039868,
       "title": "Show HN: I made some transistor animations",
       "url": "https://brandonli.net/semisim/animations",
-      "score": 48,
-      "comments": 5
+      "score": 73,
+      "comments": 8
     }
   ]
 }
