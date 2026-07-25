@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-07-26 (last updated: 01:13 IST)
+
+## 📅 2026-07-26 (last updated: 02:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-26 01:13:54 IST | 169e80f1edc1 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-26 02:04:23 IST | 0ef5fb367b6f | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 23:56:09 IST | 27971db8b382 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Bribes.fyi – Know before you go. New feature added](https://bribes.fyi/before-you-go) — Score: 46
-- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 345
-- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/) — Score: 183
-- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) — Score: 756
-- [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations) — Score: 35
+- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 399
+- [Producing ammonia and fertiliser using wind power in Morris, Minnesota](https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/) — Score: 36
+- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) — Score: 793
+- [Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network](https://github.com/lucid-fabrics/proxmox-bluetooth) — Score: 16
+- [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations) — Score: 48
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,316.0 🟢 +0.33%
@@ -44,20 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $567.77 🟢 +1.18%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-07-25 (last updated: 23:56 IST)
 
 ### 🧪 Source Integrity Snapshot
