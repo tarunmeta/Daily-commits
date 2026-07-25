@@ -16,19 +16,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 19:06 IST)
+
+## 📅 2026-07-25 (last updated: 22:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-25 19:06:04 IST | 39bb497e15f9 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-25 15:57:36 IST | 556c25c430b1 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-25 22:45:17 IST | 396b8639822b | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
@@ -50,10 +51,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld) — Score: 100
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,963.0 🔴 -1.55%
-- Ethereum: $1,855.74 🔴 -1.51%
-- Solana: $73.89 🔴 -2.06%
-- Bnb: $565.13 🔴 -0.36%
+- Bitcoin: $64,153.0 🟢 +0.42%
+- Ethereum: $1,866.68 🟢 +0.59%
+- Solana: $74.27 🟢 +0.52%
+- Bnb: $566.52 🟢 +1.14%
 
 ---
 ## 📅 2026-07-24 (last updated: 23:52 IST)
