@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 21:36:37 UTC",
-    "fetched_at_ist": "2026-07-26 03:06:37 IST",
+    "fetched_at_utc": "2026-07-25 22:37:48 UTC",
+    "fetched_at_ist": "2026-07-26 04:07:48 IST",
     "item_count": 5,
-    "content_hash": "53220904b85f88e831275a69dc725c70f8fc53be5cc487c625847468d8039216",
-    "previous_hash": "0ef5fb367b6f1733711f873abfe77775ebc443afb77bfd78a701ea1278132b6b",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "45bd075c11f0fab604cc317b6c9d071b8d06baf9ddbec035f9e572e6fe89f174",
+    "previous_hash": "53220904b85f88e831275a69dc725c70f8fc53be5cc487c625847468d8039216",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49051947,
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "score": 40,
+      "comments": 4
+    },
+    {
+      "id": 49051361,
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "score": 79,
+      "comments": 38
+    },
+    {
+      "id": 49051120,
+      "title": "Did They Ghost You?",
+      "url": "https://didtheyghostyou.com/",
+      "score": 83,
+      "comments": 34
+    },
     {
       "id": 48976262,
       "title": "Stolen Buttons",
       "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 464,
-      "comments": 107
+      "score": 490,
+      "comments": 115
     },
     {
-      "id": 49050735,
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "score": 52,
-      "comments": 20
-    },
-    {
-      "id": 49045159,
-      "title": "Android May Soon Restrict On-Device ADB",
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "score": 821,
-      "comments": 393
-    },
-    {
-      "id": 49048034,
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "score": 257,
-      "comments": 193
-    },
-    {
-      "id": 49039868,
-      "title": "Show HN: I made some transistor animations",
-      "url": "https://brandonli.net/semisim/animations",
-      "score": 73,
-      "comments": 8
+      "id": 49051369,
+      "title": "Fly.io CEO Kurt Mackey is stepping down",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
+      "score": 94,
+      "comments": 42
     }
   ]
 }
