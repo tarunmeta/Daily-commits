@@ -13,18 +13,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 15:57 IST)
+
+## 📅 2026-07-25 (last updated: 19:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-25 12:10:46 IST | 33d61a731fbe | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-25 19:06:04 IST | 39bb497e15f9 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-25 15:57:36 IST | 556c25c430b1 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 1455
-- [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc) — Score: 49
-- [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities) — Score: 22
-- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) — Score: 272
-- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) — Score: 59
+- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) — Score: 442
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 1659
+- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) — Score: 364
+- [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html) — Score: 27
+- [Building a Tiny 3D Renderer for a Tiny Handheld](https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld) — Score: 100
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,963.0 🔴 -1.55%
