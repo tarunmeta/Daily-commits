@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 22:37:48 UTC",
-    "fetched_at_ist": "2026-07-26 04:07:48 IST",
+    "fetched_at_utc": "2026-07-25 23:43:01 UTC",
+    "fetched_at_ist": "2026-07-26 05:13:01 IST",
     "item_count": 5,
-    "content_hash": "45bd075c11f0fab604cc317b6c9d071b8d06baf9ddbec035f9e572e6fe89f174",
-    "previous_hash": "53220904b85f88e831275a69dc725c70f8fc53be5cc487c625847468d8039216",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "f5d79deaeb74db5cc87e9ef1da7fbd1618ef8eaa86c23fc87e4b761eb9131d7c",
+    "previous_hash": "45bd075c11f0fab604cc317b6c9d071b8d06baf9ddbec035f9e572e6fe89f174",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49051947,
       "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
       "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "score": 40,
-      "comments": 4
-    },
-    {
-      "id": 49051361,
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 79,
-      "comments": 38
+      "score": 81,
+      "comments": 22
     },
     {
       "id": 49051120,
       "title": "Did They Ghost You?",
       "url": "https://didtheyghostyou.com/",
-      "score": 83,
-      "comments": 34
+      "score": 171,
+      "comments": 58
+    },
+    {
+      "id": 49051361,
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "score": 113,
+      "comments": 65
     },
     {
       "id": 48976262,
       "title": "Stolen Buttons",
       "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 490,
-      "comments": 115
+      "score": 519,
+      "comments": 121
     },
     {
-      "id": 49051369,
-      "title": "Fly.io CEO Kurt Mackey is stepping down",
-      "url": "https://fly.io/blog/kurt-scott-money-sprites/",
-      "score": 94,
-      "comments": 42
+      "id": 49013464,
+      "title": "SIMD for Collision",
+      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
+      "score": 30,
+      "comments": 6
     }
   ]
 }
