@@ -8,19 +8,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 05:02 IST)
+
+## 📅 2026-07-25 (last updated: 09:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-25 05:02:17 IST | 7c4cca36e72f | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-25 03:48:06 IST | 01a1dc6e2067 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-25 09:58:17 IST | f325da997498 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) — Score: 485
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,093.0 🔴 -1.48%
-- Ethereum: $1,857.71 🔴 -0.94%
-- Solana: $73.73 🔴 -2.85%
-- Bnb: $563.76 🔴 -0.46%
+- Bitcoin: $64,055.0 🔴 -2.00%
+- Ethereum: $1,858.33 🔴 -1.11%
+- Solana: $74.27 🔴 -1.88%
+- Bnb: $564.88 🔴 -0.59%
 
 ---
 ## 📅 2026-07-24 (last updated: 23:52 IST)
