@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-25 (last updated: 09:58 IST)
+
+## 📅 2026-07-25 (last updated: 12:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-25 05:02:17 IST | 7c4cca36e72f | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-25 12:10:46 IST | 33d61a731fbe | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-07-25 09:58:17 IST | f325da997498 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 1191
-- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) — Score: 161
-- [SpaceX Starship Flight 13 livestream [video]](https://www.spacex.com/launches/starship-flight-13) — Score: 18
-- [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) — Score: 58
-- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) — Score: 485
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) — Score: 1455
+- [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc) — Score: 49
+- [UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities](https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities) — Score: 22
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) — Score: 272
+- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize) — Score: 59
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,055.0 🔴 -2.00%
