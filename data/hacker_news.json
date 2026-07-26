@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-26 07:41:33 UTC",
-    "fetched_at_ist": "2026-07-26 13:11:33 IST",
+    "fetched_at_utc": "2026-07-26 12:38:03 UTC",
+    "fetched_at_ist": "2026-07-26 18:08:03 IST",
     "item_count": 5,
-    "content_hash": "8d8f7d9788e8cc41b0afbd997f7e37f10670f3da339909915eea54669af451d4",
-    "previous_hash": "f5d79deaeb74db5cc87e9ef1da7fbd1618ef8eaa86c23fc87e4b761eb9131d7c",
+    "content_hash": "fbbb173e499d0229f55c2e64798cc31b0e447485e2a6802f61d2b07ab1b48bd0",
+    "previous_hash": "8d8f7d9788e8cc41b0afbd997f7e37f10670f3da339909915eea54669af451d4",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49056112,
+      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "score": 133,
+      "comments": 68
+    },
+    {
+      "id": 49057248,
+      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
+      "url": "https://english.mapn.ro/",
+      "score": 9,
+      "comments": 0
+    },
+    {
       "id": 49047453,
       "title": "A shell colon does nothing. Use it anyway",
       "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 91,
-      "comments": 32
+      "score": 258,
+      "comments": 102
     },
     {
-      "id": 49054107,
-      "title": "An ESP32 based plane radar for my desk",
-      "url": "https://blog.ktz.me/esp32-plane-radar/",
-      "score": 106,
-      "comments": 19
+      "id": 49055169,
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "score": 141,
+      "comments": 72
     },
     {
-      "id": 49054224,
-      "title": "JetZero",
-      "url": "https://www.jetzero.aero",
-      "score": 174,
-      "comments": 129
-    },
-    {
-      "id": 49053375,
-      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "score": 102,
+      "id": 49056351,
+      "title": "Systemd Linger",
+      "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+      "score": 19,
       "comments": 7
-    },
-    {
-      "id": 49051361,
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 291,
-      "comments": 182
     }
   ]
 }

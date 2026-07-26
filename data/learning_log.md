@@ -13,13 +13,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-26 (last updated: 16:49 IST)
+
+## 📅 2026-07-26 (last updated: 18:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-26 13:11:33 IST | 8d8f7d9788e8 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-26 18:08:03 IST | fbbb173e499d | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-26 16:49:42 IST | 4db8e7849f3e | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -40,11 +41,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) — Score: 91
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) — Score: 106
-- [JetZero](https://www.jetzero.aero) — Score: 174
-- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2) — Score: 102
-- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) — Score: 291
+- [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0) — Score: 133
+- [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/) — Score: 9
+- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) — Score: 258
+- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices) — Score: 141
+- [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,462.0 🟢 +0.72%
