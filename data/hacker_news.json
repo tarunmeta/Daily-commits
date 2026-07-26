@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-25 23:43:01 UTC",
-    "fetched_at_ist": "2026-07-26 05:13:01 IST",
+    "fetched_at_utc": "2026-07-26 07:41:33 UTC",
+    "fetched_at_ist": "2026-07-26 13:11:33 IST",
     "item_count": 5,
-    "content_hash": "f5d79deaeb74db5cc87e9ef1da7fbd1618ef8eaa86c23fc87e4b761eb9131d7c",
-    "previous_hash": "45bd075c11f0fab604cc317b6c9d071b8d06baf9ddbec035f9e572e6fe89f174",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "8d8f7d9788e8cc41b0afbd997f7e37f10670f3da339909915eea54669af451d4",
+    "previous_hash": "f5d79deaeb74db5cc87e9ef1da7fbd1618ef8eaa86c23fc87e4b761eb9131d7c",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49051947,
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "score": 81,
-      "comments": 22
+      "id": 49047453,
+      "title": "A shell colon does nothing. Use it anyway",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "score": 91,
+      "comments": 32
     },
     {
-      "id": 49051120,
-      "title": "Did They Ghost You?",
-      "url": "https://didtheyghostyou.com/",
-      "score": 171,
-      "comments": 58
+      "id": 49054107,
+      "title": "An ESP32 based plane radar for my desk",
+      "url": "https://blog.ktz.me/esp32-plane-radar/",
+      "score": 106,
+      "comments": 19
+    },
+    {
+      "id": 49054224,
+      "title": "JetZero",
+      "url": "https://www.jetzero.aero",
+      "score": 174,
+      "comments": 129
+    },
+    {
+      "id": 49053375,
+      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "score": 102,
+      "comments": 7
     },
     {
       "id": 49051361,
       "title": "The new rules of context engineering for Claude 5 generation models",
       "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "score": 113,
-      "comments": 65
-    },
-    {
-      "id": 48976262,
-      "title": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
-      "score": 519,
-      "comments": 121
-    },
-    {
-      "id": 49013464,
-      "title": "SIMD for Collision",
-      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-      "score": 30,
-      "comments": 6
+      "score": 291,
+      "comments": 182
     }
   ]
 }

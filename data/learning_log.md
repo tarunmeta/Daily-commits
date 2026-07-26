@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-26 (last updated: 06:46 IST)
+
+## 📅 2026-07-26 (last updated: 13:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-26 05:13:01 IST | f5d79deaeb74 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-26 13:11:33 IST | 8d8f7d9788e8 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-26 06:46:03 IST | 0f586ea361cd | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 297 stars today
 
 ### 📰 Hacker News Stories
-- [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) — Score: 81
-- [Did They Ghost You?](https://didtheyghostyou.com/) — Score: 171
-- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) — Score: 113
-- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) — Score: 519
-- [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/) — Score: 30
+- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) — Score: 91
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) — Score: 106
+- [JetZero](https://www.jetzero.aero) — Score: 174
+- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2) — Score: 102
+- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) — Score: 291
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,442.0 🟢 +0.74%
