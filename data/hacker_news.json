@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-26 15:39:08 UTC",
-    "fetched_at_ist": "2026-07-26 21:09:08 IST",
+    "fetched_at_utc": "2026-07-26 16:35:57 UTC",
+    "fetched_at_ist": "2026-07-26 22:05:57 IST",
     "item_count": 5,
-    "content_hash": "9231bdcd0713ff677a983720083631f4fde3c7715ac47fbaf520af0b3c60f613",
-    "previous_hash": "fbbb173e499d0229f55c2e64798cc31b0e447485e2a6802f61d2b07ab1b48bd0",
+    "content_hash": "1512cb3b6441da0d17c1605395e11dcca863ed86cfeee35eb9f8ffa2fc2ad0b0",
+    "previous_hash": "9231bdcd0713ff677a983720083631f4fde3c7715ac47fbaf520af0b3c60f613",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49058669,
       "title": "Park by Robot at London Gatwick Airport",
       "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "score": 33,
-      "comments": 10
+      "score": 97,
+      "comments": 50
+    },
+    {
+      "id": 49059367,
+      "title": "Design Is Compromise",
+      "url": "https://stephango.com/design-is-compromise",
+      "score": 20,
+      "comments": 2
+    },
+    {
+      "id": 49057175,
+      "title": "Kill The Cookie Banner",
+      "url": "https://killthecookiebanner.eu/",
+      "score": 140,
+      "comments": 71
+    },
+    {
+      "id": 49059398,
+      "title": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "score": 10,
+      "comments": 0
     },
     {
       "id": 49057398,
       "title": "Go Analysis Framework: modular static analysis by go team",
       "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "score": 85,
-      "comments": 7
-    },
-    {
-      "id": 49056112,
-      "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "score": 239,
-      "comments": 137
-    },
-    {
-      "id": 49057574,
-      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-      "score": 172,
-      "comments": 105
-    },
-    {
-      "id": 49055169,
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 246,
-      "comments": 126
+      "score": 106,
+      "comments": 6
     }
   ]
 }
