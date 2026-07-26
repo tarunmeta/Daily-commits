@@ -14,19 +14,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-26 (last updated: 18:08 IST)
+
+## 📅 2026-07-26 (last updated: 19:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-26 18:08:03 IST | fbbb173e499d | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-26 16:49:42 IST | 4db8e7849f3e | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-26 19:45:43 IST | 377bf686f7a0 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
@@ -48,10 +49,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Systemd Linger](https://etbe.coker.com.au/2026/07/24/systemd-linger/) — Score: 19
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,462.0 🟢 +0.72%
-- Ethereum: $1,885.67 🟢 +1.48%
-- Solana: $75.04 🟢 +1.48%
-- Bnb: $570.54 🟢 +0.95%
+- Bitcoin: $64,635.0 🟢 +0.80%
+- Ethereum: $1,892.48 🟢 +1.44%
+- Solana: $75.06 🟢 +1.69%
+- Bnb: $571.47 🟢 +0.81%
 
 ---
 ## 📅 2026-07-25 (last updated: 23:56 IST)
