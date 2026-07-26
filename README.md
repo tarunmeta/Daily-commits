@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-25 23:43:01 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-26 01:16:03 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **koala73/worldmonitor**
-- BTC: **$64,316.0** ↑ (+0.33%)
+- BTC: **$64,442.0** ↑ (+0.74%)
 - HN top story: **GM Backs Sodium Ion Batteries for U.S. Grid Storage**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 12:00:02 UTC | `0d8809db6bf4` | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-25 23:43:01 UTC | `f5d79deaeb74` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-07-25 18:26:09 UTC | `27971db8b382` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-26 01:16:03 UTC | `0f586ea361cd` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-26` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `88` day(s) |
-| Last Commit (IST) | `2026-07-26 04:07:49 IST` |
+| Last Commit (IST) | `2026-07-26 05:13:01 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-23 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-24 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-25 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-26 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-07-26 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,316.0 | +0.33% | 🟢 |
-| Ethereum | $1,871.51 | +0.52% | 🟢 |
-| Solana | $74.46 | +0.62% | 🟢 |
-| Bnb | $567.77 | +1.18% | 🟢 |
+| Bitcoin | $64,442.0 | +0.74% | 🟢 |
+| Ethereum | $1,878.46 | +1.11% | 🟢 |
+| Solana | $74.68 | +0.89% | 🟢 |
+| Bnb | $569.72 | +0.95% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 

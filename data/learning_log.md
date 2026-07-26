@@ -8,19 +8,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-26 (last updated: 05:13 IST)
+
+## 📅 2026-07-26 (last updated: 06:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 21 | 2026-07-21 17:30:02 IST | 0d8809db6bf4 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-26 05:13:01 IST | f5d79deaeb74 | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-07-25 23:56:09 IST | 27971db8b382 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-26 06:46:03 IST | 0f586ea361cd | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[koala73/worldmonitor](https://github.com/koala73/worldmonitor)** (TypeScript) — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic  
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/) — Score: 30
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,316.0 🟢 +0.33%
-- Ethereum: $1,871.51 🟢 +0.52%
-- Solana: $74.46 🟢 +0.62%
-- Bnb: $567.77 🟢 +1.18%
+- Bitcoin: $64,442.0 🟢 +0.74%
+- Ethereum: $1,878.46 🟢 +1.11%
+- Solana: $74.68 🟢 +0.89%
+- Bnb: $569.72 🟢 +0.95%
 
 ---
 ## 📅 2026-07-25 (last updated: 23:56 IST)
