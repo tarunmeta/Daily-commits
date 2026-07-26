@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-26 12:38:03 UTC",
-    "fetched_at_ist": "2026-07-26 18:08:03 IST",
+    "fetched_at_utc": "2026-07-26 15:39:08 UTC",
+    "fetched_at_ist": "2026-07-26 21:09:08 IST",
     "item_count": 5,
-    "content_hash": "fbbb173e499d0229f55c2e64798cc31b0e447485e2a6802f61d2b07ab1b48bd0",
-    "previous_hash": "8d8f7d9788e8cc41b0afbd997f7e37f10670f3da339909915eea54669af451d4",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "9231bdcd0713ff677a983720083631f4fde3c7715ac47fbaf520af0b3c60f613",
+    "previous_hash": "fbbb173e499d0229f55c2e64798cc31b0e447485e2a6802f61d2b07ab1b48bd0",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49058669,
+      "title": "Park by Robot at London Gatwick Airport",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "score": 33,
+      "comments": 10
+    },
+    {
+      "id": 49057398,
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+      "score": 85,
+      "comments": 7
+    },
+    {
       "id": 49056112,
       "title": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
       "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "score": 133,
-      "comments": 68
+      "score": 239,
+      "comments": 137
     },
     {
-      "id": 49057248,
-      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-      "url": "https://english.mapn.ro/",
-      "score": 9,
-      "comments": 0
-    },
-    {
-      "id": 49047453,
-      "title": "A shell colon does nothing. Use it anyway",
-      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "score": 258,
-      "comments": 102
+      "id": 49057574,
+      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+      "score": 172,
+      "comments": 105
     },
     {
       "id": 49055169,
       "title": "GrapheneOS protections against data extraction from locked devices",
       "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "score": 141,
-      "comments": 72
-    },
-    {
-      "id": 49056351,
-      "title": "Systemd Linger",
-      "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-      "score": 19,
-      "comments": 7
+      "score": 246,
+      "comments": 126
     }
   ]
 }
