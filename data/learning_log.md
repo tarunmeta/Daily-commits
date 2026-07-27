@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-28 (last updated: 03:48 IST)
+
+## 📅 2026-07-28 (last updated: 05:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-27 23:35:11 IST | 8b795819af11 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-27 23:35:12 IST | fa7b4a9d3e04 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-28 05:04:21 IST | 117ef56c9491 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-28 03:48:34 IST | 11bc106be003 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 349 stars today
 
 ### 📰 Hacker News Stories
-- [MAI-Cyber 1](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/) — Score: 61
-- [Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3) — Score: 1047
-- [Glue bonds to nonstick surfaces and wipes clean with ethanol](https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07) — Score: 72
-- [The computer that helped win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone) — Score: 80
-- [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/) — Score: 20
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) — Score: 265
+- [A Discord Alternative – Echoed](https://echoed.gg/) — Score: 22
+- [DConf 2026 in London](https://dconf.org/2026/index.html) — Score: 11
+- [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) — Score: 148
+- [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) — Score: 53
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,670.0 🔴 -0.74%
