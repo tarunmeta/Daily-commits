@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-27 00:14:42 UTC",
-    "fetched_at_ist": "2026-07-27 05:44:42 IST",
+    "fetched_at_utc": "2026-07-27 18:05:12 UTC",
+    "fetched_at_ist": "2026-07-27 23:35:12 IST",
     "item_count": 5,
-    "content_hash": "54ded30b55e053cebc82e05595c16ea892493e5ce0e0938ed48ab551df9febfe",
-    "previous_hash": "5b1cab51f0d66c847d526a02481861b328b7c52cfad79b49e65f6d38ff341236",
+    "content_hash": "fa7b4a9d3e04c3cb526139bd96eed5820abe647084f63b372e22c9bb984f9a66",
+    "previous_hash": "54ded30b55e053cebc82e05595c16ea892493e5ce0e0938ed48ab551df9febfe",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49063454,
-      "title": "Show HN: Distill and serve small models with frontier quality for half the cost",
-      "url": "https://github.com/experientiallabs/world-model-optimizer",
-      "score": 33,
-      "comments": 5
+      "id": 49072361,
+      "title": "MAI-Cyber 1",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "score": 61,
+      "comments": 13
     },
     {
-      "id": 49060856,
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 189,
-      "comments": 43
+      "id": 49065752,
+      "title": "Kimi-K3 on HuggingFace",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "score": 1047,
+      "comments": 426
     },
     {
-      "id": 49020219,
-      "title": "I wanted a clock that never needed setting. Things escalated",
-      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
-      "score": 16,
-      "comments": 10
+      "id": 49020993,
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "score": 72,
+      "comments": 29
     },
     {
-      "id": 49062700,
-      "title": "Teaching Kids Forth",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "score": 37,
-      "comments": 8
+      "id": 49012309,
+      "title": "The computer that helped win World War II",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "score": 80,
+      "comments": 35
     },
     {
-      "id": 49060495,
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 131,
-      "comments": 62
+      "id": 49072462,
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "score": 20,
+      "comments": 3
     }
   ]
 }

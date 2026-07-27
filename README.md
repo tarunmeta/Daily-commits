@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-27 16:21:20 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-27 18:05:12 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **permissionlesstech/bitchat**
-- BTC: **$64,494.0** ↓ (-0.31%)
-- HN top story: **Show HN: Distill and serve small models with frontier quality for half the cost**
+- BTC: **$64,970.0** ↑ (+0.52%)
+- HN top story: **MAI-Cyber 1**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-27 00:14:37 UTC | `6c5aaa2ec2c6` | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-27 00:14:42 UTC | `54ded30b55e0` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-27 16:21:20 UTC | `da648a0f48cc` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-07-27 18:05:11 UTC | `8b795819af11` | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-27 18:05:12 UTC | `fa7b4a9d3e04` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-27 18:05:11 UTC | `934b8e15727b` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +17 new repos, top changed: yes
+- GitHub: +7 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-27` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `88` day(s) |
-| Last Commit (IST) | `2026-07-27 19:23:38 IST` |
+| Last Commit (IST) | `2026-07-27 21:51:21 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-24 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-25 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-26 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-27 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-07-27 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,494.0 | -0.31% | 🔴 |
-| Ethereum | $1,925.74 | +0.73% | 🟢 |
-| Solana | $75.21 | -0.27% | 🔴 |
-| Bnb | $568.83 | -0.68% | 🔴 |
+| Bitcoin | $64,970.0 | +0.52% | 🟢 |
+| Ethereum | $1,941.57 | +1.62% | 🟢 |
+| Solana | $75.86 | +0.73% | 🟢 |
+| Bnb | $574.03 | +0.31% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 1,166 stars today | bluetooth mesh chat, IRC vibes |
-| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 900 stars today | The fastest browser for AI agents to run web automation, built for sharing your … |
-| [block/buzz](https://github.com/block/buzz) | Rust | 1,710 stars today | A hive mind communication platform |
-| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 149 stars today | No description |
-| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | TypeScript | 888 stars today | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste… |
-| [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 131 stars today | Pretty fancy and modern terminal file manager |
-| [nodejs/node](https://github.com/nodejs/node) | JavaScript | 36 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
-| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | Java | 398 stars today | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting M… |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 2,344 stars today | bluetooth mesh chat, IRC vibes |
+| [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | C++ | 515 stars today | Amnezia VPN Client (Desktop+Mobile) |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 554 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 600 stars today | Pretty fancy and modern terminal file manager |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 349 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 849 stars today | The design language that makes your AI harness better at design. |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 442 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 980 stars today | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer) | 33 | 5 |
-| [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) | 189 | 43 |
-| [I wanted a clock that never needed setting. Things escalated](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/) | 16 | 10 |
-| [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) | 37 | 8 |
-| [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) | 131 | 62 |
+| [MAI-Cyber 1](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/) | 61 | 13 |
+| [Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3) | 1047 | 426 |
+| [Glue bonds to nonstick surfaces and wipes clean with ethanol](https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07) | 72 | 29 |
+| [The computer that helped win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone) | 80 | 35 |
+| [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/) | 20 | 3 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

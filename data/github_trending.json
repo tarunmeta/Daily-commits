@@ -2,116 +2,98 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-27 00:14:37 UTC",
-    "fetched_at_ist": "2026-07-27 05:44:37 IST",
-    "item_count": 17,
-    "content_hash": "6c5aaa2ec2c62ab50cce871ce646d62062cbf771be075057f9aa2368ef1097f2",
-    "previous_hash": "0d8809db6bf4d93897e458ca88f69d20a629d7f77ead2d25dbaf5ed1d70270bd",
-    "new_repos_vs_previous": 17,
-    "top_repo_changed": true
+    "fetched_at_utc": "2026-07-27 18:05:11 UTC",
+    "fetched_at_ist": "2026-07-27 23:35:11 IST",
+    "item_count": 14,
+    "content_hash": "8b795819af11899268a4542b3afff571abf3f4c8158b0c1697803a751e2c0622",
+    "previous_hash": "6c5aaa2ec2c62ab50cce871ce646d62062cbf771be075057f9aa2368ef1097f2",
+    "new_repos_vs_previous": 7,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "permissionlesstech/bitchat",
       "description": "bluetooth mesh chat, IRC vibes",
       "language": "Swift",
-      "stars_today": "1,166 stars today"
-    },
-    {
-      "name": "citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "stars_today": "900 stars today"
-    },
-    {
-      "name": "block/buzz",
-      "description": "A hive mind communication platform",
-      "language": "Rust",
-      "stars_today": "1,710 stars today"
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "description": "No description",
-      "language": "TypeScript",
-      "stars_today": "149 stars today"
-    },
-    {
-      "name": "CoreBunch/Instatic",
-      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
-      "language": "TypeScript",
-      "stars_today": "888 stars today"
-    },
-    {
-      "name": "yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "stars_today": "131 stars today"
-    },
-    {
-      "name": "nodejs/node",
-      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
-      "language": "JavaScript",
-      "stars_today": "36 stars today"
-    },
-    {
-      "name": "OtterMind/Chat2DB",
-      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "language": "Java",
-      "stars_today": "398 stars today"
-    },
-    {
-      "name": "pbakaus/impeccable",
-      "description": "The design language that makes your AI harness better at design.",
-      "language": "JavaScript",
-      "stars_today": "413 stars today"
-    },
-    {
-      "name": "shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars_today": "321 stars today"
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "stars_today": "832 stars today"
-    },
-    {
-      "name": "andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars_today": "187 stars today"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "stars_today": "379 stars today"
-    },
-    {
-      "name": "Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "language": "Rust",
-      "stars_today": "338 stars today"
-    },
-    {
-      "name": "permissionlesstech/bitchat-android",
-      "description": "bluetooth mesh chat, IRC vibes",
-      "language": "Kotlin",
-      "stars_today": "260 stars today"
-    },
-    {
-      "name": "jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "stars_today": "18 stars today"
+      "stars_today": "2,344 stars today"
     },
     {
       "name": "amnezia-vpn/amnezia-client",
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
-      "stars_today": "35 stars today"
+      "stars_today": "515 stars today"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "language": "TypeScript",
+      "stars_today": "554 stars today"
+    },
+    {
+      "name": "yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
+      "language": "Go",
+      "stars_today": "600 stars today"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_today": "349 stars today"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_today": "849 stars today"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars_today": "442 stars today"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "980 stars today"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars_today": "179 stars today"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars_today": "412 stars today"
+    },
+    {
+      "name": "vudovn/ag-kit",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars_today": "5 stars today"
+    },
+    {
+      "name": "apache/cassandra",
+      "description": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "language": "Java",
+      "stars_today": "34 stars today"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "221 stars today"
+    },
+    {
+      "name": "ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "stars_today": "64 stars today"
     }
   ]
 }

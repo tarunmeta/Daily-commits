@@ -14,44 +14,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-27 (last updated: 21:51 IST)
+
+## 📅 2026-07-27 (last updated: 23:35 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-27 05:44:37 IST | 6c5aaa2ec2c6 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-27 05:44:42 IST | 54ded30b55e0 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-27 21:51:20 IST | da648a0f48cc | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 14 | 2026-07-27 23:35:11 IST | 8b795819af11 | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-27 23:35:12 IST | fa7b4a9d3e04 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-27 23:35:11 IST | 934b8e15727b | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +17 new repos, top changed: yes
+- GitHub: +7 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** (Swift) — bluetooth mesh chat, IRC vibes  
-  ⭐ 1,166 stars today
-- **[citrolabs/ego-lite](https://github.com/citrolabs/ego-lite)** (JavaScript) — The fastest browser for AI agents to run web automation, built for sharing your   
-  ⭐ 900 stars today
-- **[block/buzz](https://github.com/block/buzz)** (Rust) — A hive mind communication platform  
-  ⭐ 1,710 stars today
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** (TypeScript) — No description  
-  ⭐ 149 stars today
-- **[CoreBunch/Instatic](https://github.com/CoreBunch/Instatic)** (TypeScript) — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste  
-  ⭐ 888 stars today
+  ⭐ 2,344 stars today
+- **[amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client)** (C++) — Amnezia VPN Client (Desktop+Mobile)  
+  ⭐ 515 stars today
+- **[moeru-ai/airi](https://github.com/moeru-ai/airi)** (TypeScript) — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l  
+  ⭐ 554 stars today
+- **[yorukot/superfile](https://github.com/yorukot/superfile)** (Go) — Pretty fancy and modern terminal file manager  
+  ⭐ 600 stars today
+- **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** (Python) — 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬  
+  ⭐ 349 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer) — Score: 33
-- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) — Score: 189
-- [I wanted a clock that never needed setting. Things escalated](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/) — Score: 16
-- [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) — Score: 37
-- [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) — Score: 131
+- [MAI-Cyber 1](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/) — Score: 61
+- [Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3) — Score: 1047
+- [Glue bonds to nonstick surfaces and wipes clean with ethanol](https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07) — Score: 72
+- [The computer that helped win World War II](https://spectrum.ieee.org/colossus-computer-ieee-milestone) — Score: 80
+- [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/) — Score: 20
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,494.0 🔴 -0.31%
-- Ethereum: $1,925.74 🟢 +0.73%
-- Solana: $75.21 🔴 -0.27%
-- Bnb: $568.83 🔴 -0.68%
+- Bitcoin: $64,970.0 🟢 +0.52%
+- Ethereum: $1,941.57 🟢 +1.62%
+- Solana: $75.86 🟢 +0.73%
+- Bnb: $574.03 🟢 +0.31%
 
 ---
 ## 📅 2026-07-26 (last updated: 23:14 IST)
