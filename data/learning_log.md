@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-28 (last updated: 23:35 IST)
+
+## 📅 2026-07-28 (last updated: 03:48 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-27 23:35:11 IST | 8b795819af11 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-07-27 23:35:12 IST | fa7b4a9d3e04 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-27 23:35:11 IST | 934b8e15727b | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-07-28 03:48:34 IST | 11bc106be003 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)** (Swift) — bluetooth mesh chat, IRC vibes  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: FeyNoBg – Automatic background removal model and training library](https://usefeyn.com/blog/feynobg/) — Score: 20
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,970.0 🟢 +0.52%
-- Ethereum: $1,941.57 🟢 +1.62%
-- Solana: $75.86 🟢 +0.73%
-- Bnb: $574.03 🟢 +0.31%
+- Bitcoin: $64,670.0 🔴 -0.74%
+- Ethereum: $1,936.54 🟢 +0.03%
+- Solana: $75.33 🔴 -1.16%
+- Bnb: $572.96 🔴 -0.33%
 
 ---
 ## 📅 2026-07-27 (last updated: 23:35 IST)
