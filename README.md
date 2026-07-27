@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-26 18:44:28 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-27 00:14:42 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **koala73/worldmonitor**
-- BTC: **$64,635.0** ↑ (+0.80%)
-- HN top story: **Park by Robot at London Gatwick Airport**
+- Top GitHub repo: **permissionlesstech/bitchat**
+- BTC: **$65,152.0** ↑ (+1.22%)
+- HN top story: **Show HN: Distill and serve small models with frontier quality for half the cost**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 21 | 2026-07-21 12:00:02 UTC | `0d8809db6bf4` | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-26 18:44:28 UTC | `5b1cab51f0d6` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-07-26 14:15:43 UTC | `377bf686f7a0` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-07-27 00:14:37 UTC | `6c5aaa2ec2c6` | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-27 00:14:42 UTC | `54ded30b55e0` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-27 00:14:37 UTC | `238369450402` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +19 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-27` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `88` day(s) |
-| Last Commit (IST) | `2026-07-27 03:42:53 IST` |
+| Last Commit (IST) | `2026-07-27 04:44:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-24 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-07-25 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-26 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-07-27 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-07-27 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,635.0 | +0.80% | 🟢 |
-| Ethereum | $1,892.48 | +1.44% | 🟢 |
-| Solana | $75.06 | +1.69% | 🟢 |
-| Bnb | $571.47 | +0.81% | 🟢 |
+| Bitcoin | $65,152.0 | +1.22% | 🟢 |
+| Ethereum | $1,947.17 | +3.82% | 🟢 |
+| Solana | $76.51 | +2.61% | 🟢 |
+| Bnb | $573.77 | +0.76% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | 1,167 stars today | Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic… |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | 4,434 stars today | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 |
-| [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | 1,833 stars today | Local-first code intelligence graph for MCP and CLI. Builds a persistent map of … |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Unknown | 1,846 stars today | A skill for your coding agent to stop it from burying the answer. ADHD-friendly … |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | JavaScript | 297 stars today | A collection of agent skills for CAD, robotics and hardware design |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 568 stars today | The most intelligent agent harness for code |
-| [oblien/openship](https://github.com/oblien/openship) | TypeScript | 1,641 stars today | Self-hosted deployment platform |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | 317 stars today | AI Agent Assistant & development framework that integrates lots of IM platforms,… |
+| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 1,166 stars today | bluetooth mesh chat, IRC vibes |
+| [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | 900 stars today | The fastest browser for AI agents to run web automation, built for sharing your … |
+| [block/buzz](https://github.com/block/buzz) | Rust | 1,710 stars today | A hive mind communication platform |
+| [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | 149 stars today | No description |
+| [CoreBunch/Instatic](https://github.com/CoreBunch/Instatic) | TypeScript | 888 stars today | The open-source alternative to Webflow, Framer and WordPress. Agentic self-hoste… |
+| [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 131 stars today | Pretty fancy and modern terminal file manager |
+| [nodejs/node](https://github.com/nodejs/node) | JavaScript | 36 stars today | Node.js JavaScript runtime ✨🐢🚀✨ |
+| [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) | Java | 398 stars today | 🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting M… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/) | 203 | 137 |
-| [Kill The Cookie Banner](https://killthecookiebanner.eu/) | 406 | 227 |
-| [Design Is Compromise](https://stephango.com/design-is-compromise) | 87 | 35 |
-| [Lidl Introduces the European Payment Method Wero in Germany](https://unternehmen.lidl.de/pressreleases/260724_lidl_pi_einfuehrung_wero) | 27 | 3 |
-| [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](https://github.com/gmrandazzo/CheapSecurity) | 36 | 7 |
+| [Show HN: Distill and serve small models with frontier quality for half the cost](https://github.com/experientiallabs/world-model-optimizer) | 33 | 5 |
+| [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) | 189 | 43 |
+| [I wanted a clock that never needed setting. Things escalated](https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/) | 16 | 10 |
+| [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) | 37 | 8 |
+| [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) | 131 | 62 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

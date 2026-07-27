@@ -2,140 +2,116 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-21 12:00:02 UTC",
-    "fetched_at_ist": "2026-07-21 17:30:02 IST",
-    "item_count": 21,
-    "content_hash": "0d8809db6bf4d93897e458ca88f69d20a629d7f77ead2d25dbaf5ed1d70270bd",
-    "previous_hash": "d69d62f4859902f4ebcf9011d01c7d6511edaca466afa8291797353394210ac9",
-    "new_repos_vs_previous": 19,
+    "fetched_at_utc": "2026-07-27 00:14:37 UTC",
+    "fetched_at_ist": "2026-07-27 05:44:37 IST",
+    "item_count": 17,
+    "content_hash": "6c5aaa2ec2c62ab50cce871ce646d62062cbf771be075057f9aa2368ef1097f2",
+    "previous_hash": "0d8809db6bf4d93897e458ca88f69d20a629d7f77ead2d25dbaf5ed1d70270bd",
+    "new_repos_vs_previous": 17,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "stars_today": "1,167 stars today"
+      "name": "permissionlesstech/bitchat",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Swift",
+      "stars_today": "1,166 stars today"
     },
     {
-      "name": "bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "language": "Python",
-      "stars_today": "4,434 stars today"
-    },
-    {
-      "name": "tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
-      "stars_today": "1,833 stars today"
-    },
-    {
-      "name": "ayghri/i-have-adhd",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "language": "Unknown",
-      "stars_today": "1,846 stars today"
-    },
-    {
-      "name": "earthtojake/text-to-cad",
-      "description": "A collection of agent skills for CAD, robotics and hardware design",
+      "name": "citrolabs/ego-lite",
+      "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
-      "stars_today": "297 stars today"
+      "stars_today": "900 stars today"
     },
     {
-      "name": "1jehuang/jcode",
-      "description": "The most intelligent agent harness for code",
+      "name": "block/buzz",
+      "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars_today": "568 stars today"
+      "stars_today": "1,710 stars today"
     },
     {
-      "name": "oblien/openship",
-      "description": "Self-hosted deployment platform",
-      "language": "TypeScript",
-      "stars_today": "1,641 stars today"
-    },
-    {
-      "name": "AstrBotDevs/AstrBot",
-      "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "language": "Python",
-      "stars_today": "317 stars today"
-    },
-    {
-      "name": "every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "stars_today": "939 stars today"
-    },
-    {
-      "name": "tradesdontlie/tradingview-mcp",
-      "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-      "language": "JavaScript",
-      "stars_today": "28 stars today"
-    },
-    {
-      "name": "AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_today": "247 stars today"
-    },
-    {
-      "name": "hyprwm/Hyprland",
-      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "language": "C++",
-      "stars_today": "24 stars today"
-    },
-    {
-      "name": "chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "stars_today": "1,195 stars today"
-    },
-    {
-      "name": "DioxusLabs/dioxus",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
-      "language": "Rust",
-      "stars_today": "389 stars today"
-    },
-    {
-      "name": "langchain-ai/open_deep_research",
+      "name": "pingdotgg/t3code",
       "description": "No description",
-      "language": "Python",
-      "stars_today": "14 stars today"
-    },
-    {
-      "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
       "language": "TypeScript",
-      "stars_today": "1,107 stars today"
+      "stars_today": "149 stars today"
     },
     {
-      "name": "agegr/pi-web",
-      "description": "Web UI for the pi coding agent",
+      "name": "CoreBunch/Instatic",
+      "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "language": "TypeScript",
-      "stars_today": "286 stars today"
+      "stars_today": "888 stars today"
     },
     {
-      "name": "schollz/croc",
-      "description": "Easily and securely send things from one computer to another 🐊 📦",
+      "name": "yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
-      "stars_today": "511 stars today"
+      "stars_today": "131 stars today"
     },
     {
-      "name": "microsoft/Ontology-Playground",
-      "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
-      "language": "TypeScript",
-      "stars_today": "464 stars today"
+      "name": "nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars_today": "36 stars today"
     },
     {
-      "name": "dottxt-ai/outlines",
-      "description": "Structured Outputs",
+      "name": "OtterMind/Chat2DB",
+      "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "language": "Java",
+      "stars_today": "398 stars today"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars_today": "413 stars today"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "49 stars today"
+      "stars_today": "321 stars today"
     },
     {
-      "name": "KnockOutEZ/wigolo",
-      "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "language": "TypeScript",
-      "stars_today": "689 stars today"
+      "name": "alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "832 stars today"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "language": "Python",
+      "stars_today": "187 stars today"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "stars_today": "379 stars today"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "language": "Rust",
+      "stars_today": "338 stars today"
+    },
+    {
+      "name": "permissionlesstech/bitchat-android",
+      "description": "bluetooth mesh chat, IRC vibes",
+      "language": "Kotlin",
+      "stars_today": "260 stars today"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "description": "Jenkins automation server",
+      "language": "Java",
+      "stars_today": "18 stars today"
+    },
+    {
+      "name": "amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "language": "C++",
+      "stars_today": "35 stars today"
     }
   ]
 }
