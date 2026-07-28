@@ -8,14 +8,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-28 (last updated: 05:04 IST)
+
+## 📅 2026-07-28 (last updated: 09:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 14 | 2026-07-27 23:35:11 IST | 8b795819af11 | +7 new repos, top changed: no |
 | Hacker News | 5 | 2026-07-28 05:04:21 IST | 117ef56c9491 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-28 03:48:34 IST | 11bc106be003 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-28 09:58:30 IST | b3b3f3a5ae66 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) — Score: 53
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,670.0 🔴 -0.74%
-- Ethereum: $1,936.54 🟢 +0.03%
-- Solana: $75.33 🔴 -1.16%
-- Bnb: $572.96 🔴 -0.33%
+- Bitcoin: $63,264.0 🔴 -3.10%
+- Ethereum: $1,877.8 🔴 -3.80%
+- Solana: $73.11 🔴 -4.19%
+- Bnb: $565.02 🔴 -1.39%
 
 ---
 ## 📅 2026-07-27 (last updated: 23:35 IST)
