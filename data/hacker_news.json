@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-28 12:13:39 UTC",
-    "fetched_at_ist": "2026-07-28 17:43:39 IST",
+    "fetched_at_utc": "2026-07-28 14:41:16 UTC",
+    "fetched_at_ist": "2026-07-28 20:11:16 IST",
     "item_count": 5,
-    "content_hash": "ef94c4ad57fbd5f83e093aa67fe28ab710addd6af13faf6cdeaf24d2b36124bc",
-    "previous_hash": "117ef56c9491f122b88a4cce6ccb2b70836a9552f66dd1ed760217614aceeb72",
+    "content_hash": "9c1604dfe96ae73072fda9533fb2350795f3cd17102b3f9e179d3ee8e9d79ccb",
+    "previous_hash": "ef94c4ad57fbd5f83e093aa67fe28ab710addd6af13faf6cdeaf24d2b36124bc",
     "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49080664,
       "title": "7.1 Earthquake in Japan",
       "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 326,
-      "comments": 68
+      "score": 525,
+      "comments": 99
     },
     {
-      "id": 49081555,
-      "title": "About the security content of macOS Tahoe 26.6",
-      "url": "https://support.apple.com/en-us/128067",
-      "score": 79,
-      "comments": 33
+      "id": 49083314,
+      "title": "New HIV vaccine shows unprecedented success in preclinical study",
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "score": 148,
+      "comments": 53
     },
     {
-      "id": 49076057,
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 976,
-      "comments": 1413
+      "id": 49083389,
+      "title": "Show HN: tale.fyi, we deserve a home for fiction",
+      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+      "score": 37,
+      "comments": 21
     },
     {
-      "id": 49081644,
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "score": 26,
-      "comments": 12
+      "id": 49083239,
+      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "score": 50,
+      "comments": 16
     },
     {
-      "id": 49036068,
-      "title": "How to Survive Boiling Water",
-      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
-      "score": 78,
-      "comments": 14
+      "id": 49082022,
+      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+      "url": "https://arxiv.org/abs/2510.26692",
+      "score": 66,
+      "comments": 13
     }
   ]
 }
