@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-28 14:41:16 UTC",
-    "fetched_at_ist": "2026-07-28 20:11:16 IST",
+    "fetched_at_utc": "2026-07-28 20:44:13 UTC",
+    "fetched_at_ist": "2026-07-29 02:14:13 IST",
     "item_count": 5,
-    "content_hash": "9c1604dfe96ae73072fda9533fb2350795f3cd17102b3f9e179d3ee8e9d79ccb",
-    "previous_hash": "ef94c4ad57fbd5f83e093aa67fe28ab710addd6af13faf6cdeaf24d2b36124bc",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "content_hash": "94ad251af2a44838c331e93e591696bbec6bc12572d5383170951361630a035b",
+    "previous_hash": "9c1604dfe96ae73072fda9533fb2350795f3cd17102b3f9e179d3ee8e9d79ccb",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49080664,
-      "title": "7.1 Earthquake in Japan",
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "score": 525,
-      "comments": 99
+      "id": 49086788,
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "score": 231,
+      "comments": 137
     },
     {
-      "id": 49083314,
-      "title": "New HIV vaccine shows unprecedented success in preclinical study",
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "score": 148,
-      "comments": 53
+      "id": 49086971,
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "score": 126,
+      "comments": 39
     },
     {
-      "id": 49083389,
-      "title": "Show HN: tale.fyi, we deserve a home for fiction",
-      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-      "score": 37,
-      "comments": 21
+      "id": 49085698,
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "score": 178,
+      "comments": 19
     },
     {
-      "id": 49083239,
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "score": 50,
-      "comments": 16
+      "id": 49088058,
+      "title": "MCP 2026-07-28 Specification: transport going stateless",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "score": 53,
+      "comments": 19
     },
     {
-      "id": 49082022,
-      "title": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "score": 66,
-      "comments": 13
+      "id": 49085731,
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
+      "score": 172,
+      "comments": 91
     }
   ]
 }
