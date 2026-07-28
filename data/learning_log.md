@@ -13,14 +13,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-28 (last updated: 20:11 IST)
+
+## 📅 2026-07-28 (last updated: 21:53 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-07-28 17:43:38 IST | 8fd1d89a2796 | +8 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-28 20:11:16 IST | 9c1604dfe96a | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-07-28 17:43:38 IST | 5ba9cab77b7b | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-07-28 21:53:54 IST | 75a95fcbc0fb | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
@@ -47,10 +48,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692) — Score: 66
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,423.0 🔴 -2.62%
-- Ethereum: $1,875.61 🔴 -4.29%
-- Solana: $73.16 🔴 -4.49%
-- Bnb: $566.53 🔴 -1.13%
+- Bitcoin: $63,847.0 🔴 -1.04%
+- Ethereum: $1,918.28 🔴 -0.37%
+- Solana: $74.21 🔴 -1.41%
+- Bnb: $572.19 🟢 +0.56%
 
 ---
 ## 📅 2026-07-27 (last updated: 23:35 IST)
