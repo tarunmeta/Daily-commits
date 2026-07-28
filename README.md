@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-28 07:18:01 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-28 12:13:39 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **permissionlesstech/bitchat**
-- BTC: **$63,499.0** ↓ (-2.86%)
-- HN top story: **Our position on open-weights models**
+- Top GitHub repo: **pascalorg/editor**
+- BTC: **$63,423.0** ↓ (-2.62%)
+- HN top story: **7.1 Earthquake in Japan**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-07-27 18:05:11 UTC | `8b795819af11` | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-27 23:34:21 UTC | `117ef56c9491` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-28 07:18:01 UTC | `fb82103357ec` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 12 | 2026-07-28 12:13:38 UTC | `8fd1d89a2796` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-28 12:13:39 UTC | `ef94c4ad57fb` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-28 12:13:38 UTC | `5ba9cab77b7b` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-28` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `88` day(s) |
-| Last Commit (IST) | `2026-07-28 12:48:01 IST` |
+| Last Commit (IST) | `2026-07-28 15:36:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-25 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-26 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-27 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-07-28 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-07-28 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,499.0 | -2.86% | 🔴 |
-| Ethereum | $1,884.96 | -4.26% | 🔴 |
-| Solana | $73.37 | -4.21% | 🔴 |
-| Bnb | $564.72 | -1.75% | 🔴 |
+| Bitcoin | $63,423.0 | -2.62% | 🔴 |
+| Ethereum | $1,875.61 | -4.29% | 🔴 |
+| Solana | $73.16 | -4.49% | 🔴 |
+| Bnb | $566.53 | -1.13% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | 2,344 stars today | bluetooth mesh chat, IRC vibes |
-| [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) | C++ | 515 stars today | Amnezia VPN Client (Desktop+Mobile) |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 554 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
-| [yorukot/superfile](https://github.com/yorukot/superfile) | Go | 600 stars today | Pretty fancy and modern terminal file manager |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 349 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 849 stars today | The design language that makes your AI harness better at design. |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 442 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | 980 stars today | Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code … |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 412 stars today | Create and share 3D architectural projects. |
+| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Java | 180 stars today | Jenkins automation server |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 796 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
+| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | Python | 185 stars today | Simple, unified interface to multiple Generative AI providers |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 458 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 177 stars today | Build local voice agents with open-source models |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | 366 stars today | Turn any technical book PDF into a Claude Code skill — ready to study, reference… |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | 420 stars today | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 265 | 298 |
-| [A Discord Alternative – Echoed](https://echoed.gg/) | 22 | 9 |
-| [DConf 2026 in London](https://dconf.org/2026/index.html) | 11 | 0 |
-| [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) | 148 | 16 |
-| [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) | 53 | 17 |
+| [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en) | 326 | 68 |
+| [About the security content of macOS Tahoe 26.6](https://support.apple.com/en-us/128067) | 79 | 33 |
+| [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 976 | 1413 |
+| [Google's Beyond Zero: Enterprise Security for the AI Era](https://spawn-queue.acm.org/doi/10.1145/3819083) | 26 | 12 |
+| [How to Survive Boiling Water](https://taxa.substack.com/p/how-to-survive-boiling-water) | 78 | 14 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

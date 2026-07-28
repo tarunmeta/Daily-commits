@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-27 23:34:21 UTC",
-    "fetched_at_ist": "2026-07-28 05:04:21 IST",
+    "fetched_at_utc": "2026-07-28 12:13:39 UTC",
+    "fetched_at_ist": "2026-07-28 17:43:39 IST",
     "item_count": 5,
-    "content_hash": "117ef56c9491f122b88a4cce6ccb2b70836a9552f66dd1ed760217614aceeb72",
-    "previous_hash": "fa7b4a9d3e04c3cb526139bd96eed5820abe647084f63b372e22c9bb984f9a66",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "ef94c4ad57fbd5f83e093aa67fe28ab710addd6af13faf6cdeaf24d2b36124bc",
+    "previous_hash": "117ef56c9491f122b88a4cce6ccb2b70836a9552f66dd1ed760217614aceeb72",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49080664,
+      "title": "7.1 Earthquake in Japan",
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "score": 326,
+      "comments": 68
+    },
+    {
+      "id": 49081555,
+      "title": "About the security content of macOS Tahoe 26.6",
+      "url": "https://support.apple.com/en-us/128067",
+      "score": 79,
+      "comments": 33
+    },
+    {
       "id": 49076057,
       "title": "Our position on open-weights models",
       "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "score": 265,
-      "comments": 298
+      "score": 976,
+      "comments": 1413
     },
     {
-      "id": 49076497,
-      "title": "A Discord Alternative – Echoed",
-      "url": "https://echoed.gg/",
-      "score": 22,
-      "comments": 9
+      "id": 49081644,
+      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "score": 26,
+      "comments": 12
     },
     {
-      "id": 49076840,
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
-      "score": 11,
-      "comments": 0
-    },
-    {
-      "id": 49045474,
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "score": 148,
-      "comments": 16
-    },
-    {
-      "id": 49074817,
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "url": "https://www.rise-reforming.com",
-      "score": 53,
-      "comments": 17
+      "id": 49036068,
+      "title": "How to Survive Boiling Water",
+      "url": "https://taxa.substack.com/p/how-to-survive-boiling-water",
+      "score": 78,
+      "comments": 14
     }
   ]
 }
