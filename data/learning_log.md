@@ -7,44 +7,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-29 (last updated: 02:14 IST)
+
+## 📅 2026-07-29 (last updated: 05:38 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-07-28 17:43:38 IST | 8fd1d89a2796 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-29 02:14:13 IST | 94ad251af2a4 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-29 00:55:47 IST | aaa7898cde16 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-07-29 05:38:50 IST | 8a6100994139 | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-29 05:38:51 IST | fb644855d171 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-29 05:38:51 IST | 714efdd4f63b | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — Create and share 3D architectural projects.  
-  ⭐ 412 stars today
+  ⭐ 341 stars today
 - **[jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)** (Java) — Jenkins automation server  
   ⭐ 180 stars today
 - **[moeru-ai/airi](https://github.com/moeru-ai/airi)** (TypeScript) — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l  
-  ⭐ 796 stars today
+  ⭐ 797 stars today
 - **[andrewyng/aisuite](https://github.com/andrewyng/aisuite)** (Python) — Simple, unified interface to multiple Generative AI providers  
-  ⭐ 185 stars today
+  ⭐ 62 stars today
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
-  ⭐ 458 stars today
+  ⭐ 636 stars today
 
 ### 📰 Hacker News Stories
-- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) — Score: 231
-- [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7) — Score: 126
-- [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html) — Score: 178
-- [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/) — Score: 53
-- [Delayed Gratification – Proud to Be 'Last to Breaking News'](https://www.slow-journalism.com/) — Score: 172
+- [Codex Security](https://github.com/openai/codex-security) — Score: 291
+- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) — Score: 112
+- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) — Score: 70
+- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) — Score: 384
+- [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo) — Score: 53
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,694.0 🔴 -1.84%
-- Ethereum: $1,912.9 🔴 -1.74%
-- Solana: $73.8 🔴 -2.68%
-- Bnb: $569.32 🔴 -0.90%
+- Bitcoin: $64,022.0 🟢 +0.65%
+- Ethereum: $1,924.31 🟢 +1.98%
+- Solana: $74.0 🔴 -0.11%
+- Bnb: $571.76 🟢 +1.16%
 
 ---
 ## 📅 2026-07-28 (last updated: 21:53 IST)

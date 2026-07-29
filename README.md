@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-28 20:44:13 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-29 00:08:51 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **pascalorg/editor**
-- BTC: **$63,694.0** ↓ (-1.84%)
-- HN top story: **Substack writers, you need a website**
+- BTC: **$64,022.0** ↑ (+0.65%)
+- HN top story: **Codex Security**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-07-28 12:13:38 UTC | `8fd1d89a2796` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-28 20:44:13 UTC | `94ad251af2a4` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-28 19:25:47 UTC | `aaa7898cde16` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-07-29 00:08:50 UTC | `8a6100994139` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-07-29 00:08:51 UTC | `fb644855d171` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-29 00:08:51 UTC | `714efdd4f63b` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-29` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-07-29 03:18:00 IST` |
+| Last Commit (IST) | `2026-07-29 04:30:34 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-26 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-27 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-07-29 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-07-29 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,694.0 | -1.84% | 🔴 |
-| Ethereum | $1,912.9 | -1.74% | 🔴 |
-| Solana | $73.8 | -2.68% | 🔴 |
-| Bnb | $569.32 | -0.90% | 🔴 |
+| Bitcoin | $64,022.0 | +0.65% | 🟢 |
+| Ethereum | $1,924.31 | +1.98% | 🟢 |
+| Solana | $74.0 | -0.11% | 🔴 |
+| Bnb | $571.76 | +1.16% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 412 stars today | Create and share 3D architectural projects. |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 341 stars today | Create and share 3D architectural projects. |
 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Java | 180 stars today | Jenkins automation server |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 796 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
-| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | Python | 185 stars today | Simple, unified interface to multiple Generative AI providers |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 458 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 177 stars today | Build local voice agents with open-source models |
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | 366 stars today | Turn any technical book PDF into a Claude Code skill — ready to study, reference… |
-| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | 420 stars today | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi… |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 797 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
+| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | Python | 62 stars today | Simple, unified interface to multiple Generative AI providers |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 636 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 227 stars today | Build local voice agents with open-source models |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | 423 stars today | Turn any technical book PDF into a Claude Code skill — ready to study, reference… |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | 607 stars today | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) | 231 | 137 |
-| [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7) | 126 | 39 |
-| [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html) | 178 | 19 |
-| [MCP 2026-07-28 Specification: transport going stateless](https://blog.modelcontextprotocol.io/posts/2026-07-28/) | 53 | 19 |
-| [Delayed Gratification – Proud to Be 'Last to Breaking News'](https://www.slow-journalism.com/) | 172 | 91 |
+| [Codex Security](https://github.com/openai/codex-security) | 291 | 64 |
+| [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) | 112 | 39 |
+| [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) | 70 | 28 |
+| [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) | 384 | 198 |
+| [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo) | 53 | 2 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

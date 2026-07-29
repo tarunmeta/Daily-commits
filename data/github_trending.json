@@ -2,20 +2,20 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-28 12:13:38 UTC",
-    "fetched_at_ist": "2026-07-28 17:43:38 IST",
+    "fetched_at_utc": "2026-07-29 00:08:50 UTC",
+    "fetched_at_ist": "2026-07-29 05:38:50 IST",
     "item_count": 12,
-    "content_hash": "8fd1d89a2796136237a8f5555f0b0be7684d234aec746a62f68efc8184c3424c",
-    "previous_hash": "8b795819af11899268a4542b3afff571abf3f4c8158b0c1697803a751e2c0622",
-    "new_repos_vs_previous": 8,
-    "top_repo_changed": true
+    "content_hash": "8a61009941391165c989de51a97ec6ad627fdc61c0a3603a4de53d19c6768872",
+    "previous_hash": "8fd1d89a2796136237a8f5555f0b0be7684d234aec746a62f68efc8184c3424c",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars_today": "412 stars today"
+      "stars_today": "341 stars today"
     },
     {
       "name": "jenkinsci/jenkins",
@@ -27,61 +27,61 @@
       "name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_today": "796 stars today"
+      "stars_today": "797 stars today"
     },
     {
       "name": "andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars_today": "185 stars today"
+      "stars_today": "62 stars today"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "458 stars today"
+      "stars_today": "636 stars today"
     },
     {
       "name": "huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_today": "177 stars today"
+      "stars_today": "227 stars today"
     },
     {
       "name": "virgiliojr94/book-to-skill",
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_today": "366 stars today"
+      "stars_today": "423 stars today"
     },
     {
       "name": "opengeos/GeoLibre",
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars_today": "420 stars today"
+      "stars_today": "607 stars today"
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
-      "stars_today": "113 stars today"
+      "stars_today": "309 stars today"
     },
     {
       "name": "microsoft/agent-governance-toolkit",
       "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
       "language": "Python",
-      "stars_today": "17 stars today"
+      "stars_today": "46 stars today"
     },
     {
       "name": "yorukot/superfile",
       "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
-      "stars_today": "660 stars today"
+      "stars_today": "662 stars today"
     },
     {
       "name": "bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars_today": "989 stars today"
+      "stars_today": "988 stars today"
     }
   ]
 }
