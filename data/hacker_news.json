@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-29 22:39:29 UTC",
-    "fetched_at_ist": "2026-07-30 04:09:29 IST",
+    "fetched_at_utc": "2026-07-29 23:42:42 UTC",
+    "fetched_at_ist": "2026-07-30 05:12:42 IST",
     "item_count": 5,
-    "content_hash": "2415c1d256776e30ab8d192d4344c831382cbc3126f2c835adbb33120882a041",
-    "previous_hash": "13cdb9d0d2b481c50f0b0473bf6550f6b1591ef34313fa4d56ebe1b60d4c3eef",
+    "content_hash": "7d4e5b080007fc6728541699fc309db1b3ba022854b10bde6f7f0273fd6ded67",
+    "previous_hash": "2415c1d256776e30ab8d192d4344c831382cbc3126f2c835adbb33120882a041",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49102774,
       "title": "The coolest use for the Vision Pro",
       "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 208,
-      "comments": 91
+      "score": 281,
+      "comments": 130
     },
     {
       "id": 49103285,
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 64,
-      "comments": 46
+      "score": 108,
+      "comments": 76
     },
     {
       "id": 49098510,
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 579,
-      "comments": 204
+      "score": 609,
+      "comments": 214
     },
     {
       "id": 49098965,
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 445,
-      "comments": 283
+      "score": 476,
+      "comments": 300
     },
     {
-      "id": 49101852,
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 279,
-      "comments": 85
+      "id": 49099715,
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "score": 260,
+      "comments": 97
     }
   ]
 }
