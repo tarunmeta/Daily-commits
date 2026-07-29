@@ -13,19 +13,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-29 (last updated: 18:54 IST)
+
+## 📅 2026-07-29 (last updated: 20:59 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-07-29 05:38:50 IST | 8a6100994139 | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-07-29 17:09:50 IST | b5db1120df1d | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-29 18:54:07 IST | 7d9f7936bf18 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-07-29 20:59:35 IST | 254d121cedf0 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — Create and share 3D architectural projects.  
@@ -47,10 +48,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/) — Score: 242
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,163.0 🟢 +1.22%
-- Ethereum: $1,902.17 🟢 +0.74%
-- Solana: $73.46 🟢 +0.36%
-- Bnb: $568.69 🟢 +0.25%
+- Bitcoin: $63,994.0 🟢 +0.41%
+- Ethereum: $1,892.56 🔴 -1.06%
+- Solana: $73.2 🔴 -1.43%
+- Bnb: $567.74 🔴 -1.08%
 
 ---
 ## 📅 2026-07-28 (last updated: 21:53 IST)
