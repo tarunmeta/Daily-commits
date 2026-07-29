@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-29 (last updated: 14:51 IST)
+
+## 📅 2026-07-29 (last updated: 17:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-07-29 05:38:50 IST | 8a6100994139 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-29 09:10:30 IST | f69bb169809b | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-29 17:09:50 IST | b5db1120df1d | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-29 14:51:25 IST | 92f6e1981bac | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 636 stars today
 
 ### 📰 Hacker News Stories
-- [Codex Security](https://github.com/openai/codex-security) — Score: 385
-- [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) — Score: 61
-- [Chip stocks slide in US and Asia as AI jitters rattle investors](https://www.bbc.com/news/articles/cly8zng43npo) — Score: 27
-- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) — Score: 175
-- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) — Score: 174
+- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes) — Score: 234
+- [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf) — Score: 23
+- [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html) — Score: 20
+- [Amiga Graphics Archive](https://amiga.lychesis.net/index.html) — Score: 21
+- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/) — Score: 242
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,416.0 🟢 +1.61%
