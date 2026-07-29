@@ -15,44 +15,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-29 (last updated: 20:59 IST)
+
+## 📅 2026-07-29 (last updated: 23:38 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-07-29 05:38:50 IST | 8a6100994139 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-29 17:09:50 IST | b5db1120df1d | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-29 20:59:35 IST | 254d121cedf0 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-07-29 23:38:02 IST | 42404be2e1c9 | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-29 23:38:03 IST | 9ecd47a49b8e | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-29 23:38:02 IST | 7abcc9827ea4 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +0 new repos, top changed: no
+- GitHub: +10 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[pascalorg/editor](https://github.com/pascalorg/editor)** (TypeScript) — Create and share 3D architectural projects.  
-  ⭐ 341 stars today
-- **[jenkinsci/jenkins](https://github.com/jenkinsci/jenkins)** (Java) — Jenkins automation server  
-  ⭐ 180 stars today
+- **[opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)** (TypeScript) — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi  
+  ⭐ 667 stars today
 - **[moeru-ai/airi](https://github.com/moeru-ai/airi)** (TypeScript) — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l  
-  ⭐ 797 stars today
-- **[andrewyng/aisuite](https://github.com/andrewyng/aisuite)** (Python) — Simple, unified interface to multiple Generative AI providers  
-  ⭐ 62 stars today
+  ⭐ 676 stars today
 - **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
-  ⭐ 636 stars today
+  ⭐ 860 stars today
+- **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** (Python) — Build local voice agents with open-source models  
+  ⭐ 837 stars today
+- **[1jehuang/jcode](https://github.com/1jehuang/jcode)** (Rust) — The most RAM effiecent harness  
+  ⭐ 652 stars today
 
 ### 📰 Hacker News Stories
-- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes) — Score: 234
-- [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf) — Score: 23
-- [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html) — Score: 20
-- [Amiga Graphics Archive](https://amiga.lychesis.net/index.html) — Score: 21
-- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/) — Score: 242
+- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 340
+- [Superlogical](https://www.superlogical.com/) — Score: 190
+- [KOReader](https://koreader.rocks/) — Score: 532
+- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) — Score: 50
+- [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) — Score: 209
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $63,994.0 🟢 +0.41%
-- Ethereum: $1,892.56 🔴 -1.06%
-- Solana: $73.2 🔴 -1.43%
-- Bnb: $567.74 🔴 -1.08%
+- Bitcoin: $64,367.0 🟢 +1.05%
+- Ethereum: $1,922.55 🟢 +0.80%
+- Solana: $73.97 🟢 +0.10%
+- Bnb: $571.05 🟢 +0.43%
 
 ---
 ## 📅 2026-07-28 (last updated: 21:53 IST)

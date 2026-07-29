@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-29 15:29:35 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-29 18:08:03 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **pascalorg/editor**
-- BTC: **$63,994.0** ↑ (+0.41%)
-- HN top story: **More Tailscale tricks for your jailbroken Kindle**
+- Top GitHub repo: **opengeos/GeoLibre**
+- BTC: **$64,367.0** ↑ (+1.05%)
+- HN top story: **Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-07-29 00:08:50 UTC | `8a6100994139` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-29 11:39:50 UTC | `b5db1120df1d` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-29 15:29:35 UTC | `254d121cedf0` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-07-29 18:08:02 UTC | `42404be2e1c9` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-29 18:08:03 UTC | `9ecd47a49b8e` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-07-29 18:08:02 UTC | `7abcc9827ea4` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +10 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-29` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `88` day(s) |
-| Last Commit (IST) | `2026-07-29 20:59:35 IST` |
+| Last Commit (IST) | `2026-07-29 22:22:05 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-26 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-07-27 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-07-29 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-07-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,994.0 | +0.41% | 🟢 |
-| Ethereum | $1,892.56 | -1.06% | 🔴 |
-| Solana | $73.2 | -1.43% | 🔴 |
-| Bnb | $567.74 | -1.08% | 🔴 |
+| Bitcoin | $64,367.0 | +1.05% | 🟢 |
+| Ethereum | $1,922.55 | +0.80% | 🟢 |
+| Solana | $73.97 | +0.10% | 🟢 |
+| Bnb | $571.05 | +0.43% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 341 stars today | Create and share 3D architectural projects. |
-| [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Java | 180 stars today | Jenkins automation server |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 797 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
-| [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | Python | 62 stars today | Simple, unified interface to multiple Generative AI providers |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 636 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 227 stars today | Build local voice agents with open-source models |
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | 423 stars today | Turn any technical book PDF into a Claude Code skill — ready to study, reference… |
-| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | 607 stars today | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi… |
+| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | 667 stars today | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi… |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 676 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 860 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 837 stars today | Build local voice agents with open-source models |
+| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 652 stars today | The most RAM effiecent harness |
+| [grokability/snipe-it](https://github.com/grokability/snipe-it) | PHP | 197 stars today | A free open source IT asset/license management system |
+| [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | Python | 135 stars today | Deepfakes Software For All |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 332 stars today | Open-Source Frontier Voice AI |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes) | 234 | 78 |
-| [National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]](https://www.fcc.gov/sites/default/files/robots-nsd.pdf) | 23 | 8 |
-| [SpecForge – A Platform for Authoring Formal Specifications](https://docs.imiron.io/v/0.5.10/en/tour.html) | 20 | 0 |
-| [Amiga Graphics Archive](https://amiga.lychesis.net/index.html) | 21 | 2 |
-| [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/) | 242 | 39 |
+| [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) | 340 | 95 |
+| [Superlogical](https://www.superlogical.com/) | 190 | 151 |
+| [KOReader](https://koreader.rocks/) | 532 | 168 |
+| [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) | 50 | 20 |
+| [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398) | 209 | 138 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

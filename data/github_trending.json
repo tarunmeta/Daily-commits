@@ -2,86 +2,116 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-07-29 00:08:50 UTC",
-    "fetched_at_ist": "2026-07-29 05:38:50 IST",
-    "item_count": 12,
-    "content_hash": "8a61009941391165c989de51a97ec6ad627fdc61c0a3603a4de53d19c6768872",
-    "previous_hash": "8fd1d89a2796136237a8f5555f0b0be7684d234aec746a62f68efc8184c3424c",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-07-29 18:08:02 UTC",
+    "fetched_at_ist": "2026-07-29 23:38:02 IST",
+    "item_count": 17,
+    "content_hash": "42404be2e1c973c4c5b77b5695644a318ece6f07ff31be1f091b39ffc9a94d1c",
+    "previous_hash": "8a61009941391165c989de51a97ec6ad627fdc61c0a3603a4de53d19c6768872",
+    "new_repos_vs_previous": 10,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
+      "name": "opengeos/GeoLibre",
+      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "language": "TypeScript",
-      "stars_today": "341 stars today"
-    },
-    {
-      "name": "jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "stars_today": "180 stars today"
+      "stars_today": "667 stars today"
     },
     {
       "name": "moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars_today": "797 stars today"
-    },
-    {
-      "name": "andrewyng/aisuite",
-      "description": "Simple, unified interface to multiple Generative AI providers",
-      "language": "Python",
-      "stars_today": "62 stars today"
+      "stars_today": "676 stars today"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_today": "636 stars today"
+      "stars_today": "860 stars today"
     },
     {
       "name": "huggingface/speech-to-speech",
       "description": "Build local voice agents with open-source models",
       "language": "Python",
-      "stars_today": "227 stars today"
+      "stars_today": "837 stars today"
     },
     {
-      "name": "virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "name": "1jehuang/jcode",
+      "description": "The most RAM effiecent harness",
+      "language": "Rust",
+      "stars_today": "652 stars today"
+    },
+    {
+      "name": "grokability/snipe-it",
+      "description": "A free open source IT asset/license management system",
+      "language": "PHP",
+      "stars_today": "197 stars today"
+    },
+    {
+      "name": "deepfakes/faceswap",
+      "description": "Deepfakes Software For All",
       "language": "Python",
-      "stars_today": "423 stars today"
+      "stars_today": "135 stars today"
     },
     {
-      "name": "opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+      "name": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars_today": "332 stars today"
+    },
+    {
+      "name": "different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
       "language": "TypeScript",
-      "stars_today": "607 stars today"
+      "stars_today": "58 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "686 stars today"
+    },
+    {
+      "name": "MoonshotAI/FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "language": "Cuda",
+      "stars_today": "216 stars today"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_today": "187 stars today"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "386 stars today"
     },
     {
       "name": "paperswithbacktest/awesome-systematic-trading",
       "description": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
       "language": "Python",
-      "stars_today": "309 stars today"
+      "stars_today": "950 stars today"
     },
     {
-      "name": "microsoft/agent-governance-toolkit",
-      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "name": "maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "language": "Objective-C",
+      "stars_today": "13 stars today"
+    },
+    {
+      "name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars_today": "1,026 stars today"
+    },
+    {
+      "name": "virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
-      "stars_today": "46 stars today"
-    },
-    {
-      "name": "yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "stars_today": "662 stars today"
-    },
-    {
-      "name": "bradautomates/claude-video",
-      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "language": "Python",
-      "stars_today": "988 stars today"
+      "stars_today": "1,428 stars today"
     }
   ]
 }
