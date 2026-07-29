@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-30 (last updated: 02:08 IST)
+
+## 📅 2026-07-30 (last updated: 03:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-29 23:38:02 IST | 42404be2e1c9 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-30 02:08:11 IST | 160befb9c8a6 | +0 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-30 03:07:29 IST | 13cdb9d0d2b4 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-29 23:38:02 IST | 7abcc9827ea4 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 652 stars today
 
 ### 📰 Hacker News Stories
-- [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models) — Score: 159
-- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 506
-- [Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) — Score: 177
-- [Superlogical](https://www.superlogical.com/) — Score: 370
-- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) — Score: 172
+- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) — Score: 98
+- [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models) — Score: 244
+- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 549
+- [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) — Score: 215
+- [Superlogical](https://www.superlogical.com/) — Score: 415
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,367.0 🟢 +1.05%
