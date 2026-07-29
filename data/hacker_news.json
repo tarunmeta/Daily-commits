@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-29 19:43:10 UTC",
-    "fetched_at_ist": "2026-07-30 01:13:10 IST",
+    "fetched_at_utc": "2026-07-29 20:38:11 UTC",
+    "fetched_at_ist": "2026-07-30 02:08:11 IST",
     "item_count": 5,
-    "content_hash": "22f4fca2982848873e8bee30b9ba455a9b283b82607095c8980e1b663a31da65",
-    "previous_hash": "9ecd47a49b8e8532637733a6f49a321ac9b638c48e4d1aaf19a3042427b60971",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "160befb9c8a6dc2d5e806c991b59fe32cacc4252d1d5fe283f8470d5e0f1d5bb",
+    "previous_hash": "22f4fca2982848873e8bee30b9ba455a9b283b82607095c8980e1b663a31da65",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49101852,
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "score": 159,
+      "comments": 31
+    },
     {
       "id": 49098510,
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 472,
-      "comments": 162
+      "score": 506,
+      "comments": 177
     },
     {
       "id": 49089500,
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 128,
-      "comments": 66
-    },
-    {
-      "id": 49101852,
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 33,
-      "comments": 3
+      "score": 177,
+      "comments": 97
     },
     {
       "id": 49098965,
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 328,
-      "comments": 230
+      "score": 370,
+      "comments": 253
     },
     {
       "id": 49099715,
       "title": "Keychron announces first open-source firmware for gaming mice",
       "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 136,
-      "comments": 66
+      "score": 172,
+      "comments": 80
     }
   ]
 }
