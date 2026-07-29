@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-29 (last updated: 05:38 IST)
+
+## 📅 2026-07-29 (last updated: 09:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-07-29 05:38:50 IST | 8a6100994139 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-07-29 05:38:51 IST | fb644855d171 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-29 09:10:30 IST | f69bb169809b | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-07-29 05:38:51 IST | 714efdd4f63b | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 636 stars today
 
 ### 📰 Hacker News Stories
-- [Codex Security](https://github.com/openai/codex-security) — Score: 291
-- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) — Score: 112
-- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) — Score: 70
-- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) — Score: 384
-- [Anthropic publishes a practical key-recovery attack on HAWK-256](https://github.com/anthropics/cryptography-research-demo) — Score: 53
+- [Codex Security](https://github.com/openai/codex-security) — Score: 385
+- [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/) — Score: 61
+- [Chip stocks slide in US and Asia as AI jitters rattle investors](https://www.bbc.com/news/articles/cly8zng43npo) — Score: 27
+- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) — Score: 175
+- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) — Score: 174
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,022.0 🟢 +0.65%

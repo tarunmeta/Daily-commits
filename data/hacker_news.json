@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-29 00:08:51 UTC",
-    "fetched_at_ist": "2026-07-29 05:38:51 IST",
+    "fetched_at_utc": "2026-07-29 03:40:30 UTC",
+    "fetched_at_ist": "2026-07-29 09:10:30 IST",
     "item_count": 5,
-    "content_hash": "fb644855d171fc24b1e6c6eb9255c65b987d9522326cfb94a6dbceefe3b9975d",
-    "previous_hash": "94ad251af2a44838c331e93e591696bbec6bc12572d5383170951361630a035b",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "f69bb169809b5f5529397e89dc4b2ac5bf01c0a53cc77f5e79fecb84b3db2626",
+    "previous_hash": "fb644855d171fc24b1e6c6eb9255c65b987d9522326cfb94a6dbceefe3b9975d",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49089755,
       "title": "Codex Security",
       "url": "https://github.com/openai/codex-security",
-      "score": 291,
-      "comments": 64
+      "score": 385,
+      "comments": 120
     },
     {
-      "id": 49089814,
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 112,
-      "comments": 39
+      "id": 49092499,
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "score": 61,
+      "comments": 30
+    },
+    {
+      "id": 49092549,
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+      "score": 27,
+      "comments": 13
     },
     {
       "id": 49090607,
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
       "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 70,
-      "comments": 28
+      "score": 175,
+      "comments": 55
     },
     {
-      "id": 49086788,
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 384,
-      "comments": 198
-    },
-    {
-      "id": 49090083,
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "url": "https://github.com/anthropics/cryptography-research-demo",
-      "score": 53,
-      "comments": 2
+      "id": 49089814,
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "score": 174,
+      "comments": 86
     }
   ]
 }
