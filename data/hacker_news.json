@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-29 21:37:29 UTC",
-    "fetched_at_ist": "2026-07-30 03:07:29 IST",
+    "fetched_at_utc": "2026-07-29 22:39:29 UTC",
+    "fetched_at_ist": "2026-07-30 04:09:29 IST",
     "item_count": 5,
-    "content_hash": "13cdb9d0d2b481c50f0b0473bf6550f6b1591ef34313fa4d56ebe1b60d4c3eef",
-    "previous_hash": "160befb9c8a6dc2d5e806c991b59fe32cacc4252d1d5fe283f8470d5e0f1d5bb",
+    "content_hash": "2415c1d256776e30ab8d192d4344c831382cbc3126f2c835adbb33120882a041",
+    "previous_hash": "13cdb9d0d2b481c50f0b0473bf6550f6b1591ef34313fa4d56ebe1b60d4c3eef",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49102774,
       "title": "The coolest use for the Vision Pro",
       "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 98,
-      "comments": 37
+      "score": 208,
+      "comments": 91
     },
     {
-      "id": 49101852,
-      "title": "Kimi K3-256k",
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-      "score": 244,
-      "comments": 63
+      "id": 49103285,
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "score": 64,
+      "comments": 46
     },
     {
       "id": 49098510,
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 549,
-      "comments": 185
-    },
-    {
-      "id": 49089500,
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 215,
-      "comments": 114
+      "score": 579,
+      "comments": 204
     },
     {
       "id": 49098965,
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 415,
-      "comments": 269
+      "score": 445,
+      "comments": 283
+    },
+    {
+      "id": 49101852,
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "score": 279,
+      "comments": 85
     }
   ]
 }
