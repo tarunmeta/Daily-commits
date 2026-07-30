@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-30 11:41:04 UTC",
-    "fetched_at_ist": "2026-07-30 17:11:04 IST",
+    "fetched_at_utc": "2026-07-30 21:34:40 UTC",
+    "fetched_at_ist": "2026-07-31 03:04:40 IST",
     "item_count": 5,
-    "content_hash": "02ad246efdbe355b677b7c05ce64f517d2f02cb880894d6b2091c5e61a999630",
-    "previous_hash": "14943579adf8082879288d05cec7dc21330ceecbc5c6852614730dac8535094b",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "8d51f94b01212703bd33c4a837cdea8477151239e85fe902ee09c726f0d49dd6",
+    "previous_hash": "02ad246efdbe355b677b7c05ce64f517d2f02cb880894d6b2091c5e61a999630",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49108048,
-      "title": "Gpiozero Flow",
-      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-      "score": 41,
-      "comments": 8
+      "id": 49112744,
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 354,
+      "comments": 195
     },
     {
-      "id": 49089502,
-      "title": "Azulejo",
-      "url": "https://en.wikipedia.org/wiki/Azulejo",
+      "id": 49111237,
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 405,
+      "comments": 354
+    },
+    {
+      "id": 49112232,
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 299,
+      "comments": 105
+    },
+    {
+      "id": 49114639,
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
       "score": 43,
       "comments": 14
     },
     {
-      "id": 49103285,
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 505,
-      "comments": 261
-    },
-    {
-      "id": 49107713,
-      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
-      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-      "score": 16,
-      "comments": 2
-    },
-    {
-      "id": 49102774,
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 711,
-      "comments": 272
+      "id": 49047839,
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "score": 139,
+      "comments": 94
     }
   ]
 }

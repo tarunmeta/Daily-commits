@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-07-31 (last updated: 20:55 IST)
+
+## 📅 2026-07-31 (last updated: 03:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-29 23:38:02 IST | 42404be2e1c9 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-30 17:11:04 IST | 02ad246efdbe | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-07-31 03:04:40 IST | 8d51f94b0121 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-30 20:55:53 IST | e707d805ea4c | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 652 stars today
 
 ### 📰 Hacker News Stories
-- [Gpiozero Flow](https://bennuttall.com/blog/2026/07/gpiozero-flow/) — Score: 41
-- [Azulejo](https://en.wikipedia.org/wiki/Azulejo) — Score: 43
-- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) — Score: 505
-- [Carolina Cloud pays SOFR on unused prepaid credits](https://docs.carolinacloud.io/organizations/prepaid-interest/) — Score: 16
-- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) — Score: 711
+- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) — Score: 354
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) — Score: 405
+- [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) — Score: 299
+- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) — Score: 43
+- [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/) — Score: 139
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,745.0 🟢 +1.25%
