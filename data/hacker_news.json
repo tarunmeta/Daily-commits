@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-30 09:44:03 UTC",
-    "fetched_at_ist": "2026-07-30 15:14:03 IST",
+    "fetched_at_utc": "2026-07-30 11:41:04 UTC",
+    "fetched_at_ist": "2026-07-30 17:11:04 IST",
     "item_count": 5,
-    "content_hash": "14943579adf8082879288d05cec7dc21330ceecbc5c6852614730dac8535094b",
-    "previous_hash": "7d4e5b080007fc6728541699fc309db1b3ba022854b10bde6f7f0273fd6ded67",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "02ad246efdbe355b677b7c05ce64f517d2f02cb880894d6b2091c5e61a999630",
+    "previous_hash": "14943579adf8082879288d05cec7dc21330ceecbc5c6852614730dac8535094b",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49108048,
+      "title": "Gpiozero Flow",
+      "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+      "score": 41,
+      "comments": 8
+    },
+    {
+      "id": 49089502,
+      "title": "Azulejo",
+      "url": "https://en.wikipedia.org/wiki/Azulejo",
+      "score": 43,
+      "comments": 14
+    },
+    {
       "id": 49103285,
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 463,
-      "comments": 241
+      "score": 505,
+      "comments": 261
+    },
+    {
+      "id": 49107713,
+      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+      "score": 16,
+      "comments": 2
     },
     {
       "id": 49102774,
       "title": "The coolest use for the Vision Pro",
       "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 658,
-      "comments": 260
-    },
-    {
-      "id": 49098510,
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 795,
-      "comments": 281
-    },
-    {
-      "id": 49098965,
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 699,
-      "comments": 410
-    },
-    {
-      "id": 49104117,
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 248,
-      "comments": 61
+      "score": 711,
+      "comments": 272
     }
   ]
 }
