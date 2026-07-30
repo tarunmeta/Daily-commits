@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-30 13:15:19 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-30 15:25:53 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **opengeos/GeoLibre**
-- BTC: **$64,787.0** ↑ (+0.85%)
+- BTC: **$64,745.0** ↑ (+1.25%)
 - HN top story: **Gpiozero Flow**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-29 18:08:02 UTC | `42404be2e1c9` | +10 new repos, top changed: yes |
 | Hacker News | 5 | 2026-07-30 11:41:04 UTC | `02ad246efdbe` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-30 13:15:19 UTC | `0323c6f9a102` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-07-30 15:25:53 UTC | `e707d805ea4c` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-30` |
-| Commits Today | `11` / `100` |
-| Remaining Today | `89` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
+| Commits Today | `12` / `100` |
+| Remaining Today | `88` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-07-30 17:11:05 IST` |
+| Last Commit (IST) | `2026-07-30 18:45:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-27 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-07-30 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
+| 2026-07-30 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,787.0 | +0.85% | 🟢 |
-| Ethereum | $1,923.66 | +1.08% | 🟢 |
-| Solana | $74.26 | +1.09% | 🟢 |
-| Bnb | $585.59 | +2.98% | 🟢 |
+| Bitcoin | $64,745.0 | +1.25% | 🟢 |
+| Ethereum | $1,919.04 | +1.47% | 🟢 |
+| Solana | $74.64 | +2.02% | 🟢 |
+| Bnb | $589.02 | +3.78% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
