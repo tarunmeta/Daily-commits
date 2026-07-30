@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-29 23:42:42 UTC",
-    "fetched_at_ist": "2026-07-30 05:12:42 IST",
+    "fetched_at_utc": "2026-07-30 09:44:03 UTC",
+    "fetched_at_ist": "2026-07-30 15:14:03 IST",
     "item_count": 5,
-    "content_hash": "7d4e5b080007fc6728541699fc309db1b3ba022854b10bde6f7f0273fd6ded67",
-    "previous_hash": "2415c1d256776e30ab8d192d4344c831382cbc3126f2c835adbb33120882a041",
+    "content_hash": "14943579adf8082879288d05cec7dc21330ceecbc5c6852614730dac8535094b",
+    "previous_hash": "7d4e5b080007fc6728541699fc309db1b3ba022854b10bde6f7f0273fd6ded67",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49102774,
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 281,
-      "comments": 130
-    },
     {
       "id": 49103285,
       "title": "AI's top startups are barely publishing their research",
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 108,
-      "comments": 76
+      "score": 463,
+      "comments": 241
+    },
+    {
+      "id": 49102774,
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "score": 658,
+      "comments": 260
     },
     {
       "id": 49098510,
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 609,
-      "comments": 214
+      "score": 795,
+      "comments": 281
     },
     {
       "id": 49098965,
       "title": "Superlogical",
       "url": "https://www.superlogical.com/",
-      "score": 476,
-      "comments": 300
+      "score": 699,
+      "comments": 410
     },
     {
-      "id": 49099715,
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 260,
-      "comments": 97
+      "id": 49104117,
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "score": 248,
+      "comments": 61
     }
   ]
 }

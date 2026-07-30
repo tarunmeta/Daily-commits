@@ -11,18 +11,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-30 (last updated: 09:51 IST)
+
+## 📅 2026-07-30 (last updated: 15:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-07-29 23:38:02 IST | 42404be2e1c9 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-30 05:12:42 IST | 7d4e5b080007 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-07-30 15:14:03 IST | 14943579adf8 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-07-30 09:51:14 IST | fa850821d890 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -38,11 +39,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 652 stars today
 
 ### 📰 Hacker News Stories
-- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) — Score: 281
-- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) — Score: 108
-- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 609
-- [Superlogical](https://www.superlogical.com/) — Score: 476
-- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) — Score: 260
+- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) — Score: 463
+- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) — Score: 658
+- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) — Score: 795
+- [Superlogical](https://www.superlogical.com/) — Score: 699
+- [LLM Honeypot](https://llm2human.pages.dev/) — Score: 248
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,041.0 🟢 +0.68%
