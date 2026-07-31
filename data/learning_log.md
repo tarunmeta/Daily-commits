@@ -7,44 +7,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-07-31 (last updated: 03:04 IST)
+
+## 📅 2026-07-31 (last updated: 05:32 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-29 23:38:02 IST | 42404be2e1c9 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-31 03:04:40 IST | 8d51f94b0121 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-30 20:55:53 IST | e707d805ea4c | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-07-31 05:32:37 IST | 6f810f6c1856 | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-31 05:32:38 IST | 826dcf96d65a | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-07-31 05:32:37 IST | 770eaed9d039 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
-- **[opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)** (TypeScript) — A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi  
-  ⭐ 667 stars today
-- **[moeru-ai/airi](https://github.com/moeru-ai/airi)** (TypeScript) — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l  
-  ⭐ 676 stars today
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
-  ⭐ 860 stars today
 - **[huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)** (Python) — Build local voice agents with open-source models  
-  ⭐ 837 stars today
-- **[1jehuang/jcode](https://github.com/1jehuang/jcode)** (Rust) — The most RAM effiecent harness  
-  ⭐ 652 stars today
+  ⭐ 628 stars today
+- **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** (Jupyter Notebook) — 12 Weeks, 24 Lessons, AI for All!  
+  ⭐ 155 stars today
+- **[paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)** (Python) — A curated list of awesome libraries, packages, strategies, books, blogs, tutoria  
+  ⭐ 621 stars today
+- **[different-ai/openwork](https://github.com/different-ai/openwork)** (TypeScript) — The open-source alternative to Claude Cowork (powered by opencode)  
+  ⭐ 915 stars today
+- **[WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)** (JavaScript) — Socket-based TS/JavaScript API for WhatsApp Web  
+  ⭐ 19 stars today
 
 ### 📰 Hacker News Stories
-- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) — Score: 354
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) — Score: 405
-- [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) — Score: 299
-- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) — Score: 43
-- [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/) — Score: 139
+- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) — Score: 504
+- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) — Score: 150
+- [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) — Score: 45
+- [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) — Score: 420
+- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) — Score: 37
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,745.0 🟢 +1.25%
-- Ethereum: $1,919.04 🟢 +1.47%
-- Solana: $74.64 🟢 +2.02%
-- Bnb: $589.02 🟢 +3.78%
+- Bitcoin: $64,743.0 🟢 +1.25%
+- Ethereum: $1,917.54 🟢 +0.49%
+- Solana: $74.46 🟢 +1.15%
+- Bnb: $591.7 🟢 +3.53%
 
 ---
 ## 📅 2026-07-30 (last updated: 20:55 IST)

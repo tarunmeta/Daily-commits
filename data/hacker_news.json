@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-30 21:34:40 UTC",
-    "fetched_at_ist": "2026-07-31 03:04:40 IST",
+    "fetched_at_utc": "2026-07-31 00:02:38 UTC",
+    "fetched_at_ist": "2026-07-31 05:32:38 IST",
     "item_count": 5,
-    "content_hash": "8d51f94b01212703bd33c4a837cdea8477151239e85fe902ee09c726f0d49dd6",
-    "previous_hash": "02ad246efdbe355b677b7c05ce64f517d2f02cb880894d6b2091c5e61a999630",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "826dcf96d65aa79b3390c040bb2309f7110127b414d966e22728d1d778ba9f73",
+    "previous_hash": "8d51f94b01212703bd33c4a837cdea8477151239e85fe902ee09c726f0d49dd6",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49112744,
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 354,
-      "comments": 195
-    },
-    {
-      "id": 49111237,
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "score": 405,
-      "comments": 354
-    },
-    {
-      "id": 49112232,
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 299,
-      "comments": 105
+      "score": 504,
+      "comments": 293
     },
     {
       "id": 49114639,
       "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
       "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 43,
-      "comments": 14
+      "score": 150,
+      "comments": 60
     },
     {
-      "id": 49047839,
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "score": 139,
-      "comments": 94
+      "id": 49116922,
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "score": 45,
+      "comments": 28
+    },
+    {
+      "id": 49112232,
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 420,
+      "comments": 147
+    },
+    {
+      "id": 49116721,
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "score": 37,
+      "comments": 6
     }
   ]
 }

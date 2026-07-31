@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-30 21:34:40 UTC`
+**Last Meaningful Data Update (UTC):** `2026-07-31 00:02:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **opengeos/GeoLibre**
-- BTC: **$64,745.0** ↑ (+1.25%)
+- Top GitHub repo: **huggingface/speech-to-speech**
+- BTC: **$64,743.0** ↑ (+1.25%)
 - HN top story: **Read this before you buy that TV streaming stick**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-07-29 18:08:02 UTC | `42404be2e1c9` | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-30 21:34:40 UTC | `8d51f94b0121` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-07-30 15:25:53 UTC | `e707d805ea4c` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 14 | 2026-07-31 00:02:37 UTC | `6f810f6c1856` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-07-31 00:02:38 UTC | `826dcf96d65a` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-07-31 00:02:37 UTC | `770eaed9d039` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-07-31` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-07-31 03:04:40 IST` |
+| Last Commit (IST) | `2026-07-31 04:16:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-28 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-07-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
-| 2026-07-31 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-07-31 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,745.0 | +1.25% | 🟢 |
-| Ethereum | $1,919.04 | +1.47% | 🟢 |
-| Solana | $74.64 | +2.02% | 🟢 |
-| Bnb | $589.02 | +3.78% | 🟢 |
+| Bitcoin | $64,743.0 | +1.25% | 🟢 |
+| Ethereum | $1,917.54 | +0.49% | 🟢 |
+| Solana | $74.46 | +1.15% | 🟢 |
+| Bnb | $591.7 | +3.53% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | 667 stars today | A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzi… |
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | 676 stars today | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l… |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 860 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 837 stars today | Build local voice agents with open-source models |
-| [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | 652 stars today | The most RAM effiecent harness |
-| [grokability/snipe-it](https://github.com/grokability/snipe-it) | PHP | 197 stars today | A free open source IT asset/license management system |
-| [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | Python | 135 stars today | Deepfakes Software For All |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | 332 stars today | Open-Source Frontier Voice AI |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 628 stars today | Build local voice agents with open-source models |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 155 stars today | 12 Weeks, 24 Lessons, AI for All! |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 621 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 915 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
+| [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) | JavaScript | 19 stars today | Socket-based TS/JavaScript API for WhatsApp Web |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 625 stars today | Create and share 3D architectural projects. |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 378 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | C# | 7 stars today | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) | 354 | 195 |
-| [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) | 405 | 354 |
-| [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) | 299 | 105 |
-| [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) | 43 | 14 |
-| [2x, not 10x: coding with LLMs in 2026](https://obryant.dev/p/2x-not-10x/) | 139 | 94 |
+| [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) | 504 | 293 |
+| [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) | 150 | 60 |
+| [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) | 45 | 28 |
+| [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) | 420 | 147 |
+| [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) | 37 | 6 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
