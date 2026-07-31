@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-07-31 00:02:38 UTC",
-    "fetched_at_ist": "2026-07-31 05:32:38 IST",
+    "fetched_at_utc": "2026-07-31 06:44:34 UTC",
+    "fetched_at_ist": "2026-07-31 12:14:34 IST",
     "item_count": 5,
-    "content_hash": "826dcf96d65aa79b3390c040bb2309f7110127b414d966e22728d1d778ba9f73",
-    "previous_hash": "8d51f94b01212703bd33c4a837cdea8477151239e85fe902ee09c726f0d49dd6",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "2d830999e5105eff3a9251092c8f45e15ee38e87176cf6b90db971e13bf84c18",
+    "previous_hash": "826dcf96d65aa79b3390c040bb2309f7110127b414d966e22728d1d778ba9f73",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49112744,
-      "title": "Read this before you buy that TV streaming stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "score": 504,
-      "comments": 293
+      "id": 49118781,
+      "title": "The session you cannot take with you",
+      "url": "https://earendil.com/posts/session-portability/",
+      "score": 92,
+      "comments": 10
     },
     {
-      "id": 49114639,
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "score": 150,
-      "comments": 60
-    },
-    {
-      "id": 49116922,
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "score": 45,
-      "comments": 28
+      "id": 49119063,
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "score": 24,
+      "comments": 4
     },
     {
       "id": 49112232,
       "title": "Stacked PRs are now live on GitHub",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "score": 420,
-      "comments": 147
+      "score": 584,
+      "comments": 195
     },
     {
-      "id": 49116721,
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "score": 37,
-      "comments": 6
+      "id": 49114639,
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "score": 283,
+      "comments": 102
+    },
+    {
+      "id": 49111237,
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 532,
+      "comments": 423
     }
   ]
 }
