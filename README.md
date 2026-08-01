@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-01 00:11:07 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-01 06:29:47 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **zhaoxuya520/reverse-skill**
-- BTC: **$62,898.0** ↓ (-2.83%)
+- BTC: **$63,013.0** ↓ (-2.07%)
 - HN top story: **Tailscale didn't stop the Hugging Face intrusion**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-08-01 00:11:06 UTC | `9657b9b10f60` | +7 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-01 00:11:07 UTC | `551d2c5ac2e5` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-01 00:11:06 UTC | `f576b54c08d7` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-08-01 06:29:47 UTC | `1ae075290855` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +7 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-01` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-08-01 05:41:08 IST` |
+| Last Commit (IST) | `2026-08-01 09:21:14 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-07-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-31 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-08-01 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-08-01 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,898.0 | -2.83% | 🔴 |
-| Ethereum | $1,863.12 | -2.83% | 🔴 |
-| Solana | $72.91 | -2.11% | 🔴 |
-| Bnb | $587.36 | -0.71% | 🔴 |
+| Bitcoin | $63,013.0 | -2.07% | 🔴 |
+| Ethereum | $1,868.17 | -2.04% | 🔴 |
+| Solana | $72.94 | -1.87% | 🔴 |
+| Bnb | $591.37 | -0.05% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
