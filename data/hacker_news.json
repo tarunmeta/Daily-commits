@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 14:44:57 UTC",
-    "fetched_at_ist": "2026-08-01 20:14:57 IST",
+    "fetched_at_utc": "2026-08-01 16:40:52 UTC",
+    "fetched_at_ist": "2026-08-01 22:10:52 IST",
     "item_count": 5,
-    "content_hash": "1dbf0cc3f7803da31147d7dbba44e18bfa18c8fe7fff6af6aebb8414a9113db9",
-    "previous_hash": "216641fa95e992c939c3637c97d95c4a9a1a287c8e87c8cd4cd8e52960644427",
+    "content_hash": "e92601478243cf27e98b66aa9aa6d8aa57d82023d2fbe81bd450486b18dd8d39",
+    "previous_hash": "1dbf0cc3f7803da31147d7dbba44e18bfa18c8fe7fff6af6aebb8414a9113db9",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49134599,
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "score": 67,
+      "comments": 26
+    },
+    {
+      "id": 49135257,
+      "title": "Cursor removed cost information from the usage page and CSV export",
+      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
+      "score": 38,
+      "comments": 8
+    },
+    {
       "id": 49133889,
       "title": "RipGrep musl binaries occasionally segfault during very-large searches",
       "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 97,
-      "comments": 51
+      "score": 160,
+      "comments": 91
     },
     {
-      "id": 49134694,
-      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
-      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
-      "score": 12,
-      "comments": 0
+      "id": 49135365,
+      "title": "GitHub has alternatives, but no replacement",
+      "url": "https://lalitm.com/post/github-alternatives/",
+      "score": 54,
+      "comments": 48
     },
     {
-      "id": 49124218,
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
-      "score": 1452,
-      "comments": 358
-    },
-    {
-      "id": 49134310,
-      "title": "How to Spot AI Writing",
-      "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
-      "score": 11,
-      "comments": 11
-    },
-    {
-      "id": 49105013,
-      "title": "Manual: •.,:;?·",
-      "url": "https://type.today/en/journal/dots",
-      "score": 61,
-      "comments": 10
+      "id": 49134038,
+      "title": "Charlie Stross – On the non-use of AI in my writing process",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "score": 50,
+      "comments": 38
     }
   ]
 }
