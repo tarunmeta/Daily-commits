@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-07-31 19:26:46 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-01 00:11:07 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **huggingface/speech-to-speech**
-- BTC: **$62,977.0** ↓ (-2.83%)
-- HN top story: **The session you cannot take with you**
+- Top GitHub repo: **zhaoxuya520/reverse-skill**
+- BTC: **$62,898.0** ↓ (-2.83%)
+- HN top story: **Tailscale didn't stop the Hugging Face intrusion**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 14 | 2026-07-31 00:02:37 UTC | `6f810f6c1856` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-07-31 09:34:03 UTC | `d0ffd4f50cd6` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-07-31 19:26:46 UTC | `91e0248042c8` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 12 | 2026-08-01 00:11:06 UTC | `9657b9b10f60` | +7 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-01 00:11:07 UTC | `551d2c5ac2e5` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-01 00:11:06 UTC | `f576b54c08d7` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +7 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-01` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| Streak | `90` day(s) |
-| Last Commit (IST) | `2026-08-01 03:17:50 IST` |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Streak | `89` day(s) |
+| Last Commit (IST) | `2026-08-01 04:31:35 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-29 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-31 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-08-01 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-08-01 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,977.0 | -2.83% | 🔴 |
-| Ethereum | $1,866.99 | -2.99% | 🔴 |
-| Solana | $72.9 | -2.30% | 🔴 |
-| Bnb | $587.91 | -1.10% | 🔴 |
+| Bitcoin | $62,898.0 | -2.83% | 🔴 |
+| Ethereum | $1,863.12 | -2.83% | 🔴 |
+| Solana | $72.91 | -2.11% | 🔴 |
+| Bnb | $587.36 | -0.71% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 628 stars today | Build local voice agents with open-source models |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 155 stars today | 12 Weeks, 24 Lessons, AI for All! |
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 621 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
-| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 915 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
-| [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) | JavaScript | 19 stars today | Socket-based TS/JavaScript API for WhatsApp Web |
-| [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | 625 stars today | Create and share 3D architectural projects. |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 378 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) | C# | 7 stars today | ASP.NET Core is a cross-platform .NET framework for building modern cloud-based … |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 335 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 806 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 658 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 763 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1,592 stars today | 12 Weeks, 24 Lessons, AI for All! |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 7 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 35 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
+| [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 335 stars today | a code review TUI with vim keybindings |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The session you cannot take with you](https://earendil.com/posts/session-portability/) | 305 | 67 |
-| [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) | 102 | 40 |
-| [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/) | 240 | 94 |
-| [Danube's record low levels force shutdown of Hungary's only nuclear plant](https://www.bbc.com/news/articles/cn0nqv05g0do) | 19 | 10 |
-| [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) | 47 | 51 |
+| [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion) | 384 | 153 |
+| [Elevators](https://john.fun/elevators) | 819 | 211 |
+| [qm](https://github.com/yc-software/qm) | 399 | 89 |
+| [Twenty-five years ago it was cryptography, today it's model weights](https://weeraman.com/because-we-can/) | 109 | 39 |
+| [The Absurdity of Albert Camus](https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus) | 29 | 12 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
