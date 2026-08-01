@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 10:41:03 UTC",
-    "fetched_at_ist": "2026-08-01 16:11:03 IST",
+    "fetched_at_utc": "2026-08-01 14:44:57 UTC",
+    "fetched_at_ist": "2026-08-01 20:14:57 IST",
     "item_count": 5,
-    "content_hash": "216641fa95e992c939c3637c97d95c4a9a1a287c8e87c8cd4cd8e52960644427",
-    "previous_hash": "551d2c5ac2e597232efe40f787f07ea6395daaab5721857c5e08c56776cc4f12",
+    "content_hash": "1dbf0cc3f7803da31147d7dbba44e18bfa18c8fe7fff6af6aebb8414a9113db9",
+    "previous_hash": "216641fa95e992c939c3637c97d95c4a9a1a287c8e87c8cd4cd8e52960644427",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49132130,
-      "title": "AI doesn't generate working products, that's still your job",
-      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-      "score": 78,
-      "comments": 52
+      "id": 49133889,
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "score": 97,
+      "comments": 51
     },
     {
-      "id": 49132460,
-      "title": "RamenHaus",
-      "url": "https://ramen.haus/",
-      "score": 84,
-      "comments": 31
+      "id": 49134694,
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+      "score": 12,
+      "comments": 0
     },
     {
       "id": 49124218,
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 1317,
-      "comments": 323
+      "score": 1452,
+      "comments": 358
     },
     {
-      "id": 49130604,
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "score": 127,
-      "comments": 42
+      "id": 49134310,
+      "title": "How to Spot AI Writing",
+      "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
+      "score": 11,
+      "comments": 11
     },
     {
-      "id": 49132289,
-      "title": "How to Do Great Work",
-      "url": "https://paulgraham.com/greatwork.html",
-      "score": 18,
-      "comments": 4
+      "id": 49105013,
+      "title": "Manual: •.,:;?·",
+      "url": "https://type.today/en/journal/dots",
+      "score": 61,
+      "comments": 10
     }
   ]
 }

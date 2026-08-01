@@ -14,13 +14,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-01 (last updated: 18:53 IST)
+
+## 📅 2026-08-01 (last updated: 20:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-08-01 05:41:06 IST | 9657b9b10f60 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-01 16:11:03 IST | 216641fa95e9 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-01 20:14:57 IST | 1dbf0cc3f780 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-01 18:53:20 IST | 52b593efb788 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,592 stars today
 
 ### 📰 Hacker News Stories
-- [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/) — Score: 78
-- [RamenHaus](https://ramen.haus/) — Score: 84
-- [Elevators](https://john.fun/elevators) — Score: 1317
-- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/) — Score: 127
-- [How to Do Great Work](https://paulgraham.com/greatwork.html) — Score: 18
+- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494) — Score: 97
+- [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/) — Score: 12
+- [Elevators](https://john.fun/elevators) — Score: 1452
+- [How to Spot AI Writing](https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing) — Score: 11
+- [Manual: •.,:;?·](https://type.today/en/journal/dots) — Score: 61
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,036.0 🔴 -1.09%
