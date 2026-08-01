@@ -17,18 +17,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-01 (last updated: 22:10 IST)
+
+## 📅 2026-08-01 (last updated: 23:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-08-01 05:41:06 IST | 9657b9b10f60 | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-01 22:10:52 IST | e92601478243 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-01 23:13:24 IST | 9b1aff2d9952 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-01 18:53:20 IST | 52b593efb788 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,592 stars today
 
 ### 📰 Hacker News Stories
-- [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2) — Score: 67
-- [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153) — Score: 38
-- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494) — Score: 160
-- [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/) — Score: 54
-- [Charlie Stross – On the non-use of AI in my writing process](https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html) — Score: 50
+- [I ♥ RSS – A directory of people who love RSS](https://andrewshell.org/2026/07/i-%e2%99%a5-rss/) — Score: 67
+- [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153) — Score: 133
+- [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2) — Score: 91
+- [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/) — Score: 15
+- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494) — Score: 182
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,036.0 🔴 -1.09%
