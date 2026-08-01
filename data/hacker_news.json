@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 17:43:24 UTC",
-    "fetched_at_ist": "2026-08-01 23:13:24 IST",
+    "fetched_at_utc": "2026-08-01 18:43:00 UTC",
+    "fetched_at_ist": "2026-08-02 00:13:00 IST",
     "item_count": 5,
-    "content_hash": "9b1aff2d995275b52552a87a819e396a774b3cd9a124b11d53771bf55dc38ca1",
-    "previous_hash": "e92601478243cf27e98b66aa9aa6d8aa57d82023d2fbe81bd450486b18dd8d39",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "bb4be273ca33ef59e014e8c51110e9d1ecfac036da71a13eb16f9d43f930f9a7",
+    "previous_hash": "9b1aff2d995275b52552a87a819e396a774b3cd9a124b11d53771bf55dc38ca1",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49136063,
-      "title": "I ♥ RSS – A directory of people who love RSS",
-      "url": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-      "score": 67,
-      "comments": 33
-    },
-    {
-      "id": 49135257,
-      "title": "Cursor removed cost information from the usage page and CSV export",
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "score": 133,
-      "comments": 56
+      "id": 49136736,
+      "title": "NetBSD 11.0 Released",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+      "score": 19,
+      "comments": 0
     },
     {
       "id": 49134599,
       "title": "The Art of 64-bit Assembly",
       "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 91,
-      "comments": 47
+      "score": 106,
+      "comments": 56
     },
     {
       "id": 49135985,
       "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
       "url": "https://kaisel.dev/",
-      "score": 15,
-      "comments": 0
+      "score": 25,
+      "comments": 1
     },
     {
-      "id": 49133889,
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-      "score": 182,
-      "comments": 104
+      "id": 49135245,
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "score": 42,
+      "comments": 12
+    },
+    {
+      "id": 49135546,
+      "title": "Pgtestdb's template cloning approach to testing is fast",
+      "url": "https://brandur.org/fragments/pgtestdb",
+      "score": 35,
+      "comments": 12
     }
   ]
 }
