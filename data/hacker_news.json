@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 00:11:07 UTC",
-    "fetched_at_ist": "2026-08-01 05:41:07 IST",
+    "fetched_at_utc": "2026-08-01 10:41:03 UTC",
+    "fetched_at_ist": "2026-08-01 16:11:03 IST",
     "item_count": 5,
-    "content_hash": "551d2c5ac2e597232efe40f787f07ea6395daaab5721857c5e08c56776cc4f12",
-    "previous_hash": "d0ffd4f50cd69083e2467d4f63cd81733d23298052bcae13aa592c11290bf7c2",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "216641fa95e992c939c3637c97d95c4a9a1a287c8e87c8cd4cd8e52960644427",
+    "previous_hash": "551d2c5ac2e597232efe40f787f07ea6395daaab5721857c5e08c56776cc4f12",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49127306,
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "score": 384,
-      "comments": 153
+      "id": 49132130,
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "score": 78,
+      "comments": 52
+    },
+    {
+      "id": 49132460,
+      "title": "RamenHaus",
+      "url": "https://ramen.haus/",
+      "score": 84,
+      "comments": 31
     },
     {
       "id": 49124218,
       "title": "Elevators",
       "url": "https://john.fun/elevators",
-      "score": 819,
-      "comments": 211
+      "score": 1317,
+      "comments": 323
     },
     {
-      "id": 49126604,
-      "title": "qm",
-      "url": "https://github.com/yc-software/qm",
-      "score": 399,
-      "comments": 89
+      "id": 49130604,
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "score": 127,
+      "comments": 42
     },
     {
-      "id": 49083599,
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "url": "https://weeraman.com/because-we-can/",
-      "score": 109,
-      "comments": 39
-    },
-    {
-      "id": 49117089,
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-      "score": 29,
-      "comments": 12
+      "id": 49132289,
+      "title": "How to Do Great Work",
+      "url": "https://paulgraham.com/greatwork.html",
+      "score": 18,
+      "comments": 4
     }
   ]
 }
