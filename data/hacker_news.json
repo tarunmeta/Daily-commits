@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-01 18:43:00 UTC",
-    "fetched_at_ist": "2026-08-02 00:13:00 IST",
+    "fetched_at_utc": "2026-08-02 00:13:32 UTC",
+    "fetched_at_ist": "2026-08-02 05:43:32 IST",
     "item_count": 5,
-    "content_hash": "bb4be273ca33ef59e014e8c51110e9d1ecfac036da71a13eb16f9d43f930f9a7",
-    "previous_hash": "9b1aff2d995275b52552a87a819e396a774b3cd9a124b11d53771bf55dc38ca1",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "8d51eb99149280613a512fbfa482fc62aa179550c1d9f32046871e02b6e339c7",
+    "previous_hash": "bb4be273ca33ef59e014e8c51110e9d1ecfac036da71a13eb16f9d43f930f9a7",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49136736,
-      "title": "NetBSD 11.0 Released",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "score": 19,
-      "comments": 0
+      "id": 49139102,
+      "title": "AI financial advice is surprisingly good if you ask the right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 86,
+      "comments": 55
     },
     {
-      "id": 49134599,
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "score": 106,
-      "comments": 56
+      "id": 49138302,
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "score": 110,
+      "comments": 38
     },
     {
-      "id": 49135985,
-      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "url": "https://kaisel.dev/",
-      "score": 25,
-      "comments": 1
+      "id": 49138188,
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
+      "score": 145,
+      "comments": 22
     },
     {
-      "id": 49135245,
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "score": 42,
-      "comments": 12
+      "id": 49139562,
+      "title": "A stray commit buried multiple levels deep cost me months",
+      "url": "https://www.droppedasbaby.com/posts/db-commits/",
+      "score": 24,
+      "comments": 14
     },
     {
-      "id": 49135546,
-      "title": "Pgtestdb's template cloning approach to testing is fast",
-      "url": "https://brandur.org/fragments/pgtestdb",
-      "score": 35,
-      "comments": 12
+      "id": 49139383,
+      "title": "Unraveling the mysteries of habit formation",
+      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "score": 12,
+      "comments": 5
     }
   ]
 }

@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-01 18:43:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-02 00:13:32 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **zhaoxuya520/reverse-skill**
-- BTC: **$63,036.0** ↓ (-1.09%)
-- HN top story: **NetBSD 11.0 Released**
+- Top GitHub repo: **microsoft/AI-For-Beginners**
+- BTC: **$62,869.0** ↓ (-0.05%)
+- HN top story: **AI financial advice is surprisingly good if you ask the right questions**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-08-01 00:11:06 UTC | `9657b9b10f60` | +7 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-01 18:43:00 UTC | `bb4be273ca33` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-01 13:23:20 UTC | `52b593efb788` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 15 | 2026-08-02 00:13:31 UTC | `15ba15bcc9aa` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-02 00:13:32 UTC | `8d51eb991492` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-02 00:13:31 UTC | `90c413f0eeac` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-02` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-08-02 03:41:07 IST` |
+| Last Commit (IST) | `2026-08-02 04:42:16 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-31 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-08-01 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-08-02 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-08-02 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,036.0 | -1.09% | 🔴 |
-| Ethereum | $1,867.05 | -1.04% | 🔴 |
-| Solana | $72.9 | -1.04% | 🔴 |
-| Bnb | $578.01 | -2.71% | 🔴 |
+| Bitcoin | $62,869.0 | -0.05% | 🔴 |
+| Ethereum | $1,845.94 | -0.92% | 🔴 |
+| Solana | $72.0 | -1.24% | 🔴 |
+| Bnb | $575.96 | -1.94% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 335 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
-| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 806 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | 658 stars today | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark… |
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 763 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1,592 stars today | 12 Weeks, 24 Lessons, AI for All! |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 7 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | 35 stars today | Open-source live-chat, email support, omni-channel desk. An alternative to Inter… |
-| [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | 335 stars today | a code review TUI with vim keybindings |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 949 stars today | 12 Weeks, 24 Lessons, AI for All! |
+| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 523 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
+| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 760 stars today | 🎯 All you need. Nothing you don't. Open source project management that works for… |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 1,320 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 108 stars today | 21 Lessons, Get Started Building with Generative AI |
+| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 142 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
+| [github/gh-stack](https://github.com/github/gh-stack) | Go | 46 stars today | GitHub Stacked PRs |
+| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 442 stars today | Build local voice agents with open-source models |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released) | 19 | 0 |
-| [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2) | 106 | 56 |
-| [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/) | 25 | 1 |
-| [Explorative modeling: Train on the best of K guesses](https://alexiglad.github.io/blog/2026/explorative_modeling/) | 42 | 12 |
-| [Pgtestdb's template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb) | 35 | 12 |
+| [AI financial advice is surprisingly good if you ask the right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions) | 86 | 55 |
+| [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) | 110 | 38 |
+| [Diátaxis](https://diataxis.fr/) | 145 | 22 |
+| [A stray commit buried multiple levels deep cost me months](https://www.droppedasbaby.com/posts/db-commits/) | 24 | 14 |
+| [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28) | 12 | 5 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
