@@ -13,44 +13,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-02 (last updated: 12:07 IST)
+
+## 📅 2026-08-02 (last updated: 17:33 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-08-02 05:43:31 IST | 15ba15bcc9aa | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-02 12:07:12 IST | c004059a7c68 | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-02 05:43:31 IST | 90c413f0eeac | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 15 | 2026-08-02 17:33:17 IST | a6dc0994e644 | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-02 17:33:18 IST | 8d1d31d059dd | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-02 17:33:17 IST | bba3fd5866d7 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)** (Jupyter Notebook) — 12 Weeks, 24 Lessons, AI for All!  
   ⭐ 949 stars today
-- **[paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading)** (Python) — A curated list of awesome libraries, packages, strategies, books, blogs, tutoria  
-  ⭐ 523 stars today
 - **[usekaneo/kaneo](https://github.com/usekaneo/kaneo)** (TypeScript) — 🎯 All you need. Nothing you don't. Open source project management that works for  
   ⭐ 760 stars today
-- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** (PowerShell) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R  
-  ⭐ 1,320 stars today
-- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** (Jupyter Notebook) — 21 Lessons, Get Started Building with Generative AI  
-  ⭐ 108 stars today
+- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** (Jupyter Notebook) — AirLLM 70B inference with single 4GB GPU  
+  ⭐ 242 stars today
+- **[iv-org/invidious](https://github.com/iv-org/invidious)** (Crystal) — Invidious is an alternative front-end to YouTube  
+  ⭐ 435 stars today
+- **[codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)** (Markdown) — Master programming by recreating your favorite technologies from scratch.  
+  ⭐ 710 stars today
 
 ### 📰 Hacker News Stories
-- [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x) — Score: 81
-- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) — Score: 142
-- [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) — Score: 41
-- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) — Score: 277
-- [Diátaxis](https://diataxis.fr/) — Score: 281
+- [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html) — Score: 30
+- [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) — Score: 47
+- [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) — Score: 6
+- [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349) — Score: 17
+- [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/) — Score: 29
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,869.0 🔴 -0.05%
-- Ethereum: $1,845.94 🔴 -0.92%
-- Solana: $72.0 🔴 -1.24%
-- Bnb: $575.96 🔴 -1.94%
+- Bitcoin: $63,010.0 🔴 -0.05%
+- Ethereum: $1,852.35 🔴 -0.73%
+- Solana: $72.98 🟢 +0.17%
+- Bnb: $581.84 🟢 +0.37%
 
 ---
 ## 📅 2026-08-01 (last updated: 23:13 IST)

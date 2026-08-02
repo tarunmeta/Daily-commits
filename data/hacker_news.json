@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-02 06:37:12 UTC",
-    "fetched_at_ist": "2026-08-02 12:07:12 IST",
+    "fetched_at_utc": "2026-08-02 12:03:18 UTC",
+    "fetched_at_ist": "2026-08-02 17:33:18 IST",
     "item_count": 5,
-    "content_hash": "c004059a7c6832c1d78b14d7a22861de54ca3a56872414464cc7c558a605c6ad",
-    "previous_hash": "8d51eb99149280613a512fbfa482fc62aa179550c1d9f32046871e02b6e339c7",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "8d1d31d059ddcb13d48a659f8ad400c945c16d44b1f32ed5d4eacf0ed88e012c",
+    "previous_hash": "c004059a7c6832c1d78b14d7a22861de54ca3a56872414464cc7c558a605c6ad",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49141073,
-      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "score": 81,
+      "id": 49143053,
+      "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
+      "url": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
+      "score": 30,
+      "comments": 36
+    },
+    {
+      "id": 49142569,
+      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+      "score": 47,
+      "comments": 10
+    },
+    {
+      "id": 49143479,
+      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
+      "url": "https://meshdiff.com/",
+      "score": 6,
+      "comments": 0
+    },
+    {
+      "id": 49143289,
+      "title": "Generative AI floods and dilutes the market for books",
+      "url": "https://arxiv.org/abs/2607.20349",
+      "score": 17,
+      "comments": 5
+    },
+    {
+      "id": 49143001,
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "score": 29,
       "comments": 3
-    },
-    {
-      "id": 49140218,
-      "title": "Go 1.27 Interactive Tour",
-      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
-      "score": 142,
-      "comments": 34
-    },
-    {
-      "id": 49140702,
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-      "score": 41,
-      "comments": 1
-    },
-    {
-      "id": 49138302,
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 277,
-      "comments": 136
-    },
-    {
-      "id": 49138188,
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "score": 281,
-      "comments": 38
     }
   ]
 }

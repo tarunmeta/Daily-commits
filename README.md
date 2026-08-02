@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-02 06:37:12 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-02 12:03:18 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **microsoft/AI-For-Beginners**
-- BTC: **$62,869.0** ↓ (-0.05%)
-- HN top story: **Running Kimi K3 on MI355X at Better Performance per Dollar Than B300**
+- BTC: **$63,010.0** ↓ (-0.05%)
+- HN top story: **Is the Industrial Revolution a good precedent for explosive growth today?**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-08-02 00:13:31 UTC | `15ba15bcc9aa` | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-02 06:37:12 UTC | `c004059a7c68` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-02 00:13:31 UTC | `90c413f0eeac` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 15 | 2026-08-02 12:03:17 UTC | `a6dc0994e644` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-02 12:03:18 UTC | `8d1d31d059dd` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-02 12:03:17 UTC | `bba3fd5866d7` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-02` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-08-02 14:29:15 IST` |
+| Last Commit (IST) | `2026-08-02 16:16:13 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-30 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 | 2026-07-31 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-08-01 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
-| 2026-08-02 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-08-02 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $62,869.0 | -0.05% | 🔴 |
-| Ethereum | $1,845.94 | -0.92% | 🔴 |
-| Solana | $72.0 | -1.24% | 🔴 |
-| Bnb | $575.96 | -1.94% | 🔴 |
+| Bitcoin | $63,010.0 | -0.05% | 🔴 |
+| Ethereum | $1,852.35 | -0.73% | 🔴 |
+| Solana | $72.98 | +0.17% | 🟢 |
+| Bnb | $581.84 | +0.37% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 949 stars today | 12 Weeks, 24 Lessons, AI for All! |
-| [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | 523 stars today | A curated list of awesome libraries, packages, strategies, books, blogs, tutoria… |
 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 760 stars today | 🎯 All you need. Nothing you don't. Open source project management that works for… |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 242 stars today | AirLLM 70B inference with single 4GB GPU |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 435 stars today | Invidious is an alternative front-end to YouTube |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 710 stars today | Master programming by recreating your favorite technologies from scratch. |
 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 1,320 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 585 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 108 stars today | 21 Lessons, Get Started Building with Generative AI |
-| [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | 142 stars today | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services |
-| [github/gh-stack](https://github.com/github/gh-stack) | Go | 46 stars today | GitHub Stacked PRs |
-| [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | 442 stars today | Build local voice agents with open-source models |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x) | 81 | 3 |
-| [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) | 142 | 34 |
-| [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html) | 41 | 1 |
-| [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) | 277 | 136 |
-| [Diátaxis](https://diataxis.fr/) | 281 | 38 |
+| [Is the Industrial Revolution a good precedent for explosive growth today?](https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html) | 30 | 36 |
+| [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/) | 47 | 10 |
+| [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/) | 6 | 0 |
+| [Generative AI floods and dilutes the market for books](https://arxiv.org/abs/2607.20349) | 17 | 5 |
+| [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/) | 29 | 3 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
