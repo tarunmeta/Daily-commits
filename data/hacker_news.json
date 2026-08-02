@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-02 00:13:32 UTC",
-    "fetched_at_ist": "2026-08-02 05:43:32 IST",
+    "fetched_at_utc": "2026-08-02 06:37:12 UTC",
+    "fetched_at_ist": "2026-08-02 12:07:12 IST",
     "item_count": 5,
-    "content_hash": "8d51eb99149280613a512fbfa482fc62aa179550c1d9f32046871e02b6e339c7",
-    "previous_hash": "bb4be273ca33ef59e014e8c51110e9d1ecfac036da71a13eb16f9d43f930f9a7",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c004059a7c6832c1d78b14d7a22861de54ca3a56872414464cc7c558a605c6ad",
+    "previous_hash": "8d51eb99149280613a512fbfa482fc62aa179550c1d9f32046871e02b6e339c7",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49139102,
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "score": 86,
-      "comments": 55
+      "id": 49141073,
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "score": 81,
+      "comments": 3
+    },
+    {
+      "id": 49140218,
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 142,
+      "comments": 34
+    },
+    {
+      "id": 49140702,
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "score": 41,
+      "comments": 1
     },
     {
       "id": 49138302,
       "title": "Seedance 2.5",
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "score": 110,
-      "comments": 38
+      "score": 277,
+      "comments": 136
     },
     {
       "id": 49138188,
       "title": "Diátaxis",
       "url": "https://diataxis.fr/",
-      "score": 145,
-      "comments": 22
-    },
-    {
-      "id": 49139562,
-      "title": "A stray commit buried multiple levels deep cost me months",
-      "url": "https://www.droppedasbaby.com/posts/db-commits/",
-      "score": 24,
-      "comments": 14
-    },
-    {
-      "id": 49139383,
-      "title": "Unraveling the mysteries of habit formation",
-      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
-      "score": 12,
-      "comments": 5
+      "score": 281,
+      "comments": 38
     }
   ]
 }
