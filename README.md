@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-03 13:44:41 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-03 18:05:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **microsoft/AI-For-Beginners**
-- BTC: **$63,366.0** ↑ (+0.73%)
-- HN top story: **Critical CVE issued for hallucinated SQLite vulnerability**
+- Top GitHub repo: **lyogavin/airllm**
+- BTC: **$63,840.0** ↑ (+0.91%)
+- HN top story: **Devtools must be open source**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-08-03 00:12:39 UTC | `4579af7f721d` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-03 13:44:41 UTC | `3e43229c75f5` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-03 00:12:40 UTC | `7e1f1baefb24` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-08-03 18:05:25 UTC | `99ab1e0a0ba1` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-03 18:05:26 UTC | `7d880e7fc0dd` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-03 18:05:25 UTC | `b3942f285e2c` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +6 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-03` |
-| Commits Today | `10` / `100` |
-| Remaining Today | `90` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 10% |
+| Commits Today | `11` / `100` |
+| Remaining Today | `89` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 11% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-08-03 19:14:41 IST` |
+| Last Commit (IST) | `2026-08-03 21:39:24 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-07-31 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-08-01 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 | 2026-08-02 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
-| 2026-08-03 | 10 | `██░░░░░░░░░░░░░░░░░░` 10% |
+| 2026-08-03 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,366.0 | +0.73% | 🟢 |
-| Ethereum | $1,877.89 | +1.71% | 🟢 |
-| Solana | $73.42 | +1.97% | 🟢 |
-| Bnb | $586.0 | +1.72% | 🟢 |
+| Bitcoin | $63,840.0 | +0.91% | 🟢 |
+| Ethereum | $1,867.75 | -0.01% | 🔴 |
+| Solana | $73.67 | +0.49% | 🟢 |
+| Bnb | $591.2 | +0.64% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 2,629 stars today | 12 Weeks, 24 Lessons, AI for All! |
-| [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | 496 stars today | 🎯 All you need. Nothing you don't. Open source project management that works for… |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 819 stars today | AirLLM 70B inference with single 4GB GPU |
-| [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 305 stars today | Invidious is an alternative front-end to YouTube |
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 674 stars today | Master programming by recreating your favorite technologies from scratch. |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 1,141 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
-| [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | 280 stars today | The open-source alternative to Claude Cowork (powered by opencode) |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 588 stars today | 21 Lessons, Get Started Building with Generative AI |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 1,081 stars today | AirLLM 70B inference with single 4GB GPU |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 2,442 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 1,769 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 877 stars today | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach… |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 1,091 stars today | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver… |
+| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1,902 stars today | 12 Weeks, 24 Lessons, AI for All! |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 776 stars today | 21 Lessons, Get Started Building with Generative AI |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 323 stars today | Learn how to design large-scale systems. Prep for the system design interview. I… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/) | 269 | 80 |
-| [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/) | 1013 | 437 |
-| [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8) | 785 | 383 |
-| [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) | 9 | 0 |
-| [AirLLM 70B inference with single 4GB GPU](https://github.com/lyogavin/airllm) | 36 | 13 |
+| [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) | 248 | 83 |
+| [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) | 62 | 376 |
+| [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) | 170 | 50 |
+| [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/) | 144 | 58 |
+| [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) | 26 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
