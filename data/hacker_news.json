@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-03 18:05:26 UTC",
-    "fetched_at_ist": "2026-08-03 23:35:26 IST",
+    "fetched_at_utc": "2026-08-03 23:36:33 UTC",
+    "fetched_at_ist": "2026-08-04 05:06:33 IST",
     "item_count": 5,
-    "content_hash": "7d880e7fc0dde0dfcd5c5a06d069417efcb8b67ee920882fced0991aeb8a36e1",
-    "previous_hash": "3e43229c75f562bd921ed0a66706eace74cd47e8b25d81350336a5025456a6ed",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "0a4cb981d1e9c58b889623c8a50e252acfdb0c1131e9bee7bea473f4f4cd6ff5",
+    "previous_hash": "7d880e7fc0dde0dfcd5c5a06d069417efcb8b67ee920882fced0991aeb8a36e1",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49156111,
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 248,
-      "comments": 83
+      "id": 49161518,
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "score": 276,
+      "comments": 118
     },
     {
       "id": 49157930,
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 62,
-      "comments": 376
+      "score": 384,
+      "comments": 672
     },
     {
-      "id": 49155629,
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "score": 170,
-      "comments": 50
+      "id": 49162086,
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "score": 32,
+      "comments": 2
     },
     {
-      "id": 49155359,
-      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-      "score": 144,
-      "comments": 58
+      "id": 49156111,
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "score": 466,
+      "comments": 171
     },
     {
-      "id": 49158474,
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "score": 26,
-      "comments": 4
+      "id": 49156683,
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156683",
+      "score": 58,
+      "comments": 81
     }
   ]
 }

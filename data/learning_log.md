@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-04 (last updated: 03:48 IST)
+
+## 📅 2026-08-04 (last updated: 05:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-03 23:35:25 IST | 99ab1e0a0ba1 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-03 23:35:26 IST | 7d880e7fc0dd | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-04 05:06:33 IST | 0a4cb981d1e9 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-04 03:48:43 IST | 0b4cfe1e7d06 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,091 stars today
 
 ### 📰 Hacker News Stories
-- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) — Score: 248
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Score: 62
-- [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) — Score: 170
-- [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/) — Score: 144
-- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) — Score: 26
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) — Score: 276
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Score: 384
+- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/) — Score: 32
+- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) — Score: 466
+- [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683) — Score: 58
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,497.0 🔴 -0.32%
