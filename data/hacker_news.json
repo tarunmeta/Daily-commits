@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-02 12:03:18 UTC",
-    "fetched_at_ist": "2026-08-02 17:33:18 IST",
+    "fetched_at_utc": "2026-08-03 00:12:41 UTC",
+    "fetched_at_ist": "2026-08-03 05:42:41 IST",
     "item_count": 5,
-    "content_hash": "8d1d31d059ddcb13d48a659f8ad400c945c16d44b1f32ed5d4eacf0ed88e012c",
-    "previous_hash": "c004059a7c6832c1d78b14d7a22861de54ca3a56872414464cc7c558a605c6ad",
+    "content_hash": "97f663788ae2e87dc3237bc03fe6fda2d3909093e722d97b6e6cd6e6b4ae3cd5",
+    "previous_hash": "8d1d31d059ddcb13d48a659f8ad400c945c16d44b1f32ed5d4eacf0ed88e012c",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49143053,
-      "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
-      "url": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
-      "score": 30,
-      "comments": 36
+      "id": 49140998,
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "score": 407,
+      "comments": 321
     },
     {
-      "id": 49142569,
-      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "score": 47,
+      "id": 49122655,
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "score": 38,
+      "comments": 4
+    },
+    {
+      "id": 49149326,
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "url": "https://github.com/pg83/shitty",
+      "score": 25,
       "comments": 10
     },
     {
-      "id": 49143479,
-      "title": "Meshdiff – visually compare two STL versions in the browser, client-side",
-      "url": "https://meshdiff.com/",
-      "score": 6,
-      "comments": 0
+      "id": 49084324,
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "score": 110,
+      "comments": 30
     },
     {
-      "id": 49143289,
-      "title": "Generative AI floods and dilutes the market for books",
-      "url": "https://arxiv.org/abs/2607.20349",
-      "score": 17,
-      "comments": 5
-    },
-    {
-      "id": 49143001,
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "score": 29,
-      "comments": 3
+      "id": 49145937,
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "score": 162,
+      "comments": 34
     }
   ]
 }
