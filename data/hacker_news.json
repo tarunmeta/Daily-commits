@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-03 23:36:33 UTC",
-    "fetched_at_ist": "2026-08-04 05:06:33 IST",
+    "fetched_at_utc": "2026-08-04 04:31:19 UTC",
+    "fetched_at_ist": "2026-08-04 10:01:19 IST",
     "item_count": 5,
-    "content_hash": "0a4cb981d1e9c58b889623c8a50e252acfdb0c1131e9bee7bea473f4f4cd6ff5",
-    "previous_hash": "7d880e7fc0dde0dfcd5c5a06d069417efcb8b67ee920882fced0991aeb8a36e1",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "4f371644b1e7c0a76765ecaf9a03c932fb9e86887b2ac14cc2eef2e9c045680c",
+    "previous_hash": "0a4cb981d1e9c58b889623c8a50e252acfdb0c1131e9bee7bea473f4f4cd6ff5",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49161518,
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 276,
-      "comments": 118
+      "score": 613,
+      "comments": 256
+    },
+    {
+      "id": 49099336,
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "score": 85,
+      "comments": 41
+    },
+    {
+      "id": 49158333,
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "score": 39,
+      "comments": 10
     },
     {
       "id": 49157930,
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 384,
-      "comments": 672
-    },
-    {
-      "id": 49162086,
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "score": 32,
-      "comments": 2
+      "score": 483,
+      "comments": 751
     },
     {
       "id": 49156111,
       "title": "Devtools must be open source",
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 466,
-      "comments": 171
-    },
-    {
-      "id": 49156683,
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156683",
-      "score": 58,
-      "comments": 81
+      "score": 540,
+      "comments": 189
     }
   ]
 }

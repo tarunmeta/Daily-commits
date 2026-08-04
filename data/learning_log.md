@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-04 (last updated: 05:06 IST)
+
+## 📅 2026-08-04 (last updated: 10:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-03 23:35:25 IST | 99ab1e0a0ba1 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-04 05:06:33 IST | 0a4cb981d1e9 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-04 10:01:19 IST | 4f371644b1e7 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-04 03:48:43 IST | 0b4cfe1e7d06 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +6 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,091 stars today
 
 ### 📰 Hacker News Stories
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) — Score: 276
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Score: 384
-- [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/) — Score: 32
-- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) — Score: 466
-- [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683) — Score: 58
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) — Score: 613
+- [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) — Score: 85
+- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet) — Score: 39
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Score: 483
+- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) — Score: 540
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,497.0 🔴 -0.32%
