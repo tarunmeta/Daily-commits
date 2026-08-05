@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-05 00:14:36 UTC",
-    "fetched_at_ist": "2026-08-05 05:44:36 IST",
+    "fetched_at_utc": "2026-08-05 03:38:28 UTC",
+    "fetched_at_ist": "2026-08-05 09:08:28 IST",
     "item_count": 5,
-    "content_hash": "14bb13c826e099f41c7948750d0e51b38692f402191c90eedaa7e48735457a4d",
-    "previous_hash": "4f371644b1e7c0a76765ecaf9a03c932fb9e86887b2ac14cc2eef2e9c045680c",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "e7a95287a6bb7b880bf9685ea0bed556eeec18606efc0f51cd61b891cf973b34",
+    "previous_hash": "14bb13c826e099f41c7948750d0e51b38692f402191c90eedaa7e48735457a4d",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49176606,
       "title": "libexpat now funded by the City of Munich for up to 6 months",
       "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "score": 60,
-      "comments": 3
+      "score": 172,
+      "comments": 19
     },
     {
-      "id": 49174900,
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "id": 49176830,
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
       "score": 103,
-      "comments": 37
+      "comments": 66
     },
     {
-      "id": 49175924,
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "url": "https://techascent.com/blog/just-ducking-around.html",
-      "score": 31,
-      "comments": 1
+      "id": 49176038,
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 154,
+      "comments": 59
     },
     {
-      "id": 49176644,
-      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
-      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
-      "score": 16,
-      "comments": 7
+      "id": 49171268,
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "score": 331,
+      "comments": 79
     },
     {
-      "id": 49176697,
-      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "score": 11,
-      "comments": 0
+      "id": 49177554,
+      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+      "score": 22,
+      "comments": 10
     }
   ]
 }
