@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-04 04:31:19 UTC",
-    "fetched_at_ist": "2026-08-04 10:01:19 IST",
+    "fetched_at_utc": "2026-08-05 00:14:36 UTC",
+    "fetched_at_ist": "2026-08-05 05:44:36 IST",
     "item_count": 5,
-    "content_hash": "4f371644b1e7c0a76765ecaf9a03c932fb9e86887b2ac14cc2eef2e9c045680c",
-    "previous_hash": "0a4cb981d1e9c58b889623c8a50e252acfdb0c1131e9bee7bea473f4f4cd6ff5",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "14bb13c826e099f41c7948750d0e51b38692f402191c90eedaa7e48735457a4d",
+    "previous_hash": "4f371644b1e7c0a76765ecaf9a03c932fb9e86887b2ac14cc2eef2e9c045680c",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49161518,
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 613,
-      "comments": 256
+      "id": 49176606,
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "score": 60,
+      "comments": 3
     },
     {
-      "id": 49099336,
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 85,
-      "comments": 41
+      "id": 49174900,
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 103,
+      "comments": 37
     },
     {
-      "id": 49158333,
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "score": 39,
-      "comments": 10
+      "id": 49175924,
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "score": 31,
+      "comments": 1
     },
     {
-      "id": 49157930,
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 483,
-      "comments": 751
+      "id": 49176644,
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "score": 16,
+      "comments": 7
     },
     {
-      "id": 49156111,
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 540,
-      "comments": 189
+      "id": 49176697,
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "score": 11,
+      "comments": 0
     }
   ]
 }

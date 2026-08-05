@@ -7,44 +7,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-05 (last updated: 01:55 IST)
+
+## 📅 2026-08-05 (last updated: 05:44 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-08-03 23:35:25 IST | 99ab1e0a0ba1 | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-04 10:01:19 IST | 4f371644b1e7 | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-08-05 01:55:02 IST | 0d8517762b08 | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 18 | 2026-08-05 05:44:35 IST | cb707f942e71 | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-05 05:44:36 IST | 14bb13c826e0 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-05 05:44:35 IST | 16e55e6d2989 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[lyogavin/airllm](https://github.com/lyogavin/airllm)** (Jupyter Notebook) — AirLLM 70B inference with single 4GB GPU  
-  ⭐ 1,081 stars today
-- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** (PowerShell) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R  
-  ⭐ 2,442 stars today
-- **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** (Rust) — Fast Rust library for PDF inspection, classification, and text extraction. Intel  
-  ⭐ 1,769 stars today
-- **[esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)** (Go) — DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach  
-  ⭐ 877 stars today
 - **[TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** (TypeScript) — TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver  
-  ⭐ 1,091 stars today
+  ⭐ 1,111 stars today
+- **[zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** (PowerShell) — Reverse Engineering / Authorized Penetration Testing / Security Research Skill R  
+  ⭐ 2,297 stars today
+- **[firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector)** (Rust) — Fast Rust library for PDF inspection, classification, and text extraction. Intel  
+  ⭐ 2,540 stars today
+- **[uber/ADR](https://github.com/uber/ADR)** (Python) — ADR secures enterprise AI agents through observability, security benchmarking, a  
+  ⭐ 148 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 653 stars today
 
 ### 📰 Hacker News Stories
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) — Score: 613
-- [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) — Score: 85
-- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet) — Score: 39
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Score: 483
-- [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) — Score: 540
+- [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) — Score: 60
+- [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837) — Score: 103
+- [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html) — Score: 31
+- [Pass the Passkey: A Novel Attack Surface in Passwordless Authentication](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/) — Score: 16
+- [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) — Score: 11
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,029.0 🟢 +0.21%
-- Ethereum: $1,867.89 🔴 -0.18%
-- Solana: $73.96 🔴 -0.04%
-- Bnb: $592.73 🟢 +0.21%
+- Bitcoin: $63,978.0 🟢 +0.88%
+- Ethereum: $1,866.94 🟢 +0.47%
+- Solana: $73.6 🟢 +0.19%
+- Bnb: $593.7 🟢 +0.79%
 
 ---
 ## 📅 2026-08-04 (last updated: 17:48 IST)

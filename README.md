@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-04 20:25:02 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-05 00:14:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **lyogavin/airllm**
-- BTC: **$64,029.0** ↑ (+0.21%)
-- HN top story: **LLMs reward expertise**
+- Top GitHub repo: **TencentCloud/TencentDB-Agent-Memory**
+- BTC: **$63,978.0** ↑ (+0.88%)
+- HN top story: **libexpat now funded by the City of Munich for up to 6 months**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-08-03 18:05:25 UTC | `99ab1e0a0ba1` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-04 04:31:19 UTC | `4f371644b1e7` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-08-04 20:25:02 UTC | `0d8517762b08` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 18 | 2026-08-05 00:14:35 UTC | `cb707f942e71` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-05 00:14:36 UTC | `14bb13c826e0` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-05 00:14:35 UTC | `16e55e6d2989` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-05` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| Streak | `90` day(s) |
-| Last Commit (IST) | `2026-08-05 03:19:12 IST` |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Streak | `89` day(s) |
+| Last Commit (IST) | `2026-08-05 04:33:49 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-02 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 | 2026-08-03 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-08-04 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
-| 2026-08-05 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-08-05 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,029.0 | +0.21% | 🟢 |
-| Ethereum | $1,867.89 | -0.18% | 🔴 |
-| Solana | $73.96 | -0.04% | 🔴 |
-| Bnb | $592.73 | +0.21% | 🟢 |
+| Bitcoin | $63,978.0 | +0.88% | 🟢 |
+| Ethereum | $1,866.94 | +0.47% | 🟢 |
+| Solana | $73.6 | +0.19% | 🟢 |
+| Bnb | $593.7 | +0.79% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 1,081 stars today | AirLLM 70B inference with single 4GB GPU |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 2,442 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 1,769 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 877 stars today | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach… |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 1,091 stars today | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver… |
-| [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | 1,902 stars today | 12 Weeks, 24 Lessons, AI for All! |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 776 stars today | 21 Lessons, Get Started Building with Generative AI |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 323 stars today | Learn how to design large-scale systems. Prep for the system design interview. I… |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 1,111 stars today | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver… |
+| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 2,297 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 2,540 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
+| [uber/ADR](https://github.com/uber/ADR) | Python | 148 stars today | ADR secures enterprise AI agents through observability, security benchmarking, a… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 653 stars today | An agentic skills framework & software development methodology that works. |
+| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 783 stars today | 21 Lessons, Get Started Building with Generative AI |
+| [cypress-io/cypress](https://github.com/cypress-io/cypress) | TypeScript | 11 stars today | Fast, easy and reliable testing for anything that runs in a browser. |
+| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 1,711 stars today | AirLLM 70B inference with single 4GB GPU |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) | 613 | 256 |
-| [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) | 85 | 41 |
-| [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet) | 39 | 10 |
-| [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) | 483 | 751 |
-| [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) | 540 | 189 |
+| [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) | 60 | 3 |
+| [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837) | 103 | 37 |
+| [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html) | 31 | 1 |
+| [Pass the Passkey: A Novel Attack Surface in Passwordless Authentication](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/) | 16 | 7 |
+| [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) | 11 | 0 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
