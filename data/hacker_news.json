@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-05 06:12:06 UTC",
-    "fetched_at_ist": "2026-08-05 11:42:06 IST",
+    "fetched_at_utc": "2026-08-05 15:30:33 UTC",
+    "fetched_at_ist": "2026-08-05 21:00:33 IST",
     "item_count": 5,
-    "content_hash": "6fd9b2cc7c19a26247e5cfe3597dfff120e76fc5e2e05913813ec130fc04df39",
-    "previous_hash": "e7a95287a6bb7b880bf9685ea0bed556eeec18606efc0f51cd61b891cf973b34",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "17776c1780bf7084d2e9e9235498f357c7eb65a6c6c88b84189fa86ba899b578",
+    "previous_hash": "6fd9b2cc7c19a26247e5cfe3597dfff120e76fc5e2e05913813ec130fc04df39",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49131438,
-      "title": "Stateless MCP has recaptured my interest",
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "score": 67,
-      "comments": 32
+      "id": 49182996,
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "score": 170,
+      "comments": 93
     },
     {
-      "id": 49176830,
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "score": 161,
-      "comments": 106
-    },
-    {
-      "id": 49176038,
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "score": 237,
-      "comments": 91
-    },
-    {
-      "id": 49172784,
-      "title": "The Golden Age of British Ice Cream",
-      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+      "id": 49183953,
+      "title": "Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me",
+      "url": "https://knock-knock.net/blog/citigroup-idaho-build-a-bear/",
       "score": 17,
-      "comments": 3
+      "comments": 1
     },
     {
-      "id": 49171268,
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "score": 362,
-      "comments": 91
+      "id": 49183115,
+      "title": "Aristotle quotes on virtue, knowledge, and happiness",
+      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+      "score": 39,
+      "comments": 13
+    },
+    {
+      "id": 49183076,
+      "title": "Intelligence Is Not the Main Bottleneck",
+      "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
+      "score": 26,
+      "comments": 7
+    },
+    {
+      "id": 49182946,
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "score": 31,
+      "comments": 15
     }
   ]
 }
