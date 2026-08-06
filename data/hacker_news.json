@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-06 03:37:26 UTC",
-    "fetched_at_ist": "2026-08-06 09:07:26 IST",
+    "fetched_at_utc": "2026-08-06 11:33:49 UTC",
+    "fetched_at_ist": "2026-08-06 17:03:49 IST",
     "item_count": 5,
-    "content_hash": "951ceeb39c24ad699507d3682bf5257d08daafe9dc042c715ee3b0d6caf6eec0",
-    "previous_hash": "990f0f2854b47e8accd26504a0a13eb035097b098bca122e66fd84652a300012",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "de5dfada551dccdc33f40f0acbf321a75d9ad858687d3986312d6a13bfecc5c8",
+    "previous_hash": "951ceeb39c24ad699507d3682bf5257d08daafe9dc042c715ee3b0d6caf6eec0",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49191624,
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "score": 70,
-      "comments": 57
+      "id": 49168622,
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+      "score": 138,
+      "comments": 35
     },
     {
-      "id": 49191365,
-      "title": "LLMs won't break symmetric crypto",
-      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-      "score": 47,
-      "comments": 37
+      "id": 49192566,
+      "title": "Crime Pays but Botany Doesn't",
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "score": 268,
+      "comments": 106
+    },
+    {
+      "id": 49193314,
+      "title": "Let's all meet up in the Y2K",
+      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+      "score": 70,
+      "comments": 29
+    },
+    {
+      "id": 49096439,
+      "title": "Pareto Front",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front",
+      "score": 19,
+      "comments": 7
     },
     {
       "id": 49184960,
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 632,
-      "comments": 394
-    },
-    {
-      "id": 49187256,
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "score": 329,
-      "comments": 173
-    },
-    {
-      "id": 49189287,
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 179,
-      "comments": 79
+      "score": 776,
+      "comments": 487
     }
   ]
 }
