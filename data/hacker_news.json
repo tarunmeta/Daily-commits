@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-06 00:06:55 UTC",
-    "fetched_at_ist": "2026-08-06 05:36:55 IST",
+    "fetched_at_utc": "2026-08-06 03:37:26 UTC",
+    "fetched_at_ist": "2026-08-06 09:07:26 IST",
     "item_count": 5,
-    "content_hash": "990f0f2854b47e8accd26504a0a13eb035097b098bca122e66fd84652a300012",
-    "previous_hash": "17776c1780bf7084d2e9e9235498f357c7eb65a6c6c88b84189fa86ba899b578",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "951ceeb39c24ad699507d3682bf5257d08daafe9dc042c715ee3b0d6caf6eec0",
+    "previous_hash": "990f0f2854b47e8accd26504a0a13eb035097b098bca122e66fd84652a300012",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49191624,
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "score": 70,
+      "comments": 57
+    },
+    {
+      "id": 49191365,
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "score": 47,
+      "comments": 37
+    },
+    {
       "id": 49184960,
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "score": 536,
-      "comments": 328
+      "score": 632,
+      "comments": 394
     },
     {
       "id": 49187256,
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "score": 267,
-      "comments": 139
+      "score": 329,
+      "comments": 173
     },
     {
       "id": 49189287,
       "title": "The title cards in Blade Runner are amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 106,
-      "comments": 31
-    },
-    {
-      "id": 49184755,
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 423,
-      "comments": 547
-    },
-    {
-      "id": 49189234,
-      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "score": 63,
-      "comments": 6
+      "score": 179,
+      "comments": 79
     }
   ]
 }
