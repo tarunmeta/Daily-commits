@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-05 15:30:33 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-06 00:06:55 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **TencentCloud/TencentDB-Agent-Memory**
-- BTC: **$64,029.0** ↑ (+0.47%)
-- HN top story: **Cloudflare OS: an open platform for agents, apps, and work**
+- Top GitHub repo: **cloudflare/computer**
+- BTC: **$64,570.0** ↑ (+0.89%)
+- HN top story: **Discovery Loop**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-08-05 00:14:35 UTC | `cb707f942e71` | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-05 15:30:33 UTC | `17776c1780bf` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-05 11:29:16 UTC | `b91805124e8c` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 13 | 2026-08-06 00:06:53 UTC | `5c03081f9553` | +6 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-06 00:06:55 UTC | `990f0f2854b4` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-06 00:06:54 UTC | `a04200171af4` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: yes
+- GitHub: +6 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-06` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `90` day(s) |
-| Last Commit (IST) | `2026-08-06 03:18:11 IST` |
+| Last Commit (IST) | `2026-08-06 04:29:54 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-03 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-08-04 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-08-05 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
-| 2026-08-06 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-08-06 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,029.0 | +0.47% | 🟢 |
-| Ethereum | $1,867.18 | +0.03% | 🟢 |
-| Solana | $73.8 | +0.27% | 🟢 |
-| Bnb | $596.86 | +1.24% | 🟢 |
+| Bitcoin | $64,570.0 | +0.89% | 🟢 |
+| Ethereum | $1,906.35 | +2.07% | 🟢 |
+| Solana | $74.0 | +0.46% | 🟢 |
+| Bnb | $593.81 | +0.15% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 1,111 stars today | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver… |
-| [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | 2,297 stars today | Reverse Engineering / Authorized Penetration Testing / Security Research Skill R… |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 2,540 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
-| [uber/ADR](https://github.com/uber/ADR) | Python | 148 stars today | ADR secures enterprise AI agents through observability, security benchmarking, a… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 653 stars today | An agentic skills framework & software development methodology that works. |
-| [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | 783 stars today | 21 Lessons, Get Started Building with Generative AI |
-| [cypress-io/cypress](https://github.com/cypress-io/cypress) | TypeScript | 11 stars today | Fast, easy and reliable testing for anything that runs in a browser. |
-| [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | 1,711 stars today | AirLLM 70B inference with single 4GB GPU |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 891 stars today | Give your agent a computer 👾 |
+| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Python | 326 stars today | Lightweight loop engineering state kernel for long-running AI agent teams. Agent… |
+| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 1,892 stars today | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver… |
+| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 303 stars today | Learn how to design large-scale systems. Prep for the system design interview. I… |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 1,582 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
+| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 747 stars today | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 226 stars today | Production-grade engineering skills for AI coding agents. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 931 stars today | An agentic skills framework & software development methodology that works. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/) | 170 | 93 |
-| [Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me](https://knock-knock.net/blog/citigroup-idaho-build-a-bear/) | 17 | 1 |
-| [Aristotle quotes on virtue, knowledge, and happiness](https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/) | 39 | 13 |
-| [Intelligence Is Not the Main Bottleneck](https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck) | 26 | 7 |
-| [Building an Advanced Agentic Harness](https://data4sci.com/blog/building-an-advanced-agentic-harness) | 31 | 15 |
+| [Discovery Loop](https://www.discoveryloop.com/) | 536 | 328 |
+| [Zed DeltaDB](https://zed.dev/deltadb) | 267 | 139 |
+| [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) | 106 | 31 |
+| [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) | 423 | 547 |
+| [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread) | 63 | 6 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

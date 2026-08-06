@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-05 15:30:33 UTC",
-    "fetched_at_ist": "2026-08-05 21:00:33 IST",
+    "fetched_at_utc": "2026-08-06 00:06:55 UTC",
+    "fetched_at_ist": "2026-08-06 05:36:55 IST",
     "item_count": 5,
-    "content_hash": "17776c1780bf7084d2e9e9235498f357c7eb65a6c6c88b84189fa86ba899b578",
-    "previous_hash": "6fd9b2cc7c19a26247e5cfe3597dfff120e76fc5e2e05913813ec130fc04df39",
+    "content_hash": "990f0f2854b47e8accd26504a0a13eb035097b098bca122e66fd84652a300012",
+    "previous_hash": "17776c1780bf7084d2e9e9235498f357c7eb65a6c6c88b84189fa86ba899b578",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49182996,
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "score": 170,
-      "comments": 93
+      "id": 49184960,
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "score": 536,
+      "comments": 328
     },
     {
-      "id": 49183953,
-      "title": "Citigroup, Idaho, and Build-a-Bear Launched a Coordinated Attack on Me",
-      "url": "https://knock-knock.net/blog/citigroup-idaho-build-a-bear/",
-      "score": 17,
-      "comments": 1
+      "id": 49187256,
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "score": 267,
+      "comments": 139
     },
     {
-      "id": 49183115,
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "score": 39,
-      "comments": 13
+      "id": 49189287,
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "score": 106,
+      "comments": 31
     },
     {
-      "id": 49183076,
-      "title": "Intelligence Is Not the Main Bottleneck",
-      "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
-      "score": 26,
-      "comments": 7
+      "id": 49184755,
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 423,
+      "comments": 547
     },
     {
-      "id": 49182946,
-      "title": "Building an Advanced Agentic Harness",
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "score": 31,
-      "comments": 15
+      "id": 49189234,
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "score": 63,
+      "comments": 6
     }
   ]
 }
