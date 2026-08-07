@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-07 10:26:05 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-07 11:22:36 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cloudflare/computer**
-- BTC: **$64,781.0** ↑ (+0.28%)
+- BTC: **$64,922.0** ↑ (+0.57%)
 - HN top story: **AMD acquires Taalas to boost inference performance by etching models in silicon**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-08-06 00:06:53 UTC | `5c03081f9553` | +6 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-07 03:38:58 UTC | `eff38d23fb84` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-08-07 10:26:05 UTC | `3d7cb5127a74` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-08-07 11:22:36 UTC | `e50bd4696426` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +6 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-07` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `90` day(s) |
-| Last Commit (IST) | `2026-08-07 14:47:22 IST` |
+| Last Commit (IST) | `2026-08-07 15:56:05 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-04 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-08-05 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-08-06 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| 2026-08-07 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-08-07 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,781.0 | +0.28% | 🟢 |
-| Ethereum | $1,911.82 | +0.48% | 🟢 |
-| Solana | $73.5 | +0.27% | 🟢 |
-| Bnb | $589.52 | -0.71% | 🔴 |
+| Bitcoin | $64,922.0 | +0.57% | 🟢 |
+| Ethereum | $1,913.62 | +0.47% | 🟢 |
+| Solana | $73.51 | +0.17% | 🟢 |
+| Bnb | $590.3 | -0.48% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
