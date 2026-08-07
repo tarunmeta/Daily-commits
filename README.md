@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-07 11:22:36 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-07 12:08:49 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **cloudflare/computer**
-- BTC: **$64,922.0** ↑ (+0.57%)
-- HN top story: **AMD acquires Taalas to boost inference performance by etching models in silicon**
+- Top GitHub repo: **PrimeIntellect-ai/prime-agent**
+- BTC: **$64,992.0** ↑ (+0.84%)
+- HN top story: **US strikes $1.2B deal to pay German firm to halt offshore wind projects**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-08-06 00:06:53 UTC | `5c03081f9553` | +6 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-07 03:38:58 UTC | `eff38d23fb84` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-08-07 11:22:36 UTC | `e50bd4696426` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 17 | 2026-08-07 12:08:48 UTC | `f1e069c7267a` | +14 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-07 12:08:49 UTC | `aaa7a4e1d726` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-07 12:08:48 UTC | `6e05dd161b24` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +6 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- GitHub: +14 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-07` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `90` day(s) |
-| Last Commit (IST) | `2026-08-07 15:56:05 IST` |
+| Last Commit (IST) | `2026-08-07 16:52:36 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-04 | 11 | `██░░░░░░░░░░░░░░░░░░` 11% |
 | 2026-08-05 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-08-06 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
-| 2026-08-07 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-08-07 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,922.0 | +0.57% | 🟢 |
-| Ethereum | $1,913.62 | +0.47% | 🟢 |
-| Solana | $73.51 | +0.17% | 🟢 |
-| Bnb | $590.3 | -0.48% | 🔴 |
+| Bitcoin | $64,992.0 | +0.84% | 🟢 |
+| Ethereum | $1,918.23 | +0.88% | 🟢 |
+| Solana | $73.63 | +0.45% | 🟢 |
+| Bnb | $591.05 | -0.30% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 891 stars today | Give your agent a computer 👾 |
-| [huangruiteng/loopx](https://github.com/huangruiteng/loopx) | Python | 326 stars today | Lightweight loop engineering state kernel for long-running AI agent teams. Agent… |
-| [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | 1,892 stars today | TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conver… |
-| [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | 303 stars today | Learn how to design large-scale systems. Prep for the system design interview. I… |
-| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 1,582 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
-| [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | Go | 747 stars today | DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cach… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 226 stars today | Production-grade engineering skills for AI coding agents. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 931 stars today | An agentic skills framework & software development methodology that works. |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,271 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 593 stars today | Production-grade engineering skills for AI coding agents. |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 2,802 stars today | Give your agent a computer 👾 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,873 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 858 stars today | An agentic skills framework & software development methodology that works. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 138 stars today | The authentication glue you need. |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 118 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 126 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) | 440 | 342 |
-| [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) | 922 | 151 |
-| [Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/) | 13 | 1 |
-| [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) | 162 | 33 |
-| [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/) | 109 | 65 |
+| [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o) | 248 | 206 |
+| [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) | 372 | 231 |
+| [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) | 721 | 542 |
+| [The Gargantuan Lie That Is Collapsing the Climate](https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization) | 67 | 19 |
+| [Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding](https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding) | 50 | 31 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

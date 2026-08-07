@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 03:38:58 UTC",
-    "fetched_at_ist": "2026-08-07 09:08:58 IST",
+    "fetched_at_utc": "2026-08-07 12:08:49 UTC",
+    "fetched_at_ist": "2026-08-07 17:38:49 IST",
     "item_count": 5,
-    "content_hash": "eff38d23fb84b5c7dd3ba0f7a3bb7985f6af8a1d11ba1929b3b1c9b5a056929c",
-    "previous_hash": "5d87f4ba6f1e524e8151e7f0e6b3dd58c798c076fa9a6d4eca561704f59356c7",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "aaa7a4e1d72627044bf0cd412d579ec1e0f496a63ac345d4c4636419c23f2510",
+    "previous_hash": "eff38d23fb84b5c7dd3ba0f7a3bb7985f6af8a1d11ba1929b3b1c9b5a056929c",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49208314,
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "score": 248,
+      "comments": 206
+    },
+    {
+      "id": 49204352,
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 372,
+      "comments": 231
+    },
     {
       "id": 49201970,
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 440,
-      "comments": 342
+      "score": 721,
+      "comments": 542
     },
     {
-      "id": 49195231,
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 922,
-      "comments": 151
+      "id": 49208686,
+      "title": "The Gargantuan Lie That Is Collapsing the Climate",
+      "url": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
+      "score": 67,
+      "comments": 19
     },
     {
-      "id": 49204060,
-      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
-      "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
-      "score": 13,
-      "comments": 1
-    },
-    {
-      "id": 49184355,
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 162,
-      "comments": 33
-    },
-    {
-      "id": 49152255,
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "score": 109,
-      "comments": 65
+      "id": 49162299,
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
+      "score": 50,
+      "comments": 31
     }
   ]
 }
