@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 15:36:18 UTC",
-    "fetched_at_ist": "2026-08-07 21:06:18 IST",
+    "fetched_at_utc": "2026-08-07 16:34:22 UTC",
+    "fetched_at_ist": "2026-08-07 22:04:22 IST",
     "item_count": 5,
-    "content_hash": "20197644d4ab0e1ca8b76223798f68c07337405f123ad610b6c1dd73d0a18ddb",
-    "previous_hash": "5c4f7e6bf9778ff2787a905a668665b067570f8ff13d66e2e52dd43345f661be",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "62a16298b01b6223261e8878aa9f814dbaf6a6d9042f674acc30ace371a47302",
+    "previous_hash": "20197644d4ab0e1ca8b76223798f68c07337405f123ad610b6c1dd73d0a18ddb",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49211386,
-      "title": "99% of My Website Traffic Is Bots",
-      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "score": 73,
-      "comments": 70
-    },
-    {
-      "id": 49211758,
-      "title": "Another Corner of the Internet Has Been Ruined",
-      "url": "https://www.freeformatter.com/",
-      "score": 18,
-      "comments": 7
-    },
-    {
-      "id": 49208314,
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 720,
-      "comments": 680
-    },
-    {
       "id": 49209385,
       "title": "Show HN: Wyzer Programming Language",
       "url": "https://github.com/Wyzer-Lang/wyzer",
-      "score": 65,
-      "comments": 29
+      "score": 90,
+      "comments": 44
     },
     {
       "id": 49204352,
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 501,
-      "comments": 276
+      "score": 537,
+      "comments": 296
+    },
+    {
+      "id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 794,
+      "comments": 603
+    },
+    {
+      "id": 49211921,
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "id": 49208458,
+      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
+      "score": 53,
+      "comments": 15
     }
   ]
 }
