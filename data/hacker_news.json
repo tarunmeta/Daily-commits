@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 00:40:14 UTC",
-    "fetched_at_ist": "2026-08-07 06:10:14 IST",
+    "fetched_at_utc": "2026-08-07 03:38:58 UTC",
+    "fetched_at_ist": "2026-08-07 09:08:58 IST",
     "item_count": 5,
-    "content_hash": "5d87f4ba6f1e524e8151e7f0e6b3dd58c798c076fa9a6d4eca561704f59356c7",
-    "previous_hash": "de5dfada551dccdc33f40f0acbf321a75d9ad858687d3986312d6a13bfecc5c8",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "eff38d23fb84b5c7dd3ba0f7a3bb7985f6af8a1d11ba1929b3b1c9b5a056929c",
+    "previous_hash": "5d87f4ba6f1e524e8151e7f0e6b3dd58c798c076fa9a6d4eca561704f59356c7",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49201970,
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 323,
-      "comments": 253
-    },
-    {
-      "id": 49184355,
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "score": 127,
-      "comments": 21
+      "score": 440,
+      "comments": 342
     },
     {
       "id": 49195231,
       "title": "Mario Meets Pareto",
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "score": 852,
-      "comments": 147
+      "score": 922,
+      "comments": 151
     },
     {
-      "id": 49203105,
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "score": 64,
-      "comments": 13
+      "id": 49204060,
+      "title": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+      "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+      "score": 13,
+      "comments": 1
     },
     {
-      "id": 49202716,
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "score": 39,
-      "comments": 3
+      "id": 49184355,
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 162,
+      "comments": 33
+    },
+    {
+      "id": 49152255,
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 109,
+      "comments": 65
     }
   ]
 }
