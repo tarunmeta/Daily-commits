@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 14:39:54 UTC",
-    "fetched_at_ist": "2026-08-07 20:09:54 IST",
+    "fetched_at_utc": "2026-08-07 15:36:18 UTC",
+    "fetched_at_ist": "2026-08-07 21:06:18 IST",
     "item_count": 5,
-    "content_hash": "5c4f7e6bf9778ff2787a905a668665b067570f8ff13d66e2e52dd43345f661be",
-    "previous_hash": "57d7624b9757fcd943a57da2b7fde166ca1a965160025add18ee15188f8e9a76",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "20197644d4ab0e1ca8b76223798f68c07337405f123ad610b6c1dd73d0a18ddb",
+    "previous_hash": "5c4f7e6bf9778ff2787a905a668665b067570f8ff13d66e2e52dd43345f661be",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49211386,
+      "title": "99% of My Website Traffic Is Bots",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "score": 73,
+      "comments": 70
+    },
+    {
+      "id": 49211758,
+      "title": "Another Corner of the Internet Has Been Ruined",
+      "url": "https://www.freeformatter.com/",
+      "score": 18,
+      "comments": 7
+    },
     {
       "id": 49208314,
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
       "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 614,
-      "comments": 563
-    },
-    {
-      "id": 49209546,
-      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
-      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
-      "score": 174,
-      "comments": 99
+      "score": 720,
+      "comments": 680
     },
     {
       "id": 49209385,
       "title": "Show HN: Wyzer Programming Language",
       "url": "https://github.com/Wyzer-Lang/wyzer",
-      "score": 32,
-      "comments": 12
+      "score": 65,
+      "comments": 29
     },
     {
       "id": 49204352,
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 464,
-      "comments": 262
-    },
-    {
-      "id": 49201970,
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 758,
-      "comments": 580
+      "score": 501,
+      "comments": 276
     }
   ]
 }
