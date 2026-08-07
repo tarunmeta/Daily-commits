@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 17:33:56 UTC",
-    "fetched_at_ist": "2026-08-07 23:03:56 IST",
+    "fetched_at_utc": "2026-08-07 18:30:13 UTC",
+    "fetched_at_ist": "2026-08-08 00:00:13 IST",
     "item_count": 5,
-    "content_hash": "8fd38f20eb7b846b921482997194b5170da59af3de3f658b9d13f2d238374205",
-    "previous_hash": "62a16298b01b6223261e8878aa9f814dbaf6a6d9042f674acc30ace371a47302",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "d6e6b0149619e2546539bd46f89cee5bd89afe3e22ffd747e2a7860f9019b492",
+    "previous_hash": "8fd38f20eb7b846b921482997194b5170da59af3de3f658b9d13f2d238374205",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49213029,
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 35,
-      "comments": 20
+      "id": 49213754,
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 105,
+      "comments": 66
+    },
+    {
+      "id": 49214008,
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "score": 55,
+      "comments": 33
     },
     {
       "id": 49211921,
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 53,
-      "comments": 15
+      "score": 74,
+      "comments": 24
     },
     {
       "id": 49204352,
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 583,
-      "comments": 333
-    },
-    {
-      "id": 49213097,
-      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
-      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
-      "score": 76,
-      "comments": 30
+      "score": 625,
+      "comments": 345
     },
     {
       "id": 49208535,
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "score": 117,
-      "comments": 48
+      "score": 152,
+      "comments": 68
     }
   ]
 }
