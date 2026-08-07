@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 16:34:22 UTC",
-    "fetched_at_ist": "2026-08-07 22:04:22 IST",
+    "fetched_at_utc": "2026-08-07 17:33:56 UTC",
+    "fetched_at_ist": "2026-08-07 23:03:56 IST",
     "item_count": 5,
-    "content_hash": "62a16298b01b6223261e8878aa9f814dbaf6a6d9042f674acc30ace371a47302",
-    "previous_hash": "20197644d4ab0e1ca8b76223798f68c07337405f123ad610b6c1dd73d0a18ddb",
+    "content_hash": "8fd38f20eb7b846b921482997194b5170da59af3de3f658b9d13f2d238374205",
+    "previous_hash": "62a16298b01b6223261e8878aa9f814dbaf6a6d9042f674acc30ace371a47302",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49209385,
-      "title": "Show HN: Wyzer Programming Language",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
-      "score": 90,
-      "comments": 44
-    },
-    {
-      "id": 49204352,
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 537,
-      "comments": 296
-    },
-    {
-      "id": 49201970,
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 794,
-      "comments": 603
+      "id": 49213029,
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "score": 35,
+      "comments": 20
     },
     {
       "id": 49211921,
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 5,
-      "comments": 0
-    },
-    {
-      "id": 49208458,
-      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
-      "url": "https://textlog.cc/about",
       "score": 53,
       "comments": 15
+    },
+    {
+      "id": 49204352,
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 583,
+      "comments": 333
+    },
+    {
+      "id": 49213097,
+      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
+      "score": 76,
+      "comments": 30
+    },
+    {
+      "id": 49208535,
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "score": 117,
+      "comments": 48
     }
   ]
 }
