@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 13:39:11 UTC",
-    "fetched_at_ist": "2026-08-07 19:09:11 IST",
+    "fetched_at_utc": "2026-08-07 14:39:54 UTC",
+    "fetched_at_ist": "2026-08-07 20:09:54 IST",
     "item_count": 5,
-    "content_hash": "57d7624b9757fcd943a57da2b7fde166ca1a965160025add18ee15188f8e9a76",
-    "previous_hash": "aaa7a4e1d72627044bf0cd412d579ec1e0f496a63ac345d4c4636419c23f2510",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "5c4f7e6bf9778ff2787a905a668665b067570f8ff13d66e2e52dd43345f661be",
+    "previous_hash": "57d7624b9757fcd943a57da2b7fde166ca1a965160025add18ee15188f8e9a76",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49208314,
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
       "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "score": 450,
-      "comments": 433
-    },
-    {
-      "id": 49204352,
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "score": 425,
-      "comments": 253
-    },
-    {
-      "id": 49201970,
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "score": 742,
-      "comments": 566
+      "score": 614,
+      "comments": 563
     },
     {
       "id": 49209546,
       "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
       "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
-      "score": 41,
-      "comments": 13
+      "score": 174,
+      "comments": 99
     },
     {
-      "id": 49199346,
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "score": 522,
-      "comments": 387
+      "id": 49209385,
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "score": 32,
+      "comments": 12
+    },
+    {
+      "id": 49204352,
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "score": 464,
+      "comments": 262
+    },
+    {
+      "id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 758,
+      "comments": 580
     }
   ]
 }
