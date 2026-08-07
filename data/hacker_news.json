@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-06 11:33:49 UTC",
-    "fetched_at_ist": "2026-08-06 17:03:49 IST",
+    "fetched_at_utc": "2026-08-07 00:40:14 UTC",
+    "fetched_at_ist": "2026-08-07 06:10:14 IST",
     "item_count": 5,
-    "content_hash": "de5dfada551dccdc33f40f0acbf321a75d9ad858687d3986312d6a13bfecc5c8",
-    "previous_hash": "951ceeb39c24ad699507d3682bf5257d08daafe9dc042c715ee3b0d6caf6eec0",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "5d87f4ba6f1e524e8151e7f0e6b3dd58c798c076fa9a6d4eca561704f59356c7",
+    "previous_hash": "de5dfada551dccdc33f40f0acbf321a75d9ad858687d3986312d6a13bfecc5c8",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49168622,
-      "title": "How to Make a Nintendo 64 Game in 2026",
-      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "score": 138,
-      "comments": 35
+      "id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 323,
+      "comments": 253
     },
     {
-      "id": 49192566,
-      "title": "Crime Pays but Botany Doesn't",
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "score": 268,
-      "comments": 106
+      "id": 49184355,
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 127,
+      "comments": 21
     },
     {
-      "id": 49193314,
-      "title": "Let's all meet up in the Y2K",
-      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-      "score": 70,
-      "comments": 29
+      "id": 49195231,
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "score": 852,
+      "comments": 147
     },
     {
-      "id": 49096439,
-      "title": "Pareto Front",
-      "url": "https://en.wikipedia.org/wiki/Pareto_front",
-      "score": 19,
-      "comments": 7
+      "id": 49203105,
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 64,
+      "comments": 13
     },
     {
-      "id": 49184960,
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
-      "score": 776,
-      "comments": 487
+      "id": 49202716,
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "score": 39,
+      "comments": 3
     }
   ]
 }
