@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-07 19:34:37 UTC",
-    "fetched_at_ist": "2026-08-08 01:04:37 IST",
+    "fetched_at_utc": "2026-08-07 22:37:59 UTC",
+    "fetched_at_ist": "2026-08-08 04:07:59 IST",
     "item_count": 5,
-    "content_hash": "805939676ba0a5b9cc0ce8ba4261c98ef3c23429f90eeabfeb1d7222301d6fd5",
-    "previous_hash": "d6e6b0149619e2546539bd46f89cee5bd89afe3e22ffd747e2a7860f9019b492",
+    "content_hash": "4d7deec5f28ede23c903b441884544c245366245e205a59092104f2365a3ba28",
+    "previous_hash": "805939676ba0a5b9cc0ce8ba4261c98ef3c23429f90eeabfeb1d7222301d6fd5",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49214008,
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 141,
-      "comments": 85
+      "score": 348,
+      "comments": 211
     },
     {
       "id": 49214098,
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 65,
-      "comments": 12
+      "score": 193,
+      "comments": 44
     },
     {
-      "id": 49213754,
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 212,
-      "comments": 142
+      "id": 49214770,
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "score": 100,
+      "comments": 34
     },
     {
       "id": 49213029,
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 96,
-      "comments": 102
+      "score": 134,
+      "comments": 150
     },
     {
-      "id": 49211921,
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 91,
-      "comments": 28
+      "id": 49209539,
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "score": 288,
+      "comments": 424
     }
   ]
 }
