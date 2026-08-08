@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-08 11:42:55 UTC",
-    "fetched_at_ist": "2026-08-08 17:12:55 IST",
+    "fetched_at_utc": "2026-08-08 12:14:34 UTC",
+    "fetched_at_ist": "2026-08-08 17:44:34 IST",
     "item_count": 5,
-    "content_hash": "c9ec285076926c5d37d1dcf0e05e50f1021497a6e68083b8d1f3bc29a16a8d72",
-    "previous_hash": "39a6edd780b0258d00e55f43749be2d04df1375abc2e40b1c1e24ec2788bdd9e",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "d7b74a86dae1e7786199bf68cbdeaf838cd1ddda38e9c07849ae87fb0d921257",
+    "previous_hash": "c9ec285076926c5d37d1dcf0e05e50f1021497a6e68083b8d1f3bc29a16a8d72",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49220609,
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 28,
+      "comments": 17
+    },
+    {
       "id": 49219508,
       "title": "Hardware backdoors in some x86 CPUs",
       "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "score": 146,
-      "comments": 46
+      "score": 161,
+      "comments": 50
+    },
+    {
+      "id": 49220126,
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "score": 28,
+      "comments": 4
     },
     {
       "id": 49189457,
       "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
       "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "score": 247,
-      "comments": 48
-    },
-    {
-      "id": 49220350,
-      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "score": 77,
-      "comments": 41
+      "score": 260,
+      "comments": 55
     },
     {
       "id": 49214008,
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 656,
+      "score": 661,
       "comments": 396
-    },
-    {
-      "id": 49216946,
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "score": 253,
-      "comments": 90
     }
   ]
 }

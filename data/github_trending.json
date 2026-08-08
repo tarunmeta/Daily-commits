@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-08 06:07:54 UTC",
-    "fetched_at_ist": "2026-08-08 11:37:54 IST",
-    "item_count": 17,
-    "content_hash": "47f61ce526ead18f44af8ec10bba71839562328efd7d74b952728fc82c9d53e8",
-    "previous_hash": "f1e069c7267a645995d417ac1e784d1a40ae3fe3c6bc541a029c6334c35782fd",
-    "new_repos_vs_previous": 0,
+    "fetched_at_utc": "2026-08-08 12:14:32 UTC",
+    "fetched_at_ist": "2026-08-08 17:44:32 IST",
+    "item_count": 12,
+    "content_hash": "7c0ed74c0e65b4d5525bd8f3114161e6ca6b77091e360fbfbf5c5ea2ded8d69c",
+    "previous_hash": "47f61ce526ead18f44af8ec10bba71839562328efd7d74b952728fc82c9d53e8",
+    "new_repos_vs_previous": 5,
     "top_repo_changed": false
   },
   "repos": [
@@ -24,10 +24,16 @@
       "stars_today": "1,131 stars today"
     },
     {
-      "name": "cloudflare/computer",
-      "description": "Give your agent a computer 👾",
-      "language": "TypeScript",
-      "stars_today": "872 stars today"
+      "name": "TapXWorld/ChinaTextbook",
+      "description": "所有小初高、大学PDF教材。",
+      "language": "Roff",
+      "stars_today": "591 stars today"
+    },
+    {
+      "name": "google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "language": "Python",
+      "stars_today": "327 stars today"
     },
     {
       "name": "mattpocock/skills",
@@ -36,46 +42,16 @@
       "stars_today": "2,152 stars today"
     },
     {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "782 stars today"
-    },
-    {
       "name": "goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
       "stars_today": "530 stars today"
     },
     {
-      "name": "semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_today": "122 stars today"
-    },
-    {
-      "name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "stars_today": "141 stars today"
-    },
-    {
-      "name": "chenyme/grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "language": "Go",
-      "stars_today": "55 stars today"
-    },
-    {
-      "name": "jdx/mise",
-      "description": "dev tools, env vars, task runner",
-      "language": "Rust",
-      "stars_today": "135 stars today"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "language": "Python",
-      "stars_today": "355 stars today"
+      "stars_today": "126 stars today"
     },
     {
       "name": "google/guava",
@@ -84,10 +60,10 @@
       "stars_today": "152 stars today"
     },
     {
-      "name": "unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
-      "language": "Clojure",
-      "stars_today": "81 stars today"
+      "name": "LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
+      "language": "C++",
+      "stars_today": "42 stars today"
     },
     {
       "name": "denoland/celld",
@@ -96,22 +72,16 @@
       "stars_today": "516 stars today"
     },
     {
-      "name": "K2SOsint/Legendary_OSINT",
-      "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "name": "litu54/DevOps-Interview-Guide",
+      "description": "DevOps Interview Guide",
       "language": "Unknown",
-      "stars_today": "109 stars today"
+      "stars_today": "59 stars today"
     },
     {
-      "name": "pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "stars_today": "234 stars today"
-    },
-    {
-      "name": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_today": "327 stars today"
+      "name": "bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "stars_today": "140 stars today"
     }
   ]
 }

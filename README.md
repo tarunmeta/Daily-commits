@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-08 11:42:55 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-08 12:14:34 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **PrimeIntellect-ai/prime-agent**
-- BTC: **$64,962.0** ↑ (+1.05%)
-- HN top story: **Hardware backdoors in some x86 CPUs**
+- BTC: **$64,897.0** ↓ (-0.43%)
+- HN top story: **Now we have a timeline of the OpenAI accidental attack against Hugging Face**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-08 06:07:54 UTC | `47f61ce526ea` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-08 11:42:55 UTC | `c9ec28507692` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-08 07:15:12 UTC | `44116f8fa6ac` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-08-08 12:14:32 UTC | `7c0ed74c0e65` | +5 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-08 12:14:34 UTC | `d7b74a86dae1` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-08 12:14:33 UTC | `83d2784470d7` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +5 new repos, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-08` |
-| Commits Today | `20` / `100` |
-| Remaining Today | `80` |
-| Progress | `████░░░░░░░░░░░░░░░░` 20% |
+| Commits Today | `21` / `100` |
+| Remaining Today | `79` |
+| Progress | `████░░░░░░░░░░░░░░░░` 21% |
 | Streak | `89` day(s) |
-| Last Commit (IST) | `2026-08-08 16:37:05 IST` |
+| Last Commit (IST) | `2026-08-08 17:12:55 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-05 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-08-06 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-08-07 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-08-08 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
+| 2026-08-08 | 21 | `████░░░░░░░░░░░░░░░░` 21% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,962.0 | +1.05% | 🟢 |
-| Ethereum | $1,914.9 | +0.55% | 🟢 |
-| Solana | $74.69 | +2.45% | 🟢 |
-| Bnb | $594.1 | +1.26% | 🟢 |
+| Bitcoin | $64,897.0 | -0.43% | 🔴 |
+| Ethereum | $1,918.69 | -0.76% | 🔴 |
+| Solana | $75.49 | +2.16% | 🟢 |
+| Bnb | $595.48 | +0.56% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
@@ -65,22 +65,22 @@
 | :--- | :--- | ---: | :--- |
 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,293 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1,131 stars today | Production-grade engineering skills for AI coding agents. |
-| [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 872 stars today | Give your agent a computer 👾 |
+| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 591 stars today | 所有小初高、大学PDF教材。 |
+| [google/skills](https://github.com/google/skills) | Python | 327 stars today | Agent Skills for Google products and technologies |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,152 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 782 stars today | An agentic skills framework & software development methodology that works. |
 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 530 stars today | The authentication glue you need. |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 122 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 141 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 126 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [google/guava](https://github.com/google/guava) | Java | 152 stars today | Google core libraries for Java |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge) | 146 | 46 |
-| [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/) | 247 | 48 |
-| [New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.](https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html) | 77 | 41 |
-| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | 656 | 396 |
-| [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) | 253 | 90 |
+| [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) | 28 | 17 |
+| [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge) | 161 | 50 |
+| [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | 28 | 4 |
+| [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/) | 260 | 55 |
+| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | 661 | 396 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
