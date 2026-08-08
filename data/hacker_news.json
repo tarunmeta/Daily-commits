@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-08 18:38:33 UTC",
-    "fetched_at_ist": "2026-08-09 00:08:33 IST",
+    "fetched_at_utc": "2026-08-08 20:30:52 UTC",
+    "fetched_at_ist": "2026-08-09 02:00:52 IST",
     "item_count": 5,
-    "content_hash": "e0068276bef42643218a320c8c43d4bcf37c987b9c1eedee00faa7054beaaa87",
-    "previous_hash": "8f4d57721b8ff868030d65c89769ed7cb714421161fccaf5c40bca0722322a9f",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "f122cde0e62b1c91e9244c2ec21b3f814fe0d53bb54aa4006db233acf34d3e42",
+    "previous_hash": "e0068276bef42643218a320c8c43d4bcf37c987b9c1eedee00faa7054beaaa87",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49224294,
       "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
       "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "score": 36,
-      "comments": 7
+      "score": 248,
+      "comments": 118
     },
     {
       "id": 49223082,
       "title": "Fastmail offers EU data region",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 111,
-      "comments": 52
+      "score": 203,
+      "comments": 97
     },
     {
       "id": 49223475,
       "title": "LinkedIn Feed Blocker",
       "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
-      "score": 51,
-      "comments": 39
+      "score": 112,
+      "comments": 68
     },
     {
       "id": 49221668,
       "title": "A domain can now say it is for sale, in DNS",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 225,
-      "comments": 99
+      "score": 265,
+      "comments": 116
     },
     {
       "id": 49222189,
       "title": "\"Code was never the hard part\" is an insult to all programmers",
       "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "score": 96,
-      "comments": 67
+      "score": 282,
+      "comments": 207
     }
   ]
 }
