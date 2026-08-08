@@ -2,116 +2,116 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-07 12:08:48 UTC",
-    "fetched_at_ist": "2026-08-07 17:38:48 IST",
+    "fetched_at_utc": "2026-08-08 06:07:54 UTC",
+    "fetched_at_ist": "2026-08-08 11:37:54 IST",
     "item_count": 17,
-    "content_hash": "f1e069c7267a645995d417ac1e784d1a40ae3fe3c6bc541a029c6334c35782fd",
-    "previous_hash": "5c03081f955373fb567fe92ff41b46a9cbe139136b890a922e6dcb578142bd50",
-    "new_repos_vs_previous": 14,
-    "top_repo_changed": true
+    "content_hash": "47f61ce526ead18f44af8ec10bba71839562328efd7d74b952728fc82c9d53e8",
+    "previous_hash": "f1e069c7267a645995d417ac1e784d1a40ae3fe3c6bc541a029c6334c35782fd",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
-      "stars_today": "2,271 stars today"
+      "stars_today": "2,293 stars today"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "593 stars today"
+      "stars_today": "1,131 stars today"
     },
     {
       "name": "cloudflare/computer",
       "description": "Give your agent a computer 👾",
       "language": "TypeScript",
-      "stars_today": "2,802 stars today"
+      "stars_today": "872 stars today"
     },
     {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "1,873 stars today"
+      "stars_today": "2,152 stars today"
     },
     {
       "name": "obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "858 stars today"
+      "stars_today": "782 stars today"
     },
     {
       "name": "goauthentik/authentik",
       "description": "The authentication glue you need.",
       "language": "Python",
-      "stars_today": "138 stars today"
+      "stars_today": "530 stars today"
     },
     {
       "name": "semantica-agi/semantica",
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_today": "118 stars today"
+      "stars_today": "122 stars today"
     },
     {
       "name": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars_today": "126 stars today"
+      "stars_today": "141 stars today"
     },
     {
       "name": "chenyme/grok2api",
       "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
       "language": "Go",
-      "stars_today": "43 stars today"
+      "stars_today": "55 stars today"
     },
     {
       "name": "jdx/mise",
       "description": "dev tools, env vars, task runner",
       "language": "Rust",
-      "stars_today": "258 stars today"
+      "stars_today": "135 stars today"
     },
     {
       "name": "Significant-Gravitas/AutoGPT",
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "language": "Python",
-      "stars_today": "37 stars today"
+      "stars_today": "355 stars today"
     },
     {
       "name": "google/guava",
       "description": "Google core libraries for Java",
       "language": "Java",
-      "stars_today": "13 stars today"
+      "stars_today": "152 stars today"
     },
     {
       "name": "unclebob/swarm-forge",
       "description": "A simple tool for coordinating several AI agents.",
       "language": "Clojure",
-      "stars_today": "85 stars today"
+      "stars_today": "81 stars today"
     },
     {
       "name": "denoland/celld",
       "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
-      "stars_today": "546 stars today"
+      "stars_today": "516 stars today"
     },
     {
       "name": "K2SOsint/Legendary_OSINT",
       "description": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
       "language": "Unknown",
-      "stars_today": "64 stars today"
+      "stars_today": "109 stars today"
     },
     {
       "name": "pranshuparmar/witr",
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
-      "stars_today": "427 stars today"
+      "stars_today": "234 stars today"
     },
     {
       "name": "google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars_today": "305 stars today"
+      "stars_today": "327 stars today"
     }
   ]
 }

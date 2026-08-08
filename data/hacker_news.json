@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-08 04:40:00 UTC",
-    "fetched_at_ist": "2026-08-08 10:10:00 IST",
+    "fetched_at_utc": "2026-08-08 06:07:55 UTC",
+    "fetched_at_ist": "2026-08-08 11:37:55 IST",
     "item_count": 5,
-    "content_hash": "5c95d999e5a0f403626c74d944ab9fb4c7e7b7a7638c5af4e82a97e7b88de6ff",
-    "previous_hash": "0349f8480c6bda88c0fcedd1ed59d2e199c1f8384a76adc09af2475269bd7f3d",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "content_hash": "15149d2f7dc235972d052506d232aa0de9a4bde8b1474e738a71430f84cd0713",
+    "previous_hash": "5c95d999e5a0f403626c74d944ab9fb4c7e7b7a7638c5af4e82a97e7b88de6ff",
+    "new_story_ids_vs_previous": 0,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49218179,
       "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
       "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "score": 96,
-      "comments": 12
+      "score": 161,
+      "comments": 24
     },
     {
       "id": 49217993,
       "title": "The Nixpkgs core team has disbanded",
       "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "score": 180,
-      "comments": 78
+      "score": 238,
+      "comments": 102
     },
     {
       "id": 49214008,
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 527,
-      "comments": 313
+      "score": 549,
+      "comments": 327
     },
     {
       "id": 49216946,
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "url": "https://genesisopenmodels.anl.gov/",
-      "score": 159,
-      "comments": 57
+      "score": 187,
+      "comments": 63
     },
     {
       "id": 49189457,
       "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
       "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "score": 36,
-      "comments": 4
+      "score": 74,
+      "comments": 13
     }
   ]
 }

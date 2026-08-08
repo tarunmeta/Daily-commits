@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-08 05:26:46 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-08 06:07:55 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **PrimeIntellect-ai/prime-agent**
-- BTC: **$64,980.0** ↑ (+1.33%)
+- BTC: **$64,953.0** ↑ (+1.02%)
 - HN top story: **NASA to keep its 48-year-old Voyager 2 probe running for yet another year**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-07 12:08:48 UTC | `f1e069c7267a` | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-08 04:40:00 UTC | `5c95d999e5a0` | +1 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-08 05:26:46 UTC | `10e244cd0b91` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-08-08 06:07:54 UTC | `47f61ce526ea` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-08 06:07:55 UTC | `15149d2f7dc2` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-08-08 06:07:54 UTC | `33112a461ac2` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +14 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-08` |
-| Commits Today | `12` / `100` |
-| Remaining Today | `88` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 12% |
+| Commits Today | `13` / `100` |
+| Remaining Today | `87` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
 | Streak | `90` day(s) |
-| Last Commit (IST) | `2026-08-08 10:10:00 IST` |
+| Last Commit (IST) | `2026-08-08 10:56:46 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-05 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
 | 2026-08-06 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | 2026-08-07 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
-| 2026-08-08 | 12 | `██░░░░░░░░░░░░░░░░░░` 12% |
+| 2026-08-08 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,980.0 | +1.33% | 🟢 |
-| Ethereum | $1,916.16 | +1.13% | 🟢 |
-| Solana | $74.59 | +2.84% | 🟢 |
-| Bnb | $593.14 | +1.25% | 🟢 |
+| Bitcoin | $64,953.0 | +1.02% | 🟢 |
+| Ethereum | $1,916.11 | +0.84% | 🟢 |
+| Solana | $74.56 | +2.36% | 🟢 |
+| Bnb | $593.02 | +1.00% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,271 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 593 stars today | Production-grade engineering skills for AI coding agents. |
-| [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 2,802 stars today | Give your agent a computer 👾 |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,873 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 858 stars today | An agentic skills framework & software development methodology that works. |
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 138 stars today | The authentication glue you need. |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 118 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 126 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,293 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 1,131 stars today | Production-grade engineering skills for AI coding agents. |
+| [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | 872 stars today | Give your agent a computer 👾 |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,152 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 782 stars today | An agentic skills framework & software development methodology that works. |
+| [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 530 stars today | The authentication glue you need. |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 122 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | 141 stars today | A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year) | 96 | 12 |
-| [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) | 180 | 78 |
-| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | 527 | 313 |
-| [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) | 159 | 57 |
-| [Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/) | 36 | 4 |
+| [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year) | 161 | 24 |
+| [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413) | 238 | 102 |
+| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | 549 | 327 |
+| [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) | 187 | 63 |
+| [Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/) | 74 | 13 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
