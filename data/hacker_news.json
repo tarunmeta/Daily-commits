@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-08 22:30:12 UTC",
-    "fetched_at_ist": "2026-08-09 04:00:12 IST",
+    "fetched_at_utc": "2026-08-08 23:44:39 UTC",
+    "fetched_at_ist": "2026-08-09 05:14:39 IST",
     "item_count": 5,
-    "content_hash": "b597ba1be562ef2c2cd9cbb266860876efe493a11d609057c4a400610b954436",
-    "previous_hash": "f122cde0e62b1c91e9244c2ec21b3f814fe0d53bb54aa4006db233acf34d3e42",
+    "content_hash": "5dabd4dc5b201fb73dd80d0f20f702b150c8f6dda32c7a9699cac6a7ceef6b08",
+    "previous_hash": "b597ba1be562ef2c2cd9cbb266860876efe493a11d609057c4a400610b954436",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49224294,
       "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
       "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "score": 409,
-      "comments": 193
-    },
-    {
-      "id": 49222189,
-      "title": "\"Code was never the hard part\" is an insult to all programmers",
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "score": 473,
-      "comments": 311
-    },
-    {
-      "id": 49223082,
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 274,
-      "comments": 121
+      "score": 471,
+      "comments": 223
     },
     {
       "id": 49225918,
       "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
       "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-      "score": 34,
-      "comments": 13
+      "score": 65,
+      "comments": 30
+    },
+    {
+      "id": 49223082,
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "score": 295,
+      "comments": 134
+    },
+    {
+      "id": 49226636,
+      "title": "My server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
+      "score": 12,
+      "comments": 1
     },
     {
       "id": 49221668,
       "title": "A domain can now say it is for sale, in DNS",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 306,
-      "comments": 123
+      "score": 326,
+      "comments": 128
     }
   ]
 }
