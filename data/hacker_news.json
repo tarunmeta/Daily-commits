@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-08 14:41:07 UTC",
-    "fetched_at_ist": "2026-08-08 20:11:07 IST",
+    "fetched_at_utc": "2026-08-08 16:34:04 UTC",
+    "fetched_at_ist": "2026-08-08 22:04:04 IST",
     "item_count": 5,
-    "content_hash": "7973b1ed2182a41ae5e85bf317425ac764a40d4f859ab01d85072a6e3e938b9f",
-    "previous_hash": "d7b74a86dae1e7786199bf68cbdeaf838cd1ddda38e9c07849ae87fb0d921257",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "8f4d57721b8ff868030d65c89769ed7cb714421161fccaf5c40bca0722322a9f",
+    "previous_hash": "7973b1ed2182a41ae5e85bf317425ac764a40d4f859ab01d85072a6e3e938b9f",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49221668,
       "title": "A domain can now say it is for sale, in DNS",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 45,
-      "comments": 18
-    },
-    {
-      "id": 49221939,
-      "title": "Don't use your phone while you poop",
-      "url": "https://nate.spot/no-phone-while-poop/",
-      "score": 22,
-      "comments": 16
+      "score": 133,
+      "comments": 56
     },
     {
       "id": 49220126,
       "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "score": 160,
-      "comments": 49
+      "score": 238,
+      "comments": 70
+    },
+    {
+      "id": 49221220,
+      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
+      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
+      "score": 50,
+      "comments": 38
+    },
+    {
+      "id": 49221939,
+      "title": "Don't use your phone while you poop",
+      "url": "https://nate.spot/no-phone-while-poop/",
+      "score": 150,
+      "comments": 154
     },
     {
       "id": 49221679,
       "title": "Voyager 1 FDS Computer Emulator",
       "url": "https://zaneham.github.io/voyager-fds-emulator/",
-      "score": 9,
-      "comments": 0
-    },
-    {
-      "id": 49189457,
-      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
-      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "score": 326,
-      "comments": 73
+      "score": 31,
+      "comments": 8
     }
   ]
 }
