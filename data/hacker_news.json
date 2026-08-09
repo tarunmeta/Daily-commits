@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-09 16:35:43 UTC",
-    "fetched_at_ist": "2026-08-09 22:05:43 IST",
+    "fetched_at_utc": "2026-08-09 18:41:26 UTC",
+    "fetched_at_ist": "2026-08-10 00:11:26 IST",
     "item_count": 5,
-    "content_hash": "0a3de8e9109e429a2c10d8edb0d81139bdea1e1f0007e422347e5eaa2eb59b03",
-    "previous_hash": "8176963bee2c92cd5d6cea74024085718d5fbe989a63445b4ba65406d86d4379",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "267644eaa6564f5e02b946423edbdeea95dd33a34d38881a11e2bc4d8757d5e5",
+    "previous_hash": "0a3de8e9109e429a2c10d8edb0d81139bdea1e1f0007e422347e5eaa2eb59b03",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49232318,
+      "title": "Criminal Deception in Silicon Valley",
+      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+      "score": 124,
+      "comments": 54
+    },
     {
       "id": 49231154,
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "score": 263,
-      "comments": 119
+      "score": 389,
+      "comments": 176
     },
     {
-      "id": 49230891,
-      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "score": 55,
-      "comments": 15
+      "id": 49233423,
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "score": 40,
+      "comments": 124
     },
     {
-      "id": 49231397,
-      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "url": "https://kibotronics.net/unlisted/lilly-machines/",
-      "score": 32,
-      "comments": 13
+      "id": 49233394,
+      "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+      "url": "https://frequal.com/aptera/ProductionImminent.html",
+      "score": 28,
+      "comments": 18
     },
     {
-      "id": 49156607,
-      "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA",
-      "url": "https://dylancastillo.co/posts/matryoshka-vs-pca",
-      "score": 49,
-      "comments": 8
-    },
-    {
-      "id": 49232221,
-      "title": "Silicon Valley misreads science fiction and undermines democracy",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "score": 70,
-      "comments": 34
+      "id": 49233448,
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "score": 23,
+      "comments": 6
     }
   ]
 }
