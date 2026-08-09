@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-10 (last updated: 02:11 IST)
+
+## 📅 2026-08-10 (last updated: 04:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-08-09 11:40:30 IST | 0c6e194d5c84 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-10 02:11:44 IST | 6a81f27e62a4 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-10 04:02:01 IST | 40f7593e0561 | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-08-10 00:50:40 IST | 6b573b509dc5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,359 stars today
 
 ### 📰 Hacker News Stories
-- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) — Score: 118
-- [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) — Score: 467
-- [Saying No](https://rozumem.xyz/posts/19) — Score: 66
-- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) — Score: 97
-- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/) — Score: 63
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) — Score: 245
+- [The Hacker's Renaissance](https://phrack.org/issues/72/19#article) — Score: 41
+- [The main way I've seen people turn ideologically crazy (2025)](https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn) — Score: 39
+- [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) — Score: 28
+- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) — Score: 139
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,155.0 🟢 +0.28%
