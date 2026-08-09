@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-08 23:44:39 UTC",
-    "fetched_at_ist": "2026-08-09 05:14:39 IST",
+    "fetched_at_utc": "2026-08-09 00:35:25 UTC",
+    "fetched_at_ist": "2026-08-09 06:05:25 IST",
     "item_count": 5,
-    "content_hash": "5dabd4dc5b201fb73dd80d0f20f702b150c8f6dda32c7a9699cac6a7ceef6b08",
-    "previous_hash": "b597ba1be562ef2c2cd9cbb266860876efe493a11d609057c4a400610b954436",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "1c201f2571cab249aa145b4694cb4503d9207a63c5f29e78db6d7218dd7f4d42",
+    "previous_hash": "5dabd4dc5b201fb73dd80d0f20f702b150c8f6dda32c7a9699cac6a7ceef6b08",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49224294,
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "score": 471,
-      "comments": 223
-    },
-    {
-      "id": 49225918,
-      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-      "score": 65,
-      "comments": 30
+      "id": 49226636,
+      "title": "My server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
+      "score": 41,
+      "comments": 19
     },
     {
       "id": 49223082,
       "title": "Fastmail offers EU data region",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "score": 295,
-      "comments": 134
+      "score": 306,
+      "comments": 140
     },
     {
-      "id": 49226636,
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "score": 12,
-      "comments": 1
+      "id": 49079995,
+      "title": "Improving Heuristics for A* Pathfinding",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "score": 17,
+      "comments": 3
     },
     {
       "id": 49221668,
-      "title": "A domain can now say it is for sale, in DNS",
+      "title": "_for-sale DNS records",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "score": 326,
-      "comments": 128
+      "score": 336,
+      "comments": 131
+    },
+    {
+      "id": 49225139,
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "score": 80,
+      "comments": 17
     }
   ]
 }
