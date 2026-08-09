@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-09 18:41:26 UTC",
-    "fetched_at_ist": "2026-08-10 00:11:26 IST",
+    "fetched_at_utc": "2026-08-09 20:41:44 UTC",
+    "fetched_at_ist": "2026-08-10 02:11:44 IST",
     "item_count": 5,
-    "content_hash": "267644eaa6564f5e02b946423edbdeea95dd33a34d38881a11e2bc4d8757d5e5",
-    "previous_hash": "0a3de8e9109e429a2c10d8edb0d81139bdea1e1f0007e422347e5eaa2eb59b03",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "6a81f27e62a4bb908557b75a0683900fa12f6ad74bf1ea33f123ea5c2e10405b",
+    "previous_hash": "267644eaa6564f5e02b946423edbdeea95dd33a34d38881a11e2bc4d8757d5e5",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49232318,
-      "title": "Criminal Deception in Silicon Valley",
-      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
-      "score": 124,
-      "comments": 54
+      "id": 49234675,
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "score": 118,
+      "comments": 61
     },
     {
       "id": 49231154,
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "score": 389,
-      "comments": 176
+      "score": 467,
+      "comments": 215
+    },
+    {
+      "id": 49234379,
+      "title": "Saying No",
+      "url": "https://rozumem.xyz/posts/19",
+      "score": 66,
+      "comments": 54
     },
     {
       "id": 49233423,
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
-      "score": 40,
-      "comments": 124
-    },
-    {
-      "id": 49233394,
-      "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
-      "url": "https://frequal.com/aptera/ProductionImminent.html",
-      "score": 28,
-      "comments": 18
+      "score": 97,
+      "comments": 373
     },
     {
       "id": 49233448,
       "title": "OpenChamber: An Agentic Development Environment",
       "url": "https://openchamber.dev/",
-      "score": 23,
-      "comments": 6
+      "score": 63,
+      "comments": 39
     }
   ]
 }

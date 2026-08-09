@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-10 (last updated: 00:50 IST)
+
+## 📅 2026-08-10 (last updated: 02:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-08-09 11:40:30 IST | 0c6e194d5c84 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-10 00:11:26 IST | 267644eaa656 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-10 02:11:44 IST | 6a81f27e62a4 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-10 00:50:40 IST | 6b573b509dc5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,359 stars today
 
 ### 📰 Hacker News Stories
-- [Criminal Deception in Silicon Valley](https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981) — Score: 124
-- [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) — Score: 389
-- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) — Score: 40
-- [Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon](https://frequal.com/aptera/ProductionImminent.html) — Score: 28
-- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/) — Score: 23
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) — Score: 118
+- [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) — Score: 467
+- [Saying No](https://rozumem.xyz/posts/19) — Score: 66
+- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) — Score: 97
+- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/) — Score: 63
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $65,155.0 🟢 +0.28%
