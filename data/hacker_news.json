@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-10 16:35:05 UTC",
-    "fetched_at_ist": "2026-08-10 22:05:05 IST",
+    "fetched_at_utc": "2026-08-10 17:37:12 UTC",
+    "fetched_at_ist": "2026-08-10 23:07:12 IST",
     "item_count": 5,
-    "content_hash": "70a06b16be8e8e382e196477bfad0de9ad5c62fe91637de7c800a56d877c946c",
-    "previous_hash": "ca859e53ab745350f716fb330dcbd128c965b059438aead84794ddc2d174a237",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "a68ba90f13f9d33df9941a03f4f93b9b5d6b1f33c3ea24f259d45bcf4cef647e",
+    "previous_hash": "70a06b16be8e8e382e196477bfad0de9ad5c62fe91637de7c800a56d877c946c",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": false
   },
   "stories": [
     {
       "id": 49241679,
-      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 659,
-      "comments": 361
+      "score": 740,
+      "comments": 408
     },
     {
-      "id": 49245251,
-      "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-      "score": 27,
-      "comments": 7
+      "id": 49208296,
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+      "score": 60,
+      "comments": 15
     },
     {
-      "id": 49245023,
-      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "score": 110,
-      "comments": 114
+      "id": 49245437,
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "score": 50,
+      "comments": 23
     },
     {
-      "id": 49243029,
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "score": 92,
-      "comments": 51
+      "id": 49244569,
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "score": 67,
+      "comments": 58
     },
     {
-      "id": 49242653,
-      "title": "Squeak/Smalltalk 6.1 Release Notes",
-      "url": "https://squeak.org/release_notes/6.1/",
-      "score": 98,
-      "comments": 45
+      "id": 49246057,
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "score": 17,
+      "comments": 8
     }
   ]
 }
