@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-10 15:42:32 UTC",
-    "fetched_at_ist": "2026-08-10 21:12:32 IST",
+    "fetched_at_utc": "2026-08-10 16:35:05 UTC",
+    "fetched_at_ist": "2026-08-10 22:05:05 IST",
     "item_count": 5,
-    "content_hash": "ca859e53ab745350f716fb330dcbd128c965b059438aead84794ddc2d174a237",
-    "previous_hash": "1efe8e5045137ea7fd4ec999f88bc0dd72a49b41758305700457b8d636783c0c",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "70a06b16be8e8e382e196477bfad0de9ad5c62fe91637de7c800a56d877c946c",
+    "previous_hash": "ca859e53ab745350f716fb330dcbd128c965b059438aead84794ddc2d174a237",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49241679,
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 582,
-      "comments": 305
+      "score": 659,
+      "comments": 361
     },
     {
-      "id": 49244308,
-      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "score": 41,
-      "comments": 35
+      "id": 49245251,
+      "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
+      "score": 27,
+      "comments": 7
     },
     {
-      "id": 49242653,
-      "title": "Squeak/Smalltalk 6.1 Release Notes",
-      "url": "https://squeak.org/release_notes/6.1/",
-      "score": 82,
-      "comments": 31
+      "id": 49245023,
+      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+      "score": 110,
+      "comments": 114
     },
     {
       "id": 49243029,
       "title": "50k Boat Names",
       "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "score": 77,
-      "comments": 42
+      "score": 92,
+      "comments": 51
     },
     {
-      "id": 49239751,
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 432,
-      "comments": 267
+      "id": 49242653,
+      "title": "Squeak/Smalltalk 6.1 Release Notes",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "score": 98,
+      "comments": 45
     }
   ]
 }
