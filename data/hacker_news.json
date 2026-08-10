@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-10 12:08:06 UTC",
-    "fetched_at_ist": "2026-08-10 17:38:06 IST",
+    "fetched_at_utc": "2026-08-10 13:44:15 UTC",
+    "fetched_at_ist": "2026-08-10 19:14:15 IST",
     "item_count": 5,
-    "content_hash": "ba29246e5ea227c47c93f9782a6f43c575b0e6bcc0d6ddadf677aaa68330d4a8",
-    "previous_hash": "9567767a4db4e9857371544eda89ca3738914166f14ecce3313e771d2fdf7319",
+    "content_hash": "1efe8e5045137ea7fd4ec999f88bc0dd72a49b41758305700457b8d636783c0c",
+    "previous_hash": "ba29246e5ea227c47c93f9782a6f43c575b0e6bcc0d6ddadf677aaa68330d4a8",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49241679,
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 202,
-      "comments": 77
+      "score": 354,
+      "comments": 158
+    },
+    {
+      "id": 49243397,
+      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "score": 20,
+      "comments": 14
+    },
+    {
+      "id": 49243029,
+      "title": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "score": 27,
+      "comments": 11
     },
     {
       "id": 49239751,
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 291,
-      "comments": 168
+      "score": 348,
+      "comments": 215
     },
     {
-      "id": 49242297,
-      "title": "Tail-call optimization in C is relatively recent",
-      "url": "https://lwn.net/Articles/1034703/",
-      "score": 13,
-      "comments": 0
-    },
-    {
-      "id": 49242245,
-      "title": "Because It's Not Fun Enough: why languages fail",
-      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
-      "score": 10,
-      "comments": 0
-    },
-    {
-      "id": 49238561,
-      "title": "What Happened to HackerOne?",
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "score": 272,
-      "comments": 134
+      "id": 49242653,
+      "title": "Squeak/Smalltalk 6.1 Release Notes",
+      "url": "https://squeak.org/release_notes/6.1/",
+      "score": 26,
+      "comments": 6
     }
   ]
 }
