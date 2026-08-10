@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-10 05:37:53 UTC",
-    "fetched_at_ist": "2026-08-10 11:07:53 IST",
+    "fetched_at_utc": "2026-08-10 08:42:13 UTC",
+    "fetched_at_ist": "2026-08-10 14:12:13 IST",
     "item_count": 5,
-    "content_hash": "127981743601c93a67a4d7a826f47b94769f25f6f1e0612e9ff75f56273f87e9",
-    "previous_hash": "40f7593e056184689f5f1d0122e88462b7ff8be8228a3e6c62aaf50ccb372f18",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "9567767a4db4e9857371544eda89ca3738914166f14ecce3313e771d2fdf7319",
+    "previous_hash": "127981743601c93a67a4d7a826f47b94769f25f6f1e0612e9ff75f56273f87e9",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49239021,
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "score": 78,
-      "comments": 35
+      "id": 49239751,
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "score": 145,
+      "comments": 94
     },
     {
       "id": 49238561,
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "score": 141,
-      "comments": 40
+      "score": 199,
+      "comments": 81
+    },
+    {
+      "id": 49238818,
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "score": 61,
+      "comments": 6
     },
     {
       "id": 49238851,
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "score": 33,
-      "comments": 2
+      "score": 68,
+      "comments": 20
     },
     {
       "id": 49234675,
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 543,
-      "comments": 311
-    },
-    {
-      "id": 49239095,
-      "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
-      "url": "https://www.nber.org/papers/w35560",
-      "score": 40,
-      "comments": 11
+      "score": 618,
+      "comments": 372
     }
   ]
 }
