@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-10 11:21:29 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-10 12:08:06 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **PrimeIntellect-ai/prime-agent**
-- BTC: **$64,987.0** ↑ (+0.09%)
-- HN top story: **Docker Sandboxes – Disposable, isolated sandboxes for AI agents**
+- Top GitHub repo: **semantica-agi/semantica**
+- BTC: **$65,138.0** ↑ (+0.41%)
+- HN top story: **Meta Muse Glimmer – open weights 30B local coding model**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-08-09 06:10:30 UTC | `0c6e194d5c84` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-10 08:42:13 UTC | `9567767a4db4` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-10 11:21:29 UTC | `6411bc35cfef` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-08-10 12:08:05 UTC | `c54241cb276d` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-10 12:08:06 UTC | `ba29246e5ea2` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-10 12:08:05 UTC | `d4c7dcebdf52` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-10` |
-| Commits Today | `16` / `100` |
-| Remaining Today | `84` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
-| Streak | `87` day(s) |
-| Last Commit (IST) | `2026-08-10 15:32:20 IST` |
+| Commits Today | `17` / `100` |
+| Remaining Today | `83` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
+| Streak | `86` day(s) |
+| Last Commit (IST) | `2026-08-10 16:51:29 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-07 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 | 2026-08-08 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-08-09 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
-| 2026-08-10 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
+| 2026-08-10 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,987.0 | +0.09% | 🟢 |
-| Ethereum | $1,916.09 | -0.18% | 🔴 |
-| Solana | $76.72 | +0.43% | 🟢 |
-| Bnb | $604.84 | +0.13% | 🟢 |
+| Bitcoin | $65,138.0 | +0.41% | 🟢 |
+| Ethereum | $1,921.37 | +0.30% | 🟢 |
+| Solana | $76.93 | +0.71% | 🟢 |
+| Bnb | $604.7 | +0.26% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,483 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 779 stars today | Production-grade engineering skills for AI coding agents. |
-| [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | 118 stars today | 所有小初高、大学PDF教材。 |
-| [google/skills](https://github.com/google/skills) | Python | 481 stars today | Agent Skills for Google products and technologies |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,359 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | 467 stars today | The authentication glue you need. |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 153 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [google/guava](https://github.com/google/guava) | Java | 93 stars today | Google core libraries for Java |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 967 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 858 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 215 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 680 stars today | Production-grade engineering skills for AI coding agents. |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 167 stars today | The open-source app everyone uses to manage agents at work |
+| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,356 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
+| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 190 stars today | Truly independent web browser |
+| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 156 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) | 145 | 94 |
-| [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/) | 199 | 81 |
-| [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton) | 61 | 6 |
-| [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/) | 68 | 20 |
-| [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) | 618 | 372 |
+| [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | 202 | 77 |
+| [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/) | 291 | 168 |
+| [Tail-call optimization in C is relatively recent](https://lwn.net/Articles/1034703/) | 13 | 0 |
+| [Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough) | 10 | 0 |
+| [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/) | 272 | 134 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

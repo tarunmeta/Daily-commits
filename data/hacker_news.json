@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-10 08:42:13 UTC",
-    "fetched_at_ist": "2026-08-10 14:12:13 IST",
+    "fetched_at_utc": "2026-08-10 12:08:06 UTC",
+    "fetched_at_ist": "2026-08-10 17:38:06 IST",
     "item_count": 5,
-    "content_hash": "9567767a4db4e9857371544eda89ca3738914166f14ecce3313e771d2fdf7319",
-    "previous_hash": "127981743601c93a67a4d7a826f47b94769f25f6f1e0612e9ff75f56273f87e9",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "ba29246e5ea227c47c93f9782a6f43c575b0e6bcc0d6ddadf677aaa68330d4a8",
+    "previous_hash": "9567767a4db4e9857371544eda89ca3738914166f14ecce3313e771d2fdf7319",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49241679,
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 202,
+      "comments": 77
+    },
+    {
       "id": 49239751,
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 145,
-      "comments": 94
+      "score": 291,
+      "comments": 168
+    },
+    {
+      "id": 49242297,
+      "title": "Tail-call optimization in C is relatively recent",
+      "url": "https://lwn.net/Articles/1034703/",
+      "score": 13,
+      "comments": 0
+    },
+    {
+      "id": 49242245,
+      "title": "Because It's Not Fun Enough: why languages fail",
+      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "score": 10,
+      "comments": 0
     },
     {
       "id": 49238561,
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "score": 199,
-      "comments": 81
-    },
-    {
-      "id": 49238818,
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "url": "https://github.com/shinyquagsire23/Klepton",
-      "score": 61,
-      "comments": 6
-    },
-    {
-      "id": 49238851,
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
-      "score": 68,
-      "comments": 20
-    },
-    {
-      "id": 49234675,
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "score": 618,
-      "comments": 372
+      "score": 272,
+      "comments": 134
     }
   ]
 }

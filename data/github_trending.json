@@ -2,86 +2,110 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-09 06:10:30 UTC",
-    "fetched_at_ist": "2026-08-09 11:40:30 IST",
-    "item_count": 12,
-    "content_hash": "0c6e194d5c844664950383f41f6aa9bb6d0f7669e05dd94d5233860208fab78f",
-    "previous_hash": "7c0ed74c0e65b4d5525bd8f3114161e6ca6b77091e360fbfbf5c5ea2ded8d69c",
-    "new_repos_vs_previous": 0,
-    "top_repo_changed": false
+    "fetched_at_utc": "2026-08-10 12:08:05 UTC",
+    "fetched_at_ist": "2026-08-10 17:38:05 IST",
+    "item_count": 16,
+    "content_hash": "c54241cb276d4f88af41efcfae0ffd58608cead99c92e0e53ba4f318e6f8d637",
+    "previous_hash": "0c6e194d5c844664950383f41f6aa9bb6d0f7669e05dd94d5233860208fab78f",
+    "new_repos_vs_previous": 12,
+    "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars_today": "2,483 stars today"
+      "name": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars_today": "967 stars today"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars_today": "858 stars today"
+    },
+    {
+      "name": "NanmiCoder/MediaCrawler",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "language": "Python",
+      "stars_today": "215 stars today"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "779 stars today"
+      "stars_today": "680 stars today"
     },
     {
-      "name": "TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "stars_today": "118 stars today"
+      "name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "167 stars today"
     },
     {
-      "name": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_today": "481 stars today"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars_today": "1,359 stars today"
-    },
-    {
-      "name": "goauthentik/authentik",
-      "description": "The authentication glue you need.",
-      "language": "Python",
-      "stars_today": "467 stars today"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars_today": "153 stars today"
-    },
-    {
-      "name": "google/guava",
-      "description": "Google core libraries for Java",
-      "language": "Java",
-      "stars_today": "93 stars today"
+      "name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": "2,356 stars today"
     },
     {
       "name": "LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars_today": "48 stars today"
+      "stars_today": "190 stars today"
     },
     {
-      "name": "denoland/celld",
-      "description": "self-hosted, distributed Durable Objects",
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_today": "432 stars today"
+      "stars_today": "156 stars today"
     },
     {
-      "name": "litu54/DevOps-Interview-Guide",
-      "description": "DevOps Interview Guide",
-      "language": "Unknown",
-      "stars_today": "68 stars today"
+      "name": "danielmiessler/LifeOS",
+      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
+      "language": "TypeScript",
+      "stars_today": "143 stars today"
     },
     {
-      "name": "bannedbook/fanqiang",
-      "description": "翻墙-科学上网",
-      "language": "Kotlin",
-      "stars_today": "101 stars today"
+      "name": "firecrawl/firecrawl",
+      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "language": "TypeScript",
+      "stars_today": "815 stars today"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars_today": "598 stars today"
+    },
+    {
+      "name": "google-deepmind/weathernext",
+      "description": "No description",
+      "language": "Python",
+      "stars_today": "86 stars today"
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars_today": "96 stars today"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars_today": "163 stars today"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "language": "Python",
+      "stars_today": "365 stars today"
+    },
+    {
+      "name": "opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "stars_today": "95 stars today"
     }
   ]
 }
