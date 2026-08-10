@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-10 13:44:15 UTC",
-    "fetched_at_ist": "2026-08-10 19:14:15 IST",
+    "fetched_at_utc": "2026-08-10 15:42:32 UTC",
+    "fetched_at_ist": "2026-08-10 21:12:32 IST",
     "item_count": 5,
-    "content_hash": "1efe8e5045137ea7fd4ec999f88bc0dd72a49b41758305700457b8d636783c0c",
-    "previous_hash": "ba29246e5ea227c47c93f9782a6f43c575b0e6bcc0d6ddadf677aaa68330d4a8",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "ca859e53ab745350f716fb330dcbd128c965b059438aead84794ddc2d174a237",
+    "previous_hash": "1efe8e5045137ea7fd4ec999f88bc0dd72a49b41758305700457b8d636783c0c",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49241679,
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 354,
-      "comments": 158
+      "score": 582,
+      "comments": 305
     },
     {
-      "id": 49243397,
-      "title": "Mistral Patent for \"Code implemented tool calls\"",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "score": 20,
-      "comments": 14
-    },
-    {
-      "id": 49243029,
-      "title": "50k Boat Names",
-      "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "score": 27,
-      "comments": 11
-    },
-    {
-      "id": 49239751,
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "score": 348,
-      "comments": 215
+      "id": 49244308,
+      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "score": 41,
+      "comments": 35
     },
     {
       "id": 49242653,
       "title": "Squeak/Smalltalk 6.1 Release Notes",
       "url": "https://squeak.org/release_notes/6.1/",
-      "score": 26,
-      "comments": 6
+      "score": 82,
+      "comments": 31
+    },
+    {
+      "id": 49243029,
+      "title": "50k Boat Names",
+      "url": "https://www.beautifulpublicdata.com/boat-names/",
+      "score": 77,
+      "comments": 42
+    },
+    {
+      "id": 49239751,
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "score": 432,
+      "comments": 267
     }
   ]
 }
