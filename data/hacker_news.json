@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 18:37:12 UTC",
-    "fetched_at_ist": "2026-08-12 00:07:12 IST",
+    "fetched_at_utc": "2026-08-11 21:30:34 UTC",
+    "fetched_at_ist": "2026-08-12 03:00:34 IST",
     "item_count": 5,
-    "content_hash": "beb08701b32d8ce7054856e5702c13457a98c248040679a36338df97bbaae27b",
-    "previous_hash": "454998083e86784274819b7332722774e63e6c995dd1e2ac992d1c71ded37e8a",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "468f8fd7b9294ff482c24e5abb858aab8cefa39533d9efdfaff3b88c08941cbc",
+    "previous_hash": "beb08701b32d8ce7054856e5702c13457a98c248040679a36338df97bbaae27b",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49261218,
-      "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
-      "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
-      "score": 201,
-      "comments": 151
+      "id": 49263340,
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "score": 96,
+      "comments": 35
     },
     {
-      "id": 49257377,
-      "title": "England set to be one of the first countries to eliminate hepatitis C",
-      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 396,
-      "comments": 282
+      "id": 49263497,
+      "title": "Compression Is Prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "score": 92,
+      "comments": 45
     },
     {
-      "id": 49259339,
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 199,
-      "comments": 32
+      "id": 49261128,
+      "title": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "score": 192,
+      "comments": 89
     },
     {
       "id": 49257876,
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 271,
-      "comments": 97
+      "score": 392,
+      "comments": 158
     },
     {
-      "id": 49261895,
-      "title": "OpenSSH 10.5 released, AI assistice now welcome",
-      "url": "https://www.openssh.org/releasenotes.html#10.5",
-      "score": 14,
-      "comments": 5
+      "id": 49262211,
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "score": 67,
+      "comments": 44
     }
   ]
 }

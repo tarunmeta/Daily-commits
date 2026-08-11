@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-12 (last updated: 00:07 IST)
+
+## 📅 2026-08-12 (last updated: 03:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-10 17:38:05 IST | c54241cb276d | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-12 00:07:12 IST | beb08701b32d | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-12 03:00:34 IST | 468f8fd7b929 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-11 18:45:23 IST | c0d19be51e4c | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 167 stars today
 
 ### 📰 Hacker News Stories
-- [Woman Pulled over at Gunpoint Twice After Flock Camera Glitch](https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/) — Score: 201
-- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) — Score: 396
-- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) — Score: 199
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) — Score: 271
-- [OpenSSH 10.5 released, AI assistice now welcome](https://www.openssh.org/releasenotes.html#10.5) — Score: 14
+- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) — Score: 96
+- [Compression Is Prediction](https://ngrok.com/blog/compression-is-prediction) — Score: 92
+- [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) — Score: 192
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) — Score: 392
+- [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/) — Score: 67
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,303.0 🔴 -0.79%
