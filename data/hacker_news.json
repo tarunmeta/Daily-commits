@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 14:35:34 UTC",
-    "fetched_at_ist": "2026-08-11 20:05:34 IST",
+    "fetched_at_utc": "2026-08-11 15:39:29 UTC",
+    "fetched_at_ist": "2026-08-11 21:09:29 IST",
     "item_count": 5,
-    "content_hash": "4b91300e851d7bf2ebbd0458945c3e48b3aa35798100957d8da827999e424c01",
-    "previous_hash": "fd0e665f5bffa1b8a54a3689dc41f2d9f012069e35c229216266d38d88503792",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "6ffbec1d7275c4d450931ac0649df9cafc5fd23701d02b1c17a0fbd1c7f2ed2a",
+    "previous_hash": "4b91300e851d7bf2ebbd0458945c3e48b3aa35798100957d8da827999e424c01",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49257377,
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 135,
-      "comments": 64
+      "score": 235,
+      "comments": 132
     },
     {
-      "id": 49258881,
-      "title": "Claude Code is leaking real email address as a User-Agent string in curl command",
-      "url": "https://github.com/anthropics/claude-code/issues/78431",
-      "score": 9,
-      "comments": 3
+      "id": 49259339,
+      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "score": 43,
+      "comments": 13
     },
     {
-      "id": 49254880,
-      "title": "France to ban unsolicited telemarketing calls",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "score": 644,
-      "comments": 342
+      "id": 49259611,
+      "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
+      "url": "https://github.com/TheRealYT/git-knife",
+      "score": 20,
+      "comments": 7
     },
     {
-      "id": 49255710,
-      "title": "Nvidia's Risky Business",
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "score": 64,
-      "comments": 12
+      "id": 49257876,
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 77,
+      "comments": 27
     },
     {
-      "id": 49250836,
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "score": 547,
-      "comments": 637
+      "id": 49259309,
+      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
+      "url": "https://www.trykeet.com/",
+      "score": 8,
+      "comments": 4
     }
   ]
 }
