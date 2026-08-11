@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 17:41:29 UTC",
-    "fetched_at_ist": "2026-08-11 23:11:29 IST",
+    "fetched_at_utc": "2026-08-11 18:37:12 UTC",
+    "fetched_at_ist": "2026-08-12 00:07:12 IST",
     "item_count": 5,
-    "content_hash": "454998083e86784274819b7332722774e63e6c995dd1e2ac992d1c71ded37e8a",
-    "previous_hash": "b05df1d1830577b170cad6d808be7924a1488cd78fe47a906ac05cbd467e7b2c",
+    "content_hash": "beb08701b32d8ce7054856e5702c13457a98c248040679a36338df97bbaae27b",
+    "previous_hash": "454998083e86784274819b7332722774e63e6c995dd1e2ac992d1c71ded37e8a",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49261218,
+      "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
+      "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
+      "score": 201,
+      "comments": 151
+    },
     {
       "id": 49257377,
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "score": 352,
-      "comments": 262
+      "score": 396,
+      "comments": 282
     },
     {
       "id": 49259339,
       "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "score": 159,
-      "comments": 28
+      "score": 199,
+      "comments": 32
     },
     {
       "id": 49257876,
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "score": 235,
-      "comments": 85
+      "score": 271,
+      "comments": 97
     },
     {
-      "id": 49261532,
-      "title": "Grok Bot by SpaceXAI",
-      "url": "https://x.ai/news/introducing-grok-bot",
-      "score": 20,
-      "comments": 6
-    },
-    {
-      "id": 49261133,
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 18,
-      "comments": 3
+      "id": 49261895,
+      "title": "OpenSSH 10.5 released, AI assistice now welcome",
+      "url": "https://www.openssh.org/releasenotes.html#10.5",
+      "score": 14,
+      "comments": 5
     }
   ]
 }
