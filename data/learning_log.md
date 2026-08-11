@@ -24,18 +24,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-11 (last updated: 22:06 IST)
+
+## 📅 2026-08-11 (last updated: 23:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-10 17:38:05 IST | c54241cb276d | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 22:06:36 IST | b05df1d18305 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-11 23:11:29 IST | 454998083e86 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-11 18:45:23 IST | c0d19be51e4c | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -51,11 +52,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 167 stars today
 
 ### 📰 Hacker News Stories
-- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) — Score: 290
-- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) — Score: 99
-- [Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet](https://github.com/TheRealYT/git-knife) — Score: 53
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) — Score: 146
-- [Manus will return to operating as an independent company](https://manus.im/blog/a-note-to-our-users) — Score: 41
+- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) — Score: 352
+- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md) — Score: 159
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) — Score: 235
+- [Grok Bot by SpaceXAI](https://x.ai/news/introducing-grok-bot) — Score: 20
+- [Why Go Is an Ideal Language for AI-Assisted Software Engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) — Score: 18
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,303.0 🔴 -0.79%
