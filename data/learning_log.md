@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-11 (last updated: 18:45 IST)
+
+## 📅 2026-08-11 (last updated: 20:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-10 17:38:05 IST | c54241cb276d | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 12:06:05 IST | fd0e665f5bff | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-11 20:05:34 IST | 4b91300e851d | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-11 18:45:23 IST | c0d19be51e4c | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 167 stars today
 
 ### 📰 Hacker News Stories
-- [Half of Europe's towns and villages have fewer residents than 60 years ago](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/) — Score: 31
-- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 185
-- [DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself) — Score: 17
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) — Score: 134
-- [Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%](https://github.com/activeing123/mcptoon) — Score: 23
+- [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o) — Score: 135
+- [Claude Code is leaking real email address as a User-Agent string in curl command](https://github.com/anthropics/claude-code/issues/78431) — Score: 9
+- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html) — Score: 644
+- [Nvidia's Risky Business](https://stratechery.com/2026/nvidias-risky-business/) — Score: 64
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/) — Score: 547
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,303.0 🔴 -0.79%
