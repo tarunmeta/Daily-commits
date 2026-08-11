@@ -14,13 +14,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-11 (last updated: 11:04 IST)
+
+## 📅 2026-08-11 (last updated: 12:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-08-10 17:38:05 IST | c54241cb276d | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 11:04:50 IST | 406c4a8ecd0c | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-11 12:06:05 IST | fd0e665f5bff | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-11 09:50:16 IST | f31826123d47 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 167 stars today
 
 ### 📰 Hacker News Stories
-- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 143
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) — Score: 120
-- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) — Score: 133
-- [Recycle – Floppydisks](https://www.floppydisk.com/recycle) — Score: 39
-- [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) — Score: 97
+- [Half of Europe's towns and villages have fewer residents than 60 years ago](https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/) — Score: 31
+- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c) — Score: 185
+- [DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself](https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself) — Score: 17
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS) — Score: 134
+- [Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%](https://github.com/activeing123/mcptoon) — Score: 23
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,065.0 🔴 -1.47%
