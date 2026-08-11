@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-11 00:33:15 UTC",
-    "fetched_at_ist": "2026-08-11 06:03:15 IST",
+    "fetched_at_utc": "2026-08-11 05:34:50 UTC",
+    "fetched_at_ist": "2026-08-11 11:04:50 IST",
     "item_count": 5,
-    "content_hash": "3eab5895af69b5150069e1b31c8d3e9fd2151d394f13f4b137262bf411208ad6",
-    "previous_hash": "d97dc525f2a3fb11e0b80348ee8938db6ed73e4d8188474e6d8769bac17ceb0f",
+    "content_hash": "406c4a8ecd0c6930f8b932d82dce872bc9687492c569b4f30f7480d35a5b5a5c",
+    "previous_hash": "3eab5895af69b5150069e1b31c8d3e9fd2151d394f13f4b137262bf411208ad6",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49241679,
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "score": 1012,
-      "comments": 567
+      "id": 49252179,
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "score": 143,
+      "comments": 16
     },
     {
-      "id": 49246804,
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "score": 132,
-      "comments": 65
-    },
-    {
-      "id": 49243880,
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "score": 345,
-      "comments": 361
-    },
-    {
-      "id": 49184220,
-      "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
-      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "score": 14,
-      "comments": 3
+      "id": 49251702,
+      "title": "Chicken Scheme 6.0",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "score": 120,
+      "comments": 14
     },
     {
       "id": 49251179,
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
-      "score": 15,
-      "comments": 0
+      "score": 133,
+      "comments": 34
+    },
+    {
+      "id": 49252462,
+      "title": "Recycle – Floppydisks",
+      "url": "https://www.floppydisk.com/recycle",
+      "score": 39,
+      "comments": 12
+    },
+    {
+      "id": 49184220,
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "score": 97,
+      "comments": 42
     }
   ]
 }
