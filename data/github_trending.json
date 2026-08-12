@@ -2,110 +2,116 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-10 12:08:05 UTC",
-    "fetched_at_ist": "2026-08-10 17:38:05 IST",
-    "item_count": 16,
-    "content_hash": "c54241cb276d4f88af41efcfae0ffd58608cead99c92e0e53ba4f318e6f8d637",
-    "previous_hash": "0c6e194d5c844664950383f41f6aa9bb6d0f7669e05dd94d5233860208fab78f",
-    "new_repos_vs_previous": 12,
+    "fetched_at_utc": "2026-08-12 00:01:06 UTC",
+    "fetched_at_ist": "2026-08-12 05:31:06 IST",
+    "item_count": 17,
+    "content_hash": "3a3c1c3b8bb36c4bf14c95604f7b614b7d6f563344c6bf932a232fe790751304",
+    "previous_hash": "c54241cb276d4f88af41efcfae0ffd58608cead99c92e0e53ba4f318e6f8d637",
+    "new_repos_vs_previous": 11,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "language": "Python",
-      "stars_today": "967 stars today"
-    },
-    {
       "name": "msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_today": "858 stars today"
+      "stars_today": "958 stars today"
     },
     {
-      "name": "NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "name": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
-      "stars_today": "215 stars today"
+      "stars_today": "893 stars today"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars_today": "22 stars today"
     },
     {
       "name": "addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_today": "680 stars today"
+      "stars_today": "578 stars today"
     },
     {
-      "name": "paperclipai/paperclip",
-      "description": "The open-source app everyone uses to manage agents at work",
-      "language": "TypeScript",
-      "stars_today": "167 stars today"
-    },
-    {
-      "name": "PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "stars_today": "2,356 stars today"
-    },
-    {
-      "name": "LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
-      "language": "C++",
-      "stars_today": "190 stars today"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "stars_today": "156 stars today"
-    },
-    {
-      "name": "danielmiessler/LifeOS",
-      "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-      "language": "TypeScript",
-      "stars_today": "143 stars today"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "language": "TypeScript",
-      "stars_today": "815 stars today"
-    },
-    {
-      "name": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars_today": "598 stars today"
-    },
-    {
-      "name": "google-deepmind/weathernext",
-      "description": "No description",
-      "language": "Python",
-      "stars_today": "86 stars today"
+      "stars_today": "243 stars today"
     },
     {
       "name": "vitali87/code-graph-rag",
       "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
       "language": "Python",
-      "stars_today": "96 stars today"
+      "stars_today": "341 stars today"
     },
     {
-      "name": "pingdotgg/t3code",
-      "description": "No description",
-      "language": "TypeScript",
-      "stars_today": "163 stars today"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars_today": "365 stars today"
+      "stars_today": "485 stars today"
     },
     {
-      "name": "opa334/Dopamine",
-      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-      "language": "C",
-      "stars_today": "95 stars today"
+      "name": "3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars_today": "197 stars today"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars_today": "812 stars today"
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "language": "TypeScript",
+      "stars_today": "875 stars today"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars_today": "748 stars today"
+    },
+    {
+      "name": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars_today": "80 stars today"
+    },
+    {
+      "name": "harveyai/harvey-labs",
+      "description": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+      "language": "Python",
+      "stars_today": "28 stars today"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "stars_today": "298 stars today"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": "458 stars today"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "description": "Curated list of project-based tutorials",
+      "language": "Python",
+      "stars_today": "401 stars today"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars_today": "1,138 stars today"
     }
   ]
 }

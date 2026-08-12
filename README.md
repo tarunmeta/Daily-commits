@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-11 22:24:04 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-12 00:01:08 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **semantica-agi/semantica**
-- BTC: **$63,672.0** ↓ (-0.46%)
-- HN top story: **Nvidia Nemotron 3.5 Lightning and NeMo Switchyard**
+- Top GitHub repo: **msitarzewski/agency-agents**
+- BTC: **$63,552.0** ↓ (-0.57%)
+- HN top story: **WorldClaw Agentic 3D open-world generation at scale**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-08-10 12:08:05 UTC | `c54241cb276d` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-11 21:30:34 UTC | `468f8fd7b929` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-11 22:24:04 UTC | `e288764e021c` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-08-12 00:01:06 UTC | `3a3c1c3b8bb3` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-12 00:01:08 UTC | `370cd83d93ff` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-12 00:01:07 UTC | `4654dba47ea6` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-12` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | Streak | `86` day(s) |
-| Last Commit (IST) | `2026-08-12 03:54:05 IST` |
+| Last Commit (IST) | `2026-08-12 04:42:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-09 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-08-10 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-11 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-08-12 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-08-12 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,672.0 | -0.46% | 🔴 |
-| Ethereum | $1,881.99 | +0.39% | 🟢 |
-| Solana | $76.38 | +0.19% | 🟢 |
-| Bnb | $612.31 | +2.23% | 🟢 |
+| Bitcoin | $63,552.0 | -0.57% | 🔴 |
+| Ethereum | $1,881.24 | +0.53% | 🟢 |
+| Solana | $76.22 | +0.38% | 🟢 |
+| Bnb | $616.34 | +2.96% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 967 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 858 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 215 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 680 stars today | Production-grade engineering skills for AI coding agents. |
-| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | 167 stars today | The open-source app everyone uses to manage agents at work |
-| [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | 2,356 stars today | A self-improving RLM agent for coding workflows and long-running autonomous task… |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | 190 stars today | Truly independent web browser |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | 156 stars today | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 958 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 893 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 22 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active nod… |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 578 stars today | Production-grade engineering skills for AI coding agents. |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 243 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
+| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | 341 stars today | The ultimate RAG for your monorepo. Query, understand, and edit multi-language c… |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 485 stars today | Public repository for Agent Skills |
+| [3b1b/manim](https://github.com/3b1b/manim) | Python | 197 stars today | Animation engine for explanatory math videos |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) | 96 | 35 |
-| [Compression Is Prediction](https://ngrok.com/blog/compression-is-prediction) | 92 | 45 |
-| [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) | 192 | 89 |
-| [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) | 392 | 158 |
-| [How we used to get jobs: A newspaper classifieds story](https://ironicsans.ghost.io/how-we-used-to-get-jobs/) | 67 | 44 |
+| [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | 71 | 26 |
+| [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) | 199 | 92 |
+| [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) | 159 | 80 |
+| [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) | 258 | 117 |
+| [Go is an ideal language for AI-assisted software engineering](https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/) | 220 | 270 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
