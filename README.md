@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-12 11:23:47 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-12 12:10:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **msitarzewski/agency-agents**
-- BTC: **$64,089.0** ↓ (-0.32%)
-- HN top story: **llama.cpp**
+- Top GitHub repo: **cathrynlavery/diagram-design**
+- BTC: **$64,201.0** ↓ (-0.30%)
+- HN top story: **What sort of maths are LLMs good at?**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-12 00:01:06 UTC | `3a3c1c3b8bb3` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-12 06:00:22 UTC | `aca728e88021` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-12 11:23:47 UTC | `164b5fd2b2d7` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-08-12 12:10:16 UTC | `9cbdf1313e47` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-12 12:10:17 UTC | `ff7fa19ddb9a` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-12 12:10:16 UTC | `ace966a9677c` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +13 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-12` |
-| Commits Today | `14` / `100` |
-| Remaining Today | `86` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
+| Commits Today | `15` / `100` |
+| Remaining Today | `85` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-08-12 15:57:25 IST` |
+| Last Commit (IST) | `2026-08-12 16:53:47 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-09 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-08-10 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-11 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-08-12 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
+| 2026-08-12 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,089.0 | -0.32% | 🔴 |
-| Ethereum | $1,908.9 | +0.94% | 🟢 |
-| Solana | $76.7 | +0.83% | 🟢 |
-| Bnb | $613.5 | +1.11% | 🟢 |
+| Bitcoin | $64,201.0 | -0.30% | 🔴 |
+| Ethereum | $1,913.72 | +1.05% | 🟢 |
+| Solana | $76.91 | +1.04% | 🟢 |
+| Bnb | $614.14 | +0.57% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 958 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 893 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | 22 stars today | Node Version Manager - POSIX-compliant bash script to manage multiple active nod… |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | 578 stars today | Production-grade engineering skills for AI coding agents. |
-| [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | 243 stars today | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock… |
-| [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | 341 stars today | The ultimate RAG for your monorepo. Query, understand, and edit multi-language c… |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 485 stars today | Public repository for Agent Skills |
-| [3b1b/manim](https://github.com/3b1b/manim) | Python | 197 stars today | Animation engine for explanatory math videos |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 1,616 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 248 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 834 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,215 stars today | Orca is the ADE for working with a fleet of parallel agents. Run any coding agen… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,969 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 238 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 855 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 364 stars today | AI turns documents or topics into real, native PowerPoint decks—with native shap… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [llama.cpp](https://llama.app) | 21 | 4 |
-| [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/) | 101 | 14 |
-| [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) | 424 | 171 |
-| [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/) | 55 | 12 |
-| [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | 182 | 55 |
+| [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) | 98 | 29 |
+| [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com) | 85 | 1 |
+| [LinkedIn CringeBot 3000](https://www.cringebot3000.com/) | 291 | 115 |
+| [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) | 9 | 0 |
+| [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/) | 34 | 2 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

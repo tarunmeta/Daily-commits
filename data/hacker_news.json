@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-12 06:00:22 UTC",
-    "fetched_at_ist": "2026-08-12 11:30:22 IST",
+    "fetched_at_utc": "2026-08-12 12:10:17 UTC",
+    "fetched_at_ist": "2026-08-12 17:40:17 IST",
     "item_count": 5,
-    "content_hash": "aca728e8802150297bc08757299bea673470f02aba6eedc8277975f57d66a1cd",
-    "previous_hash": "56d8ccc77e6c0d43e8334b37c518a736e96eb81e41a85222a4f0e7888413df00",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "ff7fa19ddb9a53bef42ce5432d803cad02dd574764a4eb4ad9aa01e2519d8531",
+    "previous_hash": "aca728e8802150297bc08757299bea673470f02aba6eedc8277975f57d66a1cd",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49267928,
-      "title": "llama.cpp",
-      "url": "https://llama.app",
-      "score": 21,
-      "comments": 4
+      "id": 49270022,
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "score": 98,
+      "comments": 29
     },
     {
-      "id": 49201953,
-      "title": "The hardest working font in Manhattan (2025)",
-      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "score": 101,
-      "comments": 14
+      "id": 49270040,
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "score": 85,
+      "comments": 1
     },
     {
-      "id": 49263497,
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 424,
-      "comments": 171
+      "id": 49268564,
+      "title": "LinkedIn CringeBot 3000",
+      "url": "https://www.cringebot3000.com/",
+      "score": 291,
+      "comments": 115
     },
     {
-      "id": 49266921,
-      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
-      "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
-      "score": 55,
-      "comments": 12
+      "id": 49270953,
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "score": 9,
+      "comments": 0
     },
     {
-      "id": 49265051,
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 182,
-      "comments": 55
+      "id": 49194856,
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "score": 34,
+      "comments": 2
     }
   ]
 }
