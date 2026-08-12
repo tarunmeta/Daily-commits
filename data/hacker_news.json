@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-12 02:44:39 UTC",
-    "fetched_at_ist": "2026-08-12 08:14:39 IST",
+    "fetched_at_utc": "2026-08-12 06:00:22 UTC",
+    "fetched_at_ist": "2026-08-12 11:30:22 IST",
     "item_count": 5,
-    "content_hash": "56d8ccc77e6c0d43e8334b37c518a736e96eb81e41a85222a4f0e7888413df00",
-    "previous_hash": "370cd83d93ffa7ad9aa4024354dc590aa9d4a8f7ad828cdfe93c6790f866fc87",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "aca728e8802150297bc08757299bea673470f02aba6eedc8277975f57d66a1cd",
+    "previous_hash": "56d8ccc77e6c0d43e8334b37c518a736e96eb81e41a85222a4f0e7888413df00",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49265051,
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 138,
-      "comments": 46
+      "id": 49267928,
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "score": 21,
+      "comments": 4
+    },
+    {
+      "id": 49201953,
+      "title": "The hardest working font in Manhattan (2025)",
+      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+      "score": 101,
+      "comments": 14
     },
     {
       "id": 49263497,
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 276,
-      "comments": 126
+      "score": 424,
+      "comments": 171
     },
     {
-      "id": 49263340,
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 187,
-      "comments": 95
+      "id": 49266921,
+      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+      "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "score": 55,
+      "comments": 12
     },
     {
-      "id": 49261128,
-      "title": "Mojo 1.0",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 301,
-      "comments": 137
-    },
-    {
-      "id": 49257876,
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "score": 513,
-      "comments": 211
+      "id": 49265051,
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "score": 182,
+      "comments": 55
     }
   ]
 }

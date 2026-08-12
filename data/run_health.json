@@ -2,16 +2,16 @@
   "schema_version": 2,
   "date_ist": "2026-08-12",
   "target_commits_per_day": 100,
-  "commits_today": 9,
-  "remaining_today": 91,
+  "commits_today": 10,
+  "remaining_today": 90,
   "status": "on-track",
-  "streak_days": 86,
+  "streak_days": 85,
   "commit_count_source": "git-history",
   "pending_commit_included": 1,
-  "last_commit_utc": "2026-08-12 02:44:40 UTC",
-  "last_commit_ist": "2026-08-12 08:14:40 IST",
-  "last_data_update_utc": "2026-08-12 04:28:40 UTC",
-  "last_data_update_ist": "2026-08-12 09:58:40 IST",
+  "last_commit_utc": "2026-08-12 04:28:40 UTC",
+  "last_commit_ist": "2026-08-12 09:58:40 IST",
+  "last_data_update_utc": "2026-08-12 06:00:22 UTC",
+  "last_data_update_ist": "2026-08-12 11:30:22 IST",
   "sources": {
     "github": {
       "label": "GitHub Trending",
@@ -26,20 +26,20 @@
     "hacker_news": {
       "label": "Hacker News",
       "item_count": 5,
-      "last_fetch_utc": "2026-08-12 02:44:39 UTC",
-      "last_fetch_ist": "2026-08-12 08:14:39 IST",
-      "content_hash": "56d8ccc77e6c0d43e8334b37c518a736e96eb81e41a85222a4f0e7888413df00",
-      "content_hash_short": "56d8ccc77e6c",
+      "last_fetch_utc": "2026-08-12 06:00:22 UTC",
+      "last_fetch_ist": "2026-08-12 11:30:22 IST",
+      "content_hash": "aca728e8802150297bc08757299bea673470f02aba6eedc8277975f57d66a1cd",
+      "content_hash_short": "aca728e88021",
       "change_flag": true,
-      "change_summary": "+1 new stories"
+      "change_summary": "+3 new stories"
     },
     "crypto": {
       "label": "Crypto",
       "item_count": 4,
-      "last_fetch_utc": "2026-08-12 04:28:40 UTC",
-      "last_fetch_ist": "2026-08-12 09:58:40 IST",
-      "content_hash": "23bdd07f2b39efec32135463422ba45cb95a1c16a29d202aea65e3d072c5bd14",
-      "content_hash_short": "23bdd07f2b39",
+      "last_fetch_utc": "2026-08-12 06:00:21 UTC",
+      "last_fetch_ist": "2026-08-12 11:30:21 IST",
+      "content_hash": "b821541a1b4961e6b66f68cb1ebc97d0fda39c34c59c2ce6729cc15d98d89198",
+      "content_hash_short": "b821541a1b49",
       "change_flag": true,
       "change_summary": "4 assets moved"
     }
