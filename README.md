@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-12 12:10:17 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-12 18:07:49 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$64,201.0** ↓ (-0.30%)
-- HN top story: **What sort of maths are LLMs good at?**
+- BTC: **$63,410.0** ↓ (-0.18%)
+- HN top story: **DeepSeek V4 Pro 0813**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-12 12:10:16 UTC | `9cbdf1313e47` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-12 12:10:17 UTC | `ff7fa19ddb9a` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-12 12:10:16 UTC | `ace966a9677c` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-12 18:07:47 UTC | `19e896faaf4a` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-12 18:07:49 UTC | `e06afcbba227` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-12 18:07:48 UTC | `d7845c63e41f` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-12` |
-| Commits Today | `19` / `100` |
-| Remaining Today | `81` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
+| Commits Today | `20` / `100` |
+| Remaining Today | `80` |
+| Progress | `████░░░░░░░░░░░░░░░░` 20% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-08-12 21:33:14 IST` |
+| Last Commit (IST) | `2026-08-12 22:42:02 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-09 | 29 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-08-10 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-11 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
-| 2026-08-12 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
+| 2026-08-12 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,201.0 | -0.30% | 🔴 |
-| Ethereum | $1,913.72 | +1.05% | 🟢 |
-| Solana | $76.91 | +1.04% | 🟢 |
-| Bnb | $614.14 | +0.57% | 🟢 |
+| Bitcoin | $63,410.0 | -0.18% | 🔴 |
+| Ethereum | $1,887.2 | +1.33% | 🟢 |
+| Solana | $75.91 | +0.98% | 🟢 |
+| Bnb | $609.93 | +0.07% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 1,616 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 248 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 2,951 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 325 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 834 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,215 stars today | Orca is the ADE for working with a fleet of parallel agents. Run any coding agen… |
 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,969 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 238 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 855 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 277 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 236 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
 | [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 364 stars today | AI turns documents or topics into real, native PowerPoint decks—with native shap… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [What sort of maths are LLMs good at?](https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/) | 98 | 29 |
-| [Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation](https://woxi.ad-si.com) | 85 | 1 |
-| [LinkedIn CringeBot 3000](https://www.cringebot3000.com/) | 291 | 115 |
-| [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) | 9 | 0 |
-| [High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons](https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/) | 34 | 2 |
+| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | 289 | 88 |
+| [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 434 | 68 |
+| [2026 Eclipse Webcams](https://jonty.github.io/2026_eclipse_webcams/) | 382 | 96 |
+| [SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis) | 97 | 49 |
+| [Glaciers on the Climate Dashboard](https://climate.metoffice.cloud/glaciers.html) | 46 | 3 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

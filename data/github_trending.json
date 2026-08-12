@@ -2,26 +2,26 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-12 12:10:16 UTC",
-    "fetched_at_ist": "2026-08-12 17:40:16 IST",
+    "fetched_at_utc": "2026-08-12 18:07:47 UTC",
+    "fetched_at_ist": "2026-08-12 23:37:47 IST",
     "item_count": 17,
-    "content_hash": "9cbdf1313e47bfa2536c9f2efd569f576e8897d5cb3e31bd238013bd0023a1ea",
-    "previous_hash": "3a3c1c3b8bb36c4bf14c95604f7b614b7d6f563344c6bf932a232fe790751304",
-    "new_repos_vs_previous": 13,
-    "top_repo_changed": true
+    "content_hash": "19e896faaf4adcc19d5901a33952923284fe12a460e0ae33fd7ad61747680304",
+    "previous_hash": "9cbdf1313e47bfa2536c9f2efd569f576e8897d5cb3e31bd238013bd0023a1ea",
+    "new_repos_vs_previous": 0,
+    "top_repo_changed": false
   },
   "repos": [
     {
       "name": "cathrynlavery/diagram-design",
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "language": "HTML",
-      "stars_today": "1,616 stars today"
+      "stars_today": "2,951 stars today"
     },
     {
       "name": "macro-inc/macro",
       "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
-      "stars_today": "248 stars today"
+      "stars_today": "325 stars today"
     },
     {
       "name": "semantica-agi/semantica",
@@ -45,13 +45,13 @@
       "name": "shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars_today": "238 stars today"
+      "stars_today": "277 stars today"
     },
     {
       "name": "NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars_today": "855 stars today"
+      "stars_today": "236 stars today"
     },
     {
       "name": "hugohe3/ppt-master",
@@ -63,7 +63,7 @@
       "name": "infiniflow/ragflow",
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "language": "Go",
-      "stars_today": "85 stars today"
+      "stars_today": "182 stars today"
     },
     {
       "name": "paperclipai/paperclip",
@@ -93,7 +93,7 @@
       "name": "localsend/localsend",
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
-      "stars_today": "159 stars today"
+      "stars_today": "284 stars today"
     },
     {
       "name": "Lightricks/LTX-2",
@@ -111,7 +111,7 @@
       "name": "cactus-compute/needle",
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
-      "stars_today": "248 stars today"
+      "stars_today": "346 stars today"
     }
   ]
 }
