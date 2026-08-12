@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-12 00:01:08 UTC",
-    "fetched_at_ist": "2026-08-12 05:31:08 IST",
+    "fetched_at_utc": "2026-08-12 02:44:39 UTC",
+    "fetched_at_ist": "2026-08-12 08:14:39 IST",
     "item_count": 5,
-    "content_hash": "370cd83d93ffa7ad9aa4024354dc590aa9d4a8f7ad828cdfe93c6790f866fc87",
-    "previous_hash": "468f8fd7b9294ff482c24e5abb858aab8cefa39533d9efdfaff3b88c08941cbc",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "56d8ccc77e6c0d43e8334b37c518a736e96eb81e41a85222a4f0e7888413df00",
+    "previous_hash": "370cd83d93ffa7ad9aa4024354dc590aa9d4a8f7ad828cdfe93c6790f866fc87",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49265051,
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "score": 71,
-      "comments": 26
+      "score": 138,
+      "comments": 46
     },
     {
       "id": 49263497,
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "score": 199,
-      "comments": 92
+      "score": 276,
+      "comments": 126
     },
     {
       "id": 49263340,
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "score": 159,
-      "comments": 80
+      "score": 187,
+      "comments": 95
     },
     {
       "id": 49261128,
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "score": 258,
-      "comments": 117
+      "score": 301,
+      "comments": 137
     },
     {
-      "id": 49261133,
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "score": 220,
-      "comments": 270
+      "id": 49257876,
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 513,
+      "comments": 211
     }
   ]
 }
