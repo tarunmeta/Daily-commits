@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-12 18:07:49 UTC",
-    "fetched_at_ist": "2026-08-12 23:37:49 IST",
+    "fetched_at_utc": "2026-08-13 02:35:23 UTC",
+    "fetched_at_ist": "2026-08-13 08:05:23 IST",
     "item_count": 5,
-    "content_hash": "e06afcbba2279cf4e3ae68dc6e38be1c19c411aff2b08fe390a3a0fe8c378973",
-    "previous_hash": "ff7fa19ddb9a53bef42ce5432d803cad02dd574764a4eb4ad9aa01e2519d8531",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "36d5b7dc04fddafa90ebc4fa829ab3a4e356a1332b84f36b980faa2fb30bfd28",
+    "previous_hash": "e06afcbba2279cf4e3ae68dc6e38be1c19c411aff2b08fe390a3a0fe8c378973",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49274600,
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 289,
-      "comments": 88
+      "score": 766,
+      "comments": 290
+    },
+    {
+      "id": 49276574,
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "score": 417,
+      "comments": 141
     },
     {
       "id": 49272832,
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 434,
-      "comments": 68
+      "score": 819,
+      "comments": 153
     },
     {
-      "id": 49270953,
-      "title": "2026 Eclipse Webcams",
-      "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "score": 382,
-      "comments": 96
+      "id": 49273478,
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 511,
+      "comments": 111
     },
     {
-      "id": 49275385,
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "score": 97,
-      "comments": 49
-    },
-    {
-      "id": 49275132,
-      "title": "Glaciers on the Climate Dashboard",
-      "url": "https://climate.metoffice.cloud/glaciers.html",
-      "score": 46,
-      "comments": 3
+      "id": 49280061,
+      "title": "What's New in Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "score": 51,
+      "comments": 34
     }
   ]
 }
