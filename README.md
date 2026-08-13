@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-13 04:29:44 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-13 06:01:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,533.0** ↓ (-0.37%)
+- BTC: **$63,827.0** ↑ (+0.12%)
 - HN top story: **DeepSeek V4 Pro 0813**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-12 18:07:47 UTC | `19e896faaf4a` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-13 02:35:23 UTC | `36d5b7dc04fd` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-08-13 04:29:44 UTC | `d9877477694e` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-08-13 06:01:41 UTC | `9d562d196e15` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-13 06:01:43 UTC | `ebf723e4273b` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-13 06:01:42 UTC | `b0e6c16b68a5` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bnb
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-13` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-08-13 08:05:23 IST` |
+| Last Commit (IST) | `2026-08-13 09:59:45 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-10 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-11 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-12 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-08-13 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-08-13 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,533.0 | -0.37% | 🔴 |
-| Ethereum | $1,884.03 | -0.25% | 🔴 |
-| Solana | $76.02 | -0.44% | 🔴 |
-| Bnb | $611.27 | -0.53% | 🔴 |
+| Bitcoin | $63,827.0 | +0.12% | 🟢 |
+| Ethereum | $1,894.3 | +0.30% | 🟢 |
+| Solana | $76.46 | +0.28% | 🟢 |
+| Bnb | $613.31 | +0.11% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 2,951 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 325 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 834 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,215 stars today | Orca is the ADE for working with a fleet of parallel agents. Run any coding agen… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,969 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 277 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 236 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 364 stars today | AI turns documents or topics into real, native PowerPoint decks—with native shap… |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 2,855 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 227 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 845 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,235 stars today | Orca is the ADE for working with a fleet of parallel agents. Run any coding agen… |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,873 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
+| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 266 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 215 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
+| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 476 stars today | AI turns documents or topics into real, native PowerPoint decks—with native shap… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | 766 | 290 |
-| [Delta](https://zed.dev/blog/introducing-delta) | 417 | 141 |
-| [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 819 | 153 |
-| [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | 511 | 111 |
-| [What's New in Flutter 3.47](https://flutter.dev/blog/whats-new-in-flutter-3-47) | 51 | 34 |
+| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | 848 | 332 |
+| [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 932 | 179 |
+| [Delta](https://zed.dev/blog/introducing-delta) | 481 | 166 |
+| [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | 563 | 128 |
+| [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) | 110 | 50 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
