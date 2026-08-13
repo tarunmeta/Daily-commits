@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-13 06:01:43 UTC",
-    "fetched_at_ist": "2026-08-13 11:31:43 IST",
+    "fetched_at_utc": "2026-08-13 12:09:30 UTC",
+    "fetched_at_ist": "2026-08-13 17:39:30 IST",
     "item_count": 5,
-    "content_hash": "ebf723e4273b147e0477451cdd50863d9954c899d6926b973ac84a5df8de4392",
-    "previous_hash": "36d5b7dc04fddafa90ebc4fa829ab3a4e356a1332b84f36b980faa2fb30bfd28",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "b1fd58da17fa61391a01f1dbce76234bd3ef76ad5dca9ef27d7959f8eaf41881",
+    "previous_hash": "ebf723e4273b147e0477451cdd50863d9954c899d6926b973ac84a5df8de4392",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49281916,
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "score": 228,
+      "comments": 141
+    },
+    {
+      "id": 49243687,
+      "title": "The lattice of sets of natural numbers is rich",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "score": 43,
+      "comments": 8
+    },
     {
       "id": 49274600,
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "score": 848,
-      "comments": 332
+      "score": 963,
+      "comments": 413
     },
     {
       "id": 49272832,
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "score": 932,
-      "comments": 179
+      "score": 1085,
+      "comments": 202
     },
     {
-      "id": 49276574,
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "score": 481,
-      "comments": 166
-    },
-    {
-      "id": 49273478,
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "score": 563,
-      "comments": 128
-    },
-    {
-      "id": 49279928,
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "score": 110,
-      "comments": 50
+      "id": 49224997,
+      "title": "Picking berries is my meditation",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "score": 19,
+      "comments": 9
     }
   ]
 }

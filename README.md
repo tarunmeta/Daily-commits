@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-13 11:23:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-13 12:09:30 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,556.0** ↓ (-0.84%)
-- HN top story: **DeepSeek V4 Pro 0813**
+- BTC: **$63,443.0** ↓ (-1.18%)
+- HN top story: **ChatGPT Desktop (Codex Desktop) for Linux**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-13 06:01:41 UTC | `9d562d196e15` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-13 06:01:43 UTC | `ebf723e4273b` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-08-13 11:23:00 UTC | `5912e5a4754f` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-13 12:09:29 UTC | `f394fa6b407a` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-13 12:09:30 UTC | `b1fd58da17fa` | +3 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-13 12:09:29 UTC | `79636a7acbbd` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-13` |
-| Commits Today | `13` / `100` |
-| Remaining Today | `87` |
-| Progress | `██░░░░░░░░░░░░░░░░░░` 13% |
+| Commits Today | `14` / `100` |
+| Remaining Today | `86` |
+| Progress | `██░░░░░░░░░░░░░░░░░░` 14% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-08-13 15:59:06 IST` |
+| Last Commit (IST) | `2026-08-13 16:53:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-10 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-11 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-12 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-08-13 | 13 | `██░░░░░░░░░░░░░░░░░░` 13% |
+| 2026-08-13 | 14 | `██░░░░░░░░░░░░░░░░░░` 14% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,556.0 | -0.84% | 🔴 |
-| Ethereum | $1,878.36 | -1.62% | 🔴 |
-| Solana | $75.56 | -1.48% | 🔴 |
-| Bnb | $610.34 | -0.53% | 🔴 |
+| Bitcoin | $63,443.0 | -1.18% | 🔴 |
+| Ethereum | $1,879.66 | -1.78% | 🔴 |
+| Solana | $75.69 | -1.59% | 🔴 |
+| Bnb | $608.74 | -0.88% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 2,855 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 227 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 845 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,235 stars today | Orca is the ADE for working with a fleet of parallel agents. Run any coding agen… |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 1,873 stars today | A complete AI agency at your fingertips - From frontend wizards to Reddit commun… |
-| [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | 266 stars today | Kronos: A Foundation Model for the Language of Financial Markets |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | 215 stars today | 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬… |
-| [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) | Python | 476 stars today | AI turns documents or topics into real, native PowerPoint decks—with native shap… |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 569 stars today | Public repository for Agent Skills |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 315 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 83 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 592 stars today | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,… |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 227 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
+| [megadose/holehe](https://github.com/megadose/holehe) | Python | 166 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | 848 | 332 |
-| [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 932 | 179 |
-| [Delta](https://zed.dev/blog/introducing-delta) | 481 | 166 |
-| [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B) | 563 | 128 |
-| [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html) | 110 | 50 |
+| [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) | 228 | 141 |
+| [The lattice of sets of natural numbers is rich](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/) | 43 | 8 |
+| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | 963 | 413 |
+| [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 1085 | 202 |
+| [Picking berries is my meditation](https://www.tsoon.com/posts/picking-berries-meditation/) | 19 | 9 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
