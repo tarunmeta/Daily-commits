@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-13 12:09:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-13 18:08:38 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,443.0** ↓ (-1.18%)
-- HN top story: **ChatGPT Desktop (Codex Desktop) for Linux**
+- BTC: **$63,185.0** ↓ (-0.34%)
+- HN top story: **Gemini 3.7 Flash**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-13 12:09:29 UTC | `f394fa6b407a` | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-13 12:09:30 UTC | `b1fd58da17fa` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-13 12:09:29 UTC | `79636a7acbbd` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-13 18:08:37 UTC | `5be1cc730f37` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-13 18:08:38 UTC | `5f393e90f9ad` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-13 18:08:38 UTC | `21a55b91a32f` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-13` |
-| Commits Today | `18` / `100` |
-| Remaining Today | `82` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
+| Commits Today | `19` / `100` |
+| Remaining Today | `81` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 19% |
 | Streak | `83` day(s) |
-| Last Commit (IST) | `2026-08-13 21:33:19 IST` |
+| Last Commit (IST) | `2026-08-13 22:42:31 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-10 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-11 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-12 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
-| 2026-08-13 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
+| 2026-08-13 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,443.0 | -1.18% | 🔴 |
-| Ethereum | $1,879.66 | -1.78% | 🔴 |
-| Solana | $75.69 | -1.59% | 🔴 |
-| Bnb | $608.74 | -0.88% | 🔴 |
+| Bitcoin | $63,185.0 | -0.34% | 🔴 |
+| Ethereum | $1,877.9 | -0.46% | 🔴 |
+| Solana | $75.77 | -0.16% | 🔴 |
+| Bnb | $607.69 | -0.32% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 2,855 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 845 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 569 stars today | Public repository for Agent Skills |
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 315 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 4,504 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 727 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 383 stars today | Public repository for Agent Skills |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 768 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 83 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 592 stars today | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,… |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 227 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 354 stars today | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,… |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 1,180 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
 | [megadose/holehe](https://github.com/megadose/holehe) | Python | 166 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/) | 228 | 141 |
-| [The lattice of sets of natural numbers is rich](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/) | 43 | 8 |
-| [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813) | 963 | 413 |
-| [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug) | 1085 | 202 |
-| [Picking berries is my meditation](https://www.tsoon.com/posts/picking-berries-meditation/) | 19 | 9 |
+| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | 154 | 107 |
+| [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1) | 55 | 10 |
+| [Spaghettifying DRAM](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) | 295 | 86 |
+| [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology) | 19 | 3 |
+| [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/) | 15 | 6 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
