@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-14 14:30:20 UTC",
-    "fetched_at_ist": "2026-08-14 20:00:20 IST",
+    "fetched_at_utc": "2026-08-14 15:33:00 UTC",
+    "fetched_at_ist": "2026-08-14 21:03:00 IST",
     "item_count": 5,
-    "content_hash": "8e9325713714467c476bc8fbff3e9d4cc1f4e8ad95eb8fea480d5438d6cac6fe",
-    "previous_hash": "3398832dd2bbe5157e2881fb4f2c13e54d74c50207c895da0853c62df958e9b9",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "content_hash": "1402940bd7c4b78fb72e8f035e44eb84664c4d1230e011fa227d78028dc99cb6",
+    "previous_hash": "8e9325713714467c476bc8fbff3e9d4cc1f4e8ad95eb8fea480d5438d6cac6fe",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49299222,
+      "title": "Every Fucking Website",
+      "url": "https://lxe.github.io/everywebsite/",
+      "score": 224,
+      "comments": 134
+    },
+    {
+      "id": 49299282,
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "score": 38,
+      "comments": 23
+    },
     {
       "id": 49294997,
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 764,
-      "comments": 389
+      "score": 831,
+      "comments": 435
     },
     {
-      "id": 49249523,
-      "title": "Don't classify, hallucinate!",
-      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "score": 86,
-      "comments": 41
-    },
-    {
-      "id": 49296627,
-      "title": "DeepSeek peak/off-peak pricing update",
-      "url": "https://api-docs.deepseek.com/news/news260813/",
-      "score": 141,
-      "comments": 74
+      "id": 49299675,
+      "title": "Seven books I keep close because I love them",
+      "url": "https://blog.plover.com/2026/08/02/",
+      "score": 13,
+      "comments": 0
     },
     {
       "id": 49298910,
       "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
       "url": "https://e360.yale.edu/digest/australia-home-batteries",
-      "score": 18,
-      "comments": 0
-    },
-    {
-      "id": 49260628,
-      "title": "Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL",
-      "url": "https://codeberg.org/jjba23/lambdock",
-      "score": 9,
-      "comments": 0
+      "score": 120,
+      "comments": 92
     }
   ]
 }
