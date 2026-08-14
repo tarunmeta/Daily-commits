@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-14 (last updated: 11:30 IST)
+
+## 📅 2026-08-14 (last updated: 13:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-14 11:30:07 IST | 39170c3e542b | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-14 13:14:17 IST | 3398832dd2bb | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-08-14 11:30:07 IST | cdd29996d9a9 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3) — Score: 125
-- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) — Score: 737
-- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) — Score: 522
-- [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/) — Score: 116
-- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) — Score: 124
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3) — Score: 296
+- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) — Score: 783
+- [Why Books Don't Work: Constructivism over Transmissionism (2021)](https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/) — Score: 4
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) — Score: 552
+- [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/) — Score: 171
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,353.0 🔴 -0.75%

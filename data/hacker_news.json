@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-14 06:00:07 UTC",
-    "fetched_at_ist": "2026-08-14 11:30:07 IST",
+    "fetched_at_utc": "2026-08-14 07:44:17 UTC",
+    "fetched_at_ist": "2026-08-14 13:14:17 IST",
     "item_count": 5,
-    "content_hash": "39170c3e542b5c48214c9057201ec1a55e358a967a8c1cccee666cf2ad764e4e",
-    "previous_hash": "283fba6aca31572978f7f24120e2c9e81f255f2ae78792479241a6dd6e2b6492",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "3398832dd2bbe5157e2881fb4f2c13e54d74c50207c895da0853c62df958e9b9",
+    "previous_hash": "39170c3e542b5c48214c9057201ec1a55e358a967a8c1cccee666cf2ad764e4e",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49294997,
       "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 125,
-      "comments": 29
+      "score": 296,
+      "comments": 98
     },
     {
       "id": 49289112,
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 737,
-      "comments": 397
+      "score": 783,
+      "comments": 409
+    },
+    {
+      "id": 49295666,
+      "title": "Why Books Don't Work: Constructivism over Transmissionism (2021)",
+      "url": "https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/",
+      "score": 4,
+      "comments": 1
     },
     {
       "id": 49289844,
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 522,
-      "comments": 219
+      "score": 552,
+      "comments": 231
     },
     {
       "id": 49290166,
       "title": "Hello, me. It's been a while",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 116,
-      "comments": 52
-    },
-    {
-      "id": 49293324,
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "score": 124,
-      "comments": 22
+      "score": 171,
+      "comments": 73
     }
   ]
 }
