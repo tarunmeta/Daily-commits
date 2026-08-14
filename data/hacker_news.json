@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-14 07:44:17 UTC",
-    "fetched_at_ist": "2026-08-14 13:14:17 IST",
+    "fetched_at_utc": "2026-08-14 14:30:20 UTC",
+    "fetched_at_ist": "2026-08-14 20:00:20 IST",
     "item_count": 5,
-    "content_hash": "3398832dd2bbe5157e2881fb4f2c13e54d74c50207c895da0853c62df958e9b9",
-    "previous_hash": "39170c3e542b5c48214c9057201ec1a55e358a967a8c1cccee666cf2ad764e4e",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "8e9325713714467c476bc8fbff3e9d4cc1f4e8ad95eb8fea480d5438d6cac6fe",
+    "previous_hash": "3398832dd2bbe5157e2881fb4f2c13e54d74c50207c895da0853c62df958e9b9",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": false
   },
   "stories": [
     {
       "id": 49294997,
-      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "score": 296,
-      "comments": 98
+      "score": 764,
+      "comments": 389
     },
     {
-      "id": 49289112,
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "score": 783,
-      "comments": 409
+      "id": 49249523,
+      "title": "Don't classify, hallucinate!",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "score": 86,
+      "comments": 41
     },
     {
-      "id": 49295666,
-      "title": "Why Books Don't Work: Constructivism over Transmissionism (2021)",
-      "url": "https://www.masterhowtolearn.com/2021-01-30-why-books-dont-work-constructivism-over-transmissionism/",
-      "score": 4,
-      "comments": 1
+      "id": 49296627,
+      "title": "DeepSeek peak/off-peak pricing update",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "score": 141,
+      "comments": 74
     },
     {
-      "id": 49289844,
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "score": 552,
-      "comments": 231
+      "id": 49298910,
+      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
+      "score": 18,
+      "comments": 0
     },
     {
-      "id": 49290166,
-      "title": "Hello, me. It's been a while",
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "score": 171,
-      "comments": 73
+      "id": 49260628,
+      "title": "Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL",
+      "url": "https://codeberg.org/jjba23/lambdock",
+      "score": 9,
+      "comments": 0
     }
   ]
 }
