@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-14 04:28:21 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-14 06:00:07 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,321.0** ↓ (-0.34%)
-- HN top story: **Gemini 3.7 Flash**
+- BTC: **$63,353.0** ↓ (-0.75%)
+- HN top story: **GLM-5.3: Frontier Coding with Emergent Cyber Capabilities**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-13 18:08:37 UTC | `5be1cc730f37` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-14 02:34:56 UTC | `283fba6aca31` | +4 new stories, top changed: no |
-| Crypto | 4 | 2026-08-14 04:28:21 UTC | `1df64cc05d36` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 17 | 2026-08-14 06:00:06 UTC | `fcc5da6d14cc` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-14 06:00:07 UTC | `39170c3e542b` | +2 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-14 06:00:07 UTC | `cdd29996d9a9` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-14` |
-| Commits Today | `8` / `100` |
-| Remaining Today | `92` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| Commits Today | `9` / `100` |
+| Remaining Today | `91` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 9% |
 | Streak | `84` day(s) |
-| Last Commit (IST) | `2026-08-14 08:04:56 IST` |
+| Last Commit (IST) | `2026-08-14 09:58:22 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-11 | 22 | `████░░░░░░░░░░░░░░░░` 22% |
 | 2026-08-12 | 20 | `████░░░░░░░░░░░░░░░░` 20% |
 | 2026-08-13 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
-| 2026-08-14 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
+| 2026-08-14 | 9 | `█░░░░░░░░░░░░░░░░░░░` 9% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,321.0 | -0.34% | 🔴 |
-| Ethereum | $1,883.76 | -0.01% | 🔴 |
-| Solana | $75.89 | -0.16% | 🔴 |
-| Bnb | $611.13 | -0.02% | 🔴 |
+| Bitcoin | $63,353.0 | -0.75% | 🔴 |
+| Ethereum | $1,883.22 | -0.60% | 🔴 |
+| Solana | $75.9 | -0.73% | 🔴 |
+| Bnb | $610.15 | -0.52% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 4,504 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 727 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 383 stars today | Public repository for Agent Skills |
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 768 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 83 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 354 stars today | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,… |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 1,180 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
-| [megadose/holehe](https://github.com/megadose/holehe) | Python | 166 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 4,475 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
+| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 713 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 312 stars today | Public repository for Agent Skills |
+| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 769 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 76 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
+| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 328 stars today | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,… |
+| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 1,239 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
+| [megadose/holehe](https://github.com/megadose/holehe) | Python | 195 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | 634 | 362 |
-| [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/) | 59 | 12 |
-| [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) | 441 | 187 |
-| [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) | 74 | 18 |
-| [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) | 566 | 248 |
+| [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3) | 125 | 29 |
+| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | 737 | 397 |
+| [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) | 522 | 219 |
+| [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/) | 116 | 52 |
+| [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) | 124 | 22 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
