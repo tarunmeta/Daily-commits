@@ -21,18 +21,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-14 (last updated: 22:02 IST)
+
+## 📅 2026-08-14 (last updated: 23:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-14 22:02:46 IST | 3dd4e7028596 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-14 23:08:23 IST | 97ac0e3ba601 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-14 18:51:13 IST | 7682df169662 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -48,11 +49,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [Every Fucking Website (2020)](https://lxe.github.io/everywebsite/) — Score: 457
-- [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/) — Score: 59
-- [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1) — Score: 57
-- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3) — Score: 879
-- [Qwen3.8-27B](https://twitter.com/alibaba_qwen/status/2088280182356611304) — Score: 235
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 269
+- [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/) — Score: 132
+- [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo) — Score: 38
+- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) — Score: 50
+- [Introducing Toast 1](https://www.mixedbread.com/blog/toast-1) — Score: 89
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,610.0 🔴 -1.62%

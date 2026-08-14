@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-14 16:32:46 UTC",
-    "fetched_at_ist": "2026-08-14 22:02:46 IST",
+    "fetched_at_utc": "2026-08-14 17:38:23 UTC",
+    "fetched_at_ist": "2026-08-14 23:08:23 IST",
     "item_count": 5,
-    "content_hash": "3dd4e702859623c118d5b9859745400bcffdf744216b6f7d994449dedb18fdb4",
-    "previous_hash": "1402940bd7c4b78fb72e8f035e44eb84664c4d1230e011fa227d78028dc99cb6",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "97ac0e3ba601377f31238b6aaf0b03055e5378e5d443b28916470fe46749650b",
+    "previous_hash": "3dd4e702859623c118d5b9859745400bcffdf744216b6f7d994449dedb18fdb4",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49299222,
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
-      "score": 457,
-      "comments": 253
+      "id": 49299605,
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "score": 269,
+      "comments": 204
     },
     {
       "id": 49299675,
       "title": "Seven books I keep close because I love them",
       "url": "https://blog.plover.com/2026/08/02/",
-      "score": 59,
-      "comments": 22
+      "score": 132,
+      "comments": 42
+    },
+    {
+      "id": 49301260,
+      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
+      "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+      "score": 38,
+      "comments": 7
+    },
+    {
+      "id": 49300759,
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "score": 50,
+      "comments": 14
     },
     {
       "id": 49299746,
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
-      "score": 57,
-      "comments": 16
-    },
-    {
-      "id": 49294997,
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "score": 879,
-      "comments": 455
-    },
-    {
-      "id": 49299684,
-      "title": "Qwen3.8-27B",
-      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-      "score": 235,
-      "comments": 89
+      "score": 89,
+      "comments": 25
     }
   ]
 }
