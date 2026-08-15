@@ -14,18 +14,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-15 (last updated: 06:46 IST)
+
+## 📅 2026-08-15 (last updated: 08:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-15 01:06:56 IST | 44c98307573b | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-15 08:02:46 IST | 378a584f85fe | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-15 06:46:58 IST | 6696f2f8f32e | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -41,11 +42,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 543
-- [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo) — Score: 312
-- [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/) — Score: 203
-- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) — Score: 119
-- [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) — Score: 565
+- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive) — Score: 59
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 929
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) — Score: 220
+- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459) — Score: 28
+- [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499) — Score: 27
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,956.0 🔴 -0.77%
