@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-15 02:32:46 UTC",
-    "fetched_at_ist": "2026-08-15 08:02:46 IST",
+    "fetched_at_utc": "2026-08-15 06:38:47 UTC",
+    "fetched_at_ist": "2026-08-15 12:08:47 IST",
     "item_count": 5,
-    "content_hash": "378a584f85fe7316ba3e23a9dbc665c70cab01ef24accd4c7d1cc84908fd8acd",
-    "previous_hash": "44c98307573bb1da189789dacfe48a1fe9e8f3b873c218dfba844b47043b4e87",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "05f5c890a10759f058a4c2e4cbc44992d309aff81b1a61c643a1892436ad0152",
+    "previous_hash": "378a584f85fe7316ba3e23a9dbc665c70cab01ef24accd4c7d1cc84908fd8acd",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49306577,
-      "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "score": 59,
-      "comments": 12
-    },
-    {
       "id": 49299605,
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "score": 929,
-      "comments": 604
+      "score": 1043,
+      "comments": 663
+    },
+    {
+      "id": 49282951,
+      "title": "Coin-sized device can hack a Boeing 737",
+      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+      "score": 34,
+      "comments": 6
+    },
+    {
+      "id": 49307592,
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "score": 41,
+      "comments": 11
+    },
+    {
+      "id": 49308073,
+      "title": "\"That's not SoC 2 compliant\"",
+      "url": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+      "score": 11,
+      "comments": 3
     },
     {
       "id": 49304447,
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "score": 220,
-      "comments": 124
-    },
-    {
-      "id": 49306196,
-      "title": "Simplifying and Refactoring Introductory Calculus",
-      "url": "https://arxiv.org/abs/1811.03459",
-      "score": 28,
-      "comments": 0
-    },
-    {
-      "id": 49306443,
-      "title": "The Ploopy A+ Trackball Is Here",
-      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "score": 27,
-      "comments": 13
+      "score": 293,
+      "comments": 140
     }
   ]
 }

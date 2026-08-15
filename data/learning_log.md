@@ -20,18 +20,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-15 (last updated: 10:55 IST)
+
+## 📅 2026-08-15 (last updated: 12:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-15 08:02:46 IST | 378a584f85fe | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-15 12:08:47 IST | 05f5c890a107 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-15 10:55:00 IST | cb2e208bc25b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -47,11 +48,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive) — Score: 59
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 929
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) — Score: 220
-- [Simplifying and Refactoring Introductory Calculus](https://arxiv.org/abs/1811.03459) — Score: 28
-- [The Ploopy A+ Trackball Is Here](https://blog.ploopy.co/the-aplus-is-finally-here-499) — Score: 27
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 1043
+- [Coin-sized device can hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/) — Score: 34
+- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) — Score: 41
+- ["That's not SoC 2 compliant"](https://ampcode.com/notes/thats-not-soc-2-compliant) — Score: 11
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) — Score: 293
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,081.0 🔴 -0.32%
