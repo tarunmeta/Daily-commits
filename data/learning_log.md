@@ -27,18 +27,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-15 (last updated: 15:02 IST)
+
+## 📅 2026-08-15 (last updated: 16:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-15 15:02:49 IST | 658885d2b05f | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-15 16:00:44 IST | ef598b0ceb91 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-15 13:59:34 IST | 27ca5c46c740 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -54,11 +55,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) — Score: 140
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 1136
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) — Score: 339
-- [In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace](https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/) — Score: 36
-- [Coin-sized device can hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/) — Score: 73
+- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/) — Score: 163
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) — Score: 1150
+- [Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum](https://baselashraf81.github.io/eigendrum/) — Score: 13
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) — Score: 349
+- [Using GCC's Nested Functions with Wide Pointers and No Trampolines II](https://uecker.codeberg.page/2026-07-14.html) — Score: 10
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,993.0 🟢 +0.41%
