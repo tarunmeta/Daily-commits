@@ -10,18 +10,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-17 (last updated: 02:50 IST)
+
+## 📅 2026-08-17 (last updated: 03:15 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-17 01:03:26 IST | 5ea98ab8827e | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-17 03:15:00 IST | 67d4bb7e640e | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-17 02:50:31 IST | fa7bdbb5112d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -37,11 +38,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 145
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 394
-- [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) — Score: 164
-- [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core) — Score: 103
-- [NIH is ending a key grant for budding clinical researchers](https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers) — Score: 76
+- [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper) — Score: 33
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 242
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 447
+- [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) — Score: 66
+- [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) — Score: 34
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,019.0 🔴 -0.04%
