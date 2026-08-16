@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-16 04:43:29 UTC",
-    "fetched_at_ist": "2026-08-16 10:13:29 IST",
+    "fetched_at_utc": "2026-08-16 06:40:28 UTC",
+    "fetched_at_ist": "2026-08-16 12:10:28 IST",
     "item_count": 5,
-    "content_hash": "3fdac2f5bbf29fb38346af966d40d8e29c6686cb1a56630936c4560bb562f60a",
-    "previous_hash": "b3845aae6a5c21f54a6fc82fa565a430e178efed4228df362d3348fef3bd7854",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "850945d761d0bda968e3b154c35e48777dd6f477783ac2cfc7cd03312db452bc",
+    "previous_hash": "3fdac2f5bbf29fb38346af966d40d8e29c6686cb1a56630936c4560bb562f60a",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49268580,
       "title": "Asus Bike Booster",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 198,
-      "comments": 102
+      "score": 285,
+      "comments": 160
     },
     {
       "id": 49316888,
       "title": "The quirky personal homepages of programming language creators",
       "url": "https://breck.lol/plMakers.html",
-      "score": 9,
-      "comments": 1
+      "score": 55,
+      "comments": 16
     },
     {
       "id": 49243061,
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 74,
-      "comments": 6
-    },
-    {
-      "id": 49316791,
-      "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
-      "url": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
-      "score": 7,
-      "comments": 7
+      "score": 113,
+      "comments": 8
     },
     {
       "id": 49311651,
       "title": "Semaglutide linked to lower predicted dementia risk",
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 383,
-      "comments": 268
+      "score": 400,
+      "comments": 277
+    },
+    {
+      "id": 49316271,
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "score": 43,
+      "comments": 12
     }
   ]
 }
