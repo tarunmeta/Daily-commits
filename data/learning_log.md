@@ -12,18 +12,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-17 (last updated: 03:15 IST)
+
+## 📅 2026-08-17 (last updated: 04:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-17 03:15:00 IST | 67d4bb7e640e | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-17 04:00:30 IST | 734072bd0fcd | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-17 02:50:31 IST | fa7bdbb5112d | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -39,11 +40,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [The Case Against Formal Verification, 50 Years Later](https://ivan-gavran.github.io/0-social-processes-paper) — Score: 33
-- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 242
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 447
-- [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) — Score: 66
-- [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) — Score: 34
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) — Score: 266
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) — Score: 464
+- [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) — Score: 77
+- [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) — Score: 40
+- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) — Score: 196
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,019.0 🔴 -0.04%
