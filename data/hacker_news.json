@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-16 06:40:28 UTC",
-    "fetched_at_ist": "2026-08-16 12:10:28 IST",
+    "fetched_at_utc": "2026-08-16 09:35:03 UTC",
+    "fetched_at_ist": "2026-08-16 15:05:03 IST",
     "item_count": 5,
-    "content_hash": "850945d761d0bda968e3b154c35e48777dd6f477783ac2cfc7cd03312db452bc",
-    "previous_hash": "3fdac2f5bbf29fb38346af966d40d8e29c6686cb1a56630936c4560bb562f60a",
+    "content_hash": "2fea03b1d6f51e52c5e5a1a0d5263ca691eead7e4678b6c59f4566ce547062cc",
+    "previous_hash": "850945d761d0bda968e3b154c35e48777dd6f477783ac2cfc7cd03312db452bc",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49268580,
       "title": "Asus Bike Booster",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 285,
-      "comments": 160
+      "score": 377,
+      "comments": 236
     },
     {
-      "id": 49316888,
-      "title": "The quirky personal homepages of programming language creators",
-      "url": "https://breck.lol/plMakers.html",
-      "score": 55,
-      "comments": 16
+      "id": 49317760,
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "score": 99,
+      "comments": 62
     },
     {
       "id": 49243061,
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 113,
-      "comments": 8
-    },
-    {
-      "id": 49311651,
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 400,
-      "comments": 277
+      "score": 152,
+      "comments": 14
     },
     {
       "id": 49316271,
       "title": "Patterns and problems in emerging multi-agent systems",
       "url": "https://www.anthropic.com/research/multiagent-systems",
-      "score": 43,
-      "comments": 12
+      "score": 83,
+      "comments": 31
+    },
+    {
+      "id": 49311651,
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "score": 426,
+      "comments": 296
     }
   ]
 }
