@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-15 23:44:57 UTC",
-    "fetched_at_ist": "2026-08-16 05:14:57 IST",
+    "fetched_at_utc": "2026-08-16 04:43:29 UTC",
+    "fetched_at_ist": "2026-08-16 10:13:29 IST",
     "item_count": 5,
-    "content_hash": "b3845aae6a5c21f54a6fc82fa565a430e178efed4228df362d3348fef3bd7854",
-    "previous_hash": "4d43b2396bfd5706af6d32dea51bfa58cd70232ad739b54fbab1cbd593c1b03b",
+    "content_hash": "3fdac2f5bbf29fb38346af966d40d8e29c6686cb1a56630936c4560bb562f60a",
+    "previous_hash": "b3845aae6a5c21f54a6fc82fa565a430e178efed4228df362d3348fef3bd7854",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49314744,
-      "title": "Engineers will do anything to avoid learning from history",
-      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
-      "score": 96,
-      "comments": 48
+      "id": 49268580,
+      "title": "Asus Bike Booster",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "score": 198,
+      "comments": 102
     },
     {
-      "id": 49314403,
-      "title": "Abdominal fat predicts heart disease risk better than BMI",
-      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "score": 94,
-      "comments": 60
-    },
-    {
-      "id": 49314615,
-      "title": "Bede Liu, a digital signal processing pioneer, has died",
-      "url": "https://spectrum.ieee.org/digital-signal-processing",
-      "score": 35,
+      "id": 49316888,
+      "title": "The quirky personal homepages of programming language creators",
+      "url": "https://breck.lol/plMakers.html",
+      "score": 9,
       "comments": 1
+    },
+    {
+      "id": 49243061,
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "score": 74,
+      "comments": 6
+    },
+    {
+      "id": 49316791,
+      "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
+      "url": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
+      "score": 7,
+      "comments": 7
     },
     {
       "id": 49311651,
       "title": "Semaglutide linked to lower predicted dementia risk",
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 318,
-      "comments": 220
-    },
-    {
-      "id": 49314235,
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "score": 56,
-      "comments": 17
+      "score": 383,
+      "comments": 268
     }
   ]
 }
