@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-16 10:32:40 UTC",
-    "fetched_at_ist": "2026-08-16 16:02:40 IST",
+    "fetched_at_utc": "2026-08-16 12:40:09 UTC",
+    "fetched_at_ist": "2026-08-16 18:10:09 IST",
     "item_count": 5,
-    "content_hash": "3fe5635e31bf4479ee381ad0e41dcdfdf2e7f9eb82863128d97c8d9be68eb067",
-    "previous_hash": "2fea03b1d6f51e52c5e5a1a0d5263ca691eead7e4678b6c59f4566ce547062cc",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "387505ee816d2ba4d2de8abf3f6218b651ff8413e77fcf2f6d64006b0b55aab0",
+    "previous_hash": "3fe5635e31bf4479ee381ad0e41dcdfdf2e7f9eb82863128d97c8d9be68eb067",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49268580,
       "title": "Asus Bike Booster",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 405,
-      "comments": 262
-    },
-    {
-      "id": 49243061,
-      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 165,
-      "comments": 18
-    },
-    {
-      "id": 49316271,
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "score": 93,
-      "comments": 41
+      "score": 476,
+      "comments": 313
     },
     {
       "id": 49277153,
       "title": "Superconducting monolayer cuprate with a single CuO2 plane",
       "url": "https://www.nature.com/articles/s41586-026-10857-1",
-      "score": 5,
-      "comments": 1
+      "score": 27,
+      "comments": 7
     },
     {
-      "id": 49314902,
-      "title": "Software Engineering fundamentals matter more",
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "score": 152,
-      "comments": 90
+      "id": 49268565,
+      "title": "A SAT Attack on Tarski's High School Algebra Problem",
+      "url": "https://arxiv.org/abs/2608.08421",
+      "score": 8,
+      "comments": 0
+    },
+    {
+      "id": 49316271,
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "score": 127,
+      "comments": 77
+    },
+    {
+      "id": 49243061,
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "score": 189,
+      "comments": 21
     }
   ]
 }
