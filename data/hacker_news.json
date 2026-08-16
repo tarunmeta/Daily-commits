@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-16 09:35:03 UTC",
-    "fetched_at_ist": "2026-08-16 15:05:03 IST",
+    "fetched_at_utc": "2026-08-16 10:32:40 UTC",
+    "fetched_at_ist": "2026-08-16 16:02:40 IST",
     "item_count": 5,
-    "content_hash": "2fea03b1d6f51e52c5e5a1a0d5263ca691eead7e4678b6c59f4566ce547062cc",
-    "previous_hash": "850945d761d0bda968e3b154c35e48777dd6f477783ac2cfc7cd03312db452bc",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "3fe5635e31bf4479ee381ad0e41dcdfdf2e7f9eb82863128d97c8d9be68eb067",
+    "previous_hash": "2fea03b1d6f51e52c5e5a1a0d5263ca691eead7e4678b6c59f4566ce547062cc",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49268580,
       "title": "Asus Bike Booster",
       "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "score": 377,
-      "comments": 236
-    },
-    {
-      "id": 49317760,
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://littlelearner-ll.github.io/",
-      "score": 99,
-      "comments": 62
+      "score": 405,
+      "comments": 262
     },
     {
       "id": 49243061,
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "score": 152,
-      "comments": 14
+      "score": 165,
+      "comments": 18
     },
     {
       "id": 49316271,
       "title": "Patterns and problems in emerging multi-agent systems",
       "url": "https://www.anthropic.com/research/multiagent-systems",
-      "score": 83,
-      "comments": 31
+      "score": 93,
+      "comments": 41
     },
     {
-      "id": 49311651,
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "score": 426,
-      "comments": 296
+      "id": 49277153,
+      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+      "url": "https://www.nature.com/articles/s41586-026-10857-1",
+      "score": 5,
+      "comments": 1
+    },
+    {
+      "id": 49314902,
+      "title": "Software Engineering fundamentals matter more",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "score": 152,
+      "comments": 90
     }
   ]
 }
