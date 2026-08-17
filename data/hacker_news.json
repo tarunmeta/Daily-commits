@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 15:40:00 UTC",
-    "fetched_at_ist": "2026-08-17 21:10:00 IST",
+    "fetched_at_utc": "2026-08-17 16:37:22 UTC",
+    "fetched_at_ist": "2026-08-17 22:07:22 IST",
     "item_count": 5,
-    "content_hash": "b69022a9ccd72af4d7073148d930d2d4babed0f7055b397402a10525f41cf69e",
-    "previous_hash": "45e2c79b8cfc9dbe388e1c178cad69749b240315e1d5277e400fe586a5615cac",
+    "content_hash": "1ac7c5623f22f3d389b00e7fbeb0b58fe23efe1ad7ce71650fb555ccb909ac78",
+    "previous_hash": "b69022a9ccd72af4d7073148d930d2d4babed0f7055b397402a10525f41cf69e",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49331222,
-      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
-      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
-      "score": 116,
-      "comments": 39
-    },
-    {
       "id": 49330781,
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 136,
-      "comments": 11
+      "score": 217,
+      "comments": 31
     },
     {
       "id": 49331423,
       "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 58,
-      "comments": 24
+      "score": 103,
+      "comments": 45
     },
     {
       "id": 49329575,
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "score": 148,
-      "comments": 81
+      "score": 188,
+      "comments": 100
+    },
+    {
+      "id": 49332751,
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "score": 25,
+      "comments": 8
     },
     {
       "id": 49331220,
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
-      "score": 44,
-      "comments": 12
+      "score": 77,
+      "comments": 21
     }
   ]
 }

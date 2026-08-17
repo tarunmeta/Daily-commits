@@ -37,13 +37,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-17 (last updated: 21:10 IST)
+
+## 📅 2026-08-17 (last updated: 22:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-17 21:10:00 IST | b69022a9ccd7 | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-17 22:07:22 IST | 1ac7c5623f22 | +1 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-17 18:57:54 IST | 00843ea07a37 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -64,11 +65,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [Apple's App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html) — Score: 116
-- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) — Score: 136
-- [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) — Score: 58
-- [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/) — Score: 148
-- [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/) — Score: 44
+- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) — Score: 217
+- [AI-Generated GitHub Copilot "Autofix" Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) — Score: 103
+- [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/) — Score: 188
+- [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/) — Score: 25
+- [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/) — Score: 77
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,387.0 🟢 +0.60%
