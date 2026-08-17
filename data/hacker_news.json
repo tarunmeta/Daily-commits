@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 19:41:59 UTC",
-    "fetched_at_ist": "2026-08-18 01:11:59 IST",
+    "fetched_at_utc": "2026-08-17 20:43:42 UTC",
+    "fetched_at_ist": "2026-08-18 02:13:42 IST",
     "item_count": 5,
-    "content_hash": "6d3ff2659e9de06a980afbe86342d5d31393750fe8ca33b1958c6013b8bac1ae",
-    "previous_hash": "283a9a59fa153f371041116fb86d328f405c992fde0e8fe69e5c70b9322cbbeb",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "16e9ecc3a75137cb4a0fd31f6f7267b69284fa3fd03f7c57f9630dbc239c5c99",
+    "previous_hash": "6d3ff2659e9de06a980afbe86342d5d31393750fe8ca33b1958c6013b8bac1ae",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49334991,
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "score": 69,
+      "comments": 11
+    },
     {
       "id": 49330781,
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 395,
-      "comments": 62
+      "score": 440,
+      "comments": 70
+    },
+    {
+      "id": 49336304,
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "score": 28,
+      "comments": 11
     },
     {
       "id": 49331423,
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 259,
+      "comments": 112
+    },
+    {
+      "id": 49336573,
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "score": 223,
-      "comments": 103
-    },
-    {
-      "id": 49334991,
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/abs/2608.13759",
-      "score": 25,
-      "comments": 4
-    },
-    {
-      "id": 49330597,
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 351,
-      "comments": 769
-    },
-    {
-      "id": 49331220,
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "score": 181,
-      "comments": 84
+      "comments": 111
     }
   ]
 }
