@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 18:14:46 UTC",
-    "fetched_at_ist": "2026-08-17 23:44:46 IST",
+    "fetched_at_utc": "2026-08-17 19:41:59 UTC",
+    "fetched_at_ist": "2026-08-18 01:11:59 IST",
     "item_count": 5,
-    "content_hash": "283a9a59fa153f371041116fb86d328f405c992fde0e8fe69e5c70b9322cbbeb",
-    "previous_hash": "3575245d5b8ab73e1d15a3f3a5a400da6ffad0ddddce2b86c5718a67771d6a6c",
+    "content_hash": "6d3ff2659e9de06a980afbe86342d5d31393750fe8ca33b1958c6013b8bac1ae",
+    "previous_hash": "283a9a59fa153f371041116fb86d328f405c992fde0e8fe69e5c70b9322cbbeb",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49330781,
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 327,
-      "comments": 49
+      "score": 395,
+      "comments": 62
     },
     {
       "id": 49331423,
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 183,
-      "comments": 85
+      "score": 223,
+      "comments": 103
+    },
+    {
+      "id": 49334991,
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "score": 25,
+      "comments": 4
     },
     {
       "id": 49330597,
       "title": "Incident with Github.com",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 246,
-      "comments": 722
+      "score": 351,
+      "comments": 769
     },
     {
       "id": 49331220,
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
-      "score": 136,
-      "comments": 56
-    },
-    {
-      "id": 49332751,
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "url": "https://speko.ai/",
-      "score": 55,
-      "comments": 25
+      "score": 181,
+      "comments": 84
     }
   ]
 }

@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-08-18 (last updated: 23:44 IST)
+
+## 📅 2026-08-18 (last updated: 01:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-08-17 23:44:45 IST | 0bc47eb2232a | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-17 23:44:46 IST | 283a9a59fa15 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-18 01:11:59 IST | 6d3ff2659e9d | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-08-17 23:44:45 IST | 7a7cbf106a88 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 156 stars today
 
 ### 📰 Hacker News Stories
-- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) — Score: 327
-- [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) — Score: 183
-- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) — Score: 246
-- [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/) — Score: 136
-- [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/) — Score: 55
+- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) — Score: 395
+- [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) — Score: 223
+- [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) — Score: 25
+- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) — Score: 351
+- [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/) — Score: 181
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,284.0 🟢 +1.92%
@@ -44,43 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $605.63 🔴 -0.03%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-08-17 (last updated: 23:44 IST)
 
 ### 🧪 Source Integrity Snapshot
