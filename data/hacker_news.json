@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 03:33:59 UTC",
-    "fetched_at_ist": "2026-08-17 09:03:59 IST",
+    "fetched_at_utc": "2026-08-17 08:44:00 UTC",
+    "fetched_at_ist": "2026-08-17 14:14:00 IST",
     "item_count": 5,
-    "content_hash": "3a25939011be86d23be0eabd70793b4f7e139c821130199fea72862fd3e72079",
-    "previous_hash": "e41c887f24c5b693728ef08c360199b986cbfc5feb230c2e8d4a883d6010ca49",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": true
+    "content_hash": "a55ebd20ed98c3b7e7b9b25b9f8f5630a31f995166e28fb8db9f0348c906586e",
+    "previous_hash": "3a25939011be86d23be0eabd70793b4f7e139c821130199fea72862fd3e72079",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49324985,
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 125,
-      "comments": 54
+      "score": 426,
+      "comments": 188
     },
     {
-      "id": 49325185,
-      "title": "The Life and Death of Direct File [pdf]",
-      "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-      "score": 108,
-      "comments": 36
+      "id": 49326156,
+      "title": "GIMP Development Update",
+      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+      "score": 117,
+      "comments": 52
     },
     {
-      "id": 49325714,
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "score": 16,
-      "comments": 2
+      "id": 49325789,
+      "title": "On A.I. regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "score": 41,
+      "comments": 27
+    },
+    {
+      "id": 49326816,
+      "title": "Linear algebra done right",
+      "url": "https://linear.axler.net/",
+      "score": 55,
+      "comments": 28
     },
     {
       "id": 49321717,
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "title": "A third world engineer responds to “RISC-V: They should have known better”",
       "url": "https://rvembedded.com/blog_post/12/",
-      "score": 400,
-      "comments": 219
-    },
-    {
-      "id": 49325384,
-      "title": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "score": 26,
-      "comments": 11
+      "score": 495,
+      "comments": 259
     }
   ]
 }
