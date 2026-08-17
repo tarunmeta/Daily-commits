@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 21:41:02 UTC",
-    "fetched_at_ist": "2026-08-18 03:11:02 IST",
+    "fetched_at_utc": "2026-08-17 22:33:45 UTC",
+    "fetched_at_ist": "2026-08-18 04:03:45 IST",
     "item_count": 5,
-    "content_hash": "18623f17b21a4ecb277793e512823736eb7cceb204f3a5c1d1ec747576073f57",
-    "previous_hash": "16e9ecc3a75137cb4a0fd31f6f7267b69284fa3fd03f7c57f9630dbc239c5c99",
+    "content_hash": "c2412b82d1949f86eb5090db4289487b70ef97cdf9aa424d8fa47d6f68e356b6",
+    "previous_hash": "18623f17b21a4ecb277793e512823736eb7cceb204f3a5c1d1ec747576073f57",
     "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49334991,
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "score": 101,
-      "comments": 21
+      "score": 126,
+      "comments": 24
+    },
+    {
+      "id": 49338459,
+      "title": "Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "score": 15,
+      "comments": 3
     },
     {
       "id": 49330781,
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 470,
-      "comments": 78
+      "score": 491,
+      "comments": 85
     },
     {
       "id": 49331423,
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 275,
-      "comments": 114
-    },
-    {
-      "id": 49336573,
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "score": 339,
-      "comments": 203
+      "score": 289,
+      "comments": 120
     },
     {
       "id": 49330597,
       "title": "Incident with Github.com",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 442,
-      "comments": 827
+      "score": 472,
+      "comments": 850
     }
   ]
 }
