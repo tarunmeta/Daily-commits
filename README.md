@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-17 17:44:39 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-17 18:14:46 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,387.0** ↑ (+0.60%)
+- Top GitHub repo: **harry0703/MoneyPrinterTurbo**
+- BTC: **$64,284.0** ↑ (+1.92%)
 - HN top story: **A Preview of DuckDB v2.0**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-14 06:00:06 UTC | `fcc5da6d14cc` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-17 17:44:39 UTC | `3575245d5b8a` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-08-17 13:27:54 UTC | `00843ea07a37` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 11 | 2026-08-17 18:14:45 UTC | `0bc47eb2232a` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-17 18:14:46 UTC | `283a9a59fa15` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-17 18:14:45 UTC | `7a7cbf106a88` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: ethereum
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-17` |
-| Commits Today | `37` / `100` |
-| Remaining Today | `63` |
-| Progress | `███████░░░░░░░░░░░░░` 37% |
+| Commits Today | `38` / `100` |
+| Remaining Today | `62` |
+| Progress | `███████░░░░░░░░░░░░░` 38% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-08-17 22:34:01 IST` |
+| Last Commit (IST) | `2026-08-17 23:14:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-14 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-08-15 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-08-16 | 42 | `████████░░░░░░░░░░░░` 42% |
-| 2026-08-17 | 37 | `███████░░░░░░░░░░░░░` 37% |
+| 2026-08-17 | 38 | `███████░░░░░░░░░░░░░` 38% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,387.0 | +0.60% | 🟢 |
-| Ethereum | $1,894.61 | +0.82% | 🟢 |
-| Solana | $75.25 | -0.11% | 🔴 |
-| Bnb | $603.23 | -0.68% | 🔴 |
+| Bitcoin | $64,284.0 | +1.92% | 🟢 |
+| Ethereum | $1,906.41 | +1.29% | 🟢 |
+| Solana | $75.85 | +1.09% | 🟢 |
+| Bnb | $605.63 | -0.03% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 4,475 stars today | 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadow… |
-| [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | 713 stars today | Graph-Native Infrastructure for Context and Accountable AI Systems |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 312 stars today | Public repository for Agent Skills |
-| [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | 769 stars today | 14MB foundation model for tiny devices; phones, wearables, smart home, and robot… |
-| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | 76 stars today | Fastest and only macOS Dictation app with on-device STT and custom trained AI en… |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | 328 stars today | Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3,… |
-| [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | 1,239 stars today | Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,… |
-| [megadose/holehe](https://github.com/megadose/holehe) | Python | 195 stars today | holehe allows you to check if the mail is used on different sites like twitter, … |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,275 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [usestrix/strix](https://github.com/usestrix/strix) | Python | 656 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 115 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 207 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 156 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | 239 stars today | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 147 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
+| [jundot/omlx](https://github.com/jundot/omlx) | Python | 96 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) | 288 | 43 |
-| [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) | 155 | 74 |
-| [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/) | 124 | 50 |
-| [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/) | 49 | 21 |
-| [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/) | 211 | 106 |
+| [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) | 327 | 49 |
+| [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) | 183 | 85 |
+| [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) | 246 | 722 |
+| [How to disable or avoid intrusive AI](https://www.librarian.net/notoai/) | 136 | 56 |
+| [Launch HN: Speko (YC S26) – OpenRouter for Voice AI](https://speko.ai/) | 55 | 25 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

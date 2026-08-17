@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 17:44:39 UTC",
-    "fetched_at_ist": "2026-08-17 23:14:39 IST",
+    "fetched_at_utc": "2026-08-17 18:14:46 UTC",
+    "fetched_at_ist": "2026-08-17 23:44:46 IST",
     "item_count": 5,
-    "content_hash": "3575245d5b8ab73e1d15a3f3a5a400da6ffad0ddddce2b86c5718a67771d6a6c",
-    "previous_hash": "1ac7c5623f22f3d389b00e7fbeb0b58fe23efe1ad7ce71650fb555ccb909ac78",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "283a9a59fa153f371041116fb86d328f405c992fde0e8fe69e5c70b9322cbbeb",
+    "previous_hash": "3575245d5b8ab73e1d15a3f3a5a400da6ffad0ddddce2b86c5718a67771d6a6c",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49330781,
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 288,
-      "comments": 43
+      "score": 327,
+      "comments": 49
     },
     {
       "id": 49331423,
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 155,
-      "comments": 74
+      "score": 183,
+      "comments": 85
+    },
+    {
+      "id": 49330597,
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "score": 246,
+      "comments": 722
     },
     {
       "id": 49331220,
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
-      "score": 124,
-      "comments": 50
+      "score": 136,
+      "comments": 56
     },
     {
       "id": 49332751,
       "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
       "url": "https://speko.ai/",
-      "score": 49,
-      "comments": 21
-    },
-    {
-      "id": 49329575,
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "score": 211,
-      "comments": 106
+      "score": 55,
+      "comments": 25
     }
   ]
 }
