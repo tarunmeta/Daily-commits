@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 08:44:00 UTC",
-    "fetched_at_ist": "2026-08-17 14:14:00 IST",
+    "fetched_at_utc": "2026-08-17 12:44:58 UTC",
+    "fetched_at_ist": "2026-08-17 18:14:58 IST",
     "item_count": 5,
-    "content_hash": "a55ebd20ed98c3b7e7b9b25b9f8f5630a31f995166e28fb8db9f0348c906586e",
-    "previous_hash": "3a25939011be86d23be0eabd70793b4f7e139c821130199fea72862fd3e72079",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "297e1f004c679becb134614a2a0cdca368ef63477025244cd563b222bbb10338",
+    "previous_hash": "a55ebd20ed98c3b7e7b9b25b9f8f5630a31f995166e28fb8db9f0348c906586e",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49324985,
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 426,
-      "comments": 188
-    },
-    {
-      "id": 49326156,
-      "title": "GIMP Development Update",
-      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "score": 117,
-      "comments": 52
+      "score": 589,
+      "comments": 281
     },
     {
       "id": 49325789,
       "title": "On A.I. regulation and messaging",
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "score": 41,
-      "comments": 27
+      "score": 130,
+      "comments": 224
     },
     {
-      "id": 49326816,
-      "title": "Linear algebra done right",
-      "url": "https://linear.axler.net/",
-      "score": 55,
-      "comments": 28
+      "id": 49324087,
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "score": 398,
+      "comments": 390
     },
     {
       "id": 49321717,
       "title": "A third world engineer responds to “RISC-V: They should have known better”",
       "url": "https://rvembedded.com/blog_post/12/",
-      "score": 495,
-      "comments": 259
+      "score": 551,
+      "comments": 281
+    },
+    {
+      "id": 49284983,
+      "title": "How Go detects struct copies with sync.noCopy",
+      "url": "https://func25.dev/posts/go-sync-nocopy/",
+      "score": 7,
+      "comments": 5
     }
   ]
 }

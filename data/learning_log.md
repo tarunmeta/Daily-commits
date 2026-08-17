@@ -30,18 +30,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-17 (last updated: 16:56 IST)
+
+## 📅 2026-08-17 (last updated: 18:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 11:30:06 IST | fcc5da6d14cc | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-17 14:14:00 IST | a55ebd20ed98 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-17 18:14:58 IST | 297e1f004c67 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-17 16:56:21 IST | c41571778c70 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -57,11 +58,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 76 stars today
 
 ### 📰 Hacker News Stories
-- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — Score: 426
-- [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/) — Score: 117
-- [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762) — Score: 41
-- [Linear algebra done right](https://linear.axler.net/) — Score: 55
-- [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/) — Score: 495
+- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/) — Score: 589
+- [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762) — Score: 130
+- [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) — Score: 398
+- [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/) — Score: 551
+- [How Go detects struct copies with sync.noCopy](https://func25.dev/posts/go-sync-nocopy/) — Score: 7
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $63,620.0 🟢 +1.08%
