@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-17 09:24:31 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-17 11:26:21 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **cathrynlavery/diagram-design**
-- BTC: **$63,325.0** ↑ (+0.49%)
+- BTC: **$63,620.0** ↑ (+1.08%)
 - HN top story: **Qwen 3.8 27B is excellent, but it defaults to overthinking things**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-14 06:00:06 UTC | `fcc5da6d14cc` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-08-17 08:44:00 UTC | `a55ebd20ed98` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-08-17 09:24:31 UTC | `063a233643a4` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-08-17 11:26:21 UTC | `c41571778c70` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-17` |
-| Commits Today | `25` / `100` |
-| Remaining Today | `75` |
-| Progress | `█████░░░░░░░░░░░░░░░` 25% |
-| Streak | `75` day(s) |
-| Last Commit (IST) | `2026-08-17 15:35:01 IST` |
+| Commits Today | `26` / `100` |
+| Remaining Today | `74` |
+| Progress | `█████░░░░░░░░░░░░░░░` 26% |
+| Streak | `74` day(s) |
+| Last Commit (IST) | `2026-08-17 16:18:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-14 | 19 | `███░░░░░░░░░░░░░░░░░` 19% |
 | 2026-08-15 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-08-16 | 42 | `████████░░░░░░░░░░░░` 42% |
-| 2026-08-17 | 25 | `█████░░░░░░░░░░░░░░░` 25% |
+| 2026-08-17 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $63,325.0 | +0.49% | 🟢 |
-| Ethereum | $1,893.56 | +0.71% | 🟢 |
-| Solana | $75.28 | -0.12% | 🔴 |
-| Bnb | $604.15 | -0.44% | 🔴 |
+| Bitcoin | $63,620.0 | +1.08% | 🟢 |
+| Ethereum | $1,903.99 | +1.35% | 🟢 |
+| Solana | $75.72 | +0.65% | 🟢 |
+| Bnb | $604.31 | -0.33% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
