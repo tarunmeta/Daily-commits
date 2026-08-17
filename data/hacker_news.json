@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 12:44:58 UTC",
-    "fetched_at_ist": "2026-08-17 18:14:58 IST",
+    "fetched_at_utc": "2026-08-17 14:44:42 UTC",
+    "fetched_at_ist": "2026-08-17 20:14:42 IST",
     "item_count": 5,
-    "content_hash": "297e1f004c679becb134614a2a0cdca368ef63477025244cd563b222bbb10338",
-    "previous_hash": "a55ebd20ed98c3b7e7b9b25b9f8f5630a31f995166e28fb8db9f0348c906586e",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "45e2c79b8cfc9dbe388e1c178cad69749b240315e1d5277e400fe586a5615cac",
+    "previous_hash": "297e1f004c679becb134614a2a0cdca368ef63477025244cd563b222bbb10338",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49324985,
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "score": 589,
-      "comments": 281
+      "id": 49329575,
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+      "score": 120,
+      "comments": 63
     },
     {
-      "id": 49325789,
-      "title": "On A.I. regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "score": 130,
-      "comments": 224
+      "id": 49331222,
+      "title": "Apple's App Tracking Transparency treated its own apps better than rivals",
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "score": 20,
+      "comments": 2
     },
     {
-      "id": 49324087,
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "id": 49330684,
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
       "score": 398,
-      "comments": 390
+      "comments": 310
     },
     {
-      "id": 49321717,
-      "title": "A third world engineer responds to “RISC-V: They should have known better”",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "score": 551,
-      "comments": 281
+      "id": 49331423,
+      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "score": 10,
+      "comments": 2
     },
     {
-      "id": 49284983,
-      "title": "How Go detects struct copies with sync.noCopy",
-      "url": "https://func25.dev/posts/go-sync-nocopy/",
-      "score": 7,
-      "comments": 5
+      "id": 49330781,
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "score": 17,
+      "comments": 0
     }
   ]
 }
