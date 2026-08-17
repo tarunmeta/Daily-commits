@@ -2,16 +2,16 @@
   "schema_version": 2,
   "date_ist": "2026-08-17",
   "target_commits_per_day": 100,
-  "commits_today": 13,
-  "remaining_today": 87,
+  "commits_today": 14,
+  "remaining_today": 86,
   "status": "on-track",
   "streak_days": 76,
   "commit_count_source": "git-history",
   "pending_commit_included": 1,
-  "last_commit_utc": "2026-08-16 23:26:54 UTC",
-  "last_commit_ist": "2026-08-17 04:56:54 IST",
-  "last_data_update_utc": "2026-08-16 23:26:54 UTC",
-  "last_data_update_ist": "2026-08-17 04:56:54 IST",
+  "last_commit_utc": "2026-08-16 23:47:05 UTC",
+  "last_commit_ist": "2026-08-17 05:17:05 IST",
+  "last_data_update_utc": "2026-08-17 01:19:07 UTC",
+  "last_data_update_ist": "2026-08-17 06:49:07 IST",
   "sources": {
     "github": {
       "label": "GitHub Trending",
@@ -36,10 +36,10 @@
     "crypto": {
       "label": "Crypto",
       "item_count": 4,
-      "last_fetch_utc": "2026-08-16 23:26:54 UTC",
-      "last_fetch_ist": "2026-08-17 04:56:54 IST",
-      "content_hash": "cae5df47d9839f955fba0a61a9db4639023b5450e3e69f99ebc40aea7e25ba85",
-      "content_hash_short": "cae5df47d983",
+      "last_fetch_utc": "2026-08-17 01:19:07 UTC",
+      "last_fetch_ist": "2026-08-17 06:49:07 IST",
+      "content_hash": "52ab55a86d9d901978b2ce25d9133041edccb0d96c669261e64bb4fe47a0b260",
+      "content_hash_short": "52ab55a86d9d",
       "change_flag": true,
       "change_summary": "4 assets moved"
     }
