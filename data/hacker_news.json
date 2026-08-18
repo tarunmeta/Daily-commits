@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-17 23:31:05 UTC",
-    "fetched_at_ist": "2026-08-18 05:01:05 IST",
+    "fetched_at_utc": "2026-08-18 01:43:58 UTC",
+    "fetched_at_ist": "2026-08-18 07:13:58 IST",
     "item_count": 5,
-    "content_hash": "8fdf0ec01a79872f08f91c445b1b663d2dd1151e070ac6647836937746765ab5",
-    "previous_hash": "c2412b82d1949f86eb5090db4289487b70ef97cdf9aa424d8fa47d6f68e356b6",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "8e663384be2c18ba2993294a82ec7d9d86f5dc149d524a4e6c3b04132f9ce673",
+    "previous_hash": "8fdf0ec01a79872f08f91c445b1b663d2dd1151e070ac6647836937746765ab5",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49338459,
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 91,
-      "comments": 72
+      "score": 216,
+      "comments": 152
     },
     {
       "id": 49338328,
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 67,
-      "comments": 19
+      "score": 141,
+      "comments": 65
     },
     {
-      "id": 49334991,
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/abs/2608.13759",
-      "score": 143,
-      "comments": 30
-    },
-    {
-      "id": 49330781,
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 502,
-      "comments": 87
+      "id": 49337602,
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "score": 112,
+      "comments": 50
     },
     {
       "id": 49338285,
       "title": "Fairphone 6 and PostmarketOS working main camera",
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 40,
-      "comments": 7
+      "score": 79,
+      "comments": 19
+    },
+    {
+      "id": 49330781,
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "score": 536,
+      "comments": 96
     }
   ]
 }
