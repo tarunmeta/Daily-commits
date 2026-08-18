@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 17:42:59 UTC",
-    "fetched_at_ist": "2026-08-18 23:12:59 IST",
+    "fetched_at_utc": "2026-08-18 18:12:22 UTC",
+    "fetched_at_ist": "2026-08-18 23:42:22 IST",
     "item_count": 5,
-    "content_hash": "df0d87cf811448a54f48e0c0b9500b94c9f4b701381d2704253c81a169c18234",
-    "previous_hash": "189612ac5b83a15e1e59e4c47157777adaf1ac553cb677e1d9c0b683b952553c",
+    "content_hash": "cc3f29cfa789bff791c1fcc50517d2dcc5a72a39e21d537d9ea3e755846ce83e",
+    "previous_hash": "df0d87cf811448a54f48e0c0b9500b94c9f4b701381d2704253c81a169c18234",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49348751,
+      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "score": 110,
+      "comments": 62
+    },
+    {
+      "id": 49349147,
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "score": 58,
+      "comments": 28
+    },
     {
       "id": 49344825,
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "score": 278,
-      "comments": 48
-    },
-    {
-      "id": 49345263,
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 477,
-      "comments": 325
+      "score": 288,
+      "comments": 50
     },
     {
       "id": 49345220,
       "title": "Fixing a bricked Framework laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 213,
-      "comments": 128
+      "score": 232,
+      "comments": 141
     },
     {
-      "id": 49334209,
-      "title": "Cursor launches Origin, GitHub alternative",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "score": 213,
-      "comments": 158
-    },
-    {
-      "id": 49348136,
-      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-      "url": "https://machine0.io",
-      "score": 18,
-      "comments": 10
+      "id": 49345263,
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 519,
+      "comments": 363
     }
   ]
 }

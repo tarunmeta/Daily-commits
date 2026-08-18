@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-18 12:01:13 UTC",
-    "fetched_at_ist": "2026-08-18 17:31:13 IST",
+    "fetched_at_utc": "2026-08-18 18:12:21 UTC",
+    "fetched_at_ist": "2026-08-18 23:42:21 IST",
     "item_count": 13,
-    "content_hash": "8b9f0a3f81e4e1259bf98da228c9dbee171316d7ccfbd221a98c02433692d645",
-    "previous_hash": "61da12acc0b5fad7a6968b2233bbcd04eb25a2242887d6626cdf6cacb9a4c1a5",
-    "new_repos_vs_previous": 8,
+    "content_hash": "cc3b13c2526fbe7b86a02dab8884df79910f27dad6ecb3a13e4c41fd03411778",
+    "previous_hash": "8b9f0a3f81e4e1259bf98da228c9dbee171316d7ccfbd221a98c02433692d645",
+    "new_repos_vs_previous": 0,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,7 +15,7 @@
       "name": "harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "1,189 stars today"
+      "stars_today": "2,306 stars today"
     },
     {
       "name": "chaitanyagiri/munder-difflin",
@@ -27,25 +27,25 @@
       "name": "akitaonrails/ai-memory",
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars_today": "207 stars today"
+      "stars_today": "730 stars today"
     },
     {
       "name": "volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_today": "239 stars today"
+      "stars_today": "298 stars today"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "198 stars today"
+      "stars_today": "726 stars today"
     },
     {
       "name": "public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_today": "1,907 stars today"
+      "stars_today": "1,139 stars today"
     },
     {
       "name": "basecamp/omarchy",
@@ -57,7 +57,7 @@
       "name": "agalwood/Motrix",
       "description": "A full-featured download manager.",
       "language": "TypeScript",
-      "stars_today": "344 stars today"
+      "stars_today": "607 stars today"
     },
     {
       "name": "NawfalMotii79/PLFM_RADAR",
@@ -69,7 +69,7 @@
       "name": "jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_today": "78 stars today"
+      "stars_today": "366 stars today"
     },
     {
       "name": "bojieli/ai-agent-book",
@@ -87,7 +87,7 @@
       "name": "OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_today": "682 stars today"
+      "stars_today": "288 stars today"
     }
   ]
 }
