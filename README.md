@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-18 05:30:22 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-18 06:01:40 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$64,063.0** ↑ (+1.20%)
+- BTC: **$64,189.0** ↑ (+1.14%)
 - HN top story: **How Bluesky draws its logo on screenshots**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-08-17 18:14:45 UTC | `0bc47eb2232a` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-18 05:30:22 UTC | `b6a60c594db9` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-08-18 03:28:29 UTC | `c276a65b2d41` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 11 | 2026-08-18 06:01:39 UTC | `61da12acc0b5` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-18 06:01:40 UTC | `fabf1af93036` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-18 06:01:39 UTC | `81b15478fdd4` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-18` |
-| Commits Today | `17` / `100` |
-| Remaining Today | `83` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
+| Commits Today | `18` / `100` |
+| Remaining Today | `82` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-08-18 10:22:17 IST` |
+| Last Commit (IST) | `2026-08-18 11:00:22 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-15 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-08-16 | 42 | `████████░░░░░░░░░░░░` 42% |
 | 2026-08-17 | 38 | `███████░░░░░░░░░░░░░` 38% |
-| 2026-08-18 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
+| 2026-08-18 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,063.0 | +1.20% | 🟢 |
-| Ethereum | $1,889.19 | -0.42% | 🔴 |
-| Solana | $75.34 | -0.11% | 🔴 |
-| Bnb | $602.69 | -0.18% | 🔴 |
+| Bitcoin | $64,189.0 | +1.14% | 🟢 |
+| Ethereum | $1,894.18 | -0.20% | 🔴 |
+| Solana | $75.68 | +0.41% | 🟢 |
+| Bnb | $603.08 | -0.36% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,275 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
-| [usestrix/strix](https://github.com/usestrix/strix) | Python | 656 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 115 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,189 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [usestrix/strix](https://github.com/usestrix/strix) | Python | 598 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 120 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 207 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 156 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | 239 stars today | Hundreds of models & providers. One command to find what runs on your hardware. |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 147 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
-| [jundot/omlx](https://github.com/jundot/omlx) | Python | 96 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 198 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
+| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | 198 stars today | Hundreds of models & providers. One command to find what runs on your hardware. |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 218 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
+| [jundot/omlx](https://github.com/jundot/omlx) | Python | 78 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | 355 | 239 |
-| [I don't enjoy the Internet any more](https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/) | 6 | 1 |
-| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | 285 | 145 |
-| [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) | 238 | 107 |
-| [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet) | 37 | 21 |
+| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | 377 | 252 |
+| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | 304 | 157 |
+| [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) | 255 | 111 |
+| [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet) | 40 | 26 |
+| [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/) | 43 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
