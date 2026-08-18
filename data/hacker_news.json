@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 18:12:22 UTC",
-    "fetched_at_ist": "2026-08-18 23:42:22 IST",
+    "fetched_at_utc": "2026-08-18 19:33:08 UTC",
+    "fetched_at_ist": "2026-08-19 01:03:08 IST",
     "item_count": 5,
-    "content_hash": "cc3f29cfa789bff791c1fcc50517d2dcc5a72a39e21d537d9ea3e755846ce83e",
-    "previous_hash": "df0d87cf811448a54f48e0c0b9500b94c9f4b701381d2704253c81a169c18234",
+    "content_hash": "1c0d44aeae95d390fafec7f422b48d809428fc7c1e3bb2c08c9cfc0937aa6268",
+    "previous_hash": "cc3f29cfa789bff791c1fcc50517d2dcc5a72a39e21d537d9ea3e755846ce83e",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49348751,
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "score": 110,
-      "comments": 62
-    },
-    {
-      "id": 49349147,
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "score": 58,
-      "comments": 28
+      "id": 49349898,
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 76,
+      "comments": 10
     },
     {
       "id": 49344825,
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "score": 288,
-      "comments": 50
-    },
-    {
-      "id": 49345220,
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 232,
-      "comments": 141
+      "score": 315,
+      "comments": 52
     },
     {
       "id": 49345263,
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 519,
-      "comments": 363
+      "score": 599,
+      "comments": 412
+    },
+    {
+      "id": 49349984,
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "score": 88,
+      "comments": 55
+    },
+    {
+      "id": 49345220,
+      "title": "Fixing a bricked Framework laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 267,
+      "comments": 176
     }
   ]
 }
