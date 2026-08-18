@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 08:37:11 UTC",
-    "fetched_at_ist": "2026-08-18 14:07:11 IST",
+    "fetched_at_utc": "2026-08-18 11:32:00 UTC",
+    "fetched_at_ist": "2026-08-18 17:02:00 IST",
     "item_count": 5,
-    "content_hash": "c800192c01e2bcfb9b9bbc79cc277e2da52ea446c59fb0425afe41b1f6678e90",
-    "previous_hash": "fabf1af930364b544bfe88053e1573a536cb40df824389c1a304abab979755cb",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "8a322f2816ac39e3b3588302b907a8637e1339259581f60d819f14936cde8ceb",
+    "previous_hash": "c800192c01e2bcfb9b9bbc79cc277e2da52ea446c59fb0425afe41b1f6678e90",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49342719,
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "score": 201,
+      "comments": 49
+    },
+    {
+      "id": 49342530,
+      "title": "Rethinking Database Programming",
+      "url": "https://acadia.engineering/blog/rethinking-database-programming",
+      "score": 80,
+      "comments": 29
+    },
     {
       "id": 49338459,
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 467,
-      "comments": 320
+      "score": 555,
+      "comments": 362
+    },
+    {
+      "id": 49343559,
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "score": 76,
+      "comments": 32
     },
     {
       "id": 49337602,
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 410,
-      "comments": 239
-    },
-    {
-      "id": 49338328,
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 320,
-      "comments": 134
-    },
-    {
-      "id": 49338285,
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 175,
-      "comments": 41
-    },
-    {
-      "id": 49330781,
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 622,
-      "comments": 112
+      "score": 483,
+      "comments": 302
     }
   ]
 }

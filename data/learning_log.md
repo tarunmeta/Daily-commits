@@ -28,18 +28,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-18 (last updated: 15:59 IST)
+
+## 📅 2026-08-18 (last updated: 17:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-08-18 11:31:39 IST | 61da12acc0b5 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-18 14:07:11 IST | c800192c01e2 | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-18 17:02:00 IST | 8a322f2816ac | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-18 15:59:02 IST | 8639f74bb559 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -55,11 +56,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 198 stars today
 
 ### 📰 Hacker News Stories
-- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) — Score: 467
-- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) — Score: 410
-- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) — Score: 320
-- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) — Score: 175
-- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) — Score: 622
+- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) — Score: 201
+- [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming) — Score: 80
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) — Score: 555
+- [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) — Score: 76
+- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) — Score: 483
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,087.0 🟢 +1.25%
