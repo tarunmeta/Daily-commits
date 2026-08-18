@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 01:43:58 UTC",
-    "fetched_at_ist": "2026-08-18 07:13:58 IST",
+    "fetched_at_utc": "2026-08-18 02:42:20 UTC",
+    "fetched_at_ist": "2026-08-18 08:12:20 IST",
     "item_count": 5,
-    "content_hash": "8e663384be2c18ba2993294a82ec7d9d86f5dc149d524a4e6c3b04132f9ce673",
-    "previous_hash": "8fdf0ec01a79872f08f91c445b1b663d2dd1151e070ac6647836937746765ab5",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "2926815e6a930f7e8cbddbe50bbc102e99ae1397eb42a5a1695503fe943732f5",
+    "previous_hash": "8e663384be2c18ba2993294a82ec7d9d86f5dc149d524a4e6c3b04132f9ce673",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49338459,
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 216,
-      "comments": 152
+      "score": 252,
+      "comments": 187
     },
     {
       "id": 49338328,
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 141,
-      "comments": 65
+      "score": 170,
+      "comments": 75
     },
     {
       "id": 49337602,
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 112,
-      "comments": 50
-    },
-    {
-      "id": 49338285,
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 79,
-      "comments": 19
+      "score": 163,
+      "comments": 90
     },
     {
       "id": 49330781,
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 536,
-      "comments": 96
+      "score": 555,
+      "comments": 98
+    },
+    {
+      "id": 49338285,
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "score": 88,
+      "comments": 23
     }
   ]
 }
