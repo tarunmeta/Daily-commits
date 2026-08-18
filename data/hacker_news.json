@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 12:01:17 UTC",
-    "fetched_at_ist": "2026-08-18 17:31:17 IST",
+    "fetched_at_utc": "2026-08-18 14:36:34 UTC",
+    "fetched_at_ist": "2026-08-18 20:06:34 IST",
     "item_count": 5,
-    "content_hash": "30cb28ba9d2a0f1d0e000ded46ef0a151d4dae2d93c7a16f9cbd5e0965e4f3ab",
-    "previous_hash": "8a322f2816ac39e3b3588302b907a8637e1339259581f60d819f14936cde8ceb",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "e8a04b77cf130c4a88625ad4f3ec76597178ea576254d6f8ff00e4952cdfbcc6",
+    "previous_hash": "30cb28ba9d2a0f1d0e000ded46ef0a151d4dae2d93c7a16f9cbd5e0965e4f3ab",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49344825,
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "score": 128,
+      "comments": 23
+    },
+    {
+      "id": 49345263,
+      "title": "The Amazon Tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 80,
+      "comments": 40
+    },
+    {
+      "id": 49345220,
+      "title": "Fixing a Bricked Framework Laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 55,
+      "comments": 15
+    },
     {
       "id": 49342719,
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "score": 231,
-      "comments": 63
+      "score": 348,
+      "comments": 116
     },
     {
-      "id": 49338459,
-      "title": "How Bluesky draws its logo on screenshots",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 566,
-      "comments": 369
-    },
-    {
-      "id": 49337602,
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 497,
-      "comments": 313
-    },
-    {
-      "id": 49343559,
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "score": 111,
-      "comments": 54
-    },
-    {
-      "id": 49342530,
-      "title": "Rethinking Database Programming",
-      "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "score": 91,
-      "comments": 40
+      "id": 49345476,
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "score": 23,
+      "comments": 3
     }
   ]
 }
