@@ -2,11 +2,11 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 16:32:18 UTC",
-    "fetched_at_ist": "2026-08-18 22:02:18 IST",
+    "fetched_at_utc": "2026-08-18 17:42:59 UTC",
+    "fetched_at_ist": "2026-08-18 23:12:59 IST",
     "item_count": 5,
-    "content_hash": "189612ac5b83a15e1e59e4c47157777adaf1ac553cb677e1d9c0b683b952553c",
-    "previous_hash": "e8a04b77cf130c4a88625ad4f3ec76597178ea576254d6f8ff00e4952cdfbcc6",
+    "content_hash": "df0d87cf811448a54f48e0c0b9500b94c9f4b701381d2704253c81a169c18234",
+    "previous_hash": "189612ac5b83a15e1e59e4c47157777adaf1ac553cb677e1d9c0b683b952553c",
     "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
@@ -15,36 +15,36 @@
       "id": 49344825,
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "score": 220,
-      "comments": 39
-    },
-    {
-      "id": 49345220,
-      "title": "Fixing a Bricked Framework Laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 167,
-      "comments": 85
+      "score": 278,
+      "comments": 48
     },
     {
       "id": 49345263,
-      "title": "The Amazon Tax",
+      "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 364,
-      "comments": 264
+      "score": 477,
+      "comments": 325
     },
     {
-      "id": 49348055,
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "score": 11,
-      "comments": 1
+      "id": 49345220,
+      "title": "Fixing a bricked Framework laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "score": 213,
+      "comments": 128
     },
     {
-      "id": 49336392,
-      "title": "How I Under-Engineered My Book",
-      "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
-      "score": 29,
-      "comments": 4
+      "id": 49334209,
+      "title": "Cursor launches Origin, GitHub alternative",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "score": 213,
+      "comments": 158
+    },
+    {
+      "id": 49348136,
+      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io",
+      "score": 18,
+      "comments": 10
     }
   ]
 }
