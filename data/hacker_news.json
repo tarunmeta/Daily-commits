@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 21:32:01 UTC",
-    "fetched_at_ist": "2026-08-19 03:02:01 IST",
+    "fetched_at_utc": "2026-08-18 22:31:30 UTC",
+    "fetched_at_ist": "2026-08-19 04:01:30 IST",
     "item_count": 5,
-    "content_hash": "75a6a10c8e16f97992e6f7f26d25de947ba0b0af7e86f048ca6170480728b42f",
-    "previous_hash": "c500b5f105ea733c18b6d3d9c796ec96ba87582ee0768256b7406dc0d7be621f",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "773878dd3741cd44f21f71973735c5512e9ea5dc24a2962ff0e1653c36221900",
+    "previous_hash": "75a6a10c8e16f97992e6f7f26d25de947ba0b0af7e86f048ca6170480728b42f",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49351324,
       "title": "Beware Management Consultants",
       "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 288,
-      "comments": 47
-    },
-    {
-      "id": 49349898,
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 155,
-      "comments": 19
-    },
-    {
-      "id": 49345263,
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 732,
-      "comments": 459
+      "score": 370,
+      "comments": 71
     },
     {
       "id": 49352806,
       "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
       "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "score": 8,
-      "comments": 2
+      "score": 63,
+      "comments": 35
     },
     {
-      "id": 49344825,
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "score": 360,
-      "comments": 56
+      "id": 49321298,
+      "title": "Being Ambitious and Being a Dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 88,
+      "comments": 33
+    },
+    {
+      "id": 49353221,
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "score": 19,
+      "comments": 4
+    },
+    {
+      "id": 49349898,
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 181,
+      "comments": 23
     }
   ]
 }
