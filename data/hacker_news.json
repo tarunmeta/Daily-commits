@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 20:31:22 UTC",
-    "fetched_at_ist": "2026-08-19 02:01:22 IST",
+    "fetched_at_utc": "2026-08-18 21:32:01 UTC",
+    "fetched_at_ist": "2026-08-19 03:02:01 IST",
     "item_count": 5,
-    "content_hash": "c500b5f105ea733c18b6d3d9c796ec96ba87582ee0768256b7406dc0d7be621f",
-    "previous_hash": "1c0d44aeae95d390fafec7f422b48d809428fc7c1e3bb2c08c9cfc0937aa6268",
+    "content_hash": "75a6a10c8e16f97992e6f7f26d25de947ba0b0af7e86f048ca6170480728b42f",
+    "previous_hash": "c500b5f105ea733c18b6d3d9c796ec96ba87582ee0768256b7406dc0d7be621f",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49351324,
       "title": "Beware Management Consultants",
       "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 96,
-      "comments": 17
+      "score": 288,
+      "comments": 47
     },
     {
       "id": 49349898,
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
       "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 121,
-      "comments": 14
+      "score": 155,
+      "comments": 19
     },
     {
       "id": 49345263,
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 661,
-      "comments": 437
+      "score": 732,
+      "comments": 459
+    },
+    {
+      "id": 49352806,
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "score": 8,
+      "comments": 2
     },
     {
       "id": 49344825,
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "score": 329,
-      "comments": 53
-    },
-    {
-      "id": 49345220,
-      "title": "Fixing a bricked Framework laptop",
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 287,
-      "comments": 191
+      "score": 360,
+      "comments": 56
     }
   ]
 }
