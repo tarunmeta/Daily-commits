@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 22:31:30 UTC",
-    "fetched_at_ist": "2026-08-19 04:01:30 IST",
+    "fetched_at_utc": "2026-08-18 23:30:16 UTC",
+    "fetched_at_ist": "2026-08-19 05:00:16 IST",
     "item_count": 5,
-    "content_hash": "773878dd3741cd44f21f71973735c5512e9ea5dc24a2962ff0e1653c36221900",
-    "previous_hash": "75a6a10c8e16f97992e6f7f26d25de947ba0b0af7e86f048ca6170480728b42f",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "ab0b0b1f8c49afecee4004172a861b4f0cdf0903bcba3ca5553f0f36fe29a0a6",
+    "previous_hash": "773878dd3741cd44f21f71973735c5512e9ea5dc24a2962ff0e1653c36221900",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49351324,
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 370,
-      "comments": 71
-    },
-    {
-      "id": 49352806,
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "score": 63,
-      "comments": 35
-    },
-    {
-      "id": 49321298,
-      "title": "Being Ambitious and Being a Dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 88,
-      "comments": 33
-    },
     {
       "id": 49353221,
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 19,
-      "comments": 4
+      "score": 58,
+      "comments": 11
     },
     {
-      "id": 49349898,
-      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 181,
-      "comments": 23
+      "id": 49321298,
+      "title": "Being ambitious and being a dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "score": 146,
+      "comments": 66
+    },
+    {
+      "id": 49345263,
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 831,
+      "comments": 506
+    },
+    {
+      "id": 49353339,
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "score": 41,
+      "comments": 22
+    },
+    {
+      "id": 49349984,
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "score": 195,
+      "comments": 124
     }
   ]
 }
