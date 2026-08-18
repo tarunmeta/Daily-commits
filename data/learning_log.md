@@ -35,18 +35,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-18 (last updated: 20:06 IST)
+
+## 📅 2026-08-18 (last updated: 22:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-08-18 17:31:13 IST | 8b9f0a3f81e4 | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-18 20:06:34 IST | e8a04b77cf13 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-18 22:02:18 IST | 189612ac5b83 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-18 17:31:14 IST | ee562bfaa3eb | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -62,11 +63,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 198 stars today
 
 ### 📰 Hacker News Stories
-- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) — Score: 128
-- [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/) — Score: 80
-- [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) — Score: 55
-- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) — Score: 348
-- [Python Polars Cheatsheet (based on our O'Reilly book)](https://opensource.posit.co/resources/cheatsheets/polars/) — Score: 23
+- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) — Score: 220
+- [Fixing a Bricked Framework Laptop](https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/) — Score: 167
+- [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/) — Score: 364
+- [Apple announces changes for apps in the European Union](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/) — Score: 11
+- [How I Under-Engineered My Book](https://chriskiehl.com/article/how-i-under-engineered-my-book) — Score: 29
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,295.0 🟢 +1.14%

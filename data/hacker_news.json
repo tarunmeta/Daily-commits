@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 14:36:34 UTC",
-    "fetched_at_ist": "2026-08-18 20:06:34 IST",
+    "fetched_at_utc": "2026-08-18 16:32:18 UTC",
+    "fetched_at_ist": "2026-08-18 22:02:18 IST",
     "item_count": 5,
-    "content_hash": "e8a04b77cf130c4a88625ad4f3ec76597178ea576254d6f8ff00e4952cdfbcc6",
-    "previous_hash": "30cb28ba9d2a0f1d0e000ded46ef0a151d4dae2d93c7a16f9cbd5e0965e4f3ab",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "189612ac5b83a15e1e59e4c47157777adaf1ac553cb677e1d9c0b683b952553c",
+    "previous_hash": "e8a04b77cf130c4a88625ad4f3ec76597178ea576254d6f8ff00e4952cdfbcc6",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49344825,
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "score": 128,
-      "comments": 23
-    },
-    {
-      "id": 49345263,
-      "title": "The Amazon Tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 80,
-      "comments": 40
+      "score": 220,
+      "comments": 39
     },
     {
       "id": 49345220,
       "title": "Fixing a Bricked Framework Laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "score": 55,
-      "comments": 15
+      "score": 167,
+      "comments": 85
     },
     {
-      "id": 49342719,
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "score": 348,
-      "comments": 116
+      "id": 49345263,
+      "title": "The Amazon Tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "score": 364,
+      "comments": 264
     },
     {
-      "id": 49345476,
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "score": 23,
-      "comments": 3
+      "id": 49348055,
+      "title": "Apple announces changes for apps in the European Union",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+      "score": 11,
+      "comments": 1
+    },
+    {
+      "id": 49336392,
+      "title": "How I Under-Engineered My Book",
+      "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
+      "score": 29,
+      "comments": 4
     }
   ]
 }
