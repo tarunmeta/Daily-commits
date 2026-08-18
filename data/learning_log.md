@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-18 (last updated: 08:58 IST)
+
+## 📅 2026-08-18 (last updated: 11:00 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-08-17 23:44:45 IST | 0bc47eb2232a | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-18 08:12:20 IST | 2926815e6a93 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-18 11:00:22 IST | b6a60c594db9 | +2 new stories, top changed: no |
 | Crypto | 4 | 2026-08-18 08:58:29 IST | c276a65b2d41 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 156 stars today
 
 ### 📰 Hacker News Stories
-- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) — Score: 252
-- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) — Score: 170
-- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) — Score: 163
-- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) — Score: 555
-- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) — Score: 88
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) — Score: 355
+- [I don't enjoy the Internet any more](https://btao.org/posts/2026-08-17-i-dont-enjoy-the-internet/) — Score: 6
+- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) — Score: 285
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) — Score: 238
+- [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet) — Score: 37
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,063.0 🟢 +1.20%
