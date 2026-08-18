@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-18 06:01:39 UTC",
-    "fetched_at_ist": "2026-08-18 11:31:39 IST",
-    "item_count": 11,
-    "content_hash": "61da12acc0b5fad7a6968b2233bbcd04eb25a2242887d6626cdf6cacb9a4c1a5",
-    "previous_hash": "0bc47eb2232a7f0a046b9d1fd610cb19d40a1bcf51971a3197b2b34192dccecc",
-    "new_repos_vs_previous": 0,
+    "fetched_at_utc": "2026-08-18 12:01:13 UTC",
+    "fetched_at_ist": "2026-08-18 17:31:13 IST",
+    "item_count": 13,
+    "content_hash": "8b9f0a3f81e4e1259bf98da228c9dbee171316d7ccfbd221a98c02433692d645",
+    "previous_hash": "61da12acc0b5fad7a6968b2233bbcd04eb25a2242887d6626cdf6cacb9a4c1a5",
+    "new_repos_vs_previous": 8,
     "top_repo_changed": false
   },
   "repos": [
@@ -18,16 +18,10 @@
       "stars_today": "1,189 stars today"
     },
     {
-      "name": "usestrix/strix",
-      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "language": "Python",
-      "stars_today": "598 stars today"
-    },
-    {
-      "name": "nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "language": "Rust",
-      "stars_today": "120 stars today"
+      "name": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": "256 stars today"
     },
     {
       "name": "akitaonrails/ai-memory",
@@ -36,22 +30,40 @@
       "stars_today": "207 stars today"
     },
     {
+      "name": "volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars_today": "239 stars today"
+    },
+    {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
       "stars_today": "198 stars today"
     },
     {
-      "name": "AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "stars_today": "198 stars today"
+      "name": "public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars_today": "1,907 stars today"
     },
     {
-      "name": "santifer/career-ops",
-      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-      "language": "JavaScript",
-      "stars_today": "218 stars today"
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars_today": "710 stars today"
+    },
+    {
+      "name": "agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars_today": "344 stars today"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars_today": "204 stars today"
     },
     {
       "name": "jundot/omlx",
@@ -60,22 +72,22 @@
       "stars_today": "78 stars today"
     },
     {
-      "name": "immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "language": "TypeScript",
-      "stars_today": "175 stars today"
+      "name": "bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars_today": "556 stars today"
     },
     {
-      "name": "cordiverse/cordis",
-      "description": "Meta-Framework of Spatiotemporal Composability",
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "description": "No description",
       "language": "TypeScript",
-      "stars_today": "957 stars today"
+      "stars_today": "543 stars today"
     },
     {
-      "name": "agalwood/Motrix",
-      "description": "A full-featured download manager.",
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars_today": "344 stars today"
+      "stars_today": "682 stars today"
     }
   ]
 }

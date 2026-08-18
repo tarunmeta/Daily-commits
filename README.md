@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-18 11:32:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-18 12:01:17 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$64,087.0** ↑ (+1.25%)
+- BTC: **$64,295.0** ↑ (+1.14%)
 - HN top story: **Linux 7.3 improves performance when running out of vRAM**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-08-18 06:01:39 UTC | `61da12acc0b5` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-18 11:32:00 UTC | `8a322f2816ac` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-18 10:29:02 UTC | `8639f74bb559` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 13 | 2026-08-18 12:01:13 UTC | `8b9f0a3f81e4` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-18 12:01:17 UTC | `30cb28ba9d2a` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-08-18 12:01:14 UTC | `ee562bfaa3eb` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-18` |
-| Commits Today | `26` / `100` |
-| Remaining Today | `74` |
-| Progress | `█████░░░░░░░░░░░░░░░` 26% |
+| Commits Today | `27` / `100` |
+| Remaining Today | `73` |
+| Progress | `█████░░░░░░░░░░░░░░░` 27% |
 | Streak | `72` day(s) |
-| Last Commit (IST) | `2026-08-18 16:27:49 IST` |
+| Last Commit (IST) | `2026-08-18 17:02:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-15 | 39 | `███████░░░░░░░░░░░░░` 39% |
 | 2026-08-16 | 42 | `████████░░░░░░░░░░░░` 42% |
 | 2026-08-17 | 38 | `███████░░░░░░░░░░░░░` 38% |
-| 2026-08-18 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
+| 2026-08-18 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,087.0 | +1.25% | 🟢 |
-| Ethereum | $1,894.38 | +0.13% | 🟢 |
-| Solana | $75.74 | +0.61% | 🟢 |
-| Bnb | $600.56 | -0.50% | 🔴 |
+| Bitcoin | $64,295.0 | +1.14% | 🟢 |
+| Ethereum | $1,901.31 | -0.08% | 🔴 |
+| Solana | $76.26 | +0.84% | 🟢 |
+| Bnb | $601.59 | -0.46% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 1,189 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
-| [usestrix/strix](https://github.com/usestrix/strix) | Python | 598 stars today | Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti… |
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 120 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
+| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | 256 stars today | local multi-agent harness |
 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 207 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 239 stars today | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG … |
 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 198 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
-| [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | 198 stars today | Hundreds of models & providers. One command to find what runs on your hardware. |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 218 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
-| [jundot/omlx](https://github.com/jundot/omlx) | Python | 78 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 1,907 stars today | A collective list of free APIs |
+| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 710 stars today | Beautiful, Modern & Opinionated Linux |
+| [agalwood/Motrix](https://github.com/agalwood/Motrix) | TypeScript | 344 stars today | A full-featured download manager. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) | 201 | 49 |
-| [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming) | 80 | 29 |
-| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | 555 | 362 |
-| [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) | 76 | 32 |
-| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | 483 | 302 |
+| [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/) | 231 | 63 |
+| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | 566 | 369 |
+| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | 497 | 313 |
+| [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962) | 111 | 54 |
+| [Rethinking Database Programming](https://acadia.engineering/blog/rethinking-database-programming) | 91 | 40 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
