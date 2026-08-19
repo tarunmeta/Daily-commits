@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-18 23:30:16 UTC",
-    "fetched_at_ist": "2026-08-19 05:00:16 IST",
+    "fetched_at_utc": "2026-08-19 02:44:23 UTC",
+    "fetched_at_ist": "2026-08-19 08:14:23 IST",
     "item_count": 5,
-    "content_hash": "ab0b0b1f8c49afecee4004172a861b4f0cdf0903bcba3ca5553f0f36fe29a0a6",
-    "previous_hash": "773878dd3741cd44f21f71973735c5512e9ea5dc24a2962ff0e1653c36221900",
+    "content_hash": "a55427d73000a3a020d2b9661fa6ef5ad9c364a5a3c39870608b44f95ac94eb3",
+    "previous_hash": "ab0b0b1f8c49afecee4004172a861b4f0cdf0903bcba3ca5553f0f36fe29a0a6",
     "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49355142,
+      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "score": 142,
+      "comments": 64
+    },
+    {
+      "id": 49354949,
+      "title": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4",
+      "score": 83,
+      "comments": 56
+    },
+    {
       "id": 49353221,
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 58,
-      "comments": 11
-    },
-    {
-      "id": 49321298,
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 146,
-      "comments": 66
+      "score": 175,
+      "comments": 46
     },
     {
       "id": 49345263,
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 831,
-      "comments": 506
+      "score": 962,
+      "comments": 556
     },
     {
-      "id": 49353339,
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "score": 41,
-      "comments": 22
-    },
-    {
-      "id": 49349984,
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 195,
-      "comments": 124
+      "id": 49354613,
+      "title": "Solo – a .so loader for static Linux binaries",
+      "url": "https://github.com/pg83/solo",
+      "score": 54,
+      "comments": 62
     }
   ]
 }
