@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-19 02:44:23 UTC",
-    "fetched_at_ist": "2026-08-19 08:14:23 IST",
+    "fetched_at_utc": "2026-08-19 03:31:49 UTC",
+    "fetched_at_ist": "2026-08-19 09:01:49 IST",
     "item_count": 5,
-    "content_hash": "a55427d73000a3a020d2b9661fa6ef5ad9c364a5a3c39870608b44f95ac94eb3",
-    "previous_hash": "ab0b0b1f8c49afecee4004172a861b4f0cdf0903bcba3ca5553f0f36fe29a0a6",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "485172839d53eec5a5c614ee4309967cb8079c858ff2a3c7003a6503ce6c9d8b",
+    "previous_hash": "a55427d73000a3a020d2b9661fa6ef5ad9c364a5a3c39870608b44f95ac94eb3",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49355142,
       "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
       "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "score": 142,
-      "comments": 64
+      "score": 220,
+      "comments": 106
+    },
+    {
+      "id": 49355825,
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "score": 33,
+      "comments": 9
+    },
+    {
+      "id": 49355606,
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "score": 40,
+      "comments": 5
     },
     {
       "id": 49354949,
       "title": "Cerebras CS-4",
       "url": "https://www.cerebras.ai/cs4",
-      "score": 83,
-      "comments": 56
+      "score": 115,
+      "comments": 77
     },
     {
       "id": 49353221,
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 175,
-      "comments": 46
-    },
-    {
-      "id": 49345263,
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 962,
-      "comments": 556
-    },
-    {
-      "id": 49354613,
-      "title": "Solo – a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
-      "score": 54,
-      "comments": 62
+      "score": 186,
+      "comments": 49
     }
   ]
 }
