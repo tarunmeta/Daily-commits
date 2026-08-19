@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-19 13:44:25 UTC",
-    "fetched_at_ist": "2026-08-19 19:14:25 IST",
+    "fetched_at_utc": "2026-08-19 16:32:10 UTC",
+    "fetched_at_ist": "2026-08-19 22:02:10 IST",
     "item_count": 5,
-    "content_hash": "6e3231155d938bafeb78556c26ddd71f9dacf5a4ad60cae8e2a8c0603f24be38",
-    "previous_hash": "5d898c359999c5aa0573c6b7a12caaa6d4ac6906b090e1533a39c6548f20b564",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "7b7ca4869a95866539d280875a29561ded743f69b5c877236fd2b09e85aec42c",
+    "previous_hash": "6e3231155d938bafeb78556c26ddd71f9dacf5a4ad60cae8e2a8c0603f24be38",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49360242,
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "score": 211,
-      "comments": 110
+      "id": 49363433,
+      "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+      "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
+      "score": 59,
+      "comments": 15
     },
     {
       "id": 49360545,
       "title": "Geolocating a random island using geometry and CUDA programming",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "score": 77,
-      "comments": 16
-    },
-    {
-      "id": 49355606,
-      "title": "OpenLogi",
-      "url": "https://openlogi.org/en",
-      "score": 1057,
-      "comments": 303
-    },
-    {
-      "id": 49359425,
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "score": 102,
-      "comments": 51
+      "score": 225,
+      "comments": 45
     },
     {
       "id": 49360015,
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 25,
-      "comments": 1
+      "score": 299,
+      "comments": 40
+    },
+    {
+      "id": 49355606,
+      "title": "OpenLogi",
+      "url": "https://openlogi.org/en",
+      "score": 1282,
+      "comments": 355
+    },
+    {
+      "id": 49361279,
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "score": 150,
+      "comments": 102
     }
   ]
 }
