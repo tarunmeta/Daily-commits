@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-19 06:44:17 UTC",
-    "fetched_at_ist": "2026-08-19 12:14:17 IST",
+    "fetched_at_utc": "2026-08-19 09:34:46 UTC",
+    "fetched_at_ist": "2026-08-19 15:04:46 IST",
     "item_count": 5,
-    "content_hash": "1d4fb9978954d6ce4a2373d4325570b7ace17ea4fcf931e0275024ed0a3d4e52",
-    "previous_hash": "485172839d53eec5a5c614ee4309967cb8079c858ff2a3c7003a6503ce6c9d8b",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "content_hash": "5d898c359999c5aa0573c6b7a12caaa6d4ac6906b090e1533a39c6548f20b564",
+    "previous_hash": "1d4fb9978954d6ce4a2373d4325570b7ace17ea4fcf931e0275024ed0a3d4e52",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49355606,
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "score": 298,
-      "comments": 58
+      "score": 625,
+      "comments": 170
+    },
+    {
+      "id": 49358259,
+      "title": "Where Human Sleep Went Wrong",
+      "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+      "score": 48,
+      "comments": 33
+    },
+    {
+      "id": 49354949,
+      "title": "Cerebras CS-4",
+      "url": "https://www.cerebras.ai/cs4",
+      "score": 269,
+      "comments": 189
     },
     {
       "id": 49355968,
       "title": "Palomar: A registry of Lean verified mathematics",
       "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "score": 63,
-      "comments": 11
+      "score": 99,
+      "comments": 17
     },
     {
       "id": 49306207,
       "title": "Supersonic Trebuchet [video]",
       "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "score": 51,
-      "comments": 4
-    },
-    {
-      "id": 49355105,
-      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "score": 146,
-      "comments": 89
-    },
-    {
-      "id": 49353221,
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 236,
-      "comments": 78
+      "score": 98,
+      "comments": 26
     }
   ]
 }
