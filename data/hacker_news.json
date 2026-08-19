@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-19 03:31:49 UTC",
-    "fetched_at_ist": "2026-08-19 09:01:49 IST",
+    "fetched_at_utc": "2026-08-19 06:44:17 UTC",
+    "fetched_at_ist": "2026-08-19 12:14:17 IST",
     "item_count": 5,
-    "content_hash": "485172839d53eec5a5c614ee4309967cb8079c858ff2a3c7003a6503ce6c9d8b",
-    "previous_hash": "a55427d73000a3a020d2b9661fa6ef5ad9c364a5a3c39870608b44f95ac94eb3",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "1d4fb9978954d6ce4a2373d4325570b7ace17ea4fcf931e0275024ed0a3d4e52",
+    "previous_hash": "485172839d53eec5a5c614ee4309967cb8079c858ff2a3c7003a6503ce6c9d8b",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49355142,
-      "title": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
-      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
-      "score": 220,
-      "comments": 106
-    },
-    {
-      "id": 49355825,
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "score": 33,
-      "comments": 9
-    },
     {
       "id": 49355606,
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "score": 40,
-      "comments": 5
+      "score": 298,
+      "comments": 58
     },
     {
-      "id": 49354949,
-      "title": "Cerebras CS-4",
-      "url": "https://www.cerebras.ai/cs4",
-      "score": 115,
-      "comments": 77
+      "id": 49355968,
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "score": 63,
+      "comments": 11
+    },
+    {
+      "id": 49306207,
+      "title": "Supersonic Trebuchet [video]",
+      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+      "score": 51,
+      "comments": 4
+    },
+    {
+      "id": 49355105,
+      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
+      "score": 146,
+      "comments": 89
     },
     {
       "id": 49353221,
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 186,
-      "comments": 49
+      "score": 236,
+      "comments": 78
     }
   ]
 }
