@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 02:37:42 UTC",
-    "fetched_at_ist": "2026-08-20 08:07:42 IST",
+    "fetched_at_utc": "2026-08-20 05:31:35 UTC",
+    "fetched_at_ist": "2026-08-20 11:01:35 IST",
     "item_count": 5,
-    "content_hash": "d791cc1b68631824b26f2eed5dd3de4acdaf43144b171f1193e42ec0f9d1b4ba",
-    "previous_hash": "1604565c067d948f9b02690ffc666acbfc67dc12677ddda1c90e767575b09949",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "21112d54bcf593725cf66d84a8c2635f8d44a0463677256d6a9c760a259ceadb",
+    "previous_hash": "d791cc1b68631824b26f2eed5dd3de4acdaf43144b171f1193e42ec0f9d1b4ba",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49364559,
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 662,
-      "comments": 352
+      "score": 756,
+      "comments": 375
+    },
+    {
+      "id": 49294441,
+      "title": "Error by AI scribe during medical appointment leaves patient devastated",
+      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "score": 85,
+      "comments": 61
+    },
+    {
+      "id": 49369408,
+      "title": "Turns are Better than Radians (2022)",
+      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+      "score": 91,
+      "comments": 44
     },
     {
       "id": 49365405,
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 469,
-      "comments": 125
+      "score": 546,
+      "comments": 138
     },
     {
-      "id": 49364745,
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 315,
-      "comments": 133
-    },
-    {
-      "id": 49362001,
-      "title": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "score": 45,
-      "comments": 4
-    },
-    {
-      "id": 49365841,
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 143,
-      "comments": 36
+      "id": 49323795,
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "score": 68,
+      "comments": 7
     }
   ]
 }
