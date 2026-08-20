@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-08-21 (last updated: 22:59 IST)
+
+## 📅 2026-08-21 (last updated: 01:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 17:33:51 IST | 53b1c4b70d0a | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-20 21:04:20 IST | a49f0f142401 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-21 01:02:01 IST | dd7c79b5c4d4 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-20 22:59:44 IST | d3b07bedc2b4 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) — Score: 438
-- [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) — Score: 181
-- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) — Score: 223
-- [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146) — Score: 52
-- [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html) — Score: 27
+- [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/) — Score: 44
+- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) — Score: 369
+- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/) — Score: 77
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) — Score: 729
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) — Score: 379
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $72,748.0 🟢 +7.14%
@@ -44,40 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $652.31 🟢 +5.97%
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📅 2026-08-20 (last updated: 22:59 IST)
 
 ### 🧪 Source Integrity Snapshot

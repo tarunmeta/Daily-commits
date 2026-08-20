@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 15:34:20 UTC",
-    "fetched_at_ist": "2026-08-20 21:04:20 IST",
+    "fetched_at_utc": "2026-08-20 19:32:01 UTC",
+    "fetched_at_ist": "2026-08-21 01:02:01 IST",
     "item_count": 5,
-    "content_hash": "a49f0f1424014fae1817a3c03c3ece69b136358aeef4cafd78a60b88fb29df9a",
-    "previous_hash": "3e1075ec8476b2450164f42e260c4b92070ee2282e78cf2ff5691b71b53030be",
+    "content_hash": "dd7c79b5c4d4a0c4541c1d51c1e3e35b117de731ca1069dd9ae755801b0eca46",
+    "previous_hash": "a49f0f1424014fae1817a3c03c3ece69b136358aeef4cafd78a60b88fb29df9a",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49378630,
+      "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+      "score": 44,
+      "comments": 7
+    },
+    {
+      "id": 49347543,
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "score": 369,
+      "comments": 167
+    },
+    {
+      "id": 49377853,
+      "title": "I should have loved biology",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "score": 77,
+      "comments": 29
+    },
+    {
       "id": 49372583,
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 438,
-      "comments": 146
+      "score": 729,
+      "comments": 245
     },
     {
-      "id": 49374269,
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "score": 181,
-      "comments": 136
-    },
-    {
-      "id": 49373456,
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "score": 223,
-      "comments": 55
-    },
-    {
-      "id": 49374287,
-      "title": "DiffusionGemma Technical Report",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "score": 52,
-      "comments": 8
-    },
-    {
-      "id": 49374772,
-      "title": "Hacking with Claude on a $27 Smart Watch",
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "score": 27,
-      "comments": 12
+      "id": 49362689,
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 379,
+      "comments": 109
     }
   ]
 }
