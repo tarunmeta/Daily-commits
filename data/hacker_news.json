@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 19:32:01 UTC",
-    "fetched_at_ist": "2026-08-21 01:02:01 IST",
+    "fetched_at_utc": "2026-08-20 23:30:34 UTC",
+    "fetched_at_ist": "2026-08-21 05:00:34 IST",
     "item_count": 5,
-    "content_hash": "dd7c79b5c4d4a0c4541c1d51c1e3e35b117de731ca1069dd9ae755801b0eca46",
-    "previous_hash": "a49f0f1424014fae1817a3c03c3ece69b136358aeef4cafd78a60b88fb29df9a",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "f7de636661891a30481b81b928b19ce4de2a0bd6b358410694769475a785eb2f",
+    "previous_hash": "dd7c79b5c4d4a0c4541c1d51c1e3e35b117de731ca1069dd9ae755801b0eca46",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49378630,
-      "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
-      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-      "score": 44,
-      "comments": 7
+      "id": 49378957,
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "score": 230,
+      "comments": 268
+    },
+    {
+      "id": 49378243,
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "score": 168,
+      "comments": 10
+    },
+    {
+      "id": 49379550,
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "score": 651,
+      "comments": 128
     },
     {
       "id": 49347543,
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 369,
-      "comments": 167
-    },
-    {
-      "id": 49377853,
-      "title": "I should have loved biology",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "score": 77,
-      "comments": 29
+      "score": 507,
+      "comments": 243
     },
     {
       "id": 49372583,
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 729,
-      "comments": 245
-    },
-    {
-      "id": 49362689,
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 379,
-      "comments": 109
+      "score": 836,
+      "comments": 277
     }
   ]
 }
