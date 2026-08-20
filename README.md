@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-20 21:28:31 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-20 22:28:29 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **modular/modular**
-- BTC: **$72,706.0** ↑ (+4.48%)
+- BTC: **$72,772.0** ↑ (+5.19%)
 - HN top story: **Scientific study reveals TikTok videos deactivate key cognitive brain regions**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 12:03:51 UTC | `53b1c4b70d0a` | +11 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-20 19:32:01 UTC | `dd7c79b5c4d4` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-20 21:28:31 UTC | `7cfa05f513a5` | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-08-20 22:28:29 UTC | `3fabf602c516` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-21` |
-| Commits Today | `6` / `100` |
-| Remaining Today | `94` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| Streak | `65` day(s) |
-| Last Commit (IST) | `2026-08-21 02:58:31 IST` |
+| Commits Today | `7` / `100` |
+| Remaining Today | `93` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Streak | `64` day(s) |
+| Last Commit (IST) | `2026-08-21 03:25:08 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-18 | 36 | `███████░░░░░░░░░░░░░` 36% |
 | 2026-08-19 | 35 | `███████░░░░░░░░░░░░░` 35% |
 | 2026-08-20 | 35 | `███████░░░░░░░░░░░░░` 35% |
-| 2026-08-21 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
+| 2026-08-21 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $72,706.0 | +4.48% | 🟢 |
-| Ethereum | $2,316.98 | +2.12% | 🟢 |
-| Solana | $87.49 | +0.84% | 🟢 |
-| Bnb | $653.28 | +3.83% | 🟢 |
+| Bitcoin | $72,772.0 | +5.19% | 🟢 |
+| Ethereum | $2,315.66 | +2.51% | 🟢 |
+| Solana | $87.51 | +2.32% | 🟢 |
+| Bnb | $654.61 | +3.69% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
