@@ -23,18 +23,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-20 (last updated: 11:33 IST)
+
+## 📅 2026-08-20 (last updated: 14:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-08-20 11:33:16 IST | a260b9d2d4a8 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-20 11:33:18 IST | 1e12d10657cc | +1 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-20 14:13:44 IST | 7afe83fdd9c5 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-20 11:33:17 IST | bebdb6fc644b | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +7 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: yes
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -50,11 +51,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 80 stars today
 
 ### 📰 Hacker News Stories
-- [Error by AI scribe during medical appointment leaves patient devastated](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672) — Score: 125
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) — Score: 770
-- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) — Score: 109
-- [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621) — Score: 15
-- [Go 1.27](https://go.dev/blog/go1.27) — Score: 557
+- [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) — Score: 125
+- [Don't Paste the AI, please](https://dontpastetheai.com/) — Score: 21
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) — Score: 828
+- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) — Score: 194
+- [Go 1.27](https://go.dev/blog/go1.27) — Score: 620
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $69,347.0 🟢 +8.05%

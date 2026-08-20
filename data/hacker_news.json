@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 06:03:18 UTC",
-    "fetched_at_ist": "2026-08-20 11:33:18 IST",
+    "fetched_at_utc": "2026-08-20 08:43:44 UTC",
+    "fetched_at_ist": "2026-08-20 14:13:44 IST",
     "item_count": 5,
-    "content_hash": "1e12d10657cc4e308faf6b0d8437b21fcfe9f055849359a8eda8273adab85763",
-    "previous_hash": "21112d54bcf593725cf66d84a8c2635f8d44a0463677256d6a9c760a259ceadb",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "7afe83fdd9c5c225a2917e980eb52386bafc5743c01f67934a2e99a46727b158",
+    "previous_hash": "1e12d10657cc4e308faf6b0d8437b21fcfe9f055849359a8eda8273adab85763",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49294441,
-      "title": "Error by AI scribe during medical appointment leaves patient devastated",
-      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "id": 49371006,
+      "title": "Windows brings out the Rorschach test in everyone",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
       "score": 125,
-      "comments": 87
+      "comments": 50
+    },
+    {
+      "id": 49371857,
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "score": 21,
+      "comments": 10
     },
     {
       "id": 49364559,
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 770,
-      "comments": 386
+      "score": 828,
+      "comments": 426
     },
     {
       "id": 49369408,
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "score": 109,
-      "comments": 50
-    },
-    {
-      "id": 49370440,
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-      "score": 15,
-      "comments": 2
+      "score": 194,
+      "comments": 83
     },
     {
       "id": 49365405,
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 557,
-      "comments": 140
+      "score": 620,
+      "comments": 170
     }
   ]
 }
