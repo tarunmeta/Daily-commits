@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 05:31:35 UTC",
-    "fetched_at_ist": "2026-08-20 11:01:35 IST",
+    "fetched_at_utc": "2026-08-20 06:03:18 UTC",
+    "fetched_at_ist": "2026-08-20 11:33:18 IST",
     "item_count": 5,
-    "content_hash": "21112d54bcf593725cf66d84a8c2635f8d44a0463677256d6a9c760a259ceadb",
-    "previous_hash": "d791cc1b68631824b26f2eed5dd3de4acdaf43144b171f1193e42ec0f9d1b4ba",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "1e12d10657cc4e308faf6b0d8437b21fcfe9f055849359a8eda8273adab85763",
+    "previous_hash": "21112d54bcf593725cf66d84a8c2635f8d44a0463677256d6a9c760a259ceadb",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49364559,
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 756,
-      "comments": 375
-    },
     {
       "id": 49294441,
       "title": "Error by AI scribe during medical appointment leaves patient devastated",
       "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-      "score": 85,
-      "comments": 61
+      "score": 125,
+      "comments": 87
+    },
+    {
+      "id": 49364559,
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 770,
+      "comments": 386
     },
     {
       "id": 49369408,
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "score": 91,
-      "comments": 44
+      "score": 109,
+      "comments": 50
+    },
+    {
+      "id": 49370440,
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "score": 15,
+      "comments": 2
     },
     {
       "id": 49365405,
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "score": 546,
-      "comments": 138
-    },
-    {
-      "id": 49323795,
-      "title": "A faster way to calculate the day of the week",
-      "url": "https://www.benjoffe.com/fast-day-of-week",
-      "score": 68,
-      "comments": 7
+      "score": 557,
+      "comments": 140
     }
   ]
 }

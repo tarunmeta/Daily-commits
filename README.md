@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-20 05:31:35 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-20 06:03:18 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$68,952.0** ↑ (+7.20%)
-- HN top story: **OpenRouter is joining Stripe**
+- BTC: **$69,347.0** ↑ (+8.05%)
+- HN top story: **Error by AI scribe during medical appointment leaves patient devastated**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-08-18 18:12:21 UTC | `cc3b13c2526f` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-20 05:31:35 UTC | `21112d54bcf5` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-08-20 03:29:30 UTC | `26410da3b45e` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 13 | 2026-08-20 06:03:16 UTC | `a260b9d2d4a8` | +7 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-20 06:03:18 UTC | `1e12d10657cc` | +1 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-20 06:03:17 UTC | `bebdb6fc644b` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +7 new repos, top changed: no
+- Hacker News: +1 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-20` |
-| Commits Today | `17` / `100` |
-| Remaining Today | `83` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 17% |
+| Commits Today | `18` / `100` |
+| Remaining Today | `82` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 18% |
 | Streak | `67` day(s) |
-| Last Commit (IST) | `2026-08-20 10:23:09 IST` |
+| Last Commit (IST) | `2026-08-20 11:01:35 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-17 | 38 | `███████░░░░░░░░░░░░░` 38% |
 | 2026-08-18 | 36 | `███████░░░░░░░░░░░░░` 36% |
 | 2026-08-19 | 35 | `███████░░░░░░░░░░░░░` 35% |
-| 2026-08-20 | 17 | `███░░░░░░░░░░░░░░░░░` 17% |
+| 2026-08-20 | 18 | `███░░░░░░░░░░░░░░░░░` 18% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $68,952.0 | +7.20% | 🟢 |
-| Ethereum | $2,234.3 | +16.89% | 🟢 |
-| Solana | $84.26 | +9.49% | 🟢 |
-| Bnb | $623.18 | +3.54% | 🟢 |
+| Bitcoin | $69,347.0 | +8.05% | 🟢 |
+| Ethereum | $2,244.92 | +17.64% | 🟢 |
+| Solana | $84.84 | +10.57% | 🟢 |
+| Bnb | $624.51 | +3.92% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,306 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
-| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | 256 stars today | local multi-agent harness |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 730 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 298 stars today | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG … |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 726 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | 1,139 stars today | A collective list of free APIs |
-| [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | 710 stars today | Beautiful, Modern & Opinionated Linux |
-| [agalwood/Motrix](https://github.com/agalwood/Motrix) | TypeScript | 607 stars today | A full-featured download manager. |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,221 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 804 stars today | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG … |
+| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | 795 stars today | local multi-agent harness |
+| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 766 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
+| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 80 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,894 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 557 stars today | An agentic skills framework & software development methodology that works. |
+| [jundot/omlx](https://github.com/jundot/omlx) | Python | 472 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | 756 | 375 |
-| [Error by AI scribe during medical appointment leaves patient devastated](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672) | 85 | 61 |
-| [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) | 91 | 44 |
-| [Go 1.27](https://go.dev/blog/go1.27) | 546 | 138 |
-| [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week) | 68 | 7 |
+| [Error by AI scribe during medical appointment leaves patient devastated](https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672) | 125 | 87 |
+| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | 770 | 386 |
+| [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) | 109 | 50 |
+| [Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?](https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621) | 15 | 2 |
+| [Go 1.27](https://go.dev/blog/go1.27) | 557 | 140 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-08-18 18:12:21 UTC",
-    "fetched_at_ist": "2026-08-18 23:42:21 IST",
+    "fetched_at_utc": "2026-08-20 06:03:16 UTC",
+    "fetched_at_ist": "2026-08-20 11:33:16 IST",
     "item_count": 13,
-    "content_hash": "cc3b13c2526fbe7b86a02dab8884df79910f27dad6ecb3a13e4c41fd03411778",
-    "previous_hash": "8b9f0a3f81e4e1259bf98da228c9dbee171316d7ccfbd221a98c02433692d645",
-    "new_repos_vs_previous": 0,
+    "content_hash": "a260b9d2d4a87a655012c6eaff87a7e2b1e4aa5af57fb1fff9a55565df223e34",
+    "previous_hash": "cc3b13c2526fbe7b86a02dab8884df79910f27dad6ecb3a13e4c41fd03411778",
+    "new_repos_vs_previous": 7,
     "top_repo_changed": false
   },
   "repos": [
@@ -15,79 +15,79 @@
       "name": "harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_today": "2,306 stars today"
-    },
-    {
-      "name": "chaitanyagiri/munder-difflin",
-      "description": "local multi-agent harness",
-      "language": "TypeScript",
-      "stars_today": "256 stars today"
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars_today": "730 stars today"
+      "stars_today": "2,221 stars today"
     },
     {
       "name": "volcengine/OpenViking",
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
-      "stars_today": "298 stars today"
+      "stars_today": "804 stars today"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars_today": "795 stars today"
     },
     {
       "name": "mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars_today": "726 stars today"
+      "stars_today": "766 stars today"
     },
     {
-      "name": "public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars_today": "1,139 stars today"
+      "name": "nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "stars_today": "80 stars today"
     },
     {
-      "name": "basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_today": "710 stars today"
+      "stars_today": "1,894 stars today"
     },
     {
-      "name": "agalwood/Motrix",
-      "description": "A full-featured download manager.",
-      "language": "TypeScript",
-      "stars_today": "607 stars today"
-    },
-    {
-      "name": "NawfalMotii79/PLFM_RADAR",
-      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "language": "PLSQL",
-      "stars_today": "204 stars today"
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "557 stars today"
     },
     {
       "name": "jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars_today": "366 stars today"
+      "stars_today": "472 stars today"
     },
     {
-      "name": "bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "name": "santifer/career-ops",
+      "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
+      "language": "JavaScript",
+      "stars_today": "198 stars today"
+    },
+    {
+      "name": "immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "stars_today": "128 stars today"
+    },
+    {
+      "name": "amadeusprotocol/node",
+      "description": "No description",
+      "language": "Rust",
+      "stars_today": "1,397 stars today"
+    },
+    {
+      "name": "marceloprates/prettymaps",
+      "description": "Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely",
       "language": "Python",
-      "stars_today": "556 stars today"
+      "stars_today": "63 stars today"
     },
     {
       "name": "genlayerlabs/genlayer-project-boilerplate",
       "description": "No description",
       "language": "TypeScript",
-      "stars_today": "543 stars today"
-    },
-    {
-      "name": "OpenCut-app/OpenCut",
-      "description": "The open-source CapCut alternative",
-      "language": "TypeScript",
-      "stars_today": "288 stars today"
+      "stars_today": "430 stars today"
     }
   ]
 }
