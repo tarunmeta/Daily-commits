@@ -29,44 +29,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-20 (last updated: 17:12 IST)
+
+## 📅 2026-08-20 (last updated: 17:33 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-08-20 11:33:16 IST | a260b9d2d4a8 | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-20 17:12:32 IST | 2e0f659c8ec9 | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-08-20 14:48:13 IST | 102b1c5ad9dd | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-20 17:33:51 IST | 53b1c4b70d0a | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-20 17:33:52 IST | 3e1075ec8476 | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-20 17:33:51 IST | 663d6ba3ac6d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
-- **[harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)** (Python) — 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw  
-  ⭐ 2,221 stars today
-- **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** (Python) — Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG   
-  ⭐ 804 stars today
-- **[chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** (TypeScript) — local multi-agent harness  
-  ⭐ 795 stars today
-- **[mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)** (Python) — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR  
-  ⭐ 766 stars today
-- **[nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)** (Rust) — Production-grade Rust-native trading engine with deterministic event-driven arch  
-  ⭐ 80 stars today
+- **[modular/modular](https://github.com/modular/modular)** (Mojo) — The Modular Platform (includes MAX & Mojo)  
+  ⭐ 340 stars today
+- **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .agents directory.  
+  ⭐ 1,894 stars today
+- **[AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)** (Rust) — ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re  
+  ⭐ 1,225 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 557 stars today
+- **[cursor/plugins](https://github.com/cursor/plugins)** (TypeScript) — Cursor plugin specification and official plugins  
+  ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [Don't Paste the AI, please](https://dontpastetheai.com/) — Score: 437
-- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) — Score: 97
-- [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) — Score: 221
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) — Score: 872
-- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) — Score: 234
+- [Don't Paste the AI, please](https://dontpastetheai.com/) — Score: 495
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) — Score: 132
+- [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) — Score: 237
+- [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/) — Score: 9
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) — Score: 882
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $71,770.0 🟢 +11.54%
-- Ethereum: $2,288.3 🟢 +19.12%
-- Solana: $87.55 🟢 +13.22%
-- Bnb: $641.24 🟢 +6.47%
+- Bitcoin: $71,868.0 🟢 +11.50%
+- Ethereum: $2,293.78 🟢 +19.34%
+- Solana: $87.24 🟢 +12.64%
+- Bnb: $645.02 🟢 +7.09%
 
 ---
 ## 📅 2026-08-19 (last updated: 23:10 IST)

@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-20 11:42:32 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-20 12:03:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **harry0703/MoneyPrinterTurbo**
-- BTC: **$71,770.0** ↑ (+11.54%)
+- Top GitHub repo: **modular/modular**
+- BTC: **$71,868.0** ↑ (+11.50%)
 - HN top story: **Don't Paste the AI, please**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-08-20 06:03:16 UTC | `a260b9d2d4a8` | +7 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-20 11:42:32 UTC | `2e0f659c8ec9` | +0 new stories, top changed: no |
-| Crypto | 4 | 2026-08-20 09:18:13 UTC | `102b1c5ad9dd` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 17 | 2026-08-20 12:03:51 UTC | `53b1c4b70d0a` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-20 12:03:52 UTC | `3e1075ec8476` | +1 new stories, top changed: no |
+| Crypto | 4 | 2026-08-20 12:03:51 UTC | `663d6ba3ac6d` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +7 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-20` |
-| Commits Today | `26` / `100` |
-| Remaining Today | `74` |
-| Progress | `█████░░░░░░░░░░░░░░░` 26% |
-| Streak | `66` day(s) |
-| Last Commit (IST) | `2026-08-20 16:33:43 IST` |
+| Commits Today | `27` / `100` |
+| Remaining Today | `73` |
+| Progress | `█████░░░░░░░░░░░░░░░` 27% |
+| Streak | `65` day(s) |
+| Last Commit (IST) | `2026-08-20 17:12:32 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-17 | 38 | `███████░░░░░░░░░░░░░` 38% |
 | 2026-08-18 | 36 | `███████░░░░░░░░░░░░░` 36% |
 | 2026-08-19 | 35 | `███████░░░░░░░░░░░░░` 35% |
-| 2026-08-20 | 26 | `█████░░░░░░░░░░░░░░░` 26% |
+| 2026-08-20 | 27 | `█████░░░░░░░░░░░░░░░` 27% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $71,770.0 | +11.54% | 🟢 |
-| Ethereum | $2,288.3 | +19.12% | 🟢 |
-| Solana | $87.55 | +13.22% | 🟢 |
-| Bnb | $641.24 | +6.47% | 🟢 |
+| Bitcoin | $71,868.0 | +11.50% | 🟢 |
+| Ethereum | $2,293.78 | +19.34% | 🟢 |
+| Solana | $87.24 | +12.64% | 🟢 |
+| Bnb | $645.02 | +7.09% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,221 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | 804 stars today | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG … |
-| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | 795 stars today | local multi-agent harness |
-| [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | 766 stars today | 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR… |
-| [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | 80 stars today | Production-grade Rust-native trading engine with deterministic event-driven arch… |
+| [modular/modular](https://github.com/modular/modular) | Mojo | 340 stars today | The Modular Platform (includes MAX & Mojo) |
 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,894 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 1,225 stars today | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re… |
 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | 557 stars today | An agentic skills framework & software development methodology that works. |
-| [jundot/omlx](https://github.com/jundot/omlx) | Python | 472 stars today | LLM inference server with continuous batching & SSD caching for Apple Silicon — … |
+| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 473 stars today | Cursor plugin specification and official plugins |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 198 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 606 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,221 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Don't Paste the AI, please](https://dontpastetheai.com/) | 437 | 212 |
-| [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | 97 | 28 |
-| [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) | 221 | 87 |
-| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | 872 | 449 |
-| [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians) | 234 | 113 |
+| [Don't Paste the AI, please](https://dontpastetheai.com/) | 495 | 242 |
+| [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | 132 | 37 |
+| [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) | 237 | 90 |
+| [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/) | 9 | 2 |
+| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | 882 | 450 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

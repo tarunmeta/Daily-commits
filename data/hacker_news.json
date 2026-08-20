@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 11:42:32 UTC",
-    "fetched_at_ist": "2026-08-20 17:12:32 IST",
+    "fetched_at_utc": "2026-08-20 12:03:52 UTC",
+    "fetched_at_ist": "2026-08-20 17:33:52 IST",
     "item_count": 5,
-    "content_hash": "2e0f659c8ec9d24b8e96a5c2a04fea29f9628192d35512d69e0b26a81595306b",
-    "previous_hash": "a9448639efd9e6b872e8d8c0c4cab3a47753a387adb2e09d3e98b4c933746742",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "3e1075ec8476b2450164f42e260c4b92070ee2282e78cf2ff5691b71b53030be",
+    "previous_hash": "2e0f659c8ec9d24b8e96a5c2a04fea29f9628192d35512d69e0b26a81595306b",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49371857,
       "title": "Don't Paste the AI, please",
       "url": "https://dontpastetheai.com/",
-      "score": 437,
-      "comments": 212
+      "score": 495,
+      "comments": 242
     },
     {
       "id": 49372583,
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 97,
-      "comments": 28
+      "score": 132,
+      "comments": 37
     },
     {
       "id": 49371006,
       "title": "Windows brings out the Rorschach test in everyone",
       "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "score": 221,
-      "comments": 87
+      "score": 237,
+      "comments": 90
+    },
+    {
+      "id": 49373269,
+      "title": "AI didn't erase the junior engineer's value, it increased it it",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "score": 9,
+      "comments": 2
     },
     {
       "id": 49364559,
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 872,
-      "comments": 449
-    },
-    {
-      "id": 49369408,
-      "title": "Turns are Better than Radians (2022)",
-      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "score": 234,
-      "comments": 113
+      "score": 882,
+      "comments": 450
     }
   ]
 }
