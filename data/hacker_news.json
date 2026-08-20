@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-20 12:03:52 UTC",
-    "fetched_at_ist": "2026-08-20 17:33:52 IST",
+    "fetched_at_utc": "2026-08-20 15:34:20 UTC",
+    "fetched_at_ist": "2026-08-20 21:04:20 IST",
     "item_count": 5,
-    "content_hash": "3e1075ec8476b2450164f42e260c4b92070ee2282e78cf2ff5691b71b53030be",
-    "previous_hash": "2e0f659c8ec9d24b8e96a5c2a04fea29f9628192d35512d69e0b26a81595306b",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "a49f0f1424014fae1817a3c03c3ece69b136358aeef4cafd78a60b88fb29df9a",
+    "previous_hash": "3e1075ec8476b2450164f42e260c4b92070ee2282e78cf2ff5691b71b53030be",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49371857,
-      "title": "Don't Paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "score": 495,
-      "comments": 242
-    },
     {
       "id": 49372583,
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "score": 132,
-      "comments": 37
+      "score": 438,
+      "comments": 146
     },
     {
-      "id": 49371006,
-      "title": "Windows brings out the Rorschach test in everyone",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "score": 237,
-      "comments": 90
+      "id": 49374269,
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "score": 181,
+      "comments": 136
     },
     {
-      "id": 49373269,
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "score": 9,
-      "comments": 2
+      "id": 49373456,
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "score": 223,
+      "comments": 55
     },
     {
-      "id": 49364559,
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 882,
-      "comments": 450
+      "id": 49374287,
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "score": 52,
+      "comments": 8
+    },
+    {
+      "id": 49374772,
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "score": 27,
+      "comments": 12
     }
   ]
 }

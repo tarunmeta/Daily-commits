@@ -33,18 +33,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-20 (last updated: 17:33 IST)
+
+## 📅 2026-08-20 (last updated: 21:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 17:33:51 IST | 53b1c4b70d0a | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-20 17:33:52 IST | 3e1075ec8476 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-20 21:04:20 IST | a49f0f142401 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-20 17:33:51 IST | 663d6ba3ac6d | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -60,11 +61,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [Don't Paste the AI, please](https://dontpastetheai.com/) — Score: 495
-- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) — Score: 132
-- [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803) — Score: 237
-- [AI didn't erase the junior engineer's value, it increased it it](https://franciscotrindade.me/blog/the-kids-are-really-alright/) — Score: 9
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) — Score: 882
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) — Score: 438
+- [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) — Score: 181
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/) — Score: 223
+- [DiffusionGemma Technical Report](https://arxiv.org/abs/2608.00146) — Score: 52
+- [Hacking with Claude on a $27 Smart Watch](https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html) — Score: 27
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $71,868.0 🟢 +11.50%
