@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-21 14:35:33 UTC",
-    "fetched_at_ist": "2026-08-21 20:05:33 IST",
+    "fetched_at_utc": "2026-08-21 16:35:16 UTC",
+    "fetched_at_ist": "2026-08-21 22:05:16 IST",
     "item_count": 5,
-    "content_hash": "65a96e7f244777ef892c42f85c7d34237592cebfb29e6302449dd0ef89caf221",
-    "previous_hash": "84653418b2eb854113b857799b7ce07ac1d3471d15fee8ef9b5f9f86a318e969",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "88d1443a1209f75913ca6e26fe77f46dd04262f7d377fb63950c45af0a47fed4",
+    "previous_hash": "65a96e7f244777ef892c42f85c7d34237592cebfb29e6302449dd0ef89caf221",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49388154,
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "score": 114,
+      "score": 505,
+      "comments": 184
+    },
+    {
+      "id": 49385994,
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "score": 605,
+      "comments": 372
+    },
+    {
+      "id": 49390132,
+      "title": "Omacom Foundation Launches with $8M",
+      "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
+      "score": 35,
+      "comments": 15
+    },
+    {
+      "id": 49389392,
+      "title": "c100",
+      "url": "https://caligra.com/c100/",
+      "score": 73,
       "comments": 44
     },
     {
       "id": 49386163,
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
-      "score": 277,
-      "comments": 80
-    },
-    {
-      "id": 49385994,
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
-      "score": 354,
-      "comments": 268
-    },
-    {
-      "id": 49387497,
-      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-      "score": 193,
-      "comments": 71
-    },
-    {
-      "id": 49388095,
-      "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
-      "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-      "score": 8,
-      "comments": 0
+      "score": 341,
+      "comments": 113
     }
   ]
 }
