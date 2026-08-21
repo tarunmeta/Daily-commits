@@ -22,18 +22,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-21 (last updated: 11:34 IST)
+
+## 📅 2026-08-21 (last updated: 15:06 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-21 11:34:17 IST | aecc90e858c7 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-21 11:34:18 IST | 34a6e9d091a6 | +0 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-21 15:06:53 IST | 84653418b2eb | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-21 11:34:17 IST | 2de8ac837a6d | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +0 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -49,11 +50,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 449 stars today
 
 ### 📰 Hacker News Stories
-- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674) — Score: 74
-- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) — Score: 431
-- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) — Score: 658
-- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) — Score: 673
-- [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) — Score: 447
+- [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) — Score: 63
+- [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon) — Score: 57
+- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) — Score: 520
+- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) — Score: 729
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) — Score: 798
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,372.0 🟢 +8.70%
