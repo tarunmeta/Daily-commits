@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-21 05:32:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-21 06:04:18 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **modular/modular**
-- BTC: **$72,772.0** ↑ (+5.19%)
+- BTC: **$75,372.0** ↑ (+8.70%)
 - HN top story: **Codex on AWS bedrock bug causing 10x charges**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-20 12:03:51 UTC | `53b1c4b70d0a` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-21 05:32:53 UTC | `3de1616d3e33` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-20 22:28:29 UTC | `3fabf602c516` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 17 | 2026-08-21 06:04:17 UTC | `aecc90e858c7` | +0 new repos, top changed: no |
+| Hacker News | 5 | 2026-08-21 06:04:18 UTC | `34a6e9d091a6` | +0 new stories, top changed: no |
+| Crypto | 4 | 2026-08-21 06:04:17 UTC | `2de8ac837a6d` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- GitHub: +0 new repos, top changed: no
+- Hacker News: +0 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-21` |
-| Commits Today | `15` / `100` |
-| Remaining Today | `85` |
-| Progress | `███░░░░░░░░░░░░░░░░░` 15% |
+| Commits Today | `16` / `100` |
+| Remaining Today | `84` |
+| Progress | `███░░░░░░░░░░░░░░░░░` 16% |
 | Streak | `63` day(s) |
-| Last Commit (IST) | `2026-08-21 10:24:21 IST` |
+| Last Commit (IST) | `2026-08-21 11:02:53 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-18 | 36 | `███████░░░░░░░░░░░░░` 36% |
 | 2026-08-19 | 35 | `███████░░░░░░░░░░░░░` 35% |
 | 2026-08-20 | 35 | `███████░░░░░░░░░░░░░` 35% |
-| 2026-08-21 | 15 | `███░░░░░░░░░░░░░░░░░` 15% |
+| 2026-08-21 | 16 | `███░░░░░░░░░░░░░░░░░` 16% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $72,772.0 | +5.19% | 🟢 |
-| Ethereum | $2,315.66 | +2.51% | 🟢 |
-| Solana | $87.51 | +2.32% | 🟢 |
-| Bnb | $654.61 | +3.69% | 🟢 |
+| Bitcoin | $75,372.0 | +8.70% | 🟢 |
+| Ethereum | $2,366.22 | +5.51% | 🟢 |
+| Solana | $90.68 | +6.95% | 🟢 |
+| Bnb | $664.27 | +6.39% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [modular/modular](https://github.com/modular/modular) | Mojo | 340 stars today | The Modular Platform (includes MAX & Mojo) |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,894 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 1,225 stars today | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 557 stars today | An agentic skills framework & software development methodology that works. |
-| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 473 stars today | Cursor plugin specification and official plugins |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 198 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 606 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,221 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [modular/modular](https://github.com/modular/modular) | Mojo | 268 stars today | The Modular Platform (includes MAX & Mojo) |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,192 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 1,545 stars today | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 727 stars today | An agentic skills framework & software development methodology that works. |
+| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 449 stars today | Cursor plugin specification and official plugins |
+| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 816 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 332 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,761 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674) | 57 | 16 |
-| [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | 424 | 472 |
-| [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | 642 | 274 |
-| [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | 658 | 174 |
-| [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) | 436 | 385 |
+| [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674) | 74 | 21 |
+| [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | 431 | 484 |
+| [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | 658 | 275 |
+| [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | 673 | 175 |
+| [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) | 447 | 388 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
