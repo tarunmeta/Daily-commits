@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-21 19:40:35 UTC",
-    "fetched_at_ist": "2026-08-22 01:10:35 IST",
+    "fetched_at_utc": "2026-08-21 20:32:40 UTC",
+    "fetched_at_ist": "2026-08-22 02:02:40 IST",
     "item_count": 5,
-    "content_hash": "dfe2aaf762a0d304f1c65e8b54e0f97f6e2842b8280ba6d35273462fb67e3638",
-    "previous_hash": "9be5e8f61b7cae1754b485b2e27f48c0765189c85992856f109f9bd97d8e74cf",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "4c53496f7683aa1c1ab128f0724b7f345c8768a1e71b76a5a4251cb9a16a3920",
+    "previous_hash": "dfe2aaf762a0d304f1c65e8b54e0f97f6e2842b8280ba6d35273462fb67e3638",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49390427,
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 203,
-      "comments": 81
+      "score": 262,
+      "comments": 94
     },
     {
       "id": 49389430,
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 240,
-      "comments": 114
+      "score": 310,
+      "comments": 145
     },
     {
       "id": 49392200,
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 33,
-      "comments": 4
+      "score": 58,
+      "comments": 17
     },
     {
       "id": 49388154,
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "score": 818,
-      "comments": 283
+      "score": 865,
+      "comments": 298
     },
     {
-      "id": 49357530,
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "score": 105,
-      "comments": 160
+      "id": 49393051,
+      "title": "Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "score": 15,
+      "comments": 4
     }
   ]
 }
