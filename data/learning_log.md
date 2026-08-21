@@ -17,13 +17,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-21 (last updated: 05:00 IST)
+
+## 📅 2026-08-21 (last updated: 11:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-20 17:33:51 IST | 53b1c4b70d0a | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-21 05:00:34 IST | f7de63666189 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-21 11:02:53 IST | 3de1616d3e33 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-21 03:58:29 IST | 3fabf602c516 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -44,11 +45,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 473 stars today
 
 ### 📰 Hacker News Stories
-- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) — Score: 230
-- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) — Score: 168
-- [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) — Score: 651
-- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) — Score: 507
-- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) — Score: 836
+- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674) — Score: 57
+- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) — Score: 424
+- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) — Score: 642
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) — Score: 658
+- [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) — Score: 436
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $72,772.0 🟢 +5.19%
