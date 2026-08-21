@@ -29,18 +29,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-21 (last updated: 16:56 IST)
+
+## 📅 2026-08-21 (last updated: 20:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-21 11:34:17 IST | aecc90e858c7 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-21 15:06:53 IST | 84653418b2eb | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-21 20:05:33 IST | 65a96e7f2447 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-21 16:56:28 IST | 63faf6447630 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
@@ -56,11 +57,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 449 stars today
 
 ### 📰 Hacker News Stories
-- [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/) — Score: 63
-- [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon) — Score: 57
-- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) — Score: 520
-- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) — Score: 729
-- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) — Score: 798
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) — Score: 114
+- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/) — Score: 277
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html) — Score: 354
+- [Grand jury declines to indict Ohio man charged with destroying Flock camera](https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/) — Score: 193
+- [Kodak's "Pre-Invented" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout](https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/) — Score: 8
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,529.0 🟢 +7.87%

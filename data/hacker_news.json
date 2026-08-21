@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-21 09:36:53 UTC",
-    "fetched_at_ist": "2026-08-21 15:06:53 IST",
+    "fetched_at_utc": "2026-08-21 14:35:33 UTC",
+    "fetched_at_ist": "2026-08-21 20:05:33 IST",
     "item_count": 5,
-    "content_hash": "84653418b2eb854113b857799b7ce07ac1d3471d15fee8ef9b5f9f86a318e969",
-    "previous_hash": "34a6e9d091a69660c9d72d02eab72e3785e47d6832b5c433e33359e00170e641",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "65a96e7f244777ef892c42f85c7d34237592cebfb29e6302449dd0ef89caf221",
+    "previous_hash": "84653418b2eb854113b857799b7ce07ac1d3471d15fee8ef9b5f9f86a318e969",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49384896,
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "score": 63,
-      "comments": 18
+      "id": 49388154,
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "score": 114,
+      "comments": 44
     },
     {
-      "id": 49384716,
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "score": 57,
-      "comments": 25
+      "id": 49386163,
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "score": 277,
+      "comments": 80
     },
     {
-      "id": 49378957,
-      "title": "The August 17 outage",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "score": 520,
-      "comments": 583
+      "id": 49385994,
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "score": 354,
+      "comments": 268
     },
     {
-      "id": 49347543,
-      "title": "I like 'em thick: an apology to my English teachers",
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "score": 729,
-      "comments": 299
+      "id": 49387497,
+      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+      "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
+      "score": 193,
+      "comments": 71
     },
     {
-      "id": 49362689,
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "score": 798,
-      "comments": 190
+      "id": 49388095,
+      "title": "Kodak's \"Pre-Invented\" Lunar Orbiter Camera; Or, the Fate of SAMOS Readout",
+      "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+      "score": 8,
+      "comments": 0
     }
   ]
 }
