@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-21 23:38:15 UTC",
-    "fetched_at_ist": "2026-08-22 05:08:15 IST",
+    "fetched_at_utc": "2026-08-22 01:43:21 UTC",
+    "fetched_at_ist": "2026-08-22 07:13:21 IST",
     "item_count": 5,
-    "content_hash": "63d31064386431c313dc7a1cac201762b11b2086466ed57762e928757214517f",
-    "previous_hash": "de0d6e1871564d6f636531d812973db0aca2a3907b88b207adbd1f2b5225988b",
-    "new_story_ids_vs_previous": 0,
+    "content_hash": "77b86cbed284f3f69432d9fee562ef138788f4df9eafdc6ffcbb559cf3ba4e27",
+    "previous_hash": "63d31064386431c313dc7a1cac201762b11b2086466ed57762e928757214517f",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49390427,
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 379,
-      "comments": 133
+      "score": 436,
+      "comments": 148
     },
     {
       "id": 49389430,
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 454,
-      "comments": 210
+      "score": 523,
+      "comments": 225
     },
     {
-      "id": 49386895,
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 464,
-      "comments": 627
+      "id": 49393052,
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 23,
+      "comments": 14
+    },
+    {
+      "id": 49394496,
+      "title": "Three important steps in my maturation process",
+      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+      "score": 48,
+      "comments": 10
     },
     {
       "id": 49392200,
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 124,
-      "comments": 38
-    },
-    {
-      "id": 49388154,
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "score": 961,
-      "comments": 331
+      "score": 149,
+      "comments": 47
     }
   ]
 }
