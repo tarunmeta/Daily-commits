@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 09:42:15 UTC",
-    "fetched_at_ist": "2026-08-22 15:12:15 IST",
+    "fetched_at_utc": "2026-08-22 10:40:35 UTC",
+    "fetched_at_ist": "2026-08-22 16:10:35 IST",
     "item_count": 5,
-    "content_hash": "77ebb492765af88dbb9e5d3a0cfd0df6a72f4873381064d8c0fb56162a64c1dc",
-    "previous_hash": "3e551a03e71319a1ad7a3bd6da49ac83ecb74ca42a87ffcb3b111083d2322659",
+    "content_hash": "6bae3283a2874a555a146cc44a047fe829f13d6fcb62c12918914a9eb91213f4",
+    "previous_hash": "77ebb492765af88dbb9e5d3a0cfd0df6a72f4873381064d8c0fb56162a64c1dc",
     "new_story_ids_vs_previous": 0,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49393052,
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 208,
-      "comments": 46
+      "score": 245,
+      "comments": 52
     },
     {
       "id": 49389430,
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 702,
-      "comments": 278
+      "score": 714,
+      "comments": 279
     },
     {
       "id": 49390427,
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 543,
-      "comments": 188
+      "score": 558,
+      "comments": 190
     },
     {
       "id": 49395628,
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "score": 400,
-      "comments": 288
+      "score": 425,
+      "comments": 305
     },
     {
       "id": 49386895,
       "title": "Felony charges for citizen deleting phone data at US Border",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 783,
-      "comments": 913
+      "score": 805,
+      "comments": 931
     }
   ]
 }
