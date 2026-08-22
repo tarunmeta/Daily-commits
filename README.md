@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-22 14:21:53 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-22 15:21:23 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **modular/modular**
-- BTC: **$77,004.0** ↑ (+0.56%)
+- BTC: **$76,946.0** ↓ (-0.81%)
 - HN top story: **Canada suspends trade negotiations with USA and match tariffs dollar for dollar**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-21 06:04:17 UTC | `aecc90e858c7` | +0 new repos, top changed: no |
 | Hacker News | 5 | 2026-08-22 12:39:51 UTC | `7919f2bff640` | +3 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-22 14:21:53 UTC | `dcd1726ba7a3` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-08-22 15:21:23 UTC | `86d9695afc98` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
 - GitHub: +0 new repos, top changed: no
 - Hacker News: +3 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-08-22` |
-| Commits Today | `35` / `100` |
-| Remaining Today | `65` |
-| Progress | `███████░░░░░░░░░░░░░` 35% |
+| Commits Today | `36` / `100` |
+| Remaining Today | `64` |
+| Progress | `███████░░░░░░░░░░░░░` 36% |
 | Streak | `59` day(s) |
-| Last Commit (IST) | `2026-08-22 19:51:53 IST` |
+| Last Commit (IST) | `2026-08-22 20:18:32 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-08-19 | 35 | `███████░░░░░░░░░░░░░` 35% |
 | 2026-08-20 | 35 | `███████░░░░░░░░░░░░░` 35% |
 | 2026-08-21 | 32 | `██████░░░░░░░░░░░░░░` 32% |
-| 2026-08-22 | 35 | `███████░░░░░░░░░░░░░` 35% |
+| 2026-08-22 | 36 | `███████░░░░░░░░░░░░░` 36% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,004.0 | +0.56% | 🟢 |
-| Ethereum | $2,416.57 | +1.96% | 🟢 |
-| Solana | $93.64 | +3.15% | 🟢 |
-| Bnb | $692.23 | +2.55% | 🟢 |
+| Bitcoin | $76,946.0 | -0.81% | 🔴 |
+| Ethereum | $2,408.18 | +0.37% | 🟢 |
+| Solana | $92.97 | +1.45% | 🟢 |
+| Bnb | $690.19 | +1.59% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
