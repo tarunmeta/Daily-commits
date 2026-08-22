@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 01:43:21 UTC",
-    "fetched_at_ist": "2026-08-22 07:13:21 IST",
+    "fetched_at_utc": "2026-08-22 02:40:14 UTC",
+    "fetched_at_ist": "2026-08-22 08:10:14 IST",
     "item_count": 5,
-    "content_hash": "77b86cbed284f3f69432d9fee562ef138788f4df9eafdc6ffcbb559cf3ba4e27",
-    "previous_hash": "63d31064386431c313dc7a1cac201762b11b2086466ed57762e928757214517f",
+    "content_hash": "d13a3a1d6faa0c1f64138812d7c598281dfe4e495fb48981ebaa8008316d3b17",
+    "previous_hash": "77b86cbed284f3f69432d9fee562ef138788f4df9eafdc6ffcbb559cf3ba4e27",
     "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49390427,
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 436,
-      "comments": 148
+      "id": 49395628,
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "score": 72,
+      "comments": 61
     },
     {
       "id": 49389430,
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 523,
-      "comments": 225
+      "score": 552,
+      "comments": 230
+    },
+    {
+      "id": 49390427,
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 446,
+      "comments": 150
     },
     {
       "id": 49393052,
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 23,
-      "comments": 14
+      "score": 45,
+      "comments": 20
     },
     {
-      "id": 49394496,
-      "title": "Three important steps in my maturation process",
-      "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "score": 48,
-      "comments": 10
-    },
-    {
-      "id": 49392200,
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "score": 149,
-      "comments": 47
+      "id": 49395605,
+      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+      "score": 19,
+      "comments": 6
     }
   ]
 }
