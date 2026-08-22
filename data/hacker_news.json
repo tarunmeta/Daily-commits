@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 06:41:07 UTC",
-    "fetched_at_ist": "2026-08-22 12:11:07 IST",
+    "fetched_at_utc": "2026-08-22 08:30:50 UTC",
+    "fetched_at_ist": "2026-08-22 14:00:50 IST",
     "item_count": 5,
-    "content_hash": "e67d56c49a9d1c5e0c1f1988365e87bcfb9d409cecf098727cb6f5885e848b1b",
-    "previous_hash": "d13a3a1d6faa0c1f64138812d7c598281dfe4e495fb48981ebaa8008316d3b17",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "3e551a03e71319a1ad7a3bd6da49ac83ecb74ca42a87ffcb3b111083d2322659",
+    "previous_hash": "e67d56c49a9d1c5e0c1f1988365e87bcfb9d409cecf098727cb6f5885e848b1b",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49395628,
-      "title": "There's no reason for software to be slow anymore",
-      "url": "https://danluu.com/perf-opt/",
-      "score": 297,
-      "comments": 211
-    },
-    {
-      "id": 49396590,
-      "title": "GPT 5.6 Sol 20% price reduction",
-      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-      "score": 36,
-      "comments": 19
-    },
-    {
-      "id": 49395605,
-      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
-      "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "score": 89,
-      "comments": 29
-    },
     {
       "id": 49389430,
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "score": 616,
-      "comments": 256
+      "score": 684,
+      "comments": 271
+    },
+    {
+      "id": 49393052,
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "score": 165,
+      "comments": 34
     },
     {
       "id": 49390427,
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 489,
-      "comments": 169
+      "score": 527,
+      "comments": 186
+    },
+    {
+      "id": 49395628,
+      "title": "There's no reason for software to be slow anymore",
+      "url": "https://danluu.com/perf-opt/",
+      "score": 364,
+      "comments": 266
+    },
+    {
+      "id": 49386895,
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "score": 754,
+      "comments": 882
     }
   ]
 }
