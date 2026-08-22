@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 02:40:14 UTC",
-    "fetched_at_ist": "2026-08-22 08:10:14 IST",
+    "fetched_at_utc": "2026-08-22 06:41:07 UTC",
+    "fetched_at_ist": "2026-08-22 12:11:07 IST",
     "item_count": 5,
-    "content_hash": "d13a3a1d6faa0c1f64138812d7c598281dfe4e495fb48981ebaa8008316d3b17",
-    "previous_hash": "77b86cbed284f3f69432d9fee562ef138788f4df9eafdc6ffcbb559cf3ba4e27",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": true
+    "content_hash": "e67d56c49a9d1c5e0c1f1988365e87bcfb9d409cecf098727cb6f5885e848b1b",
+    "previous_hash": "d13a3a1d6faa0c1f64138812d7c598281dfe4e495fb48981ebaa8008316d3b17",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49395628,
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "score": 72,
-      "comments": 61
+      "score": 297,
+      "comments": 211
     },
     {
-      "id": 49389430,
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "score": 552,
-      "comments": 230
-    },
-    {
-      "id": 49390427,
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 446,
-      "comments": 150
-    },
-    {
-      "id": 49393052,
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 45,
-      "comments": 20
+      "id": 49396590,
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+      "score": 36,
+      "comments": 19
     },
     {
       "id": 49395605,
       "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
       "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-      "score": 19,
-      "comments": 6
+      "score": 89,
+      "comments": 29
+    },
+    {
+      "id": 49389430,
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 616,
+      "comments": 256
+    },
+    {
+      "id": 49390427,
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "score": 489,
+      "comments": 169
     }
   ]
 }
