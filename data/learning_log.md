@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-08-23 (last updated: 00:01 IST)
+
+## 📅 2026-08-23 (last updated: 01:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-21 11:34:17 IST | aecc90e858c7 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-23 00:01:25 IST | 3ed4f4d513f0 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-23 01:04:58 IST | 0d126f0f3966 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-22 22:50:57 IST | 2739980f0562 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 449 stars today
 
 ### 📰 Hacker News Stories
-- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 133
-- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) — Score: 72
-- [RF Cafe](https://www.rfcafe.com/) — Score: 35
-- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/) — Score: 202
-- [New MCP Roadmap](https://blog.modelcontextprotocol.io/posts/mcp-roadmap/) — Score: 129
+- [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html) — Score: 33
+- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html) — Score: 197
+- [Scrap](https://twitter.com/moxie/status/2091218652133732491) — Score: 55
+- [Hister – A private, full content search index that you control](https://hister.org/) — Score: 80
+- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/) — Score: 93
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,277.0 🔴 -0.15%
