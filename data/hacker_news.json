@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 08:30:50 UTC",
-    "fetched_at_ist": "2026-08-22 14:00:50 IST",
+    "fetched_at_utc": "2026-08-22 09:42:15 UTC",
+    "fetched_at_ist": "2026-08-22 15:12:15 IST",
     "item_count": 5,
-    "content_hash": "3e551a03e71319a1ad7a3bd6da49ac83ecb74ca42a87ffcb3b111083d2322659",
-    "previous_hash": "e67d56c49a9d1c5e0c1f1988365e87bcfb9d409cecf098727cb6f5885e848b1b",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "77ebb492765af88dbb9e5d3a0cfd0df6a72f4873381064d8c0fb56162a64c1dc",
+    "previous_hash": "3e551a03e71319a1ad7a3bd6da49ac83ecb74ca42a87ffcb3b111083d2322659",
+    "new_story_ids_vs_previous": 0,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49389430,
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
-      "score": 684,
-      "comments": 271
-    },
-    {
       "id": 49393052,
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "score": 165,
-      "comments": 34
+      "score": 208,
+      "comments": 46
+    },
+    {
+      "id": 49389430,
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "score": 702,
+      "comments": 278
     },
     {
       "id": 49390427,
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "score": 527,
-      "comments": 186
+      "score": 543,
+      "comments": 188
     },
     {
       "id": 49395628,
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "score": 364,
-      "comments": 266
+      "score": 400,
+      "comments": 288
     },
     {
       "id": 49386895,
       "title": "Felony charges for citizen deleting phone data at US Border",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "score": 754,
-      "comments": 882
+      "score": 783,
+      "comments": 913
     }
   ]
 }
