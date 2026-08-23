@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-22 19:34:58 UTC",
-    "fetched_at_ist": "2026-08-23 01:04:58 IST",
+    "fetched_at_utc": "2026-08-23 03:36:51 UTC",
+    "fetched_at_ist": "2026-08-23 09:06:51 IST",
     "item_count": 5,
-    "content_hash": "0d126f0f39665bde6c9287b13b3d8fb2d376582d5a68abb7e57fa4f13f965b1f",
-    "previous_hash": "3ed4f4d513f0194b06dd06b7ddafd83313be55accc809a109766b66d531877bb",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "f0e34ea7a5a3540fc28265b24ff4e764bfd276fd550d792c4f0793c009e3c86f",
+    "previous_hash": "0d126f0f39665bde6c9287b13b3d8fb2d376582d5a68abb7e57fa4f13f965b1f",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49402741,
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "score": 33,
-      "comments": 2
+      "id": 49402189,
+      "title": "Scrap (2006)",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "score": 331,
+      "comments": 179
+    },
+    {
+      "id": 49404380,
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 60,
+      "comments": 18
+    },
+    {
+      "id": 49402232,
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "score": 209,
+      "comments": 69
     },
     {
       "id": 49400408,
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "url": "https://quantumi.sh/public/labs.html",
-      "score": 197,
-      "comments": 65
-    },
-    {
-      "id": 49402189,
-      "title": "Scrap",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 55,
-      "comments": 10
+      "score": 333,
+      "comments": 102
     },
     {
       "id": 49351802,
       "title": "Hister – A private, full content search index that you control",
       "url": "https://hister.org/",
-      "score": 80,
-      "comments": 20
-    },
-    {
-      "id": 49399898,
-      "title": "A Friendly Introduction to Racket",
-      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "score": 93,
-      "comments": 30
+      "score": 257,
+      "comments": 70
     }
   ]
 }
