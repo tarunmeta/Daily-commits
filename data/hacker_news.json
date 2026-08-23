@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 03:36:51 UTC",
-    "fetched_at_ist": "2026-08-23 09:06:51 IST",
+    "fetched_at_utc": "2026-08-23 06:41:22 UTC",
+    "fetched_at_ist": "2026-08-23 12:11:22 IST",
     "item_count": 5,
-    "content_hash": "f0e34ea7a5a3540fc28265b24ff4e764bfd276fd550d792c4f0793c009e3c86f",
-    "previous_hash": "0d126f0f39665bde6c9287b13b3d8fb2d376582d5a68abb7e57fa4f13f965b1f",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "c67acc358e570fa42e738430f23e905d141bd1513ad98760d72a66996848c70e",
+    "previous_hash": "f0e34ea7a5a3540fc28265b24ff4e764bfd276fd550d792c4f0793c009e3c86f",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49402189,
-      "title": "Scrap (2006)",
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "score": 331,
-      "comments": 179
+      "id": 49405816,
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "url": "https://martypc.net/",
+      "score": 73,
+      "comments": 14
     },
     {
-      "id": 49404380,
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "score": 60,
-      "comments": 18
+      "id": 49405870,
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "score": 48,
+      "comments": 24
     },
     {
-      "id": 49402232,
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "score": 209,
-      "comments": 69
+      "id": 49406333,
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "score": 10,
+      "comments": 0
     },
     {
-      "id": 49400408,
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "score": 333,
-      "comments": 102
+      "id": 49405682,
+      "title": "I Dream of Quieter Computing",
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "score": 46,
+      "comments": 15
     },
     {
-      "id": 49351802,
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "score": 257,
-      "comments": 70
+      "id": 49405331,
+      "title": "The Art and Beauty of Blade Runner (2015)",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "score": 52,
+      "comments": 13
     }
   ]
 }
