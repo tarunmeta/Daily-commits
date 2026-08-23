@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 18:30:46 UTC",
-    "fetched_at_ist": "2026-08-24 00:00:46 IST",
+    "fetched_at_utc": "2026-08-23 19:35:01 UTC",
+    "fetched_at_ist": "2026-08-24 01:05:01 IST",
     "item_count": 5,
-    "content_hash": "7ce1942a08e88f1047dabc6ba0b61346d8a8a7653dee0d01065c5589f810549f",
-    "previous_hash": "ba65eab33e2e3da7b5df1c99a4b407d9d75a211d2b9d6d99f92a5ae9244bedad",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "52b2f8dad5e6df5a38d1ac7fb3e42ea0cba4894a2ecc9aad22c11aaad61e0442",
+    "previous_hash": "7ce1942a08e88f1047dabc6ba0b61346d8a8a7653dee0d01065c5589f810549f",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49409073,
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "score": 328,
-      "comments": 134
-    },
-    {
-      "id": 49409473,
-      "title": "How Complex Systems Fail (1998)",
-      "url": "https://how.complexsystems.fail/",
-      "score": 115,
-      "comments": 29
+      "score": 457,
+      "comments": 204
     },
     {
       "id": 49410362,
       "title": "A website for debloated open source alternatives",
       "url": "https://debloat.dev/",
-      "score": 48,
-      "comments": 18
+      "score": 96,
+      "comments": 45
     },
     {
-      "id": 49410097,
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-      "score": 180,
-      "comments": 76
+      "id": 49409862,
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+      "score": 64,
+      "comments": 35
+    },
+    {
+      "id": 49409473,
+      "title": "How Complex Systems Fail (1998)",
+      "url": "https://how.complexsystems.fail/",
+      "score": 141,
+      "comments": 37
     },
     {
       "id": 49408550,
       "title": "Malware infects Android-based automotive head unit firmware",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "score": 164,
-      "comments": 75
+      "score": 171,
+      "comments": 82
     }
   ]
 }

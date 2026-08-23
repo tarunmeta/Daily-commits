@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-08-24 (last updated: 00:00 IST)
+
+## 📅 2026-08-24 (last updated: 01:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-21 11:34:17 IST | aecc90e858c7 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-24 00:00:46 IST | 7ce1942a08e8 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-24 01:05:01 IST | 52b2f8dad5e6 | +1 new stories, top changed: no |
 | Crypto | 4 | 2026-08-23 22:50:34 IST | 63402ddfea9d | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +1 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 449 stars today
 
 ### 📰 Hacker News Stories
-- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) — Score: 328
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) — Score: 115
-- [A website for debloated open source alternatives](https://debloat.dev/) — Score: 48
-- [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/) — Score: 180
-- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) — Score: 164
+- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) — Score: 457
+- [A website for debloated open source alternatives](https://debloat.dev/) — Score: 96
+- [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/) — Score: 64
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) — Score: 141
+- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) — Score: 171
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,282.0 🔴 -0.03%
