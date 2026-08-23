@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-23 10:40:43 UTC",
-    "fetched_at_ist": "2026-08-23 16:10:43 IST",
+    "fetched_at_utc": "2026-08-23 12:41:00 UTC",
+    "fetched_at_ist": "2026-08-23 18:11:00 IST",
     "item_count": 5,
-    "content_hash": "a836ac0c772e8904427d885575c395f06bba420ef18136e2f770bc081c8174f6",
-    "previous_hash": "2b12d9831cfc0c1c5a0dd9ec163ecb3eb6d8f9beb1480362493df3003c398d4b",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "ba65eab33e2e3da7b5df1c99a4b407d9d75a211d2b9d6d99f92a5ae9244bedad",
+    "previous_hash": "a836ac0c772e8904427d885575c395f06bba420ef18136e2f770bc081c8174f6",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49406333,
-      "title": "The End of an Athlon",
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "score": 98,
-      "comments": 25
+      "id": 49407576,
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
+      "score": 26,
+      "comments": 7
     },
     {
       "id": 49405870,
       "title": "To become a better writer, read as much as you can",
       "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "score": 161,
-      "comments": 105
+      "score": 232,
+      "comments": 151
+    },
+    {
+      "id": 49406333,
+      "title": "The End of an Athlon",
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "score": 124,
+      "comments": 40
+    },
+    {
+      "id": 49407309,
+      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
+      "url": "https://skylens.yantraai.app/",
+      "score": 19,
+      "comments": 1
     },
     {
       "id": 49406387,
       "title": "JIT Compiling Code in 5μs",
       "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "score": 68,
-      "comments": 32
-    },
-    {
-      "id": 49405816,
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "url": "https://martypc.net/",
-      "score": 119,
-      "comments": 39
-    },
-    {
-      "id": 49406285,
-      "title": "Fast and Hard Code",
-      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-      "score": 34,
-      "comments": 6
+      "score": 88,
+      "comments": 50
     }
   ]
 }
