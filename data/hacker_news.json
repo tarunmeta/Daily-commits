@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-24 20:30:45 UTC",
-    "fetched_at_ist": "2026-08-25 02:00:45 IST",
+    "fetched_at_utc": "2026-08-24 21:43:59 UTC",
+    "fetched_at_ist": "2026-08-25 03:13:59 IST",
     "item_count": 5,
-    "content_hash": "8d4c0cfbb2677561531ebd5a477bd47c1ed7f06d1313fdbb294bd86e97ea3592",
-    "previous_hash": "9bef8eaf3c08ffddb242d33ed182101de7acc52772ae95cd8dcc73fe0f5d42ea",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "0e08e843236714007d475f3c0b8d86147e1d7515ecc5ff0e96499a5118f9a08d",
+    "previous_hash": "8d4c0cfbb2677561531ebd5a477bd47c1ed7f06d1313fdbb294bd86e97ea3592",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49420873,
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 550,
-      "comments": 370
+      "score": 627,
+      "comments": 415
+    },
+    {
+      "id": 49425819,
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "score": 35,
+      "comments": 16
     },
     {
       "id": 49421158,
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 388,
-      "comments": 154
+      "score": 452,
+      "comments": 176
     },
     {
       "id": 49422784,
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "score": 183,
-      "comments": 61
+      "score": 245,
+      "comments": 86
     },
     {
-      "id": 49421489,
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "score": 254,
-      "comments": 124
-    },
-    {
-      "id": 49424758,
-      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-      "url": "https://github.com/l3a0/claude-plugins",
-      "score": 19,
-      "comments": 4
+      "id": 49424606,
+      "title": "Oceans hit highest temperature on record",
+      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "score": 248,
+      "comments": 118
     }
   ]
 }
