@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-24 22:44:18 UTC",
-    "fetched_at_ist": "2026-08-25 04:14:18 IST",
+    "fetched_at_utc": "2026-08-24 23:35:06 UTC",
+    "fetched_at_ist": "2026-08-25 05:05:06 IST",
     "item_count": 5,
-    "content_hash": "b2d61c0a336efa695f5cac60ea54346f045408186cf8772d3f55ddafc6f9f2ec",
-    "previous_hash": "0e08e843236714007d475f3c0b8d86147e1d7515ecc5ff0e96499a5118f9a08d",
+    "content_hash": "0a59d4df28cfa345982d2cfd79241f05dbf7da4fe9c1c4e2085a57232147bafc",
+    "previous_hash": "b2d61c0a336efa695f5cac60ea54346f045408186cf8772d3f55ddafc6f9f2ec",
     "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49420873,
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 665,
-      "comments": 453
-    },
     {
       "id": 49426564,
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 45,
-      "comments": 13
+      "score": 120,
+      "comments": 25
     },
     {
-      "id": 49425819,
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "score": 76,
-      "comments": 56
+      "id": 49420873,
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "score": 687,
+      "comments": 467
+    },
+    {
+      "id": 49426466,
+      "title": "Moon (2024)",
+      "url": "https://ciechanow.ski/moon/",
+      "score": 52,
+      "comments": 6
     },
     {
       "id": 49421158,
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 482,
-      "comments": 192
+      "score": 512,
+      "comments": 212
     },
     {
-      "id": 49422784,
-      "title": "The entire city of San Francisco as a video game",
-      "url": "https://sf.thijs.gg/",
-      "score": 282,
-      "comments": 100
+      "id": 49425819,
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "score": 93,
+      "comments": 72
     }
   ]
 }
