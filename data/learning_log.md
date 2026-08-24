@@ -19,18 +19,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-24 (last updated: 06:50 IST)
+
+## 📅 2026-08-24 (last updated: 11:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-08-21 11:34:17 IST | aecc90e858c7 | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-24 01:05:01 IST | 52b2f8dad5e6 | +1 new stories, top changed: no |
+| Hacker News | 5 | 2026-08-24 11:08:23 IST | 0ed528352f26 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-24 06:50:32 IST | 2a5a2a53d72b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +0 new repos, top changed: no
-- Hacker News: +1 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -46,11 +47,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 449 stars today
 
 ### 📰 Hacker News Stories
-- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/) — Score: 457
-- [A website for debloated open source alternatives](https://debloat.dev/) — Score: 96
-- [Why Sal Khan't: On Learning by Making but Teaching by Telling](https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/) — Score: 64
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/) — Score: 141
-- [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/) — Score: 171
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) — Score: 532
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/) — Score: 348
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245) — Score: 367
+- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/) — Score: 236
+- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) — Score: 245
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,379.0 🟢 +0.11%
