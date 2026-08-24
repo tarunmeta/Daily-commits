@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-24 15:39:35 UTC",
-    "fetched_at_ist": "2026-08-24 21:09:35 IST",
+    "fetched_at_utc": "2026-08-24 18:40:27 UTC",
+    "fetched_at_ist": "2026-08-25 00:10:27 IST",
     "item_count": 5,
-    "content_hash": "bebb42624447a86bca026b471b2f3855a8d88f78b1e73976f8b1851cd0c37b3a",
-    "previous_hash": "7ecca05bb13e8ba60021caba53bdb17940789246c60228ae764c4ac66d545c99",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "9bef8eaf3c08ffddb242d33ed182101de7acc52772ae95cd8dcc73fe0f5d42ea",
+    "previous_hash": "bebb42624447a86bca026b471b2f3855a8d88f78b1e73976f8b1851cd0c37b3a",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49420873,
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 59,
-      "comments": 10
+      "score": 429,
+      "comments": 256
+    },
+    {
+      "id": 49421158,
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "score": 273,
+      "comments": 120
+    },
+    {
+      "id": 49421489,
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "score": 179,
+      "comments": 75
+    },
+    {
+      "id": 49422784,
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "score": 80,
+      "comments": 28
     },
     {
       "id": 49419237,
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 500,
-      "comments": 336
-    },
-    {
-      "id": 49421074,
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "score": 13,
-      "comments": 6
-    },
-    {
-      "id": 49418255,
-      "title": "SeL4 security proofs now complete on AArch64",
-      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "score": 103,
-      "comments": 28
-    },
-    {
-      "id": 49420592,
-      "title": "Hot Chips 2026: Applying High Bandwidth Flash (HBF)",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-applying-high-bandwidth",
-      "score": 15,
-      "comments": 4
+      "score": 740,
+      "comments": 492
     }
   ]
 }
