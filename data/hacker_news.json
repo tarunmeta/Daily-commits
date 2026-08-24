@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-24 18:40:27 UTC",
-    "fetched_at_ist": "2026-08-25 00:10:27 IST",
+    "fetched_at_utc": "2026-08-24 20:30:45 UTC",
+    "fetched_at_ist": "2026-08-25 02:00:45 IST",
     "item_count": 5,
-    "content_hash": "9bef8eaf3c08ffddb242d33ed182101de7acc52772ae95cd8dcc73fe0f5d42ea",
-    "previous_hash": "bebb42624447a86bca026b471b2f3855a8d88f78b1e73976f8b1851cd0c37b3a",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "8d4c0cfbb2677561531ebd5a477bd47c1ed7f06d1313fdbb294bd86e97ea3592",
+    "previous_hash": "9bef8eaf3c08ffddb242d33ed182101de7acc52772ae95cd8dcc73fe0f5d42ea",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49420873,
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 429,
-      "comments": 256
+      "score": 550,
+      "comments": 370
     },
     {
       "id": 49421158,
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 273,
-      "comments": 120
-    },
-    {
-      "id": 49421489,
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "score": 179,
-      "comments": 75
+      "score": 388,
+      "comments": 154
     },
     {
       "id": 49422784,
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "score": 80,
-      "comments": 28
+      "score": 183,
+      "comments": 61
     },
     {
-      "id": 49419237,
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "score": 740,
-      "comments": 492
+      "id": 49421489,
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "score": 254,
+      "comments": 124
+    },
+    {
+      "id": 49424758,
+      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+      "url": "https://github.com/l3a0/claude-plugins",
+      "score": 19,
+      "comments": 4
     }
   ]
 }
