@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-25 04:39:21 UTC",
-    "fetched_at_ist": "2026-08-25 10:09:21 IST",
+    "fetched_at_utc": "2026-08-25 08:42:27 UTC",
+    "fetched_at_ist": "2026-08-25 14:12:27 IST",
     "item_count": 5,
-    "content_hash": "2dabc31e90513bf1850aded159567d7aa934911cb50a3ae07fb690f471082eee",
-    "previous_hash": "bad1c5eef951fed471988ba5a0fd3f7132ec0ccae5ded32116f0cc4e16000639",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "2e334da06363f4ce2aef84ccb98b65fe0506ef290ee564480959eeadebcfed58",
+    "previous_hash": "2dabc31e90513bf1850aded159567d7aa934911cb50a3ae07fb690f471082eee",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": false
   },
   "stories": [
@@ -15,36 +15,36 @@
       "id": 49426564,
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "score": 316,
-      "comments": 76
+      "score": 434,
+      "comments": 118
+    },
+    {
+      "id": 49399722,
+      "title": "Nostr is an inclusive communication commons",
+      "url": "https://nostr.org/",
+      "score": 129,
+      "comments": 54
     },
     {
       "id": 49420873,
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "score": 778,
-      "comments": 527
+      "score": 849,
+      "comments": 605
     },
     {
       "id": 49421158,
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "score": 614,
-      "comments": 241
-    },
-    {
-      "id": 49428882,
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "score": 10,
-      "comments": 3
+      "score": 693,
+      "comments": 288
     },
     {
       "id": 49428121,
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "score": 51,
-      "comments": 50
+      "score": 109,
+      "comments": 132
     }
   ]
 }
