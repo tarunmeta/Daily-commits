@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-25 15:42:11 UTC",
-    "fetched_at_ist": "2026-08-25 21:12:11 IST",
+    "fetched_at_utc": "2026-08-25 21:35:38 UTC",
+    "fetched_at_ist": "2026-08-26 03:05:38 IST",
     "item_count": 5,
-    "content_hash": "f71fb458e18704fbb6ecba2ef9171e0e0786509affbe411586482bbd0a6dcef9",
-    "previous_hash": "2e334da06363f4ce2aef84ccb98b65fe0506ef290ee564480959eeadebcfed58",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c2b3201ca781bdbc36cc751a5b776e675cfb5ccc896d1169d6b3e82b25f2c637",
+    "previous_hash": "f71fb458e18704fbb6ecba2ef9171e0e0786509affbe411586482bbd0a6dcef9",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49439017,
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 129,
+      "comments": 84
+    },
+    {
       "id": 49433292,
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 369,
-      "comments": 333
+      "score": 842,
+      "comments": 769
+    },
+    {
+      "id": 49434378,
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 196,
+      "comments": 134
     },
     {
       "id": 49433316,
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 373,
-      "comments": 247
+      "score": 650,
+      "comments": 396
     },
     {
-      "id": 49433450,
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "score": 147,
-      "comments": 78
-    },
-    {
-      "id": 49434820,
-      "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "score": 65,
-      "comments": 47
-    },
-    {
-      "id": 49432317,
-      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
-      "score": 163,
-      "comments": 64
+      "id": 49437210,
+      "title": "Black hole singularity is a surface not a point",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "score": 139,
+      "comments": 89
     }
   ]
 }
