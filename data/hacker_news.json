@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-26 05:36:46 UTC",
-    "fetched_at_ist": "2026-08-26 11:06:46 IST",
+    "fetched_at_utc": "2026-08-26 10:40:50 UTC",
+    "fetched_at_ist": "2026-08-26 16:10:50 IST",
     "item_count": 5,
-    "content_hash": "e372edb131e0b8ee9c93b6b3226a917422701e006c7049ee1737aab18568b2f5",
-    "previous_hash": "3a0b8ce2ad80e2b4c4a2b7da815352965a3971811adb4a7f47014dadd3a62ef9",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "513338a7ef3eaea62a2e098d8312c025ed5e0407bb6d433491f725f5521a6f83",
+    "previous_hash": "e372edb131e0b8ee9c93b6b3226a917422701e006c7049ee1737aab18568b2f5",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49445873,
+      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "score": 41,
+      "comments": 3
+    },
+    {
+      "id": 49445727,
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "score": 46,
+      "comments": 23
+    },
+    {
+      "id": 49445884,
+      "title": "Value Classes Still Need Compiler Sympathy",
+      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+      "score": 17,
+      "comments": 4
+    },
+    {
+      "id": 49445286,
+      "title": "Show HN: Buslens – where can I get to by bus? (UK)",
+      "url": "https://rupertlinacre.com/buslens/",
+      "score": 32,
+      "comments": 21
+    },
+    {
       "id": 49433292,
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 1043,
-      "comments": 970
-    },
-    {
-      "id": 49439017,
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 333,
-      "comments": 161
-    },
-    {
-      "id": 49434378,
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 398,
-      "comments": 262
-    },
-    {
-      "id": 49433316,
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 735,
-      "comments": 483
-    },
-    {
-      "id": 49442589,
-      "title": "Queryable Executables",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "score": 71,
-      "comments": 11
+      "score": 1152,
+      "comments": 1125
     }
   ]
 }
