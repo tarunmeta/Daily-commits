@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-25 23:38:17 UTC",
-    "fetched_at_ist": "2026-08-26 05:08:17 IST",
+    "fetched_at_utc": "2026-08-26 05:36:46 UTC",
+    "fetched_at_ist": "2026-08-26 11:06:46 IST",
     "item_count": 5,
-    "content_hash": "3a0b8ce2ad80e2b4c4a2b7da815352965a3971811adb4a7f47014dadd3a62ef9",
-    "previous_hash": "86a845087ed3534f9306c016defdd5d3140ea130dcfbe1f43c546e8eb298ba5d",
-    "new_story_ids_vs_previous": 0,
-    "top_story_changed": false
+    "content_hash": "e372edb131e0b8ee9c93b6b3226a917422701e006c7049ee1737aab18568b2f5",
+    "previous_hash": "3a0b8ce2ad80e2b4c4a2b7da815352965a3971811adb4a7f47014dadd3a62ef9",
+    "new_story_ids_vs_previous": 1,
+    "top_story_changed": true
   },
   "stories": [
-    {
-      "id": 49439017,
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "score": 209,
-      "comments": 125
-    },
-    {
-      "id": 49441033,
-      "title": "Python's pre-declared constants are kinda weird",
-      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "score": 88,
-      "comments": 34
-    },
     {
       "id": 49433292,
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "score": 904,
-      "comments": 858
+      "score": 1043,
+      "comments": 970
+    },
+    {
+      "id": 49439017,
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "score": 333,
+      "comments": 161
     },
     {
       "id": 49434378,
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "score": 274,
-      "comments": 187
+      "score": 398,
+      "comments": 262
     },
     {
       "id": 49433316,
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "score": 680,
-      "comments": 418
+      "score": 735,
+      "comments": 483
+    },
+    {
+      "id": 49442589,
+      "title": "Queryable Executables",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "score": 71,
+      "comments": 11
     }
   ]
 }
