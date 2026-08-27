@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-26 14:44:48 UTC",
-    "fetched_at_ist": "2026-08-26 20:14:48 IST",
+    "fetched_at_utc": "2026-08-27 14:33:09 UTC",
+    "fetched_at_ist": "2026-08-27 20:03:09 IST",
     "item_count": 5,
-    "content_hash": "e6d98e45a6854741617da4a5204f71ae53737f3cf3c95fc662d7c1f3c8c527a7",
-    "previous_hash": "513338a7ef3eaea62a2e098d8312c025ed5e0407bb6d433491f725f5521a6f83",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "46e504a4304da494876d54d04c42956ec600722357f8c76d7398646b2962f366",
+    "previous_hash": "e6d98e45a6854741617da4a5204f71ae53737f3cf3c95fc662d7c1f3c8c527a7",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49448321,
-      "title": "AWS Acquires DuckDB",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "score": 411,
-      "comments": 94
+      "id": 49458161,
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "score": 1534,
+      "comments": 689
     },
     {
-      "id": 49449507,
-      "title": "GLM-5.3-Flash",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "score": 146,
-      "comments": 40
+      "id": 49462763,
+      "title": "Pollen Robotics (Hugging Face) Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "score": 177,
+      "comments": 63
     },
     {
-      "id": 49448210,
-      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "score": 231,
-      "comments": 74
+      "id": 49464970,
+      "title": "Harness Engineering",
+      "url": "https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/",
+      "score": 23,
+      "comments": 11
     },
     {
-      "id": 49445727,
-      "title": "RAG Is Simpler Than You Think",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "score": 264,
-      "comments": 111
+      "id": 49464543,
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "score": 34,
+      "comments": 5
     },
     {
-      "id": 49448150,
-      "title": "A curmudgeon tries a language server",
-      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-      "score": 38,
-      "comments": 14
+      "id": 49464637,
+      "title": "CoMaps integration with the wider FLOSS ecosystem – CoMaps",
+      "url": "https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/",
+      "score": 35,
+      "comments": 2
     }
   ]
 }
