@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-27 14:33:09 UTC",
-    "fetched_at_ist": "2026-08-27 20:03:09 IST",
+    "fetched_at_utc": "2026-08-28 00:00:43 UTC",
+    "fetched_at_ist": "2026-08-28 05:30:43 IST",
     "item_count": 5,
-    "content_hash": "46e504a4304da494876d54d04c42956ec600722357f8c76d7398646b2962f366",
-    "previous_hash": "e6d98e45a6854741617da4a5204f71ae53737f3cf3c95fc662d7c1f3c8c527a7",
+    "content_hash": "875a9377d8d4cb1af654b0b49a963a746267c5e019f7ad1f569bfffde171a6b3",
+    "previous_hash": "46e504a4304da494876d54d04c42956ec600722357f8c76d7398646b2962f366",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49458161,
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "score": 1534,
-      "comments": 689
+      "id": 49468083,
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "score": 451,
+      "comments": 126
     },
     {
-      "id": 49462763,
-      "title": "Pollen Robotics (Hugging Face) Microduck",
-      "url": "https://pollen-robotics.com/microduck/",
-      "score": 177,
-      "comments": 63
+      "id": 49472090,
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+      "score": 44,
+      "comments": 27
     },
     {
-      "id": 49464970,
-      "title": "Harness Engineering",
-      "url": "https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/",
-      "score": 23,
-      "comments": 11
+      "id": 49466917,
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "score": 413,
+      "comments": 187
     },
     {
-      "id": 49464543,
-      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
-      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "id": 49465169,
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "score": 439,
+      "comments": 64
+    },
+    {
+      "id": 49471965,
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
       "score": 34,
-      "comments": 5
-    },
-    {
-      "id": 49464637,
-      "title": "CoMaps integration with the wider FLOSS ecosystem – CoMaps",
-      "url": "https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/",
-      "score": 35,
-      "comments": 2
+      "comments": 4
     }
   ]
 }

@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-27 14:33:09 UTC`
+**Last Meaningful Data Update (UTC):** `2026-08-28 00:00:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **modular/modular**
-- BTC: **$78,889.0** ↓ (-0.25%)
-- HN top story: **Nvidia agrees to acquire Hugging Face for $13B**
+- Top GitHub repo: **bilawalsidhu/gods-eye-view**
+- BTC: **$80,261.0** ↑ (+1.59%)
+- HN top story: **Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-08-21 06:04:17 UTC | `aecc90e858c7` | +0 new repos, top changed: no |
-| Hacker News | 5 | 2026-08-27 14:33:09 UTC | `46e504a4304d` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-27 03:27:56 UTC | `dae5aa12095a` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 19 | 2026-08-28 00:00:42 UTC | `82767f0fe1f1` | +19 new repos, top changed: yes |
+| Hacker News | 5 | 2026-08-28 00:00:43 UTC | `875a9377d8d4` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-08-28 00:00:42 UTC | `3a152912bc14` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +0 new repos, top changed: no
+- GitHub: +19 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -29,12 +29,12 @@
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-08-27` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| Streak | `51` day(s) |
-| Last Commit (IST) | `2026-08-27 08:57:57 IST` |
+| Date (IST) | `2026-08-28` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-08-27 20:03:09 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,45 +42,45 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-08-21 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 | 2026-08-22 | 41 | `████████░░░░░░░░░░░░` 41% |
 | 2026-08-23 | 40 | `████████░░░░░░░░░░░░` 40% |
 | 2026-08-24 | 32 | `██████░░░░░░░░░░░░░░` 32% |
 | 2026-08-25 | 33 | `██████░░░░░░░░░░░░░░` 33% |
 | 2026-08-26 | 28 | `█████░░░░░░░░░░░░░░░` 28% |
 | 2026-08-27 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-08-28 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,889.0 | -0.25% | 🔴 |
-| Ethereum | $2,494.98 | +1.27% | 🟢 |
-| Solana | $101.6 | +4.57% | 🟢 |
-| Bnb | $703.11 | +0.96% | 🟢 |
+| Bitcoin | $80,261.0 | +1.59% | 🟢 |
+| Ethereum | $2,510.17 | +0.16% | 🟢 |
+| Solana | $109.19 | +7.03% | 🟢 |
+| Bnb | $712.02 | +0.64% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [modular/modular](https://github.com/modular/modular) | Mojo | 268 stars today | The Modular Platform (includes MAX & Mojo) |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,192 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | 1,545 stars today | ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — re… |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 727 stars today | An agentic skills framework & software development methodology that works. |
-| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 449 stars today | Cursor plugin specification and official plugins |
-| [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | 816 stars today | Open-source AI job search: scan job portals, evaluate listings with a structured… |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 332 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | 2,761 stars today | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyw… |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 1,984 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
+| [zedeus/nitter](https://github.com/zedeus/nitter) | Nim | 71 stars today | Alternative Twitter front-end |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 2,096 stars today | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新… |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 4,239 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
+| [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | 300 stars today | Help AI coding agents write modern Go |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 292 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 498 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,613 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) | 1534 | 689 |
-| [Pollen Robotics (Hugging Face) Microduck](https://pollen-robotics.com/microduck/) | 177 | 63 |
-| [Harness Engineering](https://Habitat-Thinking.github.io/ai-literacy-superpowers/plugins/ai-literacy-superpowers/explanation/harness-engineering/) | 23 | 11 |
-| [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31) | 34 | 5 |
-| [CoMaps integration with the wider FLOSS ecosystem – CoMaps](https://www.comaps.app/news/2026-08-23/comaps-integration-with-the-wider-floss-ecosystem/) | 35 | 2 |
+| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | 451 | 126 |
+| [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/) | 44 | 27 |
+| [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | 413 | 187 |
+| [507 Mechanical Movements](https://507movements.com/) | 439 | 64 |
+| [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) | 34 | 4 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
