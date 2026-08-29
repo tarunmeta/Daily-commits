@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-08-29 (last updated: 08:47 IST)
+
+## 📅 2026-08-29 (last updated: 15:49 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-08-28 05:30:42 IST | 82767f0fe1f1 | +19 new repos, top changed: yes |
 | Hacker News | 5 | 2026-08-28 05:30:43 IST | 875a9377d8d4 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-29 08:47:56 IST | c789631b83c9 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-08-29 15:49:34 IST | a59f3e90e263 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** (JavaScript) — A spy satellite simulator in your browser, except the data is real. Live open so  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) — Score: 34
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,679.0 🔴 -2.83%
-- Ethereum: $2,438.95 🔴 -2.10%
-- Solana: $103.97 🔴 -2.18%
-- Bnb: $690.05 🔴 -2.60%
+- Bitcoin: $77,658.0 🔴 -1.93%
+- Ethereum: $2,436.28 🔴 -2.02%
+- Solana: $103.43 🔴 -1.72%
+- Bnb: $688.82 🔴 -2.23%
 
 ---
 ## 📅 2026-08-28 (last updated: 16:54 IST)
