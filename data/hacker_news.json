@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-29 23:30:53 UTC",
-    "fetched_at_ist": "2026-08-30 05:00:53 IST",
+    "fetched_at_utc": "2026-08-30 01:41:03 UTC",
+    "fetched_at_ist": "2026-08-30 07:11:03 IST",
     "item_count": 5,
-    "content_hash": "5c485f700d7492c56e0e1ad22d6738217289a838e3b4d8a7339ef08be484d563",
-    "previous_hash": "df9f582a744173bb80eab67b398c89978e836988ca26b00d890174d6f2dbda59",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "02e3b81b1e039086b52c58f53bdf4f5e21f8154318ca5279c2e4732b7a6fc337",
+    "previous_hash": "5c485f700d7492c56e0e1ad22d6738217289a838e3b4d8a7339ef08be484d563",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49494520,
+      "title": "Bug Blindness",
+      "url": "https://danluu.com/bug-blind/",
+      "score": 37,
+      "comments": 9
+    },
+    {
       "id": 49492632,
-      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "title": "Hy4 preview",
       "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 143,
-      "comments": 86
+      "score": 194,
+      "comments": 120
     },
     {
-      "id": 49494036,
-      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-      "url": "https://defrag98.com",
-      "score": 21,
-      "comments": 10
-    },
-    {
-      "id": 49482833,
-      "title": "Nancy Grace Roman Space Telescope Launches this Sunday",
-      "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-      "score": 45,
-      "comments": 5
+      "id": 49494856,
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "url": "https://freecore.org/",
+      "score": 3,
+      "comments": 0
     },
     {
       "id": 49415386,
       "title": "Tether: iMessage, SMS, etc. on Linux",
       "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 292,
-      "comments": 123
+      "score": 355,
+      "comments": 144
     },
     {
-      "id": 49492067,
-      "title": "vLLM v0.28.0",
-      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-      "score": 78,
-      "comments": 29
+      "id": 49494231,
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "score": 90,
+      "comments": 62
     }
   ]
 }
