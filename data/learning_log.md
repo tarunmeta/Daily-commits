@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-08-30 (last updated: 12:57 IST)
+
+## 📅 2026-08-30 (last updated: 23:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-08-28 05:30:42 IST | 82767f0fe1f1 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-30 07:11:03 IST | 02e3b81b1e03 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-30 23:01:03 IST | 42e1a76ccd3c | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-08-30 12:57:11 IST | d0e1f27be774 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 300 stars today
 
 ### 📰 Hacker News Stories
-- [Bug Blindness](https://danluu.com/bug-blind/) — Score: 37
-- [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) — Score: 194
-- [FreeCORE TrueNAS Core – Continued](https://freecore.org/) — Score: 3
-- [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) — Score: 355
-- [Highest-ever ocean temperature measured as powerful El Niño forms](https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms) — Score: 90
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) — Score: 322
+- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) — Score: 75
+- [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/) — Score: 143
+- [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/) — Score: 23
+- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) — Score: 169
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,228.0 🟢 +0.91%
