@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-08-31 (last updated: 23:01 IST)
+
+## 📅 2026-08-31 (last updated: 04:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-08-28 05:30:42 IST | 82767f0fe1f1 | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-30 23:01:03 IST | 42e1a76ccd3c | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-08-31 04:14:29 IST | 055c0edaa93c | +3 new stories, top changed: no |
 | Crypto | 4 | 2026-08-30 12:57:11 IST | d0e1f27be774 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +19 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 300 stars today
 
 ### 📰 Hacker News Stories
-- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) — Score: 322
-- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) — Score: 75
-- [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/) — Score: 143
-- [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/) — Score: 23
-- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/) — Score: 169
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) — Score: 804
+- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) — Score: 47
+- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) — Score: 218
+- [NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/) — Score: 64
+- [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html) — Score: 32
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,228.0 🟢 +0.91%
@@ -44,12 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $693.89 🟢 +0.96%
 
 ---
-
-
-
-
-
-
 ## 📅 2026-08-30 (last updated: 23:01 IST)
 
 ### 🧪 Source Integrity Snapshot
