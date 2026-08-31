@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-08-30 22:44:29 UTC",
-    "fetched_at_ist": "2026-08-31 04:14:29 IST",
+    "fetched_at_utc": "2026-08-31 06:44:49 UTC",
+    "fetched_at_ist": "2026-08-31 12:14:49 IST",
     "item_count": 5,
-    "content_hash": "055c0edaa93c904771ccd0686ac48c773c28e81042461e6b60927cedd9a50f9f",
-    "previous_hash": "42e1a76ccd3cc40e688b11e7a87e15cfd24eac54dd269f0538094fe08994912a",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "200118f71c88508a1ecdf7cab14f4a8de62e98901817ff40e969833ed620c665",
+    "previous_hash": "055c0edaa93c904771ccd0686ac48c773c28e81042461e6b60927cedd9a50f9f",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": true
   },
   "stories": [
+    {
+      "id": 49503601,
+      "title": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "score": 576,
+      "comments": 141
+    },
+    {
+      "id": 49505219,
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "score": 58,
+      "comments": 26
+    },
     {
       "id": 49491791,
       "title": "Creepy Crawlies",
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "score": 804,
-      "comments": 372
+      "score": 1051,
+      "comments": 518
     },
     {
-      "id": 49502214,
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "score": 47,
-      "comments": 8
+      "id": 49480091,
+      "title": "It takes 5 cloud services to hear my doorbell",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "score": 99,
+      "comments": 72
     },
     {
-      "id": 49499867,
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "score": 218,
-      "comments": 64
-    },
-    {
-      "id": 49478426,
-      "title": "NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "score": 64,
-      "comments": 5
-    },
-    {
-      "id": 49502611,
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "score": 32,
-      "comments": 6
+      "id": 49505217,
+      "title": "Transfer files over an Ethernet patch cable",
+      "url": "https://maurycyz.com/misc/etherfiles/",
+      "score": 35,
+      "comments": 11
     }
   ]
 }
