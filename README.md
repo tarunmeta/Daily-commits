@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-01 00:00:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-01 18:12:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **THU-MAIC/OpenMAIC**
-- BTC: **$78,546.0** ↑ (+1.18%)
-- HN top story: **Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO**
+- Top GitHub repo: **Gitlawb/openclaude**
+- BTC: **$77,153.0** ↓ (-2.13%)
+- HN top story: **Play Store blocks AuroraStore, hurting GrapheneOS users**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-01 00:00:42 UTC | `064b24830e56` | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-01 00:00:43 UTC | `4adad36d01d0` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-01 00:00:42 UTC | `0f508c08c2e1` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 15 | 2026-09-01 18:12:47 UTC | `ac80415717c0` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-01 18:12:48 UTC | `b5550cc312f1` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-01 18:12:47 UTC | `c1c92b9dac1b` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +14 new repos, top changed: yes
+- GitHub: +9 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-01` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `54` day(s) |
-| Last Commit (IST) | `2026-09-01 15:36:51 IST` |
+| Last Commit (IST) | `2026-09-01 20:23:52 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-29 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-08-30 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-08-31 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
-| 2026-09-01 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-09-01 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,546.0 | +1.18% | 🟢 |
-| Ethereum | $2,466.99 | +2.18% | 🟢 |
-| Solana | $103.01 | +1.54% | 🟢 |
-| Bnb | $691.14 | +1.03% | 🟢 |
+| Bitcoin | $77,153.0 | -2.13% | 🔴 |
+| Ethereum | $2,411.32 | -2.41% | 🔴 |
+| Solana | $100.35 | -3.05% | 🔴 |
+| Bnb | $681.79 | -1.52% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 2,824 stars today | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning … |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 3,991 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,980 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | 582 stars today | Advanced UX and interoperability extension for Wand (WeMod) app |
-| [majd/ipatool](https://github.com/majd/ipatool) | Go | 373 stars today | Command-line tool that allows searching and downloading app packages (known as i… |
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 495 stars today | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
-| [Osmantic/ODS](https://github.com/Osmantic/ODS) | Python | 77 stars today | Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice… |
-| [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | Java | 198 stars today | Checkstyle is a development tool to help programmers write Java code that adhere… |
+| [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | 37 stars today | runs anywhere. uses anything |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 161 stars today | Academic Research Skills for Claude Code: research → write → review → revise → f… |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 3,122 stars today | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning … |
+| [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | 583 stars today | Invidious is an alternative front-end to YouTube |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 1,005 stars today | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 745 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [3b1b/manim](https://github.com/3b1b/manim) | Python | 74 stars today | Animation engine for explanatory math videos |
+| [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | 545 stars today | Fast Rust library for PDF inspection, classification, and text extraction. Intel… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) | 371 | 287 |
-| [Run macOS Software on Linux](https://www.darlinghq.org/) | 30 | 5 |
-| [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | 338 | 91 |
-| ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html) | 109 | 66 |
-| [Playa Phone](https://playaphone.com/) | 468 | 175 |
+| [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566) | 251 | 88 |
+| [What's new in Claude Fable 5.1](https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1) | 55 | 21 |
+| [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/) | 28 | 3 |
+| [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656) | 687 | 191 |
+| [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/) | 87 | 36 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

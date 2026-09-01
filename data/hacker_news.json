@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-01 00:00:43 UTC",
-    "fetched_at_ist": "2026-09-01 05:30:43 IST",
+    "fetched_at_utc": "2026-09-01 18:12:48 UTC",
+    "fetched_at_ist": "2026-09-01 23:42:48 IST",
     "item_count": 5,
-    "content_hash": "4adad36d01d05705feedca3a6da766775d480869583f288e9193087e02af3e82",
-    "previous_hash": "200118f71c88508a1ecdf7cab14f4a8de62e98901817ff40e969833ed620c665",
+    "content_hash": "b5550cc312f19486b69bb224ffd606914b505d7e63e149712ff3e0aa940c281b",
+    "previous_hash": "4adad36d01d05705feedca3a6da766775d480869583f288e9193087e02af3e82",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49514878,
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "score": 371,
-      "comments": 287
+      "id": 49523754,
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "score": 251,
+      "comments": 88
     },
     {
-      "id": 49515830,
-      "title": "Run macOS Software on Linux",
-      "url": "https://www.darlinghq.org/",
-      "score": 30,
-      "comments": 5
+      "id": 49525378,
+      "title": "What's new in Claude Fable 5.1",
+      "url": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1",
+      "score": 55,
+      "comments": 21
     },
     {
-      "id": 49511856,
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "score": 338,
-      "comments": 91
+      "id": 49525153,
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "score": 28,
+      "comments": 3
     },
     {
-      "id": 49476239,
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "score": 109,
-      "comments": 66
+      "id": 49520022,
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "score": 687,
+      "comments": 191
     },
     {
-      "id": 49510514,
-      "title": "Playa Phone",
-      "url": "https://playaphone.com/",
-      "score": 468,
-      "comments": 175
+      "id": 49523387,
+      "title": "Ambient CSS v3 – Blender meets CSS",
+      "url": "https://ambientcss.vercel.app/",
+      "score": 87,
+      "comments": 36
     }
   ]
 }
