@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-08-31 20:19:18 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-01 00:00:43 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **bilawalsidhu/gods-eye-view**
-- BTC: **$78,946.0** ↑ (+0.10%)
-- HN top story: **“I just chose words carefully”**
+- Top GitHub repo: **THU-MAIC/OpenMAIC**
+- BTC: **$78,546.0** ↑ (+1.18%)
+- HN top story: **Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-08-28 00:00:42 UTC | `82767f0fe1f1` | +19 new repos, top changed: yes |
-| Hacker News | 5 | 2026-08-31 06:44:49 UTC | `200118f71c88` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-08-31 20:19:18 UTC | `e646e0a76991` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-09-01 00:00:42 UTC | `064b24830e56` | +14 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-01 00:00:43 UTC | `4adad36d01d0` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-01 00:00:42 UTC | `0f508c08c2e1` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +19 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +14 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-01` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-08-31 19:58:42 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `54` day(s) |
+| Last Commit (IST) | `2026-09-01 01:49:18 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-08-29 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-08-30 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-08-31 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
-| 2026-09-01 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-09-01 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $78,946.0 | +0.10% | 🟢 |
-| Ethereum | $2,479.61 | -1.02% | 🔴 |
-| Solana | $103.83 | -1.86% | 🔴 |
-| Bnb | $691.61 | -1.16% | 🔴 |
+| Bitcoin | $78,546.0 | +1.18% | 🟢 |
+| Ethereum | $2,466.99 | +2.18% | 🟢 |
+| Solana | $103.01 | +1.54% | 🟢 |
+| Bnb | $691.14 | +1.03% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 1,984 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
-| [zedeus/nitter](https://github.com/zedeus/nitter) | Nim | 71 stars today | Alternative Twitter front-end |
-| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | 2,096 stars today | Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新… |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 4,239 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
-| [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | 300 stars today | Help AI coding agents write modern Go |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 292 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 498 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,613 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | 2,824 stars today | Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning … |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | 3,991 stars today | Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flo… |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 1,980 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
+| [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | 582 stars today | Advanced UX and interoperability extension for Wand (WeMod) app |
+| [majd/ipatool](https://github.com/majd/ipatool) | Go | 373 stars today | Command-line tool that allows searching and downloading app packages (known as i… |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 495 stars today | 🧠 Train a 64M-parameter LLM from scratch in just 2h! |
+| [Osmantic/ODS](https://github.com/Osmantic/ODS) | Python | 77 stars today | Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice… |
+| [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | Java | 198 stars today | Checkstyle is a development tool to help programmers write Java code that adhere… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) | 576 | 141 |
-| [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) | 58 | 26 |
-| [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | 1051 | 518 |
-| [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/) | 99 | 72 |
-| [Transfer files over an Ethernet patch cable](https://maurycyz.com/misc/etherfiles/) | 35 | 11 |
+| [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) | 371 | 287 |
+| [Run macOS Software on Linux](https://www.darlinghq.org/) | 30 | 5 |
+| [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | 338 | 91 |
+| ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html) | 109 | 66 |
+| [Playa Phone](https://playaphone.com/) | 468 | 175 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
