@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-01 18:12:48 UTC",
-    "fetched_at_ist": "2026-09-01 23:42:48 IST",
+    "fetched_at_utc": "2026-09-02 18:34:18 UTC",
+    "fetched_at_ist": "2026-09-03 00:04:18 IST",
     "item_count": 5,
-    "content_hash": "b5550cc312f19486b69bb224ffd606914b505d7e63e149712ff3e0aa940c281b",
-    "previous_hash": "4adad36d01d05705feedca3a6da766775d480869583f288e9193087e02af3e82",
+    "content_hash": "456fecee4e3697c33501c5fc11a4f1288d09587b01f1c7a4f0e807f5b234d1a8",
+    "previous_hash": "b5550cc312f19486b69bb224ffd606914b505d7e63e149712ff3e0aa940c281b",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49523754,
-      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-      "score": 251,
-      "comments": 88
+      "id": 49537553,
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "score": 515,
+      "comments": 301
     },
     {
-      "id": 49525378,
-      "title": "What's new in Claude Fable 5.1",
-      "url": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1",
-      "score": 55,
-      "comments": 21
+      "id": 49535752,
+      "title": "A Note from LWN",
+      "url": "https://lwn.net/Articles/1090585/",
+      "score": 594,
+      "comments": 122
     },
     {
-      "id": 49525153,
-      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "score": 28,
-      "comments": 3
+      "id": 49539872,
+      "title": "I Don't Have a Smartphone",
+      "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+      "score": 47,
+      "comments": 38
     },
     {
-      "id": 49520022,
-      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-      "score": 687,
-      "comments": 191
+      "id": 49539389,
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "score": 54,
+      "comments": 26
     },
     {
-      "id": 49523387,
-      "title": "Ambient CSS v3 – Blender meets CSS",
-      "url": "https://ambientcss.vercel.app/",
-      "score": 87,
-      "comments": 36
+      "id": 49535284,
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "score": 276,
+      "comments": 122
     }
   ]
 }
