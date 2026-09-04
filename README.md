@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-03 23:26:12 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-04 18:10:10 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **fmtlib/fmt**
-- BTC: **$81,198.0** ↑ (+5.28%)
-- HN top story: **.name Termination**
+- Top GitHub repo: **mattpocock/skills**
+- BTC: **$79,569.0** ↓ (-2.09%)
+- HN top story: **Discovery of a new OpenAI agent message board**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-09-03 06:14:39 UTC | `a41a2b1f6b30` | +14 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-03 18:40:03 UTC | `ffd9f00b1d5a` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-03 23:26:12 UTC | `66c01c060734` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 17 | 2026-09-04 18:10:09 UTC | `b509993114f5` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-04 18:10:10 UTC | `2a934df98ffd` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-04 18:10:09 UTC | `655f2b7e36ba` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +14 new repos, top changed: yes
+- GitHub: +8 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-04` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `55` day(s) |
-| Last Commit (IST) | `2026-09-04 16:26:06 IST` |
+| Last Commit (IST) | `2026-09-04 20:22:07 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-01 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-02 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-03 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-04 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-09-04 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,198.0 | +5.28% | 🟢 |
-| Ethereum | $2,497.22 | +4.80% | 🟢 |
-| Solana | $103.9 | +4.11% | 🟢 |
-| Bnb | $724.17 | +5.51% | 🟢 |
+| Bitcoin | $79,569.0 | -2.09% | 🔴 |
+| Ethereum | $2,448.74 | -2.33% | 🔴 |
+| Solana | $101.5 | -3.45% | 🔴 |
+| Bnb | $717.69 | -0.69% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 14 stars today | A modern formatting library |
-| [google-research/timesfm](https://github.com/google-research/timesfm) | Python | 343 stars today | TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,354 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 832 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
-| [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | Python | 63 stars today | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
-| [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | 148 stars today | Chrome DevTools for coding agents |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 533 stars today | The agent that grows with you |
-| [superlinked/sie](https://github.com/superlinked/sie) | Python | 60 stars today | Open-source inference server and production cluster for all the models your agen… |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,757 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,683 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 681 stars today | A modern formatting library |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,139 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 512 stars today | Public repository for Agent Skills |
+| [blader/humanizer](https://github.com/blader/humanizer) | Python | 1,132 stars today | Agent skill that removes signs of AI-generated writing from text |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 721 stars today | The agent that grows with you |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 503 stars today | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [.name Termination](https://neil.fraser.name/news/2026/09/03/) | 762 | 193 |
-| [Qwen 3.8 27B available on Cerebras at 1500 tok/SEC](https://inference-docs.cerebras.ai/models/overview) | 29 | 1 |
-| [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/) | 157 | 50 |
-| [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/) | 226 | 105 |
-| [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) | 44 | 9 |
+| [Discovery of a new OpenAI agent message board](https://collusion.wiki/) | 1005 | 791 |
+| [Show HN: Open-Source eInk Bike Computer](https://opentrailpaper.com) | 43 | 11 |
+| [Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/) | 25 | 10 |
+| [Solving the Jane Street reverse engineering challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html) | 311 | 73 |
+| [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | 2083 | 1898 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

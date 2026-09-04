@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-03 18:40:03 UTC",
-    "fetched_at_ist": "2026-09-04 00:10:03 IST",
+    "fetched_at_utc": "2026-09-04 18:10:10 UTC",
+    "fetched_at_ist": "2026-09-04 23:40:10 IST",
     "item_count": 5,
-    "content_hash": "ffd9f00b1d5a2c161a000a0bb3fcf7eef85ceccc9403b1757af97da10ef05d01",
-    "previous_hash": "62e3970904c8b49e0641927f6a06b5b14c1691948a860a370da247832b9d257a",
+    "content_hash": "2a934df98ffd94446905c049e64d5e8e2102a2041e1f9cb8d39c1ccade33dc07",
+    "previous_hash": "ffd9f00b1d5a2c161a000a0bb3fcf7eef85ceccc9403b1757af97da10ef05d01",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49550772,
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "score": 762,
-      "comments": 193
+      "id": 49563355,
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "score": 1005,
+      "comments": 791
     },
     {
-      "id": 49554520,
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tok/SEC",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "score": 29,
-      "comments": 1
+      "id": 49567437,
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "score": 43,
+      "comments": 11
     },
     {
-      "id": 49551760,
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "score": 157,
-      "comments": 50
+      "id": 49566788,
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "score": 25,
+      "comments": 10
     },
     {
-      "id": 49550698,
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "url": "https://anyhumanever.com/",
-      "score": 226,
-      "comments": 105
+      "id": 49562657,
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "score": 311,
+      "comments": 73
     },
     {
-      "id": 49550375,
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "score": 44,
-      "comments": 9
+      "id": 49554643,
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "score": 2083,
+      "comments": 1898
     }
   ]
 }
