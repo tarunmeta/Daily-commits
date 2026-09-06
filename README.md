@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-05 23:22:29 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-06 06:00:50 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **mattpocock/skills**
-- BTC: **$79,794.0** ↑ (+0.15%)
-- HN top story: **The Real Luxuries In Life**
+- BTC: **$79,948.0** ↑ (+0.45%)
+- HN top story: **Cloud in a Bottle: making self-hosting accessible to everyone**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-09-04 18:10:09 UTC | `b509993114f5` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-05 21:43:01 UTC | `87de330c9641` | +3 new stories, top changed: no |
-| Crypto | 4 | 2026-09-05 23:22:29 UTC | `76bce8e5bef9` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 16 | 2026-09-06 06:00:48 UTC | `9b78dfbd4b7b` | +5 new repos, top changed: no |
+| Hacker News | 5 | 2026-09-06 06:00:50 UTC | `57aa8b72e465` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-06 06:00:48 UTC | `d402e353a550` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- GitHub: +5 new repos, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-06` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `57` day(s) |
-| Last Commit (IST) | `2026-09-06 04:52:30 IST` |
+| Last Commit (IST) | `2026-09-06 06:44:10 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-03 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-04 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-09-05 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
-| 2026-09-06 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-09-06 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $79,794.0 | +0.15% | 🟢 |
-| Ethereum | $2,480.78 | +1.10% | 🟢 |
-| Solana | $103.29 | +1.36% | 🟢 |
-| Bnb | $765.25 | +6.28% | 🟢 |
+| Bitcoin | $79,948.0 | +0.45% | 🟢 |
+| Ethereum | $2,512.45 | +2.50% | 🟢 |
+| Solana | $106.4 | +4.44% | 🟢 |
+| Bnb | $761.45 | +5.38% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,757 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,683 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 681 stars today | A modern formatting library |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,139 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 512 stars today | Public repository for Agent Skills |
-| [blader/humanizer](https://github.com/blader/humanizer) | Python | 1,132 stars today | Agent skill that removes signs of AI-generated writing from text |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 721 stars today | The agent that grows with you |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | 503 stars today | 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o… |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,692 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,314 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 2,845 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 575 stars today | The agent that grows with you |
+| [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 134 stars today | A modern formatting library |
+| [anthropics/skills](https://github.com/anthropics/skills) | Python | 475 stars today | Public repository for Agent Skills |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 855 stars today | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML +… |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 725 stars today | The open source coding agent. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [The Real Luxuries In Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/) | 323 | 137 |
-| [LLMs as a Cognitive Virus](https://arxiv.org/abs/2609.03344) | 64 | 23 |
-| [Private German rocket makes history, reaches orbit from European soil](https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket) | 125 | 36 |
-| [Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)](https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/) | 29 | 10 |
-| [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) | 115 | 46 |
+| [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post) | 280 | 121 |
+| [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/) | 244 | 95 |
+| [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html) | 33 | 7 |
+| [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) | 128 | 85 |
+| [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/) | 26 | 3 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
