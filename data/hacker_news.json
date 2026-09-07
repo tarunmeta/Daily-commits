@@ -2,48 +2,48 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-06 06:00:50 UTC",
-    "fetched_at_ist": "2026-09-06 11:30:50 IST",
+    "fetched_at_utc": "2026-09-07 20:43:54 UTC",
+    "fetched_at_ist": "2026-09-08 02:13:54 IST",
     "item_count": 5,
-    "content_hash": "57aa8b72e465d268c9abf8bb6b4e37e9c2fdd857701b5a36bcd105ba5df45812",
-    "previous_hash": "87de330c9641ebf6284c4885526298ad0f26e9c0b2c88693066bcefcddfb1c4a",
+    "content_hash": "5811f9894cbd1599295b277418a2c1aabbf79cf0d293aa0276a467654f0875ee",
+    "previous_hash": "57aa8b72e465d268c9abf8bb6b4e37e9c2fdd857701b5a36bcd105ba5df45812",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49582000,
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "score": 280,
-      "comments": 121
+      "id": 49601655,
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "score": 93,
+      "comments": 31
     },
     {
-      "id": 49580939,
-      "title": "The revolt of the reader",
-      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
-      "score": 244,
-      "comments": 95
+      "id": 49569748,
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "url": "https://kallus.org/blog/dummit_and_foote.html",
+      "score": 19,
+      "comments": 1
     },
     {
-      "id": 49539759,
-      "title": "OpenBSD Stories: Strange Medieval Devices",
-      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
-      "score": 33,
-      "comments": 7
+      "id": 49552299,
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
+      "score": 81,
+      "comments": 8
     },
     {
-      "id": 49582582,
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "score": 128,
-      "comments": 85
+      "id": 49602716,
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "score": 4,
+      "comments": 0
     },
     {
-      "id": 49529398,
-      "title": "The ColorChecker, photography's most important 24 squares, turns 50",
-      "url": "https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/",
-      "score": 26,
+      "id": 49557986,
+      "title": "Methods for Random Gradients (2024)",
+      "url": "https://justinjay.wang/methods-for-random-gradients/",
+      "score": 29,
       "comments": 3
     }
   ]
