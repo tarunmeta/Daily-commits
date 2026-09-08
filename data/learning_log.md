@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-09-09 (last updated: 02:56 IST)
+
+## 📅 2026-09-09 (last updated: 05:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 15 | 2026-09-08 11:30:06 IST | bb34f885cdd6 | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-09 00:11:07 IST | ff3a533cb502 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-09 05:04:05 IST | 6adac02f27af | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-09 02:56:22 IST | 3029a80f106b | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 197 stars today
 
 ### 📰 Hacker News Stories
-- [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) — Score: 306
-- [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) — Score: 264
-- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) — Score: 469
-- [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/) — Score: 113
-- [OUI-1: world's first model for Generative UI](https://www.openui.com/blog/oui-1) — Score: 35
+- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) — Score: 55
+- [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) — Score: 472
+- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf) — Score: 1114
+- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) — Score: 52
+- [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) — Score: 1041
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,541.0 🔴 -0.89%
