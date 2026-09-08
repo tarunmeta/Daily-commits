@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-08 06:00:10 UTC",
-    "fetched_at_ist": "2026-09-08 11:30:10 IST",
+    "fetched_at_utc": "2026-09-08 18:41:07 UTC",
+    "fetched_at_ist": "2026-09-09 00:11:07 IST",
     "item_count": 5,
-    "content_hash": "1ad09264289741fba2fc7b62cc50b68bc1e57ec291cf85ee07cb52b88ac1d37f",
-    "previous_hash": "5811f9894cbd1599295b277418a2c1aabbf79cf0d293aa0276a467654f0875ee",
+    "content_hash": "ff3a533cb5028f5b6027279feb9a2b8e56da5db2d62c6e8c499887320e6e0a41",
+    "previous_hash": "1ad09264289741fba2fc7b62cc50b68bc1e57ec291cf85ee07cb52b88ac1d37f",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49605691,
-      "title": "We have a year to fix security everywhere",
-      "url": "https://jyn.dev/a-year-to-fix-security/",
-      "score": 70,
-      "comments": 32
+      "id": 49611251,
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 306,
+      "comments": 75
     },
     {
-      "id": 49604637,
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "score": 232,
-      "comments": 45
+      "id": 49610181,
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "score": 264,
+      "comments": 108
     },
     {
-      "id": 49605782,
-      "title": "My Feed, My Way",
-      "url": "https://www.pm.gov.au/media/my-feed-my-way",
-      "score": 27,
-      "comments": 11
+      "id": 49613262,
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "score": 469,
+      "comments": 326
     },
     {
-      "id": 49605433,
-      "title": "I tested 10 model/harness combinations on the same Three.js task",
-      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-      "score": 31,
-      "comments": 12
+      "id": 49611128,
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "score": 113,
+      "comments": 71
     },
     {
-      "id": 49604150,
-      "title": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "score": 164,
-      "comments": 11
+      "id": 49613182,
+      "title": "OUI-1: world's first model for Generative UI",
+      "url": "https://www.openui.com/blog/oui-1",
+      "score": 35,
+      "comments": 30
     }
   ]
 }
