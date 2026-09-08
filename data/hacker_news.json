@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-07 20:43:54 UTC",
-    "fetched_at_ist": "2026-09-08 02:13:54 IST",
+    "fetched_at_utc": "2026-09-08 06:00:10 UTC",
+    "fetched_at_ist": "2026-09-08 11:30:10 IST",
     "item_count": 5,
-    "content_hash": "5811f9894cbd1599295b277418a2c1aabbf79cf0d293aa0276a467654f0875ee",
-    "previous_hash": "57aa8b72e465d268c9abf8bb6b4e37e9c2fdd857701b5a36bcd105ba5df45812",
+    "content_hash": "1ad09264289741fba2fc7b62cc50b68bc1e57ec291cf85ee07cb52b88ac1d37f",
+    "previous_hash": "5811f9894cbd1599295b277418a2c1aabbf79cf0d293aa0276a467654f0875ee",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49601655,
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
-      "score": 93,
-      "comments": 31
+      "id": 49605691,
+      "title": "We have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "score": 70,
+      "comments": 32
     },
     {
-      "id": 49569748,
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "score": 19,
-      "comments": 1
+      "id": 49604637,
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "score": 232,
+      "comments": 45
     },
     {
-      "id": 49552299,
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
-      "score": 81,
-      "comments": 8
+      "id": 49605782,
+      "title": "My Feed, My Way",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "score": 27,
+      "comments": 11
     },
     {
-      "id": 49602716,
-      "title": "Macbeth and His Problems",
-      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-      "score": 4,
-      "comments": 0
+      "id": 49605433,
+      "title": "I tested 10 model/harness combinations on the same Three.js task",
+      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+      "score": 31,
+      "comments": 12
     },
     {
-      "id": 49557986,
-      "title": "Methods for Random Gradients (2024)",
-      "url": "https://justinjay.wang/methods-for-random-gradients/",
-      "score": 29,
-      "comments": 3
+      "id": 49604150,
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "score": 164,
+      "comments": 11
     }
   ]
 }

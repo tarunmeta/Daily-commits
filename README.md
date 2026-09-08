@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-07 20:43:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-08 06:00:10 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **mattpocock/skills**
-- BTC: **$79,118.0** ↓ (-0.76%)
-- HN top story: **Watch Los Angeles get built, one building at a time (1880–2026)**
+- Top GitHub repo: **heygen-com/hyperframes**
+- BTC: **$78,569.0** ↓ (-1.50%)
+- HN top story: **We have a year to fix security everywhere**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-06 06:00:48 UTC | `9b78dfbd4b7b` | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-07 20:43:54 UTC | `5811f9894cbd` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-07 17:25:55 UTC | `53305ad009f9` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-09-08 06:00:06 UTC | `bb34f885cdd6` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-08 06:00:10 UTC | `1ad092642897` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-08 06:00:09 UTC | `a1ffa9dec4c0` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +5 new repos, top changed: no
+- GitHub: +12 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-08` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `57` day(s) |
-| Last Commit (IST) | `2026-09-08 04:31:05 IST` |
+| Last Commit (IST) | `2026-09-08 06:42:45 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-05 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-09-06 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-09-07 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-08 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-09-08 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $79,118.0 | -0.76% | 🔴 |
-| Ethereum | $2,488.65 | -0.11% | 🔴 |
-| Solana | $104.04 | -2.09% | 🔴 |
-| Bnb | $739.83 | -1.05% | 🔴 |
+| Bitcoin | $78,569.0 | -1.50% | 🔴 |
+| Ethereum | $2,472.57 | -1.29% | 🔴 |
+| Solana | $102.96 | -2.07% | 🔴 |
+| Bnb | $750.68 | +0.28% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 2,692 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,314 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 2,845 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | 575 stars today | The agent that grows with you |
-| [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | 134 stars today | A modern formatting library |
-| [anthropics/skills](https://github.com/anthropics/skills) | Python | 475 stars today | Public repository for Agent Skills |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 855 stars today | 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML +… |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 725 stars today | The open source coding agent. |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 474 stars today | Write HTML. Render video. Built for agents. |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 886 stars today | Python tool for converting files and office documents to Markdown. |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 96 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
+| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | JavaScript | 135 stars today | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and a… |
+| [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | TypeScript | 197 stars today | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,897 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 580 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics… |
+| [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Python | 517 stars today | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of sw… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) | 93 | 31 |
-| [Finding a bug in Dummit and Foote's Abstract Algebra](https://kallus.org/blog/dummit_and_foote.html) | 19 | 1 |
-| [WeatherNext 3](https://deepmind.google/science/weathernext/) | 81 | 8 |
-| [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/) | 4 | 0 |
-| [Methods for Random Gradients (2024)](https://justinjay.wang/methods-for-random-gradients/) | 29 | 3 |
+| [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/) | 70 | 32 |
+| [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) | 232 | 45 |
+| [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way) | 27 | 11 |
+| [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/) | 31 | 12 |
+| [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) | 164 | 11 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

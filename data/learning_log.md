@@ -6,44 +6,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-08 (last updated: 02:13 IST)
+
+## 📅 2026-09-08 (last updated: 11:30 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-06 11:30:48 IST | 9b78dfbd4b7b | +5 new repos, top changed: no |
-| Hacker News | 5 | 2026-09-08 02:13:54 IST | 5811f9894cbd | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-07 22:55:55 IST | 53305ad009f9 | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 15 | 2026-09-08 11:30:06 IST | bb34f885cdd6 | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-08 11:30:10 IST | 1ad092642897 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-08 11:30:09 IST | a1ffa9dec4c0 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +5 new repos, top changed: no
+- GitHub: +12 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
-- **[mattpocock/skills](https://github.com/mattpocock/skills)** (Shell) — Skills for Real Engineers. Straight from my .agents directory.  
-  ⭐ 2,692 stars today
-- **[affaan-m/ECC](https://github.com/affaan-m/ECC)** (JavaScript) — The agent harness performance optimization system. Skills, instincts, memory, se  
-  ⭐ 1,314 stars today
-- **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)** (JavaScript) — Makes your AI agent think like the laziest senior dev in the room. The best code  
-  ⭐ 2,845 stars today
-- **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** (Python) — The agent that grows with you  
-  ⭐ 575 stars today
-- **[fmtlib/fmt](https://github.com/fmtlib/fmt)** (C++) — A modern formatting library  
-  ⭐ 134 stars today
+- **[heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)** (TypeScript) — Write HTML. Render video. Built for agents.  
+  ⭐ 474 stars today
+- **[microsoft/markitdown](https://github.com/microsoft/markitdown)** (Python) — Python tool for converting files and office documents to Markdown.  
+  ⭐ 886 stars today
+- **[mksglu/context-mode](https://github.com/mksglu/context-mode)** (TypeScript) — Context window optimization for AI coding agents. Sandboxes tool output (98% red  
+  ⭐ 96 stars today
+- **[jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)** (JavaScript) — Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and a  
+  ⭐ 135 stars today
+- **[MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV)** (TypeScript) — 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源  
+  ⭐ 197 stars today
 
 ### 📰 Hacker News Stories
-- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) — Score: 93
-- [Finding a bug in Dummit and Foote's Abstract Algebra](https://kallus.org/blog/dummit_and_foote.html) — Score: 19
-- [WeatherNext 3](https://deepmind.google/science/weathernext/) — Score: 81
-- [Macbeth and His Problems](https://porticoquarterly.com/essay/macbeth-and-his-problems/) — Score: 4
-- [Methods for Random Gradients (2024)](https://justinjay.wang/methods-for-random-gradients/) — Score: 29
+- [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/) — Score: 70
+- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) — Score: 232
+- [My Feed, My Way](https://www.pm.gov.au/media/my-feed-my-way) — Score: 27
+- [I tested 10 model/harness combinations on the same Three.js task](https://alvins82.github.io/hangar-harness-model-tests/) — Score: 31
+- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) — Score: 164
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $79,118.0 🔴 -0.76%
-- Ethereum: $2,488.65 🔴 -0.11%
-- Solana: $104.04 🔴 -2.09%
-- Bnb: $739.83 🔴 -1.05%
+- Bitcoin: $78,569.0 🔴 -1.50%
+- Ethereum: $2,472.57 🔴 -1.29%
+- Solana: $102.96 🔴 -2.07%
+- Bnb: $750.68 🟢 +0.28%
 
 ---
 ## 📅 2026-09-07 (last updated: 22:55 IST)
