@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-09 01:33:20 UTC",
-    "fetched_at_ist": "2026-09-09 07:03:20 IST",
+    "fetched_at_utc": "2026-09-09 06:42:17 UTC",
+    "fetched_at_ist": "2026-09-09 12:12:17 IST",
     "item_count": 5,
-    "content_hash": "fb77474325fbcb353681a14f601c0963d4a205ba881144fb42b3e5a9b6e76075",
-    "previous_hash": "6adac02f27af026b19057fe6c40410535b87167b5bd60964c64c193436efa01b",
-    "new_story_ids_vs_previous": 1,
+    "content_hash": "200b8df98b525086ab38c830cb2c0acf11f30c06902a069407fd549196ae4cab",
+    "previous_hash": "fb77474325fbcb353681a14f601c0963d4a205ba881144fb42b3e5a9b6e76075",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49621697,
+      "title": "The Navier–Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+      "score": 61,
+      "comments": 21
+    },
+    {
       "id": 49615537,
       "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
-      "score": 290,
-      "comments": 285
+      "score": 461,
+      "comments": 484
     },
     {
-      "id": 49617581,
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "score": 88,
-      "comments": 46
+      "id": 49546964,
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "score": 93,
+      "comments": 15
     },
     {
-      "id": 49617255,
-      "title": "How to build a printer",
-      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "score": 128,
-      "comments": 27
-    },
-    {
-      "id": 49611251,
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "score": 491,
-      "comments": 115
+      "id": 49580761,
+      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+      "score": 26,
+      "comments": 7
     },
     {
       "id": 49605915,
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 1244,
-      "comments": 541
+      "score": 1532,
+      "comments": 659
     }
   ]
 }
