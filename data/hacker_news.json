@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-08 23:34:05 UTC",
-    "fetched_at_ist": "2026-09-09 05:04:05 IST",
+    "fetched_at_utc": "2026-09-09 01:33:20 UTC",
+    "fetched_at_ist": "2026-09-09 07:03:20 IST",
     "item_count": 5,
-    "content_hash": "6adac02f27af026b19057fe6c40410535b87167b5bd60964c64c193436efa01b",
-    "previous_hash": "ff3a533cb5028f5b6027279feb9a2b8e56da5db2d62c6e8c499887320e6e0a41",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "fb77474325fbcb353681a14f601c0963d4a205ba881144fb42b3e5a9b6e76075",
+    "previous_hash": "6adac02f27af026b19057fe6c40410535b87167b5bd60964c64c193436efa01b",
+    "new_story_ids_vs_previous": 1,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49615537,
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "score": 290,
+      "comments": 285
+    },
+    {
       "id": 49617581,
       "title": "Large language models develop novel social biases through adaptive exploration",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "score": 55,
-      "comments": 20
-    },
-    {
-      "id": 49611251,
-      "title": "Google DeepMind Releases AlphaGenome Atlas",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "score": 472,
-      "comments": 113
-    },
-    {
-      "id": 49605915,
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 1114,
-      "comments": 489
+      "score": 88,
+      "comments": 46
     },
     {
       "id": 49617255,
       "title": "How to build a printer",
       "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "score": 52,
-      "comments": 5
+      "score": 128,
+      "comments": 27
     },
     {
-      "id": 49613262,
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution/",
-      "score": 1041,
-      "comments": 868
+      "id": 49611251,
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 491,
+      "comments": 115
+    },
+    {
+      "id": 49605915,
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "score": 1244,
+      "comments": 541
     }
   ]
 }
