@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-09 06:42:17 UTC",
-    "fetched_at_ist": "2026-09-09 12:12:17 IST",
+    "fetched_at_utc": "2026-09-10 03:32:17 UTC",
+    "fetched_at_ist": "2026-09-10 09:02:17 IST",
     "item_count": 5,
-    "content_hash": "200b8df98b525086ab38c830cb2c0acf11f30c06902a069407fd549196ae4cab",
-    "previous_hash": "fb77474325fbcb353681a14f601c0963d4a205ba881144fb42b3e5a9b6e76075",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "cecc26ae11f55981f389239f6b7ae6e36d9bc797e716007d03f4a034f1f25cde",
+    "previous_hash": "200b8df98b525086ab38c830cb2c0acf11f30c06902a069407fd549196ae4cab",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49621697,
-      "title": "The Navier–Stokes Millennium Prize Problem",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-      "score": 61,
-      "comments": 21
+      "id": 49630931,
+      "title": "iPhone Duo",
+      "url": "https://www.apple.com/iphone-duo/",
+      "score": 978,
+      "comments": 1769
     },
     {
-      "id": 49615537,
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "score": 461,
-      "comments": 484
+      "id": 49637385,
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "score": 36,
+      "comments": 23
     },
     {
-      "id": 49546964,
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "score": 93,
-      "comments": 15
+      "id": 49626190,
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 923,
+      "comments": 368
     },
     {
-      "id": 49580761,
-      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "url": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-      "score": 26,
-      "comments": 7
+      "id": 49614280,
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "score": 417,
+      "comments": 238
     },
     {
-      "id": 49605915,
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "score": 1532,
-      "comments": 659
+      "id": 49629886,
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "score": 254,
+      "comments": 453
     }
   ]
 }
