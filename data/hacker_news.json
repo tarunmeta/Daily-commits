@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-10 03:32:17 UTC",
-    "fetched_at_ist": "2026-09-10 09:02:17 IST",
+    "fetched_at_utc": "2026-09-10 19:33:07 UTC",
+    "fetched_at_ist": "2026-09-11 01:03:07 IST",
     "item_count": 5,
-    "content_hash": "cecc26ae11f55981f389239f6b7ae6e36d9bc797e716007d03f4a034f1f25cde",
-    "previous_hash": "200b8df98b525086ab38c830cb2c0acf11f30c06902a069407fd549196ae4cab",
+    "content_hash": "594b030aadf4774e4c02e827d4f3ffefd06890c8afad23933f2f0f8353183467",
+    "previous_hash": "cecc26ae11f55981f389239f6b7ae6e36d9bc797e716007d03f4a034f1f25cde",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49630931,
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 978,
-      "comments": 1769
+      "id": 49643546,
+      "title": "Rust is tier-1 language at Microsoft",
+      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "score": 455,
+      "comments": 253
     },
     {
-      "id": 49637385,
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "url": "https://rivendell.dmitrybrant.com/relativity/",
-      "score": 36,
-      "comments": 23
+      "id": 49646181,
+      "title": "I have a theory that software drives people insane",
+      "url": "https://graybeard.ing/software-drives-people-insane/",
+      "score": 211,
+      "comments": 83
     },
     {
-      "id": 49626190,
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 923,
-      "comments": 368
+      "id": 49645443,
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 196,
+      "comments": 97
     },
     {
-      "id": 49614280,
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "score": 417,
-      "comments": 238
+      "id": 49639408,
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 307,
+      "comments": 429
     },
     {
-      "id": 49629886,
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "score": 254,
-      "comments": 453
+      "id": 49645437,
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "score": 134,
+      "comments": 28
     }
   ]
 }
