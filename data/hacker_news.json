@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-10 19:33:07 UTC",
-    "fetched_at_ist": "2026-09-11 01:03:07 IST",
+    "fetched_at_utc": "2026-09-11 03:30:07 UTC",
+    "fetched_at_ist": "2026-09-11 09:00:07 IST",
     "item_count": 5,
-    "content_hash": "594b030aadf4774e4c02e827d4f3ffefd06890c8afad23933f2f0f8353183467",
-    "previous_hash": "cecc26ae11f55981f389239f6b7ae6e36d9bc797e716007d03f4a034f1f25cde",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "3a1bf4476d99972fecf44884dcbf4368a27f785c19a5672b27926ded44fe08a7",
+    "previous_hash": "594b030aadf4774e4c02e827d4f3ffefd06890c8afad23933f2f0f8353183467",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49643546,
-      "title": "Rust is tier-1 language at Microsoft",
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "score": 455,
-      "comments": 253
-    },
-    {
-      "id": 49646181,
-      "title": "I have a theory that software drives people insane",
-      "url": "https://graybeard.ing/software-drives-people-insane/",
-      "score": 211,
-      "comments": 83
-    },
-    {
-      "id": 49645443,
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "score": 196,
-      "comments": 97
+      "id": 49643982,
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "score": 844,
+      "comments": 567
     },
     {
       "id": 49639408,
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "score": 307,
-      "comments": 429
+      "score": 726,
+      "comments": 667
     },
     {
-      "id": 49645437,
-      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
-      "score": 134,
-      "comments": 28
+      "id": 49652237,
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "score": 70,
+      "comments": 24
+    },
+    {
+      "id": 49649213,
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "score": 166,
+      "comments": 103
+    },
+    {
+      "id": 49652028,
+      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "url": "https://map-yue2.github.io/",
+      "score": 57,
+      "comments": 47
     }
   ]
 }
