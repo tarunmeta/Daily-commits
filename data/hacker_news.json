@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-12 18:10:22 UTC",
-    "fetched_at_ist": "2026-09-12 23:40:22 IST",
+    "fetched_at_utc": "2026-09-12 20:33:43 UTC",
+    "fetched_at_ist": "2026-09-13 02:03:43 IST",
     "item_count": 5,
-    "content_hash": "569996275ce101e61c073a390e17582729f43affec465fd6acde7383838b86d4",
-    "previous_hash": "0ac0e3e8bff0474dba1521bb479343d1f05f0dd1ad71e46d6c9c76c7310a5753",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "ae69dfc82f98e723b0f98eb47ce490e505f9d08169aa06d9ae9de168f694be46",
+    "previous_hash": "569996275ce101e61c073a390e17582729f43affec465fd6acde7383838b86d4",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49674050,
-      "title": "Make your first edit to OpenStreetMap",
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "score": 70,
-      "comments": 25
-    },
-    {
       "id": 49645480,
       "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "score": 41,
-      "comments": 108
+      "score": 259,
+      "comments": 236
+    },
+    {
+      "id": 49674050,
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "score": 147,
+      "comments": 52
     },
     {
       "id": 49673098,
       "title": "Nvidia is the central bank of AI",
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "score": 173,
-      "comments": 147
+      "score": 248,
+      "comments": 184
     },
     {
-      "id": 49674498,
-      "title": "Will There Be a 7G?",
-      "url": "https://arxiv.org/abs/2609.01877",
-      "score": 24,
-      "comments": 31
+      "id": 49676085,
+      "title": "An open letter to Dario: if you mean it, open the weights",
+      "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+      "score": 172,
+      "comments": 55
     },
     {
-      "id": 49673580,
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "score": 33,
-      "comments": 6
+      "id": 49625056,
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "score": 42,
+      "comments": 0
     }
   ]
 }
