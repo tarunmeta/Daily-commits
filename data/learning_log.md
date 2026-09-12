@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-12 (last updated: 10:05 IST)
+
+## 📅 2026-09-12 (last updated: 18:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-12 05:33:13 IST | a8ccc81e28f5 | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-12 10:05:27 IST | 6b6b20f71553 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-12 18:10:56 IST | 0ac0e3e8bff0 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-12 05:33:13 IST | 727c1b8d1efd | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +15 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 552 stars today
 
 ### 📰 Hacker News Stories
-- [A misalignment of AI in mathematics](https://mathandai.org/) — Score: 766
-- [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links) — Score: 85
-- [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/) — Score: 69
-- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) — Score: 387
-- [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) — Score: 197
+- [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/) — Score: 71
+- [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) — Score: 274
+- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) — Score: 125
+- [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/) — Score: 25
+- [A misalignment of AI in mathematics](https://mathandai.org/) — Score: 1013
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,219.0 🟢 +0.80%

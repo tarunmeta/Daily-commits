@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-12 04:35:27 UTC",
-    "fetched_at_ist": "2026-09-12 10:05:27 IST",
+    "fetched_at_utc": "2026-09-12 12:40:56 UTC",
+    "fetched_at_ist": "2026-09-12 18:10:56 IST",
     "item_count": 5,
-    "content_hash": "6b6b20f7155380c69bd55db62de265f4479d9ea386560098f41362ab099f06a8",
-    "previous_hash": "3b5e6f1f42b4ad7a2a2cc2346bc593902086646569f880c82f2ce43d843fc677",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "0ac0e3e8bff0474dba1521bb479343d1f05f0dd1ad71e46d6c9c76c7310a5753",
+    "previous_hash": "6b6b20f7155380c69bd55db62de265f4479d9ea386560098f41362ab099f06a8",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49671329,
+      "title": "Fuck it, make it anyway",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "score": 71,
+      "comments": 39
+    },
+    {
+      "id": 49639647,
+      "title": "IKEA made a mod for Skyrim [video]",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "score": 274,
+      "comments": 45
+    },
+    {
+      "id": 49670032,
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "score": 125,
+      "comments": 15
+    },
+    {
+      "id": 49671159,
+      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "score": 25,
+      "comments": 6
+    },
+    {
       "id": 49662371,
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "score": 766,
-      "comments": 756
-    },
-    {
-      "id": 49668386,
-      "title": "Google no longer provides direct URLs in search results",
-      "url": "https://www.autom.dev/blog/google-search-goto-links",
-      "score": 85,
-      "comments": 48
-    },
-    {
-      "id": 49668198,
-      "title": "Pandas Should Go Extinct",
-      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
-      "score": 69,
-      "comments": 36
-    },
-    {
-      "id": 49662990,
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "score": 387,
-      "comments": 200
-    },
-    {
-      "id": 49626718,
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "score": 197,
-      "comments": 42
+      "score": 1013,
+      "comments": 970
     }
   ]
 }
