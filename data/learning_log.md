@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-09-13 (last updated: 02:03 IST)
+
+## 📅 2026-09-13 (last updated: 04:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-12 23:40:20 IST | e354e168e770 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-13 02:03:43 IST | ae69dfc82f98 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-13 04:03:43 IST | df92ef6d654f | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-12 23:40:21 IST | 75eef9c381e3 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 52 stars today
 
 ### 📰 Hacker News Stories
-- [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio) — Score: 259
-- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) — Score: 147
-- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) — Score: 248
-- [An open letter to Dario: if you mean it, open the weights](https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/) — Score: 172
-- [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) — Score: 42
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) — Score: 241
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) — Score: 323
+- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) — Score: 42
+- [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) — Score: 48
+- [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) — Score: 101
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,192.0 🟢 +0.13%
@@ -44,13 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $730.52 🟢 +1.00%
 
 ---
-
-
-
-
-
-
-
 ## 📅 2026-09-12 (last updated: 23:40 IST)
 
 ### 🧪 Source Integrity Snapshot
