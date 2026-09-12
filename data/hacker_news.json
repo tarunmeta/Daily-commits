@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-12 00:03:15 UTC",
-    "fetched_at_ist": "2026-09-12 05:33:15 IST",
+    "fetched_at_utc": "2026-09-12 04:35:27 UTC",
+    "fetched_at_ist": "2026-09-12 10:05:27 IST",
     "item_count": 5,
-    "content_hash": "3b5e6f1f42b4ad7a2a2cc2346bc593902086646569f880c82f2ce43d843fc677",
-    "previous_hash": "a610ba1b0452dde4984ebd9d1e3dae1a077158d4e42e61127722fc623eb6dabc",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "6b6b20f7155380c69bd55db62de265f4479d9ea386560098f41362ab099f06a8",
+    "previous_hash": "3b5e6f1f42b4ad7a2a2cc2346bc593902086646569f880c82f2ce43d843fc677",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49666735,
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "score": 77,
-      "comments": 20
-    },
-    {
       "id": 49662371,
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "score": 561,
-      "comments": 623
+      "score": 766,
+      "comments": 756
+    },
+    {
+      "id": 49668386,
+      "title": "Google no longer provides direct URLs in search results",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "score": 85,
+      "comments": 48
+    },
+    {
+      "id": 49668198,
+      "title": "Pandas Should Go Extinct",
+      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "score": 69,
+      "comments": 36
     },
     {
       "id": 49662990,
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "score": 236,
-      "comments": 126
-    },
-    {
-      "id": 49663373,
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "score": 174,
-      "comments": 102
+      "score": 387,
+      "comments": 200
     },
     {
       "id": 49626718,
       "title": "A Design Space Exploration of Async/Await",
       "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "score": 101,
-      "comments": 21
+      "score": 197,
+      "comments": 42
     }
   ]
 }
