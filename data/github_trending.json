@@ -2,104 +2,110 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-09-08 06:00:06 UTC",
-    "fetched_at_ist": "2026-09-08 11:30:06 IST",
-    "item_count": 15,
-    "content_hash": "bb34f885cdd67fe6bee51d2c46b4e1058746444332737088abbf4fbe54f28da7",
-    "previous_hash": "9b78dfbd4b7b06e47783b64228884852e0ae74a046662283fffc441cf8a4f1ec",
-    "new_repos_vs_previous": 12,
+    "fetched_at_utc": "2026-09-12 00:03:13 UTC",
+    "fetched_at_ist": "2026-09-12 05:33:13 IST",
+    "item_count": 16,
+    "content_hash": "a8ccc81e28f508751663fbe5ce1dc1b320020cb4c6b26c5ee4edd36071c5d056",
+    "previous_hash": "bb34f885cdd67fe6bee51d2c46b4e1058746444332737088abbf4fbe54f28da7",
+    "new_repos_vs_previous": 15,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "stars_today": "474 stars today"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
+      "name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars_today": "886 stars today"
+      "stars_today": "3,463 stars today"
     },
     {
-      "name": "mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "stars_today": "96 stars today"
-    },
-    {
-      "name": "jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_today": "135 stars today"
+      "stars_today": "3,680 stars today"
     },
     {
-      "name": "MoonTechLab/LunaTV",
-      "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "name": "nab138/iloader",
+      "description": "User friendly sideloader",
       "language": "TypeScript",
-      "stars_today": "197 stars today"
+      "stars_today": "50 stars today"
     },
     {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars_today": "1,897 stars today"
-    },
-    {
-      "name": "coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "stars_today": "580 stars today"
-    },
-    {
-      "name": "The-Swarm-Corporation/AutoHedge",
-      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "language": "Python",
-      "stars_today": "517 stars today"
-    },
-    {
-      "name": "BraveOPotato/FckSignups",
-      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "name": "melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "501 stars today"
+      "stars_today": "152 stars today"
     },
     {
-      "name": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "name": "vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "language": "TypeScript",
+      "stars_today": "552 stars today"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "stars_today": "350 stars today"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "stars_today": "626 stars today"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "language": "TypeScript",
+      "stars_today": "647 stars today"
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars_today": "729 stars today"
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "description": "Smart PVR for newsgroup and bittorrent users.",
+      "language": "C#",
+      "stars_today": "191 stars today"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Python",
-      "stars_today": "195 stars today"
+      "stars_today": "129 stars today"
     },
     {
-      "name": "openai/skills",
-      "description": "Skills Catalog for Codex",
+      "name": "p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "stars_today": "198 stars today"
+    },
+    {
+      "name": "jordan-gibbs/hyperresearch",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
       "language": "Python",
-      "stars_today": "351 stars today"
+      "stars_today": "153 stars today"
     },
     {
-      "name": "lightpanda-io/browser",
-      "description": "Lightpanda: the headless browser designed for AI and automation",
-      "language": "Zig",
-      "stars_today": "58 stars today"
+      "name": "alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars_today": "120 stars today"
+    },
+    {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars_today": "1,015 stars today"
     },
     {
       "name": "pascalorg/editor",
-      "description": "Create and share 3D architectural projects.",
+      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
       "language": "TypeScript",
-      "stars_today": "168 stars today"
-    },
-    {
-      "name": "ruvnet/ruflo",
-      "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "language": "TypeScript",
-      "stars_today": "394 stars today"
-    },
-    {
-      "name": "shiaho777/web-to-app",
-      "description": "The most full featured web-to-app toolkit on Android, a complete APK workshop that runs entirely on your phone",
-      "language": "Kotlin",
-      "stars_today": "64 stars today"
+      "stars_today": "106 stars today"
     }
   ]
 }

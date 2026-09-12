@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-11 19:33:05 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-12 00:03:15 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **heygen-com/hyperframes**
-- BTC: **$77,150.0** ↓ (-1.16%)
-- HN top story: **A misalignment of AI in mathematics**
+- Top GitHub repo: **ayghri/i-have-adhd**
+- BTC: **$77,219.0** ↑ (+0.80%)
+- HN top story: **OpenAI agents carried out an undisclosed attack on RubyGems**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 15 | 2026-09-08 06:00:06 UTC | `bb34f885cdd6` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-11 19:33:05 UTC | `a610ba1b0452` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-11 08:16:34 UTC | `d395fcb6a8a4` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-09-12 00:03:13 UTC | `a8ccc81e28f5` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-12 00:03:15 UTC | `3b5e6f1f42b4` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-12 00:03:13 UTC | `727c1b8d1efd` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-12` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `60` day(s) |
-| Last Commit (IST) | `2026-09-12 01:03:06 IST` |
+| Last Commit (IST) | `2026-09-12 03:27:12 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-09 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-10 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-11 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-12 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-09-12 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,150.0 | -1.16% | 🔴 |
-| Ethereum | $2,464.69 | -0.20% | 🔴 |
-| Solana | $99.51 | -1.58% | 🔴 |
-| Bnb | $712.91 | -0.76% | 🔴 |
+| Bitcoin | $77,219.0 | +0.80% | 🟢 |
+| Ethereum | $2,514.36 | +3.06% | 🟢 |
+| Solana | $102.39 | +3.64% | 🟢 |
+| Bnb | $726.71 | +2.46% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | 474 stars today | Write HTML. Render video. Built for agents. |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | 886 stars today | Python tool for converting files and office documents to Markdown. |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 96 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
-| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | JavaScript | 135 stars today | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and a… |
-| [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | TypeScript | 197 stars today | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,897 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 580 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics… |
-| [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Python | 517 stars today | Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of sw… |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 3,463 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 3,680 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
+| [nab138/iloader](https://github.com/nab138/iloader) | TypeScript | 50 stars today | User friendly sideloader |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 152 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
+| [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | TypeScript | 552 stars today | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes… |
+| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | C | 350 stars today | Graphics Creation Tools |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | 626 stars today | Open Source AI trading agent that operates autonomously across 1000+ markets - P… |
+| [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | TypeScript | 647 stars today | LLM Wiki is a cross-platform desktop application that turns your documents into … |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [A misalignment of AI in mathematics](https://mathandai.org/) | 113 | 202 |
-| [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) | 48 | 23 |
-| [The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution](https://capitalbnews.org/data-centers-permit-rules-epa/) | 119 | 64 |
-| [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude) | 433 | 492 |
-| [Hot coffee could cause oesophageal cancer](https://www.economist.com/science-and-technology/2026/09/11/hot-coffee-could-cause-oesophageal-cancer) | 13 | 8 |
+| [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) | 77 | 20 |
+| [A misalignment of AI in mathematics](https://mathandai.org/) | 561 | 623 |
+| [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | 236 | 126 |
+| [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) | 174 | 102 |
+| [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) | 101 | 21 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

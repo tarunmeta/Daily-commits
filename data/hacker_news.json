@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-11 19:33:05 UTC",
-    "fetched_at_ist": "2026-09-12 01:03:05 IST",
+    "fetched_at_utc": "2026-09-12 00:03:15 UTC",
+    "fetched_at_ist": "2026-09-12 05:33:15 IST",
     "item_count": 5,
-    "content_hash": "a610ba1b0452dde4984ebd9d1e3dae1a077158d4e42e61127722fc623eb6dabc",
-    "previous_hash": "3a1bf4476d99972fecf44884dcbf4368a27f785c19a5672b27926ded44fe08a7",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "3b5e6f1f42b4ad7a2a2cc2346bc593902086646569f880c82f2ce43d843fc677",
+    "previous_hash": "a610ba1b0452dde4984ebd9d1e3dae1a077158d4e42e61127722fc623eb6dabc",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49666735,
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 77,
+      "comments": 20
+    },
+    {
       "id": 49662371,
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "score": 113,
-      "comments": 202
+      "score": 561,
+      "comments": 623
     },
     {
-      "id": 49662214,
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "url": "https://snap.berkeley.edu/",
-      "score": 48,
-      "comments": 23
+      "id": 49662990,
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "score": 236,
+      "comments": 126
     },
     {
-      "id": 49662672,
-      "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
-      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "score": 119,
-      "comments": 64
+      "id": 49663373,
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "score": 174,
+      "comments": 102
     },
     {
-      "id": 49656225,
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "score": 433,
-      "comments": 492
-    },
-    {
-      "id": 49663686,
-      "title": "Hot coffee could cause oesophageal cancer",
-      "url": "https://www.economist.com/science-and-technology/2026/09/11/hot-coffee-could-cause-oesophageal-cancer",
-      "score": 13,
-      "comments": 8
+      "id": 49626718,
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 101,
+      "comments": 21
     }
   ]
 }
