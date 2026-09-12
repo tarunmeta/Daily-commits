@@ -10,44 +10,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-12 (last updated: 18:10 IST)
+
+## 📅 2026-09-12 (last updated: 23:40 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-12 05:33:13 IST | a8ccc81e28f5 | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-12 18:10:56 IST | 0ac0e3e8bff0 | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-12 05:33:13 IST | 727c1b8d1efd | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-09-12 23:40:20 IST | e354e168e770 | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-12 23:40:22 IST | 569996275ce1 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-12 23:40:21 IST | 75eef9c381e3 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
-- **[ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)** (Python) — A skill to stop your coding agent from burying the answer. ADHD-friendly output.  
-  ⭐ 3,463 stars today
 - **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** (JavaScript) — A spy satellite simulator in your browser, except the data is real. Live open so  
-  ⭐ 3,680 stars today
-- **[nab138/iloader](https://github.com/nab138/iloader)** (TypeScript) — User friendly sideloader  
-  ⭐ 50 stars today
+  ⭐ 2,265 stars today
 - **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** (TypeScript) — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA  
-  ⭐ 152 stars today
-- **[vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop)** (TypeScript) — Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes  
-  ⭐ 552 stars today
+  ⭐ 505 stars today
+- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** (JavaScript) — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig  
+  ⭐ 357 stars today
+- **[nab138/iloader](https://github.com/nab138/iloader)** (TypeScript) — User friendly sideloader  
+  ⭐ 209 stars today
+- **[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** (Batchfile) — No description  
+  ⭐ 52 stars today
 
 ### 📰 Hacker News Stories
-- [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/) — Score: 71
-- [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) — Score: 274
-- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) — Score: 125
-- [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/) — Score: 25
-- [A misalignment of AI in mathematics](https://mathandai.org/) — Score: 1013
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) — Score: 70
+- [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio) — Score: 41
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) — Score: 173
+- [Will There Be a 7G?](https://arxiv.org/abs/2609.01877) — Score: 24
+- [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) — Score: 33
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $77,219.0 🟢 +0.80%
-- Ethereum: $2,514.36 🟢 +3.06%
-- Solana: $102.39 🟢 +3.64%
-- Bnb: $726.71 🟢 +2.46%
+- Bitcoin: $77,192.0 🟢 +0.13%
+- Ethereum: $2,525.91 🔴 -0.59%
+- Solana: $101.82 🟢 +0.90%
+- Bnb: $730.52 🟢 +1.00%
 
 ---
 ## 📅 2026-09-11 (last updated: 13:46 IST)

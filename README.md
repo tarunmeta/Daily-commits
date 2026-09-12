@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-12 12:40:56 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-12 18:10:22 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **ayghri/i-have-adhd**
-- BTC: **$77,219.0** ↑ (+0.80%)
-- HN top story: **Fuck it, make it anyway**
+- Top GitHub repo: **bilawalsidhu/gods-eye-view**
+- BTC: **$77,192.0** ↑ (+0.13%)
+- HN top story: **Make your first edit to OpenStreetMap**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-12 00:03:13 UTC | `a8ccc81e28f5` | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-12 12:40:56 UTC | `0ac0e3e8bff0` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-12 00:03:13 UTC | `727c1b8d1efd` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 16 | 2026-09-12 18:10:20 UTC | `e354e168e770` | +8 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-12 18:10:22 UTC | `569996275ce1` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-12 18:10:21 UTC | `75eef9c381e3` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +8 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-12` |
-| Commits Today | `7` / `100` |
-| Remaining Today | `93` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| Commits Today | `8` / `100` |
+| Remaining Today | `92` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | Streak | `59` day(s) |
-| Last Commit (IST) | `2026-09-12 18:10:57 IST` |
+| Last Commit (IST) | `2026-09-12 21:20:31 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-09 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-10 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-11 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-12 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
+| 2026-09-12 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $77,219.0 | +0.80% | 🟢 |
-| Ethereum | $2,514.36 | +3.06% | 🟢 |
-| Solana | $102.39 | +3.64% | 🟢 |
-| Bnb | $726.71 | +2.46% | 🟢 |
+| Bitcoin | $77,192.0 | +0.13% | 🟢 |
+| Ethereum | $2,525.91 | -0.59% | 🔴 |
+| Solana | $101.82 | +0.90% | 🟢 |
+| Bnb | $730.52 | +1.00% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 3,463 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 3,680 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
-| [nab138/iloader](https://github.com/nab138/iloader) | TypeScript | 50 stars today | User friendly sideloader |
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 152 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
-| [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | TypeScript | 552 stars today | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harnes… |
-| [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | C | 350 stars today | Graphics Creation Tools |
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | 626 stars today | Open Source AI trading agent that operates autonomously across 1000+ markets - P… |
-| [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | TypeScript | 647 stars today | LLM Wiki is a cross-platform desktop application that turns your documents into … |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 2,265 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 505 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 357 stars today | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig… |
+| [nab138/iloader](https://github.com/nab138/iloader) | TypeScript | 209 stars today | User friendly sideloader |
+| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 52 stars today | No description |
+| [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | Python | 264 stars today | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mat… |
+| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | C# | 228 stars today | Smart PVR for newsgroup and bittorrent users. |
+| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | 377 stars today | Open Source AI trading agent that operates autonomously across 1000+ markets - P… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/) | 71 | 39 |
-| [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI) | 274 | 45 |
-| [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) | 125 | 15 |
-| [The Worst Spam Emails: Inside iLands' AI Agent Hustle](https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/) | 25 | 6 |
-| [A misalignment of AI in mathematics](https://mathandai.org/) | 1013 | 970 |
+| [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | 70 | 25 |
+| [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio) | 41 | 108 |
+| [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | 173 | 147 |
+| [Will There Be a 7G?](https://arxiv.org/abs/2609.01877) | 24 | 31 |
+| [Microcode in Intel's 8087 floating-point chip: the scale instruction](https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html) | 33 | 6 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

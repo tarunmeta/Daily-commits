@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-12 12:40:56 UTC",
-    "fetched_at_ist": "2026-09-12 18:10:56 IST",
+    "fetched_at_utc": "2026-09-12 18:10:22 UTC",
+    "fetched_at_ist": "2026-09-12 23:40:22 IST",
     "item_count": 5,
-    "content_hash": "0ac0e3e8bff0474dba1521bb479343d1f05f0dd1ad71e46d6c9c76c7310a5753",
-    "previous_hash": "6b6b20f7155380c69bd55db62de265f4479d9ea386560098f41362ab099f06a8",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "569996275ce101e61c073a390e17582729f43affec465fd6acde7383838b86d4",
+    "previous_hash": "0ac0e3e8bff0474dba1521bb479343d1f05f0dd1ad71e46d6c9c76c7310a5753",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49671329,
-      "title": "Fuck it, make it anyway",
-      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
-      "score": 71,
-      "comments": 39
+      "id": 49674050,
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "score": 70,
+      "comments": 25
     },
     {
-      "id": 49639647,
-      "title": "IKEA made a mod for Skyrim [video]",
-      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "score": 274,
-      "comments": 45
+      "id": 49645480,
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "score": 41,
+      "comments": 108
     },
     {
-      "id": 49670032,
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "score": 125,
-      "comments": 15
+      "id": 49673098,
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "score": 173,
+      "comments": 147
     },
     {
-      "id": 49671159,
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "score": 25,
+      "id": 49674498,
+      "title": "Will There Be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "score": 24,
+      "comments": 31
+    },
+    {
+      "id": 49673580,
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "score": 33,
       "comments": 6
-    },
-    {
-      "id": 49662371,
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "score": 1013,
-      "comments": 970
     }
   ]
 }
