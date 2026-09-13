@@ -9,18 +9,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-13 (last updated: 20:03 IST)
+
+## 📅 2026-09-13 (last updated: 23:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-09-12 23:40:20 IST | e354e168e770 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-13 20:03:45 IST | 32d27dd3b3e4 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-13 23:10:54 IST | f2fafb0f400e | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-13 15:48:35 IST | c5e030816a70 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +8 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 52 stars today
 
 ### 📰 Hacker News Stories
-- [Flock worker calls police on reporter filming public camera installation](https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/) — Score: 88
-- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) — Score: 296
-- ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet) — Score: 31
-- [TailTalk: A modern async user space AppleTalk stack with Rust and Tokio](https://github.com/FeralFirmware/TailTalk/) — Score: 23
-- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) — Score: 392
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) — Score: 190
+- [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows) — Score: 64
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) — Score: 396
+- [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) — Score: 84
+- [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) — Score: 120
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,771.0 🔴 -0.79%

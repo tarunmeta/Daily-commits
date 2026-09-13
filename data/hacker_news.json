@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-13 14:33:45 UTC",
-    "fetched_at_ist": "2026-09-13 20:03:45 IST",
+    "fetched_at_utc": "2026-09-13 17:40:54 UTC",
+    "fetched_at_ist": "2026-09-13 23:10:54 IST",
     "item_count": 5,
-    "content_hash": "32d27dd3b3e4c1a71ec18ac4ca5c8bd8119af292f34cb634c19f81c2fb8816a3",
-    "previous_hash": "df92ef6d654fa1eb400aa206b54f7bba826df082a3998b2cde20f194dae3e42b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "f2fafb0f400e82f8824d92371ef46d20cf6128929459dd910071e7f2101237ff",
+    "previous_hash": "32d27dd3b3e4c1a71ec18ac4ca5c8bd8119af292f34cb634c19f81c2fb8816a3",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49683853,
-      "title": "Flock worker calls police on reporter filming public camera installation",
-      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
-      "score": 88,
-      "comments": 28
+      "id": 49684393,
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "score": 190,
+      "comments": 72
+    },
+    {
+      "id": 49684356,
+      "title": "CUDA for AMD on Windows",
+      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+      "score": 64,
+      "comments": 17
     },
     {
       "id": 49681152,
       "title": "JetKVM Mini",
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "score": 296,
-      "comments": 116
+      "score": 396,
+      "comments": 156
     },
     {
-      "id": 49683033,
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "score": 31,
-      "comments": 16
+      "id": 49683262,
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+      "score": 84,
+      "comments": 27
     },
     {
-      "id": 49678423,
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "score": 23,
-      "comments": 4
-    },
-    {
-      "id": 49678969,
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "score": 392,
-      "comments": 466
+      "id": 49685253,
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "score": 120,
+      "comments": 49
     }
   ]
 }
