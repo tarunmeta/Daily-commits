@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-13 17:40:54 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-14 00:13:09 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **bilawalsidhu/gods-eye-view**
-- BTC: **$76,771.0** ↓ (-0.79%)
-- HN top story: **Astra and Fable still hack on simple variants of alignment evals from 2025**
+- Top GitHub repo: **JustVugg/colibri**
+- BTC: **$76,911.0** ↓ (-0.46%)
+- HN top story: **Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-12 18:10:20 UTC | `e354e168e770` | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-13 17:40:54 UTC | `f2fafb0f400e` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-13 10:18:35 UTC | `c5e030816a70` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 19 | 2026-09-14 00:13:08 UTC | `beafff5376eb` | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-14 00:13:09 UTC | `eea9d9e1e47e` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-14 00:13:09 UTC | `f0904bec11ff` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: yes
+- GitHub: +11 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-14` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
-| Streak | `61` day(s) |
-| Last Commit (IST) | `2026-09-14 01:20:04 IST` |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Streak | `60` day(s) |
+| Last Commit (IST) | `2026-09-14 03:40:48 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-11 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-12 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-09-13 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-09-14 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-09-14 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $76,771.0 | -0.79% | 🔴 |
-| Ethereum | $2,482.9 | -1.98% | 🔴 |
-| Solana | $99.84 | -2.20% | 🔴 |
-| Bnb | $715.99 | -2.71% | 🔴 |
+| Bitcoin | $76,911.0 | -0.46% | 🔴 |
+| Ethereum | $2,482.74 | -1.69% | 🔴 |
+| Solana | $99.55 | -2.09% | 🔴 |
+| Bnb | $716.86 | -1.43% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 2,265 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 505 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 357 stars today | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig… |
-| [nab138/iloader](https://github.com/nab138/iloader) | TypeScript | 209 stars today | User friendly sideloader |
-| [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) | Batchfile | 52 stars today | No description |
-| [jihe520/MathModelAgent](https://github.com/jihe520/MathModelAgent) | Python | 264 stars today | 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mat… |
-| [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | C# | 228 stars today | Smart PVR for newsgroup and bittorrent users. |
-| [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | 377 stars today | Open Source AI trading agent that operates autonomously across 1000+ markets - P… |
+| [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 868 stars today | Run frontier MoE models on hardware you already own — pure C, zero deps, experts… |
+| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | TypeScript | 191 stars today | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://… |
+| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 2,680 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
+| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 265 stars today | The secure, validated skill registry for professional AI coding agents. Extend A… |
+| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 432 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 380 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 706 stars today | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig… |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 590 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) | 190 | 72 |
-| [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows) | 64 | 17 |
-| [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) | 396 | 156 |
-| [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) | 84 | 27 |
-| [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) | 120 | 49 |
+| [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) | 352 | 139 |
+| [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) | 511 | 247 |
+| [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) | 32 | 10 |
+| [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) | 135 | 10 |
+| [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) | 357 | 170 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

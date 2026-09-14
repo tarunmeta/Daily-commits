@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-13 17:40:54 UTC",
-    "fetched_at_ist": "2026-09-13 23:10:54 IST",
+    "fetched_at_utc": "2026-09-14 00:13:09 UTC",
+    "fetched_at_ist": "2026-09-14 05:43:09 IST",
     "item_count": 5,
-    "content_hash": "f2fafb0f400e82f8824d92371ef46d20cf6128929459dd910071e7f2101237ff",
-    "previous_hash": "32d27dd3b3e4c1a71ec18ac4ca5c8bd8119af292f34cb634c19f81c2fb8816a3",
+    "content_hash": "eea9d9e1e47e3e4c5124d849cf7737b345c133788f61a4591d34af29513e144a",
+    "previous_hash": "f2fafb0f400e82f8824d92371ef46d20cf6128929459dd910071e7f2101237ff",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49688695,
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "score": 352,
+      "comments": 139
+    },
+    {
+      "id": 49686445,
+      "title": "Why is Google still serving dodgy ads?",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "score": 511,
+      "comments": 247
+    },
+    {
+      "id": 49689048,
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "score": 32,
+      "comments": 10
+    },
+    {
+      "id": 49642645,
+      "title": "Julia 1.13 highlights",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "score": 135,
+      "comments": 10
+    },
+    {
       "id": 49684393,
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 190,
-      "comments": 72
-    },
-    {
-      "id": 49684356,
-      "title": "CUDA for AMD on Windows",
-      "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "score": 64,
-      "comments": 17
-    },
-    {
-      "id": 49681152,
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "score": 396,
-      "comments": 156
-    },
-    {
-      "id": 49683262,
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-      "score": 84,
-      "comments": 27
-    },
-    {
-      "id": 49685253,
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "score": 120,
-      "comments": 49
+      "score": 357,
+      "comments": 170
     }
   ]
 }

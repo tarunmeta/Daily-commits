@@ -2,110 +2,128 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-09-12 18:10:20 UTC",
-    "fetched_at_ist": "2026-09-12 23:40:20 IST",
-    "item_count": 16,
-    "content_hash": "e354e168e7706559aa3ae2b447c71f13dceb86976fb7ed0c1bbf07e7fa18c4c7",
-    "previous_hash": "a8ccc81e28f508751663fbe5ce1dc1b320020cb4c6b26c5ee4edd36071c5d056",
-    "new_repos_vs_previous": 8,
+    "fetched_at_utc": "2026-09-14 00:13:08 UTC",
+    "fetched_at_ist": "2026-09-14 05:43:08 IST",
+    "item_count": 19,
+    "content_hash": "beafff5376ebb81450da7296fb733c30c7b334aad804e8f0ccf59be6b348aa94",
+    "previous_hash": "e354e168e7706559aa3ae2b447c71f13dceb86976fb7ed0c1bbf07e7fa18c4c7",
+    "new_repos_vs_previous": 11,
     "top_repo_changed": true
   },
   "repos": [
     {
+      "name": "JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars_today": "868 stars today"
+    },
+    {
+      "name": "ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "stars_today": "191 stars today"
+    },
+    {
       "name": "bilawalsidhu/gods-eye-view",
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
-      "stars_today": "2,265 stars today"
+      "stars_today": "2,680 stars today"
+    },
+    {
+      "name": "tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "stars_today": "265 stars today"
     },
     {
       "name": "melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
-      "stars_today": "505 stars today"
+      "stars_today": "432 stars today"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": "380 stars today"
     },
     {
       "name": "asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
-      "stars_today": "357 stars today"
-    },
-    {
-      "name": "nab138/iloader",
-      "description": "User friendly sideloader",
-      "language": "TypeScript",
-      "stars_today": "209 stars today"
-    },
-    {
-      "name": "Flowseal/zapret-discord-youtube",
-      "description": "No description",
-      "language": "Batchfile",
-      "stars_today": "52 stars today"
-    },
-    {
-      "name": "jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
-      "language": "Python",
-      "stars_today": "264 stars today"
-    },
-    {
-      "name": "Sonarr/Sonarr",
-      "description": "Smart PVR for newsgroup and bittorrent users.",
-      "language": "C#",
-      "stars_today": "228 stars today"
-    },
-    {
-      "name": "alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "language": "TypeScript",
-      "stars_today": "377 stars today"
-    },
-    {
-      "name": "yuliskov/SmartTube",
-      "description": "Browse media content with your own rules on Android TV",
-      "language": "Java",
-      "stars_today": "160 stars today"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "stars_today": "237 stars today"
-    },
-    {
-      "name": "p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "language": "Go",
-      "stars_today": "355 stars today"
-    },
-    {
-      "name": "armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "stars_today": "237 stars today"
-    },
-    {
-      "name": "SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "stars_today": "99 stars today"
-    },
-    {
-      "name": "multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "stars_today": "193 stars today"
-    },
-    {
-      "name": "max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "stars_today": "137 stars today"
+      "stars_today": "706 stars today"
     },
     {
       "name": "vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars_today": "193 stars today"
+      "stars_today": "590 stars today"
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "stars_today": "487 stars today"
+    },
+    {
+      "name": "yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
+      "language": "Java",
+      "stars_today": "233 stars today"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "stars_today": "289 stars today"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars_today": "2,632 stars today"
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "stars_today": "506 stars today"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "stars_today": "443 stars today"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "stars_today": "246 stars today"
+    },
+    {
+      "name": "tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+      "language": "Rust",
+      "stars_today": "507 stars today"
+    },
+    {
+      "name": "jiji262/douyin-downloader",
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "language": "Python",
+      "stars_today": "452 stars today"
+    },
+    {
+      "name": "Swordfish90/cool-retro-term",
+      "description": "A good looking terminal emulator which mimics the old cathode display...",
+      "language": "QML",
+      "stars_today": "57 stars today"
+    },
+    {
+      "name": "huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "stars_today": "152 stars today"
     }
   ]
 }

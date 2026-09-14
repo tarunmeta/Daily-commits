@@ -5,44 +5,45 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-09-14 (last updated: 23:10 IST)
+
+## 📅 2026-09-14 (last updated: 05:43 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-09-12 23:40:20 IST | e354e168e770 | +8 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-13 23:10:54 IST | f2fafb0f400e | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-13 15:48:35 IST | c5e030816a70 | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-14 05:43:09 IST | eea9d9e1e47e | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-14 05:43:09 IST | f0904bec11ff | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +8 new repos, top changed: yes
+- GitHub: +11 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** (C) — Run frontier MoE models on hardware you already own — pure C, zero deps, experts  
+  ⭐ 868 stars today
+- **[ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)** (TypeScript) — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://  
+  ⭐ 191 stars today
 - **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** (JavaScript) — A spy satellite simulator in your browser, except the data is real. Live open so  
-  ⭐ 2,265 stars today
+  ⭐ 2,680 stars today
+- **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** (TypeScript) — The secure, validated skill registry for professional AI coding agents. Extend A  
+  ⭐ 265 stars today
 - **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** (TypeScript) — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA  
-  ⭐ 505 stars today
-- **[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)** (JavaScript) — Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig  
-  ⭐ 357 stars today
-- **[nab138/iloader](https://github.com/nab138/iloader)** (TypeScript) — User friendly sideloader  
-  ⭐ 209 stars today
-- **[Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)** (Batchfile) — No description  
-  ⭐ 52 stars today
+  ⭐ 432 stars today
 
 ### 📰 Hacker News Stories
-- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) — Score: 190
-- [CUDA for AMD on Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows) — Score: 64
-- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini) — Score: 396
-- [Why is the x86 undefined instruction called ud2? Why 2?](https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689) — Score: 84
-- [Garry Tan wants US open-weight AI labs to 'distill' frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/) — Score: 120
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) — Score: 352
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) — Score: 511
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) — Score: 32
+- [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) — Score: 135
+- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) — Score: 357
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $76,771.0 🔴 -0.79%
-- Ethereum: $2,482.9 🔴 -1.98%
-- Solana: $99.84 🔴 -2.20%
-- Bnb: $715.99 🔴 -2.71%
+- Bitcoin: $76,911.0 🔴 -0.46%
+- Ethereum: $2,482.74 🔴 -1.69%
+- Solana: $99.55 🔴 -2.09%
+- Bnb: $716.86 🔴 -1.43%
 
 ---
 ## 📅 2026-09-13 (last updated: 23:10 IST)
