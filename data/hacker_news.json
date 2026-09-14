@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-14 00:13:09 UTC",
-    "fetched_at_ist": "2026-09-14 05:43:09 IST",
+    "fetched_at_utc": "2026-09-14 10:40:10 UTC",
+    "fetched_at_ist": "2026-09-14 16:10:10 IST",
     "item_count": 5,
-    "content_hash": "eea9d9e1e47e3e4c5124d849cf7737b345c133788f61a4591d34af29513e144a",
-    "previous_hash": "f2fafb0f400e82f8824d92371ef46d20cf6128929459dd910071e7f2101237ff",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "8b2e9887344358feec42d322119a633873eef990fa7d4df2b8a20aeecdd70de5",
+    "previous_hash": "eea9d9e1e47e3e4c5124d849cf7737b345c133788f61a4591d34af29513e144a",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49693610,
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "url": "https://www.eurobirdportal.org/ebp/en/",
+      "score": 43,
+      "comments": 10
+    },
+    {
       "id": 49688695,
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
       "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 352,
-      "comments": 139
+      "score": 966,
+      "comments": 417
     },
     {
-      "id": 49686445,
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "score": 511,
-      "comments": 247
+      "id": 49693613,
+      "title": "A 386 PC for Your RP2350",
+      "url": "https://github.com/rh1tech/frank-386",
+      "score": 33,
+      "comments": 11
+    },
+    {
+      "id": 49638510,
+      "title": "Spaceships (Reverse Asteroid)",
+      "url": "https://spaceships.treybastian.com/",
+      "score": 247,
+      "comments": 45
     },
     {
       "id": 49689048,
       "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
       "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 32,
-      "comments": 10
-    },
-    {
-      "id": 49642645,
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "score": 135,
-      "comments": 10
-    },
-    {
-      "id": 49684393,
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "score": 357,
-      "comments": 170
+      "score": 273,
+      "comments": 131
     }
   ]
 }

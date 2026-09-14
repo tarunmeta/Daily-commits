@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-14 (last updated: 05:43 IST)
+
+## 📅 2026-09-14 (last updated: 16:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-14 05:43:09 IST | eea9d9e1e47e | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-14 16:10:10 IST | 8b2e98873443 | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-14 05:43:09 IST | f0904bec11ff | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 432 stars today
 
 ### 📰 Hacker News Stories
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) — Score: 352
-- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) — Score: 511
-- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) — Score: 32
-- [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) — Score: 135
-- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) — Score: 357
+- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/) — Score: 43
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) — Score: 966
+- [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386) — Score: 33
+- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) — Score: 247
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) — Score: 273
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,911.0 🔴 -0.46%
