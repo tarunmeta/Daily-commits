@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-14 16:34:52 UTC",
-    "fetched_at_ist": "2026-09-14 22:04:52 IST",
+    "fetched_at_utc": "2026-09-14 20:36:20 UTC",
+    "fetched_at_ist": "2026-09-15 02:06:20 IST",
     "item_count": 5,
-    "content_hash": "3240b3232e6e336c6dfafd6c7eb82d2c57226fe87e083ce6d240d022f3d7bb96",
-    "previous_hash": "8b2e9887344358feec42d322119a633873eef990fa7d4df2b8a20aeecdd70de5",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "ef1d46e4518691605f713764303fd7cdf8df0e8057e69a1d4704385b2dc580d0",
+    "previous_hash": "3240b3232e6e336c6dfafd6c7eb82d2c57226fe87e083ce6d240d022f3d7bb96",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49699384,
-      "title": "For AI leaders Doom is a form of hype",
-      "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
-      "score": 51,
-      "comments": 13
+      "id": 49703003,
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "score": 31,
+      "comments": 17
     },
     {
-      "id": 49697014,
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "score": 63,
-      "comments": 27
-    },
-    {
-      "id": 49699434,
-      "title": "MIT creates method to force AI to comply with safety rules",
-      "url": "https://theframenews.org/en/hardflow-safety-critical-ai/",
+      "id": 49703276,
+      "title": "A Beginning for Mathematics",
+      "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
       "score": 10,
-      "comments": 6
-    },
-    {
-      "id": 49698603,
-      "title": "Foundation Model Engineering: From Theory to Production",
-      "url": "https://sungeuns.github.io/foundation-model-engineering/",
-      "score": 20,
-      "comments": 2
+      "comments": 1
     },
     {
       "id": 49699158,
-      "title": "Distributed Systems Classics",
+      "title": "Distributed Systems Classics (2017)",
       "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 10,
-      "comments": 0
+      "score": 163,
+      "comments": 36
+    },
+    {
+      "id": 49698699,
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "score": 101,
+      "comments": 35
+    },
+    {
+      "id": 49698607,
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "score": 119,
+      "comments": 19
     }
   ]
 }
