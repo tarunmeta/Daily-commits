@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-14 (last updated: 16:10 IST)
+
+## 📅 2026-09-14 (last updated: 22:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-14 16:10:10 IST | 8b2e98873443 | +3 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-14 22:04:52 IST | 3240b3232e6e | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-14 05:43:09 IST | f0904bec11ff | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 432 stars today
 
 ### 📰 Hacker News Stories
-- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/) — Score: 43
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) — Score: 966
-- [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386) — Score: 33
-- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) — Score: 247
-- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) — Score: 273
+- [For AI leaders Doom is a form of hype](https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/) — Score: 51
+- [Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama](https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/) — Score: 63
+- [MIT creates method to force AI to comply with safety rules](https://theframenews.org/en/hardflow-safety-critical-ai/) — Score: 10
+- [Foundation Model Engineering: From Theory to Production](https://sungeuns.github.io/foundation-model-engineering/) — Score: 20
+- [Distributed Systems Classics](https://nvartolomei.com/dist-sys-classics/) — Score: 10
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,911.0 🔴 -0.46%

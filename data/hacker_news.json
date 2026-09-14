@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-14 10:40:10 UTC",
-    "fetched_at_ist": "2026-09-14 16:10:10 IST",
+    "fetched_at_utc": "2026-09-14 16:34:52 UTC",
+    "fetched_at_ist": "2026-09-14 22:04:52 IST",
     "item_count": 5,
-    "content_hash": "8b2e9887344358feec42d322119a633873eef990fa7d4df2b8a20aeecdd70de5",
-    "previous_hash": "eea9d9e1e47e3e4c5124d849cf7737b345c133788f61a4591d34af29513e144a",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "3240b3232e6e336c6dfafd6c7eb82d2c57226fe87e083ce6d240d022f3d7bb96",
+    "previous_hash": "8b2e9887344358feec42d322119a633873eef990fa7d4df2b8a20aeecdd70de5",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49693610,
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "score": 43,
-      "comments": 10
+      "id": 49699384,
+      "title": "For AI leaders Doom is a form of hype",
+      "url": "https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/",
+      "score": 51,
+      "comments": 13
     },
     {
-      "id": 49688695,
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "score": 966,
-      "comments": 417
+      "id": 49697014,
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "score": 63,
+      "comments": 27
     },
     {
-      "id": 49693613,
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "score": 33,
-      "comments": 11
+      "id": 49699434,
+      "title": "MIT creates method to force AI to comply with safety rules",
+      "url": "https://theframenews.org/en/hardflow-safety-critical-ai/",
+      "score": 10,
+      "comments": 6
     },
     {
-      "id": 49638510,
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "score": 247,
-      "comments": 45
+      "id": 49698603,
+      "title": "Foundation Model Engineering: From Theory to Production",
+      "url": "https://sungeuns.github.io/foundation-model-engineering/",
+      "score": 20,
+      "comments": 2
     },
     {
-      "id": 49689048,
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "score": 273,
-      "comments": 131
+      "id": 49699158,
+      "title": "Distributed Systems Classics",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 10,
+      "comments": 0
     }
   ]
 }
