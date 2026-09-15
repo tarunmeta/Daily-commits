@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-14 20:36:20 UTC",
-    "fetched_at_ist": "2026-09-15 02:06:20 IST",
+    "fetched_at_utc": "2026-09-15 17:30:19 UTC",
+    "fetched_at_ist": "2026-09-15 23:00:19 IST",
     "item_count": 5,
-    "content_hash": "ef1d46e4518691605f713764303fd7cdf8df0e8057e69a1d4704385b2dc580d0",
-    "previous_hash": "3240b3232e6e336c6dfafd6c7eb82d2c57226fe87e083ce6d240d022f3d7bb96",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "9f682431dc194827f42888d64a0967a0208605760b1d5fada3b50338c9db601c",
+    "previous_hash": "ef1d46e4518691605f713764303fd7cdf8df0e8057e69a1d4704385b2dc580d0",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49703003,
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
-      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "score": 31,
-      "comments": 17
+      "id": 49711544,
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 719,
+      "comments": 108
     },
     {
-      "id": 49703276,
-      "title": "A Beginning for Mathematics",
-      "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
-      "score": 10,
-      "comments": 1
+      "id": 49712278,
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "score": 159,
+      "comments": 84
     },
     {
-      "id": 49699158,
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "score": 163,
-      "comments": 36
+      "id": 49708431,
+      "title": "I can't stop thinking about Papua New Guinea",
+      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+      "score": 753,
+      "comments": 319
     },
     {
-      "id": 49698699,
-      "title": "A Beginning for Mathematics",
-      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "score": 101,
-      "comments": 35
+      "id": 49712102,
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "url": "https://bkovac.github.io/modem-thing/",
+      "score": 114,
+      "comments": 16
     },
     {
-      "id": 49698607,
-      "title": "Principles for Fast Tokio Applications",
-      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "score": 119,
-      "comments": 19
+      "id": 49713999,
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "score": 44,
+      "comments": 41
     }
   ]
 }
