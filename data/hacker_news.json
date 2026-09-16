@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-16 16:42:44 UTC",
-    "fetched_at_ist": "2026-09-16 22:12:44 IST",
+    "fetched_at_utc": "2026-09-16 19:44:01 UTC",
+    "fetched_at_ist": "2026-09-17 01:14:01 IST",
     "item_count": 5,
-    "content_hash": "2b1593640486ca94d9637373c9f6a5cff757e76486eea7993126a92cf1521cbd",
-    "previous_hash": "9f682431dc194827f42888d64a0967a0208605760b1d5fada3b50338c9db601c",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "c484b25cb90e07338da86fb7a33c46528872a632f470da35b73746ac1f322ad6",
+    "previous_hash": "2b1593640486ca94d9637373c9f6a5cff757e76486eea7993126a92cf1521cbd",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49729000,
-      "title": "Small Programming Tricks",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "score": 47,
-      "comments": 16
+      "id": 49731054,
+      "title": "Vectorized and performance-portable Quicksort",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "score": 111,
+      "comments": 17
     },
     {
-      "id": 49729228,
-      "title": "Code Is Crap",
-      "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-      "score": 28,
-      "comments": 14
+      "id": 49729000,
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "score": 210,
+      "comments": 120
+    },
+    {
+      "id": 49731285,
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "score": 33,
+      "comments": 4
+    },
+    {
+      "id": 49731360,
+      "title": "Accurate Models of AMD Matrix Cores",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "score": 15,
+      "comments": 0
     },
     {
       "id": 49726955,
       "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
       "url": "https://arxiv.org/abs/2609.14858",
-      "score": 91,
-      "comments": 23
-    },
-    {
-      "id": 49723408,
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "score": 352,
-      "comments": 115
-    },
-    {
-      "id": 49717558,
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "score": 1686,
-      "comments": 459
+      "score": 140,
+      "comments": 44
     }
   ]
 }
