@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-16 19:44:01 UTC",
-    "fetched_at_ist": "2026-09-17 01:14:01 IST",
+    "fetched_at_utc": "2026-09-17 15:32:42 UTC",
+    "fetched_at_ist": "2026-09-17 21:02:42 IST",
     "item_count": 5,
-    "content_hash": "c484b25cb90e07338da86fb7a33c46528872a632f470da35b73746ac1f322ad6",
-    "previous_hash": "2b1593640486ca94d9637373c9f6a5cff757e76486eea7993126a92cf1521cbd",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "441ea8762539916fc1e534a6601278c530e2dfbb3a983ddd721c1c6470289e6e",
+    "previous_hash": "c484b25cb90e07338da86fb7a33c46528872a632f470da35b73746ac1f322ad6",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49731054,
-      "title": "Vectorized and performance-portable Quicksort",
-      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-      "score": 111,
-      "comments": 17
+      "id": 49715813,
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "score": 192,
+      "comments": 61
     },
     {
-      "id": 49729000,
-      "title": "Small programming tricks",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "score": 210,
-      "comments": 120
+      "id": 49737849,
+      "title": "One Year of Sponsored Servo Development",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "score": 255,
+      "comments": 111
     },
     {
-      "id": 49731285,
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "score": 33,
-      "comments": 4
+      "id": 49740330,
+      "title": "I had Gemini train its own replacement for $9",
+      "url": "https://www.petervijeh.com/projects/reddit-ner",
+      "score": 76,
+      "comments": 27
     },
     {
-      "id": 49731360,
-      "title": "Accurate Models of AMD Matrix Cores",
-      "url": "https://arxiv.org/abs/2609.14845",
-      "score": 15,
-      "comments": 0
+      "id": 49724881,
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "score": 856,
+      "comments": 341
     },
     {
-      "id": 49726955,
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "url": "https://arxiv.org/abs/2609.14858",
-      "score": 140,
-      "comments": 44
+      "id": 49737787,
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "score": 169,
+      "comments": 45
     }
   ]
 }
