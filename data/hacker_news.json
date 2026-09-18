@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-17 15:32:42 UTC",
-    "fetched_at_ist": "2026-09-17 21:02:42 IST",
+    "fetched_at_utc": "2026-09-18 00:38:47 UTC",
+    "fetched_at_ist": "2026-09-18 06:08:47 IST",
     "item_count": 5,
-    "content_hash": "441ea8762539916fc1e534a6601278c530e2dfbb3a983ddd721c1c6470289e6e",
-    "previous_hash": "c484b25cb90e07338da86fb7a33c46528872a632f470da35b73746ac1f322ad6",
+    "content_hash": "668beaabc2e541c4401b2fbe62b24c91f9b194f91fd8eda4a334e40da1b1a5c1",
+    "previous_hash": "441ea8762539916fc1e534a6601278c530e2dfbb3a983ddd721c1c6470289e6e",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49715813,
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "score": 192,
-      "comments": 61
+      "id": 49745940,
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "score": 271,
+      "comments": 302
     },
     {
-      "id": 49737849,
-      "title": "One Year of Sponsored Servo Development",
-      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "score": 255,
-      "comments": 111
+      "id": 49746618,
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "score": 165,
+      "comments": 53
     },
     {
-      "id": 49740330,
-      "title": "I had Gemini train its own replacement for $9",
-      "url": "https://www.petervijeh.com/projects/reddit-ner",
-      "score": 76,
-      "comments": 27
+      "id": 49746163,
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "score": 244,
+      "comments": 129
     },
     {
-      "id": 49724881,
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "score": 856,
-      "comments": 341
+      "id": 49743097,
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "score": 432,
+      "comments": 130
     },
     {
-      "id": 49737787,
-      "title": "CCC invites all model citizens to 40C3",
-      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-      "score": 169,
-      "comments": 45
+      "id": 49726007,
+      "title": "Wax motor",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "score": 211,
+      "comments": 42
     }
   ]
 }
