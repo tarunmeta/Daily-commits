@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-19 00:32:26 UTC",
-    "fetched_at_ist": "2026-09-19 06:02:26 IST",
+    "fetched_at_utc": "2026-09-19 09:31:20 UTC",
+    "fetched_at_ist": "2026-09-19 15:01:20 IST",
     "item_count": 5,
-    "content_hash": "449e1a2eb330fadc5998d3ce1f7f7992a115766f3a4cf6ae483939ee7d23f39a",
-    "previous_hash": "3b4ef04aea13575d0846af0ffae46db3101dfd3e530eb90d1753d13add6fef9f",
+    "content_hash": "448fb814847c2244fad8195cd496ff8e3c7f123037eaf239e3cdd2120b00322a",
+    "previous_hash": "449e1a2eb330fadc5998d3ce1f7f7992a115766f3a4cf6ae483939ee7d23f39a",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49763697,
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "score": 200,
+      "comments": 84
+    },
+    {
+      "id": 49763928,
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "score": 77,
+      "comments": 41
+    },
+    {
+      "id": 49763987,
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "score": 99,
+      "comments": 43
+    },
+    {
+      "id": 49763296,
+      "title": "San Francisco Onion Futures Company",
+      "url": "https://onionfutures.com/",
+      "score": 181,
+      "comments": 64
+    },
+    {
       "id": 49758736,
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 457,
-      "comments": 214
-    },
-    {
-      "id": 49761432,
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "score": 33,
-      "comments": 31
-    },
-    {
-      "id": 49754785,
-      "title": "Cloudflare Quick Tunnels",
-      "url": "https://try.cloudflare.com/",
-      "score": 542,
-      "comments": 237
-    },
-    {
-      "id": 49758580,
-      "title": "Saving another 100TB of RAM",
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "score": 195,
-      "comments": 38
-    },
-    {
-      "id": 49744036,
-      "title": "The Farnese letter",
-      "url": "https://simonklee.dk/farnese-letter",
-      "score": 19,
-      "comments": 1
+      "score": 825,
+      "comments": 406
     }
   ]
 }
