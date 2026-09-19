@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-19 (last updated: 18:55 IST)
+
+## 📅 2026-09-19 (last updated: 22:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-19 15:01:20 IST | 448fb814847c | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-19 22:11:10 IST | f1e3d89f7dd5 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-19 18:55:51 IST | 6c50df6f33f9 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 432 stars today
 
 ### 📰 Hacker News Stories
-- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) — Score: 200
-- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/) — Score: 77
-- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio) — Score: 99
-- [San Francisco Onion Futures Company](https://onionfutures.com/) — Score: 181
-- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) — Score: 825
+- [Laya the open source version of Jev](https://laya.convaiinnovations.com/) — Score: 518
+- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) — Score: 62
+- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) — Score: 81
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) — Score: 731
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) — Score: 478
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,246.0 🟢 +4.12%

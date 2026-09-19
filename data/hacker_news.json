@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-19 09:31:20 UTC",
-    "fetched_at_ist": "2026-09-19 15:01:20 IST",
+    "fetched_at_utc": "2026-09-19 16:41:10 UTC",
+    "fetched_at_ist": "2026-09-19 22:11:10 IST",
     "item_count": 5,
-    "content_hash": "448fb814847c2244fad8195cd496ff8e3c7f123037eaf239e3cdd2120b00322a",
-    "previous_hash": "449e1a2eb330fadc5998d3ce1f7f7992a115766f3a4cf6ae483939ee7d23f39a",
+    "content_hash": "f1e3d89f7dd5ad8366980d434d086da77341e09fcc60c84db4c76d68b2b17fca",
+    "previous_hash": "448fb814847c2244fad8195cd496ff8e3c7f123037eaf239e3cdd2120b00322a",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49763697,
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "score": 200,
-      "comments": 84
+      "id": 49765348,
+      "title": "Laya the open source version of Jev",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 518,
+      "comments": 128
     },
     {
-      "id": 49763928,
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "score": 77,
-      "comments": 41
-    },
-    {
-      "id": 49763987,
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "score": 99,
+      "id": 49766676,
+      "title": "A graphical desktop for the ZX Spectrum",
+      "url": "https://github.com/mindbox77/zxdesk",
+      "score": 62,
       "comments": 43
     },
     {
-      "id": 49763296,
-      "title": "San Francisco Onion Futures Company",
-      "url": "https://onionfutures.com/",
-      "score": 181,
-      "comments": 64
+      "id": 49766611,
+      "title": "Tin: full-text search for Postgres",
+      "url": "https://planetscale.com/blog/introducing-tin",
+      "score": 81,
+      "comments": 29
     },
     {
-      "id": 49758736,
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "score": 825,
-      "comments": 406
+      "id": 49764791,
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 731,
+      "comments": 436
+    },
+    {
+      "id": 49763697,
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "score": 478,
+      "comments": 176
     }
   ]
 }
