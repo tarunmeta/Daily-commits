@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-09-20 (last updated: 22:11 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-19 22:11:10 IST | f1e3d89f7dd5 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-19 18:55:51 IST | 6c50df6f33f9 | 4 assets moved, biggest mover: ethereum |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
+
+### 🚀 Trending Repos Tracked Today
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** (C) — Run frontier MoE models on hardware you already own — pure C, zero deps, experts  
+  ⭐ 868 stars today
+- **[ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)** (TypeScript) — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://  
+  ⭐ 191 stars today
+- **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** (JavaScript) — A spy satellite simulator in your browser, except the data is real. Live open so  
+  ⭐ 2,680 stars today
+- **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** (TypeScript) — The secure, validated skill registry for professional AI coding agents. Extend A  
+  ⭐ 265 stars today
+- **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** (TypeScript) — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA  
+  ⭐ 432 stars today
+
+### 📰 Hacker News Stories
+- [Laya the open source version of Jev](https://laya.convaiinnovations.com/) — Score: 518
+- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) — Score: 62
+- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) — Score: 81
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) — Score: 731
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) — Score: 478
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $81,246.0 🟢 +4.12%
+- Ethereum: $2,636.83 🟢 +5.40%
+- Solana: $111.49 🟢 +5.35%
+- Bnb: $769.99 🟢 +2.81%
+
+---
 
 
 
