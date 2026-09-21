@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-09-22 (last updated: 00:13 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-22 00:13:15 IST | af6ce4073706 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-21 11:51:53 IST | 4dc3bba294f3 | 4 assets moved, biggest mover: ethereum |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +11 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
+
+### 🚀 Trending Repos Tracked Today
+- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** (C) — Run frontier MoE models on hardware you already own — pure C, zero deps, experts  
+  ⭐ 868 stars today
+- **[ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)** (TypeScript) — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://  
+  ⭐ 191 stars today
+- **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** (JavaScript) — A spy satellite simulator in your browser, except the data is real. Live open so  
+  ⭐ 2,680 stars today
+- **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** (TypeScript) — The secure, validated skill registry for professional AI coding agents. Extend A  
+  ⭐ 265 stars today
+- **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** (TypeScript) — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA  
+  ⭐ 432 stars today
+
+### 📰 Hacker News Stories
+- [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) — Score: 337
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention) — Score: 297
+- [Turn off and restrict access to Apple Intelligence features on Mac](https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac) — Score: 37
+- [Grok 4.7](https://x.ai/news/grok-4-7) — Score: 289
+- [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027) — Score: 181
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $81,761.0 🟢 +1.58%
+- Ethereum: $2,671.96 🟢 +3.51%
+- Solana: $112.21 🟢 +3.28%
+- Bnb: $772.92 🟢 +2.72%
+
+---
 
 
 

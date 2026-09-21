@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-20 15:37:07 UTC",
-    "fetched_at_ist": "2026-09-20 21:07:07 IST",
+    "fetched_at_utc": "2026-09-21 18:43:15 UTC",
+    "fetched_at_ist": "2026-09-22 00:13:15 IST",
     "item_count": 5,
-    "content_hash": "43f9e63e4f505863aafd876a6734ef5d979fb0b60098ce4ed0ae5e0d800351e5",
-    "previous_hash": "803e1a6d18f37c90a46aed9bb8e84cf55a8a06e3735ad9c7be50c90ae7465da1",
+    "content_hash": "af6ce407370670dcf35c4f3ae0de1a57e778c7712b439540a094af0378708f87",
+    "previous_hash": "43f9e63e4f505863aafd876a6734ef5d979fb0b60098ce4ed0ae5e0d800351e5",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49775499,
-      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "score": 162,
-      "comments": 66
+      "id": 49787436,
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "score": 337,
+      "comments": 182
     },
     {
-      "id": 49776627,
-      "title": "Sherline Tools Is Going Out of Business",
-      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-      "score": 26,
-      "comments": 4
+      "id": 49787726,
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "score": 297,
+      "comments": 84
     },
     {
-      "id": 49768347,
-      "title": "Key symbols we lost to time, pt. 2: The Mac side",
-      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
-      "score": 30,
-      "comments": 9
+      "id": 49790409,
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+      "score": 37,
+      "comments": 13
     },
     {
-      "id": 49771218,
-      "title": "Apple iPhone 18 Pro Camera test",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "score": 19,
-      "comments": 25
+      "id": 49788838,
+      "title": "Grok 4.7",
+      "url": "https://x.ai/news/grok-4-7",
+      "score": 289,
+      "comments": 230
     },
     {
-      "id": 49755378,
-      "title": "A custom virtual machine for the Stars 4X game",
-      "url": "https://nullprogram.com/blog/2026/09/17/",
-      "score": 25,
-      "comments": 1
+      "id": 49789224,
+      "title": "Fable 5 – Median thinking declined in August",
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "score": 181,
+      "comments": 105
     }
   ]
 }
