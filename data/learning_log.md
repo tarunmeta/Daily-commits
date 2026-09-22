@@ -6,44 +6,45 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-22 (last updated: 03:47 IST)
+
+## 📅 2026-09-22 (last updated: 11:44 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-09-14 05:43:08 IST | beafff5376eb | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-22 00:13:15 IST | af6ce4073706 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-22 03:47:19 IST | 6f2b8d51622e | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-09-22 11:44:44 IST | 7d6915afbd6c | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-22 11:44:45 IST | 241e2f5aa91f | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-22 11:44:44 IST | 72131b116c3d | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
-- **[JustVugg/colibri](https://github.com/JustVugg/colibri)** (C) — Run frontier MoE models on hardware you already own — pure C, zero deps, experts  
-  ⭐ 868 stars today
-- **[ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy)** (TypeScript) — Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://  
-  ⭐ 191 stars today
-- **[bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)** (JavaScript) — A spy satellite simulator in your browser, except the data is real. Live open so  
-  ⭐ 2,680 stars today
-- **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** (TypeScript) — The secure, validated skill registry for professional AI coding agents. Extend A  
-  ⭐ 265 stars today
-- **[melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** (TypeScript) — Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA  
-  ⭐ 432 stars today
+- **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** (TypeScript) — A framework for building agentic apps  
+  ⭐ 607 stars today
+- **[trycua/cua](https://github.com/trycua/cua)** (HTML) — Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks  
+  ⭐ 609 stars today
+- **[Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)** (TypeScript) — OpenStock is an open-source alternative to expensive market platforms. Track rea  
+  ⭐ 844 stars today
+- **[akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)** (Rust) — Solution for long term memory for agent coding CLIs and to facilitate handoff be  
+  ⭐ 167 stars today
+- **[coder/coder](https://github.com/coder/coder)** (Go) — Secure environments for developers and their agents  
+  ⭐ 460 stars today
 
 ### 📰 Hacker News Stories
-- [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) — Score: 337
-- [Attention is all you have](https://alicegg.tech/2026/09/21/attention) — Score: 297
-- [Turn off and restrict access to Apple Intelligence features on Mac](https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac) — Score: 37
-- [Grok 4.7](https://x.ai/news/grok-4-7) — Score: 289
-- [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027) — Score: 181
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) — Score: 753
+- [Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro) — Score: 23
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) — Score: 296
+- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) — Score: 314
+- [Attention is all you have](https://alicegg.tech/2026/09/21/attention) — Score: 697
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $86,604.0 🟢 +6.68%
-- Ethereum: $2,776.82 🟢 +5.19%
-- Solana: $119.49 🟢 +8.25%
-- Bnb: $805.46 🟢 +4.70%
+- Bitcoin: $85,282.0 🟢 +4.45%
+- Ethereum: $2,726.82 🟢 +2.31%
+- Solana: $116.51 🟢 +4.29%
+- Bnb: $786.38 🟢 +1.93%
 
 ---
 ## 📅 2026-09-21 (last updated: 11:51 IST)

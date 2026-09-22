@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-21 22:17:19 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-22 06:14:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **JustVugg/colibri**
-- BTC: **$86,604.0** ↑ (+6.68%)
-- HN top story: **What Sun got wrong**
+- Top GitHub repo: **BuilderIO/agent-native**
+- BTC: **$85,282.0** ↑ (+4.45%)
+- HN top story: **MiMo v2.6**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 19 | 2026-09-14 00:13:08 UTC | `beafff5376eb` | +11 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-21 18:43:15 UTC | `af6ce4073706` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-21 22:17:19 UTC | `6f2b8d51622e` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-09-22 06:14:44 UTC | `7d6915afbd6c` | +12 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-22 06:14:45 UTC | `241e2f5aa91f` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-22 06:14:44 UTC | `72131b116c3d` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +11 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +12 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-22` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `65` day(s) |
-| Last Commit (IST) | `2026-09-22 03:47:19 IST` |
+| Last Commit (IST) | `2026-09-22 06:31:45 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-19 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-09-20 | 8 | `█░░░░░░░░░░░░░░░░░░░` 8% |
 | 2026-09-21 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
-| 2026-09-22 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-09-22 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $86,604.0 | +6.68% | 🟢 |
-| Ethereum | $2,776.82 | +5.19% | 🟢 |
-| Solana | $119.49 | +8.25% | 🟢 |
-| Bnb | $805.46 | +4.70% | 🟢 |
+| Bitcoin | $85,282.0 | +4.45% | 🟢 |
+| Ethereum | $2,726.82 | +2.31% | 🟢 |
+| Solana | $116.51 | +4.29% | 🟢 |
+| Bnb | $786.38 | +1.93% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | 868 stars today | Run frontier MoE models on hardware you already own — pure C, zero deps, experts… |
-| [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | TypeScript | 191 stars today | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://… |
-| [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | 2,680 stars today | A spy satellite simulator in your browser, except the data is real. Live open so… |
-| [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | 265 stars today | The secure, validated skill registry for professional AI coding agents. Extend A… |
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | 432 stars today | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA… |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 380 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | 706 stars today | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Desig… |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | 590 stars today | Fully autonomous AI Agents system capable of performing complex penetration test… |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 607 stars today | A framework for building agentic apps |
+| [trycua/cua](https://github.com/trycua/cua) | HTML | 609 stars today | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks… |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 844 stars today | OpenStock is an open-source alternative to expensive market platforms. Track rea… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 167 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [coder/coder](https://github.com/coder/coder) | Go | 460 stars today | Secure environments for developers and their agents |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 424 stars today | No description |
+| [cloudflare/quiche](https://github.com/cloudflare/quiche) | Rust | 32 stars today | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
+| [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | 169 stars today | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/) | 337 | 182 |
-| [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | 297 | 84 |
-| [Turn off and restrict access to Apple Intelligence features on Mac](https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac) | 37 | 13 |
-| [Grok 4.7](https://x.ai/news/grok-4-7) | 289 | 230 |
-| [Fable 5 – Median thinking declined in August](https://twitter.com/Lon/status/2101793422487204027) | 181 | 105 |
+| [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6) | 753 | 345 |
+| [Apple Music to open concert venue in Battersea Power Station](https://www.bbc.com/news/articles/c607l2j2rj8ro) | 23 | 2 |
+| [Spymarks, Not Watermarks](https://brand.io/article/spymarks/) | 296 | 70 |
+| [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/) | 314 | 47 |
+| [Attention is all you have](https://alicegg.tech/2026/09/21/attention) | 697 | 207 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

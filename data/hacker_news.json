@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-21 18:43:15 UTC",
-    "fetched_at_ist": "2026-09-22 00:13:15 IST",
+    "fetched_at_utc": "2026-09-22 06:14:45 UTC",
+    "fetched_at_ist": "2026-09-22 11:44:45 IST",
     "item_count": 5,
-    "content_hash": "af6ce407370670dcf35c4f3ae0de1a57e778c7712b439540a094af0378708f87",
-    "previous_hash": "43f9e63e4f505863aafd876a6734ef5d979fb0b60098ce4ed0ae5e0d800351e5",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "241e2f5aa91f81df3833f0f6c0e1cf63bb3c2ec23599edd4bcc06dd6fa687092",
+    "previous_hash": "af6ce407370670dcf35c4f3ae0de1a57e778c7712b439540a094af0378708f87",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49787436,
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "score": 337,
-      "comments": 182
+      "id": 49792730,
+      "title": "MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "score": 753,
+      "comments": 345
+    },
+    {
+      "id": 49797139,
+      "title": "Apple Music to open concert venue in Battersea Power Station",
+      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+      "score": 23,
+      "comments": 2
+    },
+    {
+      "id": 49794615,
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "score": 296,
+      "comments": 70
+    },
+    {
+      "id": 49792342,
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 314,
+      "comments": 47
     },
     {
       "id": 49787726,
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
-      "score": 297,
-      "comments": 84
-    },
-    {
-      "id": 49790409,
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "score": 37,
-      "comments": 13
-    },
-    {
-      "id": 49788838,
-      "title": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "score": 289,
-      "comments": 230
-    },
-    {
-      "id": 49789224,
-      "title": "Fable 5 – Median thinking declined in August",
-      "url": "https://twitter.com/Lon/status/2101793422487204027",
-      "score": 181,
-      "comments": 105
+      "score": 697,
+      "comments": 207
     }
   ]
 }
