@@ -8,19 +8,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-22 (last updated: 11:44 IST)
+
+## 📅 2026-09-22 (last updated: 21:58 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 12 | 2026-09-22 11:44:44 IST | 7d6915afbd6c | +12 new repos, top changed: yes |
 | Hacker News | 5 | 2026-09-22 11:44:45 IST | 241e2f5aa91f | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-22 11:44:44 IST | 72131b116c3d | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-09-22 21:58:10 IST | 6159bc6afb37 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +12 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[BuilderIO/agent-native](https://github.com/BuilderIO/agent-native)** (TypeScript) — A framework for building agentic apps  
@@ -42,10 +43,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Attention is all you have](https://alicegg.tech/2026/09/21/attention) — Score: 697
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $85,282.0 🟢 +4.45%
-- Ethereum: $2,726.82 🟢 +2.31%
-- Solana: $116.51 🟢 +4.29%
-- Bnb: $786.38 🟢 +1.93%
+- Bitcoin: $86,246.0 🟢 +0.50%
+- Ethereum: $2,735.67 🔴 -0.80%
+- Solana: $117.01 🔴 -0.54%
+- Bnb: $786.13 🔴 -1.43%
 
 ---
 ## 📅 2026-09-21 (last updated: 11:51 IST)
