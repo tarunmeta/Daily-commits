@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-23 16:44:14 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-24 06:10:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **BuilderIO/agent-native**
-- BTC: **$86,529.0** ↑ (+1.50%)
-- HN top story: **Fixing the Portobello Police Station Clock**
+- Top GitHub repo: **anthropics/financial-services**
+- BTC: **$84,025.0** ↓ (-2.91%)
+- HN top story: **Linux support is coming to Snapdragon X2 Series**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-09-22 06:14:44 UTC | `7d6915afbd6c` | +12 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-23 16:44:14 UTC | `e217f8ebc2cd` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-09-23 06:23:51 UTC | `ab1374e7a624` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 17 | 2026-09-24 06:10:51 UTC | `4d9b4a3324d0` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-09-24 06:10:52 UTC | `8ca1733d4864` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-09-24 06:10:51 UTC | `ffff9054a142` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +12 new repos, top changed: yes
+- GitHub: +13 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-24` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `66` day(s) |
-| Last Commit (IST) | `2026-09-24 04:15:56 IST` |
+| Last Commit (IST) | `2026-09-24 06:40:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-09-21 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-09-22 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-23 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-09-24 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-09-24 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $86,529.0 | +1.50% | 🟢 |
-| Ethereum | $2,760.31 | +1.24% | 🟢 |
-| Solana | $118.86 | +2.08% | 🟢 |
-| Bnb | $792.12 | +0.80% | 🟢 |
+| Bitcoin | $84,025.0 | -2.91% | 🔴 |
+| Ethereum | $2,685.72 | -2.62% | 🔴 |
+| Solana | $115.02 | -3.02% | 🔴 |
+| Bnb | $772.74 | -2.35% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 607 stars today | A framework for building agentic apps |
-| [trycua/cua](https://github.com/trycua/cua) | HTML | 609 stars today | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks… |
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 844 stars today | OpenStock is an open-source alternative to expensive market platforms. Track rea… |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 167 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [coder/coder](https://github.com/coder/coder) | Go | 460 stars today | Secure environments for developers and their agents |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 424 stars today | No description |
-| [cloudflare/quiche](https://github.com/cloudflare/quiche) | Rust | 32 stars today | 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 |
-| [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | 169 stars today | MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devi… |
+| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 664 stars today | No description |
+| [google/ax](https://github.com/google/ax) | Go | 1,543 stars today | Google's open agentic orchestration runtime |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 389 stars today | CLI tool for configuring and monitoring Claude Code |
+| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 87 stars today | A framework for building agentic apps |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 474 stars today | An agentic skills framework & software development methodology that works. |
+| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 1,142 stars today | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa… |
+| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 344 stars today | OpenStock is an open-source alternative to expensive market platforms. Track rea… |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Go | 558 stars today | Agent Substrate: the core system |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html) | 106 | 24 |
-| [Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/) | 46 | 19 |
-| [GPT-6 Astra has gained the ability to drive a car](https://drivingbench.com/) | 131 | 88 |
-| [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform) | 96 | 52 |
-| [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/) | 75 | 46 |
+| [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) | 295 | 133 |
+| [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 589 | 599 |
+| [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) | 122 | 15 |
+| [Making portable my unportable transputer C compiler](https://nanochess.org/transputer_c_compiler.html) | 26 | 3 |
+| [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) | 202 | 186 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
