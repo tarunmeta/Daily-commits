@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-24 16:39:57 UTC",
-    "fetched_at_ist": "2026-09-24 22:09:57 IST",
+    "fetched_at_utc": "2026-09-25 01:33:35 UTC",
+    "fetched_at_ist": "2026-09-25 07:03:35 IST",
     "item_count": 5,
-    "content_hash": "0ad2440946032ffb65117ad7c403a9fa8668305aec809fc44b1450f9c59273c4",
-    "previous_hash": "8ca1733d48647f72ba3f336819f2bdd953ee8b723cf7966101e6cf7b226e294a",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "dbb935f312f67b64e18537141fcd397bd3b200c29e9892e1f06596aa0be8c175",
+    "previous_hash": "0ad2440946032ffb65117ad7c403a9fa8668305aec809fc44b1450f9c59273c4",
+    "new_story_ids_vs_previous": 4,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49831968,
-      "title": "F-Droid 2.0: A New Chapter for Android Freedom",
+      "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 220,
-      "comments": 56
+      "score": 930,
+      "comments": 263
     },
     {
-      "id": 49832406,
-      "title": "GitHub has not removed malicious imitation software after 3 weeks",
-      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-      "score": 29,
+      "id": 49823738,
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "score": 480,
+      "comments": 66
+    },
+    {
+      "id": 49833867,
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 191,
+      "comments": 81
+    },
+    {
+      "id": 49832938,
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "score": 248,
+      "comments": 157
+    },
+    {
+      "id": 49801436,
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "score": 105,
       "comments": 8
-    },
-    {
-      "id": 49831201,
-      "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
-      "url": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
-      "score": 82,
-      "comments": 29
-    },
-    {
-      "id": 49818031,
-      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
-      "url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
-      "score": 73,
-      "comments": 14
-    },
-    {
-      "id": 49805806,
-      "title": "Enjoy Every Sandwich",
-      "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
-      "score": 125,
-      "comments": 51
     }
   ]
 }

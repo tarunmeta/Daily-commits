@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-09-25 (last updated: 22:09 IST)
+
+## 📅 2026-09-25 (last updated: 07:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-09-24 11:40:51 IST | 4d9b4a3324d0 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-24 22:09:57 IST | 0ad244094603 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-25 07:03:35 IST | dbb935f312f6 | +4 new stories, top changed: no |
 | Crypto | 4 | 2026-09-24 11:40:51 IST | ffff9054a142 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 474 stars today
 
 ### 📰 Hacker News Stories
-- [F-Droid 2.0: A New Chapter for Android Freedom](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) — Score: 220
-- [GitHub has not removed malicious imitation software after 3 weeks](https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/) — Score: 29
-- [Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering](https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram) — Score: 82
-- [The science of Monkey Island: can grog dissolve a metal mug that fast?](https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/) — Score: 73
-- [Enjoy Every Sandwich](https://bradmontague.substack.com/p/enjoy-every-sandwich) — Score: 125
+- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) — Score: 930
+- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) — Score: 480
+- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) — Score: 191
+- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) — Score: 248
+- [2DWillNeverDie](https://2dwillneverdie.com/) — Score: 105
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,025.0 🔴 -2.91%
