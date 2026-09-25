@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-09-25 12:17:17 UTC`
+**Last Meaningful Data Update (UTC):** `2026-09-25 17:26:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **anthropics/financial-services**
-- BTC: **$84,370.0** ↑ (+1.00%)
+- BTC: **$83,891.0** ↓ (-0.41%)
 - HN top story: **F-Droid 2.0**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-09-24 06:10:51 UTC | `4d9b4a3324d0` | +13 new repos, top changed: yes |
 | Hacker News | 5 | 2026-09-25 06:38:11 UTC | `8ee3986dd527` | +1 new stories, top changed: no |
-| Crypto | 4 | 2026-09-25 12:17:17 UTC | `92b5ed43eef5` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-09-25 17:26:45 UTC | `862e3acb6716` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-09-25` |
-| Commits Today | `5` / `100` |
-| Remaining Today | `95` |
-| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Commits Today | `6` / `100` |
+| Remaining Today | `94` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | Streak | `67` day(s) |
-| Last Commit (IST) | `2026-09-25 12:08:12 IST` |
+| Last Commit (IST) | `2026-09-25 17:47:17 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-09-22 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-23 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-09-24 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-09-25 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| 2026-09-25 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $84,370.0 | +1.00% | 🟢 |
-| Ethereum | $2,713.12 | +2.47% | 🟢 |
-| Solana | $119.85 | +5.56% | 🟢 |
-| Bnb | $777.79 | +0.95% | 🟢 |
+| Bitcoin | $83,891.0 | -0.41% | 🔴 |
+| Ethereum | $2,688.74 | +0.40% | 🟢 |
+| Solana | $121.03 | +3.57% | 🟢 |
+| Bnb | $773.34 | -0.76% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
