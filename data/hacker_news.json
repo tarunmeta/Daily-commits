@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-25 06:38:11 UTC",
-    "fetched_at_ist": "2026-09-25 12:08:11 IST",
+    "fetched_at_utc": "2026-09-25 20:39:49 UTC",
+    "fetched_at_ist": "2026-09-26 02:09:49 IST",
     "item_count": 5,
-    "content_hash": "8ee3986dd527cc093e0bcf3539c8e2ca14e8894fb1399bc6f324ae9037eaeea5",
-    "previous_hash": "dbb935f312f67b64e18537141fcd397bd3b200c29e9892e1f06596aa0be8c175",
-    "new_story_ids_vs_previous": 1,
-    "top_story_changed": false
+    "content_hash": "fd0b1c43cece2b715d14a2c8d0af3e6450043782657ca52af0c1de13ef01849a",
+    "previous_hash": "8ee3986dd527cc093e0bcf3539c8e2ca14e8894fb1399bc6f324ae9037eaeea5",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49831968,
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 1116,
-      "comments": 295
+      "id": 49848269,
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "score": 156,
+      "comments": 44
     },
     {
-      "id": 49823738,
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 594,
-      "comments": 81
+      "id": 49848295,
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "score": 81,
+      "comments": 15
     },
     {
-      "id": 49833867,
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "score": 264,
-      "comments": 104
+      "id": 49845172,
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "url": "https://jev-pokemon.vercel.app/",
+      "score": 37,
+      "comments": 22
     },
     {
-      "id": 49840314,
-      "title": "Goodbye Google",
-      "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-      "score": 128,
-      "comments": 104
+      "id": 49837350,
+      "title": "Google's first Suncatcher orbital data center test launches October 1",
+      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+      "score": 38,
+      "comments": 34
     },
     {
-      "id": 49832938,
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 358,
-      "comments": 183
+      "id": 49843269,
+      "title": "Platform-independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "score": 312,
+      "comments": 120
     }
   ]
 }
