@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-25 20:39:49 UTC",
-    "fetched_at_ist": "2026-09-26 02:09:49 IST",
+    "fetched_at_utc": "2026-09-25 23:34:45 UTC",
+    "fetched_at_ist": "2026-09-26 05:04:45 IST",
     "item_count": 5,
-    "content_hash": "fd0b1c43cece2b715d14a2c8d0af3e6450043782657ca52af0c1de13ef01849a",
-    "previous_hash": "8ee3986dd527cc093e0bcf3539c8e2ca14e8894fb1399bc6f324ae9037eaeea5",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "31c0d4730a8673b416bf7b54d37470242e9a0d21b55cb925d97af0fb4c56a095",
+    "previous_hash": "fd0b1c43cece2b715d14a2c8d0af3e6450043782657ca52af0c1de13ef01849a",
+    "new_story_ids_vs_previous": 3,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49848269,
       "title": "Ollaya – Ollama for open-source, Jev-style decision models",
       "url": "https://ollaya.dev/",
-      "score": 156,
-      "comments": 44
+      "score": 284,
+      "comments": 85
     },
     {
-      "id": 49848295,
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "score": 81,
-      "comments": 15
+      "id": 49850305,
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "score": 39,
+      "comments": 38
+    },
+    {
+      "id": 49849832,
+      "title": "Excel now supports multiple values in a single cell",
+      "url": "https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756",
+      "score": 49,
+      "comments": 36
+    },
+    {
+      "id": 49849985,
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 93,
+      "comments": 60
     },
     {
       "id": 49845172,
       "title": "Show HN: Jev Plays Pokémon Red",
       "url": "https://jev-pokemon.vercel.app/",
-      "score": 37,
-      "comments": 22
-    },
-    {
-      "id": 49837350,
-      "title": "Google's first Suncatcher orbital data center test launches October 1",
-      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "score": 38,
-      "comments": 34
-    },
-    {
-      "id": 49843269,
-      "title": "Platform-independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
-      "score": 312,
-      "comments": 120
+      "score": 114,
+      "comments": 56
     }
   ]
 }
