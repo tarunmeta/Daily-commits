@@ -8,18 +8,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-26 (last updated: 17:59 IST)
+
+## 📅 2026-09-26 (last updated: 22:11 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-09-24 11:40:51 IST | 4d9b4a3324d0 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-26 13:12:30 IST | 7b9753d76de7 | +2 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-26 22:11:17 IST | 2ef6859fc363 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-26 17:59:05 IST | 6be069cfa41c | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -35,11 +36,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 474 stars today
 
 ### 📰 Hacker News Stories
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) — Score: 429
-- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) — Score: 47
-- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) — Score: 275
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) — Score: 418
-- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) — Score: 188
+- [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/) — Score: 430
+- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) — Score: 54
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story) — Score: 211
+- [Plunging test scores are a slow-moving catastrophe](https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe) — Score: 66
+- [Show HN: A Claude Code skill to analyze your chess games](https://github.com/brumar/chess-postmortem-skills) — Score: 16
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,101.0 🔴 -0.23%

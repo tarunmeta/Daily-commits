@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-26 07:42:30 UTC",
-    "fetched_at_ist": "2026-09-26 13:12:30 IST",
+    "fetched_at_utc": "2026-09-26 16:41:17 UTC",
+    "fetched_at_ist": "2026-09-26 22:11:17 IST",
     "item_count": 5,
-    "content_hash": "7b9753d76de7a1c81ffcf6ccff6948f8b82d1e6cbb42e3bead6a1689f909e8c5",
-    "previous_hash": "31c0d4730a8673b416bf7b54d37470242e9a0d21b55cb925d97af0fb4c56a095",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "2ef6859fc363ab99cc72353eef6e072a01d6674d586f92482595fc53249d64c9",
+    "previous_hash": "7b9753d76de7a1c81ffcf6ccff6948f8b82d1e6cbb42e3bead6a1689f909e8c5",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49849985,
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "score": 429,
-      "comments": 263
+      "id": 49855315,
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "score": 430,
+      "comments": 168
     },
     {
-      "id": 49853175,
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "score": 47,
-      "comments": 4
+      "id": 49842764,
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 54,
+      "comments": 28
     },
     {
-      "id": 49840054,
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "score": 275,
-      "comments": 246
+      "id": 49854693,
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "score": 211,
+      "comments": 34
     },
     {
-      "id": 49848269,
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "score": 418,
-      "comments": 114
+      "id": 49857442,
+      "title": "Plunging test scores are a slow-moving catastrophe",
+      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
+      "score": 66,
+      "comments": 74
     },
     {
-      "id": 49845172,
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
-      "score": 188,
-      "comments": 80
+      "id": 49857528,
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "score": 16,
+      "comments": 10
     }
   ]
 }
