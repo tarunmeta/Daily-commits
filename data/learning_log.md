@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-09-26 (last updated: 05:04 IST)
+
+## 📅 2026-09-26 (last updated: 13:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-09-24 11:40:51 IST | 4d9b4a3324d0 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-26 05:04:45 IST | 31c0d4730a86 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-09-26 13:12:30 IST | 7b9753d76de7 | +2 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-25 22:56:45 IST | 862e3acb6716 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +2 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 474 stars today
 
 ### 📰 Hacker News Stories
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) — Score: 284
-- [What even is an OS now?](https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/) — Score: 39
-- [Excel now supports multiple values in a single cell](https://techcommunity.microsoft.com/blog/excelblog/excel-now-supports-multiple-values-in-a-single-cell/4549756) — Score: 49
-- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) — Score: 93
-- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) — Score: 114
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/) — Score: 429
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html) — Score: 47
+- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html) — Score: 275
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/) — Score: 418
+- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/) — Score: 188
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $83,891.0 🔴 -0.41%
