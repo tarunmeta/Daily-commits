@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-27 11:35:04 UTC",
-    "fetched_at_ist": "2026-09-27 17:05:04 IST",
+    "fetched_at_utc": "2026-09-27 19:35:38 UTC",
+    "fetched_at_ist": "2026-09-28 01:05:38 IST",
     "item_count": 5,
-    "content_hash": "44d636c779045c0e9bed4672e69b729b5219ce7505fffae887039495e7e909bc",
-    "previous_hash": "66990d3b9845dc9ff8f185b11a97314c1740a39fffd275dd16a646e1f5b67bd7",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "d0b5ae9dd7a0e76dd27f185c84659e6ff30a4d125aa5684aca57a375b1959824",
+    "previous_hash": "44d636c779045c0e9bed4672e69b729b5219ce7505fffae887039495e7e909bc",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49865343,
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "score": 27,
-      "comments": 19
+      "id": 49868830,
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 132,
+      "comments": 66
     },
     {
-      "id": 49854219,
-      "title": "Flip Fluid on Flip Dots",
-      "url": "https://mitxela.com/projects/flipflip",
-      "score": 113,
-      "comments": 11
+      "id": 49869574,
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "score": 36,
+      "comments": 6
     },
     {
-      "id": 49844657,
-      "title": "Does Georgism work? Five years later",
-      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "score": 362,
-      "comments": 262
+      "id": 49866951,
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "score": 143,
+      "comments": 56
     },
     {
-      "id": 49863864,
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "score": 259,
-      "comments": 221
+      "id": 49849409,
+      "title": "Writing Efficient C++ Code (2013)",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "score": 112,
+      "comments": 48
     },
     {
-      "id": 49856988,
-      "title": "Go Concurrency Distilled",
-      "url": "https://antonz.org/go-concurrency-distilled/",
-      "score": 235,
-      "comments": 94
+      "id": 49866515,
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "score": 103,
+      "comments": 51
     }
   ]
 }
