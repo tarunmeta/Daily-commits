@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-27 00:36:49 UTC",
-    "fetched_at_ist": "2026-09-27 06:06:49 IST",
+    "fetched_at_utc": "2026-09-27 11:35:04 UTC",
+    "fetched_at_ist": "2026-09-27 17:05:04 IST",
     "item_count": 5,
-    "content_hash": "66990d3b9845dc9ff8f185b11a97314c1740a39fffd275dd16a646e1f5b67bd7",
-    "previous_hash": "2ef6859fc363ab99cc72353eef6e072a01d6674d586f92482595fc53249d64c9",
+    "content_hash": "44d636c779045c0e9bed4672e69b729b5219ce7505fffae887039495e7e909bc",
+    "previous_hash": "66990d3b9845dc9ff8f185b11a97314c1740a39fffd275dd16a646e1f5b67bd7",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49865343,
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "score": 27,
+      "comments": 19
+    },
+    {
+      "id": 49854219,
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
+      "score": 113,
+      "comments": 11
+    },
+    {
       "id": 49844657,
       "title": "Does Georgism work? Five years later",
       "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "score": 52,
-      "comments": 20
+      "score": 362,
+      "comments": 262
     },
     {
-      "id": 49859112,
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "score": 142,
-      "comments": 40
+      "id": 49863864,
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "score": 259,
+      "comments": 221
     },
     {
-      "id": 49842764,
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "score": 311,
-      "comments": 164
-    },
-    {
-      "id": 49839567,
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "score": 17,
-      "comments": 9
-    },
-    {
-      "id": 49858513,
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "score": 167,
-      "comments": 47
+      "id": 49856988,
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "score": 235,
+      "comments": 94
     }
   ]
 }
