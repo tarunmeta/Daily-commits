@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-09-28 (last updated: 01:05 IST)
+
+## 📅 2026-09-28 (last updated: 04:03 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-09-24 11:40:51 IST | 4d9b4a3324d0 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-09-28 01:05:38 IST | d0b5ae9dd7a0 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-09-28 04:03:36 IST | 67447250317d | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-09-27 00:55:15 IST | de3756bc205b | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 474 stars today
 
 ### 📰 Hacker News Stories
-- [Ember-1](https://fireworks.ai/blog/ember-1) — Score: 132
-- [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/) — Score: 36
-- [In an $80 motel room, a discovery to shed light on the origins of life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html) — Score: 143
-- [Writing Efficient C++ Code (2013)](https://asawicki.info/articles/writing_efficient_cpp_code.php) — Score: 112
-- [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) — Score: 103
+- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) — Score: 431
+- [Ember-1](https://fireworks.ai/blog/ember-1) — Score: 270
+- [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html) — Score: 25
+- [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) — Score: 49
+- [Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi](https://loficities.com/) — Score: 111
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,013.0 🟢 +0.02%
@@ -44,11 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $770.62 🔴 -0.55%
 
 ---
-
-
-
-
-
 ## 📅 2026-09-27 (last updated: 17:05 IST)
 
 ### 🧪 Source Integrity Snapshot

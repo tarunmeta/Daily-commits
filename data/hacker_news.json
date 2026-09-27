@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-27 19:35:38 UTC",
-    "fetched_at_ist": "2026-09-28 01:05:38 IST",
+    "fetched_at_utc": "2026-09-27 22:33:36 UTC",
+    "fetched_at_ist": "2026-09-28 04:03:36 IST",
     "item_count": 5,
-    "content_hash": "d0b5ae9dd7a0e76dd27f185c84659e6ff30a4d125aa5684aca57a375b1959824",
-    "previous_hash": "44d636c779045c0e9bed4672e69b729b5219ce7505fffae887039495e7e909bc",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "67447250317dc8477ad171a91ad4f3bec6afb61cae48c03b54dd8851c4db72cf",
+    "previous_hash": "d0b5ae9dd7a0e76dd27f185c84659e6ff30a4d125aa5684aca57a375b1959824",
+    "new_story_ids_vs_previous": 3,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49870367,
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "score": 431,
+      "comments": 211
+    },
+    {
       "id": 49868830,
       "title": "Ember-1",
       "url": "https://fireworks.ai/blog/ember-1",
-      "score": 132,
-      "comments": 66
+      "score": 270,
+      "comments": 152
+    },
+    {
+      "id": 49870837,
+      "title": "Lunar Terminator Paradox",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "score": 25,
+      "comments": 8
+    },
+    {
+      "id": 49870070,
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "score": 49,
+      "comments": 17
     },
     {
       "id": 49869574,
       "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "url": "https://loficities.com/",
-      "score": 36,
-      "comments": 6
-    },
-    {
-      "id": 49866951,
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "score": 143,
-      "comments": 56
-    },
-    {
-      "id": 49849409,
-      "title": "Writing Efficient C++ Code (2013)",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "score": 112,
+      "score": 111,
       "comments": 48
-    },
-    {
-      "id": 49866515,
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "score": 103,
-      "comments": 51
     }
   ]
 }
