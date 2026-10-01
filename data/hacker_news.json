@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-09-27 22:33:36 UTC",
-    "fetched_at_ist": "2026-09-28 04:03:36 IST",
+    "fetched_at_utc": "2026-10-01 04:40:04 UTC",
+    "fetched_at_ist": "2026-10-01 10:10:04 IST",
     "item_count": 5,
-    "content_hash": "67447250317dc8477ad171a91ad4f3bec6afb61cae48c03b54dd8851c4db72cf",
-    "previous_hash": "d0b5ae9dd7a0e76dd27f185c84659e6ff30a4d125aa5684aca57a375b1959824",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "52a5d42c51a99aaf846bd3762c738ea6845312d63ede690917e3567d3ff71b0b",
+    "previous_hash": "67447250317dc8477ad171a91ad4f3bec6afb61cae48c03b54dd8851c4db72cf",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49870367,
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "score": 431,
-      "comments": 211
+      "id": 49913571,
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 1132,
+      "comments": 752
     },
     {
-      "id": 49868830,
-      "title": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "score": 270,
-      "comments": 152
+      "id": 49915082,
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "score": 165,
+      "comments": 73
     },
     {
-      "id": 49870837,
-      "title": "Lunar Terminator Paradox",
-      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "score": 25,
-      "comments": 8
+      "id": 49915126,
+      "title": "56k.rip – the 1996 dial-up internet experience",
+      "url": "https://56k.rip/",
+      "score": 112,
+      "comments": 63
     },
     {
-      "id": 49870070,
-      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "score": 49,
-      "comments": 17
+      "id": 49890732,
+      "title": "Why the Bronze Age Collapsed",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "score": 131,
+      "comments": 72
     },
     {
-      "id": 49869574,
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "url": "https://loficities.com/",
-      "score": 111,
-      "comments": 48
+      "id": 49912955,
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 142,
+      "comments": 49
     }
   ]
 }
