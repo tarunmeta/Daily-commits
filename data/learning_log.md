@@ -7,18 +7,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-04 (last updated: 08:10 IST)
+
+## 📅 2026-10-04 (last updated: 20:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 17 | 2026-09-24 11:40:51 IST | 4d9b4a3324d0 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-04 08:10:14 IST | dc42a1559312 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-04 20:09:53 IST | ee3bc9075f6c | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-03 22:48:11 IST | 22873add455a | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 474 stars today
 
 ### 📰 Hacker News Stories
-- [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) — Score: 196
-- [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) — Score: 124
-- [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) — Score: 244
-- [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) — Score: 92
-- [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) — Score: 154
+- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) — Score: 133
+- [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/) — Score: 45
+- [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/) — Score: 60
+- [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) — Score: 606
+- [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) — Score: 37
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $84,893.0 🟢 +0.05%

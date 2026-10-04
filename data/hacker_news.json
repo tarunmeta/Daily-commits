@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-04 02:40:14 UTC",
-    "fetched_at_ist": "2026-10-04 08:10:14 IST",
+    "fetched_at_utc": "2026-10-04 14:39:53 UTC",
+    "fetched_at_ist": "2026-10-04 20:09:53 IST",
     "item_count": 5,
-    "content_hash": "dc42a1559312a70ae8bb78496dacf67b21d6f573d5f6d3adf6694c4b90ebfbe4",
-    "previous_hash": "52a5d42c51a99aaf846bd3762c738ea6845312d63ede690917e3567d3ff71b0b",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "ee3bc9075f6cd720bb44d3ca175a55e2aab45c08fcce1b6288e7b6d8885824a7",
+    "previous_hash": "dc42a1559312a70ae8bb78496dacf67b21d6f573d5f6d3adf6694c4b90ebfbe4",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49949235,
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "score": 196,
-      "comments": 105
+      "id": 49953495,
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "score": 133,
+      "comments": 49
+    },
+    {
+      "id": 49930439,
+      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+      "url": "https://niklasroy.com/gtc/",
+      "score": 45,
+      "comments": 7
+    },
+    {
+      "id": 49952029,
+      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+      "url": "https://gamehistory.org/5k-magazines/",
+      "score": 60,
+      "comments": 8
     },
     {
       "id": 49949438,
-      "title": "Bob Cringely Has Died",
+      "title": "Tell HN: Bob Cringely has died",
       "url": "https://news.ycombinator.com/item?id=49949438",
-      "score": 124,
-      "comments": 16
+      "score": 606,
+      "comments": 121
     },
     {
-      "id": 49946393,
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "score": 244,
-      "comments": 61
-    },
-    {
-      "id": 49946355,
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "score": 92,
-      "comments": 47
-    },
-    {
-      "id": 49946895,
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "score": 154,
-      "comments": 21
+      "id": 49952111,
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "score": 37,
+      "comments": 18
     }
   ]
 }
