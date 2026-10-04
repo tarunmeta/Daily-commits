@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-01 04:40:04 UTC",
-    "fetched_at_ist": "2026-10-01 10:10:04 IST",
+    "fetched_at_utc": "2026-10-04 02:40:14 UTC",
+    "fetched_at_ist": "2026-10-04 08:10:14 IST",
     "item_count": 5,
-    "content_hash": "52a5d42c51a99aaf846bd3762c738ea6845312d63ede690917e3567d3ff71b0b",
-    "previous_hash": "67447250317dc8477ad171a91ad4f3bec6afb61cae48c03b54dd8851c4db72cf",
+    "content_hash": "dc42a1559312a70ae8bb78496dacf67b21d6f573d5f6d3adf6694c4b90ebfbe4",
+    "previous_hash": "52a5d42c51a99aaf846bd3762c738ea6845312d63ede690917e3567d3ff71b0b",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49913571,
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "score": 1132,
-      "comments": 752
+      "id": 49949235,
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "score": 196,
+      "comments": 105
     },
     {
-      "id": 49915082,
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "score": 165,
-      "comments": 73
+      "id": 49949438,
+      "title": "Bob Cringely Has Died",
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "score": 124,
+      "comments": 16
     },
     {
-      "id": 49915126,
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "url": "https://56k.rip/",
-      "score": 112,
-      "comments": 63
+      "id": 49946393,
+      "title": "Hole Punch: Sling your spaceship around gravitational fields",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "score": 244,
+      "comments": 61
     },
     {
-      "id": 49890732,
-      "title": "Why the Bronze Age Collapsed",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "score": 131,
-      "comments": 72
+      "id": 49946355,
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "score": 92,
+      "comments": 47
     },
     {
-      "id": 49912955,
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "score": 142,
-      "comments": 49
+      "id": 49946895,
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "score": 154,
+      "comments": 21
     }
   ]
 }
