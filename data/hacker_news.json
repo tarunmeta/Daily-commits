@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-05 06:07:54 UTC",
-    "fetched_at_ist": "2026-10-05 11:37:54 IST",
+    "fetched_at_utc": "2026-10-05 14:40:58 UTC",
+    "fetched_at_ist": "2026-10-05 20:10:58 IST",
     "item_count": 5,
-    "content_hash": "68400df94083c6840aa3a2b9a98a9fa10dc89416148830ae8a2b0240d24a437a",
-    "previous_hash": "ee3bc9075f6cd720bb44d3ca175a55e2aab45c08fcce1b6288e7b6d8885824a7",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": false
+    "content_hash": "5558b210db74be2b1600bbe41e139dc7e02f0edca10144473cf294624c0400cd",
+    "previous_hash": "68400df94083c6840aa3a2b9a98a9fa10dc89416148830ae8a2b0240d24a437a",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49953495,
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "score": 705,
-      "comments": 321
+      "id": 49964303,
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+      "score": 113,
+      "comments": 69
     },
     {
-      "id": 49957812,
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "score": 94,
-      "comments": 10
+      "id": 49963366,
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "score": 215,
+      "comments": 187
     },
     {
-      "id": 49960084,
-      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
-      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-      "score": 166,
-      "comments": 122
+      "id": 49964265,
+      "title": "Gitframes",
+      "url": "https://github.com/gatewai-dev/gitframes",
+      "score": 37,
+      "comments": 18
     },
     {
-      "id": 49959654,
-      "title": "A 40ms Go garbage collector pause caused by swap",
-      "url": "https://frn.sh/go-gc/",
-      "score": 41,
-      "comments": 11
+      "id": 49962012,
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "score": 298,
+      "comments": 230
     },
     {
-      "id": 49958850,
-      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-      "url": "https://getartcraft.com/apps",
-      "score": 81,
-      "comments": 78
+      "id": 49963094,
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "score": 78,
+      "comments": 23
     }
   ]
 }
