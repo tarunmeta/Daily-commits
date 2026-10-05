@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-05 14:40:58 UTC",
-    "fetched_at_ist": "2026-10-05 20:10:58 IST",
+    "fetched_at_utc": "2026-10-05 21:39:56 UTC",
+    "fetched_at_ist": "2026-10-06 03:09:56 IST",
     "item_count": 5,
-    "content_hash": "5558b210db74be2b1600bbe41e139dc7e02f0edca10144473cf294624c0400cd",
-    "previous_hash": "68400df94083c6840aa3a2b9a98a9fa10dc89416148830ae8a2b0240d24a437a",
+    "content_hash": "1149a6d8dd83641e9b52267798695ad5b02a2ff7abdb0c4c57ead1e7e513ae3b",
+    "previous_hash": "5558b210db74be2b1600bbe41e139dc7e02f0edca10144473cf294624c0400cd",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49964303,
-      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-      "score": 113,
-      "comments": 69
+      "id": 49969183,
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 181,
+      "comments": 54
     },
     {
-      "id": 49963366,
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "score": 215,
-      "comments": 187
+      "id": 49970667,
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 70,
+      "comments": 56
     },
     {
-      "id": 49964265,
-      "title": "Gitframes",
-      "url": "https://github.com/gatewai-dev/gitframes",
-      "score": 37,
-      "comments": 18
+      "id": 49963171,
+      "title": "Web Search API",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "score": 429,
+      "comments": 202
     },
     {
-      "id": 49962012,
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "score": 298,
-      "comments": 230
+      "id": 49944049,
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "score": 58,
+      "comments": 12
     },
     {
-      "id": 49963094,
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-      "score": 78,
-      "comments": 23
+      "id": 49938270,
+      "title": "How to save a life without knowing CPR",
+      "url": "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html",
+      "score": 32,
+      "comments": 21
     }
   ]
 }
