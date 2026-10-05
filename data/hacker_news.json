@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-04 14:39:53 UTC",
-    "fetched_at_ist": "2026-10-04 20:09:53 IST",
+    "fetched_at_utc": "2026-10-05 06:07:54 UTC",
+    "fetched_at_ist": "2026-10-05 11:37:54 IST",
     "item_count": 5,
-    "content_hash": "ee3bc9075f6cd720bb44d3ca175a55e2aab45c08fcce1b6288e7b6d8885824a7",
-    "previous_hash": "dc42a1559312a70ae8bb78496dacf67b21d6f573d5f6d3adf6694c4b90ebfbe4",
+    "content_hash": "68400df94083c6840aa3a2b9a98a9fa10dc89416148830ae8a2b0240d24a437a",
+    "previous_hash": "ee3bc9075f6cd720bb44d3ca175a55e2aab45c08fcce1b6288e7b6d8885824a7",
     "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49953495,
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
       "url": "https://github.com/Niko1221/Strata",
-      "score": 133,
-      "comments": 49
+      "score": 705,
+      "comments": 321
     },
     {
-      "id": 49930439,
-      "title": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
-      "url": "https://niklasroy.com/gtc/",
-      "score": 45,
-      "comments": 7
+      "id": 49957812,
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "score": 94,
+      "comments": 10
     },
     {
-      "id": 49952029,
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "url": "https://gamehistory.org/5k-magazines/",
-      "score": 60,
-      "comments": 8
+      "id": 49960084,
+      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "score": 166,
+      "comments": 122
     },
     {
-      "id": 49949438,
-      "title": "Tell HN: Bob Cringely has died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "score": 606,
-      "comments": 121
+      "id": 49959654,
+      "title": "A 40ms Go garbage collector pause caused by swap",
+      "url": "https://frn.sh/go-gc/",
+      "score": 41,
+      "comments": 11
     },
     {
-      "id": 49952111,
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "score": 37,
-      "comments": 18
+      "id": 49958850,
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "url": "https://getartcraft.com/apps",
+      "score": 81,
+      "comments": 78
     }
   ]
 }

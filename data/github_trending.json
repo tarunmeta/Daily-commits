@@ -2,116 +2,110 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-09-24 06:10:51 UTC",
-    "fetched_at_ist": "2026-09-24 11:40:51 IST",
-    "item_count": 17,
-    "content_hash": "4d9b4a3324d00b1968329be771286b59d6a3f0cfd69654d2534ca1aa96f2d6fb",
-    "previous_hash": "7d6915afbd6c5fa36b38f866be4a75de5859f0d0b09e050ef1460080e875a74b",
-    "new_repos_vs_previous": 13,
+    "fetched_at_utc": "2026-10-05 06:07:53 UTC",
+    "fetched_at_ist": "2026-10-05 11:37:53 IST",
+    "item_count": 16,
+    "content_hash": "b76af31185309cc4e4c8c22a1f0201325fe27bfa511f85e27d47849bc1f5773d",
+    "previous_hash": "4d9b4a3324d00b1968329be771286b59d6a3f0cfd69654d2534ca1aa96f2d6fb",
+    "new_repos_vs_previous": 15,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "anthropics/financial-services",
-      "description": "No description",
-      "language": "Python",
-      "stars_today": "664 stars today"
-    },
-    {
-      "name": "google/ax",
-      "description": "Google's open agentic orchestration runtime",
-      "language": "Go",
-      "stars_today": "1,543 stars today"
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "stars_today": "389 stars today"
-    },
-    {
-      "name": "BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
+      "name": "tester-army/e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
       "language": "TypeScript",
-      "stars_today": "87 stars today"
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars_today": "474 stars today"
-    },
-    {
-      "name": "dream-num/univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "language": "TypeScript",
-      "stars_today": "1,142 stars today"
-    },
-    {
-      "name": "Open-Dev-Society/OpenStock",
-      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "language": "TypeScript",
-      "stars_today": "344 stars today"
-    },
-    {
-      "name": "agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "stars_today": "558 stars today"
-    },
-    {
-      "name": "strands-agents/harness-sdk",
-      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "language": "Python",
-      "stars_today": "115 stars today"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "language": "Python",
-      "stars_today": "57 stars today"
-    },
-    {
-      "name": "superdesigndev/treg",
-      "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "language": "Python",
-      "stars_today": "506 stars today"
+      "stars_today": "345 stars today"
     },
     {
       "name": "pbakaus/impeccable",
       "description": "The design language that makes your AI harness better at design.",
       "language": "JavaScript",
-      "stars_today": "304 stars today"
+      "stars_today": "1,171 stars today"
     },
     {
-      "name": "mvt-project/mvt",
-      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars_today": "197 stars today"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars_today": "1,894 stars today"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
       "language": "Python",
-      "stars_today": "543 stars today"
+      "stars_today": "83 stars today"
     },
     {
-      "name": "DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars_today": "980 stars today"
+    },
+    {
+      "name": "getsentry/sentry",
+      "description": "Developer-first error tracking and performance monitoring",
+      "language": "Python",
+      "stars_today": "152 stars today"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "language": "Python",
+      "stars_today": "245 stars today"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "No description",
+      "language": "TypeScript",
+      "stars_today": "490 stars today"
+    },
+    {
+      "name": "caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "stars_today": "24 stars today"
+    },
+    {
+      "name": "michael-denyer/pstack-claude",
+      "description": "Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "language": "JavaScript",
+      "stars_today": "232 stars today"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars_today": "336 stars today"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars_today": "628 stars today"
+    },
+    {
+      "name": "garrytan/gstack",
+      "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "language": "TypeScript",
+      "stars_today": "125 stars today"
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars_today": "512 stars today"
+    },
+    {
+      "name": "antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "language": "C",
-      "stars_today": "190 stars today"
-    },
-    {
-      "name": "harry7557558/spirula-studio",
-      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
-      "language": "C++",
-      "stars_today": "69 stars today"
-    },
-    {
-      "name": "browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "stars_today": "746 stars today"
-    },
-    {
-      "name": "TNT-Likely/PanWatch",
-      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
-      "language": "Python",
-      "stars_today": "95 stars today"
+      "stars_today": "211 stars today"
     }
   ]
 }

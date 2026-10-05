@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-05 00:29:44 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-05 06:07:54 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **anthropics/financial-services**
-- BTC: **$86,298.0** ↑ (+1.77%)
+- Top GitHub repo: **tester-army/e2e**
+- BTC: **$85,839.0** ↑ (+1.10%)
 - HN top story: **Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 17 | 2026-09-24 06:10:51 UTC | `4d9b4a3324d0` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-04 14:39:53 UTC | `ee3bc9075f6c` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-05 00:29:44 UTC | `225cc15b1db1` | 4 assets moved, biggest mover: bitcoin |
+| GitHub Trending | 16 | 2026-10-05 06:07:53 UTC | `b76af3118530` | +15 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-05 06:07:54 UTC | `68400df94083` | +4 new stories, top changed: no |
+| Crypto | 4 | 2026-10-05 06:07:53 UTC | `3bfcd5da9a1f` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +15 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: no
 - Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-05` |
-| Commits Today | `2` / `100` |
-| Remaining Today | `98` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Commits Today | `3` / `100` |
+| Remaining Today | `97` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | Streak | `73` day(s) |
-| Last Commit (IST) | `2026-10-05 03:16:35 IST` |
+| Last Commit (IST) | `2026-10-05 05:59:44 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-02 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-10-03 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-04 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-05 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 2026-10-05 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $86,298.0 | +1.77% | 🟢 |
-| Ethereum | $2,720.86 | +1.12% | 🟢 |
-| Solana | $121.05 | +0.93% | 🟢 |
-| Bnb | $793.85 | +0.98% | 🟢 |
+| Bitcoin | $85,839.0 | +1.10% | 🟢 |
+| Ethereum | $2,708.78 | +0.53% | 🟢 |
+| Solana | $120.68 | -0.12% | 🔴 |
+| Bnb | $792.27 | +0.77% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | 664 stars today | No description |
-| [google/ax](https://github.com/google/ax) | Go | 1,543 stars today | Google's open agentic orchestration runtime |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 389 stars today | CLI tool for configuring and monitoring Claude Code |
-| [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | 87 stars today | A framework for building agentic apps |
-| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 474 stars today | An agentic skills framework & software development methodology that works. |
-| [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | 1,142 stars today | The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relationa… |
-| [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | 344 stars today | OpenStock is an open-source alternative to expensive market platforms. Track rea… |
-| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Go | 558 stars today | Agent Substrate: the core system |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 345 stars today | Next generation e2e testing framework for web and mobile apps. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1,171 stars today | The design language that makes your AI harness better at design. |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 197 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,894 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 83 stars today | Give your agent CAD superpowers. |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 980 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
+| [getsentry/sentry](https://github.com/getsentry/sentry) | Python | 152 stars today | Developer-first error tracking and performance monitoring |
+| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 245 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | 133 | 49 |
-| [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/) | 45 | 7 |
-| [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/) | 60 | 8 |
-| [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438) | 606 | 121 |
-| [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM) | 37 | 18 |
+| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | 705 | 321 |
+| [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) | 94 | 10 |
+| [Nearly 200 people under observation after Irkutsk lab worker dies from plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) | 166 | 122 |
+| [A 40ms Go garbage collector pause caused by swap](https://frn.sh/go-gc/) | 41 | 11 |
+| [ArtCraft Apps – open-source Adobe compatible suite written in Rust](https://getartcraft.com/apps) | 81 | 78 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
