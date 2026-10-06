@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-06 08:41:24 UTC",
-    "fetched_at_ist": "2026-10-06 14:11:24 IST",
+    "fetched_at_utc": "2026-10-06 20:30:38 UTC",
+    "fetched_at_ist": "2026-10-07 02:00:38 IST",
     "item_count": 5,
-    "content_hash": "d9288b365f7a495f139609c9c354d1ea8cf5e96645fc9ddc5a47614a4fbfae86",
-    "previous_hash": "1149a6d8dd83641e9b52267798695ad5b02a2ff7abdb0c4c57ead1e7e513ae3b",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "c9a85d5bdeeb934c23f9c522850c4fbfdb59569ff2ee0e9f55aaa4673b8a9fc3",
+    "previous_hash": "d9288b365f7a495f139609c9c354d1ea8cf5e96645fc9ddc5a47614a4fbfae86",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49969183,
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "score": 438,
-      "comments": 138
+      "id": 49977979,
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1309,
+      "comments": 826
     },
     {
-      "id": 49951155,
-      "title": "Accountability mechanisms can be joyful",
-      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
-      "score": 28,
-      "comments": 2
+      "id": 49976265,
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "score": 455,
+      "comments": 152
     },
     {
-      "id": 49971230,
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "score": 189,
-      "comments": 65
+      "id": 49982735,
+      "title": "Berthd",
+      "url": "https://berthd.app/",
+      "score": 24,
+      "comments": 24
     },
     {
-      "id": 49970871,
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "score": 177,
-      "comments": 42
+      "id": 49983226,
+      "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
+      "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
+      "score": 36,
+      "comments": 8
     },
     {
-      "id": 49970667,
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "score": 343,
-      "comments": 223
+      "id": 49978563,
+      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+      "score": 113,
+      "comments": 51
     }
   ]
 }
