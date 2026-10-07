@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-07 06:00:44 UTC",
-    "fetched_at_ist": "2026-10-07 11:30:44 IST",
+    "fetched_at_utc": "2026-10-07 23:42:32 UTC",
+    "fetched_at_ist": "2026-10-08 05:12:32 IST",
     "item_count": 5,
-    "content_hash": "058699fad7c90cdca0a92f510524c4263559b865b3dd87ec833dd8831b8e558c",
-    "previous_hash": "e46120cdd8e65aaccb671d6f400dddf24b7a28de7c7f9a61da9abe0dde80df5c",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "0f20dc1310ba031bfadc1a96c45213896fbe79fcecbf7367cb6509422d140010",
+    "previous_hash": "058699fad7c90cdca0a92f510524c4263559b865b3dd87ec833dd8831b8e558c",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 49984923,
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 701,
-      "comments": 639
+      "id": 49996437,
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 618,
+      "comments": 303
     },
     {
-      "id": 49987076,
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "score": 107,
-      "comments": 22
+      "id": 49998895,
+      "title": "Margaret Hamilton, who led software development for the Apollo program, has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "score": 342,
+      "comments": 32
     },
     {
-      "id": 49984025,
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 220,
-      "comments": 103
+      "id": 49998006,
+      "title": "Photograph 49 is the key to understanding Rosalind Franklin’s DNA Photograph 51",
+      "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
+      "score": 77,
+      "comments": 15
     },
     {
-      "id": 49984716,
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "score": 141,
-      "comments": 59
+      "id": 49996425,
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "score": 454,
+      "comments": 231
     },
     {
-      "id": 49987675,
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
-      "score": 26,
-      "comments": 4
+      "id": 49996259,
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "score": 158,
+      "comments": 71
     }
   ]
 }
