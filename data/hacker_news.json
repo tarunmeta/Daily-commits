@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-07 00:09:20 UTC",
-    "fetched_at_ist": "2026-10-07 05:39:20 IST",
+    "fetched_at_utc": "2026-10-07 06:00:44 UTC",
+    "fetched_at_ist": "2026-10-07 11:30:44 IST",
     "item_count": 5,
-    "content_hash": "e46120cdd8e65aaccb671d6f400dddf24b7a28de7c7f9a61da9abe0dde80df5c",
-    "previous_hash": "c9a85d5bdeeb934c23f9c522850c4fbfdb59569ff2ee0e9f55aaa4673b8a9fc3",
-    "new_story_ids_vs_previous": 4,
-    "top_story_changed": true
+    "content_hash": "058699fad7c90cdca0a92f510524c4263559b865b3dd87ec833dd8831b8e558c",
+    "previous_hash": "e46120cdd8e65aaccb671d6f400dddf24b7a28de7c7f9a61da9abe0dde80df5c",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 49984923,
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "score": 254,
-      "comments": 216
+      "score": 701,
+      "comments": 639
     },
     {
-      "id": 49977979,
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1550,
-      "comments": 950
+      "id": 49987076,
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "score": 107,
+      "comments": 22
     },
     {
       "id": 49984025,
       "title": "Decisions API is in public beta",
       "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "score": 102,
-      "comments": 38
-    },
-    {
-      "id": 49983780,
-      "title": "Vibecoding Photoshop: Time and pressure",
-      "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
-      "score": 35,
-      "comments": 31
+      "score": 220,
+      "comments": 103
     },
     {
       "id": 49984716,
       "title": "Penguin Mail – open-source Rust email client for Linux with AI",
       "url": "https://penguin-mail.com/",
-      "score": 24,
-      "comments": 7
+      "score": 141,
+      "comments": 59
+    },
+    {
+      "id": 49987675,
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 26,
+      "comments": 4
     }
   ]
 }
