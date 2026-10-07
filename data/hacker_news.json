@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-06 20:30:38 UTC",
-    "fetched_at_ist": "2026-10-07 02:00:38 IST",
+    "fetched_at_utc": "2026-10-07 00:09:20 UTC",
+    "fetched_at_ist": "2026-10-07 05:39:20 IST",
     "item_count": 5,
-    "content_hash": "c9a85d5bdeeb934c23f9c522850c4fbfdb59569ff2ee0e9f55aaa4673b8a9fc3",
-    "previous_hash": "d9288b365f7a495f139609c9c354d1ea8cf5e96645fc9ddc5a47614a4fbfae86",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "e46120cdd8e65aaccb671d6f400dddf24b7a28de7c7f9a61da9abe0dde80df5c",
+    "previous_hash": "c9a85d5bdeeb934c23f9c522850c4fbfdb59569ff2ee0e9f55aaa4673b8a9fc3",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49984923,
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 254,
+      "comments": 216
+    },
+    {
       "id": 49977979,
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "score": 1309,
-      "comments": 826
+      "score": 1550,
+      "comments": 950
     },
     {
-      "id": 49976265,
-      "title": "Nobel Prize in Physics 2026: Francis Halzen",
-      "url": "https://www.nobelprize.org/prizes/physics/2026/",
-      "score": 455,
-      "comments": 152
+      "id": 49984025,
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 102,
+      "comments": 38
     },
     {
-      "id": 49982735,
-      "title": "Berthd",
-      "url": "https://berthd.app/",
+      "id": 49983780,
+      "title": "Vibecoding Photoshop: Time and pressure",
+      "url": "https://andreklein.net/vibecoding-photoshop-time-and-pressure/",
+      "score": 35,
+      "comments": 31
+    },
+    {
+      "id": 49984716,
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
       "score": 24,
-      "comments": 24
-    },
-    {
-      "id": 49983226,
-      "title": "Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage",
-      "url": "https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/",
-      "score": 36,
-      "comments": 8
-    },
-    {
-      "id": 49978563,
-      "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-      "url": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-      "score": 113,
-      "comments": 51
+      "comments": 7
     }
   ]
 }

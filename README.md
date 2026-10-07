@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-06 20:30:38 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-07 00:09:20 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **tester-army/e2e**
-- BTC: **$86,292.0** ↑ (+0.93%)
-- HN top story: **Mistral Large 4**
+- BTC: **$85,479.0** ↓ (-0.33%)
+- HN top story: **Sharing AI progress in mathematics**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 16 | 2026-10-05 06:07:53 UTC | `b76af3118530` | +15 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-06 20:30:38 UTC | `c9a85d5bdeeb` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-06 15:28:11 UTC | `32df836bf2df` | 4 assets moved, biggest mover: solana |
+| GitHub Trending | 12 | 2026-10-07 00:09:19 UTC | `761fec0b6866` | +8 new repos, top changed: no |
+| Hacker News | 5 | 2026-10-07 00:09:20 UTC | `e46120cdd8e6` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-07 00:09:19 UTC | `232c4251a7ba` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +15 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- GitHub: +8 new repos, top changed: no
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-07` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-10-06 20:58:12 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `74` day(s) |
+| Last Commit (IST) | `2026-10-07 02:00:39 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-04 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-05 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-10-06 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| 2026-10-07 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-10-07 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $86,292.0 | +0.93% | 🟢 |
-| Ethereum | $2,715.4 | +0.47% | 🟢 |
-| Solana | $121.46 | +1.53% | 🟢 |
-| Bnb | $785.53 | -0.38% | 🔴 |
+| Bitcoin | $85,479.0 | -0.33% | 🔴 |
+| Ethereum | $2,696.08 | -0.57% | 🔴 |
+| Solana | $120.44 | -0.29% | 🔴 |
+| Bnb | $778.66 | -0.93% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 345 stars today | Next generation e2e testing framework for web and mobile apps. |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 1,171 stars today | The design language that makes your AI harness better at design. |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | 197 stars today | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,894 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 83 stars today | Give your agent CAD superpowers. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | 980 stars today | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi… |
-| [getsentry/sentry](https://github.com/getsentry/sentry) | Python | 152 stars today | Developer-first error tracking and performance monitoring |
-| [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | 245 stars today | World's first open-source, agentic video production system. 12 production pipeli… |
+| [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 1,725 stars today | Next generation e2e testing framework for web and mobile apps. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 889 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 619 stars today | Give your agent CAD superpowers. |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 949 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 616 stars today | The design language that makes your AI harness better at design. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 534 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your ag… |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 326 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 2,956 stars today | Reverse engineer anything with agents, from app behavior down to native binaries… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) | 1309 | 826 |
-| [Nobel Prize in Physics 2026: Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/) | 455 | 152 |
-| [Berthd](https://berthd.app/) | 24 | 24 |
-| [Lawmakers Introduce Multiple Laws to Curb Flock After 404 Media Coverage](https://www.404media.co/lawmakers-introduce-multiple-laws-to-curb-flock-after-404-media-coverage/) | 36 | 8 |
-| [Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/) | 113 | 51 |
+| [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | 254 | 216 |
+| [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\) | 1550 | 950 |
+| [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions) | 102 | 38 |
+| [Vibecoding Photoshop: Time and pressure](https://andreklein.net/vibecoding-photoshop-time-and-pressure/) | 35 | 31 |
+| [Penguin Mail – open-source Rust email client for Linux with AI](https://penguin-mail.com/) | 24 | 7 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
