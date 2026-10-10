@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-10 13:43:00 UTC",
-    "fetched_at_ist": "2026-10-10 19:13:00 IST",
+    "fetched_at_utc": "2026-10-10 18:03:01 UTC",
+    "fetched_at_ist": "2026-10-10 23:33:01 IST",
     "item_count": 5,
-    "content_hash": "8bf48084f93edad0cc5235c365c6efc3b4fe1713c3811107fbffda6851eb8eb8",
-    "previous_hash": "f25aa6f8188eb040ae522e95332b41c46a442bd87ded1053cdf2a1842feb9c54",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "6cd7b6e808af1d63b7812f25d525066435ab484136111566359702f4c99d3244",
+    "previous_hash": "8bf48084f93edad0cc5235c365c6efc3b4fe1713c3811107fbffda6851eb8eb8",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50031269,
-      "title": "`123456' password used in Danish CPR data breach",
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "score": 211,
-      "comments": 132
-    },
-    {
-      "id": 50032758,
-      "title": "I Would Like the Value of My Home to Rise, While My Property Taxes Fall",
-      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
-      "score": 13,
-      "comments": 0
+      "id": 50034081,
+      "title": "Knuth Reward Check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check",
+      "score": 43,
+      "comments": 19
     },
     {
       "id": 50031614,
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
-      "score": 73,
-      "comments": 29
+      "score": 161,
+      "comments": 86
     },
     {
-      "id": 50032556,
-      "title": "Lobbying Is Corruption",
-      "url": "https://carette.xyz/posts/lobbying_and_corruption/",
-      "score": 74,
-      "comments": 23
+      "id": 49980880,
+      "title": "Grieving the Loss of Details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "score": 117,
+      "comments": 77
     },
     {
-      "id": 50028275,
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
-      "score": 510,
-      "comments": 219
+      "id": 50024242,
+      "title": "Rampart: Browser native on-device PII radaction",
+      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "score": 42,
+      "comments": 14
+    },
+    {
+      "id": 50016956,
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 77,
+      "comments": 12
     }
   ]
 }

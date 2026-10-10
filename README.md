@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-10 13:43:00 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-10 18:03:01 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **tester-army/e2e**
-- BTC: **$82,507.0** ↑ (+0.96%)
-- HN top story: **`123456' password used in Danish CPR data breach**
+- Top GitHub repo: **morluto/rea**
+- BTC: **$83,033.0** ↑ (+0.49%)
+- HN top story: **Knuth Reward Check**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 12 | 2026-10-07 00:09:19 UTC | `761fec0b6866` | +8 new repos, top changed: no |
-| Hacker News | 5 | 2026-10-10 13:43:00 UTC | `8bf48084f93e` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-09 21:18:51 UTC | `777bcbd28e14` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 13 | 2026-10-10 18:02:59 UTC | `ee27fddcaf2a` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-10 18:03:01 UTC | `6cd7b6e808af` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-10 18:03:00 UTC | `9d5f03b8d29a` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
-- GitHub: +8 new repos, top changed: no
-- Hacker News: +5 new stories, top changed: yes
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-10` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | Streak | `76` day(s) |
-| Last Commit (IST) | `2026-10-10 12:38:36 IST` |
+| Last Commit (IST) | `2026-10-10 19:13:00 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-07 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-10-08 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-09 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| 2026-10-10 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-10-10 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $82,507.0 | +0.96% | 🟢 |
-| Ethereum | $2,482.39 | +0.37% | 🟢 |
-| Solana | $109.04 | -0.86% | 🔴 |
-| Bnb | $741.56 | +0.99% | 🟢 |
+| Bitcoin | $83,033.0 | +0.49% | 🟢 |
+| Ethereum | $2,505.97 | +0.82% | 🟢 |
+| Solana | $109.87 | +0.02% | 🟢 |
+| Bnb | $749.72 | +1.23% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | 1,725 stars today | Next generation e2e testing framework for web and mobile apps. |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 889 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | 619 stars today | Give your agent CAD superpowers. |
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 949 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | 616 stars today | The design language that makes your AI harness better at design. |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | 534 stars today | Persistent Context Across Sessions for Every Agent – Captures everything your ag… |
-| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | 326 stars today | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 2,956 stars today | Reverse engineer anything with agents, from app behavior down to native binaries… |
+| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 25,784 stars today | Reverse engineer anything with agents, from app behavior down to native binaries… |
+| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 5,831 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
+| [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 3,217 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmmaker… |
+| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 1,189 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, … |
+| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 178 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,737 stars today | Skills for Real Engineers. Straight from my .agents directory. |
+| [flutter/flutter](https://github.com/flutter/flutter) | Dart | 164 stars today | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
+| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | 24 stars today | An Open Source Machine Learning Framework for Everyone |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/) | 211 | 132 |
-| [I Would Like the Value of My Home to Rise, While My Property Taxes Fall](https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/) | 13 | 0 |
-| [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | 73 | 29 |
-| [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/) | 74 | 23 |
-| [REA Reverse – Engineer Anything](https://rea.tools/) | 510 | 219 |
+| [Knuth Reward Check](https://www.thomas-huehn.com/knuth-reward-check) | 43 | 19 |
+| [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys) | 161 | 86 |
+| [Grieving the Loss of Details](https://purplesyringa.moe/blog/grieving-the-loss-of-details/) | 117 | 77 |
+| [Rampart: Browser native on-device PII radaction](https://ndstudio.gov/posts/say-hello-to-rampart) | 42 | 14 |
+| [Mxc: Microsoft Execution Containers version 1.0.0](https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/) | 77 | 12 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
