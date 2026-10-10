@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-09 16:36:54 UTC",
-    "fetched_at_ist": "2026-10-09 22:06:54 IST",
+    "fetched_at_utc": "2026-10-10 13:43:00 UTC",
+    "fetched_at_ist": "2026-10-10 19:13:00 IST",
     "item_count": 5,
-    "content_hash": "f25aa6f8188eb040ae522e95332b41c46a442bd87ded1053cdf2a1842feb9c54",
-    "previous_hash": "8f3543639fd6ab7e194e61aac0b23c614071985af406c4d4b787277e92e3b80f",
+    "content_hash": "8bf48084f93edad0cc5235c365c6efc3b4fe1713c3811107fbffda6851eb8eb8",
+    "previous_hash": "f25aa6f8188eb040ae522e95332b41c46a442bd87ded1053cdf2a1842feb9c54",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50019911,
-      "title": "Deno Is Joining Cloudflare",
-      "url": "https://deno.com/blog/cloudflare",
-      "score": 588,
-      "comments": 324
+      "id": 50031269,
+      "title": "`123456' password used in Danish CPR data breach",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "score": 211,
+      "comments": 132
     },
     {
-      "id": 50020014,
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "score": 317,
-      "comments": 119
+      "id": 50032758,
+      "title": "I Would Like the Value of My Home to Rise, While My Property Taxes Fall",
+      "url": "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+      "score": 13,
+      "comments": 0
     },
     {
-      "id": 50018817,
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "score": 257,
-      "comments": 109
+      "id": 50031614,
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "score": 73,
+      "comments": 29
     },
     {
-      "id": 50018088,
-      "title": "I'm in a Meeting",
-      "url": "https://iminafleeting.com/",
-      "score": 382,
-      "comments": 145
+      "id": 50032556,
+      "title": "Lobbying Is Corruption",
+      "url": "https://carette.xyz/posts/lobbying_and_corruption/",
+      "score": 74,
+      "comments": 23
     },
     {
-      "id": 50018420,
-      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "score": 291,
-      "comments": 153
+      "id": 50028275,
+      "title": "REA Reverse – Engineer Anything",
+      "url": "https://rea.tools/",
+      "score": 510,
+      "comments": 219
     }
   ]
 }
