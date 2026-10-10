@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-10 18:03:01 UTC",
-    "fetched_at_ist": "2026-10-10 23:33:01 IST",
+    "fetched_at_utc": "2026-10-10 21:44:50 UTC",
+    "fetched_at_ist": "2026-10-11 03:14:50 IST",
     "item_count": 5,
-    "content_hash": "6cd7b6e808af1d63b7812f25d525066435ab484136111566359702f4c99d3244",
-    "previous_hash": "8bf48084f93edad0cc5235c365c6efc3b4fe1713c3811107fbffda6851eb8eb8",
+    "content_hash": "28e1274fca597b1eec18236c5198d0d0b60a19a2f15b2f10b95634bea6d4690f",
+    "previous_hash": "6cd7b6e808af1d63b7812f25d525066435ab484136111566359702f4c99d3244",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 49991852,
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "score": 233,
+      "comments": 51
+    },
+    {
+      "id": 50035530,
+      "title": "Why DuckDB 2.0 is faster",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "score": 82,
+      "comments": 25
+    },
+    {
+      "id": 50017247,
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "score": 56,
+      "comments": 3
+    },
+    {
       "id": 50034081,
-      "title": "Knuth Reward Check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check",
-      "score": 43,
-      "comments": 19
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "score": 111,
+      "comments": 43
     },
     {
-      "id": 50031614,
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "score": 161,
-      "comments": 86
-    },
-    {
-      "id": 49980880,
-      "title": "Grieving the Loss of Details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "score": 117,
-      "comments": 77
-    },
-    {
-      "id": 50024242,
-      "title": "Rampart: Browser native on-device PII radaction",
-      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "score": 42,
-      "comments": 14
-    },
-    {
-      "id": 50016956,
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "score": 77,
-      "comments": 12
+      "id": 50027257,
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "score": 46,
+      "comments": 31
     }
   ]
 }
