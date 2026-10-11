@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-10-11 (last updated: 03:14 IST)
+
+## 📅 2026-10-11 (last updated: 06:02 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-10 23:32:59 IST | ee27fddcaf2a | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-11 03:14:50 IST | 28e1274fca59 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-11 06:02:07 IST | f8ce9e5b84bf | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-10 23:33:00 IST | 9d5f03b8d29a | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 178 stars today
 
 ### 📰 Hacker News Stories
-- [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) — Score: 233
-- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/) — Score: 82
-- [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger) — Score: 56
-- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/) — Score: 111
-- [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval) — Score: 46
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) — Score: 69
+- [Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects](https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6) — Score: 12
+- [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) — Score: 338
+- [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) — Score: 145
+- [The Lightbulb Computer](https://lightbulbcomputer.com/) — Score: 202
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $83,033.0 🟢 +0.49%
@@ -44,10 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $749.72 🟢 +1.23%
 
 ---
-
-
-
-
 ## 📅 2026-10-10 (last updated: 23:33 IST)
 
 ### 🧪 Source Integrity Snapshot
