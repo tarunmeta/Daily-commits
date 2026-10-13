@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-12 01:34:01 UTC",
-    "fetched_at_ist": "2026-10-12 07:04:01 IST",
+    "fetched_at_utc": "2026-10-13 20:33:25 UTC",
+    "fetched_at_ist": "2026-10-14 02:03:25 IST",
     "item_count": 5,
-    "content_hash": "f4417f32957f9165edb9cbe3be9376105e972c4aa841bdddffeedb02e820af0f",
-    "previous_hash": "f8ce9e5b84bfd0e265b080ae6644c9612583b3102acca4473061f90b9abb56f4",
+    "content_hash": "d694fb450d48515c4c2e6db05821a1958b631714359c06564a22a2d3b474e7cb",
+    "previous_hash": "f4417f32957f9165edb9cbe3be9376105e972c4aa841bdddffeedb02e820af0f",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50049411,
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "score": 57,
-      "comments": 18
+      "id": 50073879,
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 702,
+      "comments": 578
     },
     {
-      "id": 50045984,
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "score": 360,
-      "comments": 150
+      "id": 50054092,
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 180,
+      "comments": 193
     },
     {
-      "id": 50048642,
-      "title": "Fingerprints Are the New Cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "score": 73,
-      "comments": 28
+      "id": 50071017,
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 574,
+      "comments": 707
     },
     {
-      "id": 50047091,
-      "title": "Cartographers of North Korea (2019)",
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "score": 179,
-      "comments": 31
+      "id": 50077020,
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 50,
+      "comments": 16
     },
     {
-      "id": 50048522,
-      "title": "Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass/",
-      "score": 56,
-      "comments": 22
+      "id": 50073633,
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 300,
+      "comments": 283
     }
   ]
 }
