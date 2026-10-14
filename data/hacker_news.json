@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-13 20:33:25 UTC",
-    "fetched_at_ist": "2026-10-14 02:03:25 IST",
+    "fetched_at_utc": "2026-10-14 14:37:03 UTC",
+    "fetched_at_ist": "2026-10-14 20:07:03 IST",
     "item_count": 5,
-    "content_hash": "d694fb450d48515c4c2e6db05821a1958b631714359c06564a22a2d3b474e7cb",
-    "previous_hash": "f4417f32957f9165edb9cbe3be9376105e972c4aa841bdddffeedb02e820af0f",
+    "content_hash": "bf3507ba39636fe271751c38f6b3ec36de94605189f56b81b0264aebd8604f25",
+    "previous_hash": "d694fb450d48515c4c2e6db05821a1958b631714359c06564a22a2d3b474e7cb",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50073879,
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 702,
-      "comments": 578
+      "id": 50084240,
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "score": 376,
+      "comments": 132
     },
     {
-      "id": 50054092,
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 180,
-      "comments": 193
+      "id": 50086165,
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "score": 85,
+      "comments": 30
     },
     {
-      "id": 50071017,
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "score": 574,
-      "comments": 707
+      "id": 50084757,
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "score": 294,
+      "comments": 284
     },
     {
-      "id": 50077020,
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 50,
-      "comments": 16
+      "id": 50085306,
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "score": 49,
+      "comments": 6
     },
     {
-      "id": 50073633,
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 300,
-      "comments": 283
+      "id": 50045147,
+      "title": "Sound – Bartosz Ciechanowski (2022)",
+      "url": "https://ciechanow.ski/sound/",
+      "score": 196,
+      "comments": 22
     }
   ]
 }

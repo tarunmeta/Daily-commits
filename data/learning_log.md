@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-14 (last updated: 14:56 IST)
+
+## 📅 2026-10-14 (last updated: 20:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-10 23:32:59 IST | ee27fddcaf2a | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-14 02:03:25 IST | d694fb450d48 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-14 20:07:03 IST | bf3507ba3963 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-14 14:56:14 IST | 52875db65d69 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 178 stars today
 
 ### 📰 Hacker News Stories
-- [Gemini 4 Argon](https://deepmind.google/models/gemini/) — Score: 702
-- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) — Score: 180
-- [Apple HomeView](https://www.apple.com/apple-homeview/) — Score: 574
-- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) — Score: 50
-- [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) — Score: 300
+- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/) — Score: 376
+- [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch) — Score: 85
+- [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) — Score: 294
+- [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/) — Score: 49
+- [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/) — Score: 196
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $83,303.0 🔴 -0.15%
