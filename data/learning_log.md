@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-10-15 (last updated: 20:07 IST)
+
+## 📅 2026-10-15 (last updated: 06:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-10 23:32:59 IST | ee27fddcaf2a | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-14 20:07:03 IST | bf3507ba3963 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-15 06:01:54 IST | 58ebcc710b97 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-14 14:56:14 IST | 52875db65d69 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 178 stars today
 
 ### 📰 Hacker News Stories
-- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/) — Score: 376
-- [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch) — Score: 85
-- [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/) — Score: 294
-- [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/) — Score: 49
-- [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/) — Score: 196
+- [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) — Score: 679
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) — Score: 250
+- [Tiny Little Office](https://tinylittleoffice.com/) — Score: 96
+- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) — Score: 151
+- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) — Score: 19
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $83,303.0 🔴 -0.15%
