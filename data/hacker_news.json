@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-16 14:36:17 UTC",
-    "fetched_at_ist": "2026-10-16 20:06:17 IST",
+    "fetched_at_utc": "2026-10-16 21:32:27 UTC",
+    "fetched_at_ist": "2026-10-17 03:02:27 IST",
     "item_count": 5,
-    "content_hash": "7082a56f628d702f3d8e962e44fce788c0b0956fd9e0390256949a2d4901229d",
-    "previous_hash": "970324a0455af08b418be682e0f0724161135ac041d081b5def1b71e91ee51cb",
+    "content_hash": "f1dd437326f492940134aa0ee95b6283469e821938c24e89e52791336fb07854",
+    "previous_hash": "7082a56f628d702f3d8e962e44fce788c0b0956fd9e0390256949a2d4901229d",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50117746,
-      "title": "I Love Software Rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "score": 101,
-      "comments": 68
+      "id": 50112657,
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 918,
+      "comments": 1652
     },
     {
-      "id": 50077225,
-      "title": "Yet another way to invoke functions without parentheses",
-      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-      "score": 174,
-      "comments": 62
+      "id": 50122800,
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 427,
+      "comments": 177
     },
     {
-      "id": 50104965,
-      "title": "Gyroscopes Got So Small [video]",
-      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
-      "score": 10,
-      "comments": 1
+      "id": 50122431,
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 114,
+      "comments": 32
     },
     {
-      "id": 50065859,
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "score": 606,
-      "comments": 196
+      "id": 50123580,
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 40,
+      "comments": 7
     },
     {
-      "id": 50084790,
-      "title": "The Economic Complexity of the Western Roman Empire",
-      "url": "https://www.michelecoscia.com/?p=2613",
-      "score": 90,
-      "comments": 15
+      "id": 50124251,
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "score": 82,
+      "comments": 34
     }
   ]
 }
