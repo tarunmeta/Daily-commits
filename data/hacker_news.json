@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-16 00:35:36 UTC",
-    "fetched_at_ist": "2026-10-16 06:05:36 IST",
+    "fetched_at_utc": "2026-10-16 14:36:17 UTC",
+    "fetched_at_ist": "2026-10-16 20:06:17 IST",
     "item_count": 5,
-    "content_hash": "970324a0455af08b418be682e0f0724161135ac041d081b5def1b71e91ee51cb",
-    "previous_hash": "58ebcc710b97452d17cf6f9664be3d959e6d655f6f45f91c6cb27b76811272cf",
+    "content_hash": "7082a56f628d702f3d8e962e44fce788c0b0956fd9e0390256949a2d4901229d",
+    "previous_hash": "970324a0455af08b418be682e0f0724161135ac041d081b5def1b71e91ee51cb",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50107379,
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "score": 586,
-      "comments": 329
+      "id": 50117746,
+      "title": "I Love Software Rendering",
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "score": 101,
+      "comments": 68
     },
     {
-      "id": 50109715,
-      "title": "What I Self-Host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-      "score": 221,
-      "comments": 125
+      "id": 50077225,
+      "title": "Yet another way to invoke functions without parentheses",
+      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+      "score": 174,
+      "comments": 62
     },
     {
-      "id": 50105647,
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "score": 475,
-      "comments": 184
+      "id": 50104965,
+      "title": "Gyroscopes Got So Small [video]",
+      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+      "score": 10,
+      "comments": 1
     },
     {
-      "id": 50108872,
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-      "score": 206,
-      "comments": 83
+      "id": 50065859,
+      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+      "score": 606,
+      "comments": 196
     },
     {
-      "id": 50103338,
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
-      "score": 479,
-      "comments": 195
+      "id": 50084790,
+      "title": "The Economic Complexity of the Western Roman Empire",
+      "url": "https://www.michelecoscia.com/?p=2613",
+      "score": 90,
+      "comments": 15
     }
   ]
 }
