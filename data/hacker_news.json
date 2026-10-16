@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-15 00:31:54 UTC",
-    "fetched_at_ist": "2026-10-15 06:01:54 IST",
+    "fetched_at_utc": "2026-10-16 00:35:36 UTC",
+    "fetched_at_ist": "2026-10-16 06:05:36 IST",
     "item_count": 5,
-    "content_hash": "58ebcc710b97452d17cf6f9664be3d959e6d655f6f45f91c6cb27b76811272cf",
-    "previous_hash": "bf3507ba39636fe271751c38f6b3ec36de94605189f56b81b0264aebd8604f25",
+    "content_hash": "970324a0455af08b418be682e0f0724161135ac041d081b5def1b71e91ee51cb",
+    "previous_hash": "58ebcc710b97452d17cf6f9664be3d959e6d655f6f45f91c6cb27b76811272cf",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50093568,
-      "title": "Things to know when you get cancer – 2026 Edition",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "score": 679,
-      "comments": 178
+      "id": 50107379,
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 586,
+      "comments": 329
     },
     {
-      "id": 50094994,
-      "title": "OpenCode 2.0",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "score": 250,
-      "comments": 90
+      "id": 50109715,
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "score": 221,
+      "comments": 125
     },
     {
-      "id": 50096142,
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
-      "score": 96,
-      "comments": 17
+      "id": 50105647,
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "score": 475,
+      "comments": 184
     },
     {
-      "id": 50095353,
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "score": 151,
-      "comments": 53
+      "id": 50108872,
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "score": 206,
+      "comments": 83
     },
     {
-      "id": 50097369,
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "score": 19,
-      "comments": 1
+      "id": 50103338,
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "score": 479,
+      "comments": 195
     }
   ]
 }

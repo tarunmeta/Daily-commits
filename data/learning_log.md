@@ -5,13 +5,14 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-10-16 (last updated: 03:48 IST)
+
+## 📅 2026-10-16 (last updated: 06:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-10 23:32:59 IST | ee27fddcaf2a | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-15 06:01:54 IST | 58ebcc710b97 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-16 06:05:36 IST | 970324a0455a | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-16 03:48:57 IST | e2eea3efecad | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 178 stars today
 
 ### 📰 Hacker News Stories
-- [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) — Score: 679
-- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) — Score: 250
-- [Tiny Little Office](https://tinylittleoffice.com/) — Score: 96
-- [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) — Score: 151
-- [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) — Score: 19
+- [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) — Score: 586
+- [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) — Score: 221
+- [Neural networks are clean](https://already-clean.goodfire.com/) — Score: 475
+- [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) — Score: 206
+- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) — Score: 479
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $82,362.0 🟢 +1.01%
