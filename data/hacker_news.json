@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-16 21:32:27 UTC",
-    "fetched_at_ist": "2026-10-17 03:02:27 IST",
+    "fetched_at_utc": "2026-10-17 12:06:31 UTC",
+    "fetched_at_ist": "2026-10-17 17:36:31 IST",
     "item_count": 5,
-    "content_hash": "f1dd437326f492940134aa0ee95b6283469e821938c24e89e52791336fb07854",
-    "previous_hash": "7082a56f628d702f3d8e962e44fce788c0b0956fd9e0390256949a2d4901229d",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "6571e6d2b7afe19eb9ed4488eb1bbb0c17904048067a82331fac522d9a7bac37",
+    "previous_hash": "f1dd437326f492940134aa0ee95b6283469e821938c24e89e52791336fb07854",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50129121,
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "score": 242,
+      "comments": 77
+    },
+    {
+      "id": 50106747,
+      "title": "Ultramarine 1 Flash",
+      "url": "https://www.paperinstruments.com/ultramarine",
+      "score": 269,
+      "comments": 89
+    },
+    {
       "id": 50112657,
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
-      "score": 918,
-      "comments": 1652
+      "score": 1465,
+      "comments": 2606
     },
     {
-      "id": 50122800,
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 427,
-      "comments": 177
+      "id": 50100440,
+      "title": "We Still Use Paper",
+      "url": "https://humanpro.co/articles/we-still-use-paper/",
+      "score": 27,
+      "comments": 25
     },
     {
-      "id": 50122431,
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 114,
-      "comments": 32
-    },
-    {
-      "id": 50123580,
-      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "score": 40,
-      "comments": 7
-    },
-    {
-      "id": 50124251,
-      "title": "I never authorized an integration that scans my secrets",
-      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-      "score": 82,
-      "comments": 34
+      "id": 50127979,
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "score": 107,
+      "comments": 41
     }
   ]
 }

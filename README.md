@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-17 03:23:14 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-17 12:06:31 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **morluto/rea**
-- BTC: **$81,409.0** ↓ (-0.78%)
-- HN top story: **Tesla Roadster**
+- Top GitHub repo: **anthropics/claude-plugins-official**
+- BTC: **$81,483.0** ↓ (-1.08%)
+- HN top story: **DeepSeek: DeepSeek v4.1 Flash 1017**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-10-10 18:02:59 UTC | `ee27fddcaf2a` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-16 21:32:27 UTC | `f1dd437326f4` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-17 03:23:14 UTC | `bba9567c1793` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 13 | 2026-10-17 12:06:29 UTC | `94f9bbabafd0` | +13 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-17 12:06:31 UTC | `6571e6d2b7af` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-17 12:06:30 UTC | `8d0b83d967d4` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +13 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-17` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| Streak | `81` day(s) |
-| Last Commit (IST) | `2026-10-17 08:53:14 IST` |
+| Commits Today | `5` / `100` |
+| Remaining Today | `95` |
+| Progress | `█░░░░░░░░░░░░░░░░░░░` 5% |
+| Streak | `80` day(s) |
+| Last Commit (IST) | `2026-10-17 13:28:28 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-14 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-15 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-16 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-10-17 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-10-17 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $81,409.0 | -0.78% | 🔴 |
-| Ethereum | $2,421.37 | -0.75% | 🔴 |
-| Solana | $104.5 | -0.89% | 🔴 |
-| Bnb | $720.78 | -1.14% | 🔴 |
+| Bitcoin | $81,483.0 | -1.08% | 🔴 |
+| Ethereum | $2,430.89 | -1.57% | 🔴 |
+| Solana | $104.43 | -1.69% | 🔴 |
+| Bnb | $720.14 | -1.38% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [morluto/rea](https://github.com/morluto/rea) | TypeScript | 25,784 stars today | Reverse engineer anything with agents, from app behavior down to native binaries… |
-| [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | 5,831 stars today | Tool for automatic PS5 executables porting to Linux and Windows |
-| [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | 3,217 stars today | ArtCraft is an intentional crafting engine for artists, designers, and filmmaker… |
-| [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | 1,189 stars today | Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, … |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | 178 stars today | Context window optimization for AI coding agents. Sandboxes tool output (98% red… |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | 1,737 stars today | Skills for Real Engineers. Straight from my .agents directory. |
-| [flutter/flutter](https://github.com/flutter/flutter) | Dart | 164 stars today | Flutter makes it easy and fast to build beautiful apps for mobile and beyond |
-| [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | 24 stars today | An Open Source Machine Learning Framework for Everyone |
+| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,383 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 1,397 stars today | The job search that runs on your machine. AI job application framework built on … |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,145 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 580 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 879 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
+| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 159 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
+| [android/skills](https://github.com/android/skills) | Kotlin | 368 stars today | No description |
+| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,102 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Tesla Roadster](https://www.tesla.com/roadster) | 918 | 1652 |
-| [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | 427 | 177 |
-| [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM) | 114 | 32 |
-| [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein) | 40 | 7 |
-| [I never authorized an integration that scans my secrets](https://github.com/home-assistant/home-assistant.io/issues/49314) | 82 | 34 |
+| [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) | 242 | 77 |
+| [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) | 269 | 89 |
+| [Tesla Roadster](https://www.tesla.com/roadster) | 1465 | 2606 |
+| [We Still Use Paper](https://humanpro.co/articles/we-still-use-paper/) | 27 | 25 |
+| [Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | 107 | 41 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
