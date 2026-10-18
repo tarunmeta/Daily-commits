@@ -9,13 +9,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-18 (last updated: 18:56 IST)
+
+## 📅 2026-10-18 (last updated: 22:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-17 17:36:29 IST | 94f9bbabafd0 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-18 04:02:01 IST | 39052c42e3e3 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-18 22:14:18 IST | 6e96c90149b5 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-18 18:56:21 IST | d78fe4b41546 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -36,11 +37,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 879 stars today
 
 ### 📰 Hacker News Stories
-- [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x) — Score: 223
-- [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/) — Score: 115
-- [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/) — Score: 209
-- [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator) — Score: 113
-- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) — Score: 625
+- [macOS 15.8.2 Breaks OpenGL](https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550) — Score: 87
+- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki) — Score: 183
+- [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/) — Score: 154
+- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/) — Score: 412
+- [Someone Behind the Software](https://karrisaarinen.com/posts/someone-behind-the-software/) — Score: 6
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,730.0 🟢 +0.39%

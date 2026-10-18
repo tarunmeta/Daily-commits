@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-17 22:32:01 UTC",
-    "fetched_at_ist": "2026-10-18 04:02:01 IST",
+    "fetched_at_utc": "2026-10-18 16:44:18 UTC",
+    "fetched_at_ist": "2026-10-18 22:14:18 IST",
     "item_count": 5,
-    "content_hash": "39052c42e3e304470887900645af9283eea310abb44bc3cd5b49000bf1322e86",
-    "previous_hash": "5eeada3da42da24a8fb9d18dceb6ffdfb485cc7702b881667a1979e908f0cce0",
+    "content_hash": "6e96c90149b551e7732430748879ae54566dccf90df1885f072704e8d8dceb95",
+    "previous_hash": "39052c42e3e304470887900645af9283eea310abb44bc3cd5b49000bf1322e86",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50126253,
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 223,
-      "comments": 37
-    },
-    {
-      "id": 50126312,
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 115,
-      "comments": 30
-    },
-    {
-      "id": 50100994,
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 209,
+      "id": 50141909,
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "score": 87,
       "comments": 45
     },
     {
-      "id": 50100366,
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 113,
-      "comments": 20
+      "id": 50141076,
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "score": 183,
+      "comments": 25
     },
     {
-      "id": 50129045,
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 625,
-      "comments": 541
+      "id": 50139692,
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "score": 154,
+      "comments": 42
+    },
+    {
+      "id": 50138531,
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "score": 412,
+      "comments": 202
+    },
+    {
+      "id": 50142573,
+      "title": "Someone Behind the Software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "score": 6,
+      "comments": 0
     }
   ]
 }
