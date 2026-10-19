@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-10-20 (last updated: 19:57 IST)
+
+## 📅 2026-10-20 (last updated: 05:12 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-17 17:36:29 IST | 94f9bbabafd0 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-19 07:14:16 IST | b37f5ac04096 | +3 new stories, top changed: no |
+| Hacker News | 5 | 2026-10-20 05:12:54 IST | 18bcd79bf0bf | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-19 19:57:32 IST | a953fbc68a24 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +3 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 879 stars today
 
 ### 📰 Hacker News Stories
-- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861) — Score: 207
-- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html) — Score: 62
-- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/) — Score: 316
-- [If you don't run your own LLM proxy, how do you know whats going on?](https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/) — Score: 27
-- [Laptop Based on 6502 CPU](https://www.maddox.pro/?p=448) — Score: 29
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) — Score: 338
+- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) — Score: 323
+- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) — Score: 57
+- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) — Score: 482
+- [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark) — Score: 148
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $82,047.0 🟢 +0.90%
@@ -44,11 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $726.08 🟢 +1.28%
 
 ---
-
-
-
-
-
 ## 📅 2026-10-19 (last updated: 19:57 IST)
 
 ### 🧪 Source Integrity Snapshot

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-19 01:44:16 UTC",
-    "fetched_at_ist": "2026-10-19 07:14:16 IST",
+    "fetched_at_utc": "2026-10-19 23:42:54 UTC",
+    "fetched_at_ist": "2026-10-20 05:12:54 IST",
     "item_count": 5,
-    "content_hash": "b37f5ac04096b7ec74d71f60f0552767303095dffc4d545f127545837054b335",
-    "previous_hash": "0c39e935ae19a814c85ea3c700326fe740e48e455d727128ff0aa5f3428d3804",
-    "new_story_ids_vs_previous": 3,
-    "top_story_changed": false
+    "content_hash": "18bcd79bf0bf176a028a13157ba661cb7319223dbcd511b3f3e34c8d748590e0",
+    "previous_hash": "b37f5ac04096b7ec74d71f60f0552767303095dffc4d545f127545837054b335",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50145337,
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "score": 207,
-      "comments": 129
+      "id": 50154540,
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "score": 338,
+      "comments": 150
     },
     {
-      "id": 50146625,
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
-      "score": 62,
-      "comments": 4
+      "id": 50150089,
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 323,
+      "comments": 58
     },
     {
-      "id": 50142573,
-      "title": "Someone behind the software",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "score": 316,
-      "comments": 134
+      "id": 50158138,
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "score": 57,
+      "comments": 9
     },
     {
-      "id": 50145507,
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "score": 27,
-      "comments": 14
+      "id": 50152307,
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "score": 482,
+      "comments": 161
     },
     {
-      "id": 50111537,
-      "title": "Laptop Based on 6502 CPU",
-      "url": "https://www.maddox.pro/?p=448",
-      "score": 29,
-      "comments": 8
+      "id": 50158100,
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "score": 148,
+      "comments": 62
     }
   ]
 }
