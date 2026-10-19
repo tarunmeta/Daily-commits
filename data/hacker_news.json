@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-18 23:32:12 UTC",
-    "fetched_at_ist": "2026-10-19 05:02:12 IST",
+    "fetched_at_utc": "2026-10-19 01:44:16 UTC",
+    "fetched_at_ist": "2026-10-19 07:14:16 IST",
     "item_count": 5,
-    "content_hash": "0c39e935ae19a814c85ea3c700326fe740e48e455d727128ff0aa5f3428d3804",
-    "previous_hash": "6e96c90149b551e7732430748879ae54566dccf90df1885f072704e8d8dceb95",
+    "content_hash": "b37f5ac04096b7ec74d71f60f0552767303095dffc4d545f127545837054b335",
+    "previous_hash": "0c39e935ae19a814c85ea3c700326fe740e48e455d727128ff0aa5f3428d3804",
     "new_story_ids_vs_previous": 3,
-    "top_story_changed": true
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 50145337,
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
-      "score": 136,
-      "comments": 77
+      "score": 207,
+      "comments": 129
+    },
+    {
+      "id": 50146625,
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "score": 62,
+      "comments": 4
     },
     {
       "id": 50142573,
       "title": "Someone behind the software",
       "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "score": 272,
-      "comments": 112
+      "score": 316,
+      "comments": 134
     },
     {
-      "id": 50136150,
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "score": 101,
-      "comments": 38
+      "id": 50145507,
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "score": 27,
+      "comments": 14
     },
     {
-      "id": 50144066,
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "url": "https://www.getlazarus.org/dynamic/",
-      "score": 96,
-      "comments": 13
-    },
-    {
-      "id": 50141076,
-      "title": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "score": 317,
-      "comments": 50
+      "id": 50111537,
+      "title": "Laptop Based on 6502 CPU",
+      "url": "https://www.maddox.pro/?p=448",
+      "score": 29,
+      "comments": 8
     }
   ]
 }
