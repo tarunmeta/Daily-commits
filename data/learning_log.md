@@ -6,18 +6,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-20 (last updated: 05:12 IST)
+
+## 📅 2026-10-20 (last updated: 13:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-17 17:36:29 IST | 94f9bbabafd0 | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-20 05:12:54 IST | 18bcd79bf0bf | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-20 13:05:15 IST | fc2ed38cdcb6 | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-19 19:57:32 IST | a953fbc68a24 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +13 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 879 stars today
 
 ### 📰 Hacker News Stories
-- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) — Score: 338
-- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) — Score: 323
-- [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) — Score: 57
-- [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) — Score: 482
-- [Putting Linux on my RTX Spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark) — Score: 148
+- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono) — Score: 117
+- [OpenBSD 8.0](https://www.openbsd.org/80.html) — Score: 225
+- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) — Score: 328
+- [Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8) — Score: 21
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) — Score: 447
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $82,047.0 🟢 +0.90%
