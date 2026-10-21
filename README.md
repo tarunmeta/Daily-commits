@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-20 21:31:03 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-21 00:08:51 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **anthropics/claude-plugins-official**
-- BTC: **$82,047.0** ↑ (+0.90%)
+- Top GitHub repo: **MadsLorentzen/ai-job-search**
+- BTC: **$82,901.0** ↑ (+1.42%)
 - HN top story: **SimCity, but with Permits**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-10-17 12:06:29 UTC | `94f9bbabafd0` | +13 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-20 21:31:03 UTC | `d627a0b9937f` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-19 14:27:32 UTC | `a953fbc68a24` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 13 | 2026-10-21 00:08:49 UTC | `316df9e255e3` | +9 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-21 00:08:51 UTC | `3e4556f403ff` | +2 new stories, top changed: no |
+| Crypto | 4 | 2026-10-21 00:08:50 UTC | `3291f63e4462` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +13 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +9 new repos, top changed: yes
+- Hacker News: +2 new stories, top changed: no
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-21` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-10-20 23:28:57 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `83` day(s) |
+| Last Commit (IST) | `2026-10-21 03:01:04 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-18 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-10-19 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-20 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 2026-10-21 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-10-21 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $82,047.0 | +0.90% | 🟢 |
-| Ethereum | $2,393.14 | +0.16% | 🟢 |
-| Solana | $103.75 | +1.11% | 🟢 |
-| Bnb | $726.08 | +1.28% | 🟢 |
+| Bitcoin | $82,901.0 | +1.42% | 🟢 |
+| Ethereum | $2,445.35 | +1.89% | 🟢 |
+| Solana | $106.41 | +1.55% | 🟢 |
+| Bnb | $741.97 | +1.58% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | 1,383 stars today | Official, Anthropic-managed directory of high quality Claude Code Plugins. |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 1,397 stars today | The job search that runs on your machine. AI job application framework built on … |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | 1,145 stars today | The agent harness performance optimization system. Skills, instincts, memory, se… |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 580 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
-| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | 879 stars today | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science,… |
-| [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | 159 stars today | Solution for long term memory for agent coding CLIs and to facilitate handoff be… |
-| [android/skills](https://github.com/android/skills) | Kotlin | 368 stars today | No description |
-| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,102 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run… |
+| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 3,861 stars today | The job search that runs on your machine. AI job application framework built on … |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 1,712 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
+| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,565 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,208 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
+| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 1,206 stars today | The most powerful and modular diffusion model GUI, api and backend with a graph/… |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 684 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
+| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 802 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab… |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 1,240 stars today | The open source coding agent. |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [SimCity, but with Permits](https://permit.petercai.com/) | 324 | 164 |
-| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | 428 | 117 |
-| [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) | 2028 | 791 |
-| [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) | 199 | 47 |
-| [What shall I teach my son?](https://stevekrouse.com/ends) | 135 | 226 |
+| [SimCity, but with Permits](https://permit.petercai.com/) | 485 | 261 |
+| [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) | 54 | 13 |
+| [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) | 2101 | 819 |
+| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | 491 | 134 |
+| [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) | 27 | 7 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

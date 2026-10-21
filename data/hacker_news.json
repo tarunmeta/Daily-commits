@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-20 21:31:03 UTC",
-    "fetched_at_ist": "2026-10-21 03:01:03 IST",
+    "fetched_at_utc": "2026-10-21 00:08:51 UTC",
+    "fetched_at_ist": "2026-10-21 05:38:51 IST",
     "item_count": 5,
-    "content_hash": "d627a0b9937f46fe33b703ecc24ddc15f37e687948c1a4fd3247ff81c1656dfa",
-    "previous_hash": "fc2ed38cdcb62e37b46745c6135c6e499c1815a048ce1be5bba4c059bd68587b",
-    "new_story_ids_vs_previous": 5,
-    "top_story_changed": true
+    "content_hash": "3e4556f403ffec9ca2d010879a86a2238fad82d485d64cd1bc31abcd4aa8b517",
+    "previous_hash": "d627a0b9937f46fe33b703ecc24ddc15f37e687948c1a4fd3247ff81c1656dfa",
+    "new_story_ids_vs_previous": 2,
+    "top_story_changed": false
   },
   "stories": [
     {
       "id": 50170593,
       "title": "SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
-      "score": 324,
-      "comments": 164
+      "score": 485,
+      "comments": 261
     },
     {
-      "id": 50168396,
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 428,
-      "comments": 117
+      "id": 50173487,
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 54,
+      "comments": 13
     },
     {
       "id": 50163277,
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2028,
-      "comments": 791
+      "score": 2101,
+      "comments": 819
     },
     {
-      "id": 50169053,
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "score": 199,
-      "comments": 47
+      "id": 50168396,
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 491,
+      "comments": 134
     },
     {
-      "id": 50169707,
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "score": 135,
-      "comments": 226
+      "id": 50173891,
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "score": 27,
+      "comments": 7
     }
   ]
 }
