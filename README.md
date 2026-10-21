@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-21 00:08:51 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-21 22:22:08 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **MadsLorentzen/ai-job-search**
-- BTC: **$82,901.0** ↑ (+1.42%)
+- BTC: **$84,564.0** ↑ (+1.89%)
 - HN top story: **SimCity, but with Permits**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-21 00:08:49 UTC | `316df9e255e3` | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-10-21 00:08:51 UTC | `3e4556f403ff` | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-10-21 00:08:50 UTC | `3291f63e4462` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-10-21 22:22:08 UTC | `c082dd07a858` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-22` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-10-21 20:24:24 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `83` day(s) |
+| Last Commit (IST) | `2026-10-22 00:38:31 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-10-19 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-20 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-21 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
-| 2026-10-22 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-10-22 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $82,901.0 | +1.42% | 🟢 |
-| Ethereum | $2,445.35 | +1.89% | 🟢 |
-| Solana | $106.41 | +1.55% | 🟢 |
-| Bnb | $741.97 | +1.58% | 🟢 |
+| Bitcoin | $84,564.0 | +1.89% | 🟢 |
+| Ethereum | $2,485.99 | +1.07% | 🟢 |
+| Solana | $107.63 | +0.66% | 🟢 |
+| Bnb | $749.27 | +1.04% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
