@@ -7,19 +7,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-22 (last updated: 03:52 IST)
+
+## 📅 2026-10-22 (last updated: 16:49 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-21 05:38:49 IST | 316df9e255e3 | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-10-21 05:38:51 IST | 3e4556f403ff | +2 new stories, top changed: no |
-| Crypto | 4 | 2026-10-22 03:52:08 IST | c082dd07a858 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-10-22 16:49:01 IST | 41ebd55a9b28 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: no
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** (Python) — The job search that runs on your machine. AI job application framework built on   
@@ -41,10 +42,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) — Score: 27
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $84,564.0 🟢 +1.89%
-- Ethereum: $2,485.99 🟢 +1.07%
-- Solana: $107.63 🟢 +0.66%
-- Bnb: $749.27 🟢 +1.04%
+- Bitcoin: $81,901.0 🔴 -1.72%
+- Ethereum: $2,401.82 🔴 -2.40%
+- Solana: $104.46 🔴 -2.09%
+- Bnb: $733.06 🔴 -1.82%
 
 ---
 ## 📅 2026-10-21 (last updated: 05:38 IST)
