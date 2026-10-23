@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-10-23 (last updated: 16:49 IST)
+
+## 📅 2026-10-23 (last updated: 07:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-21 05:38:49 IST | 316df9e255e3 | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-21 05:38:51 IST | 3e4556f403ff | +2 new stories, top changed: no |
+| Hacker News | 5 | 2026-10-23 07:01:39 IST | cd18ada53497 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-22 16:49:01 IST | 41ebd55a9b28 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: no
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 1,206 stars today
 
 ### 📰 Hacker News Stories
-- [SimCity, but with Permits](https://permit.petercai.com/) — Score: 485
-- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) — Score: 54
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) — Score: 2101
-- [Voxtral 3](https://mistral.ai/news/voxtral-3/) — Score: 491
-- [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) — Score: 27
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) — Score: 86
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) — Score: 99
+- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) — Score: 997
+- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) — Score: 295
+- [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) — Score: 9
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $81,901.0 🔴 -1.72%

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-21 00:08:51 UTC",
-    "fetched_at_ist": "2026-10-21 05:38:51 IST",
+    "fetched_at_utc": "2026-10-23 01:31:39 UTC",
+    "fetched_at_ist": "2026-10-23 07:01:39 IST",
     "item_count": 5,
-    "content_hash": "3e4556f403ffec9ca2d010879a86a2238fad82d485d64cd1bc31abcd4aa8b517",
-    "previous_hash": "d627a0b9937f46fe33b703ecc24ddc15f37e687948c1a4fd3247ff81c1656dfa",
-    "new_story_ids_vs_previous": 2,
-    "top_story_changed": false
+    "content_hash": "cd18ada534979102058c2db75f7c91e938078e677ce36563e42d79d4b99dd2ca",
+    "previous_hash": "3e4556f403ffec9ca2d010879a86a2238fad82d485d64cd1bc31abcd4aa8b517",
+    "new_story_ids_vs_previous": 5,
+    "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50170593,
-      "title": "SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "score": 485,
-      "comments": 261
+      "id": 50202681,
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "score": 86,
+      "comments": 27
     },
     {
-      "id": 50173487,
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "score": 54,
-      "comments": 13
+      "id": 50202217,
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "score": 99,
+      "comments": 43
     },
     {
-      "id": 50163277,
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 2101,
-      "comments": 819
+      "id": 50195959,
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "score": 997,
+      "comments": 359
     },
     {
-      "id": 50168396,
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "score": 491,
-      "comments": 134
+      "id": 50198675,
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 295,
+      "comments": 154
     },
     {
-      "id": 50173891,
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "score": 27,
-      "comments": 7
+      "id": 50203161,
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "score": 9,
+      "comments": 4
     }
   ]
 }
