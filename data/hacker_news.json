@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-23 01:31:39 UTC",
-    "fetched_at_ist": "2026-10-23 07:01:39 IST",
+    "fetched_at_utc": "2026-10-24 01:38:15 UTC",
+    "fetched_at_ist": "2026-10-24 07:08:15 IST",
     "item_count": 5,
-    "content_hash": "cd18ada534979102058c2db75f7c91e938078e677ce36563e42d79d4b99dd2ca",
-    "previous_hash": "3e4556f403ffec9ca2d010879a86a2238fad82d485d64cd1bc31abcd4aa8b517",
+    "content_hash": "f107d4d76f368ac2c6f4df41a929c3af21145a622af1a96391b8af76308ae616",
+    "previous_hash": "cd18ada534979102058c2db75f7c91e938078e677ce36563e42d79d4b99dd2ca",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50202681,
-      "title": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "score": 86,
-      "comments": 27
+      "id": 50212065,
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 716,
+      "comments": 456
     },
     {
-      "id": 50202217,
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "score": 99,
-      "comments": 43
+      "id": 50216791,
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "score": 70,
+      "comments": 20
     },
     {
-      "id": 50195959,
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "score": 997,
-      "comments": 359
+      "id": 50207910,
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "score": 585,
+      "comments": 190
     },
     {
-      "id": 50198675,
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 295,
-      "comments": 154
+      "id": 50215530,
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
+      "score": 100,
+      "comments": 38
     },
     {
-      "id": 50203161,
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "score": 9,
-      "comments": 4
+      "id": 50213925,
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "url": "https://block.xyz/dessa",
+      "score": 228,
+      "comments": 96
     }
   ]
 }
