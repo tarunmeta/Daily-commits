@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-25 00:32:46 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-25 05:20:48 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **MadsLorentzen/ai-job-search**
-- BTC: **$80,520.0** ↓ (-0.90%)
+- BTC: **$80,826.0** ↑ (+0.08%)
 - HN top story: **America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 13 | 2026-10-21 00:08:49 UTC | `316df9e255e3` | +9 new repos, top changed: yes |
 | Hacker News | 5 | 2026-10-25 00:32:46 UTC | `383b5a2c9c66` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-24 20:23:06 UTC | `c22cb60bb221` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-10-25 05:20:48 UTC | `2d3a1a9fa6e5` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
 - GitHub: +9 new repos, top changed: yes
 - Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-25` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `85` day(s) |
-| Last Commit (IST) | `2026-10-25 04:09:49 IST` |
+| Last Commit (IST) | `2026-10-25 06:02:46 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-10-22 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-23 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-24 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-10-25 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-10-25 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,520.0 | -0.90% | 🔴 |
-| Ethereum | $2,344.52 | -2.02% | 🔴 |
-| Solana | $101.51 | -1.85% | 🔴 |
-| Bnb | $731.26 | -1.26% | 🔴 |
+| Bitcoin | $80,826.0 | +0.08% | 🟢 |
+| Ethereum | $2,365.6 | -0.50% | 🔴 |
+| Solana | $102.49 | +0.14% | 🟢 |
+| Bnb | $747.65 | +1.21% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
