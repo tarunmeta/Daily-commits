@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-24 22:39:49 UTC",
-    "fetched_at_ist": "2026-10-25 04:09:49 IST",
+    "fetched_at_utc": "2026-10-25 00:32:46 UTC",
+    "fetched_at_ist": "2026-10-25 06:02:46 IST",
     "item_count": 5,
-    "content_hash": "d690016a31b1cb9fa4daf8118f77824fd27cb99bdb2d70b3c54d7c51863974b6",
-    "previous_hash": "f107d4d76f368ac2c6f4df41a929c3af21145a622af1a96391b8af76308ae616",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "383b5a2c9c6699779a0a6e614d469c42b461787084bcc8ac74412930f854a351",
+    "previous_hash": "d690016a31b1cb9fa4daf8118f77824fd27cb99bdb2d70b3c54d7c51863974b6",
+    "new_story_ids_vs_previous": 2,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50224916,
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "score": 252,
-      "comments": 110
+      "id": 50226419,
+      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 64,
+      "comments": 30
+    },
+    {
+      "id": 50225695,
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 113,
+      "comments": 73
     },
     {
       "id": 50224100,
       "title": "The Goose Programming Language",
       "url": "https://aardappel.github.io/goose/",
-      "score": 138,
-      "comments": 115
+      "score": 208,
+      "comments": 152
     },
     {
-      "id": 50224422,
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "score": 76,
-      "comments": 39
+      "id": 50224916,
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 373,
+      "comments": 218
     },
     {
       "id": 50222622,
       "title": "Roku developer repositories moved from GitHub to GitLab",
       "url": "https://blog.roku.com/developer/gitlab-move",
-      "score": 226,
-      "comments": 150
-    },
-    {
-      "id": 50222927,
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "url": "https://de.numista.com/9866",
-      "score": 79,
-      "comments": 20
+      "score": 248,
+      "comments": 164
     }
   ]
 }
