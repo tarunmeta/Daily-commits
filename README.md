@@ -2,39 +2,39 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-25 20:29:18 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-26 06:14:42 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **MadsLorentzen/ai-job-search**
-- BTC: **$80,488.0** ↓ (-0.01%)
-- HN top story: **America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?**
+- Top GitHub repo: **makecindy/cindy**
+- BTC: **$80,000.0** ↓ (-0.67%)
+- HN top story: **Show HN: TitleArt – Make text like it's 1997**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 13 | 2026-10-21 00:08:49 UTC | `316df9e255e3` | +9 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-25 00:32:46 UTC | `383b5a2c9c66` | +2 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-25 20:29:18 UTC | `fa860b25a1b0` | 4 assets moved, biggest mover: bnb |
+| GitHub Trending | 11 | 2026-10-26 06:14:40 UTC | `fa79e74f3cd5` | +10 new repos, top changed: yes |
+| Hacker News | 5 | 2026-10-26 06:14:42 UTC | `362c2bbd310b` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-10-26 06:14:41 UTC | `149431d3f5f4` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +9 new repos, top changed: yes
-- Hacker News: +2 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- GitHub: +10 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-26` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
-| Streak | `86` day(s) |
-| Last Commit (IST) | `2026-10-26 04:15:54 IST` |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| Streak | `85` day(s) |
+| Last Commit (IST) | `2026-10-26 06:30:56 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-10-23 | 6 | `█░░░░░░░░░░░░░░░░░░░` 6% |
 | 2026-10-24 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
 | 2026-10-25 | 7 | `█░░░░░░░░░░░░░░░░░░░` 7% |
-| 2026-10-26 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-10-26 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $80,488.0 | -0.01% | 🔴 |
-| Ethereum | $2,348.6 | +0.19% | 🟢 |
-| Solana | $101.66 | +0.24% | 🟢 |
-| Bnb | $740.63 | +1.32% | 🟢 |
+| Bitcoin | $80,000.0 | -0.67% | 🔴 |
+| Ethereum | $2,316.69 | -1.34% | 🔴 |
+| Solana | $100.95 | -0.74% | 🔴 |
+| Bnb | $739.55 | -0.54% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | 3,861 stars today | The job search that runs on your machine. AI job application framework built on … |
-| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | 1,712 stars today | A coding-agent skill for multi-phase security audits with independently verified… |
-| [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | 1,565 stars today | Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code… |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | 1,208 stars today | Makes your AI agent think like the laziest senior dev in the room. The best code… |
-| [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | 1,206 stars today | The most powerful and modular diffusion model GUI, api and backend with a graph/… |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | 684 stars today | 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate… |
-| [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | 802 stars today | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryab… |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | 1,240 stars today | The open source coding agent. |
+| [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 675 stars today | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开… |
+| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,317 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
+| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 1,592 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 1,092 stars today | The design language that makes your AI harness better at design. |
+| [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 647 stars today | A Tiny biped duck robot 🦆 |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 381 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
+| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 199 stars today | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
+| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 51 stars today | Vibe code with pi in a lightweight, real IDE that customises itself around the w… |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) | 64 | 30 |
-| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | 113 | 73 |
-| [The Goose Programming Language](https://aardappel.github.io/goose/) | 208 | 152 |
-| [Show HN: Steal My Bitcoin](https://stealmybitcoin.com/) | 373 | 218 |
-| [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) | 248 | 164 |
+| [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) | 87 | 14 |
+| [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) | 59 | 9 |
+| [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) | 21 | 0 |
+| [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | 488 | 88 |
+| [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) | 54 | 20 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-25 00:32:46 UTC",
-    "fetched_at_ist": "2026-10-25 06:02:46 IST",
+    "fetched_at_utc": "2026-10-26 06:14:42 UTC",
+    "fetched_at_ist": "2026-10-26 11:44:42 IST",
     "item_count": 5,
-    "content_hash": "383b5a2c9c6699779a0a6e614d469c42b461787084bcc8ac74412930f854a351",
-    "previous_hash": "d690016a31b1cb9fa4daf8118f77824fd27cb99bdb2d70b3c54d7c51863974b6",
-    "new_story_ids_vs_previous": 2,
+    "content_hash": "362c2bbd310b98235be3ad689353b3412036d627885232460f4354215826b193",
+    "previous_hash": "383b5a2c9c6699779a0a6e614d469c42b461787084bcc8ac74412930f854a351",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50226419,
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 64,
-      "comments": 30
+      "id": 50238708,
+      "title": "Show HN: TitleArt – Make text like it's 1997",
+      "url": "https://titleart.dvy.io/",
+      "score": 87,
+      "comments": 14
     },
     {
-      "id": 50225695,
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "score": 113,
-      "comments": 73
+      "id": 50238739,
+      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "score": 59,
+      "comments": 9
     },
     {
-      "id": 50224100,
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "score": 208,
-      "comments": 152
+      "id": 50239027,
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "score": 21,
+      "comments": 0
     },
     {
-      "id": 50224916,
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "score": 373,
-      "comments": 218
+      "id": 50234474,
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 488,
+      "comments": 88
     },
     {
-      "id": 50222622,
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "score": 248,
-      "comments": 164
+      "id": 50238763,
+      "title": "Behind the scenes at the NeXT Computer office",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "score": 54,
+      "comments": 20
     }
   ]
 }
