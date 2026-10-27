@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-26 06:14:42 UTC",
-    "fetched_at_ist": "2026-10-26 11:44:42 IST",
+    "fetched_at_utc": "2026-10-27 14:37:26 UTC",
+    "fetched_at_ist": "2026-10-27 20:07:26 IST",
     "item_count": 5,
-    "content_hash": "362c2bbd310b98235be3ad689353b3412036d627885232460f4354215826b193",
-    "previous_hash": "383b5a2c9c6699779a0a6e614d469c42b461787084bcc8ac74412930f854a351",
+    "content_hash": "4933af267ebd39a69bb508aacb59dae66549ba7d4141c6548318c2fc0f6a9e46",
+    "previous_hash": "362c2bbd310b98235be3ad689353b3412036d627885232460f4354215826b193",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50238708,
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "url": "https://titleart.dvy.io/",
-      "score": 87,
-      "comments": 14
+      "id": 50259343,
+      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+      "score": 51,
+      "comments": 12
     },
     {
-      "id": 50238739,
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "score": 59,
-      "comments": 9
+      "id": 50257419,
+      "title": "Python's experimental JIT to be removed",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "score": 165,
+      "comments": 81
     },
     {
-      "id": 50239027,
-      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-      "score": 21,
-      "comments": 0
+      "id": 50259406,
+      "title": "Giving chat feedback gives Anthropic your data",
+      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+      "score": 22,
+      "comments": 6
     },
     {
-      "id": 50234474,
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://imaginationlibrary.com/",
-      "score": 488,
-      "comments": 88
+      "id": 50257326,
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "score": 153,
+      "comments": 69
     },
     {
-      "id": 50238763,
-      "title": "Behind the scenes at the NeXT Computer office",
-      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "score": 54,
-      "comments": 20
+      "id": 50257325,
+      "title": "AI promised less work. I've never worked more",
+      "url": "https://oioannou.com/blog/ai-promised-less-work/",
+      "score": 314,
+      "comments": 279
     }
   ]
 }

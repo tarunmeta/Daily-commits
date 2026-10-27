@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-27 (last updated: 07:49 IST)
+
+## 📅 2026-10-27 (last updated: 20:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:44:40 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-26 11:44:42 IST | 362c2bbd310b | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-27 20:07:26 IST | 4933af267ebd | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-27 07:49:20 IST | d094dcc107a9 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/) — Score: 87
-- [PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot) — Score: 59
-- [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) — Score: 21
-- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) — Score: 488
-- [Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry) — Score: 54
+- [PHP2Shell: Exploitation Attempts and Remediation Trends](https://www.wiz.io/blog/php2shell-exploitation-so-far) — Score: 51
+- [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/) — Score: 165
+- [Giving chat feedback gives Anthropic your data](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) — Score: 22
+- [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup) — Score: 153
+- [AI promised less work. I've never worked more](https://oioannou.com/blog/ai-promised-less-work/) — Score: 314
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $79,935.0 🟢 +0.23%
