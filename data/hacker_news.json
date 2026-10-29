@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-29 00:38:26 UTC",
-    "fetched_at_ist": "2026-10-29 06:08:26 IST",
+    "fetched_at_utc": "2026-10-29 13:37:30 UTC",
+    "fetched_at_ist": "2026-10-29 19:07:30 IST",
     "item_count": 5,
-    "content_hash": "7035c0e3412fe1c995072ccccffee3aca6545185a47dd8a515def3d8bb2eeb9e",
-    "previous_hash": "d3a7af0b60cf564aac229eaff017abbc4675f74507f131e109e28fb8f8d81a83",
+    "content_hash": "2f4c58c2f89c2bad52672f1cb6d542212735ef037f3e06a39220abb55e7cd733",
+    "previous_hash": "7035c0e3412fe1c995072ccccffee3aca6545185a47dd8a515def3d8bb2eeb9e",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50276998,
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "score": 777,
-      "comments": 176
+      "id": 50288019,
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "score": 65,
+      "comments": 31
     },
     {
-      "id": 50282544,
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "score": 42,
-      "comments": 3
-    },
-    {
-      "id": 50282454,
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "score": 35,
-      "comments": 24
-    },
-    {
-      "id": 50280974,
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "id": 50287448,
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
       "score": 64,
-      "comments": 5
+      "comments": 35
     },
     {
-      "id": 50274409,
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "score": 393,
-      "comments": 115
+      "id": 50287599,
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+      "score": 35,
+      "comments": 25
+    },
+    {
+      "id": 50282838,
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "score": 588,
+      "comments": 119
+    },
+    {
+      "id": 50285452,
+      "title": "Zero click, silent, remote Android DoS",
+      "url": "https://smsofdeath.com/",
+      "score": 188,
+      "comments": 104
     }
   ]
 }
