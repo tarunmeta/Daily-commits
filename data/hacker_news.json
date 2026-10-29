@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-27 19:39:58 UTC",
-    "fetched_at_ist": "2026-10-28 01:09:58 IST",
+    "fetched_at_utc": "2026-10-29 00:38:26 UTC",
+    "fetched_at_ist": "2026-10-29 06:08:26 IST",
     "item_count": 5,
-    "content_hash": "d3a7af0b60cf564aac229eaff017abbc4675f74507f131e109e28fb8f8d81a83",
-    "previous_hash": "4933af267ebd39a69bb508aacb59dae66549ba7d4141c6548318c2fc0f6a9e46",
+    "content_hash": "7035c0e3412fe1c995072ccccffee3aca6545185a47dd8a515def3d8bb2eeb9e",
+    "previous_hash": "d3a7af0b60cf564aac229eaff017abbc4675f74507f131e109e28fb8f8d81a83",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50261319,
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 436,
-      "comments": 244
+      "id": 50276998,
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "score": 777,
+      "comments": 176
     },
     {
-      "id": 50261998,
-      "title": "Ghostty 1.4.0",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 333,
+      "id": 50282544,
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "score": 42,
+      "comments": 3
+    },
+    {
+      "id": 50282454,
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "score": 35,
+      "comments": 24
+    },
+    {
+      "id": 50280974,
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "score": 64,
+      "comments": 5
+    },
+    {
+      "id": 50274409,
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "score": 393,
       "comments": 115
-    },
-    {
-      "id": 50261352,
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "score": 131,
-      "comments": 133
-    },
-    {
-      "id": 50263701,
-      "title": "Three TLS Bugs in GoAhead",
-      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-      "score": 15,
-      "comments": 2
-    },
-    {
-      "id": 50258538,
-      "title": "New iMac with M6",
-      "url": "https://www.apple.com/imac/",
-      "score": 231,
-      "comments": 280
     }
   ]
 }
