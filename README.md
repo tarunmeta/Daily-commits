@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-10-29 13:37:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-10-29 23:20:11 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **makecindy/cindy**
-- BTC: **$79,981.0** ↓ (-1.07%)
+- BTC: **$78,775.0** ↓ (-3.03%)
 - HN top story: **Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 06:14:40 UTC | `fa79e74f3cd5` | +10 new repos, top changed: yes |
 | Hacker News | 5 | 2026-10-29 13:37:30 UTC | `2f4c58c2f89c` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-10-29 06:29:45 UTC | `9679d7ef184d` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-10-29 23:20:11 UTC | `58b4c687fadc` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
 - GitHub: +10 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-10-30` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-10-29 19:07:30 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `88` day(s) |
+| Last Commit (IST) | `2026-10-30 00:43:49 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-10-27 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-28 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-10-29 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| 2026-10-30 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-10-30 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $79,981.0 | -1.07% | 🔴 |
-| Ethereum | $2,312.55 | -1.64% | 🔴 |
-| Solana | $100.0 | -1.92% | 🔴 |
-| Bnb | $753.74 | +1.26% | 🟢 |
+| Bitcoin | $78,775.0 | -3.03% | 🔴 |
+| Ethereum | $2,268.24 | -3.80% | 🔴 |
+| Solana | $96.64 | -5.56% | 🔴 |
+| Bnb | $705.06 | -6.91% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
