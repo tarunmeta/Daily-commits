@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-29 13:37:30 UTC",
-    "fetched_at_ist": "2026-10-29 19:07:30 IST",
+    "fetched_at_utc": "2026-10-30 09:42:16 UTC",
+    "fetched_at_ist": "2026-10-30 15:12:16 IST",
     "item_count": 5,
-    "content_hash": "2f4c58c2f89c2bad52672f1cb6d542212735ef037f3e06a39220abb55e7cd733",
-    "previous_hash": "7035c0e3412fe1c995072ccccffee3aca6545185a47dd8a515def3d8bb2eeb9e",
+    "content_hash": "7cb69c574cbd5e0fac8f8c5336b561cd0e8e0f371b4cb7aa11efacbe693635de",
+    "previous_hash": "2f4c58c2f89c2bad52672f1cb6d542212735ef037f3e06a39220abb55e7cd733",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50288019,
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "score": 65,
-      "comments": 31
+      "id": 50296470,
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "score": 1332,
+      "comments": 815
     },
     {
-      "id": 50287448,
-      "title": "Google determines the names for bodies of water in Google Earth (2008)",
-      "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
-      "score": 64,
-      "comments": 35
+      "id": 50301373,
+      "title": "I Returned My iPhone Duo",
+      "url": "https://codakuma.com/i-returned-my-duo/",
+      "score": 17,
+      "comments": 14
     },
     {
-      "id": 50287599,
-      "title": "NetBSD adds a new beginner-friendly text editor called atto",
-      "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
-      "score": 35,
-      "comments": 25
+      "id": 50289418,
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "score": 1463,
+      "comments": 395
     },
     {
-      "id": 50282838,
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
-      "score": 588,
-      "comments": 119
+      "id": 50301479,
+      "title": "Ask HN: Are you tired too in this AI era?",
+      "url": "https://news.ycombinator.com/item?id=50301479",
+      "score": 46,
+      "comments": 15
     },
     {
-      "id": 50285452,
-      "title": "Zero click, silent, remote Android DoS",
-      "url": "https://smsofdeath.com/",
-      "score": 188,
-      "comments": 104
+      "id": 50255343,
+      "title": "Cuis: The Modern Smalltalk-80",
+      "url": "https://cuis.st/",
+      "score": 112,
+      "comments": 15
     }
   ]
 }
