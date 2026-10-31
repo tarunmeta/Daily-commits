@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-31 00:38:45 UTC",
-    "fetched_at_ist": "2026-10-31 06:08:45 IST",
+    "fetched_at_utc": "2026-10-31 17:34:01 UTC",
+    "fetched_at_ist": "2026-10-31 23:04:01 IST",
     "item_count": 5,
-    "content_hash": "55441e8a89997a04fdd425d591c5536da56540e8bc891066b7437e71cd2258ef",
-    "previous_hash": "7cb69c574cbd5e0fac8f8c5336b561cd0e8e0f371b4cb7aa11efacbe693635de",
+    "content_hash": "733ef4f29978f307bf38aefc9e10a982697d9308fcf8f05ef5d4b9f47ba42554",
+    "previous_hash": "55441e8a89997a04fdd425d591c5536da56540e8bc891066b7437e71cd2258ef",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50307190,
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "score": 228,
+      "id": 50316531,
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "score": 132,
       "comments": 59
     },
     {
-      "id": 50311686,
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "url": "https://tng.episodle.com/",
-      "score": 17,
-      "comments": 5
+      "id": 50314666,
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "score": 202,
+      "comments": 134
     },
     {
-      "id": 50300683,
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "score": 747,
-      "comments": 471
+      "id": 50314699,
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "score": 222,
+      "comments": 108
     },
     {
-      "id": 50277379,
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "score": 44,
-      "comments": 12
+      "id": 50317484,
+      "title": "A/SIDE – Private photo sharing and encrypted messages",
+      "url": "https://a-side.social/",
+      "score": 12,
+      "comments": 9
     },
     {
-      "id": 50305025,
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "score": 348,
-      "comments": 269
+      "id": 50317363,
+      "title": "Casio Watches of the 1980s",
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "score": 73,
+      "comments": 25
     }
   ]
 }

@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-10-31 (last updated: 11:49 IST)
+
+## 📅 2026-10-31 (last updated: 23:04 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:44:40 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-10-31 06:08:45 IST | 55441e8a8999 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-10-31 23:04:01 IST | 733ef4f29978 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-10-31 11:49:06 IST | 8b32e1b09ed3 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) — Score: 228
-- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/) — Score: 17
-- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/) — Score: 747
-- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) — Score: 44
-- [Northflank Breached](https://status.northflank.com) — Score: 348
+- [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/) — Score: 132
+- [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394) — Score: 202
+- [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) — Score: 222
+- [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/) — Score: 12
+- [Casio Watches of the 1980s](https://www.casio.com/us/watches/50th/Heritage/1980s/) — Score: 73
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $77,192.0 🔴 -1.69%
