@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-10-30 09:42:16 UTC",
-    "fetched_at_ist": "2026-10-30 15:12:16 IST",
+    "fetched_at_utc": "2026-10-31 00:38:45 UTC",
+    "fetched_at_ist": "2026-10-31 06:08:45 IST",
     "item_count": 5,
-    "content_hash": "7cb69c574cbd5e0fac8f8c5336b561cd0e8e0f371b4cb7aa11efacbe693635de",
-    "previous_hash": "2f4c58c2f89c2bad52672f1cb6d542212735ef037f3e06a39220abb55e7cd733",
+    "content_hash": "55441e8a89997a04fdd425d591c5536da56540e8bc891066b7437e71cd2258ef",
+    "previous_hash": "7cb69c574cbd5e0fac8f8c5336b561cd0e8e0f371b4cb7aa11efacbe693635de",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50296470,
-      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-      "score": 1332,
-      "comments": 815
+      "id": 50307190,
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "score": 228,
+      "comments": 59
     },
     {
-      "id": 50301373,
-      "title": "I Returned My iPhone Duo",
-      "url": "https://codakuma.com/i-returned-my-duo/",
+      "id": 50311686,
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "url": "https://tng.episodle.com/",
       "score": 17,
-      "comments": 14
+      "comments": 5
     },
     {
-      "id": 50289418,
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "score": 1463,
-      "comments": 395
+      "id": 50300683,
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "score": 747,
+      "comments": 471
     },
     {
-      "id": 50301479,
-      "title": "Ask HN: Are you tired too in this AI era?",
-      "url": "https://news.ycombinator.com/item?id=50301479",
-      "score": 46,
-      "comments": 15
+      "id": 50277379,
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "url": "https://github.com/chris124567/cfsolve",
+      "score": 44,
+      "comments": 12
     },
     {
-      "id": 50255343,
-      "title": "Cuis: The Modern Smalltalk-80",
-      "url": "https://cuis.st/",
-      "score": 112,
-      "comments": 15
+      "id": 50305025,
+      "title": "Northflank Breached",
+      "url": "https://status.northflank.com",
+      "score": 348,
+      "comments": 269
     }
   ]
 }
