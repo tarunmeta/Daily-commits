@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-03 (last updated: 11:59 IST)
+
+## 📅 2026-11-03 (last updated: 20:05 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:44:40 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-01 17:12:48 IST | 5db50e068882 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-03 20:05:16 IST | 843ce12149b9 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-03 11:59:34 IST | c823aff013e6 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +10 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/) — Score: 94
-- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/) — Score: 1434
-- [A tiny Pacific country rolls out universal basic income](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income) — Score: 23
-- [No AI, 52 min. Build all Linux Files utils in C by Hand [video]](https://www.youtube.com/watch?v=gQRmSlcTq9c) — Score: 45
-- [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/) — Score: 485
+- [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading) — Score: 331
+- [Just a little AI resistance, as a treat](https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/) — Score: 17
+- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/) — Score: 2871
+- [Charles Tandy, the mastermind behind Radio Shack](https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/) — Score: 28
+- [Life with Down Syndrome](https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/) — Score: 71
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $76,535.0 🔴 -2.04%
