@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-03 14:35:16 UTC",
-    "fetched_at_ist": "2026-11-03 20:05:16 IST",
+    "fetched_at_utc": "2026-11-03 20:39:20 UTC",
+    "fetched_at_ist": "2026-11-04 02:09:20 IST",
     "item_count": 5,
-    "content_hash": "843ce12149b90042c88350572dc346903df4a120048555fda0d58686349e95b1",
-    "previous_hash": "5db50e068882e252dd3c4f0b19daadc8b6752a38135880135894b89c68212fe1",
+    "content_hash": "5206b2ec1f17e0d2ecfc12d70c9e869c35045cd19ff380417f6209e947dc4ccf",
+    "previous_hash": "843ce12149b90042c88350572dc346903df4a120048555fda0d58686349e95b1",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50351111,
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 331,
-      "comments": 70
+      "id": 50356994,
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "url": "https://flipper.net/pages/flipper-one",
+      "score": 58,
+      "comments": 22
     },
     {
-      "id": 50352257,
-      "title": "Just a little AI resistance, as a treat",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-      "score": 17,
-      "comments": 1
+      "id": 50339288,
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 420,
+      "comments": 156
     },
     {
-      "id": 50341174,
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "score": 2871,
-      "comments": 864
+      "id": 50355251,
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 313,
+      "comments": 99
     },
     {
-      "id": 50351319,
-      "title": "Charles Tandy, the mastermind behind Radio Shack",
-      "url": "https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/",
-      "score": 28,
-      "comments": 9
+      "id": 50354358,
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "score": 137,
+      "comments": 75
     },
     {
-      "id": 50327088,
-      "title": "Life with Down Syndrome",
-      "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
-      "score": 71,
-      "comments": 35
+      "id": 50354960,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 724,
+      "comments": 233
     }
   ]
 }
