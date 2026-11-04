@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-11-04 (last updated: 12:47 IST)
+
+## 📅 2026-11-04 (last updated: 21:10 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 11 | 2026-10-26 11:44:40 IST | fa79e74f3cd5 | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-04 02:09:20 IST | 5206b2ec1f17 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-04 21:10:08 IST | dd3cbce3f8f2 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-04 12:47:22 IST | f90971fe85cb | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 647 stars today
 
 ### 📰 Hacker News Stories
-- [Preparing for the Flipper One Kickstarter and opening pre-orders](https://flipper.net/pages/flipper-one) — Score: 58
-- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/) — Score: 420
-- [Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) — Score: 313
-- [Stringman, an $800 open-source room scale gripper robot](https://neufangled.com/) — Score: 137
-- [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) — Score: 724
+- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) — Score: 442
+- [Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/) — Score: 29
+- [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop) — Score: 351
+- [North Korean fake job interview led to $6.3B Binance heist](https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398) — Score: 136
+- [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge) — Score: 147
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $78,032.0 🟢 +1.99%
