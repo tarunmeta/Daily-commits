@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-04 15:40:08 UTC",
-    "fetched_at_ist": "2026-11-04 21:10:08 IST",
+    "fetched_at_utc": "2026-11-04 21:30:45 UTC",
+    "fetched_at_ist": "2026-11-05 03:00:45 IST",
     "item_count": 5,
-    "content_hash": "dd3cbce3f8f2e1ff6226162efe82cdb5db5f3dea2134c7b8099272cc34059561",
-    "previous_hash": "5206b2ec1f17e0d2ecfc12d70c9e869c35045cd19ff380417f6209e947dc4ccf",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "5426c2557bf3709f6964a8595181301119459743b76541aafea36540a49cd86d",
+    "previous_hash": "dd3cbce3f8f2e1ff6226162efe82cdb5db5f3dea2134c7b8099272cc34059561",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50371246,
+      "title": "Residential Proxies Detected on White House Network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "score": 156,
+      "comments": 32
+    },
+    {
+      "id": 50371508,
+      "title": "Everything is an AI scam now",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "score": 34,
+      "comments": 8
+    },
+    {
+      "id": 50369925,
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 128,
+      "comments": 47
+    },
+    {
+      "id": 50370610,
+      "title": "Insects Don't Swarm at LED Lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "score": 73,
+      "comments": 42
+    },
+    {
       "id": 50364336,
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 442,
-      "comments": 304
-    },
-    {
-      "id": 50366522,
-      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
-      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "score": 29,
-      "comments": 2
-    },
-    {
-      "id": 50362905,
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "score": 351,
-      "comments": 174
-    },
-    {
-      "id": 50365755,
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "score": 136,
-      "comments": 80
-    },
-    {
-      "id": 50363019,
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "score": 147,
-      "comments": 87
+      "score": 946,
+      "comments": 576
     }
   ]
 }
