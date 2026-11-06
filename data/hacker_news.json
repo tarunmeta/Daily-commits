@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-04 21:30:45 UTC",
-    "fetched_at_ist": "2026-11-05 03:00:45 IST",
+    "fetched_at_utc": "2026-11-06 18:14:45 UTC",
+    "fetched_at_ist": "2026-11-06 23:44:45 IST",
     "item_count": 5,
-    "content_hash": "5426c2557bf3709f6964a8595181301119459743b76541aafea36540a49cd86d",
-    "previous_hash": "dd3cbce3f8f2e1ff6226162efe82cdb5db5f3dea2134c7b8099272cc34059561",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "c8baadb966d7936b7a0844ad6fb7b23fbccfc49ac3de784e68f57e112d07e38c",
+    "previous_hash": "5426c2557bf3709f6964a8595181301119459743b76541aafea36540a49cd86d",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50371246,
-      "title": "Residential Proxies Detected on White House Network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "score": 156,
-      "comments": 32
+      "id": 50388001,
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "score": 68,
+      "comments": 81
     },
     {
-      "id": 50371508,
-      "title": "Everything is an AI scam now",
-      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-      "score": 34,
-      "comments": 8
+      "id": 50391456,
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "score": 352,
+      "comments": 964
     },
     {
-      "id": 50369925,
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "score": 128,
-      "comments": 47
+      "id": 50394855,
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "score": 55,
+      "comments": 2
     },
     {
-      "id": 50370610,
-      "title": "Insects Don't Swarm at LED Lights",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "score": 73,
-      "comments": 42
+      "id": 50394569,
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "url": "https://github.com/anomalyco/rune",
+      "score": 43,
+      "comments": 18
     },
     {
-      "id": 50364336,
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "score": 946,
-      "comments": 576
+      "id": 50392118,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "score": 218,
+      "comments": 166
     }
   ]
 }

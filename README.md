@@ -2,27 +2,27 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-06 11:20:43 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-06 18:14:45 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **makecindy/cindy**
-- BTC: **$75,934.0** ↓ (-5.42%)
-- HN top story: **Residential Proxies Detected on White House Network**
+- Top GitHub repo: **zed-industries/zed**
+- BTC: **$75,710.0** ↓ (-0.43%)
+- HN top story: **US FAA says it will phase out floppy disks from air traffic control by 2028**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 11 | 2026-10-26 06:14:40 UTC | `fa79e74f3cd5` | +10 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-04 21:30:45 UTC | `5426c2557bf3` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-06 11:20:43 UTC | `580fe61ea903` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 18 | 2026-11-06 18:14:44 UTC | `c5e260459966` | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-11-06 18:14:45 UTC | `c8baadb966d7` | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-11-06 18:14:44 UTC | `b6f53ac9efad` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +10 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ## 🩺 Engine Health
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-11-06` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| Commits Today | `4` / `100` |
+| Remaining Today | `96` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | Streak | `92` day(s) |
-| Last Commit (IST) | `2026-11-06 08:45:27 IST` |
+| Last Commit (IST) | `2026-11-06 16:50:43 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-11-03 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-04 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-05 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| 2026-11-06 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-11-06 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,934.0 | -5.42% | 🔴 |
-| Ethereum | $2,234.78 | -7.68% | 🔴 |
-| Solana | $90.02 | -6.90% | 🔴 |
-| Bnb | $694.05 | -3.18% | 🔴 |
+| Bitcoin | $75,710.0 | -0.43% | 🔴 |
+| Ethereum | $2,224.5 | -1.34% | 🔴 |
+| Solana | $90.0 | +0.65% | 🟢 |
+| Bnb | $693.94 | +0.25% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | 675 stars today | Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开… |
-| [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | 1,317 stars today | Anti-AI-slop design skill for Claude Code, Cursor, and Codex. |
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | 1,592 stars today | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloni… |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | 1,092 stars today | The design language that makes your AI harness better at design. |
-| [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | 647 stars today | A Tiny biped duck robot 🦆 |
-| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | 381 stars today | TradingAgents: Multi-Agents LLM Financial Trading Framework |
-| [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | 199 stars today | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据 |
-| [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | 51 stars today | Vibe code with pi in a lightweight, real IDE that customises itself around the w… |
+| [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | 292 stars today | Code at the speed of thought – Zed is a high-performance, multiplayer code edito… |
+| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | 2,005 stars today | Auto Ontology is a Python framework for building semantic, graph-based reasoning… |
+| [rails/rails](https://github.com/rails/rails) | Ruby | 152 stars today | Ruby on Rails |
+| [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | 36 stars today | 🎥 Command line media player |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | 186 stars today | Empowering everyone to build reliable and efficient software. |
+| [react/react](https://github.com/react/react) | JavaScript | 244 stars today | The library for web and native user interfaces. |
+| [angular/angular](https://github.com/angular/angular) | TypeScript | 128 stars today | Deliver web apps with confidence 🚀 |
+| [symfony/symfony](https://github.com/symfony/symfony) | PHP | 89 stars today | The Symfony PHP framework |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Residential Proxies Detected on White House Network](https://layer3intel.com/blog/residential-proxies-white-house-network) | 156 | 32 |
-| [Everything is an AI scam now](https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/) | 34 | 8 |
-| [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple) | 128 | 47 |
-| [Insects Don't Swarm at LED Lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/) | 73 | 42 |
-| [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) | 946 | 576 |
+| [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) | 68 | 81 |
+| [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) | 352 | 964 |
+| [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) | 55 | 2 |
+| [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune) | 43 | 18 |
+| [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) | 218 | 166 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
