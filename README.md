@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-07 16:27:18 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-07 20:25:41 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **zed-industries/zed**
-- BTC: **$75,718.0** ↑ (+0.04%)
+- BTC: **$75,709.0** ↑ (+0.02%)
 - HN top story: **US FAA says it will phase out floppy disks from air traffic control by 2028**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 18:14:44 UTC | `c5e260459966` | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-06 18:14:45 UTC | `c8baadb966d7` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-07 16:27:18 UTC | `e440548b8b9b` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-11-07 20:25:41 UTC | `ae68b75df6fc` | 4 assets moved, biggest mover: bnb |
 
 ## 🧭 Change Summary
 
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-11-07` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| Streak | `93` day(s) |
-| Last Commit (IST) | `2026-11-07 15:40:52 IST` |
+| Date (IST) | `2026-11-08` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-11-07 21:57:19 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-11-01 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-11-02 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-03 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-04 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-05 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-06 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-07 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-11-08 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $75,718.0 | +0.04% | 🟢 |
-| Ethereum | $2,235.61 | +0.39% | 🟢 |
-| Solana | $89.53 | -1.06% | 🔴 |
-| Bnb | $693.64 | -0.05% | 🔴 |
+| Bitcoin | $75,709.0 | +0.02% | 🟢 |
+| Ethereum | $2,231.65 | +0.25% | 🟢 |
+| Solana | $89.46 | -0.43% | 🔴 |
+| Bnb | $695.99 | +0.59% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
