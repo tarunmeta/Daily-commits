@@ -7,13 +7,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-11-08 (last updated: 01:55 IST)
+
+## 📅 2026-11-08 (last updated: 23:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-06 23:44:45 IST | c8baadb966d7 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-08 23:13:00 IST | d9de581bc761 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-08 01:55:41 IST | ae68b75df6fc | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -34,11 +35,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 186 stars today
 
 ### 📰 Hacker News Stories
-- [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) — Score: 68
-- [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) — Score: 352
-- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html) — Score: 55
-- [Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web](https://github.com/anomalyco/rune) — Score: 43
-- [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) — Score: 218
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) — Score: 204
+- [The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/) — Score: 39
+- [Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) — Score: 115
+- [I'm not a fan of Deno's security model (2024)](https://goldstein.lol/posts/deno-security/) — Score: 29
+- [Goodbye Claude, hello Pi](https://caleb.software/posts/claude-to-pi.html) — Score: 564
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $75,709.0 🟢 +0.02%

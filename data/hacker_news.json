@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-06 18:14:45 UTC",
-    "fetched_at_ist": "2026-11-06 23:44:45 IST",
+    "fetched_at_utc": "2026-11-08 17:43:00 UTC",
+    "fetched_at_ist": "2026-11-08 23:13:00 IST",
     "item_count": 5,
-    "content_hash": "c8baadb966d7936b7a0844ad6fb7b23fbccfc49ac3de784e68f57e112d07e38c",
-    "previous_hash": "5426c2557bf3709f6964a8595181301119459743b76541aafea36540a49cd86d",
+    "content_hash": "d9de581bc76119bfd4bcf3de208013e66116e4b6cc8d7c5bf48d65bfb1e472df",
+    "previous_hash": "c8baadb966d7936b7a0844ad6fb7b23fbccfc49ac3de784e68f57e112d07e38c",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50388001,
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "score": 68,
-      "comments": 81
+      "id": 50411961,
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "score": 204,
+      "comments": 62
     },
     {
-      "id": 50391456,
-      "title": "Tesla to wind down Cybertruck production",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "score": 352,
-      "comments": 964
+      "id": 50389923,
+      "title": "The Reconstruction of Torn Documents",
+      "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+      "score": 39,
+      "comments": 12
     },
     {
-      "id": 50394855,
-      "title": "First steps in bare-metal programming using UEFI",
-      "url": "https://kevinboone.me/efitest_index.html",
-      "score": 55,
-      "comments": 2
+      "id": 50412067,
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "score": 115,
+      "comments": 32
     },
     {
-      "id": 50394569,
-      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-      "url": "https://github.com/anomalyco/rune",
-      "score": 43,
-      "comments": 18
+      "id": 50413769,
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "score": 29,
+      "comments": 11
     },
     {
-      "id": 50392118,
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "score": 218,
-      "comments": 166
+      "id": 50410107,
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "score": 564,
+      "comments": 352
     }
   ]
 }
