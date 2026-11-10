@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-10 (last updated: 00:10 IST)
+
+## 📅 2026-11-10 (last updated: 14:52 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-10 00:10:07 IST | ae00c708f3e3 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-09 02:52:24 IST | f9ab9fdafd27 | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-11-10 14:52:58 IST | 7d488df22fe5 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[zed-industries/zed](https://github.com/zed-industries/zed)** (Rust) — Code at the speed of thought – Zed is a high-performance, multiplayer code edito  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385](https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/) — Score: 99
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $75,685.0 🟢 +0.14%
-- Ethereum: $2,224.01 🔴 -0.03%
-- Solana: $88.99 🟢 +0.20%
-- Bnb: $696.05 🟢 +0.31%
+- Bitcoin: $74,354.0 🟢 +0.13%
+- Ethereum: $2,103.01 🔴 -0.40%
+- Solana: $85.29 🔴 -1.52%
+- Bnb: $688.42 🟢 +1.06%
 
 ---
 ## 📅 2026-11-09 (last updated: 02:52 IST)
