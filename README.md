@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-10 09:22:58 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-10 22:23:26 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **zed-industries/zed**
-- BTC: **$74,354.0** ↑ (+0.13%)
+- BTC: **$73,774.0** ↓ (-1.58%)
 - HN top story: **Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 18:14:44 UTC | `c5e260459966` | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-09 18:40:07 UTC | `ae00c708f3e3` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-10 09:22:58 UTC | `7d488df22fe5` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-11-10 22:23:26 UTC | `7186ce65d11a` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -29,12 +29,12 @@
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-11-10` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| Streak | `95` day(s) |
-| Last Commit (IST) | `2026-11-10 14:52:58 IST` |
+| Date (IST) | `2026-11-11` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-11-10 22:42:31 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-11-04 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-05 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-06 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-07 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-08 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-11-09 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-10 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-11-11 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $74,354.0 | +0.13% | 🟢 |
-| Ethereum | $2,103.01 | -0.40% | 🔴 |
-| Solana | $85.29 | -1.52% | 🔴 |
-| Bnb | $688.42 | +1.06% | 🟢 |
+| Bitcoin | $73,774.0 | -1.58% | 🔴 |
+| Ethereum | $2,054.34 | -3.30% | 🔴 |
+| Solana | $83.27 | -3.55% | 🔴 |
+| Bnb | $678.04 | -1.56% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
