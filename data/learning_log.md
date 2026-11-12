@@ -4,19 +4,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-12 (last updated: 05:07 IST)
+
+## 📅 2026-11-12 (last updated: 09:47 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-12 05:07:20 IST | 61ceccb6847d | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-11 22:52:36 IST | 9771b91ef841 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-11-12 09:47:48 IST | b83b501399a7 | 4 assets moved, biggest mover: bnb |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bnb
 
 ### 🚀 Trending Repos Tracked Today
 - **[zed-industries/zed](https://github.com/zed-industries/zed)** (Rust) — Code at the speed of thought – Zed is a high-performance, multiplayer code edito  
@@ -38,15 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/) — Score: 375
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $74,488.0 🟢 +2.06%
-- Ethereum: $2,091.2 🟢 +3.35%
-- Solana: $85.32 🟢 +3.76%
-- Bnb: $687.47 🟢 +2.23%
+- Bitcoin: $73,706.0 🟢 +0.22%
+- Ethereum: $2,052.21 🔴 -0.31%
+- Solana: $83.09 🟢 +0.15%
+- Bnb: $677.49 🔴 -0.46%
 
 ---
-
-
-
 ## 📅 2026-11-11 (last updated: 22:52 IST)
 
 ### 🧪 Source Integrity Snapshot
