@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-11 23:37:20 UTC",
-    "fetched_at_ist": "2026-11-12 05:07:20 IST",
+    "fetched_at_utc": "2026-11-13 01:42:37 UTC",
+    "fetched_at_ist": "2026-11-13 07:12:37 IST",
     "item_count": 5,
-    "content_hash": "61ceccb6847d173c7848d350455a242759f01531d90dfc85839937858db6c604",
-    "previous_hash": "ae00c708f3e3a18b03a83d1b3c172fa097cf95beb7df59959ffde596dd8f6e77",
+    "content_hash": "d67392173d7f49b370de5975d3e16ccea95622db3fe5f3e27c9665209ad9c8de",
+    "previous_hash": "61ceccb6847d173c7848d350455a242759f01531d90dfc85839937858db6c604",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50456631,
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "score": 572,
-      "comments": 194
+      "id": 50467087,
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 2944,
+      "comments": 2788
     },
     {
-      "id": 50450488,
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "score": 760,
-      "comments": 76
+      "id": 50472038,
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "score": 417,
+      "comments": 171
     },
     {
-      "id": 50458900,
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "score": 243,
-      "comments": 230
+      "id": 50472260,
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 301,
+      "comments": 72
     },
     {
-      "id": 50459745,
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "score": 38,
-      "comments": 7
+      "id": 50470488,
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
+      "score": 336,
+      "comments": 137
     },
     {
-      "id": 50455394,
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "score": 375,
-      "comments": 185
+      "id": 50472490,
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "score": 198,
+      "comments": 94
     }
   ]
 }
