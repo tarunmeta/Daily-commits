@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-13 01:42:37 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-13 22:28:42 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **zed-industries/zed**
-- BTC: **$73,706.0** ↑ (+0.22%)
+- BTC: **$68,222.0** ↓ (-4.48%)
 - HN top story: **Jensen Huang resigns**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 18:14:44 UTC | `c5e260459966` | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-13 01:42:37 UTC | `d67392173d7f` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-12 04:17:48 UTC | `b83b501399a7` | 4 assets moved, biggest mover: bnb |
+| Crypto | 4 | 2026-11-13 22:28:42 UTC | `17360e4c3b50` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bnb
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-11-13` |
-| Commits Today | `4` / `100` |
-| Remaining Today | `96` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| Streak | `98` day(s) |
-| Last Commit (IST) | `2026-11-13 14:17:33 IST` |
+| Date (IST) | `2026-11-14` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-11-13 22:28:38 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-11-07 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-08 | 5 | `█░░░░░░░░░░░░░░░░░░░` 5% |
 | 2026-11-09 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-10 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-11 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-12 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-13 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
+| 2026-11-14 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $73,706.0 | +0.22% | 🟢 |
-| Ethereum | $2,052.21 | -0.31% | 🔴 |
-| Solana | $83.09 | +0.15% | 🟢 |
-| Bnb | $677.49 | -0.46% | 🔴 |
+| Bitcoin | $68,222.0 | -4.48% | 🔴 |
+| Ethereum | $1,923.17 | -4.45% | 🔴 |
+| Solana | $78.29 | -3.79% | 🔴 |
+| Bnb | $629.27 | -3.62% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 

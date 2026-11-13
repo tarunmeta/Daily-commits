@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-11-14 (last updated: 03:58 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-11-13 07:12:37 IST | d67392173d7f | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-11-14 03:58:42 IST | 17360e4c3b50 | 4 assets moved, biggest mover: bitcoin |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
+
+### 🚀 Trending Repos Tracked Today
+- **[zed-industries/zed](https://github.com/zed-industries/zed)** (Rust) — Code at the speed of thought – Zed is a high-performance, multiplayer code edito  
+  ⭐ 292 stars today
+- **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** (Python) — Auto Ontology is a Python framework for building semantic, graph-based reasoning  
+  ⭐ 2,005 stars today
+- **[rails/rails](https://github.com/rails/rails)** (Ruby) — Ruby on Rails  
+  ⭐ 152 stars today
+- **[mpv-player/mpv](https://github.com/mpv-player/mpv)** (C) — 🎥 Command line media player  
+  ⭐ 36 stars today
+- **[rust-lang/rust](https://github.com/rust-lang/rust)** (Rust) — Empowering everyone to build reliable and efficient software.  
+  ⭐ 186 stars today
+
+### 📰 Hacker News Stories
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) — Score: 2944
+- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) — Score: 417
+- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) — Score: 301
+- [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) — Score: 336
+- [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) — Score: 198
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $68,222.0 🔴 -4.48%
+- Ethereum: $1,923.17 🔴 -4.45%
+- Solana: $78.29 🔴 -3.79%
+- Bnb: $629.27 🔴 -3.62%
+
+---
 
 
 
