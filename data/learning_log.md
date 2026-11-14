@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-14 (last updated: 08:08 IST)
+
+## 📅 2026-11-14 (last updated: 14:56 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-14 08:08:29 IST | 828192188578 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-14 03:58:42 IST | 17360e4c3b50 | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-11-14 14:56:15 IST | d85de86e8144 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
 - **[zed-industries/zed](https://github.com/zed-industries/zed)** (Rust) — Code at the speed of thought – Zed is a high-performance, multiplayer code edito  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/) — Score: 53
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $68,222.0 🔴 -4.48%
-- Ethereum: $1,923.17 🔴 -4.45%
-- Solana: $78.29 🔴 -3.79%
-- Bnb: $629.27 🔴 -3.62%
+- Bitcoin: $67,067.0 🔴 -2.53%
+- Ethereum: $1,900.93 🔴 -1.81%
+- Solana: $75.51 🔴 -5.21%
+- Bnb: $614.59 🔴 -3.10%
 
 ---
 ## 📅 2026-11-13 (last updated: 07:12 IST)
