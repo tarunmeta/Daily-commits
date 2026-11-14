@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-13 01:42:37 UTC",
-    "fetched_at_ist": "2026-11-13 07:12:37 IST",
+    "fetched_at_utc": "2026-11-14 02:38:29 UTC",
+    "fetched_at_ist": "2026-11-14 08:08:29 IST",
     "item_count": 5,
-    "content_hash": "d67392173d7f49b370de5975d3e16ccea95622db3fe5f3e27c9665209ad9c8de",
-    "previous_hash": "61ceccb6847d173c7848d350455a242759f01531d90dfc85839937858db6c604",
+    "content_hash": "82819218857841548efcbce210b7506ba7e575ed5fa0a87725d246d992f0fdbf",
+    "previous_hash": "d67392173d7f49b370de5975d3e16ccea95622db3fe5f3e27c9665209ad9c8de",
     "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50467087,
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "score": 2944,
-      "comments": 2788
+      "id": 50492601,
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+      "score": 131,
+      "comments": 114
     },
     {
-      "id": 50472038,
-      "title": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "score": 417,
-      "comments": 171
+      "id": 50489641,
+      "title": "FAA issues national ground stop",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "score": 1347,
+      "comments": 830
     },
     {
-      "id": 50472260,
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "score": 301,
-      "comments": 72
+      "id": 50491423,
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
+      "score": 84,
+      "comments": 47
     },
     {
-      "id": 50470488,
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
-      "score": 336,
-      "comments": 137
+      "id": 50490593,
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "score": 216,
+      "comments": 49
     },
     {
-      "id": 50472490,
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "score": 198,
-      "comments": 94
+      "id": 50491830,
+      "title": "What Happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "score": 53,
+      "comments": 27
     }
   ]
 }

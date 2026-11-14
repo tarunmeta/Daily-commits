@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-14 (last updated: 03:58 IST)
+
+## 📅 2026-11-14 (last updated: 08:08 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-13 07:12:37 IST | d67392173d7f | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-14 08:08:29 IST | 828192188578 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-14 03:58:42 IST | 17360e4c3b50 | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 186 stars today
 
 ### 📰 Hacker News Stories
-- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) — Score: 2944
-- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) — Score: 417
-- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/) — Score: 301
-- [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) — Score: 336
-- [Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/) — Score: 198
+- [FAA lifted National Ground Stop at 0119Z](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5) — Score: 131
+- [FAA issues national ground stop](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247) — Score: 1347
+- [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/) — Score: 84
+- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/) — Score: 216
+- [What Happened to 3Com?](https://dfarq.homeip.net/what-happened-to-3com/) — Score: 53
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $68,222.0 🔴 -4.48%
@@ -44,9 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $629.27 🔴 -3.62%
 
 ---
-
-
-
 ## 📅 2026-11-13 (last updated: 07:12 IST)
 
 ### 🧪 Source Integrity Snapshot
