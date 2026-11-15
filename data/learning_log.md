@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-11-15 (last updated: 05:49 IST)
+
+## 📅 2026-11-15 (last updated: 20:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-15 02:04:17 IST | 42e213735495 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-15 20:09:40 IST | 4966557358b6 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-15 05:49:52 IST | fcbe07721138 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 186 stars today
 
 ### 📰 Hacker News Stories
-- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) — Score: 350
-- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) — Score: 152
-- [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/) — Score: 80
-- [KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) — Score: 278
-- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/) — Score: 437
+- [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) — Score: 64
+- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) — Score: 1402
+- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) — Score: 110
+- [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) — Score: 35
+- [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) — Score: 17
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,338.0 🔴 -5.74%
