@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-14 20:34:17 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-15 00:19:52 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **zed-industries/zed**
-- BTC: **$67,067.0** ↓ (-2.53%)
+- BTC: **$64,338.0** ↓ (-5.74%)
 - HN top story: **Lovable apps expose passport details and more than 200K private messages**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,7 +17,7 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 18:14:44 UTC | `c5e260459966` | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-14 20:34:17 UTC | `42e213735495` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-14 09:26:15 UTC | `d85de86e8144` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-11-15 00:19:52 UTC | `fcbe07721138` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-11-15` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-11-14 21:27:47 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `100` day(s) |
+| Last Commit (IST) | `2026-11-15 02:04:18 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-11-12 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-13 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-14 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
-| 2026-11-15 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-11-15 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $67,067.0 | -2.53% | 🔴 |
-| Ethereum | $1,900.93 | -1.81% | 🔴 |
-| Solana | $75.51 | -5.21% | 🔴 |
-| Bnb | $614.59 | -3.10% | 🔴 |
+| Bitcoin | $64,338.0 | -5.74% | 🔴 |
+| Ethereum | $1,768.75 | -8.45% | 🔴 |
+| Solana | $70.41 | -10.14% | 🔴 |
+| Bnb | $583.19 | -7.51% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
