@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-11-17 (last updated: 10:46 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-11-15 20:09:40 IST | 4966557358b6 | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-11-16 10:46:02 IST | 797d5a9afa59 | 4 assets moved, biggest mover: bnb |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bnb
+
+### 🚀 Trending Repos Tracked Today
+- **[zed-industries/zed](https://github.com/zed-industries/zed)** (Rust) — Code at the speed of thought – Zed is a high-performance, multiplayer code edito  
+  ⭐ 292 stars today
+- **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** (Python) — Auto Ontology is a Python framework for building semantic, graph-based reasoning  
+  ⭐ 2,005 stars today
+- **[rails/rails](https://github.com/rails/rails)** (Ruby) — Ruby on Rails  
+  ⭐ 152 stars today
+- **[mpv-player/mpv](https://github.com/mpv-player/mpv)** (C) — 🎥 Command line media player  
+  ⭐ 36 stars today
+- **[rust-lang/rust](https://github.com/rust-lang/rust)** (Rust) — Empowering everyone to build reliable and efficient software.  
+  ⭐ 186 stars today
+
+### 📰 Hacker News Stories
+- [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) — Score: 64
+- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15) — Score: 1402
+- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775) — Score: 110
+- [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) — Score: 35
+- [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html) — Score: 17
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $64,634.0 🔴 -0.41%
+- Ethereum: $1,812.62 🟢 +0.14%
+- Solana: $71.36 🟢 +0.67%
+- Bnb: $589.43 🔴 -1.01%
+
+---
 
 
 
