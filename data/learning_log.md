@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-18 (last updated: 04:03 IST)
+
+## 📅 2026-11-18 (last updated: 18:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-18 04:03:03 IST | 1dbe153f889d | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-18 18:13:30 IST | 617c90e4f1ab | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-17 19:54:49 IST | 7725fe03b810 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 186 stars today
 
 ### 📰 Hacker News Stories
-- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/) — Score: 942
-- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) — Score: 182
-- [jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0) — Score: 182
-- [Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf) — Score: 263
-- [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) — Score: 224
+- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/) — Score: 52
+- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) — Score: 983
+- [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) — Score: 459
+- [Codeberg.org Not Reachable](https://social.anoxinon.de/@codebergstatus/117636437840688845) — Score: 213
+- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) — Score: 661
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $64,939.0 🟢 +0.96%

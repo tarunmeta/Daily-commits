@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-17 22:33:03 UTC",
-    "fetched_at_ist": "2026-11-18 04:03:03 IST",
+    "fetched_at_utc": "2026-11-18 12:43:30 UTC",
+    "fetched_at_ist": "2026-11-18 18:13:30 IST",
     "item_count": 5,
-    "content_hash": "1dbe153f889d1c0f1a440b398230cf89f25ed7468a33063bf85600fbe025c0a0",
-    "previous_hash": "4966557358b676e5c8353877300fb97d03234ad98d9ea75b0469a655dcaaa9d4",
-    "new_story_ids_vs_previous": 5,
+    "content_hash": "617c90e4f1ab59d48cda8baf07ac0eac62f086654c00277f1a89ce5537f83241",
+    "previous_hash": "1dbe153f889d1c0f1a440b398230cf89f25ed7468a33063bf85600fbe025c0a0",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50535230,
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "score": 942,
-      "comments": 587
+      "id": 50543989,
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "score": 52,
+      "comments": 4
     },
     {
       "id": 50538240,
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
       "url": "https://calif.io/java4shell/",
-      "score": 182,
-      "comments": 54
+      "score": 983,
+      "comments": 253
     },
     {
-      "id": 50537156,
-      "title": "jQuery 4.1.0",
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-      "score": 182,
-      "comments": 96
+      "id": 50540178,
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "score": 459,
+      "comments": 339
     },
     {
-      "id": 50534631,
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "score": 263,
-      "comments": 142
+      "id": 50544261,
+      "title": "Codeberg.org Not Reachable",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "score": 213,
+      "comments": 164
     },
     {
-      "id": 50535885,
-      "title": "MAI Code 2 and Code 2 Flash",
-      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-      "score": 224,
-      "comments": 106
+      "id": 50538994,
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "score": 661,
+      "comments": 239
     }
   ]
 }
