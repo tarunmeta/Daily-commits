@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-18 12:43:30 UTC",
-    "fetched_at_ist": "2026-11-18 18:13:30 IST",
+    "fetched_at_utc": "2026-11-19 10:37:45 UTC",
+    "fetched_at_ist": "2026-11-19 16:07:45 IST",
     "item_count": 5,
-    "content_hash": "617c90e4f1ab59d48cda8baf07ac0eac62f086654c00277f1a89ce5537f83241",
-    "previous_hash": "1dbe153f889d1c0f1a440b398230cf89f25ed7468a33063bf85600fbe025c0a0",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "7111b5d3c61a8ecb72e9719217431da9a21b175395820ac2d67b7799eafadc7f",
+    "previous_hash": "617c90e4f1ab59d48cda8baf07ac0eac62f086654c00277f1a89ce5537f83241",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50543989,
-      "title": "Energy-Based Reasoners: 385x more efficient inference",
-      "url": "https://energy-based-reasoners.github.io/",
-      "score": 52,
-      "comments": 4
+      "id": 50556287,
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "score": 125,
+      "comments": 45
     },
     {
-      "id": 50538240,
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "url": "https://calif.io/java4shell/",
-      "score": 983,
-      "comments": 253
+      "id": 50557870,
+      "title": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "score": 41,
+      "comments": 20
     },
     {
-      "id": 50540178,
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "url": "https://revscope.co/blog/search-seo-geo-2026/",
-      "score": 459,
-      "comments": 339
+      "id": 50552424,
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "score": 837,
+      "comments": 670
     },
     {
-      "id": 50544261,
-      "title": "Codeberg.org Not Reachable",
-      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
-      "score": 213,
-      "comments": 164
+      "id": 50557716,
+      "title": "SSD prices will start going down the second half of next year",
+      "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+      "score": 66,
+      "comments": 46
     },
     {
-      "id": 50538994,
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "score": 661,
-      "comments": 239
+      "id": 50557537,
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "score": 39,
+      "comments": 5
     }
   ]
 }
