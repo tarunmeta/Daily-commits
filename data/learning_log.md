@@ -4,19 +4,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-19 (last updated: 18:13 IST)
+
+## 📅 2026-11-19 (last updated: 07:49 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-18 18:13:30 IST | 617c90e4f1ab | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-17 19:54:49 IST | 7725fe03b810 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-11-19 07:49:15 IST | ac62865c395f | 4 assets moved, biggest mover: bitcoin |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ### 🚀 Trending Repos Tracked Today
 - **[zed-industries/zed](https://github.com/zed-industries/zed)** (Rust) — Code at the speed of thought – Zed is a high-performance, multiplayer code edito  
@@ -38,14 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/) — Score: 661
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $64,939.0 🟢 +0.96%
-- Ethereum: $1,822.4 🟢 +0.29%
-- Solana: $73.79 🟢 +3.80%
-- Bnb: $592.08 🟢 +0.60%
+- Bitcoin: $62,771.0 🔴 -2.25%
+- Ethereum: $1,774.47 🔴 -1.33%
+- Solana: $73.4 🔴 -1.22%
+- Bnb: $580.9 🔴 -1.65%
 
 ---
-
-
 ## 📅 2026-11-18 (last updated: 18:13 IST)
 
 ### 🧪 Source Integrity Snapshot

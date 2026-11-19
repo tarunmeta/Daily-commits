@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-18 12:43:30 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-19 02:19:15 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **zed-industries/zed**
-- BTC: **$64,939.0** ↑ (+0.96%)
+- BTC: **$62,771.0** ↓ (-2.25%)
 - HN top story: **Energy-Based Reasoners: 385x more efficient inference**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 18:14:44 UTC | `c5e260459966` | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-18 12:43:30 UTC | `617c90e4f1ab` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-17 14:24:49 UTC | `7725fe03b810` | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-11-19 02:19:15 UTC | `ac62865c395f` | 4 assets moved, biggest mover: bitcoin |
 
 ## 🧭 Change Summary
 
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: bitcoin
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-11-19` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-11-18 18:13:30 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `103` day(s) |
+| Last Commit (IST) | `2026-11-19 02:25:26 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,16 +48,16 @@
 | 2026-11-16 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-17 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-18 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
-| 2026-11-19 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-11-19 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $64,939.0 | +0.96% | 🟢 |
-| Ethereum | $1,822.4 | +0.29% | 🟢 |
-| Solana | $73.79 | +3.80% | 🟢 |
-| Bnb | $592.08 | +0.60% | 🟢 |
+| Bitcoin | $62,771.0 | -2.25% | 🔴 |
+| Ethereum | $1,774.47 | -1.33% | 🔴 |
+| Solana | $73.4 | -1.22% | 🔴 |
+| Bnb | $580.9 | -1.65% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
