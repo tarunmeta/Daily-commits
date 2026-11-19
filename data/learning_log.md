@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-11-20 (last updated: 16:07 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
+| Hacker News | 5 | 2026-11-19 16:07:45 IST | 7111b5d3c61a | +5 new stories, top changed: yes |
+| Crypto | 4 | 2026-11-19 07:49:15 IST | ac62865c395f | 4 assets moved, biggest mover: bitcoin |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +17 new repos, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: bitcoin
+
+### 🚀 Trending Repos Tracked Today
+- **[zed-industries/zed](https://github.com/zed-industries/zed)** (Rust) — Code at the speed of thought – Zed is a high-performance, multiplayer code edito  
+  ⭐ 292 stars today
+- **[NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)** (Python) — Auto Ontology is a Python framework for building semantic, graph-based reasoning  
+  ⭐ 2,005 stars today
+- **[rails/rails](https://github.com/rails/rails)** (Ruby) — Ruby on Rails  
+  ⭐ 152 stars today
+- **[mpv-player/mpv](https://github.com/mpv-player/mpv)** (C) — 🎥 Command line media player  
+  ⭐ 36 stars today
+- **[rust-lang/rust](https://github.com/rust-lang/rust)** (Rust) — Empowering everyone to build reliable and efficient software.  
+  ⭐ 186 stars today
+
+### 📰 Hacker News Stories
+- [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) — Score: 125
+- [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php) — Score: 41
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) — Score: 837
+- [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html) — Score: 66
+- [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/) — Score: 39
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $62,771.0 🔴 -2.25%
+- Ethereum: $1,774.47 🔴 -1.33%
+- Solana: $73.4 🔴 -1.22%
+- Bnb: $580.9 🔴 -1.65%
+
+---
 
 
 ## 📅 2026-11-19 (last updated: 16:07 IST)
