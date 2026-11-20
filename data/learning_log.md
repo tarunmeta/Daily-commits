@@ -6,13 +6,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 
 
-## 📅 2026-11-20 (last updated: 06:45 IST)
+
+## 📅 2026-11-20 (last updated: 23:07 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-19 16:07:45 IST | 7111b5d3c61a | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-20 23:07:17 IST | caf21c983b98 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-20 06:45:59 IST | 58a92032f4a1 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -33,11 +34,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 186 stars today
 
 ### 📰 Hacker News Stories
-- [Ruby2ßhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) — Score: 125
-- [What's New in PHP 8.6](https://www.php.net/releases/8.6/en.php) — Score: 41
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) — Score: 837
-- [SSD prices will start going down the second half of next year](https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html) — Score: 66
-- [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/) — Score: 39
+- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) — Score: 90
+- [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) — Score: 1401
+- [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/) — Score: 388
+- [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/) — Score: 69
+- [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it) — Score: 434
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $62,324.0 🔴 -1.23%
