@@ -4,19 +4,20 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-20 (last updated: 16:07 IST)
+
+## 📅 2026-11-20 (last updated: 06:45 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-19 16:07:45 IST | 7111b5d3c61a | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-19 07:49:15 IST | ac62865c395f | 4 assets moved, biggest mover: bitcoin |
+| Crypto | 4 | 2026-11-20 06:45:59 IST | 58a92032f4a1 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: bitcoin
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[zed-industries/zed](https://github.com/zed-industries/zed)** (Rust) — Code at the speed of thought – Zed is a high-performance, multiplayer code edito  
@@ -38,14 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [Distributed, high-performance blob storage on SQLite](https://zerodha.tech/blog/high-performance-distributed-blob-storage/) — Score: 39
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $62,771.0 🔴 -2.25%
-- Ethereum: $1,774.47 🔴 -1.33%
-- Solana: $73.4 🔴 -1.22%
-- Bnb: $580.9 🔴 -1.65%
+- Bitcoin: $62,324.0 🔴 -1.23%
+- Ethereum: $1,762.44 🔴 -1.26%
+- Solana: $73.18 🔴 -0.49%
+- Bnb: $579.63 🔴 -0.75%
 
 ---
-
-
 ## 📅 2026-11-19 (last updated: 16:07 IST)
 
 ### 🧪 Source Integrity Snapshot
