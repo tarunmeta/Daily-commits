@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-21 (last updated: 04:51 IST)
+
+## 📅 2026-11-21 (last updated: 18:09 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 18 | 2026-11-06 23:44:44 IST | c5e260459966 | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-20 23:07:17 IST | caf21c983b98 | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-21 18:09:42 IST | 91951596b2cb | +4 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-21 04:51:08 IST | d7aaf8f9102f | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +17 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 186 stars today
 
 ### 📰 Hacker News Stories
-- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) — Score: 90
-- [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) — Score: 1401
-- [I'll never buy Framework hardware again](https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/) — Score: 388
-- [Finite-time blow-up for the Navier–Stokes equations](https://github.com/tristanbuckmaster/navier-stokes/) — Score: 69
-- [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it) — Score: 434
+- [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) — Score: 74
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) — Score: 2188
+- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) — Score: 2702
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) — Score: 1087
+- [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) — Score: 57
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $58,969.0 🔴 -4.98%
