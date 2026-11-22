@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-11-23 (last updated: 05:37 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 16 | 2026-11-22 05:37:29 IST | 5aea500d3703 | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-11-22 05:37:30 IST | ca3544280fc0 | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-11-22 05:37:29 IST | fccabdff5530 | 4 assets moved, biggest mover: ethereum |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: ethereum
+
+### 🚀 Trending Repos Tracked Today
+- **[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** (Python) — A Claude Code skill bundle for bug hunting and external red-team work - 82 skill  
+  ⭐ 1,803 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 883 stars today
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** (Python) — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything  
+  ⭐ 769 stars today
+- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** (Python) — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.  
+  ⭐ 488 stars today
+- **[cursor/plugins](https://github.com/cursor/plugins)** (TypeScript) — Cursor plugin specification and official plugins  
+  ⭐ 260 stars today
+
+### 📰 Hacker News Stories
+- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) — Score: 492
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) — Score: 783
+- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) — Score: 326
+- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) — Score: 493
+- [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) — Score: 709
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $60,132.0 🟢 +2.21%
+- Ethereum: $1,682.59 🟢 +3.79%
+- Solana: $70.21 🟢 +2.07%
+- Bnb: $548.28 🟢 +1.64%
+
+---
 
 
 
