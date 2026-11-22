@@ -2,122 +2,110 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://github.com/trending",
-    "fetched_at_utc": "2026-11-06 18:14:44 UTC",
-    "fetched_at_ist": "2026-11-06 23:44:44 IST",
-    "item_count": 18,
-    "content_hash": "c5e26045996625c88354750eacce0def0260a10a7e7d166c0cd603301f447048",
-    "previous_hash": "fa79e74f3cd57f2cf3849e3fb3c9c7e394045024b2d953b9e54824f753ad1d0c",
-    "new_repos_vs_previous": 17,
+    "fetched_at_utc": "2026-11-22 00:07:29 UTC",
+    "fetched_at_ist": "2026-11-22 05:37:29 IST",
+    "item_count": 16,
+    "content_hash": "5aea500d370399aed4c33165ca0b20a912fcd9b191fb29a684bb5e950c64491e",
+    "previous_hash": "c5e26045996625c88354750eacce0def0260a10a7e7d166c0cd603301f447048",
+    "new_repos_vs_previous": 16,
     "top_repo_changed": true
   },
   "repos": [
     {
-      "name": "zed-industries/zed",
-      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "language": "Rust",
-      "stars_today": "292 stars today"
-    },
-    {
-      "name": "NVIDIA/auto-ontology",
-      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "name": "elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars_today": "2,005 stars today"
+      "stars_today": "1,803 stars today"
     },
     {
-      "name": "rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "stars_today": "152 stars today"
-    },
-    {
-      "name": "mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "language": "C",
-      "stars_today": "36 stars today"
-    },
-    {
-      "name": "rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "stars_today": "186 stars today"
-    },
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "language": "JavaScript",
-      "stars_today": "244 stars today"
-    },
-    {
-      "name": "angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
-      "language": "TypeScript",
-      "stars_today": "128 stars today"
-    },
-    {
-      "name": "symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "language": "PHP",
-      "stars_today": "89 stars today"
-    },
-    {
-      "name": "prometheus/prometheus",
-      "description": "The Prometheus monitoring system and time series database.",
-      "language": "Go",
-      "stars_today": "140 stars today"
-    },
-    {
-      "name": "google/skills",
-      "description": "Agent Skills for Google products and technologies",
-      "language": "Python",
-      "stars_today": "532 stars today"
-    },
-    {
-      "name": "microsoft/vscode",
-      "description": "Visual Studio Code",
-      "language": "TypeScript",
-      "stars_today": "295 stars today"
-    },
-    {
-      "name": "lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "language": "C",
-      "stars_today": "313 stars today"
-    },
-    {
-      "name": "nushell/nushell",
-      "description": "A new type of shell",
-      "language": "Rust",
-      "stars_today": "88 stars today"
-    },
-    {
-      "name": "etcd-io/etcd",
-      "description": "Distributed reliable key-value store for the most critical data of a distributed system",
-      "language": "Go",
-      "stars_today": "123 stars today"
-    },
-    {
-      "name": "openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "stars_today": "24 stars today"
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_today": "2,058 stars today"
+      "stars_today": "883 stars today"
     },
     {
-      "name": "cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "language": "JavaScript",
-      "stars_today": "2,524 stars today"
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars_today": "769 stars today"
     },
     {
-      "name": "astral-sh/ruff",
-      "description": "An extremely fast Python linter and code formatter, written in Rust.",
-      "language": "Rust",
-      "stars_today": "107 stars today"
+      "name": "jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "stars_today": "488 stars today"
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars_today": "260 stars today"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "language": "TypeScript",
+      "stars_today": "1,006 stars today"
+    },
+    {
+      "name": "nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "stars_today": "189 stars today"
+    },
+    {
+      "name": "openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars_today": "200 stars today"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars_today": "583 stars today"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars_today": "560 stars today"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars_today": "326 stars today"
+    },
+    {
+      "name": "mjmirza/app-store-compliance",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "language": "Shell",
+      "stars_today": "720 stars today"
+    },
+    {
+      "name": "Tracer-Cloud/opensre",
+      "description": "The open-source agent for CI/CD reliability.",
+      "language": "Python",
+      "stars_today": "450 stars today"
+    },
+    {
+      "name": "toeverything/AFFiNE",
+      "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+      "language": "TypeScript",
+      "stars_today": "574 stars today"
+    },
+    {
+      "name": "XiaoYouChR/Ghost-Downloader-3",
+      "description": "The only downloader you need. 下载器的集大成者。",
+      "language": "Python",
+      "stars_today": "779 stars today"
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "description": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "language": "Python",
+      "stars_today": "683 stars today"
     }
   ]
 }

@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-21 12:39:42 UTC",
-    "fetched_at_ist": "2026-11-21 18:09:42 IST",
+    "fetched_at_utc": "2026-11-22 00:07:30 UTC",
+    "fetched_at_ist": "2026-11-22 05:37:30 IST",
     "item_count": 5,
-    "content_hash": "91951596b2cb6dca034dfe00f9df7e496562f4200ab2b4ff50e70c15732067ee",
-    "previous_hash": "caf21c983b981ce1aead7dfb6e4a5e7e841d3a6c007895b2daa112b85895cde8",
+    "content_hash": "ca3544280fc08bc5e2ecce57b730346787fdda842ec4f189ac75a946774307c3",
+    "previous_hash": "91951596b2cb6dca034dfe00f9df7e496562f4200ab2b4ff50e70c15732067ee",
     "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50582069,
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "score": 492,
+      "comments": 123
+    },
+    {
+      "id": 50589618,
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "score": 783,
+      "comments": 618
+    },
+    {
+      "id": 50591853,
+      "title": "Inkling-2-Mini in 5.4 GB Memory",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "score": 326,
+      "comments": 87
+    },
+    {
+      "id": 50588982,
+      "title": "Detonating a pile of lead azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "score": 493,
+      "comments": 325
+    },
+    {
       "id": 50532613,
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 74,
-      "comments": 13
-    },
-    {
-      "id": 50579568,
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 2188,
-      "comments": 1028
-    },
-    {
-      "id": 50574968,
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "score": 2702,
-      "comments": 1885
-    },
-    {
-      "id": 50581260,
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 1087,
-      "comments": 202
-    },
-    {
-      "id": 50587208,
-      "title": "RCE in Gnupg",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-      "score": 57,
-      "comments": 10
+      "score": 709,
+      "comments": 227
     }
   ]
 }

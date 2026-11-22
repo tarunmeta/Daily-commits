@@ -2,26 +2,26 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-21 12:39:42 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-22 00:07:30 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
-- Top GitHub repo: **zed-industries/zed**
-- BTC: **$58,969.0** ↓ (-4.98%)
-- HN top story: **Brazil's tax authority open-sources its tax calculator on GitHub under MIT**
+- Top GitHub repo: **elementalsouls/Claude-BugHunter**
+- BTC: **$60,132.0** ↑ (+2.21%)
+- HN top story: **Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'**
 
 ## 🔐 Data Freshness and Integrity
 
 | Source | Items | Last Fetch (UTC) | Hash | Change Summary |
 | :--- | ---: | :--- | :--- | :--- |
-| GitHub Trending | 18 | 2026-11-06 18:14:44 UTC | `c5e260459966` | +17 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-21 12:39:42 UTC | `91951596b2cb` | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-20 23:21:08 UTC | `d7aaf8f9102f` | 4 assets moved, biggest mover: ethereum |
+| GitHub Trending | 16 | 2026-11-22 00:07:29 UTC | `5aea500d3703` | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-11-22 00:07:30 UTC | `ca3544280fc0` | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-11-22 00:07:29 UTC | `fccabdff5530` | 4 assets moved, biggest mover: ethereum |
 
 ## 🧭 Change Summary
 
-- GitHub: +17 new repos, top changed: yes
+- GitHub: +16 new repos, top changed: yes
 - Hacker News: +4 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
@@ -30,11 +30,11 @@
 | Metric | Value |
 | :--- | :--- |
 | Date (IST) | `2026-11-22` |
-| Commits Today | `1` / `100` |
-| Remaining Today | `99` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| Streak | `0` day(s) |
-| Last Commit (IST) | `2026-11-21 18:09:42 IST` |
+| Commits Today | `2` / `100` |
+| Remaining Today | `98` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| Streak | `106` day(s) |
+| Last Commit (IST) | `2026-11-22 01:18:21 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -48,39 +48,39 @@
 | 2026-11-19 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-20 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-21 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
-| 2026-11-22 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| 2026-11-22 | 2 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $58,969.0 | -4.98% | 🔴 |
-| Ethereum | $1,619.59 | -7.86% | 🔴 |
-| Solana | $69.19 | -5.47% | 🔴 |
-| Bnb | $539.42 | -7.21% | 🔴 |
+| Bitcoin | $60,132.0 | +2.21% | 🟢 |
+| Ethereum | $1,682.59 | +3.79% | 🟢 |
+| Solana | $70.21 | +2.07% | 🟢 |
+| Bnb | $548.28 | +1.64% | 🟢 |
 
 ## 🚀 Top Trending Repositories
 
 | Repository | Language | ⭐ Today | About |
 | :--- | :--- | ---: | :--- |
-| [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | 292 stars today | Code at the speed of thought – Zed is a high-performance, multiplayer code edito… |
-| [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | 2,005 stars today | Auto Ontology is a Python framework for building semantic, graph-based reasoning… |
-| [rails/rails](https://github.com/rails/rails) | Ruby | 152 stars today | Ruby on Rails |
-| [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | 36 stars today | 🎥 Command line media player |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | 186 stars today | Empowering everyone to build reliable and efficient software. |
-| [react/react](https://github.com/react/react) | JavaScript | 244 stars today | The library for web and native user interfaces. |
-| [angular/angular](https://github.com/angular/angular) | TypeScript | 128 stars today | Deliver web apps with confidence 🚀 |
-| [symfony/symfony](https://github.com/symfony/symfony) | PHP | 89 stars today | The Symfony PHP framework |
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | 1,803 stars today | A Claude Code skill bundle for bug hunting and external red-team work - 82 skill… |
+| [obra/superpowers](https://github.com/obra/superpowers) | Shell | 883 stars today | An agentic skills framework & software development methodology that works. |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | 769 stars today | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything… |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | 488 stars today | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
+| [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | 260 stars today | Cursor plugin specification and official plugins |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | 1,006 stars today | Knowledge infrastructure to make your agents smarter. Search, scrape and access … |
+| [nginx/nginx](https://github.com/nginx/nginx) | C | 189 stars today | The official NGINX Open Source repository. |
+| [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | 200 stars today | OpenVINO™ is an open source toolkit for optimizing and deploying AI inference |
 
 ## 📰 Top Hacker News Stories
 
 | Story | Score | 💬 |
 | :--- | ---: | ---: |
-| [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) | 74 | 13 |
-| [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) | 2188 | 1028 |
-| [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) | 2702 | 1885 |
-| [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) | 1087 | 202 |
-| [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) | 57 | 10 |
+| [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) | 492 | 123 |
+| [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) | 783 | 618 |
+| [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) | 326 | 87 |
+| [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) | 493 | 325 |
+| [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) | 709 | 227 |
 
 ---
 > This README is generated by automation scripts in `scripts/`.
