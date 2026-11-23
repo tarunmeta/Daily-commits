@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-22 00:07:30 UTC",
-    "fetched_at_ist": "2026-11-22 05:37:30 IST",
+    "fetched_at_utc": "2026-11-23 01:44:20 UTC",
+    "fetched_at_ist": "2026-11-23 07:14:20 IST",
     "item_count": 5,
-    "content_hash": "ca3544280fc08bc5e2ecce57b730346787fdda842ec4f189ac75a946774307c3",
-    "previous_hash": "91951596b2cb6dca034dfe00f9df7e496562f4200ab2b4ff50e70c15732067ee",
-    "new_story_ids_vs_previous": 4,
+    "content_hash": "c4501fd28a3a69c41dd533fc9d1f9bee258f4b2f72ad5a9ff4a9ca09cdf0e77c",
+    "previous_hash": "ca3544280fc08bc5e2ecce57b730346787fdda842ec4f189ac75a946774307c3",
+    "new_story_ids_vs_previous": 5,
     "top_story_changed": true
   },
   "stories": [
     {
-      "id": 50582069,
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "score": 492,
-      "comments": 123
+      "id": 50603845,
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "score": 216,
+      "comments": 74
     },
     {
-      "id": 50589618,
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "score": 783,
-      "comments": 618
+      "id": 50602843,
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "score": 349,
+      "comments": 156
     },
     {
-      "id": 50591853,
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "score": 326,
-      "comments": 87
+      "id": 50547698,
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "score": 96,
+      "comments": 5
     },
     {
-      "id": 50588982,
-      "title": "Detonating a pile of lead azide",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "score": 493,
-      "comments": 325
+      "id": 50605045,
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "score": 149,
+      "comments": 115
     },
     {
-      "id": 50532613,
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 709,
-      "comments": 227
+      "id": 50604988,
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "score": 78,
+      "comments": 33
     }
   ]
 }

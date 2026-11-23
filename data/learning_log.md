@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-23 (last updated: 05:37 IST)
+
+## 📅 2026-11-23 (last updated: 07:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-11-22 05:37:29 IST | 5aea500d3703 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-22 05:37:30 IST | ca3544280fc0 | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-23 07:14:20 IST | c4501fd28a3a | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-22 05:37:29 IST | fccabdff5530 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 260 stars today
 
 ### 📰 Hacker News Stories
-- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) — Score: 492
-- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) — Score: 783
-- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant) — Score: 326
-- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) — Score: 493
-- [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria) — Score: 709
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) — Score: 216
+- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) — Score: 349
+- [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) — Score: 96
+- [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3) — Score: 149
+- [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20) — Score: 78
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $60,132.0 🟢 +2.21%
@@ -44,9 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $548.28 🟢 +1.64%
 
 ---
-
-
-
 ## 📅 2026-11-22 (last updated: 05:37 IST)
 
 ### 🧪 Source Integrity Snapshot
