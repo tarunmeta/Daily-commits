@@ -2,13 +2,13 @@
 
 > Evidence-first dashboard powered by GitHub Trending, Hacker News, and CoinGecko snapshots.
 
-**Last Meaningful Data Update (UTC):** `2026-11-23 01:44:20 UTC`
+**Last Meaningful Data Update (UTC):** `2026-11-25 01:25:00 UTC`
 **Commit Policy:** `Commit only when tracked content changes`
 
 ## 📌 Today at a Glance
 
 - Top GitHub repo: **elementalsouls/Claude-BugHunter**
-- BTC: **$60,132.0** ↑ (+2.21%)
+- BTC: **$59,394.0** ↓ (-3.46%)
 - HN top story: **A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth**
 
 ## 🔐 Data Freshness and Integrity
@@ -17,24 +17,24 @@
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-11-22 00:07:29 UTC | `5aea500d3703` | +16 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-23 01:44:20 UTC | `c4501fd28a3a` | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-22 00:07:29 UTC | `fccabdff5530` | 4 assets moved, biggest mover: ethereum |
+| Crypto | 4 | 2026-11-25 01:25:00 UTC | `aa858ffa6181` | 4 assets moved, biggest mover: solana |
 
 ## 🧭 Change Summary
 
 - GitHub: +16 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: ethereum
+- Crypto: 4 assets moved, biggest mover: solana
 
 ## 🩺 Engine Health
 
 | Metric | Value |
 | :--- | :--- |
-| Date (IST) | `2026-11-24` |
-| Commits Today | `3` / `100` |
-| Remaining Today | `97` |
-| Progress | `░░░░░░░░░░░░░░░░░░░░` 3% |
-| Streak | `108` day(s) |
-| Last Commit (IST) | `2026-11-24 11:15:28 IST` |
+| Date (IST) | `2026-11-25` |
+| Commits Today | `1` / `100` |
+| Remaining Today | `99` |
+| Progress | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| Streak | `0` day(s) |
+| Last Commit (IST) | `2026-11-24 22:35:17 IST` |
 | Count Source | `git-history` |
 | Status | 🔄 `on-track` |
 
@@ -42,22 +42,22 @@
 
 | Date | Commits | Progress |
 | :--- | :--- | :--- |
-| 2026-11-18 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-19 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-20 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-21 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-22 | 4 | `░░░░░░░░░░░░░░░░░░░░` 4% |
 | 2026-11-23 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
 | 2026-11-24 | 3 | `░░░░░░░░░░░░░░░░░░░░` 3% |
+| 2026-11-25 | 1 | `░░░░░░░░░░░░░░░░░░░░` 1% |
 
 ## 💰 Crypto Snapshot
 
 | Asset | Price (USD) | 24h Change | Trend |
 | :--- | ---: | ---: | :---: |
-| Bitcoin | $60,132.0 | +2.21% | 🟢 |
-| Ethereum | $1,682.59 | +3.79% | 🟢 |
-| Solana | $70.21 | +2.07% | 🟢 |
-| Bnb | $548.28 | +1.64% | 🟢 |
+| Bitcoin | $59,394.0 | -3.46% | 🔴 |
+| Ethereum | $1,665.79 | -3.10% | 🔴 |
+| Solana | $69.41 | -4.32% | 🔴 |
+| Bnb | $544.52 | -2.95% | 🔴 |
 
 ## 🚀 Top Trending Repositories
 
