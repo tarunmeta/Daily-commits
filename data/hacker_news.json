@@ -2,49 +2,49 @@
   "meta": {
     "schema_version": 2,
     "source_url": "https://hacker-news.firebaseio.com/v0/topstories.json",
-    "fetched_at_utc": "2026-11-26 11:31:16 UTC",
-    "fetched_at_ist": "2026-11-26 17:01:16 IST",
+    "fetched_at_utc": "2026-11-26 20:32:37 UTC",
+    "fetched_at_ist": "2026-11-27 02:02:37 IST",
     "item_count": 5,
-    "content_hash": "afc10fc8ea0bdd638d15b352f507b474a2ec058f176ca8849aea498f17208753",
-    "previous_hash": "48025ce3587accebc999689ecaca71cc3f07b4cb5b5d4af5639a84000d627ac8",
-    "new_story_ids_vs_previous": 3,
+    "content_hash": "95d5fe0e64eb3bf75fdbfe4ce0db50ed98c727619edadb38b21ff0b2f4be6437",
+    "previous_hash": "afc10fc8ea0bdd638d15b352f507b474a2ec058f176ca8849aea498f17208753",
+    "new_story_ids_vs_previous": 4,
     "top_story_changed": true
   },
   "stories": [
     {
+      "id": 50657265,
+      "title": "AMD Specific Patches for Llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "score": 166,
+      "comments": 45
+    },
+    {
+      "id": 50657645,
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "score": 100,
+      "comments": 47
+    },
+    {
+      "id": 50657530,
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "score": 94,
+      "comments": 149
+    },
+    {
+      "id": 50652527,
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "score": 62,
+      "comments": 43
+    },
+    {
       "id": 50653667,
-      "title": "Intel One Mono font",
+      "title": "Intel One Mono font (2023)",
       "url": "https://github.com/intel/intel-one-mono",
-      "score": 59,
-      "comments": 29
-    },
-    {
-      "id": 50646108,
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "url": "https://scottaaronson.blog/?p=10379",
-      "score": 1609,
-      "comments": 1407
-    },
-    {
-      "id": 50653477,
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "score": 32,
-      "comments": 23
-    },
-    {
-      "id": 50644817,
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "score": 1460,
-      "comments": 633
-    },
-    {
-      "id": 50652184,
-      "title": "Moat: Your OpenRouter Replacement",
-      "url": "https://commandcode.ai/moat",
-      "score": 87,
-      "comments": 62
+      "score": 400,
+      "comments": 224
     }
   ]
 }
