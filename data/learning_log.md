@@ -5,18 +5,19 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-26 (last updated: 08:13 IST)
+
+## 📅 2026-11-26 (last updated: 17:01 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-11-22 05:37:29 IST | 5aea500d3703 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-26 08:13:44 IST | 48025ce3587a | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-26 17:01:16 IST | afc10fc8ea0b | +3 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-25 06:55:00 IST | aa858ffa6181 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +5 new stories, top changed: yes
+- Hacker News: +3 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -32,11 +33,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 260 stars today
 
 ### 📰 Hacker News Stories
-- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) — Score: 1195
-- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) — Score: 955
-- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) — Score: 299
-- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) — Score: 95
-- [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) — Score: 259
+- [Intel One Mono font](https://github.com/intel/intel-one-mono) — Score: 59
+- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) — Score: 1609
+- [Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email](https://techstackups.com/articles/google-workspace-ai-agents-mcp/) — Score: 32
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) — Score: 1460
+- [Moat: Your OpenRouter Replacement](https://commandcode.ai/moat) — Score: 87
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $59,394.0 🔴 -3.46%
