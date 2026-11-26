@@ -4,13 +4,14 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-26 (last updated: 06:55 IST)
+
+## 📅 2026-11-26 (last updated: 08:13 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-11-22 05:37:29 IST | 5aea500d3703 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-23 07:14:20 IST | c4501fd28a3a | +5 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-26 08:13:44 IST | 48025ce3587a | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-25 06:55:00 IST | aa858ffa6181 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 260 stars today
 
 ### 📰 Hacker News Stories
-- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) — Score: 216
-- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) — Score: 349
-- [Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches](https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527) — Score: 96
-- [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3) — Score: 149
-- [GL.iNet Security Notice 2026-11-20](https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20) — Score: 78
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) — Score: 1195
+- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) — Score: 955
+- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) — Score: 299
+- [Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864) — Score: 95
+- [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard) — Score: 259
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $59,394.0 🔴 -3.46%
@@ -44,7 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $544.52 🔴 -2.95%
 
 ---
-
 ## 📅 2026-11-25 (last updated: 06:55 IST)
 
 ### 🧪 Source Integrity Snapshot
