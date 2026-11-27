@@ -4,6 +4,46 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
+## 📅 2026-11-28 (last updated: 08:46 IST)
+
+### 🧪 Source Integrity Snapshot
+| Source | Items | Last Fetch (IST) | Hash | Change Signal |
+| :--- | ---: | :--- | :--- | :--- |
+| GitHub Trending | 16 | 2026-11-22 05:37:29 IST | 5aea500d3703 | +16 new repos, top changed: yes |
+| Hacker News | 5 | 2026-11-27 02:02:37 IST | 95d5fe0e64eb | +4 new stories, top changed: yes |
+| Crypto | 4 | 2026-11-27 08:46:49 IST | 6f42c39241e8 | 4 assets moved, biggest mover: solana |
+
+### 🔎 What Changed Since Previous Snapshot
+- GitHub: +16 new repos, top changed: yes
+- Hacker News: +4 new stories, top changed: yes
+- Crypto: 4 assets moved, biggest mover: solana
+
+### 🚀 Trending Repos Tracked Today
+- **[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** (Python) — A Claude Code skill bundle for bug hunting and external red-team work - 82 skill  
+  ⭐ 1,803 stars today
+- **[obra/superpowers](https://github.com/obra/superpowers)** (Shell) — An agentic skills framework & software development methodology that works.  
+  ⭐ 883 stars today
+- **[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)** (Python) — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything  
+  ⭐ 769 stars today
+- **[jingyaogong/minimind](https://github.com/jingyaogong/minimind)** (Python) — 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.  
+  ⭐ 488 stars today
+- **[cursor/plugins](https://github.com/cursor/plugins)** (TypeScript) — Cursor plugin specification and official plugins  
+  ⭐ 260 stars today
+
+### 📰 Hacker News Stories
+- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp) — Score: 166
+- [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) — Score: 100
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) — Score: 94
+- [OpenAI may be in cost control mode](https://micjm.com/blog/openai-is-in-cost-control-mode/) — Score: 62
+- [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) — Score: 400
+
+### 💰 Crypto at Time of Update
+- Bitcoin: $61,495.0 🟢 +1.32%
+- Ethereum: $1,727.87 🟢 +1.81%
+- Solana: $72.82 🟢 +2.28%
+- Bnb: $562.67 🟢 +0.78%
+
+---
 
 
 ## 📅 2026-11-27 (last updated: 08:46 IST)
