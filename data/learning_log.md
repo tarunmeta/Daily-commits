@@ -4,14 +4,15 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-27 (last updated: 02:02 IST)
+
+## 📅 2026-11-27 (last updated: 08:46 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-11-22 05:37:29 IST | 5aea500d3703 | +16 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-27 02:02:37 IST | 95d5fe0e64eb | +4 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-25 06:55:00 IST | aa858ffa6181 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-11-27 08:46:49 IST | 6f42c39241e8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
@@ -38,14 +39,12 @@ This log tracks what I explored each day through the intelligence engine.
 - [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) — Score: 400
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $59,394.0 🔴 -3.46%
-- Ethereum: $1,665.79 🔴 -3.10%
-- Solana: $69.41 🔴 -4.32%
-- Bnb: $544.52 🔴 -2.95%
+- Bitcoin: $61,495.0 🟢 +1.32%
+- Ethereum: $1,727.87 🟢 +1.81%
+- Solana: $72.82 🟢 +2.28%
+- Bnb: $562.67 🟢 +0.78%
 
 ---
-
-
 ## 📅 2026-11-26 (last updated: 17:01 IST)
 
 ### 🧪 Source Integrity Snapshot
