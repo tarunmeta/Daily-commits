@@ -5,19 +5,20 @@ This log tracks what I explored each day through the intelligence engine.
 ---
 
 
-## 📅 2026-11-28 (last updated: 09:14 IST)
+
+## 📅 2026-11-28 (last updated: 17:57 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-11-22 05:37:29 IST | 5aea500d3703 | +16 new repos, top changed: yes |
 | Hacker News | 5 | 2026-11-28 09:14:54 IST | 681bbfe3e870 | +5 new stories, top changed: yes |
-| Crypto | 4 | 2026-11-27 08:46:49 IST | 6f42c39241e8 | 4 assets moved, biggest mover: solana |
+| Crypto | 4 | 2026-11-28 17:57:04 IST | 31a40ba8f9b5 | 4 assets moved, biggest mover: ethereum |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
 - Hacker News: +5 new stories, top changed: yes
-- Crypto: 4 assets moved, biggest mover: solana
+- Crypto: 4 assets moved, biggest mover: ethereum
 
 ### 🚀 Trending Repos Tracked Today
 - **[elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** (Python) — A Claude Code skill bundle for bug hunting and external red-team work - 82 skill  
@@ -39,10 +40,10 @@ This log tracks what I explored each day through the intelligence engine.
 - [Cyberpunk Television Shows](https://shellzine.net/cyberpunk-television/) — Score: 43
 
 ### 💰 Crypto at Time of Update
-- Bitcoin: $61,495.0 🟢 +1.32%
-- Ethereum: $1,727.87 🟢 +1.81%
-- Solana: $72.82 🟢 +2.28%
-- Bnb: $562.67 🟢 +0.78%
+- Bitcoin: $59,232.0 🔴 -3.77%
+- Ethereum: $1,649.51 🔴 -4.09%
+- Solana: $70.89 🔴 -2.95%
+- Bnb: $549.32 🔴 -2.51%
 
 ---
 ## 📅 2026-11-27 (last updated: 08:46 IST)
