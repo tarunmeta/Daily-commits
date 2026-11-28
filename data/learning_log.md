@@ -4,18 +4,19 @@ This log tracks what I explored each day through the intelligence engine.
 
 ---
 
-## 📅 2026-11-28 (last updated: 08:46 IST)
+
+## 📅 2026-11-28 (last updated: 09:14 IST)
 
 ### 🧪 Source Integrity Snapshot
 | Source | Items | Last Fetch (IST) | Hash | Change Signal |
 | :--- | ---: | :--- | :--- | :--- |
 | GitHub Trending | 16 | 2026-11-22 05:37:29 IST | 5aea500d3703 | +16 new repos, top changed: yes |
-| Hacker News | 5 | 2026-11-27 02:02:37 IST | 95d5fe0e64eb | +4 new stories, top changed: yes |
+| Hacker News | 5 | 2026-11-28 09:14:54 IST | 681bbfe3e870 | +5 new stories, top changed: yes |
 | Crypto | 4 | 2026-11-27 08:46:49 IST | 6f42c39241e8 | 4 assets moved, biggest mover: solana |
 
 ### 🔎 What Changed Since Previous Snapshot
 - GitHub: +16 new repos, top changed: yes
-- Hacker News: +4 new stories, top changed: yes
+- Hacker News: +5 new stories, top changed: yes
 - Crypto: 4 assets moved, biggest mover: solana
 
 ### 🚀 Trending Repos Tracked Today
@@ -31,11 +32,11 @@ This log tracks what I explored each day through the intelligence engine.
   ⭐ 260 stars today
 
 ### 📰 Hacker News Stories
-- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp) — Score: 166
-- [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/) — Score: 100
-- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher) — Score: 94
-- [OpenAI may be in cost control mode](https://micjm.com/blog/openai-is-in-cost-control-mode/) — Score: 62
-- [Intel One Mono font (2023)](https://github.com/intel/intel-one-mono) — Score: 400
+- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/) — Score: 183
+- [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/) — Score: 101
+- [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical) — Score: 358
+- [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh) — Score: 125
+- [Cyberpunk Television Shows](https://shellzine.net/cyberpunk-television/) — Score: 43
 
 ### 💰 Crypto at Time of Update
 - Bitcoin: $61,495.0 🟢 +1.32%
@@ -44,8 +45,6 @@ This log tracks what I explored each day through the intelligence engine.
 - Bnb: $562.67 🟢 +0.78%
 
 ---
-
-
 ## 📅 2026-11-27 (last updated: 08:46 IST)
 
 ### 🧪 Source Integrity Snapshot
